@@ -1,0 +1,26 @@
+{
+  "id": "kvnkld__ai-agent-input",
+  "author": "kvnkld",
+  "slug": "ai-agent-input",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@kvnkld/components/ai-agent-input",
+  "fetchedAt": "2026-08-29T05:20:47.642Z",
+  "completedAt": "2026-08-29T05:20:50.421Z",
+  "versionedFilename": "code.1785549206103-42bde365-2942-465f-9ad7-4e676c544d96.tsx",
+  "codeReference": "r2://components-code-private/kvnkld/ai-agent-input/code.1785549206103-42bde365-2942-465f-9ad7-4e676c544d96.tsx",
+  "codeUrl": "https://cdn.21st.dev/kvnkld/ai-agent-input/code.1785549206103-42bde365-2942-465f-9ad7-4e676c544d96.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

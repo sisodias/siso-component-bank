@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "jatin-yadav05-animated-geometric-card",
+  "type": "registry:ui",
+  "title": "Jatin Yadav05 Animated Geometric Card",
+  "description": "Installed from https://21st.dev/r/jatin-yadav05/animated-geometric-card",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "jatin-yadav05-animated-geometric-card"
+  ],
+  "files": [
+    {
+      "path": "animated-geometric-card.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "clsx",
+    "tailwind-merge"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/jatin-yadav05/animated-geometric-card",
+    "fetchedAt": "2026-04-23T02:29:03.217Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

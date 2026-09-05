@@ -1,0 +1,26 @@
+{
+  "id": "theutkarshmail__heartbeat-loader",
+  "author": "theutkarshmail",
+  "slug": "heartbeat-loader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theutkarshmail/components/heartbeat-loader",
+  "fetchedAt": "2026-08-29T07:36:51.001Z",
+  "completedAt": "2026-08-29T07:36:53.027Z",
+  "versionedFilename": "code.1755117352604.tsx",
+  "codeReference": "r2://components-code-private/theutkarshmail/heartbeat-loader/code.1755117352604.tsx",
+  "codeUrl": "https://cdn.21st.dev/theutkarshmail/heartbeat-loader/code.1755117352604.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 639,
+  "sha256": "31134766d1b4c9c21829b4f2e0c4321c8c5b36946262fb7e35ce43c1d00d7499",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

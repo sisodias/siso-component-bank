@@ -1,0 +1,26 @@
+{
+  "id": "itsankitverma__solar-system",
+  "author": "itsankitverma",
+  "slug": "solar-system",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@itsankitverma/components/solar-system",
+  "fetchedAt": "2026-08-29T05:04:29.541Z",
+  "completedAt": "2026-08-29T05:04:31.918Z",
+  "versionedFilename": "code.1755876850385.tsx",
+  "codeReference": "r2://components-code-private/itsankitverma/solar-system/code.1755876850385.tsx",
+  "codeUrl": "https://cdn.21st.dev/itsankitverma/solar-system/code.1755876850385.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 11720,
+  "sha256": "69c9532e658b522133a7e3b51b269b809ff2574a8995fa0fbd9b671d07562e70",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,32 @@
+{
+  "category": [
+    "form"
+  ],
+  "subcategory": "waitlist-signup",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Collect email addresses from users interested in early access to products or features",
+    "Build a waitlist of potential customers before a product launch",
+    "Generate leads for upcoming SaaS offerings or services",
+    "Capture user interest with a simple, animated signup form",
+    "Display dual light/dark mode variants based on context"
+  ],
+  "ai_summary": "A minimalist waitlist signup form with scroll-triggered animations using Framer Motion and Intersection Observer. Supports light and dark modes, validates email input, and shows a success state after submission. The component features staggered entrance animations for the heading, description, and form elements, making it visually engaging while maintaining simplicity. Ideal for capturing early interest and building an email list before product launches.",
+  "_classifiedAt": "2026-04-23T11:31:27.969Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

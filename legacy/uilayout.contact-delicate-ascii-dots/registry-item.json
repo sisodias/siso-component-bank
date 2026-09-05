@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "uilayout.contact-delicate-ascii-dots",
+  "type": "registry:ui",
+  "title": "Uilayout.Contact Delicate Ascii Dots",
+  "description": "Installed from https://21st.dev/r/uilayout.contact/delicate-ascii-dots",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "uilayout.contact-delicate-ascii-dots"
+  ],
+  "files": [
+    {
+      "path": "delicate-ascii-dots.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/uilayout.contact/delicate-ascii-dots",
+    "fetchedAt": "2026-04-23T03:02:19.339Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

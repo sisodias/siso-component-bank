@@ -1,0 +1,26 @@
+{
+  "id": "ravikatiyar162__sign-in",
+  "author": "ravikatiyar162",
+  "slug": "sign-in",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ravikatiyar162/components/sign-in",
+  "fetchedAt": "2026-08-29T06:29:46.212Z",
+  "completedAt": "2026-08-29T06:29:48.510Z",
+  "versionedFilename": "code.1753208748548.tsx",
+  "codeReference": "r2://components-code-private/ravikatiyar162/sign-in/code.1753208748548.tsx",
+  "codeUrl": "https://cdn.21st.dev/ravikatiyar162/sign-in/code.1753208748548.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5917,
+  "sha256": "fd4ffdf8f53c6431d3c59cde6c678a57ce025bff97356da5dd8ff74eb51a369c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

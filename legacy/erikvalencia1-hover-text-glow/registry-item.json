@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "erikvalencia1-hover-text-glow",
+  "type": "registry:ui",
+  "title": "Erikvalencia1 Hover Text Glow",
+  "description": "Installed from https://21st.dev/r/erikvalencia1/hover-text-glow",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "erikvalencia1-hover-text-glow"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "hover-text-glow.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/erikvalencia1/hover-text-glow",
+    "fetchedAt": "2026-04-22T06:44:56.811Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

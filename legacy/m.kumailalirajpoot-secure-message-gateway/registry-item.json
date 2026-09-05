@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "m.kumailalirajpoot-secure-message-gateway",
+  "type": "registry:ui",
+  "title": "M.Kumailalirajpoot Secure Message Gateway",
+  "description": "Installed from https://21st.dev/r/m.kumailalirajpoot/secure-message-gateway",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "m.kumailalirajpoot-secure-message-gateway"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "secure-message-gateway.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/m.kumailalirajpoot/secure-message-gateway",
+    "fetchedAt": "2026-04-22T06:32:22.911Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

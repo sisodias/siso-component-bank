@@ -1,0 +1,40 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "checkbox-boolean-selector",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "fintech",
+    "healthcare",
+    "education",
+    "real-estate",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Boolean form inputs for terms acceptance and agreements",
+    "Filter and category selection in search interfaces",
+    "Feature toggles and settings panels",
+    "Multi-select list items in task management",
+    "Cart item selection for e-commerce checkouts"
+  ],
+  "ai_summary": "An accessible checkbox component built on Radix UI primitives with Tailwind CSS styling. Features proper focus-visible rings, disabled states, and checked/unchecked visual states with a checkmark indicator from Lucide icons. Designed as a reusable atomic form element suitable for any web application requiring boolean input controls.",
+  "_classifiedAt": "2026-04-23T11:31:41.900Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

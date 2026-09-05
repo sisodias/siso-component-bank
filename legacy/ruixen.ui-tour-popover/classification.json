@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in SaaS dashboards and web applications",
+    "Form submission and action triggers in fintech and e-commerce platforms",
+    "Navigation and interaction controls in developer tooling interfaces",
+    "Accessible button components supporting keyboard navigation and screen readers",
+    "Composable button primitives for building complex UI components like tour popovers"
+  ],
+  "ai_summary": "A reusable Button component with multiple style variants (default, destructive, outline, secondary, ghost, link) and size options. Built with class-variance-authority for consistent styling, Radix UI Slot for composition, and Tailwind CSS for styling. Features disabled states, focus-visible outlines, and subtle shadow effects. Part of the Ruixen.Ui design system, commonly used as the interactive element within tour popover overlays to guide users through product onboarding flows.",
+  "_classifiedAt": "2026-04-22T09:13:31.611Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

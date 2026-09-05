@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "multiselect-combobox",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting multiple items from a searchable dropdown list with keyboard navigation support",
+    "Building command palettes for quick action access in productivity applications",
+    "Filtering and selecting tags or categories in content management systems",
+    "Implementing searchable user or contact selection in forms",
+    "Creating product variant or attribute selectors in e-commerce interfaces"
+  ],
+  "ai_summary": "A searchable multiselect component built on Radix UI Dialog and cmdk primitives, featuring a command palette pattern with keyboard navigation. Combines a search input with selectable list items, styled with Tailwind CSS for a clean, minimal appearance suitable for forms and filtering interfaces.",
+  "_classifiedAt": "2026-04-23T17:04:32.478Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

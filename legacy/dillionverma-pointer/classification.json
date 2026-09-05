@@ -1,0 +1,34 @@
+{
+  "category": [
+    "other"
+  ],
+  "subcategory": "custom-cursor",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "media",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Add a custom animated cursor to portfolio or creative websites for enhanced visual appeal",
+    "Replace default browser cursor with a styled pointer for branding purposes",
+    "Create interactive hover effects with custom cursor rendering in creative tools",
+    "Build premium-feeling UI experiences with custom cursor tracking"
+  ],
+  "ai_summary": "A custom pointer component that creates an animated cursor effect on hover. Uses motion/react for smooth animations and tracks mouse position to render a custom cursor. The component adds cursor-none to the parent element and displays an animated pointer when the user hovers, making it ideal for creative portfolios, SaaS products, and developer tools seeking a polished, interactive feel.",
+  "_classifiedAt": "2026-04-23T16:35:53.085Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

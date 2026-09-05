@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Submitting forms with primary or destructive actions",
+    "Triggering UI actions like modals, dropdowns, or sidebars",
+    "Navigation buttons with link styling",
+    "Icon-only buttons for compact toolbar interfaces",
+    "Alternative actions with ghost or outline styling"
+  ],
+  "ai_summary": "A reusable button component with comprehensive variant and size options, built on Radix UI Slot for composition flexibility. Part of the shadcn/ui design system with Tailwind CSS styling, supporting default, destructive, outline, secondary, ghost, and link variants along with small, default, large, and icon sizes. Designed as an atomic building block for any React application needing accessible, themeable button interfaces.",
+  "_classifiedAt": "2026-04-22T09:15:34.289Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

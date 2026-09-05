@@ -1,0 +1,27 @@
+{
+  "category": "media",
+  "subcategory": "particle-canvas-effect",
+  "visual_style": [],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Add dynamic particle trail effects following the cursor for interactive web experiences",
+    "Enhance landing pages with playful mouse-following visual feedback",
+    "Create engaging particle animations for creative portfolios or portfolio showcases",
+    "Add visual polish to marketing sites with cursor-triggered effects",
+    "Implement interactive decorations for software product demos"
+  ],
+  "ai_summary": "A lightweight React canvas component that renders colorful particle effects following the mouse cursor. Particles spawn on mouse movement, animate with physics-based velocity decay, and fade out naturally. Supports light and dark themes with distinct color palettes. Ideal for adding playful interactive elements to web applications, marketing sites, or creative projects where cursor-triggered visual feedback enhances user engagement.",
+  "_classifiedAt": "2026-04-22T09:12:51.165Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

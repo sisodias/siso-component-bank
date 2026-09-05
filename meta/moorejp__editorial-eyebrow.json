@@ -1,0 +1,18 @@
+{
+  "url": "https://21st.dev/@moorejp/components/editorial-eyebrow",
+  "author": "moorejp",
+  "slug": "editorial-eyebrow",
+  "name": "editorial-eyebrow",
+  "description": "Editorial-style section opener: a short colored rule + uppercase label above a Playfair Display headline. Exports EditorialEyebrow (standalone) and EditorialSection (eyebrow + headline wrapper). Used to establish visual rhythm on landing pages and section headers.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/moorejp/editorial-eyebrow?api_key=$API_KEY_21ST\"",
+  "id": "moorejp__editorial-eyebrow",
+  "bundleUrl": "https://cdn.21st.dev/moorejp/editorial-eyebrow/default/bundle.1782777070018.html",
+  "previewUrl": null,
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "preview": "preview.png",
+  "previewVia": "ogCard"
+}

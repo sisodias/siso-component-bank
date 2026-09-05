@@ -1,0 +1,27 @@
+{
+  "category": "card",
+  "subcategory": "promotional-offer",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying promotional offers and deals on e-commerce product pages",
+    "Highlighting marketing campaigns with animated hover effects",
+    "Showcasing discount cards with image and text content",
+    "Creating interactive offer sections in landing pages"
+  ],
+  "ai_summary": "A promotional offer card component with image display, hover animations, and link overlay functionality. Features smooth scale and shadow transitions on hover, supporting variants for default and faded styles. Built with shadcn/ui styling conventions using class-variance-authority for flexible theming.",
+  "_classifiedAt": "2026-04-23T01:42:56.711Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

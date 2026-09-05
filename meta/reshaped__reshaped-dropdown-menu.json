@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@reshaped/components/reshaped-dropdown-menu",
+  "author": "reshaped",
+  "slug": "reshaped-dropdown-menu",
+  "name": "reshaped-dropdown-menu",
+  "description": "Compound components for any menu composition: a Trigger that passes required attributes to your component, an overlaying Content with menu items based on MenuItem, item Sections, and nested SubMenus with automatic focus trapping. Supports Popover positioning with viewport-aware fallbacks.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/reshaped/reshaped-dropdown-menu?api_key=$API_KEY_21ST\"",
+  "id": "reshaped__reshaped-dropdown-menu",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/reshaped-dropdown-menu/default/bundle.1783429245829.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/reshaped-dropdown-menu/default/preview.1783429245829.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

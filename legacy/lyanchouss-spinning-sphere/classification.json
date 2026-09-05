@@ -1,0 +1,33 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "svg-path-morph-animation",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Creating spinning or morphing sphere animations by animating SVG path data",
+    "Building animated decorative elements for hero sections or landing pages",
+    "Generating fluid shape transformations with customizable duration and easing",
+    "Adding subtle animated visuals without heavy dependencies"
+  ],
+  "ai_summary": "A lightweight SVG animation primitive that morphs between path definitions using the native SVG animate element. Accepts custom frame values as semicolon-separated path data, enabling spinning sphere and organic shape transition effects. Supports configurable duration, colors, and infinite looping for fluid visual displays.",
+  "_classifiedAt": "2026-04-23T01:43:17.652Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

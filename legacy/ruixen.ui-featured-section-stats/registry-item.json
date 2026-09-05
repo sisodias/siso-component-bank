@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ruixen.ui-featured-section-stats",
+  "type": "registry:ui",
+  "title": "Ruixen.Ui Featured Section Stats",
+  "description": "Installed from https://21st.dev/r/ruixen.ui/featured-section-stats",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ruixen.ui-featured-section-stats"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "featured-section-stats.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "recharts"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ruixen.ui/featured-section-stats",
+    "fetchedAt": "2026-04-23T02:28:58.841Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

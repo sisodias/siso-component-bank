@@ -1,0 +1,30 @@
+{
+  "category": "feedback",
+  "subcategory": "loading-spinner",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "creator-tools",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Loading state indicator for async operations and data fetching",
+    "Page transition feedback during navigation",
+    "Button loading state for form submissions",
+    "Skeleton placeholder during content loading",
+    "Process completion indicators for background tasks"
+  ],
+  "ai_summary": "A minimalist dual-element loading spinner that creates a smooth rotating animation effect using CSS inset shadows. The component features two offset concentric rings that cycle in opposite phases, producing a continuous mesmerizing motion. Designed with clean shadows and dark mode support, making it a versatile loading indicator for any interface.",
+  "_classifiedAt": "2026-04-23T17:35:08.321Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

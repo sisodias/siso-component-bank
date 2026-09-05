@@ -1,0 +1,48 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "airbnb-radial-lines",
+  "type": "registry:ui",
+  "title": "Airbnb Radial Lines",
+  "description": "Installed from https://21st.dev/r/airbnb/radial-lines",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "airbnb-radial-lines"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "radial-lines.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@react-spring/web",
+    "@visx/axis",
+    "@visx/curve",
+    "@visx/gradient",
+    "@visx/grid",
+    "@visx/group",
+    "@visx/mock-data",
+    "@visx/scale",
+    "@visx/shape"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/airbnb/radial-lines",
+    "fetchedAt": "2026-04-23T03:04:41.955Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

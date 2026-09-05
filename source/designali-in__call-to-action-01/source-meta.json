@@ -1,0 +1,26 @@
+{
+  "id": "designali-in__call-to-action-01",
+  "author": "designali-in",
+  "slug": "call-to-action-01",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/call-to-action-01",
+  "fetchedAt": "2026-08-29T04:17:23.990Z",
+  "completedAt": "2026-08-29T04:17:25.908Z",
+  "versionedFilename": "code.1760505397684.tsx",
+  "codeReference": "r2://components-code-private/designali-in/call-to-action-01/code.1760505397684.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/call-to-action-01/code.1760505397684.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4644,
+  "sha256": "07ad854a4f0f5e841fa1e5f88c078d77fa8387b1c88295ceead3f37b688f7809",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

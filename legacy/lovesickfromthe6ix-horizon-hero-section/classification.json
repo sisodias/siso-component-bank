@@ -1,0 +1,33 @@
+{
+  "category": [
+    "hero"
+  ],
+  "subcategory": "3d-scrolling-hero",
+  "visual_style": [
+    "3d",
+    "dark"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "media",
+    "creator-tools",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing pages for creative portfolios and artist showcases requiring immersive 3D visuals",
+    "Music and entertainment websites seeking cinematic hero experiences",
+    "SaaS landing pages that demand memorable first impressions through animation",
+    "Portfolio sites for photographers, designers, and digital artists",
+    "Brand experiences requiring atmospheric scroll-driven storytelling"
+  ],
+  "ai_summary": "An immersive 3D hero section leveraging Three.js with scroll-triggered camera animations, particle star fields, and atmospheric fog effects. Features smooth GSAP-powered transitions between content sections with bloom post-processing for cinematic visual appeal.",
+  "_classifiedAt": "2026-04-23T16:53:11.070Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "dhileepkumargm-modern-feature-grid",
+  "type": "registry:ui",
+  "title": "Dhileepkumargm Modern Feature Grid",
+  "description": "Installed from https://21st.dev/r/dhileepkumargm/modern-feature-grid",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "dhileepkumargm-modern-feature-grid"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "modern-feature-grid.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "clsx",
+    "prop-types",
+    "tailwind-merge"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/dhileepkumargm/modern-feature-grid",
+    "fetchedAt": "2026-04-23T01:18:02.085Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

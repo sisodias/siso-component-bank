@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@tool-ui/components/citation",
+  "author": "tool-ui",
+  "slug": "citation",
+  "name": "citation",
+  "description": "Displays a source reference card with title, domain, favicon, author, and text snippet for citing external sources, with default, inline, and stacked list variants.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/tool-ui/citation?api_key=$API_KEY_21ST\"",
+  "id": "tool-ui__citation",
+  "bundleUrl": "https://cdn.21st.dev/tool-ui/citation/default/bundle.1783718754552.html",
+  "previewUrl": "https://cdn.21st.dev/tool-ui/citation/default/preview.1783718754552.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

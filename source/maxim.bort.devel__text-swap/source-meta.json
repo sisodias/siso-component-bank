@@ -1,0 +1,26 @@
+{
+  "id": "maxim.bort.devel__text-swap",
+  "author": "maxim.bort.devel",
+  "slug": "text-swap",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@maxim.bort.devel/components/text-swap",
+  "fetchedAt": "2026-08-29T05:39:16.071Z",
+  "completedAt": "2026-08-29T05:39:18.161Z",
+  "versionedFilename": "code.1754493925038.tsx",
+  "codeReference": "r2://components-code-private/maxim.bort.devel/text-swap/code.1754493925038.tsx",
+  "codeUrl": "https://cdn.21st.dev/maxim.bort.devel/text-swap/code.1754493925038.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 12956,
+  "sha256": "64c97e85861c2fb9fd911a1a7966977b1223064d2ce47deec753e21bdf69a43c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

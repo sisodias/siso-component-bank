@@ -1,0 +1,50 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "larsen66-interfaces-field",
+  "type": "registry:ui",
+  "title": "Larsen66 Interfaces Field",
+  "description": "Installed from https://21st.dev/r/larsen66/interfaces-field",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "larsen66-interfaces-field"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "interfaces-field.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "label.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "separator.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-label",
+    "@radix-ui/react-separator",
+    "class-variance-authority"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/larsen66/interfaces-field",
+    "fetchedAt": "2026-04-22T06:31:42.934Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

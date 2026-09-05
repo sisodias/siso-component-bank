@@ -1,0 +1,26 @@
+{
+  "id": "beratberkayg__hero-1",
+  "author": "beratberkayg",
+  "slug": "hero-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@beratberkayg/components/hero-1",
+  "fetchedAt": "2026-08-29T03:49:17.578Z",
+  "completedAt": "2026-08-29T03:49:19.829Z",
+  "versionedFilename": "code.1755885747093.tsx",
+  "codeReference": "r2://components-code-private/beratberkayg/hero-1/code.1755885747093.tsx",
+  "codeUrl": "https://cdn.21st.dev/beratberkayg/hero-1/code.1755885747093.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3494,
+  "sha256": "080fb23eeb4d95235ac4b0ed6050e4ad0d50b12b93f2b9a39f142f8ea8ffdcf5",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

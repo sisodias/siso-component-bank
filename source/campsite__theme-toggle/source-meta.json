@@ -1,0 +1,26 @@
+{
+  "id": "campsite__theme-toggle",
+  "author": "campsite",
+  "slug": "theme-toggle",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@campsite/components/theme-toggle",
+  "fetchedAt": "2026-08-29T03:53:03.938Z",
+  "completedAt": "2026-08-29T03:53:06.134Z",
+  "versionedFilename": "code.1737731967175.tsx",
+  "codeReference": "r2://components-code-private/user_campsite/theme-toggle/code.1737731967175.tsx",
+  "codeUrl": "https://cdn.21st.dev/user_campsite/theme-toggle/code.1737731967175.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4986,
+  "sha256": "c61bdde94685bd8b1c4d7938bca15b2481db8ec9652ededdeaff3cb0b75bd0ca",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

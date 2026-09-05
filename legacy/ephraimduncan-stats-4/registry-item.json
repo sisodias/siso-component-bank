@@ -1,0 +1,43 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ephraimduncan-stats-4",
+  "type": "registry:ui",
+  "title": "Ephraimduncan Stats 4",
+  "description": "Installed from https://21st.dev/r/ephraimduncan/stats-4",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ephraimduncan-stats-4"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "stats-4.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "clsx",
+    "lucide-react",
+    "recharts",
+    "tailwind-merge"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ephraimduncan/stats-4",
+    "fetchedAt": "2026-04-23T03:04:43.582Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

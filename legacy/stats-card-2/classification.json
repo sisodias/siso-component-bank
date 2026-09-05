@@ -1,0 +1,33 @@
+{
+  "category": "card",
+  "subcategory": "crypto-market-stats",
+  "visual_style": [
+    "gradient",
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying cryptocurrency market statistics including total market cap and change percentage on trading dashboards",
+    "Visualizing market trends through animated sparkline charts showing historical price movements",
+    "Tracking Bitcoin and altcoin dominance with visual progress bars",
+    "Showing top cryptocurrency prices with real-time change indicators",
+    "Building crypto analytics and portfolio tracking interfaces"
+  ],
+  "ai_summary": "A comprehensive cryptocurrency dashboard card component that displays market statistics including total market cap, animated sparkline charts for trend visualization, Bitcoin dominance metrics with visual progress bars, and a ranked list of top coins with pricing and change indicators. Uses framer-motion for smooth animations and follows a modern gradient/flat design aesthetic suitable for fintech and crypto trading platforms.",
+  "_classifiedAt": "2026-04-22T09:17:42.110Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

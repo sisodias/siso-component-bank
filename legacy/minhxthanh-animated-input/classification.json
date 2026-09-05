@@ -1,0 +1,28 @@
+{
+  "category": "input",
+  "subcategory": "typewriter-placeholder-input",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "AI assistant or chatbot input fields with animated prompts",
+    "Search interfaces with cycling placeholder messages",
+    "Conversational UI input with engaging micro-interactions",
+    "Onboarding flows with animated guidance text",
+    "Creative or media platforms with distinctive input styling"
+  ],
+  "ai_summary": "An animated input component featuring typewriter-style placeholder text that cycles through predefined prompts character by character. Built with React hooks (useState, useEffect, useRef), it manages an idle animation cycle that types out messages, pauses, then advances to the next placeholder. Includes focus state management and cleanup for React StrictMode compatibility. Perfect for AI assistants, chatbots, or any conversational interface where animated placeholder text enhances the user experience with engaging micro-interactions.",
+  "_classifiedAt": "2026-04-23T16:58:06.625Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

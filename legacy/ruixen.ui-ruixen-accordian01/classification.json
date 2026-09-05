@@ -1,0 +1,33 @@
+{
+  "category": "data-display",
+  "subcategory": "accordion-faq",
+  "visual_style": [
+    "glass-morphism",
+    "dark",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "FAQ sections on product or documentation pages",
+    "Collapsible content panels for settings or preferences",
+    "Organizing frequently asked questions in help centers",
+    "Step-by-step guides with expandable instructions",
+    "Privacy policy or terms sections with click-to-expand items"
+  ],
+  "ai_summary": "A glass-morphism styled accordion component featuring smooth Framer Motion animations, icon-enhanced FAQ items, and dark mode support. The component renders a collapsible list of questions with expandable answers, using backdrop blur effects and semi-transparent backgrounds for a modern, frosted glass aesthetic. Includes keyboard navigation and WAI-ARIA accessibility support.",
+  "_classifiedAt": "2026-04-23T17:19:54.513Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

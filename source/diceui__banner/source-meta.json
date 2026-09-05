@@ -1,0 +1,26 @@
+{
+  "id": "diceui__banner",
+  "author": "diceui",
+  "slug": "banner",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@diceui/components/banner",
+  "fetchedAt": "2026-08-29T04:34:23.988Z",
+  "completedAt": "2026-08-29T04:34:25.906Z",
+  "versionedFilename": "code.1784735657341-a28bb400-862d-4da1-bc0d-e11e2bd6e9de.tsx",
+  "codeReference": "r2://components-code-private/diceui/banner/code.1784735657341-a28bb400-862d-4da1-bc0d-e11e2bd6e9de.tsx",
+  "codeUrl": "https://cdn.21st.dev/diceui/banner/code.1784735657341-a28bb400-862d-4da1-bc0d-e11e2bd6e9de.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

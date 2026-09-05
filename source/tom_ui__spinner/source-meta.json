@@ -1,0 +1,26 @@
+{
+  "id": "tom_ui__spinner",
+  "author": "tom_ui",
+  "slug": "spinner",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@tom_ui/components/spinner",
+  "fetchedAt": "2026-08-29T07:39:00.201Z",
+  "completedAt": "2026-08-29T07:39:02.435Z",
+  "versionedFilename": "code.1773097961305.tsx",
+  "codeReference": "r2://components-code-private/larsen66/spinner/code.1773097961305.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/spinner/code.1773097961305.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2958,
+  "sha256": "dbe9efc838d9e68068de4fff36b17a58697c24d505670f8fa4448223cfbf46f8",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

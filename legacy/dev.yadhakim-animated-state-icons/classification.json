@@ -1,0 +1,27 @@
+{
+  "category": "feedback",
+  "subcategory": "animated-state-indicator",
+  "visual_style": [],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Visual feedback for completed actions like form submissions or API calls",
+    "Loading-to-success state transitions in dashboards and workflows",
+    "Menu toggle animations for mobile and desktop navigation",
+    "Status indication in real-time data processing UIs",
+    "User action confirmation in transactional interfaces"
+  ],
+  "ai_summary": "Animated state icon components that morph between visual states, including a loading spinner transforming into a success checkmark and a hamburger menu icon transitioning to a close X. Built with Framer Motion for smooth morph animations with configurable size, color, duration, and auto-toggle intervals. Perfect for providing clear visual feedback on state changes in SaaS applications and developer tools.",
+  "_classifiedAt": "2026-04-22T08:57:10.235Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,25 @@
+{
+  "category": "data-display",
+  "subcategory": "tag-pill",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying filter tags in SaaS dashboards for data filtering",
+    "Showing status badges or labels on cards and list items",
+    "Representing removable categories or topics in content management",
+    "Indicating selection states in multi-select interfaces",
+    "Adding metadata labels with icons to indicate content type or priority"
+  ],
+  "ai_summary": "A versatile chip/tag component with multiple visual variants (default, secondary, destructive, outline, ghost), three size options, and optional icon support. Features left/right icon positioning and dismissible functionality for interactive tag-based interfaces. Built with CVA for variant composition, this atomic component is commonly used in filtering systems, status indicators, and categorization UI patterns across SaaS and content management applications.",
+  "_classifiedAt": "2026-04-23T17:07:24.695Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

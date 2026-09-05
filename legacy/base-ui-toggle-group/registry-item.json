@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "base-ui-toggle-group",
+  "type": "registry:ui",
+  "title": "Base Ui Toggle Group",
+  "description": "Installed from https://21st.dev/r/base-ui/toggle-group",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "base-ui-toggle-group"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "toggle-group.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@base-ui-components/react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "imports @base-ui-components/react/<subpath> (not exported)"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/base-ui/toggle-group",
+    "fetchedAt": "2026-04-23T03:02:18.788Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

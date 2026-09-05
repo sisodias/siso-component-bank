@@ -1,0 +1,26 @@
+{
+  "id": "dhileepkumargm__arcane-orb",
+  "author": "dhileepkumargm",
+  "slug": "arcane-orb",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dhileepkumargm/components/arcane-orb",
+  "fetchedAt": "2026-08-29T04:25:59.655Z",
+  "completedAt": "2026-08-29T04:26:01.867Z",
+  "versionedFilename": "code.1756389846952.tsx",
+  "codeReference": "r2://components-code-private/dhileepkumargm/arcane-orb/code.1756389846952.tsx",
+  "codeUrl": "https://cdn.21st.dev/dhileepkumargm/arcane-orb/code.1756389846952.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5948,
+  "sha256": "f8c36608d46d38188cb819bc8be92bb6c2281b23bda2bea1f6348e6e4d9de17c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

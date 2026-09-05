@@ -1,0 +1,26 @@
+{
+  "id": "heygaia__tool-calls-section",
+  "author": "heygaia",
+  "slug": "tool-calls-section",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@heygaia/components/tool-calls-section",
+  "fetchedAt": "2026-08-29T04:58:13.054Z",
+  "completedAt": "2026-08-29T04:58:15.251Z",
+  "versionedFilename": "code.1784355239570-9dfb4cde-306f-4cc5-b38f-120aaba6acc9.tsx",
+  "codeReference": "r2://components-code-private/heygaia/tool-calls-section/code.1784355239570-9dfb4cde-306f-4cc5-b38f-120aaba6acc9.tsx",
+  "codeUrl": "https://cdn.21st.dev/heygaia/tool-calls-section/code.1784355239570-9dfb4cde-306f-4cc5-b38f-120aaba6acc9.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

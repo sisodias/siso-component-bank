@@ -1,0 +1,35 @@
+{
+  "category": [
+    "button",
+    "input",
+    "overlay"
+  ],
+  "subcategory": "animated-gradient-button",
+  "visual_style": [
+    "gradient-border",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Premium call-to-action buttons with animated gradient borders for landing pages",
+    "Interactive form submit buttons with directional hover effects",
+    "Navigation CTAs with dynamic border animation for product demos",
+    "Card-based UI elements requiring attention-grabbing hover states",
+    "Subscription or signup buttons with premium visual polish"
+  ],
+  "ai_summary": "A reusable button component featuring an animated gradient border that moves in a directional pattern (clockwise or counter-clockwise) on hover. The effect creates a dynamic radial gradient that travels around the border edges, with customizable animation duration. Built with Framer Motion for smooth transitions and supports rendering as any HTML element type. Ideal for creating premium-feeling CTAs, form buttons, and interactive elements that need visual distinction through motion.",
+  "_classifiedAt": "2026-04-22T09:16:15.482Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

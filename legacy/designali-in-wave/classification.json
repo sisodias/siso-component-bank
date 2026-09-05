@@ -1,0 +1,35 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "3d-shader-animation",
+  "visual_style": [
+    "3d",
+    "gradient",
+    "colorful"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Hero section background with animated wave effect for landing pages",
+    "Decorative background element for portfolio or creative websites",
+    "Loading state visualization with organic flowing animation",
+    "Interactive product showcase with pointer-reactive shader effects",
+    "Ambient visual component for streaming or media platforms"
+  ],
+  "ai_summary": "A 3D wave shader component built with React Three Fiber and custom GLSL shaders. Features time-based animation, pointer tracking, and a dynamic color palette that generates smooth gradient waves. The component renders a transparent centered plane with organic ripple effects, ideal for hero backgrounds or ambient visual decoration on modern web applications.",
+  "_classifiedAt": "2026-04-23T01:38:10.604Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

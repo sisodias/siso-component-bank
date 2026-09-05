@@ -1,0 +1,30 @@
+{
+  "category": "input",
+  "subcategory": "versatile-button-with-variants",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action buttons for forms and calls-to-action",
+    "Navigation triggers and links",
+    "Destructive action confirmations with variant styling",
+    "Secondary and ghost button alternatives for hierarchy",
+    "Icon-only buttons for compact UI actions"
+  ],
+  "ai_summary": "A versatile React button component built with Radix UI Slot and class-variance-authority, offering multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes. Features hover transitions, focus-visible outlines, disabled states, and composable asChild prop for rendering flexibility. Designed as a reusable atomic component for consistent button styling across applications.",
+  "_classifiedAt": "2026-04-23T01:50:27.975Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

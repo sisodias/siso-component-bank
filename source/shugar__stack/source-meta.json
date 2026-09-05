@@ -1,0 +1,26 @@
+{
+  "id": "shugar__stack",
+  "author": "shugar",
+  "slug": "stack",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/stack",
+  "fetchedAt": "2026-08-29T07:20:31.247Z",
+  "completedAt": "2026-08-29T07:20:33.644Z",
+  "versionedFilename": "code.1751390091799.tsx",
+  "codeReference": "r2://components-code-private/shugar/stack/code.1751390091799.tsx",
+  "codeUrl": "https://cdn.21st.dev/shugar/stack/code.1751390091799.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1144,
+  "sha256": "a737706e1f9f0556c7179756e05f6ec6e2aa2f1647c2f423bfa32455067774bd",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

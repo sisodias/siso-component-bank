@@ -1,0 +1,29 @@
+{
+  "category": "media",
+  "subcategory": "text-reveal-animation",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Animated hero section headlines that reveal text character by character",
+    "Attention-grabbing product titles or feature announcements",
+    "Engaging intro text for video content or presentations",
+    "Staggered text reveals for storytelling and narrative flow",
+    "Replayable animations for interactive product demonstrations"
+  ],
+  "ai_summary": "A character-by-character text reveal animation component with staggered timing. Each letter animates upward with opacity fade using CSS keyframes, creating an engaging headline effect. Includes a replay button to reset and replay the animation. Perfect for hero sections, product reveals, and attention-grabbing text presentations across SaaS, media, and e-commerce platforms.",
+  "_classifiedAt": "2026-04-22T09:05:09.332Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

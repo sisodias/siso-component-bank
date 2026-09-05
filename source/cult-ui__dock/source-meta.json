@@ -1,0 +1,26 @@
+{
+  "id": "cult-ui__dock",
+  "author": "cult-ui",
+  "slug": "dock",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@cult-ui/components/dock",
+  "fetchedAt": "2026-08-29T04:03:16.074Z",
+  "completedAt": "2026-08-29T04:03:18.083Z",
+  "versionedFilename": "code.1750445650793.tsx",
+  "codeReference": "r2://components-code-private/larsen66/dock/code.1750445650793.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/dock/code.1750445650793.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10128,
+  "sha256": "833295c1891416e2781312607802c53916a0a300bf8757e4f65db0b59082a273",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

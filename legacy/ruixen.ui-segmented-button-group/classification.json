@@ -1,0 +1,35 @@
+{
+  "category": [
+    "navigation",
+    "input"
+  ],
+  "subcategory": "segmented-button-group",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Switching between views or modes within a dashboard or settings panel",
+    "Filtering content by category or type in data-driven applications",
+    "Toggling display options such as grid/list view or time ranges",
+    "Selecting time periods or date ranges in scheduling interfaces",
+    "Changing between account types or subscription tiers in pricing sections"
+  ],
+  "ai_summary": "A segmented button group component built with Radix UI Slot and CVA for variant management. Provides a clean, accessible button system with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes. Used for switching between related options or views within an interface. Supports composition via asChild pattern and includes proper focus, hover, and disabled states.",
+  "_classifiedAt": "2026-04-23T01:51:17.642Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

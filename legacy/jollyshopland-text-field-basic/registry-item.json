@@ -1,0 +1,46 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "jollyshopland-text-field-basic",
+  "type": "registry:ui",
+  "title": "Jollyshopland Text Field Basic",
+  "description": "Installed from https://21st.dev/r/jollyshopland/text-field-basic",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "jollyshopland-text-field-basic"
+  ],
+  "files": [
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "text-field-basic.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "react-aria-components"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/jollyshopland/text-field-basic",
+    "fetchedAt": "2026-04-22T06:42:47.274Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

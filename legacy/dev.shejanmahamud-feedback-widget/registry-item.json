@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "dev.shejanmahamud-feedback-widget",
+  "type": "registry:ui",
+  "title": "Dev.Shejanmahamud Feedback Widget",
+  "description": "Installed from https://21st.dev/r/dev.shejanmahamud/feedback-widget",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "dev.shejanmahamud-feedback-widget"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "feedback-widget.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-toggle-group",
+    "motion",
+    "react-markdown"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/dev.shejanmahamud/feedback-widget",
+    "fetchedAt": "2026-04-22T06:42:06.573Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

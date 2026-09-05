@@ -1,0 +1,26 @@
+{
+  "id": "dqnamo__agent-dock",
+  "author": "dqnamo",
+  "slug": "agent-dock",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dqnamo/components/agent-dock",
+  "fetchedAt": "2026-08-29T04:36:37.180Z",
+  "completedAt": "2026-08-29T04:36:38.921Z",
+  "versionedFilename": "code.1782930695950.tsx",
+  "codeReference": "r2://components-code-private/larsen66/agent-dock/code.1782930695950.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/agent-dock/code.1782930695950.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5408,
+  "sha256": "6ab126359c51bf791c9654e6349abecb726693688f59fb8416c200a69eee2b8e",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

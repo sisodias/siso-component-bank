@@ -1,0 +1,49 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ruixen.ui-inline-analytics-table",
+  "type": "registry:ui",
+  "title": "Ruixen.Ui Inline Analytics Table",
+  "description": "Installed from https://21st.dev/r/ruixen.ui/inline-analytics-table",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ruixen.ui-inline-analytics-table"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "inline-analytics-table.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "progress.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "table.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-progress",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ruixen.ui/inline-analytics-table",
+    "fetchedAt": "2026-04-23T01:17:17.402Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

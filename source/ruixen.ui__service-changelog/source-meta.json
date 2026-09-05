@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__service-changelog",
+  "author": "ruixen.ui",
+  "slug": "service-changelog",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/service-changelog",
+  "fetchedAt": "2026-08-29T06:49:59.837Z",
+  "completedAt": "2026-08-29T06:50:02.205Z",
+  "versionedFilename": "code.1782458944932.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/service-changelog/code.1782458944932.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/service-changelog/code.1782458944932.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 14682,
+  "sha256": "f34f2d63f627a40a69fe018a3a2837108e3da5739b196c7da55ebeca086a1fc6",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

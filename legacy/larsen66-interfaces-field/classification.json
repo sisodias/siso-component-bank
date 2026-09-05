@@ -1,0 +1,27 @@
+{
+  "category": "form",
+  "subcategory": "form-field-system",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Building complex multi-section forms with semantic HTML fieldsets",
+    "Creating responsive form layouts with horizontal/vertical orientations",
+    "Structuring form content with grouped fields and labels",
+    "Implementing accessible form components with proper fieldset/legend semantics",
+    "Developing admin interfaces and settings pages with organized input sections"
+  ],
+  "ai_summary": "A comprehensive form field system component providing FieldSet, FieldLegend, FieldGroup, and field variants with support for vertical, horizontal, and responsive orientations. Built with CVA for consistent styling and uses Tailwind data-slot attributes for flexible composition. Includes semantic HTML elements for accessibility and group/field relationships for styling cascade.",
+  "_classifiedAt": "2026-04-22T09:03:54.578Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

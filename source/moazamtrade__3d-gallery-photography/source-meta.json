@@ -1,0 +1,26 @@
+{
+  "id": "moazamtrade__3d-gallery-photography",
+  "author": "moazamtrade",
+  "slug": "3d-gallery-photography",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@moazamtrade/components/3d-gallery-photography",
+  "fetchedAt": "2026-08-29T05:46:23.506Z",
+  "completedAt": "2026-08-29T05:46:26.043Z",
+  "versionedFilename": "code.1758834373768.tsx",
+  "codeReference": "r2://components-code-private/moazamtrade/3d-gallery-photography/code.1758834373768.tsx",
+  "codeUrl": "https://cdn.21st.dev/moazamtrade/3d-gallery-photography/code.1758834373768.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 16002,
+  "sha256": "08a27bdef14e336fa69145cf2ce3dcde64969a604d70aa62bc2fc8ceb2a45324",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

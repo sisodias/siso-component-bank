@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/faqchat-accordion",
+  "author": "ruixen.ui",
+  "slug": "faqchat-accordion",
+  "name": "faqchat-accordion",
+  "description": "A FAQ styled as a chat conversation, questions appear as sent message bubbles, answers reply with typing dots that morph into response bubbles.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/faqchat-accordion?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__faqchat-accordion",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/faqchat-accordion/default/bundle.1771483122048.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/faqchat-accordion/default/preview.1771483122048.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

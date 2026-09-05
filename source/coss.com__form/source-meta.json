@@ -1,0 +1,26 @@
+{
+  "id": "coss.com__form",
+  "author": "coss.com",
+  "slug": "form",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@coss.com/components/form",
+  "fetchedAt": "2026-08-29T04:02:27.528Z",
+  "completedAt": "2026-08-29T04:02:29.677Z",
+  "versionedFilename": "code.1774051625578.tsx",
+  "codeReference": "r2://components-code-private/coss.com/form/code.1774051625578.tsx",
+  "codeUrl": "https://cdn.21st.dev/coss.com/form/code.1774051625578.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/typescript",
+  "bytes": 409,
+  "sha256": "1eb5da58e778094cf727c2197833d48b7b89efcfc23bed3804dd71c874c95b0a",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

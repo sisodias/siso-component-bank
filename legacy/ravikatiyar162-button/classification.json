@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "animated-button",
+  "visual_style": [
+    "neobrutalism"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary action buttons in SaaS dashboards with interactive hover feedback",
+    "E-commerce call-to-action buttons with eye-catching animated styling",
+    "Form submission buttons with accessible focus states and pressed effects",
+    "Navigation trigger buttons requiring visual prominence"
+  ],
+  "ai_summary": "An animated button component featuring a spinning SVG layer in the background and a neobrutalist design with bold 8px hard shadows that reduce on hover for a pressed effect. Built for shadcn/ui compatibility with Tailwind CSS, this interactive button uses smooth transitions and accessibility-compliant focus styles. Ideal for prominent CTAs in SaaS products, e-commerce sites, and creative tool interfaces.",
+  "_classifiedAt": "2026-04-23T01:46:12.995Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

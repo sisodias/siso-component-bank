@@ -1,0 +1,26 @@
+{
+  "id": "shugar__empty-state",
+  "author": "shugar",
+  "slug": "empty-state",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/empty-state",
+  "fetchedAt": "2026-08-29T07:19:19.514Z",
+  "completedAt": "2026-08-29T07:19:21.673Z",
+  "versionedFilename": "code.1751641035637.tsx",
+  "codeReference": "r2://components-code-private/shugar/empty-state/code.1751641035637.tsx",
+  "codeUrl": "https://cdn.21st.dev/shugar/empty-state/code.1751641035637.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1274,
+  "sha256": "5145d19ec539ca88dbe6c5fd20db5d6754f0c31fcc1bdb0b846a30317c65b533",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

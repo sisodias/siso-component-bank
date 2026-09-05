@@ -1,0 +1,26 @@
+{
+  "id": "preetsuthar17__loader",
+  "author": "preetsuthar17",
+  "slug": "loader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@preetsuthar17/components/loader",
+  "fetchedAt": "2026-08-29T06:13:36.514Z",
+  "completedAt": "2026-08-29T06:13:38.895Z",
+  "versionedFilename": "code.1751157406751.tsx",
+  "codeReference": "r2://components-code-private/preetsuthar17/loader/code.1751157406751.tsx",
+  "codeUrl": "https://cdn.21st.dev/preetsuthar17/loader/code.1751157406751.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1809,
+  "sha256": "408f41dc91a436a649520b20de25f8cda55e8dca5d56629f792434f28c92b422",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

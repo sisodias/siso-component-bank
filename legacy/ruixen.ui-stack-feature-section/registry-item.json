@@ -1,0 +1,47 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ruixen.ui-stack-feature-section",
+  "type": "registry:ui",
+  "title": "Ruixen.Ui Stack Feature Section",
+  "description": "Installed from https://21st.dev/r/ruixen.ui/stack-feature-section",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ruixen.ui-stack-feature-section"
+  ],
+  "files": [
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "stack-feature-section.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "next",
+    "react-icons"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ruixen.ui/stack-feature-section",
+    "fetchedAt": "2026-04-23T02:28:59.459Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

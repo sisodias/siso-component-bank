@@ -1,0 +1,31 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "Team member cards",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display team members with avatars and contact information in admin dashboards",
+    "Manage user access and permissions in SaaS applications",
+    "Show organization members in collaboration tools"
+  ],
+  "ai_summary": "A team member card list component featuring a header with descriptive text, an 'Add new member' action button, and a grid of member entries displaying avatars, names, and emails. Built with Tailwind CSS using standard indigo color scheme and responsive flexbox layout. Part of the Float UI component collection for dashboard interfaces.",
+  "_classifiedAt": "2026-04-23T16:40:16.920Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

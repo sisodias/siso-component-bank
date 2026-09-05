@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "muhammad-binsalman-spider-verse-glitch-button",
+  "type": "registry:ui",
+  "title": "Muhammad Binsalman Spider Verse Glitch Button",
+  "description": "Installed from https://21st.dev/r/muhammad-binsalman/spider-verse-glitch-button",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "muhammad-binsalman-spider-verse-glitch-button"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "spider-verse-glitch-button.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/muhammad-binsalman/spider-verse-glitch-button",
+    "fetchedAt": "2026-04-23T03:02:42.432Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

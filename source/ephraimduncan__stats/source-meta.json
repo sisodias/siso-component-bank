@@ -1,0 +1,26 @@
+{
+  "id": "ephraimduncan__stats",
+  "author": "ephraimduncan",
+  "slug": "stats",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ephraimduncan/components/stats",
+  "fetchedAt": "2026-08-29T04:45:11.802Z",
+  "completedAt": "2026-08-29T04:45:13.987Z",
+  "versionedFilename": "code.1748128113307.tsx",
+  "codeReference": "r2://components-code-private/larsen66/stats/code.1748128113307.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/stats/code.1748128113307.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4432,
+  "sha256": "d70c51c9ed82afe2312f2da7aeb8f47828e7ac194be937c84a5d8f75aa0e8039",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

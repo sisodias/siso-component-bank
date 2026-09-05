@@ -1,0 +1,29 @@
+{
+  "category": "feedback",
+  "subcategory": "animated-square-loader",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display loading states while content is being fetched or processed",
+    "Indicate ongoing background operations in web applications",
+    "Provide visual feedback during page transitions or navigation",
+    "Show processing status during form submissions or API calls",
+    "Enhance user experience during asynchronous operations"
+  ],
+  "ai_summary": "An animated geometric loader featuring seven rotating squares arranged in a 45-degree tilted container, creating a mesmerizing sequential animation effect. The component includes a dark/light mode toggle with a subtle grid background pattern. Built with pure CSS animations and Tailwind classes for a clean, flat aesthetic suitable for any loading scenario.",
+  "_classifiedAt": "2026-04-22T08:53:00.536Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

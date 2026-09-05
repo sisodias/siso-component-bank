@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "cult-ui-bg-animated-button",
+  "type": "registry:ui",
+  "title": "Cult Ui Bg Animated Button",
+  "description": "Installed from https://21st.dev/r/cult-ui/bg-animated-button",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "cult-ui-bg-animated-button"
+  ],
+  "files": [
+    {
+      "path": "bg-animated-button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-slot",
+    "class-variance-authority"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/cult-ui/bg-animated-button",
+    "fetchedAt": "2026-04-23T03:04:00.687Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "category": "overlay",
+  "subcategory": "Authentication modal with toggle",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "User registration and account creation in web applications",
+    "User login and authentication flow",
+    "Switching between signup and login modes within a single dialog",
+    "Password visibility toggle for improved UX during authentication",
+    "Collecting user credentials (email, password, name) in a modal context"
+  ],
+  "ai_summary": "A React authentication dialog component that provides signup and login functionality within a modal overlay. Built with Radix UI primitives, it features a mode toggle between signup and login forms, password visibility toggle, and responsive design with rounded corners and centered content. The component uses standard form inputs with labels and includes proper accessibility attributes through the useId hook.",
+  "_classifiedAt": "2026-04-23T17:17:14.733Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

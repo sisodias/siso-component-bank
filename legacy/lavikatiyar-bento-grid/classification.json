@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display user profile pictures in navigation headers and sidebars",
+    "Show user avatars in comment sections and social feeds",
+    "Render user identity in card components and dashboard layouts",
+    "Provide graceful image fallbacks when photos are unavailable"
+  ],
+  "ai_summary": "A Radix UI-based avatar component featuring image display with automatic fallback support for missing or failed images. This minimalist atomic component uses Tailwind CSS for styling with a clean rounded-full design, making it suitable for user profile display across various interface contexts like navigation, cards, and social features.",
+  "_classifiedAt": "2026-04-22T09:04:17.412Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

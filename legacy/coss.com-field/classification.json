@@ -1,0 +1,35 @@
+{
+  "category": "form",
+  "subcategory": "form-field-system",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Building accessible form layouts with semantic field structure and spacing",
+    "Creating form inputs with integrated labels, descriptions, and error messages",
+    "Standardizing form field styling across SaaS and web applications",
+    "Constructing validation-aware form components with proper error display",
+    "Implementing form sections with consistent visual hierarchy and alignment"
+  ],
+  "ai_summary": "A comprehensive form field wrapper system built on Base UI's Field primitive, providing semantic structure with Label, Item, Description, Error, Control, and Validity sub-components. Features clean, minimalist styling using Tailwind CSS with muted color schemes for descriptions and destructive colors for errors. Designed for accessibility-first form architecture in any data-collection context.",
+  "_classifiedAt": "2026-04-22T08:54:42.261Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:32:04.614Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

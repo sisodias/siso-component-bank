@@ -1,0 +1,26 @@
+{
+  "id": "kavikatiyar__command-prompt",
+  "author": "kavikatiyar",
+  "slug": "command-prompt",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@kavikatiyar/components/command-prompt",
+  "fetchedAt": "2026-08-29T05:15:00.873Z",
+  "completedAt": "2026-08-29T05:15:03.092Z",
+  "versionedFilename": "code.1758353924969.tsx",
+  "codeReference": "r2://components-code-private/kavikatiyar/command-prompt/code.1758353924969.tsx",
+  "codeUrl": "https://cdn.21st.dev/kavikatiyar/command-prompt/code.1758353924969.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3652,
+  "sha256": "a268513ecd3034f47ab9937437380c46189fbacbb4e591e1b9132b23d45c7ccf",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

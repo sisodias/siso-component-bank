@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@educalvolpz/components/ai-reasoning",
+  "author": "educalvolpz",
+  "slug": "ai-reasoning",
+  "name": "ai-reasoning",
+  "description": "Collapsible model-reasoning trace that times itself while streaming and folds away once the answer lands. Respects prefers-reduced-motion.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/educalvolpz/ai-reasoning?api_key=$API_KEY_21ST\"",
+  "id": "educalvolpz__ai-reasoning",
+  "bundleUrl": "https://cdn.21st.dev/educlopez/ai-reasoning/default/bundle.1785567331733-9887e202-3657-4237-afaa-cd2b17e50f8b.html",
+  "previewUrl": "https://cdn.21st.dev/educlopez/ai-reasoning/default/preview.1785567331733-9887e202-3657-4237-afaa-cd2b17e50f8b.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

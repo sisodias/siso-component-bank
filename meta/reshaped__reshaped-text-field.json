@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@reshaped/components/reshaped-text-field",
+  "author": "reshaped",
+  "slug": "reshaped-text-field",
+  "name": "reshaped-text-field",
+  "description": "Single-line text input taking a name and optional onChange, in controlled or uncontrolled mode. Supports prefix/suffix affixes, start/end slots for badges and inline actions, multiline selected values, start/end icons, four sizes, a rounded shape, faded and headless variants, error and disabled states, and FormControl integration.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/reshaped/reshaped-text-field?api_key=$API_KEY_21ST\"",
+  "id": "reshaped__reshaped-text-field",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/reshaped-text-field/default/bundle.1783529284589.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/reshaped-text-field/default/preview.1783529284589.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

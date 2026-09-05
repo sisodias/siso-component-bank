@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ddoemonn/components/load-more",
+  "author": "ddoemonn",
+  "slug": "load-more",
+  "name": "load-more",
+  "description": "A load-more button with automatic infinite-scroll via IntersectionObserver, animated idle/loading/error/end states, and a bounded auto-load limit before it hands control back to the user.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ddoemonn/load-more?api_key=$API_KEY_21ST\"",
+  "id": "ddoemonn__load-more",
+  "bundleUrl": "https://cdn.21st.dev/ddoemonn/load-more/default/bundle.1785473730125-0215e98c-7316-47c2-b82e-aade0ae931ef.html",
+  "previewUrl": "https://cdn.21st.dev/ddoemonn/load-more/default/preview.1785473730125-0215e98c-7316-47c2-b82e-aade0ae931ef.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

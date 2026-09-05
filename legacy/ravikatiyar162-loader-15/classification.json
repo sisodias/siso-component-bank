@@ -1,0 +1,24 @@
+{
+  "category": "feedback",
+  "subcategory": "circular-spinner",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Indicate loading or processing states during async operations",
+    "Show progress while fetching data from APIs",
+    "Display during page transitions or content loading"
+  ],
+  "ai_summary": "A circular SVG loader featuring multiple layered elements with gradient fills, blur filters, and shadow effects. The component uses a combination of path and circle elements with custom linear gradients to create a visually distinctive spinning animation effect commonly used to indicate loading or processing states in web applications.",
+  "_classifiedAt": "2026-04-23T01:47:29.844Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

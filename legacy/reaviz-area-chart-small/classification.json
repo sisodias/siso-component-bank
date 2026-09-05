@@ -1,0 +1,26 @@
+{
+  "category": "data-display",
+  "subcategory": "stacked-area-chart",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying time-series metrics for dashboard analytics in SaaS applications",
+    "Showing stacked data trends across multiple series for financial reporting",
+    "Visualizing comparative metrics over time in e-commerce sales dashboards",
+    "Monitoring KPI trends with gradient-enhanced area charts",
+    "Rendering animated chart data with proper axis scaling and gridlines"
+  ],
+  "ai_summary": "A minimalist stacked area chart component from the reaviz library featuring gradient fills, animated data series, and customizable axis configurations. Designed for dashboard analytics in SaaS and fintech applications, it renders time-series data with smooth animations using framer-motion. Supports multiple data series with distinct colors, linear axis scaling, gridlines, and tooltips for enhanced data readability.",
+  "_classifiedAt": "2026-04-23T17:14:14.300Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

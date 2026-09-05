@@ -1,0 +1,26 @@
+{
+  "id": "ln-dev7__dynamic-action",
+  "author": "ln-dev7",
+  "slug": "dynamic-action",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ln-dev7/components/dynamic-action",
+  "fetchedAt": "2026-08-29T05:26:51.180Z",
+  "completedAt": "2026-08-29T05:26:53.262Z",
+  "versionedFilename": "code.1749423422420.tsx",
+  "codeReference": "r2://components-code-private/larsen66/dynamic-action/code.1749423422420.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/dynamic-action/code.1749423422420.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2810,
+  "sha256": "274da4184faea38a580f1fc926eb8f48ffb5fc2af9630f15af60a04cdd1809b2",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

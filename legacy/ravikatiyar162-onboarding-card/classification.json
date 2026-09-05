@@ -1,0 +1,35 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "onboarding-card, product-introduction",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Product onboarding flows for new user welcome experiences",
+    "Feature introduction cards in SaaS applications",
+    "First-time user guidance and setup screens",
+    "Onboarding checklists and progress tracking"
+  ],
+  "ai_summary": "A reusable card component system designed for product onboarding experiences, built with shadcn/ui patterns. Exports Card, CardHeader, CardFooter, CardTitle, CardDescription, and CardContent for flexible composition. Provides a clean, minimalist foundation for welcome screens and first-time user guidance in SaaS applications.",
+  "_classifiedAt": "2026-04-23T01:47:39.131Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@rmahammad/components/prompt-composer",
+  "author": "rmahammad",
+  "slug": "prompt-composer",
+  "name": "prompt-composer",
+  "description": "A production-grade prompt input: typed variable chips, attachment queue with upload states, template menu, model picker and a live token budget that warns before you overflow.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/rmahammad/prompt-composer?api_key=$API_KEY_21ST\"",
+  "id": "rmahammad__prompt-composer",
+  "bundleUrl": "https://cdn.21st.dev/rmahammad/prompt-composer/default/bundle.1785417710535-e4907bd7-986b-41de-a638-8263bca6ee39.html",
+  "previewUrl": "https://cdn.21st.dev/rmahammad/prompt-composer/default/preview.1785417710535-e4907bd7-986b-41de-a638-8263bca6ee39.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

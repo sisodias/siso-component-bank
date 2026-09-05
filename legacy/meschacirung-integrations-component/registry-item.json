@@ -1,0 +1,51 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "meschacirung-integrations-component",
+  "type": "registry:ui",
+  "title": "Meschacirung Integrations Component",
+  "description": "Installed from https://21st.dev/r/meschacirung/integrations-component",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "meschacirung-integrations-component"
+  ],
+  "files": [
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "card.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "integrations-component.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "lucide-react",
+    "next"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/meschacirung/integrations-component",
+    "fetchedAt": "2026-04-23T02:30:00.579Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

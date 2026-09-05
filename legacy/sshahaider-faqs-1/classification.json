@@ -1,0 +1,33 @@
+{
+  "category": "data-display",
+  "subcategory": "FAQ accordion, expandable content sections",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "FAQ sections on help center or support pages",
+    "Product documentation with collapsible Q&A content",
+    "Knowledge base with expandable answers",
+    "Website FAQ sections for customer inquiries",
+    "Onboarding guides with step-by-step expandable content"
+  ],
+  "ai_summary": "A clean, accessible FAQ accordion component built on Radix UI primitives with smooth expand/collapse animations. Features chevron rotation, hover underline effects, and proper keyboard navigation support. Minimalist design with standard Tailwind styling, suitable for any industry needing collapsible Q&A content.",
+  "_classifiedAt": "2026-04-22T09:17:05.834Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

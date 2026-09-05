@@ -1,0 +1,30 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "text-loading-indicator",
+  "visual_style": [
+    "colorful",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display animated loading state while data is being fetched from an API",
+    "Show processing status during async operations in web applications",
+    "Provide visual feedback during page transitions or heavy computations"
+  ],
+  "ai_summary": "An animated loading indicator that reveals the word 'Loading' letter-by-letter with a glowing text effect while a colorful RGB gradient background oscillates horizontally. The component uses CSS keyframe animations to create a vibrant, eye-catching waiting state with dark mode support. Ideal for SaaS applications, fintech dashboards, or any interface requiring stylish loading feedback.",
+  "_classifiedAt": "2026-04-22T09:11:26.220Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

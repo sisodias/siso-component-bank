@@ -1,0 +1,26 @@
+{
+  "category": "input",
+  "subcategory": "ripple-button",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "A button with ripple animation effect triggered on hover for interactive feedback.",
+    "Interactive button that tracks mouse position and creates expanding circular ripple animations.",
+    "Reusable button component with smooth color transitions from dark text to white on hover.",
+    "A standalone button component with customizable className for flexible styling integration.",
+    "Button with dashed border styling for subtle visual distinction in UI layouts."
+  ],
+  "ai_summary": "A ripple button component that creates an expanding circular animation effect following the mouse cursor on hover. Features smooth color transitions and a minimalist design with dashed border styling. Built with Framer Motion for fluid animations and uses React hooks for state management and mouse tracking.",
+  "_classifiedAt": "2026-04-22T09:07:32.694Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

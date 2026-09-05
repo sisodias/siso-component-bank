@@ -1,0 +1,33 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "desktop-menubar-dropdown",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Application-level navigation menus with dropdown submenus",
+    "Desktop-style file/edit/help menu structures for web apps",
+    "Command palette trigger areas with grouped actions"
+  ],
+  "ai_summary": "A Radix UI-based menubar component providing desktop-style navigation with dropdown menus, triggers, sub-triggers, and grouped actions. Built with accessibility in mind using native keyboard navigation and focus management. Supports custom styling through Tailwind CSS with standard hover, focus, and active states.",
+  "_classifiedAt": "2026-04-23T01:52:27.273Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

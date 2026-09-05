@@ -1,0 +1,45 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "aghasisahakyan1-ai-input-hero",
+  "type": "registry:ui",
+  "title": "Aghasisahakyan1 Ai Input Hero",
+  "description": "Installed from https://21st.dev/r/aghasisahakyan1/ai-input-hero",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "aghasisahakyan1-ai-input-hero"
+  ],
+  "files": [
+    {
+      "path": "ai-input-hero.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "mini-navbar.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "gsap",
+    "three"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/aghasisahakyan1/ai-input-hero",
+    "fetchedAt": "2026-04-22T06:45:08.681Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

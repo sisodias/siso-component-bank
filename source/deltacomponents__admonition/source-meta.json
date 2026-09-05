@@ -1,0 +1,26 @@
+{
+  "id": "deltacomponents__admonition",
+  "author": "deltacomponents",
+  "slug": "admonition",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@deltacomponents/components/admonition",
+  "fetchedAt": "2026-08-29T04:15:40.819Z",
+  "completedAt": "2026-08-29T04:15:43.068Z",
+  "versionedFilename": "code.1756838968365.tsx",
+  "codeReference": "r2://components-code-private/larsen66/admonition/code.1756838968365.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/admonition/code.1756838968365.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3056,
+  "sha256": "f0c3879b5278d402de88a6a48d9fae46d55fe960eea912bf5aad1a2673665921",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

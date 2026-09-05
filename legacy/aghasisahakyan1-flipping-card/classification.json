@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "3d-flip-card",
+  "visual_style": [
+    "flat",
+    "3d"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive profile or portfolio cards that reveal additional information on hover",
+    "E-commerce product cards displaying details on the back side",
+    "Educational flashcard-style components for learning applications",
+    "Authentication UIs with login/signup toggled on card flip",
+    "Feature showcase cards with summary and detailed explanations"
+  ],
+  "ai_summary": "A reusable 3D flipping card component with smooth 180-degree rotation animation triggered on hover. Supports custom front and back content via props, configurable dimensions, and automatic dark mode theming. Uses CSS 3D transforms with perspective for realistic depth and preserve-3d for proper stacking. Ideal for interactive content reveals, portfolios, product showcases, and flashcard-style interfaces.",
+  "_classifiedAt": "2026-04-23T11:28:59.615Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

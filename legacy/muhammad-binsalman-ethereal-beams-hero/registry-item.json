@@ -1,0 +1,43 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "muhammad-binsalman-ethereal-beams-hero",
+  "type": "registry:ui",
+  "title": "Muhammad Binsalman Ethereal Beams Hero",
+  "description": "Installed from https://21st.dev/r/muhammad-binsalman/ethereal-beams-hero",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "muhammad-binsalman-ethereal-beams-hero"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "ethereal-beams-hero.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@react-three/drei",
+    "@react-three/fiber",
+    "lucide-react",
+    "three"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/muhammad-binsalman/ethereal-beams-hero",
+    "fetchedAt": "2026-04-23T03:02:48.208Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

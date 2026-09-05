@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "file-upload",
+  "visual_style": [],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Users uploading profile pictures or documents with drag-and-drop convenience",
+    "Batch file upload for media libraries with size and type validation",
+    "Form attachments with real-time error feedback for invalid files",
+    "Image gallery upload with instant thumbnail preview generation",
+    "Document management systems requiring drag-and-drop file organization"
+  ],
+  "ai_summary": "A drag-and-drop file upload component with built-in file validation for size and MIME type restrictions. Supports single and multiple file uploads with automatic image preview generation for visual files. Displays validation errors inline and provides callbacks for file selection and removal events, making it suitable for forms, media libraries, and document management interfaces.",
+  "_classifiedAt": "2026-04-23T01:54:06.106Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "shadcnblockscom__faq-5",
+  "author": "shadcnblockscom",
+  "slug": "faq-5",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcnblockscom/components/faq-5",
+  "fetchedAt": "2026-08-29T07:09:43.278Z",
+  "completedAt": "2026-08-29T07:09:45.865Z",
+  "versionedFilename": "code.1747635561275.tsx",
+  "codeReference": "r2://components-code-private/shadcnblockscom/faq-5/code.1747635561275.tsx",
+  "codeUrl": "https://cdn.21st.dev/shadcnblockscom/faq-5/code.1747635561275.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2710,
+  "sha256": "401ae714f753278b199cd6f1502e562a81712b802258423a34ed8aa6d9c262cc",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

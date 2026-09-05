@@ -1,0 +1,26 @@
+{
+  "id": "antonio.salas22__malinois",
+  "author": "antonio.salas22",
+  "slug": "malinois",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@antonio.salas22/components/malinois",
+  "fetchedAt": "2026-08-29T03:34:56.993Z",
+  "completedAt": "2026-08-29T03:34:58.874Z",
+  "versionedFilename": "code.1786524651159-58e76776-444e-4e8f-b312-1356a38b55c3.tsx",
+  "codeReference": "r2://components-code-private/antonio.salas22/malinois/code.1786524651159-58e76776-444e-4e8f-b312-1356a38b55c3.tsx",
+  "codeUrl": "https://cdn.21st.dev/antonio.salas22/malinois/code.1786524651159-58e76776-444e-4e8f-b312-1356a38b55c3.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

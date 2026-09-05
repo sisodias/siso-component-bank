@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@easemize/components/animated-glow-card",
+  "author": "easemize",
+  "slug": "animated-glow-card",
+  "name": "animated-glow-card",
+  "description": "A React component that renders a visually striking card with an animated, glowing border effect. This component uses an SVG filter (feColorMatrix) to achieve the customizable glow, enhancing UI elements with a modern and interactive feel. It includes a CardCanvas to house the SVG filter definition and a Card component for the main content display, complete with border elements. Ideal for drawing attention to featured content, calls to action, or simply adding a touch of dynamic visual flair to your application.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/easemize/animated-glow-card?api_key=$API_KEY_21ST\"",
+  "id": "easemize__animated-glow-card",
+  "bundleUrl": "https://cdn.21st.dev/easemize/animated-glow-card/default/bundle.1748414320630.html",
+  "previewUrl": "https://cdn.21st.dev/easemize/animated-glow-card/default/preview.1748325242342.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 221,
+  "demo_id": 2444,
+  "video_url": "https://cdn.21st.dev/user_2xJxXqdwWohYrdd6fiMYrS9hbmO/animated-glow-card/default/video.1786738817714.mp4"
+}

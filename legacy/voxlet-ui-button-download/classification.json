@@ -1,0 +1,30 @@
+{
+  "category": "input",
+  "subcategory": "download-button, progress-button, state-aware-button",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Downloading software or files with real-time progress indication",
+    "Providing visual feedback during file download operations in web applications",
+    "Handling multiple download states (idle, downloading, downloaded, complete) in a single component",
+    "Replacing generic buttons with purpose-built download controls in SaaS dashboards",
+    "Creating interactive download experiences with loading animations"
+  ],
+  "ai_summary": "A specialized download button component with built-in progress tracking and multiple status states. Features smooth transitions between idle, downloading, and downloaded states with a visible progress bar fill animation. Includes loading spinner and checkmark icons for clear user feedback. Designed for file download workflows in SaaS and web applications.",
+  "_classifiedAt": "2026-04-23T17:42:35.480Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

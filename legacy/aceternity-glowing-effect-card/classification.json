@@ -1,0 +1,35 @@
+{
+  "category": [
+    "card",
+    "feedback"
+  ],
+  "subcategory": "glowing-effect-interactive-card",
+  "visual_style": [
+    "glass-morphism",
+    "dark",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive product cards with proximity-based glow effects that follow cursor movement",
+    "Feature highlight cards in dark-themed landing pages that respond to user interaction",
+    "Dashboard widgets with subtle animated glow feedback on hover",
+    "E-commerce product showcases with premium visual polish using mouse-tracking illumination",
+    "Call-to-action sections with engaging visual effects that draw attention on interaction"
+  ],
+  "ai_summary": "An interactive card component featuring a sophisticated glowing effect that tracks mouse position with configurable proximity zones, blur intensity, and color variants. The effect uses requestAnimationFrame for smooth 60fps animation and supports both default and white glow modes. Designed for dark-themed interfaces where visual polish and micro-interactions enhance user engagement, commonly used in SaaS dashboards, e-commerce product displays, and premium landing pages.",
+  "_classifiedAt": "2026-04-23T11:28:32.679Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

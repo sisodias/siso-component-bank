@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@sshahaider/components/banner",
+  "author": "sshahaider",
+  "slug": "banner",
+  "name": "banner",
+  "description": "he Banner component is a flexible notification element for showing messages, alerts, or announcements. It supports multiple variants (success, warning, info, premium, etc.), different sizes, optional icons, action buttons, and a closable option. It also includes an autoHide feature to dismiss the banner automatically after a set time and an optional shimmer shade effect for extra visual emphasis.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/sshahaider/banner?api_key=$API_KEY_21ST\"",
+  "id": "sshahaider__banner",
+  "bundleUrl": "https://cdn.21st.dev/sshahaider/banner/default/bundle.1755973959132.html",
+  "previewUrl": "https://cdn.21st.dev/sshahaider/banner/default/preview.1755973959132.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

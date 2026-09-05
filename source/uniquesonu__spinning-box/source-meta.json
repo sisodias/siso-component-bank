@@ -1,0 +1,26 @@
+{
+  "id": "uniquesonu__spinning-box",
+  "author": "uniquesonu",
+  "slug": "spinning-box",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uniquesonu/components/spinning-box",
+  "fetchedAt": "2026-08-29T07:50:40.258Z",
+  "completedAt": "2026-08-29T07:50:42.731Z",
+  "versionedFilename": "code.1749726043086.tsx",
+  "codeReference": "r2://components-code-private/uniquesonu/spinning-box/code.1749726043086.tsx",
+  "codeUrl": "https://cdn.21st.dev/uniquesonu/spinning-box/code.1749726043086.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2179,
+  "sha256": "c5af8dcaed626a532ed50d0252e920afec87574277c400f0b3b4e098e5f424a1",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

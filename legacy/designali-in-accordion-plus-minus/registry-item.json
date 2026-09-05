@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "designali-in-accordion-plus-minus",
+  "type": "registry:ui",
+  "title": "Designali In Accordion Plus Minus",
+  "description": "Installed from https://21st.dev/r/designali-in/accordion-plus-minus",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "designali-in-accordion-plus-minus"
+  ],
+  "files": [
+    {
+      "path": "accordion-plus-minus.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-accordion",
+    "dicons"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/designali-in/accordion-plus-minus",
+    "fetchedAt": "2026-04-23T03:05:13.473Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

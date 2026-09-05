@@ -1,0 +1,56 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "alwurts-chat-input",
+  "type": "registry:ui",
+  "title": "Alwurts Chat Input",
+  "description": "Installed from https://21st.dev/r/Alwurts/chat-input",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "alwurts-chat-input"
+  ],
+  "files": [
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "chat-input.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "textarea.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "use-textarea-resize.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "imports unresolvable path (@/hooks/use-textarea-resize)"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/Alwurts/chat-input",
+    "fetchedAt": "2026-04-23T03:05:51.923Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

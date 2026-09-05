@@ -1,0 +1,33 @@
+{
+  "id": "dhileepkumargm__ethereal-ink",
+  "author": "dhileepkumargm",
+  "slug": "ethereal-ink",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dhileepkumargm/components/ethereal-ink",
+  "fetchedAt": "2026-08-29T04:28:26.058Z",
+  "completedAt": "2026-08-29T04:28:28.231Z",
+  "versionedFilename": "code.1785266312718-25e1a53f-6fe5-4280-8f84-d977fe362eaf.tsx",
+  "codeReference": "r2://components-code-private/dhileepkumargm/ethereal-ink/code.1785266312718-25e1a53f-6fe5-4280-8f84-d977fe362eaf.tsx",
+  "codeUrl": "https://cdn.21st.dev/dhileepkumargm/ethereal-ink/code.1785266312718-25e1a53f-6fe5-4280-8f84-d977fe362eaf.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/dhileepkumargm__ethereal-ink/code.tsx",
+    "bytes": 14685,
+    "sha256": "e8d6e4fa1cf28f941e4f36e81b4bc9474e7514e216a9ad1e616ecc7040ea35d3",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

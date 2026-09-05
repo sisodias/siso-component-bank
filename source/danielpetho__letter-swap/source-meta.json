@@ -1,0 +1,33 @@
+{
+  "id": "danielpetho__letter-swap",
+  "author": "danielpetho",
+  "slug": "letter-swap",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@danielpetho/components/letter-swap",
+  "fetchedAt": "2026-08-29T04:07:47.179Z",
+  "completedAt": "2026-08-29T04:07:48.191Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/danielpetho__letter-swap/code.tsx",
+    "bytes": 4608,
+    "sha256": "422cba478390fecef3c00f942549f9f3716299b4823df2aecf86e34257f2f09d",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

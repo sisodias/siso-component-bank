@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__scheduler",
+  "author": "ruixen.ui",
+  "slug": "scheduler",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/scheduler",
+  "fetchedAt": "2026-08-29T06:49:33.739Z",
+  "completedAt": "2026-08-29T06:49:36.138Z",
+  "versionedFilename": "code.1757757634537.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/scheduler/code.1757757634537.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/scheduler/code.1757757634537.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4808,
+  "sha256": "2cdd88ab2e95cacd04aa7b29f1de0861932be7aa2fb6e000121a6c4a547aa87c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

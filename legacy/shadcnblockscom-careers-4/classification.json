@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "action-button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary and secondary call-to-action elements in forms and web interfaces",
+    "Triggering actions like submit, cancel, or confirm in modal dialogs",
+    "Navigation triggers for single-page applications",
+    "Interactive elements in data tables, cards, and dashboard components"
+  ],
+  "ai_summary": "A reusable button primitive component with multiple style variants (default, destructive, outline, secondary, ghost, link) and size options. Built on Radix UI's Slot for composition, with accessible focus rings, disabled states, and smooth hover transitions. Serves as a fundamental building block for creating interactive UI elements across any web application.",
+  "_classifiedAt": "2026-04-23T17:27:24.237Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

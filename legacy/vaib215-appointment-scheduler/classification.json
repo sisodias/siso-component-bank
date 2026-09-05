@@ -1,0 +1,36 @@
+{
+  "category": [
+    "form",
+    "data-display"
+  ],
+  "subcategory": "calendar-based booking",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "healthcare",
+    "education",
+    "real-estate",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Booking consultation calls with professionals or service providers",
+    "Scheduling video meetings or appointments with customizable duration",
+    "Selecting available time slots across different timezones",
+    "Managing calendar availability for one-on-one sessions",
+    "Enabling users to reserve appointment slots for services"
+  ],
+  "ai_summary": "A comprehensive appointment scheduling component featuring a calendar date picker with month navigation, time slot selection grid, timezone support with 12h/24h format toggle, and meeting details display including host avatar and meeting type. Built with shadcn/ui-style components for clean, professional booking interfaces.",
+  "_classifiedAt": "2026-04-22T09:18:51.934Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

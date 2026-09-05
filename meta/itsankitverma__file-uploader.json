@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@itsankitverma/components/file-uploader",
+  "author": "itsankitverma",
+  "slug": "file-uploader",
+  "name": "file-uploader",
+  "description": "A clean, modern, and accessible file upload component for React/Next.js. Features drag-and-drop support, multi-file selection with badge-style display, single-file image preview, animated upload progress, and a compact, monochromatic design. Includes accessible remove actions, file name truncation, and a scrollable badge list for large selections.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/itsankitverma/file-uploader?api_key=$API_KEY_21ST\"",
+  "id": "itsankitverma__file-uploader",
+  "bundleUrl": "https://cdn.21st.dev/itsankitverma/file-uploader/default/bundle.1750671383226.html",
+  "previewUrl": "https://cdn.21st.dev/itsankitverma/file-uploader/default/preview.1750671383226.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

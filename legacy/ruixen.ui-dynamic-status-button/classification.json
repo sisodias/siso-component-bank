@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons in forms and landing pages",
+    "Destructive action triggers with warning variants",
+    "Secondary navigation options in multi-step workflows",
+    "Icon-only toolbar buttons with compact sizing",
+    "Ghost-style inline actions within content areas"
+  ],
+  "ai_summary": "A versatile, accessible button component with six visual variants (default, destructive, outline, secondary, ghost, link) and four size options. Built with Radix UI Slot for composition, CVA for variant management, and standard Tailwind utilities. Features hover states, focus-visible outlines, disabled states, and subtle shadow effects. Designed for general-purpose use across any SaaS, e-commerce, or web application requiring interactive form controls.",
+  "_classifiedAt": "2026-04-23T01:49:32.064Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

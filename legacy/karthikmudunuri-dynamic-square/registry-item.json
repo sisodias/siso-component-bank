@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "karthikmudunuri-dynamic-square",
+  "type": "registry:ui",
+  "title": "Karthikmudunuri Dynamic Square",
+  "description": "Installed from https://21st.dev/r/karthikmudunuri/dynamic-square",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "karthikmudunuri-dynamic-square"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "dynamic-square.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "next"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/karthikmudunuri/dynamic-square",
+    "fetchedAt": "2026-04-23T03:03:52.787Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

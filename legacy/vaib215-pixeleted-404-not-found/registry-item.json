@@ -1,0 +1,49 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "vaib215-pixeleted-404-not-found",
+  "type": "registry:ui",
+  "title": "Vaib215 Pixeleted 404 Not Found",
+  "description": "Installed from https://21st.dev/r/vaib215/pixeleted-404-not-found",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "vaib215-pixeleted-404-not-found"
+  ],
+  "files": [
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "pixeleted-404-not-found.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "lucide-react",
+    "next"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "syntax error in source (malformed content from registry)"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/vaib215/pixeleted-404-not-found",
+    "fetchedAt": "2026-04-22T06:43:53.681Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

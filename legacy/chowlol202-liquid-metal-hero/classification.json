@@ -1,0 +1,42 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "badge-tag-label",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "creator-tools",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display status labels on dashboard cards",
+    "Show category tags on content items",
+    "Indicate feature flags or plan tiers",
+    "Mark items with destructive or secondary states",
+    "Add visual hierarchy with outline badges"
+  ],
+  "ai_summary": "A versatile badge component with multiple variants (default, secondary, destructive, outline) using class-variance-authority for flexible styling. Features hover and focus states for accessibility, rounded pill design, and border variants. Commonly used in dashboards, e-commerce platforms, and SaaS applications to display status indicators, tags, labels, and categorical information.",
+  "_classifiedAt": "2026-04-23T16:27:34.249Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

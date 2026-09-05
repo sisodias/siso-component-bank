@@ -1,0 +1,28 @@
+{
+  "category": "media",
+  "subcategory": "generative-art, visualization",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "media",
+    "creator-tools",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Dynamic hero section with interactive fractal tree visualization that responds to mouse movement",
+    "Portfolio or creative showcase landing page with generative art background",
+    "Decorative animated element for creative software or design tool interfaces",
+    "Interactive art installation component for media websites",
+    "Ambient visual background for SaaS landing pages seeking distinctive aesthetics"
+  ],
+  "ai_summary": "A generative art component that renders an animated fractal tree on HTML5 Canvas with recursive branching algorithms. The visualization features white-to-transparent branches on a dark background with depth achieved through opacity gradients. Mouse position influences branch angles in real-time, creating an interactive organic tree effect. Uses Framer Motion for orchestration and Lucide icons for potential CTAs.",
+  "_classifiedAt": "2026-04-23T16:34:28.542Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

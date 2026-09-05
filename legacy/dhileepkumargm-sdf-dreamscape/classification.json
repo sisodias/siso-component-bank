@@ -1,0 +1,33 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "webgl-shader-background",
+  "visual_style": [
+    "gradient",
+    "3d"
+  ],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Dynamic hero section background for creative landing pages",
+    "Interactive canvas background for media and entertainment websites",
+    "Visual backdrop for SaaS product showcases",
+    "Shader-based dreamscape effect for artistic portfolios",
+    "Real-time WebGL visualization for dev tools demo pages"
+  ],
+  "ai_summary": "An interactive WebGL shader component that renders a colorful dreamscape visualization using native WebGL2/WebGL with custom GLSL shaders. The effect responds to mouse movement in real-time, featuring configurable parameters for hue, speed, intensity, and complexity. Built with performance optimization using throttled callbacks and a continuous animation loop.",
+  "_classifiedAt": "2026-04-23T01:39:43.753Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,30 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "checkbox-primitive",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Used as a standalone checkbox input for boolean selections in forms",
+    "Embedded in list items for multi-select functionality in task or item management interfaces",
+    "Used for accepting terms, conditions, or agreement checkboxes in onboarding flows",
+    "Integrated into filter interfaces for toggling visibility of data categories",
+    "Utilized in settings panels for enabling or disabling feature toggles"
+  ],
+  "ai_summary": "A lightweight checkbox component built on Radix UI primitives with Tailwind CSS styling. Provides accessible checkbox functionality with focus states, disabled states, and checked state indicator via a check icon. Designed as a reusable atomic component for composing larger form and list interfaces.",
+  "_classifiedAt": "2026-04-23T01:36:19.086Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

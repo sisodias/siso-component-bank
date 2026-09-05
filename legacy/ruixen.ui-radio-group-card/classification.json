@@ -1,0 +1,35 @@
+{
+  "category": [
+    "form",
+    "input"
+  ],
+  "subcategory": "radio-card-selector",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting between pricing tiers or plan options in SaaS dashboards",
+    "Choosing feature configurations or add-ons during onboarding",
+    "Picking product variants or options in e-commerce checkout flows",
+    "Selecting account types or preferences in fintech applications",
+    "Picking delivery or shipping method options"
+  ],
+  "ai_summary": "A Radix UI-based radio group component that renders selectable option cards with titles, optional descriptions and icons. Features a pulsing green indicator dot for the selected state, hover shadow effects, and responsive grid layout. Built with accessibility in mind using Radix primitives for proper keyboard navigation and ARIA support.",
+  "_classifiedAt": "2026-04-22T09:13:13.526Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

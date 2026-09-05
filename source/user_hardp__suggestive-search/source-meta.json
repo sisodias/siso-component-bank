@@ -1,0 +1,26 @@
+{
+  "id": "user_hardp__suggestive-search",
+  "author": "user_hardp",
+  "slug": "suggestive-search",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@user_hardp/components/suggestive-search",
+  "fetchedAt": "2026-08-29T07:52:50.268Z",
+  "completedAt": "2026-08-29T07:52:52.125Z",
+  "versionedFilename": "code.1756881851297.tsx",
+  "codeReference": "r2://components-code-private/larsen66/suggestive-search/code.1756881851297.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/suggestive-search/code.1756881851297.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 18817,
+  "sha256": "83dc2fe28d3af0136c70d1bea0c38238aed7c1de967f73eb839c052e519cb7bc",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "daiwiikharihar__fluid-composer",
+  "author": "daiwiikharihar",
+  "slug": "fluid-composer",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@daiwiikharihar/components/fluid-composer",
+  "fetchedAt": "2026-08-29T04:05:16.772Z",
+  "completedAt": "2026-08-29T04:05:20.077Z",
+  "versionedFilename": "code.1767855356980.tsx",
+  "codeReference": "r2://components-code-private/daiwiikharihar17147/fluid-composer/code.1767855356980.tsx",
+  "codeUrl": "https://cdn.21st.dev/daiwiikharihar17147/fluid-composer/code.1767855356980.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 14919,
+  "sha256": "989d3ff23acf7ceade0d6a27fd67193795cf684a7d028ea23c618adea1f648a3",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

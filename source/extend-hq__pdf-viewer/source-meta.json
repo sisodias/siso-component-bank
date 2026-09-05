@@ -1,0 +1,26 @@
+{
+  "id": "extend-hq__pdf-viewer",
+  "author": "extend-hq",
+  "slug": "pdf-viewer",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@extend-hq/components/pdf-viewer",
+  "fetchedAt": "2026-08-29T04:47:05.860Z",
+  "completedAt": "2026-08-29T04:47:08.302Z",
+  "versionedFilename": "code.1782168008064.tsx",
+  "codeReference": "r2://components-code-private/larsen66/pdf-viewer/code.1782168008064.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/pdf-viewer/code.1782168008064.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 80921,
+  "sha256": "c4b13bc3e65a8246a3ab6c9b251b7d32c512f4005fb98ca32379c15d6c86521a",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

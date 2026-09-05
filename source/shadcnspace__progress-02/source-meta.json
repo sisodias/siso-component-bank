@@ -1,0 +1,26 @@
+{
+  "id": "shadcnspace__progress-02",
+  "author": "shadcnspace",
+  "slug": "progress-02",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcnspace/components/progress-02",
+  "fetchedAt": "2026-08-29T07:11:58.479Z",
+  "completedAt": "2026-08-29T07:12:00.988Z",
+  "versionedFilename": "code.1783694619073.tsx",
+  "codeReference": "r2://components-code-private/shadcnspace/progress-02/code.1783694619073.tsx",
+  "codeUrl": "https://cdn.21st.dev/shadcnspace/progress-02/code.1783694619073.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1557,
+  "sha256": "4030990bbcd369ca9b21afb99029dedc420d19cedce33d86aea16feaddc5a6ee",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "time-picker-dropdown",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Form input for scheduling appointments or meetings with time selection",
+    "Booking systems requiring start or end time selection",
+    "Alarm or reminder configuration interfaces",
+    "Event duration or time-based filtering in dashboards",
+    "Time tracking or timesheet entry in productivity apps"
+  ],
+  "ai_summary": "A dual-dropdown time picker component that allows users to select hours (0-23) and minutes (0-55 in 5-minute increments) with a clean, bordered interface. Features dark/light mode support, click-to-reveal dropdowns with hover states, and Lucide icons for visual context. Built with Tailwind CSS for styling and React state hooks for interaction management.",
+  "_classifiedAt": "2026-04-23T17:21:19.960Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

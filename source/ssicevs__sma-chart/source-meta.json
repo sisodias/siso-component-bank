@@ -1,0 +1,26 @@
+{
+  "id": "ssicevs__sma-chart",
+  "author": "ssicevs",
+  "slug": "sma-chart",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ssicevs/components/sma-chart",
+  "fetchedAt": "2026-08-29T07:28:43.838Z",
+  "completedAt": "2026-08-29T07:28:46.030Z",
+  "versionedFilename": "code.1785373427807-809b724f-2d1e-4119-af2c-48f7b9e2d2b5.tsx",
+  "codeReference": "r2://components-code-private/ssicevs/sma-chart/code.1785373427807-809b724f-2d1e-4119-af2c-48f7b9e2d2b5.tsx",
+  "codeUrl": "https://cdn.21st.dev/ssicevs/sma-chart/code.1785373427807-809b724f-2d1e-4119-af2c-48f7b9e2d2b5.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

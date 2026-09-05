@@ -1,0 +1,30 @@
+{
+  "category": "layout",
+  "subcategory": "resizable-split-view",
+  "visual_style": [],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "media",
+    "e-commerce",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creating resizable split-view layouts for document or code editing interfaces",
+    "Building dashboard panels with adjustable widths for personalized workspaces",
+    "Implementing side-by-side comparison views for products or content",
+    "Designing file browser layouts with resizable navigation and content areas",
+    "Constructing email or messaging interfaces with list-detail split views"
+  ],
+  "ai_summary": "A resizable split-view layout component from Ark UI that divides content into two draggable panels separated by a resize handle. Supports keyboard navigation via aria-labels, dark mode theming, and smooth hover/active states on the resize trigger. Used for creating adjustable workspace layouts in dashboards, code editors, file browsers, and comparison interfaces.",
+  "_classifiedAt": "2026-04-22T08:52:12.690Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

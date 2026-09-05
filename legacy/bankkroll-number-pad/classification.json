@@ -1,0 +1,33 @@
+{
+  "category": [
+    "other"
+  ],
+  "subcategory": "badge-status-indicator",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying status labels on UI elements",
+    "Showing count or category badges",
+    "Tagging items with metadata",
+    "Indicating notification counts",
+    "Highlighting featured or new items"
+  ],
+  "ai_summary": "A versatile badge component with four variants (default, secondary, destructive, outline) built with Tailwind CSS and class-variance-authority. Features accessible focus states with ring styling for keyboard navigation. Used for displaying status indicators, tags, counts, and metadata labels across various UI contexts. Minimalist flat design suitable for any platform.",
+  "_classifiedAt": "2026-04-23T11:32:03.040Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

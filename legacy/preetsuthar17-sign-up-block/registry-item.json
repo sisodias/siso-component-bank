@@ -1,0 +1,65 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "preetsuthar17-sign-up-block",
+  "type": "registry:ui",
+  "title": "Preetsuthar17 Sign Up Block",
+  "description": "Installed from https://21st.dev/r/preetsuthar17/sign-up-block",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "preetsuthar17-sign-up-block"
+  ],
+  "files": [
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "card.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "checkbox.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "input.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "label.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "sign-up-block.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-checkbox",
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "lucide-react",
+    "motion",
+    "next"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/preetsuthar17/sign-up-block",
+    "fetchedAt": "2026-04-23T01:16:57.814Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

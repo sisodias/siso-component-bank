@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@kokonutd/components/faq",
+  "author": "kokonutd",
+  "slug": "faq",
+  "name": "faq",
+  "description": "A comprehensive FAQ section component with animated accordions, gradient styling, and an optional contact prompt. Built with shadcn/ui primitives and Framer Motion animations.\n\nFeatures\n\n- Header Section\n  - Gradient text title\n  - Optional description\n  - Animated entrance\n\n- FAQ Items\n  - Animated accordions\n  - Smooth transitions\n  - Progressive reveal animation\n  - Interactive hover states\n  - Gradient backgrounds\n  - Status indicators\n\n- Contact Section\n  - Optional inclusion\n  - Custom call-to-action\n  - Animated entrance\n  - Configurable content",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/kokonutd/faq?api_key=$API_KEY_21ST\"",
+  "id": "kokonutd__faq",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1543.html",
+  "previewUrl": "https://cdn.21st.dev/user_2rQ1QHrJyxpmWMHhqhANzWMc64n/faq.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 569,
+  "demo_id": 1543,
+  "video_url": "https://cdn.21st.dev/kokonutd/faq/default/video.1785194049256-75dc726c-566b-47ef-aa96-350eadcb63fd.mp4"
+}

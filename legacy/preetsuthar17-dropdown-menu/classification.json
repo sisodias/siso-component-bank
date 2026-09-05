@@ -1,0 +1,35 @@
+{
+  "category": [
+    "navigation",
+    "overlay"
+  ],
+  "subcategory": "dropdown-menu",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Navigation menus with expandable options for hierarchical content",
+    "Action dropdowns for triggering contextual operations like edit, delete, or share",
+    "User account menus with profile, settings, and logout options",
+    "Filter and sorting menus in data tables or product listings",
+    "Theme or display preference toggles in application settings"
+  ],
+  "ai_summary": "A reusable dropdown menu component built on Radix UI primitives featuring customizable button variants with multiple styles and sizes. Supports hover states, keyboard navigation, and click-to-reveal interactions for displaying contextual options or navigation links. Includes slot composition for flexible icon placement and loading states.",
+  "_classifiedAt": "2026-04-23T17:07:42.587Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

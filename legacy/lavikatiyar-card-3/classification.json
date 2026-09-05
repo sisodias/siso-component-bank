@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "property-listing",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "real-estate",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Display real estate property listings with images, pricing, and ratings",
+    "Showcase property search results in grid layouts",
+    "Present featured or recommended properties on landing pages",
+    "Create comparison cards for multiple property listings",
+    "Build real estate agent portfolio showcases"
+  ],
+  "ai_summary": "A property listing card component featuring a hero image with smooth zoom-on-hover effect, property details including name, location with map pin icon, pricing, and star rating with review count. Built with Framer Motion for entrance animations and hover scale effects. Uses shadcn/ui-style Tailwind classes with rounded borders, subtle shadows, and clean typography for a professional real estate interface.",
+  "_classifiedAt": "2026-04-23T01:42:31.680Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

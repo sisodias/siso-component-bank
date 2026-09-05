@@ -1,0 +1,26 @@
+{
+  "id": "medanasknan__halftone-shader",
+  "author": "medanasknan",
+  "slug": "halftone-shader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@medanasknan/components/halftone-shader",
+  "fetchedAt": "2026-08-29T05:39:48.731Z",
+  "completedAt": "2026-08-29T05:39:50.924Z",
+  "versionedFilename": "code.1786234549397-a68ace82-78df-4194-9b31-00eb11aefd1e.tsx",
+  "codeReference": "r2://components-code-private/medanasknan/halftone-shader/code.1786234549397-a68ace82-78df-4194-9b31-00eb11aefd1e.tsx",
+  "codeUrl": "https://cdn.21st.dev/medanasknan/halftone-shader/code.1786234549397-a68ace82-78df-4194-9b31-00eb11aefd1e.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

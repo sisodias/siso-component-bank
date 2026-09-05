@@ -1,0 +1,30 @@
+{
+  "category": "data-display",
+  "subcategory": "interactive-zoomable-canvas",
+  "visual_style": [],
+  "interactions": [
+    "drag",
+    "scroll-animate",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creative-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive exploration of large datasets with zoom and pan capabilities",
+    "Creative generative art visualization with mathematical patterns",
+    "Dashboard components requiring zoomable canvas areas",
+    "Educational visualization tools for exploring complex data patterns",
+    "Map or image viewer with smooth zoom transformations"
+  ],
+  "ai_summary": "An interactive zoomable canvas component featuring a phyllotaxis pattern with rainbow-colored dots rendered on a dark background. Supports smooth pan, zoom, and drag interactions via @visx/zoom, with an optional minimap for navigation context. Designed for exploring dense visualizations or creative generative art displays.",
+  "_classifiedAt": "2026-04-23T11:30:04.900Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "educlopez-animated-progress-bar",
+  "type": "registry:ui",
+  "title": "Educlopez Animated Progress Bar",
+  "description": "Installed from https://21st.dev/r/educlopez/animated-progress-bar",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "educlopez-animated-progress-bar"
+  ],
+  "files": [
+    {
+      "path": "animated-progress-bar.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/educlopez/animated-progress-bar",
+    "fetchedAt": "2026-04-23T01:18:22.338Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

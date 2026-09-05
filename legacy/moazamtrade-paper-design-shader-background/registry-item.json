@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "moazamtrade-paper-design-shader-background",
+  "type": "registry:ui",
+  "title": "Moazamtrade Paper Design Shader Background",
+  "description": "Installed from https://21st.dev/r/moazamtrade/paper-design-shader-background",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "moazamtrade-paper-design-shader-background"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "paper-design-shader-background.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@paper-design/shaders-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/moazamtrade/paper-design-shader-background",
+    "fetchedAt": "2026-04-23T01:18:27.200Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

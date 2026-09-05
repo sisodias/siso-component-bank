@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "boolean-selector",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Form inputs for accepting terms, conditions, or newsletter subscriptions",
+    "Filter selections in data tables or product listings",
+    "Settings toggles for feature preferences and configurations",
+    "Selection controls in task management or to-do applications",
+    "Multi-select options in surveys or questionnaires"
+  ],
+  "ai_summary": "A lightweight checkbox component built on Radix UI primitives with Tailwind CSS styling. Features proper accessibility support with focus states, disabled states, and aria-invalid handling. Suitable for any industry requiring boolean form inputs, from SaaS dashboards to e-commerce checkout flows.",
+  "_classifiedAt": "2026-04-22T09:01:36.171Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

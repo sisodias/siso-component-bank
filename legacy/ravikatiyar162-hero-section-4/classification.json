@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "button-component",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons for forms and landing pages",
+    "Secondary action buttons with outline or ghost variants",
+    "Destructive action buttons for delete or warning confirmations",
+    "Icon buttons for compact toolbar or navigation actions",
+    "Link-style buttons for inline text navigation"
+  ],
+  "ai_summary": "A versatile atomic button component built with Radix UI Slot and class-variance-authority, supporting 6 variants (default, destructive, outline, secondary, ghost, link) and 4 sizes (default, sm, lg, icon). Features standard accessibility focus states and hover transitions for interactive form and navigation elements.",
+  "_classifiedAt": "2026-04-23T01:47:15.068Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,30 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "horizontal-bar-chart",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying security threat statistics by category in analytics dashboards",
+    "Comparing categorical metrics across different attack types",
+    "Visualizing performance or usage data in horizontal format",
+    "Monitoring cybersecurity metrics with animated visual feedback"
+  ],
+  "ai_summary": "A horizontal bar chart component built with Reaviz for visualizing categorical data across metrics like security threat categories (Brute Force, Web Attack, Malware, Phishing). Features animated bars with custom icons and metric labels, using motion for scroll-triggered animations. Designed for analytics dashboards in SaaS, dev-tools, and fintech applications requiring data visualization.",
+  "_classifiedAt": "2026-04-23T17:14:48.822Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,32 @@
+{
+  "category": [
+    "layout",
+    "card"
+  ],
+  "subcategory": "draggable-card-grid",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Reordering dashboard widgets through drag-and-drop",
+    "Organizing task cards in project management tools",
+    "Managing customizable product display grids in e-commerce",
+    "Building personalized user interfaces with swappable components"
+  ],
+  "ai_summary": "A draggable card layout component using the Swapy library that enables interactive item reordering via drag-and-drop with customizable animation styles, swap modes, and auto-scroll functionality for building flexible dashboard and grid interfaces.",
+  "_classifiedAt": "2026-04-23T17:38:56.953Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

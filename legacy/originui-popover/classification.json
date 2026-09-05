@@ -1,0 +1,27 @@
+{
+  "category": "overlay",
+  "subcategory": "floating-panel",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Contextual information display triggered by user interaction",
+    "Quick action menus and tooltips in forms",
+    "Dropdown selections and navigation menus"
+  ],
+  "ai_summary": "A Radix UI-based popover component for displaying floating content panels positioned relative to triggers. Features smooth animations for open/close states, configurable positioning, optional arrow indicators, and responsive styling using Tailwind CSS with customizable themes.",
+  "_classifiedAt": "2026-04-23T17:04:43.107Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

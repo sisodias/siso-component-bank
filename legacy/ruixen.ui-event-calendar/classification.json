@@ -1,0 +1,33 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Form submission triggers in authentication and data entry interfaces",
+    "Navigation action triggers in dashboards and admin panels",
+    "Call-to-action buttons in marketing and landing pages",
+    "Interactive controls in modal dialogs and overlays",
+    "Icon or compact action buttons in toolbars and command interfaces"
+  ],
+  "ai_summary": "A reusable Button component built with Radix UI's Slot primitive for flexible composition and class-variance-authority for scalable variant management. Supports multiple visual variants including default, destructive, outline, secondary, ghost, and link styles with responsive sizing options and accessible focus states.",
+  "_classifiedAt": "2026-04-23T01:49:32.643Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

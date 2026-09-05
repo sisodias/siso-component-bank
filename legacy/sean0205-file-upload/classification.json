@@ -1,0 +1,35 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "alert-banner",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying status messages like success, error, or warning notifications to users",
+    "Showing informational alerts in dashboards or forms",
+    "Providing feedback after user actions in SaaS applications",
+    "Creating branded alert components with custom color variables"
+  ],
+  "ai_summary": "A customizable alert component with multiple variants (primary, secondary, destructive, success, info, warning) and appearance styles (solid, outline, light, stroke). Supports three sizes (lg, md, sm) and uses CSS variables for theming. Designed for displaying status messages and notifications in web applications.",
+  "_classifiedAt": "2026-04-23T17:22:45.200Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

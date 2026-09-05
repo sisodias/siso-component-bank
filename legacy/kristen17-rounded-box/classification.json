@@ -1,0 +1,35 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "3D visualization with Three.js",
+  "visual_style": [
+    "3d",
+    "gradient"
+  ],
+  "interactions": [
+    "drag",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Interactive landing page hero backgrounds with 3D rotating elements",
+    "Product showcase sections with user-controllable 3D models",
+    "Creative portfolio or portfolio website visual accents",
+    "SaaS dashboard or marketing page decorative 3D elements"
+  ],
+  "ai_summary": "A Three.js-powered 3D visualization component featuring a RoundedBoxGeometry with dynamic textures and interactive OrbitControls. The component renders an animated 3D scene with mouse-controlled rotation, damping effects, and real-world textures from Unsplash. Designed as a reusable, mixed-platform component suitable for hero sections, backgrounds, or interactive product displays with professional-grade WebGL rendering.",
+  "_classifiedAt": "2026-04-23T16:49:54.266Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

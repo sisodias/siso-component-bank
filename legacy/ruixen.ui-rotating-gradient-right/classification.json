@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons in forms and landing pages",
+    "Destructive action triggers with red warning styling",
+    "Outline-style buttons for secondary navigation actions",
+    "Ghost buttons for subtle, background-hover interactions",
+    "Link-style buttons for inline navigation within text content"
+  ],
+  "ai_summary": "A foundational atomic button component built with Radix UI Slot and class-variance-authority. Features multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon) following shadcn/ui design patterns. Includes accessibility features like focus-visible rings, disabled states, and asChild prop for composition with Radix primitives. Clean, flat visual style with minimal styling that adapts to any design system.",
+  "_classifiedAt": "2026-04-23T17:19:57.776Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

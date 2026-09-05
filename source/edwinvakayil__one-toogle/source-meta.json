@@ -1,0 +1,26 @@
+{
+  "id": "edwinvakayil__one-toogle",
+  "author": "edwinvakayil",
+  "slug": "one-toogle",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@edwinvakayil/components/one-toogle",
+  "fetchedAt": "2026-08-29T04:42:24.668Z",
+  "completedAt": "2026-08-29T04:42:26.830Z",
+  "versionedFilename": "code.1780696679219.tsx",
+  "codeReference": "r2://components-code-private/lyanchouss/one-toogle/code.1780696679219.tsx",
+  "codeUrl": "https://cdn.21st.dev/lyanchouss/one-toogle/code.1780696679219.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10436,
+  "sha256": "bf08271a17fac7bbe05a84ce39be3bac9dba84a6096421d834889c72cacfb5ff",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

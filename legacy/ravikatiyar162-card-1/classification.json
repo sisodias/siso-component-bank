@@ -1,0 +1,31 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "zoom-image-card",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "media",
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive product image zoom on hover with smooth spring physics",
+    "Image gallery cards with cursor-centered zoom effect for better detail viewing",
+    "Portfolio or showcase cards requiring interactive image exploration"
+  ],
+  "ai_summary": "An interactive card component featuring a smooth zoom-on-hover effect powered by Framer Motion's spring physics. The component tracks mouse position to dynamically set the transform-origin, creating a natural lens-like zoom effect centered on the cursor. Ideal for e-commerce product cards, media galleries, or any UI requiring enhanced image interaction with fluid animations.",
+  "_classifiedAt": "2026-04-23T17:11:05.712Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

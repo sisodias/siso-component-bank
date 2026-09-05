@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@reshaped/components/reshaped-menu-item",
+  "author": "reshaped",
+  "slug": "reshaped-menu-item",
+  "name": "reshaped-menu-item",
+  "description": "Building block for menus and navigation that renders its main area from children and works with both href and onClick. Supports critical and neutral colors, selected and disabled states, three sizes, startSlot/endSlot composition, built-in icon support and a MenuItem.Aligner utility for aligning with surrounding text.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/reshaped/reshaped-menu-item?api_key=$API_KEY_21ST\"",
+  "id": "reshaped__reshaped-menu-item",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/reshaped-menu-item/default/bundle.1783431172571.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/reshaped-menu-item/default/preview.1783431172571.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

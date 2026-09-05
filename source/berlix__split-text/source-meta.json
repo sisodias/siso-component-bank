@@ -1,0 +1,26 @@
+{
+  "id": "berlix__split-text",
+  "author": "berlix",
+  "slug": "split-text",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@berlix/components/split-text",
+  "fetchedAt": "2026-08-29T03:50:13.760Z",
+  "completedAt": "2026-08-29T03:50:16.007Z",
+  "versionedFilename": "code.1750174628095.tsx",
+  "codeReference": "r2://components-code-private/larsen66/split-text/code.1750174628095.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/split-text/code.1750174628095.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1979,
+  "sha256": "67e1ea46bcf00937c8d931c045efc61d7c5b07e103de01037952a6c5c8eb79ae",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "heatmap-chart",
+  "visual_style": [
+    "flat",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display user activity patterns across days and hours for SaaS analytics dashboards",
+    "Visualize peak usage times for resource planning in dev-tools platforms",
+    "Show shopping or transaction patterns by time for e-commerce insights",
+    "Track trading or transaction volume patterns for fintech applications",
+    "Monitor engagement metrics across different time segments for media platforms"
+  ],
+  "ai_summary": "A Reaviz-based heat map visualization component that displays activity data across a grid of days and hours. Features Framer Motion animations and uses sequential gradient coloring to represent data intensity. Ideal for dashboards needing temporal pattern analysis with hover interactions to explore specific data points.",
+  "_classifiedAt": "2026-04-23T17:14:38.248Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,31 @@
+{
+  "category": [
+    "form"
+  ],
+  "subcategory": "authentication-login-form",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "User login with email and password for web applications",
+    "Social authentication via Google or other OAuth providers",
+    "Account registration initiation flow",
+    "Password reset request trigger",
+    "Session timeout re-authentication"
+  ],
+  "ai_summary": "A clean, minimalist login form component featuring an email input field, traditional sign-in button, and social authentication options (Google). Designed for SaaS and web applications with a professional flat visual style using indigo accent colors. Includes hover states on interactive elements and a centered layout suitable for authentication screens.",
+  "_classifiedAt": "2026-04-23T01:40:05.189Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

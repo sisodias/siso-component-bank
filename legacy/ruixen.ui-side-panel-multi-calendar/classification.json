@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "action-button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Triggering form submissions in data-entry interfaces",
+    "Initiating modal dialogs or overlays",
+    "Navigation actions within multi-step flows",
+    "Primary call-to-action in pricing or conversion sections",
+    "Toggling UI states like sidebars or panels"
+  ],
+  "ai_summary": "A versatile button component built on Radix UI Slot and class-variance-authority, providing multiple visual variants (default, destructive, outline, secondary, ghost, link) and size options (default, small, large, icon). Features standard focus-visible outlines, hover states, and disabled states with smooth CSS transitions. Designed as a foundational atomic component for React interfaces, commonly paired with calendar, side panel, and form components in modern SaaS applications.",
+  "_classifiedAt": "2026-04-22T09:13:26.697Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

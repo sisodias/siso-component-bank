@@ -1,0 +1,33 @@
+{
+  "id": "h0bb5__customizable-loader-spinner-transition",
+  "author": "h0bb5",
+  "slug": "customizable-loader-spinner-transition",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@h0bb5/components/customizable-loader-spinner-transition",
+  "fetchedAt": "2026-08-29T04:53:34.572Z",
+  "completedAt": "2026-08-29T04:53:36.454Z",
+  "versionedFilename": "code.1785467810972-94a36b12-5e26-4640-8066-79b7fa927bd6.tsx",
+  "codeReference": "r2://components-code-private/h0bb5/customizable-loader-spinner-transition/code.1785467810972-94a36b12-5e26-4640-8066-79b7fa927bd6.tsx",
+  "codeUrl": "https://cdn.21st.dev/h0bb5/customizable-loader-spinner-transition/code.1785467810972-94a36b12-5e26-4640-8066-79b7fa927bd6.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/h0bb5__customizable-loader-spinner-transition/code.tsx",
+    "bytes": 11216,
+    "sha256": "199d1af8ba6fec424b3b095829ff6f58f881dbc14cd84bfaffe5ecc878e863d0",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

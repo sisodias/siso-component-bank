@@ -1,0 +1,33 @@
+{
+  "id": "preetsuthar17__shining-text",
+  "author": "preetsuthar17",
+  "slug": "shining-text",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@preetsuthar17/components/shining-text",
+  "fetchedAt": "2026-08-29T06:14:38.228Z",
+  "completedAt": "2026-08-29T06:14:39.661Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/preetsuthar17__shining-text/code.tsx",
+    "bytes": 577,
+    "sha256": "007617e6ecfe5a8460383130414a90edd3f3567f31088de4d56dfcd27ef5e52f",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

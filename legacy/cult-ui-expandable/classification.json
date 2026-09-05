@@ -1,0 +1,38 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "user-avatar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "real-estate",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display user profile pictures in applications and dashboards",
+    "Show placeholder fallback when avatar images fail to load",
+    "Display user avatars in comment sections and review systems",
+    "Render author or reviewer avatars in content management interfaces",
+    "Show user avatars in notification panels and activity feeds"
+  ],
+  "ai_summary": "A Radix UI-based avatar component with image and fallback support, built with Tailwind CSS. Part of the Cult UI design system, it provides a rounded user profile picture display with automatic fallback to initials when the image fails to load. Suitable for any application requiring user representation.",
+  "_classifiedAt": "2026-04-23T16:28:24.263Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

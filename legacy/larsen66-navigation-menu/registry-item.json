@@ -1,0 +1,61 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "larsen66-navigation-menu",
+  "type": "registry:ui",
+  "title": "Larsen66 Navigation Menu",
+  "description": "Installed from https://21st.dev/r/larsen66/navigation-menu",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "larsen66-navigation-menu"
+  ],
+  "files": [
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "input.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "label.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "navigation-menu.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "sheet.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-dialog",
+    "@radix-ui/react-label",
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "framer-motion",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/larsen66/navigation-menu",
+    "fetchedAt": "2026-04-23T03:03:54.455Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

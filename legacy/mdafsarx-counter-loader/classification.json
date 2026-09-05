@@ -1,0 +1,38 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "counter-loader-animation",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display a loading state while waiting for data to fetch",
+    "Show progress feedback during async operations or page transitions",
+    "Use as a placeholder while content is being processed",
+    "Indicate work in progress in dashboards or admin panels",
+    "Provide visual feedback during form submissions or API calls"
+  ],
+  "ai_summary": "A minimal counter-style loading animation component featuring 15 grid-positioned boxes that animate on and off in a pattern, creating a sequential counter-like visual effect. Built with styled-components and CSS keyframe animations for smooth looping transitions. Ideal for indicating loading states in various web applications where a simple, non-intrusive spinner is needed.",
+  "_classifiedAt": "2026-04-22T09:05:24.799Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

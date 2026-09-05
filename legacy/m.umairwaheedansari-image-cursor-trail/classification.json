@@ -1,0 +1,27 @@
+{
+  "category": "feedback",
+  "subcategory": "cursor-trail, image-follow-effect",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creates an interactive image trail that follows the cursor for engaging visual effects on landing pages",
+    "Adds animated image sequences behind the mouse pointer for marketing and portfolio websites",
+    "Provides a playful cursor interaction for product showcases and galleries",
+    "Enhances user engagement with dynamic cursor-following visuals on creative agency sites",
+    "Delivers ambient motion effects that respond to user mouse/touch movement"
+  ],
+  "ai_summary": "An interactive cursor trail component that displays a sequence of images following the mouse or touch position, creating a visually engaging trail effect. Supports configurable trail length, animation distance, and optional fade transitions. The component manages its own z-index cycling to ensure proper layering of trailing images and responds to both desktop mouse and mobile touch events.",
+  "_classifiedAt": "2026-04-23T16:53:54.041Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

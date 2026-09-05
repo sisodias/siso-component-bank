@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in forms, landing pages, and modal dialogs",
+    "Destructive action triggers with red styling for delete or warning operations",
+    "Navigation links with underline styling for secondary navigation patterns",
+    "Icon-only buttons for toolbar actions and compact UI contexts",
+    "Loading state buttons for async operations like form submissions"
+  ],
+  "ai_summary": "A highly reusable button component built with Radix UI Slot and class-variance-authority for flexible variant and size customization. Supports multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes (sm, default, lg, xl, icon). Includes accessibility features like focus-visible rings, loading states, and icon slot support for left/right positioning. Designed as an atomic component suitable for any UI system requiring consistent button styling across SaaS, e-commerce, or dev-tool applications.",
+  "_classifiedAt": "2026-04-23T17:07:31.706Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

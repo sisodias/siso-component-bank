@@ -1,0 +1,29 @@
+{
+  "category": "data-display",
+  "subcategory": "user-avatar",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying user profile pictures in navigation bars and headers",
+    "Showing avatars in comment sections and user lists",
+    "Representing users in notification panels and activity feeds",
+    "User identification in dashboards and admin interfaces",
+    "Profile display in social features and collaboration tools"
+  ],
+  "ai_summary": "A minimal avatar component built on Radix UI primitives with image and fallback support. Uses standard Tailwind classes for rounded-full styling and muted background colors. Part of the GitHub inline diff component set from 21st.dev, designed for displaying user profile information in developer-focused interfaces with clean, accessible markup.",
+  "_classifiedAt": "2026-04-23T01:40:53.715Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

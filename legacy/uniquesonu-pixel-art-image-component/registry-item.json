@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "uniquesonu-pixel-art-image-component",
+  "type": "registry:ui",
+  "title": "Uniquesonu Pixel Art Image Component",
+  "description": "Installed from https://21st.dev/r/uniquesonu/pixel-art-image-component",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "uniquesonu-pixel-art-image-component"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "pixel-art-image-component.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/uniquesonu/pixel-art-image-component",
+    "fetchedAt": "2026-04-23T01:18:12.662Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

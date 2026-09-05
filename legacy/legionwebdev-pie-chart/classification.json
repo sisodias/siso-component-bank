@@ -1,0 +1,41 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "badge-label",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying status indicators with variant-based color coding for user feedback",
+    "Labeling and categorizing content with rounded pill-style tags",
+    "Showing metadata such as counts, versions, or labels on cards and list items",
+    "Creating notification badges by placing them over other components",
+    "Highlighting selected or featured items in navigation or content lists"
+  ],
+  "ai_summary": "A reusable Badge component with CVA-based variants (default, secondary, destructive, outline) for displaying labels, tags, and status indicators. Features rounded pill styling with hover states and accessibility focus rings. Used across industries for categorizing content, showing counts, or highlighting UI elements.",
+  "_classifiedAt": "2026-04-23T16:51:17.233Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

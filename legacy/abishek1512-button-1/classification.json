@@ -1,0 +1,21 @@
+{
+  "category": "input",
+  "subcategory": "gradient-button",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons on landing pages and marketing sites",
+    "Keyboard-accessible interactive buttons with gradient styling",
+    "Form submission and action trigger buttons in web applications",
+    "Animated gradient buttons for visual emphasis in UI designs"
+  ],
+  "ai_summary": "A gradient-animated button component with a rotating color effect and rounded pill shape. Features keyboard accessibility with Enter/Space key support, disabled state handling, and customizable dimensions via width and height props. The button uses a nested pseudo-element technique with an inner span for text, creating a layered gradient effect suitable for prominent CTAs and marketing-focused interfaces.",
+  "_classifiedAt": "2026-04-23T11:28:09.154Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

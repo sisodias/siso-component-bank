@@ -1,0 +1,30 @@
+{
+  "category": "navigation",
+  "subcategory": "social-media-dock",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Floating social media dock for linking profiles in website footers or sidebars",
+    "Contact dock providing quick access to email and social platforms",
+    "Personal portfolio navigation for connecting with audiences across platforms",
+    "Developer profile dock for showcasing GitHub, LinkedIn, and other professional links",
+    "Creative agency toolbar for client engagement on social channels"
+  ],
+  "ai_summary": "A magnetic social media dock component featuring animated SVG icons (GitHub, LinkedIn, Twitter, Mail) that respond to cursor proximity with smooth Framer Motion animations. The component uses a shared MouseContext to track position across dock items, creating an engaging magnetic attraction effect on hover. Perfect for website footers, portfolios, or as a floating navigation element for social profile links.",
+  "_classifiedAt": "2026-04-23T01:39:20.441Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

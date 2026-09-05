@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "arihantcodes_1f7b8c4d-loading-button",
+  "type": "registry:ui",
+  "title": "Arihantcodes_1f7b8c4d Loading Button",
+  "description": "Installed from https://21st.dev/r/arihantcodes_1f7b8c4d/loading-button",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "arihantcodes_1f7b8c4d-loading-button"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "loading-button.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/arihantcodes_1f7b8c4d/loading-button",
+    "fetchedAt": "2026-04-23T02:29:12.978Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

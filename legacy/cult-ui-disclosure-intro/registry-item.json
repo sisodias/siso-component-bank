@@ -1,0 +1,78 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "cult-ui-disclosure-intro",
+  "type": "registry:ui",
+  "title": "Cult Ui Disclosure Intro",
+  "description": "Installed from https://21st.dev/r/cult-ui/disclosure-intro",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "cult-ui-disclosure-intro"
+  ],
+  "files": [
+    {
+      "path": "aspect-ratio.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "checkbox.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "collapsible.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "dialog.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "disclosure-intro.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "drawer.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "progress.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-aspect-ratio",
+    "@radix-ui/react-checkbox",
+    "@radix-ui/react-collapsible",
+    "@radix-ui/react-dialog",
+    "@radix-ui/react-progress",
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "framer-motion",
+    "lucide-react",
+    "next",
+    "vaul"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/cult-ui/disclosure-intro",
+    "fetchedAt": "2026-04-23T03:04:06.983Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

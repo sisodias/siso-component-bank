@@ -1,0 +1,34 @@
+{
+  "category": "card",
+  "subcategory": "3d-tilt-card",
+  "visual_style": [
+    "3d",
+    "dark"
+  ],
+  "interactions": [
+    "parallax",
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "creator-tools",
+    "media",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Product showcase cards with interactive 3D hover effects for e-commerce sites",
+    "Profile or portfolio cards that respond to mouse movement with tilt animations",
+    "Interactive image galleries where cards tilt toward the cursor",
+    "Feature highlight cards in SaaS landing pages with depth effects",
+    "Creative portfolio displays with dynamic shadow and perspective changes"
+  ],
+  "ai_summary": "An interactive 3D tilt card component that responds to mouse movement with perspective transforms and dynamic shadow effects. Features image upload capability via file input, creating a personalized card experience. The dark-themed design includes an orthogonal grid background pattern and uses calculated shadow offsets to enhance the 3D depth effect. Ideal for interactive product showcases, portfolio cards, or creative galleries.",
+  "_classifiedAt": "2026-04-22T08:52:49.400Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

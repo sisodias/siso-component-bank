@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@dev.yadhakim/components/scroll-reveal-text",
+  "author": "dev.yadhakim",
+  "slug": "scroll-reveal-text",
+  "name": "scroll-reveal-text",
+  "description": "Apple keynote-style text animation where each word individually transitions from dimmed and blurred to sharp and vivid as you scroll through. Uses scroll-linked per-word opacity, color, and blur transforms — no keyframes, purely driven by scroll position. Supports multiple paragraphs. Pass any text and customize highlight/dim colors.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/dev.yadhakim/scroll-reveal-text?api_key=$API_KEY_21ST\"",
+  "id": "dev.yadhakim__scroll-reveal-text",
+  "bundleUrl": "https://cdn.21st.dev/dev.yadhakim/scroll-reveal-text/default/bundle.1771524183682.html",
+  "previewUrl": "https://cdn.21st.dev/dev.yadhakim/scroll-reveal-text/default/preview.1771524183682.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__about-page",
+  "author": "ruixen.ui",
+  "slug": "about-page",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/about-page",
+  "fetchedAt": "2026-08-29T06:38:25.327Z",
+  "completedAt": "2026-08-29T06:38:27.939Z",
+  "versionedFilename": "code.1759946300968.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/about-page/code.1759946300968.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/about-page/code.1759946300968.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6362,
+  "sha256": "a31d544dfcf7b66515534368e843494d634040a5aa3c167ed04084b9f8dd1bf0",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

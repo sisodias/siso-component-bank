@@ -1,0 +1,33 @@
+{
+  "id": "yadwinder__bottom-menu",
+  "author": "yadwinder",
+  "slug": "bottom-menu",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@yadwinder/components/bottom-menu",
+  "fetchedAt": "2026-08-29T07:59:15.104Z",
+  "completedAt": "2026-08-29T07:59:16.534Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/yadwinder__bottom-menu/code.tsx",
+    "bytes": 3842,
+    "sha256": "b0b19b07e90912b2fd83ea6c99d8967d1484b66cbe73525681829a0ad0c9b41f",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

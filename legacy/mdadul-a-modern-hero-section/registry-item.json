@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "mdadul-a-modern-hero-section",
+  "type": "registry:ui",
+  "title": "Mdadul A Modern Hero Section",
+  "description": "Installed from https://21st.dev/r/mdadul/a-modern-hero-section",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "mdadul-a-modern-hero-section"
+  ],
+  "files": [
+    {
+      "path": "a-modern-hero-section.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/mdadul/a-modern-hero-section",
+    "fetchedAt": "2026-04-23T03:04:17.947Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

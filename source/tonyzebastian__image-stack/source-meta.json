@@ -1,0 +1,26 @@
+{
+  "id": "tonyzebastian__image-stack",
+  "author": "tonyzebastian",
+  "slug": "image-stack",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@tonyzebastian/components/image-stack",
+  "fetchedAt": "2026-08-29T07:39:56.474Z",
+  "completedAt": "2026-08-29T07:39:58.660Z",
+  "versionedFilename": "code.1758733430194.tsx",
+  "codeReference": "r2://components-code-private/tonyzebastian/image-stack/code.1758733430194.tsx",
+  "codeUrl": "https://cdn.21st.dev/tonyzebastian/image-stack/code.1758733430194.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4878,
+  "sha256": "fb578e0faf8b1dd45fcdef5e063fd789ef90c9bee71ce84ca6671bccb0df43e8",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

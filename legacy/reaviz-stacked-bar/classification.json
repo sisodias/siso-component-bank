@@ -1,0 +1,30 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "stacked-bar-chart",
+  "visual_style": [
+    "flat",
+    "colorful"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "healthcare"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying cybersecurity incident reports across multiple threat categories like phishing, malware, and ransomware",
+    "Visualizing severity distribution of security threats with stacked segments showing Low, Medium, High, and Critical levels",
+    "Monitoring and comparing threat patterns across different attack vectors in security dashboards"
+  ],
+  "ai_summary": "A stacked bar chart component from Reaviz that visualizes security incident reports across multiple categories. The chart displays threat severity levels (Low, Medium, High, Critical) as stacked segments for each attack type category, making it ideal for cybersecurity dashboards and incident monitoring systems.",
+  "_classifiedAt": "2026-04-23T17:15:42.655Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

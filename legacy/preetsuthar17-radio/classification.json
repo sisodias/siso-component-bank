@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "radio-group",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Form inputs for single-option selection in surveys or questionnaires",
+    "Settings and preferences configuration panels in SaaS applications",
+    "E-commerce product filtering and checkout options",
+    "Quiz and assessment answer selection in educational platforms",
+    "Configuration forms in dev-tools and developer dashboards"
+  ],
+  "ai_summary": "A flexible radio group component built on Radix UI primitives with support for vertical and horizontal orientations, multiple sizes (sm, default, lg), and smooth animations via Framer Motion. Includes label, description, and error state support for comprehensive form accessibility. Ideal for single-selection use cases in any industry requiring accessible, keyboard-navigable form controls.",
+  "_classifiedAt": "2026-04-23T17:09:00.949Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

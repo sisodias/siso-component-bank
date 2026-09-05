@@ -1,0 +1,26 @@
+{
+  "id": "nexus-ui__animated-countdown",
+  "author": "nexus-ui",
+  "slug": "animated-countdown",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@nexus-ui/components/animated-countdown",
+  "fetchedAt": "2026-08-29T05:58:00.975Z",
+  "completedAt": "2026-08-29T05:58:03.547Z",
+  "versionedFilename": "code.1783719370557.tsx",
+  "codeReference": "r2://components-code-private/nexus-ui/animated-countdown/code.1783719370557.tsx",
+  "codeUrl": "https://cdn.21st.dev/nexus-ui/animated-countdown/code.1783719370557.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 11352,
+  "sha256": "09fe1038f410aa611e479a8d082930b23856338ae563758fc903f832b6e14a45",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

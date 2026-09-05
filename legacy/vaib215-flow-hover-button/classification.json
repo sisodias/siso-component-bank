@@ -1,0 +1,33 @@
+{
+  "category": "input",
+  "subcategory": "hover-button",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in web applications with engaging hover feedback",
+    "Form submission buttons where visual feedback enhances user confidence",
+    "Navigation action buttons requiring immediate visual response to interaction",
+    "Landing page CTA buttons that draw attention through animation"
+  ],
+  "ai_summary": "A minimalist button component featuring a smooth corner-to-corner circular fill animation on hover, with integrated scale transitions and automatic color inversion for light/dark modes. The button uses CSS pseudo-elements for the fluid background transition effect, making it ideal for modern web interfaces requiring elegant micro-interactions.",
+  "_classifiedAt": "2026-04-23T17:41:12.696Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

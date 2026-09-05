@@ -1,0 +1,29 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "radial-gradient-background",
+  "visual_style": [
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Provides a customizable radial gradient background layer for page layouts and section containers",
+    "Used as a backdrop for hero sections or landing pages requiring gradient aesthetics",
+    "Serves as a decorative background element behind card components or modal overlays"
+  ],
+  "ai_summary": "A lightweight atomic component that renders a full-screen radial gradient background with customizable colors, size, position, and gradient stop values. Supports hex color inputs for gradient endpoints, making it ideal for creating atmospheric backgrounds in landing pages, hero sections, or any UI requiring gradient visual effects. The component is framework-agnostic and integrates as a positioned absolute layer.",
+  "_classifiedAt": "2026-04-23T17:16:07.230Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "itsankitverma-path-morphing",
+  "type": "registry:ui",
+  "title": "Itsankitverma Path Morphing",
+  "description": "Installed from https://21st.dev/r/itsankitverma/path-morphing",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "itsankitverma-path-morphing"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "path-morphing.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "flubber",
+    "motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/itsankitverma/path-morphing",
+    "fetchedAt": "2026-04-23T01:18:01.747Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

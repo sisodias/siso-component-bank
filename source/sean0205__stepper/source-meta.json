@@ -1,0 +1,26 @@
+{
+  "id": "sean0205__stepper",
+  "author": "sean0205",
+  "slug": "stepper",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sean0205/components/stepper",
+  "fetchedAt": "2026-08-29T06:59:58.698Z",
+  "completedAt": "2026-08-29T07:00:01.274Z",
+  "versionedFilename": "code.1751698690179.tsx",
+  "codeReference": "r2://components-code-private/sean0205/stepper/code.1751698690179.tsx",
+  "codeUrl": "https://cdn.21st.dev/sean0205/stepper/code.1751698690179.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 11747,
+  "sha256": "9059c726d9ce9e415b6babdbb1c13b71d4cd181de3cf7d13d0db5cf89e84d57a",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

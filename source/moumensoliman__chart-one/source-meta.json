@@ -1,0 +1,26 @@
+{
+  "id": "moumensoliman__chart-one",
+  "author": "moumensoliman",
+  "slug": "chart-one",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@moumensoliman/components/chart-one",
+  "fetchedAt": "2026-08-29T05:49:48.309Z",
+  "completedAt": "2026-08-29T05:49:50.875Z",
+  "versionedFilename": "code.1779974905891.tsx",
+  "codeReference": "r2://components-code-private/larsen66/chart-one/code.1779974905891.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/chart-one/code.1779974905891.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 24234,
+  "sha256": "9dc46c06553eb6955a24c36b0d2b3da89ba03e8b3880e50c64c813ac6446e0a5",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "shadcnspace__basic",
+  "author": "shadcnspace",
+  "slug": "basic",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcnspace/components/basic",
+  "fetchedAt": "2026-08-29T07:11:01.755Z",
+  "completedAt": "2026-08-29T07:11:03.645Z",
+  "versionedFilename": "code.1772718377650.tsx",
+  "codeReference": "r2://components-code-private/larsen66/basic/code.1772718377650.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/basic/code.1772718377650.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1792,
+  "sha256": "98ed5469c3ffe59992e34d077c141118801ee4501d27e35eef92f7c7979d0957",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

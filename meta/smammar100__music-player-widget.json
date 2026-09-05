@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@smammar100/components/music-player-widget",
+  "author": "smammar100",
+  "slug": "music-player-widget",
+  "name": "music-player-widget",
+  "description": "A sleek modern music player with an audio-reactive dot-grid visualizer, spinning disc, smooth cover/track crossfades, and a Web Audio API beat-sync oscillator. Zero external animation dependencies, pure CSS keyframes and requestAnimationFrame.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/smammar100/music-player-widget?api_key=$API_KEY_21ST\"",
+  "id": "smammar100__music-player-widget",
+  "bundleUrl": "https://cdn.21st.dev/smammar100/music-player-widget/default/bundle.1779025299241.html",
+  "previewUrl": "https://cdn.21st.dev/smammar100/music-player-widget/default/preview.1779025299241.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

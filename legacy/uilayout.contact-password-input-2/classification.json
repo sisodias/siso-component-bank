@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input",
+    "feedback"
+  ],
+  "subcategory": "password-strength-validator",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "User registration forms requiring secure password creation with real-time validation",
+    "Login forms with password visibility toggle for improved UX",
+    "Account security settings for password updates and resets",
+    "Developer authentication interfaces for SaaS applications",
+    "Onboarding flows with password strength guidance"
+  ],
+  "ai_summary": "A password input component with real-time strength validation featuring a visual strength meter, animated progress bars, and a requirements checklist. The component includes a password visibility toggle with eye icons and provides immediate visual feedback as users type. Built with Tailwind CSS for a clean, minimalist aesthetic suitable for authentication forms across SaaS, fintech, and e-commerce platforms.",
+  "_classifiedAt": "2026-04-23T17:38:21.132Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

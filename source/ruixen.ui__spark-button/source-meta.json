@@ -1,0 +1,33 @@
+{
+  "id": "ruixen.ui__spark-button",
+  "author": "ruixen.ui",
+  "slug": "spark-button",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/spark-button",
+  "fetchedAt": "2026-08-29T06:50:44.275Z",
+  "completedAt": "2026-08-29T06:50:45.314Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "page-soft404",
+  "failureClass": "soft-404",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/ruixen.ui__spark-button/code.tsx",
+    "bytes": 1682,
+    "sha256": "d2f95e1b08ebb8dbc67d816584ec399ecc4d55287842529678783e5b6195e9e5",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is page-soft404/soft-404."
+  }
+}

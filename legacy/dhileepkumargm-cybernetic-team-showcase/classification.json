@@ -1,0 +1,31 @@
+{
+  "category": "card",
+  "subcategory": "team-member-profile",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Showcasing team members on an About or landing page",
+    "Displaying contributors or project team members on developer platforms",
+    "Creating interactive team sections in portfolios",
+    "Presenting organization staff with social media links",
+    "Building company profiles with animated card interactions"
+  ],
+  "ai_summary": "A futuristic team showcase component with 3D tilting cards that respond to mouse movement using spring physics. Features team member profiles with avatars, titles, and social links (GitHub, LinkedIn, Twitter), with staggered entrance animations triggered on scroll. Built with Framer Motion for smooth parallax-like interactions and hover glow effects, ideal for modern SaaS landing pages and About sections.",
+  "_classifiedAt": "2026-04-23T01:38:41.728Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

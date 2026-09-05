@@ -1,0 +1,29 @@
+{
+  "category": "feedback",
+  "subcategory": "gooey-blob loader",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display an engaging loading animation while content is being fetched or processed",
+    "Indicate progress during form submissions or data synchronization",
+    "Show background processing status in dashboards or applications",
+    "Provide visual feedback during async operations in web applications",
+    "Add a decorative loading indicator to onboarding or setup flows"
+  ],
+  "ai_summary": "A gooey-style blob loader component that creates an organic, flowing animation effect using SVG filters and CSS. Features theme-aware color customization with primary, secondary, and border color props. The component uses feGaussianBlur and feColorMatrix filters to achieve the characteristic liquid/blob appearance. Accessible with proper ARIA labels and role attributes. Designed for seamless integration into any shadcn-based application as a standalone loading indicator.",
+  "_classifiedAt": "2026-04-23T17:12:29.054Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

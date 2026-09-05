@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@dhileepkumargm/components/multi-step-wizard",
+  "author": "dhileepkumargm",
+  "slug": "multi-step-wizard",
+  "name": "multi-step-wizard",
+  "description": "Features\nThis multi-step onboarding wizard includes:\n\nResponsive Design - Works beautifully on mobile and desktop\nProgress Tracking - Visual step indicator with completed checkmarks\nForm Validation - Client-side validation with error messages\nSmooth Transitions - Step transitions with directional animations\nDark Mode Support - Styled for both light and dark themes\nAccessibility - Proper labels, focus states, and semantic HTML\nComplete Form Flow - Personal info → Company details → Preferences → Completion\nTo use this component, you'll need to install Framer Motion for the animations:\n\nbash\nnpm install framer-motion\nThe component handles a complete user onboarding flow with validation at each step and a final completion screen that summarizes the collected information.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/dhileepkumargm/multi-step-wizard?api_key=$API_KEY_21ST\"",
+  "id": "dhileepkumargm__multi-step-wizard",
+  "bundleUrl": "https://cdn.21st.dev/dhileepkumargm/multi-step-wizard/default/bundle.1758347569108.html",
+  "previewUrl": "https://cdn.21st.dev/dhileepkumargm/multi-step-wizard/default/preview.1758347569108.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 4,
+  "demo_id": 7821,
+  "video_url": "https://cdn.21st.dev/dhileepkumargm/multi-step-wizard/default/video.1758347569108.mp4"
+}

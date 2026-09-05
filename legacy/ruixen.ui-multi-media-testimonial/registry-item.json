@@ -1,0 +1,77 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ruixen.ui-multi-media-testimonial",
+  "type": "registry:ui",
+  "title": "Ruixen.Ui Multi Media Testimonial",
+  "description": "Installed from https://21st.dev/r/ruixen.ui/multi-media-testimonial",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ruixen.ui-multi-media-testimonial"
+  ],
+  "files": [
+    {
+      "path": "aspect-ratio.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "avatar.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "card.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "dialog.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "multi-media-testimonial.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "scroll-area.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "separator.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-aspect-ratio",
+    "@radix-ui/react-avatar",
+    "@radix-ui/react-dialog",
+    "@radix-ui/react-icons",
+    "@radix-ui/react-scroll-area",
+    "@radix-ui/react-separator",
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "lucide-react",
+    "next"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ruixen.ui/multi-media-testimonial",
+    "fetchedAt": "2026-04-22T06:43:02.590Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "paper-design__metaballs-solar",
+  "author": "paper-design",
+  "slug": "metaballs-solar",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@paper-design/components/metaballs-solar",
+  "fetchedAt": "2026-08-29T06:05:06.459Z",
+  "completedAt": "2026-08-29T06:05:08.645Z",
+  "versionedFilename": "code.1784835459105-7dcca5ac-4a01-4a59-babd-4ce9c77a364b.tsx",
+  "codeReference": "r2://components-code-private/paper-design/metaballs-solar/code.1784835459105-7dcca5ac-4a01-4a59-babd-4ce9c77a364b.tsx",
+  "codeUrl": "https://cdn.21st.dev/paper-design/metaballs-solar/code.1784835459105-7dcca5ac-4a01-4a59-babd-4ce9c77a364b.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

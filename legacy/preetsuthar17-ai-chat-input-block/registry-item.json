@@ -1,0 +1,84 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "preetsuthar17-ai-chat-input-block",
+  "type": "registry:ui",
+  "title": "Preetsuthar17 Ai Chat Input Block",
+  "description": "Installed from https://21st.dev/r/preetsuthar17/ai-chat-input-block",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "preetsuthar17-ai-chat-input-block"
+  ],
+  "files": [
+    {
+      "path": "ai-chat-input-block.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "avatar.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "card.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "input.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "scroll-area.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "select.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "textarea.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "toggle.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "tooltip.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-avatar",
+    "@radix-ui/react-scroll-area",
+    "@radix-ui/react-select",
+    "@radix-ui/react-slot",
+    "@radix-ui/react-toggle",
+    "@radix-ui/react-tooltip",
+    "class-variance-authority",
+    "lucide-react",
+    "motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/preetsuthar17/ai-chat-input-block",
+    "fetchedAt": "2026-04-22T06:43:54.919Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

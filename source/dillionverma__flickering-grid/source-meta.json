@@ -1,0 +1,26 @@
+{
+  "id": "dillionverma__flickering-grid",
+  "author": "dillionverma",
+  "slug": "flickering-grid",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dillionverma/components/flickering-grid",
+  "fetchedAt": "2026-08-29T04:35:22.120Z",
+  "completedAt": "2026-08-29T04:35:23.120Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null
+}

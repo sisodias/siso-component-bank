@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "h0bb5-customizable-loader-spinner-transition",
+  "type": "registry:ui",
+  "title": "H0bb5 Customizable Loader Spinner Transition",
+  "description": "Installed from https://21st.dev/r/h0bb5/customizable-loader-spinner-transition",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "h0bb5-customizable-loader-spinner-transition"
+  ],
+  "files": [
+    {
+      "path": "customizable-loader-spinner-transition.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/h0bb5/customizable-loader-spinner-transition",
+    "fetchedAt": "2026-04-23T03:04:03.863Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

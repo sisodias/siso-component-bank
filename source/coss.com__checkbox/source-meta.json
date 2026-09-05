@@ -1,0 +1,26 @@
+{
+  "id": "coss.com__checkbox",
+  "author": "coss.com",
+  "slug": "checkbox",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@coss.com/components/checkbox",
+  "fetchedAt": "2026-08-29T04:02:00.861Z",
+  "completedAt": "2026-08-29T04:02:03.089Z",
+  "versionedFilename": "code.1774031091090.tsx",
+  "codeReference": "r2://components-code-private/coss.com/checkbox/code.1774031091090.tsx",
+  "codeUrl": "https://cdn.21st.dev/coss.com/checkbox/code.1774031091090.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/typescript",
+  "bytes": 2899,
+  "sha256": "31dde67d1a55044f9315107f284711784708569a446816774abcc4e6444c78ee",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

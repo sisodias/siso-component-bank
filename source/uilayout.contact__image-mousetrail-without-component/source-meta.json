@@ -1,0 +1,26 @@
+{
+  "id": "uilayout.contact__image-mousetrail-without-component",
+  "author": "uilayout.contact",
+  "slug": "image-mousetrail-without-component",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uilayout.contact/components/image-mousetrail-without-component",
+  "fetchedAt": "2026-08-29T07:44:14.204Z",
+  "completedAt": "2026-08-29T07:44:16.174Z",
+  "versionedFilename": "code.1783400651857.tsx",
+  "codeReference": "r2://components-code-private/uilayouts/image-mousetrail-without-component/code.1783400651857.tsx",
+  "codeUrl": "https://cdn.21st.dev/uilayouts/image-mousetrail-without-component/code.1783400651857.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2501,
+  "sha256": "351c0ab372014a53fbd6557ee9381e70d7503e12fc89d69f6419614d7055f400",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

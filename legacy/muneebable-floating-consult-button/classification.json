@@ -1,0 +1,37 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "floating-consult-button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Persistent contact button for customer consultation across any web application",
+    "Quick access CTA for users seeking support or service inquiries",
+    "Conversion-focused button for capturing potential leads on landing pages",
+    "Always-visible assistance trigger for e-commerce product questions",
+    "Appointment booking trigger for service-based businesses"
+  ],
+  "ai_summary": "A floating consultation button component built with shadcn/ui and Radix UI primitives. The component uses class-variance-authority for flexible variant styling and appears persistently over page content. Features standard button variants (default, destructive, outline, secondary, ghost, link) with size options. Designed as a persistent call-to-action element for driving user engagement and consultation requests.",
+  "_classifiedAt": "2026-04-22T09:07:25.320Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

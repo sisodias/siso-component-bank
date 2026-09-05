@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@utilcn/components/upload-multiple-files",
+  "author": "utilcn",
+  "slug": "upload-multiple-files",
+  "name": "upload-multiple-files",
+  "description": "A drag-and-drop dropzone to upload multiple files to a storage provider, with per-file previews and upload progress via a presigned upload URL.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/utilcn/upload-multiple-files?api_key=$API_KEY_21ST\"",
+  "id": "utilcn__upload-multiple-files",
+  "bundleUrl": "https://cdn.21st.dev/utilcn/upload-multiple-files/default/bundle.1784753900711-f1b5d0f9-51c6-4108-9cad-279e14c211a6.html",
+  "previewUrl": "https://cdn.21st.dev/utilcn/upload-multiple-files/default/preview.1784753900711-f1b5d0f9-51c6-4108-9cad-279e14c211a6.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

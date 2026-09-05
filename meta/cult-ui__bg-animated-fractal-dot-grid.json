@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@cult-ui/components/bg-animated-fractal-dot-grid",
+  "author": "cult-ui",
+  "slug": "bg-animated-fractal-dot-grid",
+  "name": "bg-animated-fractal-dot-grid",
+  "description": "An interactive full-screen canvas background of animated dots that ripple in a wave around the cursor, with configurable size, spacing, color, glow and noise effects.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/cult-ui/bg-animated-fractal-dot-grid?api_key=$API_KEY_21ST\"",
+  "id": "cult-ui__bg-animated-fractal-dot-grid",
+  "bundleUrl": "https://cdn.21st.dev/cult-ui/bg-animated-fractal-dot-grid/default/bundle.1784768552594-686f08dd-a171-4994-9098-02cc54d4ed93.html",
+  "previewUrl": "https://cdn.21st.dev/cult-ui/bg-animated-fractal-dot-grid/default/preview.1784768552594-686f08dd-a171-4994-9098-02cc54d4ed93.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

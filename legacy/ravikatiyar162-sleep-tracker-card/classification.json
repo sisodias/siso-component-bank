@@ -1,0 +1,30 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "health-metrics-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "healthcare"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying sleep duration and quality metrics in health tracking apps",
+    "Visualizing sleep stages (Awake, REM, Core, Deep) with animated bar graphs",
+    "Health and wellness monitoring dashboards",
+    "Personal sleep analytics and trend tracking",
+    "Fitness and biometric data presentation interfaces"
+  ],
+  "ai_summary": "A sleep tracking card component that displays comprehensive sleep metrics including time slept, quality score, and change percentage. Features an animated bar graph visualization showing different sleep stages (Awake, REM, Core, Deep) with color-coded segments and spring-based entrance animations. Built with Framer Motion for smooth stagger animations and uses a clean minimalist card design with Tailwind CSS styling, making it ideal for healthcare, wellness, and fitness tracking applications.",
+  "_classifiedAt": "2026-04-22T09:10:44.492Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

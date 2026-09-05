@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@theorcdev/components/8bit-quest-log",
+  "author": "theorcdev",
+  "slug": "8bit-quest-log",
+  "name": "8bit-quest-log",
+  "description": "An 8-bit styled quest log panel with accordion items, status badges (active/completed/failed/pending), and a scrollable list. Source-verbatim from the 8bitcn quest-log block.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/theorcdev/8bit-quest-log?api_key=$API_KEY_21ST\"",
+  "id": "theorcdev__8bit-quest-log",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/8bit-quest-log/default/bundle.1780524554160.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/8bit-quest-log/default/preview.1780524554160.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

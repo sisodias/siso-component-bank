@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ruixen.ui-order-tracking-parallax-card",
+  "type": "registry:ui",
+  "title": "Ruixen.Ui Order Tracking Parallax Card",
+  "description": "Installed from https://21st.dev/r/ruixen.ui/order-tracking-parallax-card",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ruixen.ui-order-tracking-parallax-card"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "order-tracking-parallax-card.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ruixen.ui/order-tracking-parallax-card",
+    "fetchedAt": "2026-04-22T06:45:11.865Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "category": [
+    "hero"
+  ],
+  "subcategory": "blurred-text-reveal animation",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Hero section headline with dramatic blur-to-clear reveal animation",
+    "Landing page text entrance animations with staggered letter reveals",
+    "Welcome or intro messages with elegant character-by-character animation",
+    "Section titles that animate on scroll into view",
+    "Brand taglines with eye-catching reveal effects"
+  ],
+  "ai_summary": "A text animation component that reveals characters one-by-one with a blur-to-clear morphing effect using Framer Motion. Splits text into individual characters and animates each with staggered timing, creating an elegant headline reveal commonly used in hero sections and landing pages to grab attention.",
+  "_classifiedAt": "2026-04-23T17:06:59.247Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "uilayout.contact__hero-financial",
+  "author": "uilayout.contact",
+  "slug": "hero-financial",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uilayout.contact/components/hero-financial",
+  "fetchedAt": "2026-08-29T07:43:58.616Z",
+  "completedAt": "2026-08-29T07:44:00.677Z",
+  "versionedFilename": "code.1783676977797.tsx",
+  "codeReference": "r2://components-code-private/uilayout.contact/hero-financial/code.1783676977797.tsx",
+  "codeUrl": "https://cdn.21st.dev/uilayout.contact/hero-financial/code.1783676977797.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 12038,
+  "sha256": "8221acb8640a2cd56384595147ea4b5c10f8b118ee283af8af98603041ae14e0",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

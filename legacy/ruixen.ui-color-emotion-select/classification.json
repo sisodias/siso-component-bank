@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "color-emotion dropdown select",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Allow users to select emotional color states for mood tracking applications",
+    "Enable color preference selection in e-commerce product customization flows",
+    "Provide visual feedback collection for surveys and forms with color-coded emotion options",
+    "Support user preference settings for theming or accessibility color choices"
+  ],
+  "ai_summary": "A color-emotion dropdown select component built on shadcn/ui Select primitives. Renders color swatches alongside labels and optional emojis for visually intuitive emotion or color state selection. Designed for form integration with standard onChange handling and customizable placeholder text.",
+  "_classifiedAt": "2026-04-22T09:11:58.118Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

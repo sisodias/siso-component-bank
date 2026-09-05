@@ -1,0 +1,35 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "flip-card",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "morph",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "education",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display product details on hover with front showcasing the product image",
+    "Educational flashcards that flip to reveal answers",
+    "Interactive feature cards in SaaS landing pages",
+    "Code snippets with documentation on the back",
+    "Team member profiles with bio on flip side"
+  ],
+  "ai_summary": "A versatile flip card component that displays content on the front and reveals alternate content on the back when hovered or clicked. Built with Radix UI Slot and CVA for flexible variant styling. Features smooth 3D-like flip animations with shadow effects, commonly used for product showcases, educational flashcards, feature comparisons, and interactive portfolio displays.",
+  "_classifiedAt": "2026-04-23T01:49:50.080Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

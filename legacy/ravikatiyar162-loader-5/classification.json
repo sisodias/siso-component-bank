@@ -1,0 +1,40 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "dot-grid-loader",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Indicates loading state while content fetches from an API",
+    "Shows progress during async operations in forms or data tables",
+    "Displays during page transitions or route changes",
+    "Signals background processing in dashboard widgets",
+    "Provides visual feedback during user-initiated actions"
+  ],
+  "ai_summary": "A multi-row animated dot loader component that displays staggered dots across four rows with varying counts to create a wave-like loading effect. The component uses styled-components for styling and provides visual feedback during async operations, page transitions, or content loading states across any platform.",
+  "_classifiedAt": "2026-04-23T17:12:35.435Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

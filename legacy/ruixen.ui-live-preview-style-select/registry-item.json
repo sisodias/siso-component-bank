@@ -1,0 +1,45 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ruixen.ui-live-preview-style-select",
+  "type": "registry:ui",
+  "title": "Ruixen.Ui Live Preview Style Select",
+  "description": "Installed from https://21st.dev/r/ruixen.ui/live-preview-style-select",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ruixen.ui-live-preview-style-select"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "live-preview-style-select.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "select.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-icons",
+    "@radix-ui/react-select"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ruixen.ui/live-preview-style-select",
+    "fetchedAt": "2026-04-22T06:45:24.960Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

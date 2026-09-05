@@ -1,0 +1,40 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "checkbox",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Form inputs for terms of service, newsletters, or newsletter subscriptions",
+    "Task lists and todo items in productivity applications",
+    "Settings toggles for feature preferences in dashboards",
+    "Agreement checkboxes in checkout flows and sign-up forms",
+    "Filter selections in data tables or product catalogs"
+  ],
+  "ai_summary": "A minimalist animated checkbox component featuring a smooth spring-based checkmark path animation and state management via Framer Motion. The checkbox transitions between unchecked and checked states with a clean SVG checkmark that draws in with an easeOut timing curve. Includes props for title, defaultChecked state, custom styling via className, and onCheckedChange callback for form integration.",
+  "_classifiedAt": "2026-04-22T09:17:48.953Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

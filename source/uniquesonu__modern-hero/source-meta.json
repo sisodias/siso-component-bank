@@ -1,0 +1,26 @@
+{
+  "id": "uniquesonu__modern-hero",
+  "author": "uniquesonu",
+  "slug": "modern-hero",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uniquesonu/components/modern-hero",
+  "fetchedAt": "2026-08-29T07:49:34.382Z",
+  "completedAt": "2026-08-29T07:49:36.864Z",
+  "versionedFilename": "code.1749761339916.tsx",
+  "codeReference": "r2://components-code-private/uniquesonu/modern-hero/code.1749761339916.tsx",
+  "codeUrl": "https://cdn.21st.dev/uniquesonu/modern-hero/code.1749761339916.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5952,
+  "sha256": "c6d43c9860a5196fab710f49fcde99457a2d0bbc7378c41ae90a5b9514964bb8",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

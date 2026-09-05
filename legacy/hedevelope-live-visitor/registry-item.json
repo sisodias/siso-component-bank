@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "hedevelope-live-visitor",
+  "type": "registry:ui",
+  "title": "Hedevelope Live Visitor",
+  "description": "Installed from https://21st.dev/r/hedevelope/live-visitor",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "hedevelope-live-visitor"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "live-visitor.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "imports @/index.css (outside component folder)"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/hedevelope/live-visitor",
+    "fetchedAt": "2026-04-22T06:42:51.372Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

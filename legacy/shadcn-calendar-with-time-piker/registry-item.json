@@ -1,0 +1,58 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "shadcn-calendar-with-time-piker",
+  "type": "registry:ui",
+  "title": "Shadcn Calendar With Time Piker",
+  "description": "Installed from https://21st.dev/r/shadcn/calendar-with-time-piker",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "shadcn-calendar-with-time-piker"
+  ],
+  "files": [
+    {
+      "path": "calendar-rac.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "calendar-with-time-piker.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "card.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "input.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "label.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@internationalized/date",
+    "@radix-ui/react-icons",
+    "react-aria-components"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/shadcn/calendar-with-time-piker",
+    "fetchedAt": "2026-04-23T03:04:18.933Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "spydiecy__pulse-button",
+  "author": "spydiecy",
+  "slug": "pulse-button",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@spydiecy/components/pulse-button",
+  "fetchedAt": "2026-08-29T07:24:01.799Z",
+  "completedAt": "2026-08-29T07:24:03.640Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null
+}

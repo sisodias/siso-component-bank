@@ -1,0 +1,27 @@
+{
+  "category": "media",
+  "subcategory": "svg-mask-reveal",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero section backgrounds with interactive circular mask reveal following cursor movement",
+    "Landing page visual effects where content is revealed as users hover and move their mouse",
+    "Creative portfolio showcases with dynamic mask animations",
+    "Interactive gallery overlays with mouse-tracking reveal effects",
+    "Text and image reveal animations on landing pages"
+  ],
+  "ai_summary": "An interactive SVG mask effect component that tracks mouse position to reveal content through a circular mask. Features smooth animations powered by Framer Motion, hover state management with dynamic mask sizing, and automatic light/dark mode support. The circular SVG mask follows the cursor, creating a spotlight reveal effect that expands on hover. Ideal for hero sections and landing pages where engaging visual effects can capture user attention.",
+  "_classifiedAt": "2026-04-22T08:51:12.016Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

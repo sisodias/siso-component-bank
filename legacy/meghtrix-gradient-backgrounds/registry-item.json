@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "meghtrix-gradient-backgrounds",
+  "type": "registry:ui",
+  "title": "Meghtrix Gradient Backgrounds",
+  "description": "Installed from https://21st.dev/r/meghtrix/gradient-backgrounds",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "meghtrix-gradient-backgrounds"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "gradient-backgrounds.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/meghtrix/gradient-backgrounds",
+    "fetchedAt": "2026-04-23T01:17:30.837Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

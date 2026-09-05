@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "m.kumailalirajpoot-core-header-navbar",
+  "type": "registry:ui",
+  "title": "M.Kumailalirajpoot Core Header Navbar",
+  "description": "Installed from https://21st.dev/r/m.kumailalirajpoot/core-header-navbar",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "m.kumailalirajpoot-core-header-navbar"
+  ],
+  "files": [
+    {
+      "path": "core-header-navbar.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/m.kumailalirajpoot/core-header-navbar",
+    "fetchedAt": "2026-04-22T06:32:23.424Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

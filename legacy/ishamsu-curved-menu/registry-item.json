@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ishamsu-curved-menu",
+  "type": "registry:ui",
+  "title": "Ishamsu Curved Menu",
+  "description": "Installed from https://21st.dev/r/ishamsu/curved-menu",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ishamsu-curved-menu"
+  ],
+  "files": [
+    {
+      "path": "curved-menu.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "lucide-react",
+    "next"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ishamsu/curved-menu",
+    "fetchedAt": "2026-04-23T03:04:47.928Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

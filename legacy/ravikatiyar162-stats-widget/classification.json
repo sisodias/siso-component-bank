@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "metrics card with mini chart",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Displaying key performance metrics on dashboards",
+    "Showing real-time statistics with trend indicators",
+    "Visualizing data changes over time with mini charts",
+    "Monitoring numerical KPIs with auto-refresh capability"
+  ],
+  "ai_summary": "A shadcn/ui-compatible stats widget displaying metrics with a mini area chart. Features an auto-updating amount counter, percentage change indicator with directional arrows, and smooth SVG chart visualization. Designed for dashboard integration in analytics and monitoring contexts.",
+  "_classifiedAt": "2026-04-23T17:13:32.734Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

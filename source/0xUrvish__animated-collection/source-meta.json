@@ -1,0 +1,26 @@
+{
+  "id": "0xUrvish__animated-collection",
+  "author": "0xUrvish",
+  "slug": "animated-collection",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@0xUrvish/components/animated-collection",
+  "fetchedAt": "2026-08-29T03:23:46.306Z",
+  "completedAt": "2026-08-29T03:23:48.120Z",
+  "versionedFilename": "code.1773272485211.tsx",
+  "codeReference": "r2://components-code-private/larsen66/animated-collection/code.1773272485211.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/animated-collection/code.1773272485211.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10072,
+  "sha256": "d2808d93fca748de14837f67703cec79686b42898c4a7a0a53f5e6b01c345761",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

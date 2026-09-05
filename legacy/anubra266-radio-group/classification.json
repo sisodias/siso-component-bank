@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "radio-group",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Selecting a single option from a list of mutually exclusive choices in forms",
+    "Survey or questionnaire answer selection",
+    "Settings and preferences configuration",
+    "Filtering or sorting options in dashboards",
+    "Multi-step form wizard navigation"
+  ],
+  "ai_summary": "A lightweight, accessible radio group component built on Ark UI with full keyboard navigation support. Features clean flat styling with dark mode compatibility, focus rings for accessibility, and smooth state transitions between unchecked and checked states.",
+  "_classifiedAt": "2026-04-22T08:52:04.827Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

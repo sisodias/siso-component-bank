@@ -1,0 +1,29 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "analog-clock",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display real-time analog clock with smooth or tick-based second hand movement",
+    "Show time in specific timezones for global applications",
+    "Serve as a design element in landing pages or dashboards",
+    "Provide visual time representation in productivity or scheduling tools"
+  ],
+  "ai_summary": "A customizable analog clock component with support for multiple seconds display modes (smooth, tick1, tick2, highFreq) and timezone configuration. Renders hour, minute, and second hands using CSS transforms, updating in real-time. Designed as a minimal, flat-style timepiece suitable for dashboard widgets or decorative purposes.",
+  "_classifiedAt": "2026-04-23T16:30:35.970Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "olivier_1b6cd5bc__select-1",
+  "author": "olivier_1b6cd5bc",
+  "slug": "select-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@olivier_1b6cd5bc/components/select-1",
+  "fetchedAt": "2026-08-29T06:00:13.903Z",
+  "completedAt": "2026-08-29T06:00:14.991Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "moazamtrade-sleek-hero-with-orb",
+  "type": "registry:ui",
+  "title": "Moazamtrade Sleek Hero With Orb",
+  "description": "Installed from https://21st.dev/r/moazamtrade/sleek-hero-with-orb",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "moazamtrade-sleek-hero-with-orb"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "sleek-hero-with-orb.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "three"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/moazamtrade/sleek-hero-with-orb",
+    "fetchedAt": "2026-04-23T01:17:14.417Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

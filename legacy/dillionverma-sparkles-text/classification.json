@@ -1,0 +1,32 @@
+{
+  "category": "media",
+  "subcategory": "animated sparkle text effect",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Hero section text enhancement for landing pages",
+    "Highlight call-to-action buttons with decorative sparkles",
+    "Product feature name emphasis in marketing materials",
+    "Premium/celebratory text animations for special offers"
+  ],
+  "ai_summary": "Animated sparkle text component that renders floating particle effects around text using framer-motion. Sparkles are randomly positioned, colored (purple/pink gradient by default), and have varying scales and lifespans for organic animation. Configurable via props for sparkle count and color palette. Used to add visual emphasis and delight to headings, CTAs, or key marketing copy.",
+  "_classifiedAt": "2026-04-23T16:36:07.733Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

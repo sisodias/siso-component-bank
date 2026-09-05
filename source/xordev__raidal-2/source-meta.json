@@ -1,0 +1,26 @@
+{
+  "id": "xordev__raidal-2",
+  "author": "xordev",
+  "slug": "raidal-2",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@xordev/components/raidal-2",
+  "fetchedAt": "2026-08-29T07:58:04.228Z",
+  "completedAt": "2026-08-29T07:58:06.214Z",
+  "versionedFilename": "code.1756888226122.tsx",
+  "codeReference": "r2://components-code-private/larsen66/raidal-2/code.1756888226122.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/raidal-2/code.1756888226122.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 8272,
+  "sha256": "ebd6111749bb8d998178a15f55eb77cbfa2e8f72ddcea882bdf131546bac1c77",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

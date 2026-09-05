@@ -1,0 +1,26 @@
+{
+  "id": "radu__reviews-badge",
+  "author": "radu",
+  "slug": "reviews-badge",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@radu/components/reviews-badge",
+  "fetchedAt": "2026-08-29T06:17:41.187Z",
+  "completedAt": "2026-08-29T06:17:43.378Z",
+  "versionedFilename": "code.1753439047840.tsx",
+  "codeReference": "r2://components-code-private/radu/reviews-badge/code.1753439047840.tsx",
+  "codeUrl": "https://cdn.21st.dev/radu/reviews-badge/code.1753439047840.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1732,
+  "sha256": "a745535a69bef880767e6f82f76c4029dd5c64dfec58f55106d0fd14c4ac0492",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "category": "overlay",
+  "subcategory": "custom-cursor-system",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Custom cursor replacement for creative portfolios and branding sites",
+    "Interactive cursor state tracking with smooth spring animations",
+    "Context-based cursor behavior for enhanced user feedback",
+    "Branded cursor experiences for marketing and landing pages"
+  ],
+  "ai_summary": "A custom cursor component system with React Context provider, featuring smooth spring-physics animations using motion/react. The component tracks mouse position relative to a container, manages cursor state (active/inactive), and applies CSS positioning with dynamic styling for an interactive cursor overlay experience.",
+  "_classifiedAt": "2026-04-23T17:32:29.843Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

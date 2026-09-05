@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "testimonial-carousel",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display customer testimonials with ratings on product or service pages",
+    "Showcase social proof through rotating customer quotes on landing pages",
+    "Present team or client feedback in a testimonial carousel format",
+    "Build trust signals with star ratings and customer images",
+    "Feature customer reviews in testimonial sections of marketing websites"
+  ],
+  "ai_summary": "A testimonial slider component built with React and Framer Motion that displays customer testimonials with star ratings, avatars, quotes, and smooth slide transitions. Uses shadcn/ui utility patterns with Lucide React icons and Tailwind CSS for styling. Features previous/next navigation controls with animated carousel transitions, suitable for showcasing social proof on SaaS landing pages, e-commerce product reviews, or portfolio sections.",
+  "_classifiedAt": "2026-04-22T09:02:44.908Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

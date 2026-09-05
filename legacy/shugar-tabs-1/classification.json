@@ -1,0 +1,33 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "tabs",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Organizing content into distinct sections within a single view",
+    "Switching between different panels in a dashboard interface",
+    "Creating step-by-step wizards or process flows",
+    "Filtering or categorizing content display",
+    "Navigating between settings or configuration options"
+  ],
+  "ai_summary": "A navigation tabs component with primary (underline style) and secondary (pill style) variants. Supports disabled states, optional icons, and integrates with a tooltip component. Features minimalist flat design with hover state effects and click-based selection. Designed for organizing content sections in SaaS applications and general web interfaces.",
+  "_classifiedAt": "2026-04-23T17:31:53.123Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

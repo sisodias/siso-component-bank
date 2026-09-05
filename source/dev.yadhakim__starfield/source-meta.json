@@ -1,0 +1,26 @@
+{
+  "id": "dev.yadhakim__starfield",
+  "author": "dev.yadhakim",
+  "slug": "starfield",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dev.yadhakim/components/starfield",
+  "fetchedAt": "2026-08-29T04:24:25.970Z",
+  "completedAt": "2026-08-29T04:24:27.903Z",
+  "versionedFilename": "code.1772089849811.tsx",
+  "codeReference": "r2://components-code-private/dev.yadhakim/starfield/code.1772089849811.tsx",
+  "codeUrl": "https://cdn.21st.dev/dev.yadhakim/starfield/code.1772089849811.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6337,
+  "sha256": "64f233c21790a1249a13a050de5b9c763c20a91420dd9f3086cbbffb08b0e8da",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

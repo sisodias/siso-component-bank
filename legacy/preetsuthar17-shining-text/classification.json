@@ -1,0 +1,32 @@
+{
+  "category": "media",
+  "subcategory": "animated heading with shimmer effect",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Hero section headlines that need visual impact and draw attention",
+    "Feature or section titles with an elegant shimmer animation",
+    "Accent text elements for landing pages and marketing sites",
+    "Loading states or empty state messaging with animated emphasis",
+    "Brand typography elements requiring a premium, polished appearance"
+  ],
+  "ai_summary": "A lightweight text component that applies a continuous left-to-right shining/reflective animation using CSS gradients and Framer Motion. The effect creates a metallic shimmer across any text string, making it ideal for hero headlines, section titles, or decorative typography in landing pages and marketing sites. The animation loops infinitely with smooth linear easing.",
+  "_classifiedAt": "2026-04-23T17:09:28.850Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

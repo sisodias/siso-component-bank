@@ -1,0 +1,25 @@
+{
+  "category": "overlay",
+  "subcategory": "brand-status-badge",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display a Bolt.new platform branding badge on AI-generated code components",
+    "Mark features or content as originating from the Bolt.new ecosystem",
+    "Provide visual attribution for tools referencing the platform",
+    "Add a persistent brand indicator to demos or templates"
+  ],
+  "ai_summary": "A lightweight badge component for displaying Bolt.new platform branding on web content. Features automatic background color detection to adapt between light and dark variants, with configurable positioning (top-right, bottom-right, top-left, bottom-left), multiple sizes, and optional text variant. Designed for attribution and brand awareness in developer tooling contexts.",
+  "_classifiedAt": "2026-04-23T16:45:52.115Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

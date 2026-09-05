@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@mwdesignhelp/components/plasma-shader",
+  "author": "mwdesignhelp",
+  "slug": "plasma-shader",
+  "name": "plasma-shader",
+  "description": "Animated WebGL2 plasma effect with cosine palette color cycling. GPU-rendered retro demoscene plasma — zero dependencies, pure React + GLSL. Props: speed (animation multiplier).",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/mwdesignhelp/plasma-shader?api_key=$API_KEY_21ST\"",
+  "id": "mwdesignhelp__plasma-shader",
+  "bundleUrl": "https://cdn.21st.dev/mwdesignhelp/plasma-shader/default/bundle.1774113022891.html",
+  "previewUrl": "https://cdn.21st.dev/mwdesignhelp/plasma-shader/default/preview.1774113022891.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

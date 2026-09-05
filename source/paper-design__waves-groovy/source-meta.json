@@ -1,0 +1,26 @@
+{
+  "id": "paper-design__waves-groovy",
+  "author": "paper-design",
+  "slug": "waves-groovy",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@paper-design/components/waves-groovy",
+  "fetchedAt": "2026-08-29T06:07:10.632Z",
+  "completedAt": "2026-08-29T06:07:12.821Z",
+  "versionedFilename": "code.1784835360505-358bbf54-e336-43c2-9b61-2013835b80c5.tsx",
+  "codeReference": "r2://components-code-private/paper-design/waves-groovy/code.1784835360505-358bbf54-e336-43c2-9b61-2013835b80c5.tsx",
+  "codeUrl": "https://cdn.21st.dev/paper-design/waves-groovy/code.1784835360505-358bbf54-e336-43c2-9b61-2013835b80c5.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

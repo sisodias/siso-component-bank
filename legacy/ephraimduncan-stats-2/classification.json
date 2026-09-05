@@ -1,0 +1,31 @@
+{
+  "category": "data-display",
+  "subcategory": "stats-card",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying key performance metrics in a dashboard interface",
+    "Showing statistical data with visual charts using Recharts",
+    "Presenting comparative metrics in a card format",
+    "Creating data visualization widgets for analytics dashboards",
+    "Building dashboard sections with multiple stat cards"
+  ],
+  "ai_summary": "A stats card component with integrated charting capabilities using Recharts. Features a clean card layout with customizable chart configurations for displaying metrics and statistical data in dashboards. Designed for displaying key performance indicators across various industries with a minimalist flat visual style.",
+  "_classifiedAt": "2026-04-23T16:39:33.064Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

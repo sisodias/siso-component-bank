@@ -1,0 +1,33 @@
+{
+  "id": "ozantekin__bookmark-icon-button",
+  "author": "ozantekin",
+  "slug": "bookmark-icon-button",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ozantekin/components/bookmark-icon-button",
+  "fetchedAt": "2026-08-29T06:01:59.765Z",
+  "completedAt": "2026-08-29T06:02:00.744Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/ozantekin__bookmark-icon-button/code.tsx",
+    "bytes": 3374,
+    "sha256": "c61fb97b753125e38a375fcee31f5f0589cf76eef6b1dc5d590519affe43b1c6",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

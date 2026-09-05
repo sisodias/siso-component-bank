@@ -1,0 +1,33 @@
+{
+  "id": "yadwinder__ios-spinner",
+  "author": "yadwinder",
+  "slug": "ios-spinner",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@yadwinder/components/ios-spinner",
+  "fetchedAt": "2026-08-29T07:59:16.575Z",
+  "completedAt": "2026-08-29T07:59:17.551Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/yadwinder__ios-spinner/code.tsx",
+    "bytes": 586,
+    "sha256": "1e1b3addd994c248471984960ee620b85320d2945fae9c6a29a8709d3c847d42",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

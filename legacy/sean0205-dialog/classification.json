@@ -1,0 +1,37 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "Alert/Toast notification with customizable variants",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Displaying success, error, warning, or informational messages to users",
+    "Form validation feedback with customizable appearance styles",
+    "Toast notifications in a grouped toaster container",
+    "Inline alerts for dashboard or settings interfaces",
+    "Notification system with dismissible close actions"
+  ],
+  "ai_summary": "A multi-purpose alert and notification component with CVA-based variant system supporting 7 color modes (primary, secondary, destructive, success, info, warning, mono), 4 appearance styles (solid, outline, light, stroke), and 3 sizes. Features slot-based architecture for alert icons and close buttons using lucide-react, with semantic CSS custom properties for theming. Can operate as standalone notifications or grouped within a toaster container for stacked notification management.",
+  "_classifiedAt": "2026-04-22T09:14:18.615Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

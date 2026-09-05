@@ -1,0 +1,26 @@
+{
+  "id": "designali-in__starfield-1",
+  "author": "designali-in",
+  "slug": "starfield-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/starfield-1",
+  "fetchedAt": "2026-08-29T04:21:25.043Z",
+  "completedAt": "2026-08-29T04:21:27.285Z",
+  "versionedFilename": "code.1757958798440.tsx",
+  "codeReference": "r2://components-code-private/designali-in/starfield-1/code.1757958798440.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/starfield-1/code.1757958798440.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 9952,
+  "sha256": "f326242677a12ebe83701ee7f5e7669ae8159e37b09cd112fa8e7ac90b0d618d",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

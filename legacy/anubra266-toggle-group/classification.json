@@ -1,0 +1,27 @@
+{
+  "category": "input",
+  "subcategory": "segmented-control",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Selecting a single option from a group of mutually exclusive choices",
+    "Switching between view modes or display options",
+    "Navigation between sections or content areas",
+    "Filtering or sorting content by category",
+    "Toggling between different tool or format options"
+  ],
+  "ai_summary": "A segmented toggle group component that allows users to select one option from a set of mutually exclusive choices. Built on Ark UI with Tailwind CSS styling, featuring dark mode support and smooth state transitions. Ideal for tab navigation, view mode switching, or preference settings in web applications.",
+  "_classifiedAt": "2026-04-22T08:52:10.714Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

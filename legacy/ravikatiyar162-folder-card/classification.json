@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "folder-file-card",
+  "visual_style": [
+    "glass-morphism",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying folder information with icon, title, and size in file management interfaces",
+    "Organizing projects and files in SaaS dashboard applications",
+    "Building file browser navigation components in developer tools",
+    "Creating asset management panels in content management systems",
+    "Displaying media library organization in creative applications"
+  ],
+  "ai_summary": "A versatile folder card component featuring glass-morphism styling with gradient backgrounds, semi-transparent borders, and smooth hover animations via Framer Motion. Supports multiple color variants (default, project, system) and includes dark mode styling. Ideal for file management interfaces, project dashboards, and content organization systems requiring visual hierarchy and interactive feedback.",
+  "_classifiedAt": "2026-04-23T01:47:05.169Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

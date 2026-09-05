@@ -1,0 +1,27 @@
+{
+  "category": "layout",
+  "subcategory": "scroll-triggered-animation-container",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creating smooth scroll-triggered content reveal animations on landing pages",
+    "Building progressive disclosure experiences where elements fade in with blur as users scroll",
+    "Adding depth to video and media sections with scroll-based parallax effects"
+  ],
+  "ai_summary": "A scroll-triggered animation container component that reveals content with blur and opacity transitions as users scroll. Uses Framer Motion's useScroll and useTransform hooks to map scroll progress to animation values, creating smooth progressive disclosure effects ideal for hero sections and content reveals.",
+  "_classifiedAt": "2026-04-23T17:44:42.689Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

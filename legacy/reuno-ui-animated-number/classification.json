@@ -1,0 +1,27 @@
+{
+  "category": "data-display",
+  "subcategory": "animated-counter",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display real-time statistics with smooth number transitions",
+    "Show countdown timers for events or promotions",
+    "Present metrics that animate on page load",
+    "Create engaging number-based progress indicators",
+    "Build data dashboards with continuously updating values"
+  ],
+  "ai_summary": "An animated number display component that renders smooth, flowing number transitions using the NumberFlow library and framer-motion. Features countdown timer functionality with pause and reset controls, minimal styling with monospace typography, and multiple visual variants. Designed for showcasing dynamic metrics, statistics, or time-based counters in a polished, engaging way.",
+  "_classifiedAt": "2026-04-23T01:48:19.113Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "meschacirung-customers-section",
+  "type": "registry:ui",
+  "title": "Meschacirung Customers Section",
+  "description": "Installed from https://21st.dev/r/meschacirung/customers-section",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "meschacirung-customers-section"
+  ],
+  "files": [
+    {
+      "path": "animated-group.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "customers-section.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/meschacirung/customers-section",
+    "fetchedAt": "2026-04-23T03:05:01.663Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

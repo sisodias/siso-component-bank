@@ -1,0 +1,26 @@
+{
+  "id": "danverr_fce71477__codex-prod-public-0525155122",
+  "author": "danverr_fce71477",
+  "slug": "codex-prod-public-0525155122",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@danverr_fce71477/components/codex-prod-public-0525155122",
+  "fetchedAt": "2026-08-29T04:09:14.168Z",
+  "completedAt": "2026-08-29T04:09:16.336Z",
+  "versionedFilename": "code.1779724436004.tsx",
+  "codeReference": "r2://components-code-private/danverr_fce71477/codex-prod-public-0525155122/code.1779724436004.tsx",
+  "codeUrl": "https://cdn.21st.dev/danverr_fce71477/codex-prod-public-0525155122/code.1779724436004.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 325,
+  "sha256": "acae3c0f3979e31ebf637509d9c1fbdf1f0f95a6b7952a0a5703d076aad6fe30",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

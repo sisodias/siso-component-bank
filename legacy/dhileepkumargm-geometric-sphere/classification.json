@@ -1,0 +1,36 @@
+{
+  "category": [
+    "hero",
+    "media"
+  ],
+  "subcategory": "animated-3d-sphere-hero",
+  "visual_style": [
+    "3d",
+    "glass-morphism",
+    "gradient"
+  ],
+  "interactions": [
+    "parallax",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero sections with immersive 3D animated visuals",
+    "Product launch pages with abstract geometric branding",
+    "Portfolio or showcase sites requiring distinctive hero imagery",
+    "Tech/SaaS landing pages seeking modern, premium aesthetics",
+    "Interactive homepage entry points with mouse-responsive parallax"
+  ],
+  "ai_summary": "A self-contained hero component featuring an animated wireframe sphere with volumetric lighting, chromatic glow effects, and a panning grid background. The component includes mouse-follow parallax interactivity, continuous rotation animations, and soft bloom/vignette post-processing effects. Configurable via a CONFIG object for easy visual customization. Suitable for SaaS, dev-tools, and creative product landing pages seeking premium, immersive first impressions.",
+  "_classifiedAt": "2026-04-22T08:57:45.768Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

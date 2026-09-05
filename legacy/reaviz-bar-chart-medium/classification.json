@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "analytics-dashboard-chart",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying time-series metrics and incident statistics in SaaS dashboards",
+    "Showing performance trends with animated counters and trend indicators",
+    "Visualizing comparison data across different time periods",
+    "Monitoring system health with integrated chart and metric components",
+    "Presenting business analytics with professional chart visualizations"
+  ],
+  "ai_summary": "A composite analytics dashboard component featuring a Reaviz bar chart with animated count-up statistics and trend indicators. Includes time period filtering, incident metrics with trend icons, and detailed KPI cards with tooltips. Uses Framer Motion for smooth entrance animations and supports hover interactions on chart elements.",
+  "_classifiedAt": "2026-04-23T17:14:22.092Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

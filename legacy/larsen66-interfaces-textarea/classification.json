@@ -1,0 +1,26 @@
+{
+  "category": "input",
+  "subcategory": "text-area",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Multi-line text input for forms and data entry",
+    "Comments, reviews, and message composition fields",
+    "Description and bio input fields",
+    "Contact forms and feedback collection",
+    "Long-form content entry in text editors"
+  ],
+  "ai_summary": "A clean, accessible multi-line textarea component styled with Tailwind CSS. Features proper focus states, placeholder styling, disabled states, and aria-invalid handling for form validation. Uses dynamic field-sizing for auto-adjusting height and includes responsive text sizing.",
+  "_classifiedAt": "2026-04-22T09:04:03.691Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

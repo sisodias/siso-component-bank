@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ssicevs/components/analyst-radar",
+  "author": "ssicevs",
+  "slug": "analyst-radar",
+  "name": "analyst-radar",
+  "description": "Multivariate factor radar with two series overlaid — the company against its sector — across up to eight axes indexed 0-100. Hover a spoke and the header reads both values at once; the legend mutes a series so the other can be read alone. Light and dark via shadcn theme tokens; respects reduced motion.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ssicevs/analyst-radar?api_key=$API_KEY_21ST\"",
+  "id": "ssicevs__analyst-radar",
+  "bundleUrl": "https://cdn.21st.dev/ssicevs/analyst-radar/default/bundle.1785453614578-428cfb51-479a-4d3f-8715-f916d51c3267.html",
+  "previewUrl": "https://cdn.21st.dev/ssicevs/analyst-radar/default/preview.1785453614578-428cfb51-479a-4d3f-8715-f916d51c3267.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

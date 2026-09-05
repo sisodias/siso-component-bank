@@ -1,0 +1,35 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "image-gallery-hover-reveal",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "creator-tools",
+    "media",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Portfolio or creative work showcase with interactive image reveal on hover",
+    "Product gallery with cursor-tracking spotlight effect",
+    "Image grid with contextual information display on user interaction",
+    "Visual portfolio component for agency or design studio websites",
+    "Interactive media gallery with responsive behavior across devices"
+  ],
+  "ai_summary": "An interactive image gallery component featuring hover-reveal effects with cursor tracking and spotlight functionality. Displays a grid of images with dynamic reveal behavior, supporting multiple themes (default, blue, green) and sizes. Uses React hooks for state management and includes responsive design with desktop/mobile adaptations.",
+  "_classifiedAt": "2026-04-23T17:37:54.141Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

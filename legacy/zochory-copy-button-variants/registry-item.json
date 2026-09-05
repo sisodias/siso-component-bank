@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "zochory-copy-button-variants",
+  "type": "registry:ui",
+  "title": "Zochory Copy Button Variants",
+  "description": "Installed from https://21st.dev/r/zochory/copy-button-variants",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "zochory-copy-button-variants"
+  ],
+  "files": [
+    {
+      "path": "copy-button-variants.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/zochory/copy-button-variants",
+    "fetchedAt": "2026-04-22T06:42:56.921Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

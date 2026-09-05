@@ -1,0 +1,32 @@
+{
+  "category": "card",
+  "subcategory": "checkbox-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selectable list items in task management or to-do interfaces",
+    "Feature selection cards in pricing or comparison tables",
+    "Survey or feedback form response selection",
+    "Settings toggles with descriptive text alongside checkboxes",
+    "E-commerce product filtering with selectable attribute cards"
+  ],
+  "ai_summary": "A checkbox card component that combines card styling with checkbox functionality for interactive item selection. Features clean border styling, hover and focus states, and full dark mode support. Ideal for selectable list items, settings interfaces, or any card-based selection workflows.",
+  "_classifiedAt": "2026-04-23T17:34:32.464Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

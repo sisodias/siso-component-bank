@@ -1,0 +1,24 @@
+{
+  "category": "input",
+  "subcategory": "input-group",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Search bars combining text inputs with action buttons in a unified visual group",
+    "Form layouts where labels, inputs, and buttons share connected borders",
+    "Filter interfaces with multiple select triggers and text fields",
+    "Date or range pickers grouping multiple input controls together"
+  ],
+  "ai_summary": "A composite input grouping component from Shadcn that visually connects multiple form elements (inputs, buttons, selects) with shared borders and unified styling. Supports horizontal and vertical orientations with automatic border handling to create the appearance of a single connected control. Ideal for search bars, form fields with attached labels, and multi-part filter interfaces.",
+  "_classifiedAt": "2026-04-22T09:14:27.934Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

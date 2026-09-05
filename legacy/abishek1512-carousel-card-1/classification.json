@@ -1,0 +1,28 @@
+{
+  "category": "card",
+  "subcategory": "carousel-card",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying multiple cards in a horizontally scrollable carousel with animated slide transitions",
+    "Showing product or feature cards with configurable cards-per-view for responsive layouts",
+    "Browsing image galleries or testimonials with prev/next navigation controls",
+    "Presenting grouped content sections that need to cycle through multiple items",
+    "Creating interactive card collections with smooth animation effects on navigation"
+  ],
+  "ai_summary": "A React carousel card component that displays multiple cards in a sliding container with configurable cards-per-view and smooth animated transitions. Features automatic index management, single-card detection, and responsive layout support. Supports navigation through data arrays with visual slide animations using CSS transforms and transitions.",
+  "_classifiedAt": "2026-04-23T11:28:10.361Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

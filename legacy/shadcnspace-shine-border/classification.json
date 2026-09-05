@@ -1,0 +1,26 @@
+{
+  "category": "card",
+  "subcategory": "badge-label",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display status indicators like 'New', 'Sale', or 'Featured' on product cards",
+    "Show user roles or account tiers in dashboard interfaces",
+    "Indicate notification counts or unread message badges",
+    "Label content categories or tags in listing pages",
+    "Mark items with urgency levels like 'Urgent' or 'Pending'"
+  ],
+  "ai_summary": "A flexible badge component built with class-variance-authority that supports multiple variants (default, secondary, destructive, outline) for displaying status labels, tags, and counts. Features rounded pill styling with consistent padding and font sizing, commonly used in card headers, list items, and UI indicators to convey categorical information or states at a glance.",
+  "_classifiedAt": "2026-04-22T09:15:29.168Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

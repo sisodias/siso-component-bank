@@ -1,0 +1,64 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ruixen.ui-centered-feedback-drawer",
+  "type": "registry:ui",
+  "title": "Ruixen.Ui Centered Feedback Drawer",
+  "description": "Installed from https://21st.dev/r/ruixen.ui/centered-feedback-drawer",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ruixen.ui-centered-feedback-drawer"
+  ],
+  "files": [
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "centered-feedback-drawer.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "drawer.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "input.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "label.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "textarea.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-label",
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "lucide-react",
+    "vaul"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ruixen.ui/centered-feedback-drawer",
+    "fetchedAt": "2026-04-23T02:28:01.928Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

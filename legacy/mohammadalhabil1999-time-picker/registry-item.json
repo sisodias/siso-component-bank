@@ -1,0 +1,62 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "mohammadalhabil1999-time-picker",
+  "type": "registry:ui",
+  "title": "Mohammadalhabil1999 Time Picker",
+  "description": "Installed from https://21st.dev/r/mohammadalhabil1999/time-picker",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "mohammadalhabil1999-time-picker"
+  ],
+  "files": [
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "popover.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "scroll-area.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "separator.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "time-picker.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-popover",
+    "@radix-ui/react-scroll-area",
+    "@radix-ui/react-separator",
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "date-fns",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/mohammadalhabil1999/time-picker",
+    "fetchedAt": "2026-04-23T03:02:11.993Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

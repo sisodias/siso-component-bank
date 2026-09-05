@@ -1,0 +1,30 @@
+{
+  "category": "feedback",
+  "subcategory": "status-indicator",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying success confirmations after form submissions or completed actions",
+    "Showing error states with corrective action links for failed operations",
+    "Communicating informational status updates to users with optional CTAs",
+    "Indicating system health or monitoring status in dashboards",
+    "Alerting users to important notifications with navigation to details"
+  ],
+  "ai_summary": "A lightweight status notification badge component supporting error, success, and info variants with optional icons and action links. Built with Tailwind CSS and class-variance-authority for variant management, this component serves as a general-purpose feedback element for communicating system status, alerts, and calls-to-action across various application contexts.",
+  "_classifiedAt": "2026-04-23T17:25:00.218Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,28 @@
+{
+  "category": "data-display",
+  "subcategory": "analytics-chart-card",
+  "visual_style": [
+    "dark",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying service incident counts in DevOps dashboards",
+    "Monitoring reliability metrics across multiple services in SaaS platforms",
+    "Visualizing incident distribution for on-call and SRE teams"
+  ],
+  "ai_summary": "A compact dark-themed incident report card featuring a multi-colored bar chart that visualizes incident counts across different services. The component uses gradient-colored bars with subtle glow effects on a black background, designed for embedding in monitoring dashboards and on-call interfaces for SaaS and DevOps teams.",
+  "_classifiedAt": "2026-04-23T17:15:00.326Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

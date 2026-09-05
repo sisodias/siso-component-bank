@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "dhileepkumargm-aether-flow",
+  "type": "registry:ui",
+  "title": "Dhileepkumargm Aether Flow",
+  "description": "Installed from https://21st.dev/r/dhileepkumargm/aether-flow",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "dhileepkumargm-aether-flow"
+  ],
+  "files": [
+    {
+      "path": "aether-flow.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "three"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/dhileepkumargm/aether-flow",
+    "fetchedAt": "2026-04-23T01:18:30.682Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

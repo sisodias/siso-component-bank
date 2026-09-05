@@ -1,0 +1,26 @@
+{
+  "id": "easemize__spotlight-card",
+  "author": "easemize",
+  "slug": "spotlight-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@easemize/components/spotlight-card",
+  "fetchedAt": "2026-08-29T04:39:15.812Z",
+  "completedAt": "2026-08-29T04:39:17.864Z",
+  "versionedFilename": "code.1749394917541.tsx",
+  "codeReference": "r2://components-code-private/easemize/spotlight-card/code.1749394917541.tsx",
+  "codeUrl": "https://cdn.21st.dev/easemize/spotlight-card/code.1749394917541.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5694,
+  "sha256": "1e2480fc83b415222e1885d9898049e0a6d7a6a8489d41b5ad77ef4b0afc09fb",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

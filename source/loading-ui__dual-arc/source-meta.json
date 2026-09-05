@@ -1,0 +1,26 @@
+{
+  "id": "loading-ui__dual-arc",
+  "author": "loading-ui",
+  "slug": "dual-arc",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@loading-ui/components/dual-arc",
+  "fetchedAt": "2026-08-29T05:29:02.883Z",
+  "completedAt": "2026-08-29T05:29:05.090Z",
+  "versionedFilename": "code.1784219674592-3687c4ba-19ba-46f0-8b6d-786abe04a5e7.tsx",
+  "codeReference": "r2://components-code-private/loading-ui/dual-arc/code.1784219674592-3687c4ba-19ba-46f0-8b6d-786abe04a5e7.tsx",
+  "codeUrl": "https://cdn.21st.dev/loading-ui/dual-arc/code.1784219674592-3687c4ba-19ba-46f0-8b6d-786abe04a5e7.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

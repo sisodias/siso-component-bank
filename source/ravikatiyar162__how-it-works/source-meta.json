@@ -1,0 +1,26 @@
+{
+  "id": "ravikatiyar162__how-it-works",
+  "author": "ravikatiyar162",
+  "slug": "how-it-works",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ravikatiyar162/components/how-it-works",
+  "fetchedAt": "2026-08-29T06:25:22.284Z",
+  "completedAt": "2026-08-29T06:25:24.488Z",
+  "versionedFilename": "code.1756289540876.tsx",
+  "codeReference": "r2://components-code-private/ravikatiyar162/how-it-works/code.1756289540876.tsx",
+  "codeUrl": "https://cdn.21st.dev/ravikatiyar162/how-it-works/code.1756289540876.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4900,
+  "sha256": "158f295f180af19b0948a6f7bf9831a936fc0242eeb52fd8747145d4aac54698",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

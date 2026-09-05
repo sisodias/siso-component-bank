@@ -1,0 +1,26 @@
+{
+  "id": "edwinvakayil__the-dialog",
+  "author": "edwinvakayil",
+  "slug": "the-dialog",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@edwinvakayil/components/the-dialog",
+  "fetchedAt": "2026-08-29T04:42:42.297Z",
+  "completedAt": "2026-08-29T04:42:44.448Z",
+  "versionedFilename": "code.1780178503819.tsx",
+  "codeReference": "r2://components-code-private/lyanchouss/the-dialog/code.1780178503819.tsx",
+  "codeUrl": "https://cdn.21st.dev/lyanchouss/the-dialog/code.1780178503819.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 11350,
+  "sha256": "8df8ecce19276d6f307b751191e55f09f820b82fdea057b92b81410d0879a983",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

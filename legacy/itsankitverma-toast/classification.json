@@ -1,0 +1,24 @@
+{
+  "category": "feedback",
+  "subcategory": "toast",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display brief, non-blocking notifications after user actions like form submissions or data saves",
+    "Show status updates like connection changes or sync completions",
+    "Provide feedback on async operations without interrupting workflow",
+    "Deliver confirmation messages for completed tasks with optional dismiss action",
+    "Alert users to system messages or important updates in a non-intrusive way"
+  ],
+  "ai_summary": "A toast notification system built on Ark UI that displays non-blocking feedback messages at the bottom of the viewport. Supports light/dark themes, customizable titles and descriptions, and smooth transitions. Ideal for confirming user actions, showing status updates, or delivering brief system messages without disrupting the user experience. Works across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T01:40:42.767Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

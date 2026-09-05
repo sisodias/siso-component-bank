@@ -1,0 +1,26 @@
+{
+  "id": "theritikk__luma-spin",
+  "author": "theritikk",
+  "slug": "luma-spin",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theritikk/components/luma-spin",
+  "fetchedAt": "2026-08-29T07:35:34.809Z",
+  "completedAt": "2026-08-29T07:35:37.037Z",
+  "versionedFilename": "code.1751889662322.tsx",
+  "codeReference": "r2://components-code-private/theritikk/luma-spin/code.1751889662322.tsx",
+  "codeUrl": "https://cdn.21st.dev/theritikk/luma-spin/code.1751889662322.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1190,
+  "sha256": "cc18b8dda40437eba9af1407018d466b5af3899ebecf84280e1cd9bce8bb9ba5",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

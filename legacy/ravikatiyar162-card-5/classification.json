@@ -1,0 +1,35 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "profile-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "User profile display in dashboards",
+    "Team member showcase sections",
+    "Social proof cards on landing pages",
+    "Contact information cards",
+    "Employee directory listings"
+  ],
+  "ai_summary": "A profile card component with minimalist design, likely featuring avatar, name, role, and contact information. Installed from 21st.dev (ravikatiyar162/card-5) and follows shadcn/ui patterns with clean styling. Supports hover interactions and works across desktop and mobile platforms, suitable for SaaS dashboards, team pages, and social features.",
+  "_classifiedAt": "2026-04-23T01:46:38.094Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

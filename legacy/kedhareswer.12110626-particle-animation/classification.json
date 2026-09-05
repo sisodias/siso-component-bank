@@ -1,0 +1,33 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "SVG particle animation with mouse interaction",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Hero section background with floating particle effects for landing pages",
+    "Interactive visual decoration on dark-themed websites",
+    "Ambient animation for loading states or empty states",
+    "Creative background effect for SaaS product demos",
+    "Decorative animation layer for marketing websites"
+  ],
+  "ai_summary": "An SVG-based particle animation component that creates floating white particles on dark backgrounds using GSAP for smooth animations. The component features a custom Particle class managing object lifecycle, oscillating movement patterns, and mouse-reactive behavior with smooth interpolation. Particles spawn randomly, expand with easing animations, and fade out gracefully before self-removal. Ideal for creating ambient, interactive visual effects in hero sections or as decorative backgrounds on modern web applications.",
+  "_classifiedAt": "2026-04-23T01:42:11.571Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

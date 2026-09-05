@@ -1,0 +1,26 @@
+{
+  "id": "ruhith369__policy-pass-card",
+  "author": "ruhith369",
+  "slug": "policy-pass-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruhith369/components/policy-pass-card",
+  "fetchedAt": "2026-08-29T06:38:14.344Z",
+  "completedAt": "2026-08-29T06:38:16.510Z",
+  "versionedFilename": "code.1760029650271.tsx",
+  "codeReference": "r2://components-code-private/ruhith369/policy-pass-card/code.1760029650271.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruhith369/policy-pass-card/code.1760029650271.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4545,
+  "sha256": "999c6843b3d3ae4112ebe6d7ef825eb564e52ec25255d17f2d1994bb11fb9d5b",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

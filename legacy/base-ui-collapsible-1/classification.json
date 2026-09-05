@@ -1,0 +1,31 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "accordion-collapsible",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Expandable settings panel to reveal recovery keys or sensitive information",
+    "Accordion-style FAQ section with smooth expand/collapse animations",
+    "Collapsible navigation menu with rotating chevron indicators",
+    "Expandable card component for showing additional content on demand",
+    "Nested expandable sections for hierarchical data organization"
+  ],
+  "ai_summary": "A Base UI collapsible/accordion component that expands and collapses a panel of content triggered by a button. Features smooth height transitions, a rotating chevron icon indicator, and hover/focus states. Built with Tailwind CSS using the data-[panel-open] state for styling the expanded condition. Used for revealing recovery keys, FAQs, settings panels, or any hierarchical content that requires conditional display.",
+  "_classifiedAt": "2026-04-23T11:32:16.789Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

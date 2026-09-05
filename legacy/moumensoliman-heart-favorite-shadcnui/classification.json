@@ -1,0 +1,29 @@
+{
+  "category": "card",
+  "subcategory": "heart-favorite-toggle-button",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Like/favorite toggle button for social engagement on content",
+    "Heart animation feedback on user appreciation interactions",
+    "Favorite or bookmark toggle for e-commerce products",
+    "Interactive like button for media or gallery items",
+    "Quick feedback indicator for user sentiment on posts or comments"
+  ],
+  "ai_summary": "A minimalist heart favorite button component with animated scale transitions and toggle state. The button uses Framer Motion for smooth click animations and Lucide React icons for the heart symbol. When clicked, the heart fills with red and performs a subtle bounce animation, providing immediate visual feedback for user engagement actions like liking, favoriting, or bookmarking content.",
+  "_classifiedAt": "2026-04-22T09:07:01.154Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

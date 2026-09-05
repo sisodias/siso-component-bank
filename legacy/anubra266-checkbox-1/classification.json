@@ -1,0 +1,26 @@
+{
+  "category": "input",
+  "subcategory": "checkbox",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Accepting terms and conditions in sign-up or registration forms",
+    "Toggling user preferences and settings in account dashboards",
+    "Selecting multiple items in filtering systems or product catalogs",
+    "Enabling or disabling feature flags in admin panels"
+  ],
+  "ai_summary": "A lightweight, accessible checkbox component built with Ark UI featuring dark mode support, smooth state transitions, and a clean flat design. Uses Lucide icons for the checkmark indicator and integrates seamlessly with Tailwind CSS for styling customization.",
+  "_classifiedAt": "2026-04-22T08:51:43.847Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

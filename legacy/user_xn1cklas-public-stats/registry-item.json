@@ -1,0 +1,52 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "user_xn1cklas-public-stats",
+  "type": "registry:ui",
+  "title": "User_xn1cklas Public Stats",
+  "description": "Installed from https://21st.dev/r/user_xn1cklas/public-stats",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "user_xn1cklas-public-stats"
+  ],
+  "files": [
+    {
+      "path": "card.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "chart.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "public-stats.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "ai",
+    "recharts",
+    "zod"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "ai package requires zod v4 export path not available in current zod version"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/user_xn1cklas/public-stats",
+    "fetchedAt": "2026-04-23T01:18:08.466Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

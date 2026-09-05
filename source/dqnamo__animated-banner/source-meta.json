@@ -1,0 +1,26 @@
+{
+  "id": "dqnamo__animated-banner",
+  "author": "dqnamo",
+  "slug": "animated-banner",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dqnamo/components/animated-banner",
+  "fetchedAt": "2026-08-29T04:36:38.957Z",
+  "completedAt": "2026-08-29T04:36:41.249Z",
+  "versionedFilename": "code.1782934396390.tsx",
+  "codeReference": "r2://components-code-private/larsen66/animated-banner/code.1782934396390.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/animated-banner/code.1782934396390.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4439,
+  "sha256": "c5418fa820d4978469e525dbc2ab87fa958bbf81dc3cdc29e08d7d48924efe4b",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

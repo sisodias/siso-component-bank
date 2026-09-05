@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "social-media",
+    "e-commerce",
+    "healthcare",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying user profile avatars with fallback initials in applications",
+    "Showing real-time user status indicators (online, offline, busy, away) in dashboards",
+    "Creating avatar components with border styling and sizing in user profile sections",
+    "Building user lists or team member displays with status indicators",
+    "Implementing avatar notification badges with positioning support"
+  ],
+  "ai_summary": "A composite Avatar component system built with Radix UI primitives and class-variance-authority. Provides five sub-components: Avatar, AvatarImage, AvatarFallback, AvatarIndicator, and AvatarStatus. Features multiple status variants (online/offline/busy/away) with colored indicators, supports overflow-hidden image handling, and includes border and sizing utilities. Designed for displaying user identity with graceful fallbacks to initials when images fail to load.",
+  "_classifiedAt": "2026-04-23T17:23:58.270Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

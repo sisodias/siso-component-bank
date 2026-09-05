@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@hero_ui/components/heroui-alert",
+  "author": "hero_ui",
+  "slug": "heroui-alert",
+  "name": "heroui-alert",
+  "description": "HeroUI v3 Alert — status-aware feedback messages built with the real @heroui/react package. Includes default, accent, success, warning and danger statuses, action buttons, close buttons, custom indicators, compact alerts, stacked notifications, maintenance notices and custom BEM/Tailwind styling. Works in light and dark themes.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/hero_ui/heroui-alert?api_key=$API_KEY_21ST\"",
+  "id": "hero_ui__heroui-alert",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/heroui-alert/default/bundle.1780180468308.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/heroui-alert/default/preview.1780180468308.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

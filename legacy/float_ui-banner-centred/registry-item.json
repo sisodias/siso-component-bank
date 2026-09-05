@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "float_ui-banner-centred",
+  "type": "registry:ui",
+  "title": "Float_ui Banner Centred",
+  "description": "Installed from https://21st.dev/r/float_ui/banner-centred",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "float_ui-banner-centred"
+  ],
+  "files": [
+    {
+      "path": "banner-centred.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/float_ui/banner-centred",
+    "fetchedAt": "2026-04-23T01:18:44.358Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

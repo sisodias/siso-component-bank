@@ -1,0 +1,33 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "canvas-animation-collection",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Decorative hero section animations for landing pages",
+    "Visual loading states and loading indicators",
+    "Background animations for SaaS applications",
+    "Eye-catching circle animations for marketing sites",
+    "Theme-aware decorative elements that adapt to light/dark mode"
+  ],
+  "ai_summary": "A reusable React component providing a collection of canvas-based circle animations with hover interactions and theme-aware foreground color support. Uses Tailwind CSS for styling and dynamic CSS variables for color theming, featuring corner icons that appear on hover with smooth opacity transitions.",
+  "_classifiedAt": "2026-04-23T16:40:02.286Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

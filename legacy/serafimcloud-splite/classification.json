@@ -1,0 +1,36 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "3d-scene-wrapper",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Embedding interactive 3D scenes directly into React applications",
+    "Creating immersive product showcases with real-time 3D graphics",
+    "Adding animated 3D backgrounds to landing pages and hero sections",
+    "Building engaging interactive storytelling experiences on websites",
+    "Developing dynamic visual elements for marketing campaigns"
+  ],
+  "ai_summary": "A lightweight React wrapper around the Spline 3D library that lazy-loads interactive 3D scenes with Suspense fallback support. Enables seamless integration of WebGL-based 3D graphics in React apps with minimal configuration overhead.",
+  "_classifiedAt": "2026-04-23T17:25:35.644Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

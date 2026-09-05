@@ -1,0 +1,28 @@
+{
+  "category": "overlay",
+  "subcategory": "context-menu",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Right-click context actions for desktop applications and websites",
+    "Nested menu navigation with submenus for hierarchical actions",
+    "Radio group selections within context menus for multi-option choices",
+    "Accessible keyboard and screen reader navigation for all menu items",
+    "Trigger-based menu activation on specific UI elements"
+  ],
+  "ai_summary": "A lightweight, accessible context menu component built with Radix UI primitives. Features nested submenus, radio groups, checkable items, and keyboard navigation support. Uses standard Tailwind CSS styling with accent colors and rounded corners, making it ideal for SaaS dashboards, code editors, and productivity tools requiring right-click functionality.",
+  "_classifiedAt": "2026-04-23T01:52:27.489Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

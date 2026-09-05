@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "serafimcloud-filter-badge",
+  "type": "registry:ui",
+  "title": "Serafimcloud Filter Badge",
+  "description": "Installed from https://21st.dev/r/serafimcloud/filter-badge",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "serafimcloud-filter-badge"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "filter-badge.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@remixicon/react",
+    "class-variance-authority"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/serafimcloud/filter-badge",
+    "fetchedAt": "2026-04-23T03:05:31.160Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

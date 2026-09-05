@@ -1,0 +1,26 @@
+{
+  "id": "componentry__scroll-choreography",
+  "author": "componentry",
+  "slug": "scroll-choreography",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@componentry/components/scroll-choreography",
+  "fetchedAt": "2026-08-29T04:01:20.723Z",
+  "completedAt": "2026-08-29T04:01:23.101Z",
+  "versionedFilename": "code.1783712366971.tsx",
+  "codeReference": "r2://components-code-private/componentry/scroll-choreography/code.1783712366971.tsx",
+  "codeUrl": "https://cdn.21st.dev/componentry/scroll-choreography/code.1783712366971.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4548,
+  "sha256": "902eacc730e55c62b38b8857b6b69debe82c62ecd99ed93d81db1b345620d280",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

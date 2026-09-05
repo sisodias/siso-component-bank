@@ -1,0 +1,57 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ruixen.ui-video-player-pro",
+  "type": "registry:ui",
+  "title": "Ruixen.Ui Video Player Pro",
+  "description": "Installed from https://21st.dev/r/ruixen.ui/video-player-pro",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ruixen.ui-video-player-pro"
+  ],
+  "files": [
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "popover.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "slider.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "video-player-pro.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-popover",
+    "@radix-ui/react-slider",
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "framer-motion",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ruixen.ui/video-player-pro",
+    "fetchedAt": "2026-04-23T01:17:26.979Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Form submission triggers and action buttons",
+    "Navigation call-to-action elements",
+    "Interactive UI controls with multiple visual variants",
+    "Accessible button component with focus management",
+    "Composable button using Radix UI Slot pattern"
+  ],
+  "ai_summary": "A reusable button component built with Radix UI Slot and class-variance-authority, offering multiple variants (default, destructive, outline, secondary, ghost, link) and sizes. Supports composition via asChild prop and includes built-in accessibility features with focus-visible outlines and disabled states. Designed for mixed platform use with subtle shadow effects.",
+  "_classifiedAt": "2026-04-22T09:13:29.123Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

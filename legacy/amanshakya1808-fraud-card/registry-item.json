@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "amanshakya1808-fraud-card",
+  "type": "registry:ui",
+  "title": "Amanshakya1808 Fraud Card",
+  "description": "Installed from https://21st.dev/r/amanshakya1808/fraud-card",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "amanshakya1808-fraud-card"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "fraud-card.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "motion",
+    "react-icons"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/amanshakya1808/fraud-card",
+    "fetchedAt": "2026-04-23T01:18:21.775Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

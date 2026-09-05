@@ -1,0 +1,35 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "morphing-loader",
+  "visual_style": [
+    "gradient",
+    "colorful"
+  ],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "fintech",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display animated loading state during data fetching operations",
+    "Show processing feedback during form submissions or API calls",
+    "Indicate background tasks are running with visually engaging animation",
+    "Use as brand-consistent loading indicator across application pages",
+    "Enhance user experience during page transitions or content lazy loading"
+  ],
+  "ai_summary": "A morphing blob loader component that animates through shape transformations and cycles through multiple gradient color schemes every 8 seconds. The component features a smooth organic morphing animation with border-radius manipulation and rotation, providing an engaging visual feedback indicator suitable for various loading scenarios across SaaS, e-commerce, and dev-tool applications.",
+  "_classifiedAt": "2026-04-23T17:40:13.997Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

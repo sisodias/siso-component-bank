@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "badge",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying status labels or categories on content items",
+    "Showing notification counts or small numerical indicators",
+    "Tagging items with metadata or labels",
+    "Indicating version numbers or small state information",
+    "Highlighting special conditions like destructive or secondary states"
+  ],
+  "ai_summary": "A lightweight badge component with four variants (default, secondary, destructive, outline) using Tailwind CSS and class-variance-authority for type-safe variant props. Features rounded pill styling, hover color transitions, and accessible focus rings. Designed as an atomic component for displaying status indicators, labels, or small metadata throughout applications.",
+  "_classifiedAt": "2026-04-23T01:36:59.539Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

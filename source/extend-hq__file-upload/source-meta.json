@@ -1,0 +1,26 @@
+{
+  "id": "extend-hq__file-upload",
+  "author": "extend-hq",
+  "slug": "file-upload",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@extend-hq/components/file-upload",
+  "fetchedAt": "2026-08-29T04:47:01.755Z",
+  "completedAt": "2026-08-29T04:47:03.984Z",
+  "versionedFilename": "code.1782207976342.tsx",
+  "codeReference": "r2://components-code-private/larsen66/file-upload/code.1782207976342.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/file-upload/code.1782207976342.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 16058,
+  "sha256": "881363c32706fd237cbfec1a946762643a19c7fb38dd3f5fcdc34e649c043703",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

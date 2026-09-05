@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons in authentication forms like forgot password flows",
+    "Navigation and redirect triggers in user interface workflows",
+    "Form submission handlers with various visual states",
+    "Destructive action confirmations with variant styling",
+    "Secondary or cancel action buttons in modal dialogs"
+  ],
+  "ai_summary": "A reusable button component built with Radix UI Slot and class-variance-authority, offering multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Supports disabled states, focus rings, and asChild pattern for polymorphic rendering. Clean Tailwind styling suitable for authentication forms and general UI controls.",
+  "_classifiedAt": "2026-04-23T16:56:38.723Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

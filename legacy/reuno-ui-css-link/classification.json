@@ -1,0 +1,31 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "animated-underline-link",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Navigation links requiring smooth underline animations on hover",
+    "CTA buttons or call-to-action links in headers and footers",
+    "Inline text links in content sections with visual feedback"
+  ],
+  "ai_summary": "A collection of animated link components featuring smooth underline reveal effects that animate from right to left on hover. Built with CSS transitions using cubic-bezier easing for fluid motion. Each variant positions the underline differently (bottom-aligned, below text, etc.) providing flexibility for different design contexts while maintaining a consistent minimalist aesthetic.",
+  "_classifiedAt": "2026-04-23T01:48:25.827Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "uniquesonu__mac-os-dock",
+  "author": "uniquesonu",
+  "slug": "mac-os-dock",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uniquesonu/components/mac-os-dock",
+  "fetchedAt": "2026-08-29T07:49:11.674Z",
+  "completedAt": "2026-08-29T07:49:14.611Z",
+  "versionedFilename": "code.1755254025965.tsx",
+  "codeReference": "r2://components-code-private/uniquesonu/mac-os-dock/code.1755254025965.tsx",
+  "codeUrl": "https://cdn.21st.dev/uniquesonu/mac-os-dock/code.1755254025965.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6337,
+  "sha256": "fc5bb0d8ae1f142228f401453b1cfb20b23f5618b718c5f68dd006c3e0275229",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

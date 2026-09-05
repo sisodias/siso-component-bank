@@ -1,0 +1,32 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "user-profile",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Display user identity and role in SaaS dashboards",
+    "Show user engagement metrics on hover in community platforms",
+    "Present team member profiles in collaboration tools",
+    "Render contact cards in CRM or directory applications"
+  ],
+  "ai_summary": "A minimalist user profile card component featuring a profile avatar, name, and title with an expandable stats panel revealed on hover. Built with Tailwind CSS and Framer Motion, it includes smooth spring-based animations with staggered reveals for profile completion, activity level, and reputation metrics. Supports dark/light mode theming and is designed for SaaS applications, social platforms, and team directories.",
+  "_classifiedAt": "2026-04-23T01:35:26.661Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

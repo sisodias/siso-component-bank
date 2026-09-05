@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__browser-card",
+  "author": "ruixen.ui",
+  "slug": "browser-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/browser-card",
+  "fetchedAt": "2026-08-29T06:39:40.145Z",
+  "completedAt": "2026-08-29T06:39:42.511Z",
+  "versionedFilename": "code.1762964605448.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/browser-card/code.1762964605448.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/browser-card/code.1762964605448.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5526,
+  "sha256": "fe2761810e086257d50528e41093dc1f8122c4f4a0b3fcc1b36714f4925979b1",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

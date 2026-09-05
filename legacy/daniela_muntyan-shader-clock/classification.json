@@ -1,0 +1,29 @@
+{
+  "category": "media",
+  "subcategory": "webgl-shader-clock",
+  "visual_style": [
+    "colorful",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Animated clock background for landing pages and hero sections",
+    "Decorative time visualization for dashboard or app backgrounds",
+    "Artistic clock display for media websites and portfolios"
+  ],
+  "ai_summary": "A WebGL-powered shader clock that renders a full-window animated time display with spectral color mapping based on wavelength-to-RGB calculations. Uses vertex and fragment shaders to compute colors in real-time, creating a vibrant rainbow effect that continuously animates with the current time.",
+  "_classifiedAt": "2026-04-23T01:37:26.575Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

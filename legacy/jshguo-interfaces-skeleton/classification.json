@@ -1,0 +1,26 @@
+{
+  "category": "feedback",
+  "subcategory": "skeleton-loader",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display placeholder shapes while content is being fetched from an API",
+    "Improve perceived loading performance by showing immediate visual feedback",
+    "Reduce layout shift by reserving space for incoming content",
+    "Indicate loading states for avatar, title, text, and media content areas",
+    "Provide accessible loading feedback during async operations"
+  ],
+  "ai_summary": "A minimalist skeleton loading component with configurable variants for avatar, title, text, and media placeholders. Uses subtle pulse animation to indicate loading states without distracting from the UI. Designed as a foundational building block for creating loading states across any interface.",
+  "_classifiedAt": "2026-04-22T09:01:53.437Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

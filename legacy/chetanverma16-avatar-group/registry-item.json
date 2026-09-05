@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "chetanverma16-avatar-group",
+  "type": "registry:ui",
+  "title": "Chetanverma16 Avatar Group",
+  "description": "Installed from https://21st.dev/r/chetanverma16/avatar-group",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "chetanverma16-avatar-group"
+  ],
+  "files": [
+    {
+      "path": "avatar-group.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "next"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/chetanverma16/avatar-group",
+    "fetchedAt": "2026-04-23T03:04:02.787Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

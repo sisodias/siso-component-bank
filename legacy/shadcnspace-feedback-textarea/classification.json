@@ -1,0 +1,30 @@
+{
+  "category": "input",
+  "subcategory": "feedback-textarea-with-validation",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Collecting user feedback with real-time character validation",
+    "Product review text submission with minimum length requirements",
+    "Support ticket description with inline validation messages",
+    "Comment or review sections with live validation feedback",
+    "Survey response text fields with validation indicators"
+  ],
+  "ai_summary": "A feedback textarea component with real-time validation that displays error messages when input is below a minimum character threshold and success feedback when valid. Features accessible aria-invalid attributes and role alerts for screen readers. Built with shadcn/ui primitives for seamless integration into form-heavy applications.",
+  "_classifiedAt": "2026-04-22T09:14:54.049Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

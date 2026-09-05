@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/notifications",
+  "author": "ruixen.ui",
+  "slug": "notifications",
+  "name": "notifications",
+  "description": "The Notifications component is a reusable, interactive UI element built using ShadCN UI, TypeScript, and Tailwind CSS, designed to display real-time notifications in a web application. It features a bell icon trigger with an optional unread badge, and a dropdown menu that appears centered below the icon, ensuring a consistent and visually appealing alignment.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/notifications?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__notifications",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/notifications/default/bundle.1757080766973.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/notifications/default/preview.1757080766972.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

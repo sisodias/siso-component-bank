@@ -1,0 +1,30 @@
+{
+  "category": "media",
+  "subcategory": "scroll-driven-horizontal-carousel",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying image galleries with immersive scroll-driven horizontal navigation",
+    "Creating storytelling experiences with horizontally scrolling content sections",
+    "Showcasing portfolio work or featured projects with parallax-like image cards",
+    "Building interactive product showcases with hover zoom effects on images",
+    "Designing visual-heavy landing pages with scroll-triggered animations"
+  ],
+  "ai_summary": "A scroll-driven horizontal carousel component that translates vertical scroll momentum into smooth horizontal card movement using framer-motion. Features image cards with backdrop-blur text overlays and hover zoom effects. The sticky container creates an immersive full-screen scrolling experience ideal for visual storytelling and portfolio showcases.",
+  "_classifiedAt": "2026-04-23T17:39:44.126Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

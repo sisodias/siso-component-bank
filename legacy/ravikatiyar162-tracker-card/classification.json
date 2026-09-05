@@ -1,0 +1,26 @@
+{
+  "category": "card",
+  "subcategory": "package-delivery-tracker",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display package delivery status and tracking information in e-commerce order management interfaces",
+    "Show shipment progress with QR code scanning capability for logistics applications",
+    "Present shipping details including destination, date, and package imagery in checkout flows",
+    "Track deliveries in admin dashboards for warehouse or fulfillment operations",
+    "Provide package visibility in multi-vendor marketplace seller panels"
+  ],
+  "ai_summary": "A dynamic package tracking card component featuring an animated conveyor belt background, package image display, status indicator, destination details with flag, date, and scannable QR code. Built with Framer Motion for smooth spring-based entrance animations and staggered child reveals. Designed for e-commerce and logistics applications to display delivery information in a visually engaging, interactive format.",
+  "_classifiedAt": "2026-04-23T01:48:18.866Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

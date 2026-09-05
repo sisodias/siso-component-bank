@@ -1,0 +1,24 @@
+{
+  "category": "feedback",
+  "subcategory": "state-indicator",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying current state or status information in UI",
+    "Showing empty, full, or intermediate states for components",
+    "Visual feedback for state-driven interfaces",
+    "Status indicators in dashboards and admin panels"
+  ],
+  "ai_summary": "A minimalist state indicator component designed to display current state information (such as 'MailboxFullState' or similar status states). Built with Radix UI primitives for accessibility and Tailwind CSS for styling, providing clean visual feedback for various application states.",
+  "_classifiedAt": "2026-04-22T09:02:29.587Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

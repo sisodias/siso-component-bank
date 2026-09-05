@@ -1,0 +1,34 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "dropdown-button",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Primary action buttons in application headers and navigation bars",
+    "Dropdown menu triggers with customizable styling variants",
+    "Secondary action buttons in forms and toolbars",
+    "Outline-style buttons for less prominent actions",
+    "Destructive action buttons for delete or warning operations"
+  ],
+  "ai_summary": "A versatile menu button component with multiple visual variants including primary, outline, ghost, and destructive styles. Built on base-ui-components with CVA for consistent theming, featuring standard hover, focus, and open states. Suitable for dropdown triggers, navigation menus, and action buttons in SaaS and general web applications.",
+  "_classifiedAt": "2026-04-22T09:13:52.739Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

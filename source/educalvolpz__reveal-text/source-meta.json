@@ -1,0 +1,26 @@
+{
+  "id": "educalvolpz__reveal-text",
+  "author": "educalvolpz",
+  "slug": "reveal-text",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@educalvolpz/components/reveal-text",
+  "fetchedAt": "2026-08-29T04:41:10.983Z",
+  "completedAt": "2026-08-29T04:41:13.395Z",
+  "versionedFilename": "code.1783580839513.tsx",
+  "codeReference": "r2://components-code-private/educlopez/reveal-text/code.1783580839513.tsx",
+  "codeUrl": "https://cdn.21st.dev/educlopez/reveal-text/code.1783580839513.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1508,
+  "sha256": "45a1fb239abcec0af3456741b30ab56f776f75abab0a9ce68e6c069d563e43d2",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "button-component",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Submit forms and trigger actions with a clickable button element",
+    "Navigate users between pages or sections via CTA buttons",
+    "Toggle states or modes within an interface",
+    "Display loading or disabled states during async operations",
+    "Build button groups with consistent styling across an application"
+  ],
+  "ai_summary": "A reusable Button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes, built with Radix UI Slot for composition. Features standard focus ring accessibility, disabled states, and Tailwind CSS styling. Ideal as a foundational UI building block for any web application requiring clickable interactive elements.",
+  "_classifiedAt": "2026-04-23T16:50:55.616Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

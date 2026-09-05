@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-with-popover",
+  "visual_style": [
+    "glass-morphism",
+    "gradient",
+    "colorful"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Mobile app authentication via QR code scanning in SaaS dashboards",
+    "Product linking and deep link sharing in e-commerce storefronts",
+    "Contact or profile sharing in media and creator platforms",
+    "Configuration or authentication workflows in developer tools",
+    "Quick link sharing in general web applications"
+  ],
+  "ai_summary": "A hover-activated QR code button component featuring glass-morphism styling with gradient backgrounds and backdrop blur effects. Displays a popover containing a QR code on mouse hover with smooth opacity and scale transitions. Ideal for link sharing, mobile authentication flows, and deep linking scenarios across various web applications.",
+  "_classifiedAt": "2026-04-23T17:19:22.926Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

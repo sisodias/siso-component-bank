@@ -1,0 +1,26 @@
+{
+  "id": "shugar__button-1",
+  "author": "shugar",
+  "slug": "button-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/button-1",
+  "fetchedAt": "2026-08-29T07:18:39.809Z",
+  "completedAt": "2026-08-29T07:18:41.839Z",
+  "versionedFilename": "code.1751968742643.tsx",
+  "codeReference": "r2://components-code-private/shugar/button-1/code.1751968742643.tsx",
+  "codeUrl": "https://cdn.21st.dev/shugar/button-1/code.1751968742643.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3044,
+  "sha256": "9b6175ce0349a7706c2d6a57e5b7b530f12f0e9a75b9e50a3f2b00c12c1da676",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

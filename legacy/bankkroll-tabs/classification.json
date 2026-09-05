@@ -1,0 +1,35 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "tabbed-interface",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Organizing dashboard content into switchable sections for better information hierarchy",
+    "Creating tabbed product detail pages in e-commerce with variant switching",
+    "Building multi-step wizards or forms with progressive disclosure",
+    "Implementing settings panels with categorized configuration options",
+    "Creating documentation pages with organized content sections"
+  ],
+  "ai_summary": "A versatile tabs component built on Radix UI with 5 visual variants (default, underline, pill, rounded, folder). Supports full keyboard navigation and accessibility via Radix primitives, with smooth hover and active state transitions. The component uses CVA for variant management, making it easily extensible. Ideal for organizing dashboard content, product pages, settings panels, and documentation interfaces where users need to switch between related content sections.",
+  "_classifiedAt": "2026-04-23T11:32:06.750Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

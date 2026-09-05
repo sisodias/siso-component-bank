@@ -1,0 +1,29 @@
+{
+  "category": "data-display",
+  "subcategory": "chart-axis",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Rendering time-series data with animated axes and grid lines",
+    "Displaying statistical data with customizable scale types (linear, log, band)",
+    "Creating interactive data visualizations with spring-based animations",
+    "Building dashboard components with professional-grade axis rendering",
+    "Developing analytics interfaces with gradient-enhanced visual styling"
+  ],
+  "ai_summary": "Airbnb Axis is a data visualization component that renders professional chart axes with animated grid lines using @visx/react-spring. It supports multiple scale types (linear, log, band, time) and features spring-based animations with configurable trajectories. The component includes gradient styling and is designed for embedding in dashboards, analytics tools, and SaaS applications to display time-series and statistical data.",
+  "_classifiedAt": "2026-04-23T11:29:31.530Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

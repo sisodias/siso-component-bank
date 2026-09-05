@@ -1,0 +1,29 @@
+{
+  "category": "card",
+  "subcategory": "animated progress tracker",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "education",
+    "healthcare"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying user progress toward goals with animated visual feedback",
+    "Showing completion percentage for tasks or milestones",
+    "Tracking daily/weekly metrics in a dashboard widget",
+    "Presenting fitness or learning progress to end users",
+    "Highlighting savings or investment goals in fintech apps"
+  ],
+  "ai_summary": "An animated progress card component built with Framer Motion that displays goal completion with a smooth progress bar animation. Features a theme-adaptive design with shadow depth, rounded corners, and primary color theming. Includes configurable icon, title, progress labels, and percentage calculation. Reusable across dashboards for tracking metrics, goals, or milestones in various industries.",
+  "_classifiedAt": "2026-04-23T01:42:54.867Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

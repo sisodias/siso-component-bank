@@ -1,0 +1,32 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "navbar, header, top-bar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Primary site-wide navigation for landing pages and marketing sites",
+    "Top navigation bar with logo, nav links, and CTA buttons",
+    "Responsive header component for web applications",
+    "E-commerce or SaaS product navigation headers",
+    "Dashboard or app header with user profile and actions"
+  ],
+  "ai_summary": "A header navigation component designed for website navigation bars featuring a logo area, navigation links, and call-to-action buttons. Built with Tailwind CSS and Radix UI for accessibility, this composite component supports responsive design across desktop and mobile platforms. Includes a reusable Button component with multiple variants for consistent styling throughout the navigation.",
+  "_classifiedAt": "2026-04-22T08:56:29.304Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

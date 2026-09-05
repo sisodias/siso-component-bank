@@ -1,0 +1,28 @@
+{
+  "category": "media",
+  "subcategory": "generative-art-canvas",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying animated generative art on portfolio or landing pages",
+    "Creating interactive visual experiences for creative product showcases",
+    "Adding dynamic canvas-based graphics to hero sections",
+    "Building art gallery web experiences with hover-triggered animations",
+    "Enhancing landing pages with procedurally generated line art animations"
+  ],
+  "ai_summary": "A generative art gallery component that renders animated line patterns on an HTML canvas using procedural generation. The artwork displays randomly moving lines with purple gradient strokes and responds to hover interactions by activating the animation. Built with Framer Motion for smooth transitions and Lucide icons for UI elements.",
+  "_classifiedAt": "2026-04-23T01:38:57.196Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

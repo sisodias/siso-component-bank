@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@cnippet.dev/components/rate-limit-alert-dialog",
+  "author": "cnippet.dev",
+  "slug": "rate-limit-alert-dialog",
+  "name": "rate-limit-alert-dialog",
+  "description": "An alert dialog that warns a user they hit an API rate limit, with a live MM:SS countdown to automatic retry and an upgrade call to action.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/cnippet.dev/rate-limit-alert-dialog?api_key=$API_KEY_21ST\"",
+  "id": "cnippet.dev__rate-limit-alert-dialog",
+  "bundleUrl": "https://cdn.21st.dev/cnippet.dev/rate-limit-alert-dialog/default/bundle.1787115003577-888ce04a-0503-46ab-8416-f50270aab9e6.html",
+  "previewUrl": "https://cdn.21st.dev/cnippet.dev/rate-limit-alert-dialog/default/preview.1787115003577-888ce04a-0503-46ab-8416-f50270aab9e6.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

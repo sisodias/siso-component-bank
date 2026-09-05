@@ -1,0 +1,35 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "accordion-discussion",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying threaded discussion or comment sections in applications",
+    "Creating expandable Q&A sections with nested replies",
+    "Building forum-style conversation threads with visual hierarchy",
+    "Implementing collapsible discussion panels in documentation sites",
+    "Adding interactive discussion components to community platforms"
+  ],
+  "ai_summary": "A set of atomic React components for building discussion threads with accordion-style expandable replies. Features a vertical gradient border accent, animated chevron indicator, and clean typography hierarchy using Radix UI primitives. Designed for minimalist interfaces requiring collapsible discussion or comment functionality.",
+  "_classifiedAt": "2026-04-23T17:00:55.880Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

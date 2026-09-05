@@ -1,0 +1,26 @@
+{
+  "id": "dksksnsf__pinlist",
+  "author": "dksksnsf",
+  "slug": "pinlist",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dksksnsf/components/pinlist",
+  "fetchedAt": "2026-08-29T04:36:32.643Z",
+  "completedAt": "2026-08-29T04:36:35.781Z",
+  "versionedFilename": "code.1782405596039.tsx",
+  "codeReference": "r2://components-code-private/dksksnsf/pinlist/code.1782405596039.tsx",
+  "codeUrl": "https://cdn.21st.dev/dksksnsf/pinlist/code.1782405596039.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3042,
+  "sha256": "57ef8c83cc9dce53da62aae9824258040cabb74ffa6b54666ee5f1214464a748",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

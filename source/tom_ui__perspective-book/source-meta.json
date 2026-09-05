@@ -1,0 +1,26 @@
+{
+  "id": "tom_ui__perspective-book",
+  "author": "tom_ui",
+  "slug": "perspective-book",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@tom_ui/components/perspective-book",
+  "fetchedAt": "2026-08-29T07:38:42.309Z",
+  "completedAt": "2026-08-29T07:38:44.656Z",
+  "versionedFilename": "code.1773072968561.tsx",
+  "codeReference": "r2://components-code-private/larsen66/perspective-book/code.1773072968561.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/perspective-book/code.1773072968561.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 297798,
+  "sha256": "380f136a93afdf16403d36f2fcae081d9e9918a934b788eb9cb3ccd8a6321ca6",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

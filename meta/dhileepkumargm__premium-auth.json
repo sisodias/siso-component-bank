@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@dhileepkumargm/components/premium-auth",
+  "author": "dhileepkumargm",
+  "slug": "premium-auth",
+  "name": "premium-auth",
+  "description": "A modern, animated authentication component with a beautiful glass-morphism design. Features include:\nToggle between Login and Sign Up modes\nForm validation with error handling\nPassword visibility toggle\nSocial login options (Google and GitHub)\nLoading states and smooth animations\nSuccess/error message handling\nResponsive design with mobile support\nBeautiful background effects and particle animations\nBuilt with React, Framer Motion, and Tailwind CSS\nComponent Type:\nUI Component\nTags:\nauthentication\nlogin\nsignup\nmodal\nglass-morphism\nanimation\nform\nsocial-login\npremium\ntailwind\nframer-motion\nCover Image Description:\nThe cover image should showcase the component's glass-morphism design with:\nThe main authentication modal with a blurred background\nThe neural network pattern and moving gradient orbs\nThe login form with input fields and social login buttons\nThe premium badge with sparkle animation\nA dark theme with purple/indigo gradients\nVideo Preview Description:\nThe video should demonstrate:\nOpening animation of the modal\nSwitching between Login and Sign Up modes\nForm validation and error states\nPassword visibility toggle\nLoading states during authentication\nSuccess message animations\nSocial login button interactions\nBackground particle animations\nHover effects on buttons and inputs\nClosing animation\nTechnical Requirements:\nReact 16.8+\nFramer Motion\nTailwind CSS\nLucide React icons\nUsage Example:\nimport { PremiumAuth } from './premium-auth';\n\nfunction App() {\n  return (\n    <PremiumAuth \n      onClose={() => {\n        // Handle modal close\n        console.log('Modal closed');\n      }} \n    />\n  );\n}\n\nFeatures:\nAuthentication:\nEmail/Password login\nUser registration\nSocial login (Google & GitHub)\nForm validation\nError handling\nUI/UX:\nGlass morphism effect\nAnimated background\nFloating particles\nSmooth transitions\nLoading states\nSuccess/Error messages\nResponsive Design:\nMobile-friendly\nAdaptive layout\nTouch-friendly inputs\nProper spacing\nAccessibility:\nKeyboard navigation\nARIA labels\nFocus management\nError announcements\nPerformance:\nOptimized animations\nLazy loading\nEfficient state management\nMinimal dependencies\nThis component is perfect for:\nPremium SaaS applications\nModern web applications\nAuthentication flows\nUser onboarding\nPremium feature access\nSubscription-based services\nThe component is designed to be:\nEasy to integrate\nHighly customizable\nWell-documented\nPerformance-optimized\nAccessible\nMobile-responsive",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/dhileepkumargm/premium-auth?api_key=$API_KEY_21ST\"",
+  "id": "dhileepkumargm__premium-auth",
+  "bundleUrl": "https://cdn.21st.dev/dhileepkumargm/premium-auth/default/bundle.1778273611284.html",
+  "previewUrl": "https://cdn.21st.dev/dhileepkumargm/premium-auth/default/preview.1749020711825.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 75,
+  "demo_id": 2558,
+  "video_url": null
+}

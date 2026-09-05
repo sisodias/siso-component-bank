@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "bg.ibelick-light-theme-tailwind-css-background-snippet",
+  "type": "registry:ui",
+  "title": "Bg.Ibelick Light Theme Tailwind Css Background Snippet",
+  "description": "Installed from https://21st.dev/r/bg.ibelick/light-theme-tailwind-css-background-snippet",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "bg.ibelick-light-theme-tailwind-css-background-snippet"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "light-theme-tailwind-css-background-snippet.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/bg.ibelick/light-theme-tailwind-css-background-snippet",
+    "fetchedAt": "2026-04-23T01:18:18.955Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

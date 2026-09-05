@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__studio-hero",
+  "author": "ruixen.ui",
+  "slug": "studio-hero",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/studio-hero",
+  "fetchedAt": "2026-08-29T06:51:02.148Z",
+  "completedAt": "2026-08-29T06:51:04.174Z",
+  "versionedFilename": "code.1761154064600.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/studio-hero/code.1761154064600.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/studio-hero/code.1761154064600.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5463,
+  "sha256": "7a08be687658b525dbb2765a50a44dc99e624222049db2a053abbdb49ee96e3d",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

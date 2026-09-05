@@ -1,0 +1,26 @@
+{
+  "category": "input",
+  "subcategory": "command-palette-search",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav",
+    "none"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Quick file search with autocomplete dropdown for productivity tools",
+    "Command palette for executing actions like deployments or checks",
+    "Unified search interface combining files and actions in one place",
+    "Keyboard-first navigation for developer workflows"
+  ],
+  "ai_summary": "An animated command palette search component featuring a collapsible dropdown menu with staggered GSAP animations. Supports searching files and executing quick actions like deployments or lint checks. Includes keyboard navigation support with focus-triggered expansion and Lucide icons for visual clarity.",
+  "_classifiedAt": "2026-04-23T01:34:57.863Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

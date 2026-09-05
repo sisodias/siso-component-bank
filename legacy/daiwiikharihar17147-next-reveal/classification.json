@@ -1,0 +1,35 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "character-flip-text-reveal",
+  "visual_style": [
+    "dark",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Animated hero text reveal for landing pages and marketing sites",
+    "Dynamic heading animation for portfolio and creative agency websites",
+    "Interactive text showcase for product feature sections",
+    "Engaging typography reveal for multimedia presentations",
+    "Reusable animated text component for dashboard headers and branding"
+  ],
+  "ai_summary": "A character-by-character flip text reveal animation component with replay functionality. Displays text with a cascading flip effect that animates each character sequentially. Supports light/dark mode themes via CSS variables and includes a clickable replay button to re-trigger the animation. Built with React state management for animation control and styled-jsx for encapsulated styles.",
+  "_classifiedAt": "2026-04-22T08:55:32.243Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

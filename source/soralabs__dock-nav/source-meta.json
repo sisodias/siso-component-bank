@@ -1,0 +1,26 @@
+{
+  "id": "soralabs__dock-nav",
+  "author": "soralabs",
+  "slug": "dock-nav",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@soralabs/components/dock-nav",
+  "fetchedAt": "2026-08-29T07:23:18.266Z",
+  "completedAt": "2026-08-29T07:23:21.475Z",
+  "versionedFilename": "code.1783710489291.tsx",
+  "codeReference": "r2://components-code-private/soralabs/dock-nav/code.1783710489291.tsx",
+  "codeUrl": "https://cdn.21st.dev/soralabs/dock-nav/code.1783710489291.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5126,
+  "sha256": "e36c4286db9ef83ca8110f2e6b37bc7cbc7a5658c1a2c1e9dea0a3c49a9ea48e",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

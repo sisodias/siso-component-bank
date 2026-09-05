@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary action triggers in forms and application interfaces",
+    "Navigation and routing triggers with link-styled variants",
+    "Destructive action confirmations using destructive variant",
+    "Secondary navigation and menu options",
+    "Accessible interactive elements with proper focus management"
+  ],
+  "ai_summary": "A reusable React button component with multiple visual variants (default, destructive, outline, secondary, ghost, link) built with Radix UI Slot for composition and class-variance-authority for variant management. Supports standard button sizes and includes accessible focus-visible ring styling with smooth color transitions for hover states.",
+  "_classifiedAt": "2026-04-22T09:09:28.281Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

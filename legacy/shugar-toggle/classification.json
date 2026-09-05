@@ -1,0 +1,26 @@
+{
+  "category": "input",
+  "subcategory": "toggle-switch",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Enable or disable settings in a preferences panel",
+    "Toggle boolean states in forms",
+    "Control feature flags in SaaS applications",
+    "Switch between active/inactive states in e-commerce product options",
+    "Toggle dark/light mode or other UI preferences"
+  ],
+  "ai_summary": "A customizable toggle switch component with support for multiple colors, sizes (small/large), and optional icons. Features smooth CSS transitions for state changes, disabled state handling, and flexible label/icon placement. Built with Tailwind CSS for easy integration into modern web applications.",
+  "_classifiedAt": "2026-04-23T17:32:06.759Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

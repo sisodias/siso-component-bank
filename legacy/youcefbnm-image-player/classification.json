@@ -1,0 +1,29 @@
+{
+  "category": "media",
+  "subcategory": "image-carousel",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Cycling through featured images on landing pages with automatic interval-based playback",
+    "Displaying product image galleries in e-commerce with loop or single-pass modes",
+    "Creating hero section image rotators with configurable transition timing",
+    "Building media galleries that auto-advance through image collections",
+    "Implementing news ticker-style image feeds with completion callbacks"
+  ],
+  "ai_summary": "A lightweight React image slideshow component that automatically cycles through an array of images at configurable intervals. Supports looping, one-shot playback with onComplete callback, and custom image rendering via renderImage prop. The component resets to first image when the images array changes and handles edge cases like empty arrays. Designed as a reusable atomic component for any application needing timed image rotation.",
+  "_classifiedAt": "2026-04-23T01:56:00.274Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

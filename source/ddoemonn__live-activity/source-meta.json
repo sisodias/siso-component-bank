@@ -1,0 +1,26 @@
+{
+  "id": "ddoemonn__live-activity",
+  "author": "ddoemonn",
+  "slug": "live-activity",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ddoemonn/components/live-activity",
+  "fetchedAt": "2026-08-29T04:11:01.222Z",
+  "completedAt": "2026-08-29T04:11:03.484Z",
+  "versionedFilename": "code.1785472474914-f9e622c0-62fa-44b0-ba2c-f137f4c3e81d.tsx",
+  "codeReference": "r2://components-code-private/ddoemonn/live-activity/code.1785472474914-f9e622c0-62fa-44b0-ba2c-f137f4c3e81d.tsx",
+  "codeUrl": "https://cdn.21st.dev/ddoemonn/live-activity/code.1785472474914-f9e622c0-62fa-44b0-ba2c-f137f4c3e81d.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

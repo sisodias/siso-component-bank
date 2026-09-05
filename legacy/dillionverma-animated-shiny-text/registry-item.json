@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "dillionverma-animated-shiny-text",
+  "type": "registry:ui",
+  "title": "Dillionverma Animated Shiny Text",
+  "description": "Installed from https://21st.dev/r/dillionverma/animated-shiny-text",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "dillionverma-animated-shiny-text"
+  ],
+  "files": [
+    {
+      "path": "animated-shiny-text.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/dillionverma/animated-shiny-text",
+    "fetchedAt": "2026-04-23T03:05:44.989Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

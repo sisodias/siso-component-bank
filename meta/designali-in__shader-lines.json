@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@designali-in/components/shader-lines",
+  "author": "designali-in",
+  "slug": "shader-lines",
+  "name": "shader-lines",
+  "description": "The component dynamically loads Three.js, sets up the WebGL renderer with your custom shaders, and creates the colorful mosaic effect with animated lines.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/designali-in/shader-lines?api_key=$API_KEY_21ST\"",
+  "id": "designali-in__shader-lines",
+  "bundleUrl": "https://cdn.21st.dev/designali-in/shader-lines/default/bundle.1755617050360.html",
+  "previewUrl": "https://cdn.21st.dev/designali-in/shader-lines/default/preview.1755617050358.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 953,
+  "demo_id": 5698,
+  "video_url": "https://cdn.21st.dev/designali-in/shader-lines/default/video.1755617050358.mp4"
+}

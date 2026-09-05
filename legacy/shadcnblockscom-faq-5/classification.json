@@ -1,0 +1,36 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "badge",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying category labels and tags for content organization",
+    "Showing status indicators like active, pending, or closed states",
+    "Highlighting feature labels or promotional badges on product cards",
+    "Indicating count badges for notifications or cart items",
+    "Displaying skill tags or topic labels in user profiles"
+  ],
+  "ai_summary": "A lightweight badge component with four style variants (default, secondary, destructive, outline) using class-variance-authority for type-safe variant management. Features smooth hover transitions and accessible focus rings for keyboard navigation. Commonly used for status labels, category tags, feature indicators, and notification counts in SaaS and e-commerce interfaces.",
+  "_classifiedAt": "2026-04-23T17:27:37.118Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

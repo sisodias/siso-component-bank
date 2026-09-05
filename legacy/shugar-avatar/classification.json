@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display",
+    "media"
+  ],
+  "subcategory": "user-profile-avatar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display user profile pictures in navigation headers",
+    "Show user avatars in comment sections or forums",
+    "Render user thumbnails in lists and tables",
+    "Provide placeholder skeleton avatars during loading states",
+    "Display user avatars in social media feeds or chat interfaces"
+  ],
+  "ai_summary": "A lightweight React Avatar component that displays user profile images with customizable sizing. Features a placeholder mode using a skeleton loader for loading states, supports image sources with alt text accessibility, and uses minimal styling with subtle borders for a clean, flat aesthetic that integrates seamlessly across various UI contexts.",
+  "_classifiedAt": "2026-04-23T17:29:14.208Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

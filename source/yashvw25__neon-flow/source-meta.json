@@ -1,0 +1,17 @@
+{
+ "id": "yashvw25__neon-flow",
+ "outcome": "retrieved",
+ "retrievalMethod": "local-legacy-store-copy",
+ "provenanceNote": "Copied from the pre-existing local legacy 21st store; NOT fetched from 21st.dev by this lane.",
+ "legacySourcePath": "legacy/yashvw25-neon-flow/neon-flow.tsx",
+ "legacySourceFile": "neon-flow.tsx",
+ "legacyDependencies": [
+  "framer-motion"
+ ],
+ "upstreamUrl": "https://21st.dev/@yashvw25/components/neon-flow",
+ "httpStatus": null,
+ "sha256": "0f93064335ba4bac6a8251c6aa20e6e0633d833e1b48a2496a31596aecb1eb12",
+ "bytes": 3414,
+ "completedAt": "2026-08-29T03:43:54.188Z",
+ "seededBy": "CENA-directive-2026-08-29-skip-legacy"
+}

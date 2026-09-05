@@ -1,0 +1,26 @@
+{
+  "id": "hero_ui__heroui-surface",
+  "author": "hero_ui",
+  "slug": "heroui-surface",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@hero_ui/components/heroui-surface",
+  "fetchedAt": "2026-08-29T04:57:41.101Z",
+  "completedAt": "2026-08-29T04:57:43.637Z",
+  "versionedFilename": "code.1783964905319.tsx",
+  "codeReference": "r2://components-code-private/hero_ui/heroui-surface/code.1783964905319.tsx",
+  "codeUrl": "https://cdn.21st.dev/hero_ui/heroui-surface/code.1783964905319.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 125,
+  "sha256": "1cee0fd28bda908c7f259609d8ac6c422ee3bd90c8abb069f05ae2195f34aab1",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

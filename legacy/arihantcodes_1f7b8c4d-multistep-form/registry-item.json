@@ -1,0 +1,80 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "arihantcodes_1f7b8c4d-multistep-form",
+  "type": "registry:ui",
+  "title": "Arihantcodes_1f7b8c4d Multistep Form",
+  "description": "Installed from https://21st.dev/r/arihantcodes_1f7b8c4d/multistep-form",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "arihantcodes_1f7b8c4d-multistep-form"
+  ],
+  "files": [
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "card.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "checkbox.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "input.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "label.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "multistep-form.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "radio-group.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "select.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "textarea.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-checkbox",
+    "@radix-ui/react-label",
+    "@radix-ui/react-radio-group",
+    "@radix-ui/react-select",
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "clsx",
+    "lucide-react",
+    "tailwind-merge"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/arihantcodes_1f7b8c4d/multistep-form",
+    "fetchedAt": "2026-04-23T02:29:45.901Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

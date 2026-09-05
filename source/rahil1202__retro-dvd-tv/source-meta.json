@@ -1,0 +1,33 @@
+{
+  "id": "rahil1202__retro-dvd-tv",
+  "author": "rahil1202",
+  "slug": "retro-dvd-tv",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@rahil1202/components/retro-dvd-tv",
+  "fetchedAt": "2026-08-29T06:18:50.207Z",
+  "completedAt": "2026-08-29T06:18:52.020Z",
+  "versionedFilename": "code.1785306856286-e0efdf32-7588-408c-a867-8bfd94ef7511.tsx",
+  "codeReference": "r2://components-code-private/rahil1202/retro-dvd-tv/code.1785306856286-e0efdf32-7588-408c-a867-8bfd94ef7511.tsx",
+  "codeUrl": "https://cdn.21st.dev/rahil1202/retro-dvd-tv/code.1785306856286-e0efdf32-7588-408c-a867-8bfd94ef7511.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/rahil1202__retro-dvd-tv/code.tsx",
+    "bytes": 6987,
+    "sha256": "d1eadde074fd933316ae152f59e1986b6b6afb388bfc30536e582a7051020c34",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

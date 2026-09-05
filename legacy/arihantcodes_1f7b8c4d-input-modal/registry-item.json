@@ -1,0 +1,78 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "arihantcodes_1f7b8c4d-input-modal",
+  "type": "registry:ui",
+  "title": "Arihantcodes_1f7b8c4d Input Modal",
+  "description": "Installed from https://21st.dev/r/arihantcodes_1f7b8c4d/input-modal",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "arihantcodes_1f7b8c4d-input-modal"
+  ],
+  "files": [
+    {
+      "path": "avatar.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "badge.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "card.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "input-modal.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "input.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "label.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "select.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "tabs.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-avatar",
+    "@radix-ui/react-label",
+    "@radix-ui/react-select",
+    "@radix-ui/react-slot",
+    "@radix-ui/react-tabs",
+    "class-variance-authority",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/arihantcodes_1f7b8c4d/input-modal",
+    "fetchedAt": "2026-04-23T02:29:44.114Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

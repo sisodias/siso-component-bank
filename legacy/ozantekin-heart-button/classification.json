@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input",
+    "feedback"
+  ],
+  "subcategory": "action-button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Triggering form submissions in authentication flows",
+    "Initiating navigation to key landing pages",
+    "Toggling like/heart states on social content",
+    "Confirming destructive actions with appropriate variant styling",
+    "Composing into larger interactive components via asChild prop"
+  ],
+  "ai_summary": "A reusable atomic button component built with Radix UI Slot and class-variance-authority, providing standard button variants (default, destructive, outline, secondary, ghost, link) and sizes. Supports composition via asChild prop and includes focus-visible ring styling for keyboard accessibility. Designed to serve as a foundation for themed interactive elements like heart/like buttons.",
+  "_classifiedAt": "2026-04-23T17:05:43.686Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

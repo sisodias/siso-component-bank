@@ -1,0 +1,26 @@
+{
+  "id": "n03936827__aryan-blue",
+  "author": "n03936827",
+  "slug": "aryan-blue",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@n03936827/components/aryan-blue",
+  "fetchedAt": "2026-08-29T05:55:22.098Z",
+  "completedAt": "2026-08-29T05:55:24.281Z",
+  "versionedFilename": "code.1785061555569-d914e19e-e2cf-4b2e-9324-b4bf4a9b75ae.tsx",
+  "codeReference": "r2://components-code-private/n03936827/aryan-blue/code.1785061555569-d914e19e-e2cf-4b2e-9324-b4bf4a9b75ae.tsx",
+  "codeUrl": "https://cdn.21st.dev/n03936827/aryan-blue/code.1785061555569-d914e19e-e2cf-4b2e-9324-b4bf4a9b75ae.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

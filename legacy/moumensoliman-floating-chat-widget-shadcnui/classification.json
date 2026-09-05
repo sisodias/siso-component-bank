@@ -1,0 +1,34 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "floating-chat-widget-ai-agents",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "AI-powered customer support chat embedded in web applications",
+    "Multi-agent chat selection for different AI capabilities",
+    "Code assistance widget for developer documentation",
+    "Conversational interface for SaaS platforms",
+    "Creative writing and analysis assistance chat"
+  ],
+  "ai_summary": "A floating chat widget component with multi-agent AI support, featuring smooth framer-motion animations and gradient-styled agent cards. Allows users to select from various AI assistants (GPT-4, Claude, Gemini, Copilot) with online status indicators. Includes message input with send functionality, avatar displays, and animated open/close transitions. Built on shadcn/ui components for consistency.",
+  "_classifiedAt": "2026-04-22T09:06:54.191Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

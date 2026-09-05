@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in web applications",
+    "Secondary action buttons with outlined styling",
+    "Destructive action buttons for delete or warning operations",
+    "Ghost-style navigation buttons with minimal visual weight",
+    "Icon buttons for compact UI actions"
+  ],
+  "ai_summary": "A flexible button component built with Radix UI Slot and class-variance-authority, supporting multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). This atomic component serves as a foundational UI element for any web application, providing accessible button functionality with standard focus states and disabled handling.",
+  "_classifiedAt": "2026-04-23T01:53:42.949Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

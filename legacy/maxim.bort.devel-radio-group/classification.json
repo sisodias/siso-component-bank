@@ -1,0 +1,27 @@
+{
+  "category": "input",
+  "subcategory": "radio-group-segmented-control",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Allow users to select one option from a predefined list of choices in forms",
+    "Enable theme or view switching with visual icon-based option buttons",
+    "Provide language or region selection with RTL support for international audiences",
+    "Filter content or data by selecting category options",
+    "Create settings toggles with customizable active and hover state colors"
+  ],
+  "ai_summary": "A customizable radio group component styled as a segmented control with icon support. Features configurable colors for default, active, and hover states, RTL layout support, and flexible styling options including font, padding, border radius, and gap spacing. Designed for option selection in forms, settings panels, or filtering interfaces across various web applications.",
+  "_classifiedAt": "2026-04-23T16:55:12.951Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

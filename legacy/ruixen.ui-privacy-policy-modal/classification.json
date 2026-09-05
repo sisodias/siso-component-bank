@@ -1,0 +1,34 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "privacy-policy-modal",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Display privacy policy and collect user consent for GDPR compliance",
+    "Required disclosure modal for websites and applications",
+    "Onboarding consent flow for new users",
+    "Cookie consent and data collection preferences"
+  ],
+  "ai_summary": "A privacy policy modal component from Ruixen.UI built with Radix UI and Tailwind CSS. Displays required legal disclosures and collects user consent for regulatory compliance. Features standard modal interactions including click-to-open functionality and keyboard navigation support for accessibility. Part of a shadcn/ui-style component library with consistent button variants.",
+  "_classifiedAt": "2026-04-23T17:19:46.369Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

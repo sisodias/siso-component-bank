@@ -1,0 +1,36 @@
+{
+  "category": [
+    "form",
+    "input"
+  ],
+  "subcategory": "authentication-button, 2fa-action",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Submit verification codes in two-factor authentication flows",
+    "Trigger 2FA resend actions in login security workflows",
+    "Confirm identity verification steps in fintech applications",
+    "Navigate through multi-step authentication processes",
+    "Enable disabled states during async verification loading"
+  ],
+  "ai_summary": "A flexible React button component with multiple variants and sizes designed for authentication interfaces, featuring loading states, icon support, and accessibility-focused interactions. Built with Radix UI Slot and class-variance-authority for enterprise-grade security applications requiring two-factor authentication flows.",
+  "_classifiedAt": "2026-04-23T01:45:50.182Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

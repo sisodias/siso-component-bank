@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "preetsuthar17-mouse-following-eyes",
+  "type": "registry:ui",
+  "title": "Preetsuthar17 Mouse Following Eyes",
+  "description": "Installed from https://21st.dev/r/preetsuthar17/mouse-following-eyes",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "preetsuthar17-mouse-following-eyes"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "mouse-following-eyes.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/preetsuthar17/mouse-following-eyes",
+    "fetchedAt": "2026-04-23T03:04:50.390Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

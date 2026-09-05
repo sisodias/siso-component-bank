@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@scrollxui/components/particles",
+  "author": "scrollxui",
+  "slug": "particles",
+  "name": "particles",
+  "description": "A 3D interactive particle field rendered with three.js that reacts to mouse movement and supports customizable color, count, and size.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/scrollxui/particles?api_key=$API_KEY_21ST\"",
+  "id": "scrollxui__particles",
+  "bundleUrl": "https://cdn.21st.dev/scrollxui/particles/default/bundle.1785315466109-4ae51e61-4a3f-413d-8bbf-8655c23c9ad5.html",
+  "previewUrl": "https://cdn.21st.dev/scrollxui/particles/default/preview.1785315466109-4ae51e61-4a3f-413d-8bbf-8655c23c9ad5.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

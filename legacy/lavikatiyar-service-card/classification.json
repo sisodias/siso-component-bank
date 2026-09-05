@@ -1,0 +1,28 @@
+{
+  "category": "card",
+  "subcategory": "service-card",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying services or features in a grid layout with interactive hover states",
+    "Creating service listing pages with animated decorative imagery",
+    "Building feature showcase sections with color variant support",
+    "Designing portfolio or case study cards with call-to-action arrows",
+    "Developing product cards with image hover transformations for e-commerce or SaaS landing pages"
+  ],
+  "ai_summary": "A versatile service card component with support for multiple color variants (default, red, blue, gray) and smooth Framer Motion animations. Features include hover scale effects on the card, image zoom/rotate transformations, and an animated arrow indicator. Built with CVA for type-safe variant management and Tailwind for styling, making it ideal for service grids, feature showcases, or product listings on SaaS and dev-tools platforms.",
+  "_classifiedAt": "2026-04-22T09:04:39.838Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

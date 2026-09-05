@@ -1,0 +1,33 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "spotlight-cursor-effect",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creating immersive spotlight effects on landing pages that follow the user's cursor",
+    "Adding interactive visual feedback to product showcases and feature highlights",
+    "Building engaging portfolio or portfolio-style presentation pages",
+    "Implementing ambient lighting effects that track mouse movement for creative portfolios",
+    "Enhancing call-to-action sections with subtle cursor-following illumination"
+  ],
+  "ai_summary": "A canvas-based spotlight cursor overlay component that renders a radial gradient effect following the mouse position across the viewport. Uses requestAnimationFrame for smooth 60fps rendering and automatically hides the spotlight when the cursor leaves the window. Configurable via props for radius, brightness, and color. Packaged as a reusable React component with encapsulated spotlight effect logic.",
+  "_classifiedAt": "2026-04-23T17:38:48.296Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

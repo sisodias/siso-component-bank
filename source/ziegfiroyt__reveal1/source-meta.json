@@ -1,0 +1,26 @@
+{
+  "id": "ziegfiroyt__reveal1",
+  "author": "ziegfiroyt",
+  "slug": "reveal1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ziegfiroyt/components/reveal1",
+  "fetchedAt": "2026-08-29T08:03:06.808Z",
+  "completedAt": "2026-08-29T08:03:09.417Z",
+  "versionedFilename": "code.1783715607677.tsx",
+  "codeReference": "r2://components-code-private/ziegfiroyt/reveal1/code.1783715607677.tsx",
+  "codeUrl": "https://cdn.21st.dev/ziegfiroyt/reveal1/code.1783715607677.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7839,
+  "sha256": "77d1898def7a343cfde92dc62832db5622bf4429cecdd099fb93faf2fd99ffe2",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "toggle-switch",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Toggling boolean settings on/off in configuration panels",
+    "Selecting single options from a group of choices in forms",
+    "Switching between view modes or display options in dashboards",
+    "Enabling or disabling features in toolbars and control panels",
+    "Filtering or sorting content with toggle-based controls"
+  ],
+  "ai_summary": "A reusable toggle button component built on Radix UI primitives with Tailwind CSS styling. Supports multiple sizes (sm, md, lg) and variants (default, outline), with built-in hover, focus, and active state styling. Integrates seamlessly with form states and accessibility features for keyboard navigation.",
+  "_classifiedAt": "2026-04-23T17:24:49.048Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

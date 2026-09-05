@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-component",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary and secondary action triggers in web application interfaces",
+    "Form submission and interactive call-to-action buttons",
+    "Navigation controls with multiple visual states (default, hover, active, disabled)",
+    "Flexible button component supporting multiple variants for different UI contexts"
+  ],
+  "ai_summary": "A reusable button component with multiple style variants including default, destructive, outline, secondary, ghost, and link options, along with size configurations. Built with class-variance-authority for consistent styling and Radix UI Slot for composition flexibility. Features accessibility-focused design with focus-visible states and keyboard navigation support.",
+  "_classifiedAt": "2026-04-23T17:27:49.641Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

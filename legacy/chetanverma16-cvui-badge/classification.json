@@ -1,0 +1,28 @@
+{
+  "category": "data-display",
+  "subcategory": "status-indicator-badge",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying status labels for products, tasks, or user states in dashboards",
+    "Showing category tags and filters in content management interfaces",
+    "Indicating notification counts or unread items",
+    "Marking removable labels or dismissible tags in forms",
+    "Providing visual feedback for loading states in action items"
+  ],
+  "ai_summary": "A versatile, customizable badge component featuring multiple color variants (primary, secondary, success, warning, error), three size options, and three appearance styles (solid, outline, subtle). Supports optional icons, removable functionality with close button, click handlers, and loading states with spinner integration. Built with Framer Motion for smooth animations and styled with Tailwind CSS for consistent theming.",
+  "_classifiedAt": "2026-04-23T11:33:48.300Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

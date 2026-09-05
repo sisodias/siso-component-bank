@@ -1,0 +1,26 @@
+{
+  "id": "bhomikproductivitylab__sidebar",
+  "author": "bhomikproductivitylab",
+  "slug": "sidebar",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@bhomikproductivitylab/components/sidebar",
+  "fetchedAt": "2026-08-29T03:50:24.479Z",
+  "completedAt": "2026-08-29T03:50:27.760Z",
+  "versionedFilename": "code.1759322187076.tsx",
+  "codeReference": "r2://components-code-private/bhomikproductivitylab/sidebar/code.1759322187076.tsx",
+  "codeUrl": "https://cdn.21st.dev/bhomikproductivitylab/sidebar/code.1759322187076.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6388,
+  "sha256": "d2e885e12eb0afac793768c7e99693e4b86873859f2ee5179bbc0e070a27729d",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

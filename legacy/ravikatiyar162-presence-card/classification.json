@@ -1,0 +1,30 @@
+{
+  "category": "card",
+  "subcategory": "3d-tilt-presence-card",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "media",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display user profiles or team member cards with immersive 3D hover effects",
+    "Showcase product features with interactive perspective animations",
+    "Create portfolio or presence cards with spring-physics mouse tracking",
+    "Build interactive testimonial or testimonial-style cards with depth",
+    "Design landing page sections with engaging 3D card tilt interactions"
+  ],
+  "ai_summary": "An interactive presence card component featuring 3D perspective transforms with spring physics animations triggered by mouse movement. The card tracks cursor position to create smooth tilting effects with preserved 3D transforms, using Framer Motion's useTransform and useSpring for natural-feeling animations. Ideal for displaying user profiles, product features, or any card-based content that benefits from engaging hover interactions.",
+  "_classifiedAt": "2026-04-23T01:47:50.806Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

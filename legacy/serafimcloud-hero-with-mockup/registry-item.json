@@ -1,0 +1,90 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "serafimcloud-hero-with-mockup",
+  "type": "registry:ui",
+  "title": "Serafimcloud Hero With Mockup",
+  "description": "Installed from https://21st.dev/r/serafimcloud/hero-with-mockup",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "serafimcloud-hero-with-mockup"
+  ],
+  "files": [
+    {
+      "path": "badge.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "card.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "checkbox.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "glow.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "hero-with-mockup.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "icons.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "input.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "label.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "mockup.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "select.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "switch.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-checkbox",
+    "@radix-ui/react-label",
+    "@radix-ui/react-select",
+    "@radix-ui/react-slot",
+    "@radix-ui/react-switch",
+    "class-variance-authority",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/serafimcloud/hero-with-mockup",
+    "fetchedAt": "2026-04-23T03:05:52.787Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "category": [
+    "form",
+    "card"
+  ],
+  "subcategory": "author-writer-input-form",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Collecting author or writer information for blog posts and articles",
+    "Managing contributor profiles in a content management system",
+    "Adding writer details to editorial or publishing platforms",
+    "Setting up authorship for content creation workflows",
+    "Onboarding new writers to a platform with profile information"
+  ],
+  "ai_summary": "A card-based form component for collecting author and writer information including name, title, and avatar image. Built with shadcn/ui components and enhanced with smooth Framer Motion fade-in animations with staggered children. Features an intuitive layout with validation-capable inputs and a dismissible card interface, ideal for content management systems, editorial platforms, and blogging applications.",
+  "_classifiedAt": "2026-04-22T09:08:49.557Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

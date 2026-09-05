@@ -1,0 +1,26 @@
+{
+  "id": "ddoemonn__context-menu",
+  "author": "ddoemonn",
+  "slug": "context-menu",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ddoemonn/components/context-menu",
+  "fetchedAt": "2026-08-29T04:10:37.005Z",
+  "completedAt": "2026-08-29T04:10:39.211Z",
+  "versionedFilename": "code.1785479668442-474aee79-0f11-453f-9a5c-9c600678579e.tsx",
+  "codeReference": "r2://components-code-private/ddoemonn/context-menu/code.1785479668442-474aee79-0f11-453f-9a5c-9c600678579e.tsx",
+  "codeUrl": "https://cdn.21st.dev/ddoemonn/context-menu/code.1785479668442-474aee79-0f11-453f-9a5c-9c600678579e.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

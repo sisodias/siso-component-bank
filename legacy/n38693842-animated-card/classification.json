@@ -1,0 +1,36 @@
+{
+  "category": [
+    "card",
+    "media"
+  ],
+  "subcategory": "image-trail-cursor",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "media",
+    "e-commerce",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive image gallery showcasing products with cursor-following visual effects",
+    "Portfolio or creative showcase pages with animated image trails",
+    "Landing pages requiring engaging hover interactions to capture attention",
+    "Product detail pages with dynamic image preview effects",
+    "Interactive marketing displays with cursor-tracked visual elements"
+  ],
+  "ai_summary": "An animated card component that displays a trail of images following the cursor, creating an engaging visual effect using Framer Motion. Images fade and scale as they appear, with smooth transitions and shadow effects. The component tracks mouse movement within a container and renders randomized images from a predefined list with opacity and scale animations over a 1-second duration.",
+  "_classifiedAt": "2026-04-22T09:07:23.887Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

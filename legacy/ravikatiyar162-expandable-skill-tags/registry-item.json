@@ -1,0 +1,50 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ravikatiyar162-expandable-skill-tags",
+  "type": "registry:ui",
+  "title": "Ravikatiyar162 Expandable Skill Tags",
+  "description": "Installed from https://21st.dev/r/ravikatiyar162/expandable-skill-tags",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ravikatiyar162-expandable-skill-tags"
+  ],
+  "files": [
+    {
+      "path": "badge.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "expandable-skill-tags.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ravikatiyar162/expandable-skill-tags",
+    "fetchedAt": "2026-04-22T06:43:53.014Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

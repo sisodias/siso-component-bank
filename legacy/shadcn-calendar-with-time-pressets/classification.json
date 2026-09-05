@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary action triggers in forms and interfaces",
+    "Destructive action buttons with visual warning states",
+    "Navigation and link-style buttons with underline hover",
+    "Icon-only buttons for compact UI toolbars",
+    "Form submission and interactive controls"
+  ],
+  "ai_summary": "A reusable Button component from the shadcn/ui design system featuring multiple variants (default, destructive, outline, secondary, ghost, link) and sizes. Built with Radix UI Slot for composition patterns and CVA for variant management. Includes hover states, focus-visible accessibility, and disabled states with smooth transitions. Designed as a foundational atomic component for building accessible React interfaces across various industries.",
+  "_classifiedAt": "2026-04-23T17:26:39.937Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

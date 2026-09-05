@@ -1,0 +1,26 @@
+{
+  "id": "extend__tabs",
+  "author": "extend",
+  "slug": "tabs",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@extend/components/tabs",
+  "fetchedAt": "2026-08-29T04:46:43.539Z",
+  "completedAt": "2026-08-29T04:46:45.591Z",
+  "versionedFilename": "code.1782169435566.tsx",
+  "codeReference": "r2://components-code-private/larsen66/tabs/code.1782169435566.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/tabs/code.1782169435566.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3100,
+  "sha256": "2fe42711ded6c67737810eb9d4045f1d950cb04f77796aa7e1909a4684097943",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

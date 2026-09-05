@@ -1,0 +1,34 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "alert-notification",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying success, error, warning, or info messages to users",
+    "Showing dismissible notifications with optional close buttons",
+    "Presenting status updates with customizable icons and appearances",
+    "Creating toast-style alerts with different severity levels",
+    "Building alert banners with solid, outline, light, or stroke visual styles"
+  ],
+  "ai_summary": "A flexible alert and notification component from the sean0205/rating package with multiple variant types (secondary, primary, destructive, success, info, warning, mono), appearance styles (solid, outline, light, stroke), and size options (sm, md, lg). Features slot-based architecture for icons and close buttons, making it suitable for displaying contextual feedback messages in SaaS, fintech, and general web applications.",
+  "_classifiedAt": "2026-04-23T01:52:34.633Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

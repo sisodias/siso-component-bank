@@ -1,0 +1,26 @@
+{
+  "id": "shadcnspace__fallback-avatar-one",
+  "author": "shadcnspace",
+  "slug": "fallback-avatar-one",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcnspace/components/fallback-avatar-one",
+  "fetchedAt": "2026-08-29T07:11:23.544Z",
+  "completedAt": "2026-08-29T07:11:25.680Z",
+  "versionedFilename": "code.1773070976759.tsx",
+  "codeReference": "r2://components-code-private/larsen66/fallback-avatar-one/code.1773070976759.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/fallback-avatar-one/code.1773070976759.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 342,
+  "sha256": "64c237fe039731c5366ca791d3d574bea923dcf34bb2852adb75e6e3d61ec75a",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

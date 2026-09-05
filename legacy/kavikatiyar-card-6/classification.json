@@ -1,0 +1,29 @@
+{
+  "category": "card",
+  "subcategory": "music-media-card",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying currently playing track information with artwork in music streaming apps",
+    "Preview cards for songs or albums in browsable music libraries",
+    "Artist profile cards showing featured tracks and play functionality",
+    "Podcast episode cards with cover art and episode details",
+    "Playlist preview cards for music curation interfaces"
+  ],
+  "ai_summary": "A music card component featuring a background image with parallax scaling effect on hover, animated play button that fades in, and smooth spring-based scale transitions. Built with Framer Motion for fluid micro-interactions, this card displays artist name, song title, and optional play callback. Ideal for music streaming interfaces, podcast platforms, or any media-centric application needing engaging track preview cards.",
+  "_classifiedAt": "2026-04-23T01:41:26.898Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

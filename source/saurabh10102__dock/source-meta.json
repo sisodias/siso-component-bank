@@ -1,0 +1,26 @@
+{
+  "id": "saurabh10102__dock",
+  "author": "saurabh10102",
+  "slug": "dock",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@saurabh10102/components/dock",
+  "fetchedAt": "2026-08-29T06:55:55.301Z",
+  "completedAt": "2026-08-29T06:55:57.433Z",
+  "versionedFilename": "code.1782303131334.tsx",
+  "codeReference": "r2://components-code-private/larsen66/dock/code.1782303131334.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/dock/code.1782303131334.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3508,
+  "sha256": "d67e940cbf49993e989d5a29190191cbeb4d3602fa8d9957e3f0083e229293f5",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

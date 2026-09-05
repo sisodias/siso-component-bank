@@ -1,0 +1,26 @@
+{
+  "id": "serafimcloud__rosewood-blush",
+  "author": "serafimcloud",
+  "slug": "rosewood-blush",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@serafimcloud/components/rosewood-blush",
+  "fetchedAt": "2026-08-29T07:04:59.165Z",
+  "completedAt": "2026-08-29T07:05:00.558Z",
+  "versionedFilename": "code.1783764607548.tsx",
+  "codeReference": "r2://components-code-private/serafimcloud/rosewood-blush/code.1783764607548.tsx",
+  "codeUrl": "https://cdn.21st.dev/serafimcloud/rosewood-blush/code.1783764607548.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

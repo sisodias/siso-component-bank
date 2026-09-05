@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@dillionverma/components/particles",
+  "author": "dillionverma",
+  "slug": "particles",
+  "name": "particles",
+  "description": "Particles are a fun way to add some visual flair to your website. They can be used to create a sense of depth, movement, and interactivity.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/dillionverma/particles?api_key=$API_KEY_21ST\"",
+  "id": "dillionverma__particles",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1336.html",
+  "previewUrl": "https://cdn.21st.dev/user_magicui/particles.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

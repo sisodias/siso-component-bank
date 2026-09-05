@@ -1,0 +1,48 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "preetsuthar17-ai-thinking-block",
+  "type": "registry:ui",
+  "title": "Preetsuthar17 Ai Thinking Block",
+  "description": "Installed from https://21st.dev/r/preetsuthar17/ai-thinking-block",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "preetsuthar17-ai-thinking-block"
+  ],
+  "files": [
+    {
+      "path": "ai-thinking-block.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "card.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "loader.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "class-variance-authority"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/preetsuthar17/ai-thinking-block",
+    "fetchedAt": "2026-04-22T06:45:06.132Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

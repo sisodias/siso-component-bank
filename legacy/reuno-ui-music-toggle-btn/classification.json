@@ -1,0 +1,31 @@
+{
+  "category": "input",
+  "subcategory": "audio-toggle",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "education",
+    "creator-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Toggle background music on landing pages or portfolio sites",
+    "Control ambient audio in interactive web experiences",
+    "Add playful audio feedback to button interactions",
+    "Enable sound on/off for media-heavy applications",
+    "Provide a simple music control for single-page applications"
+  ],
+  "ai_summary": "A minimalist music toggle button with animated waveform bars that respond to audio playback state. Features spring-based hover/tap animations using Framer Motion and integrates with use-sound for audio control. The component displays 5 animated bars that shift randomly when music plays and flatten when paused, providing visual feedback for the audio state. Click interaction toggles play/pause with smooth padding animations.",
+  "_classifiedAt": "2026-04-23T01:48:33.608Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

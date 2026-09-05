@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "patrick.thomas.dunn1988-wilderness",
+  "type": "registry:ui",
+  "title": "Patrick.Thomas.Dunn1988 Wilderness",
+  "description": "Installed from https://21st.dev/r/patrick.thomas.dunn1988/wilderness",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "patrick.thomas.dunn1988-wilderness"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "wilderness.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/patrick.thomas.dunn1988/wilderness",
+    "fetchedAt": "2026-04-22T06:43:45.273Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

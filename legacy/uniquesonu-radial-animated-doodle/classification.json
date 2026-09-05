@@ -1,0 +1,35 @@
+{
+  "category": [
+    "other"
+  ],
+  "subcategory": "radial-decoration-animation",
+  "visual_style": [
+    "dark",
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Landing page hero background with dynamic animated visuals",
+    "Loading state indicator with radial motion pattern",
+    "Decorative accent element for marketing pages",
+    "Background animation for SaaS product demos",
+    "Visual interest element for entertainment or media platforms"
+  ],
+  "ai_summary": "A decorative radial animation component that generates a circular array of dots with staggered color cycling using HSL hues. Each dot animates radially using CSS @keyframes with cubic-bezier timing, creating a pulsating flower-like pattern. The component uses CSS custom properties extensively for dynamic sizing, timing, and positioning, making it a lightweight reusable background effect for landing pages and hero sections.",
+  "_classifiedAt": "2026-04-23T17:40:22.626Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

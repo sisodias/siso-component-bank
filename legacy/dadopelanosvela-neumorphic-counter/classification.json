@@ -1,0 +1,36 @@
+{
+  "category": [
+    "data-display",
+    "input"
+  ],
+  "subcategory": "neumorphic-counter",
+  "visual_style": [
+    "neumorphic",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "saas",
+    "healthcare",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display and adjust a numeric count value with neumorphic styling",
+    "Interactive counter for dashboards, settings panels, or product pages",
+    "Increment/decrement values with tactile press feedback",
+    "Minimal counter UI for mobile apps and web interfaces",
+    "Showcase neumorphic design patterns in UI component libraries"
+  ],
+  "ai_summary": "A neumorphic counter component featuring a circular display and rounded action buttons with dynamic shadow states. The design uses inset and extruded box shadows to create a soft, embossed appearance that responds to hover and click interactions. Buttons transition between pressed (inset shadow) and unpressed (raised shadow) states, providing tactile feedback for increment and decrement actions.",
+  "_classifiedAt": "2026-04-23T01:37:20.960Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,31 @@
+{
+  "category": "media",
+  "subcategory": "webgl-shader-canvas-3d",
+  "visual_style": [
+    "gradient",
+    "3d"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive hero section background with mouse-reactive ripple effects",
+    "Ambient canvas animation for landing pages and portfolios",
+    "Visual effect overlay for creative and media applications",
+    "Decorative WebGL shader background for SaaS dashboards",
+    "Dynamic celestial-themed animation for websites"
+  ],
+  "ai_summary": "A Three.js WebGL shader component creating a celestial ink effect with noise-based fractal brownian motion (fbm) and mouse-reactive ripples. Features a rotating animation with gradient aesthetics rendered via custom GLSL fragment shaders. Delivered as a self-contained React component using useEffect for Three.js initialization and cleanup.",
+  "_classifiedAt": "2026-04-23T16:34:03.543Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

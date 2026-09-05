@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "dhileepkumargm-abstract-glassy-shader",
+  "type": "registry:ui",
+  "title": "Dhileepkumargm Abstract Glassy Shader",
+  "description": "Installed from https://21st.dev/r/dhileepkumargm/abstract-glassy-shader",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "dhileepkumargm-abstract-glassy-shader"
+  ],
+  "files": [
+    {
+      "path": "abstract-glassy-shader.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/dhileepkumargm/abstract-glassy-shader",
+    "fetchedAt": "2026-04-23T01:18:06.824Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

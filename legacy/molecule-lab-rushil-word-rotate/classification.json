@@ -1,0 +1,34 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "text-rotation",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Rotating hero section taglines with smooth word transitions",
+    "Displaying cycling labels or categories in product UIs",
+    "Creating animated text for marketing and landing pages",
+    "Dynamic word displays in portfolios and creative sites",
+    "Animated keyword highlighting in promotional banners"
+  ],
+  "ai_summary": "A lightweight React component that cycles through an array of words with smooth entrance and exit animations. Each word fades in from below and fades out upward at configurable intervals, making it ideal for hero sections, dynamic labels, and animated text displays. The component is unstyled by design, allowing full customization via className props.",
+  "_classifiedAt": "2026-04-23T17:01:35.838Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

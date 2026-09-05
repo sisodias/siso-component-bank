@@ -1,0 +1,33 @@
+{
+  "id": "thefathdev__win-98-button",
+  "author": "thefathdev",
+  "slug": "win-98-button",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@thefathdev/components/win-98-button",
+  "fetchedAt": "2026-08-29T07:31:07.617Z",
+  "completedAt": "2026-08-29T07:31:09.078Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/thefathdev__win-98-button/code.tsx",
+    "bytes": 1496,
+    "sha256": "a722ce95f9f6ebb5dd086793f2a4f79142b7f2d6b859f4a2a3c75d7a2373089f",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

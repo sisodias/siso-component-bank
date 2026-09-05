@@ -1,0 +1,26 @@
+{
+  "id": "moumensoliman__appshell",
+  "author": "moumensoliman",
+  "slug": "appshell",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@moumensoliman/components/appshell",
+  "fetchedAt": "2026-08-29T05:49:39.447Z",
+  "completedAt": "2026-08-29T05:49:41.610Z",
+  "versionedFilename": "code.1779993508004.tsx",
+  "codeReference": "r2://components-code-private/larsen66/appshell/code.1779993508004.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/appshell/code.1779993508004.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 893,
+  "sha256": "a3698bfd83fe62c797e0203a2d2e14b898ac969bc1626ff35b058ac241fe9223",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

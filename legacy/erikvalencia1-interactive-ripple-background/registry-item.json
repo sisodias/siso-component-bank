@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "erikvalencia1-interactive-ripple-background",
+  "type": "registry:ui",
+  "title": "Erikvalencia1 Interactive Ripple Background",
+  "description": "Installed from https://21st.dev/r/erikvalencia1/interactive-ripple-background",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "erikvalencia1-interactive-ripple-background"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "interactive-ripple-background.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/erikvalencia1/interactive-ripple-background",
+    "fetchedAt": "2026-04-22T06:44:57.266Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

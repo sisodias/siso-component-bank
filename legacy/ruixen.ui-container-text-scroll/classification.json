@@ -1,0 +1,27 @@
+{
+  "category": "card",
+  "subcategory": "scroll-animated-text-container",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creating scroll-triggered animated content sections with text overlays",
+    "Building interactive hero sections with reveal-on-scroll effects",
+    "Displaying product features with animated text reveals",
+    "Designing testimonial or quote cards with scroll animations",
+    "Implementing engaging landing page sections with parallax-like motion"
+  ],
+  "ai_summary": "A scroll-animated container component that uses Framer Motion's useScroll and useTransform hooks to create dynamic scaling, rotation, and translation effects as users scroll. The component features a card-like structure where content is revealed with title text floating above through coordinated scroll-driven animations. Includes responsive behavior adapting animations for mobile versus desktop viewports.",
+  "_classifiedAt": "2026-04-22T09:11:59.929Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

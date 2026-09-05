@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "chord-diagram-relational",
+  "visual_style": [
+    "colorful",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Visualizing relationship flows between user segments or product categories",
+    "Displaying interaction patterns or connection strength in network data",
+    "Showing bidirectional flow data between multiple groups with color-coded intensity",
+    "Illustrating comparative matrix data as an intuitive circular diagram",
+    "Mapping connections in social or communication networks for analytics dashboards"
+  ],
+  "ai_summary": "An interactive chord diagram visualization component inspired by Airbnb's data design patterns. Renders SVG-based relational data using @visx/chord library, displaying matrix-based connections between 4 groups with vibrant gradient colors (pink-orange, purple-red, purple-green, blue-lime). Supports custom dimensions, configurable center size, and event handling for hover interactions. Features a warm neutral background with rounded corners, making complex relationship data visually accessible and aesthetically polished.",
+  "_classifiedAt": "2026-04-23T11:29:31.795Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "sean0205-toggle-group-1",
+  "type": "registry:ui",
+  "title": "Sean0205 Toggle Group 1",
+  "description": "Installed from https://21st.dev/r/sean0205/toggle-group-1",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "sean0205-toggle-group-1"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "toggle-1.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "toggle-group-1.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "class-variance-authority",
+    "radix-ui"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/sean0205/toggle-group-1",
+    "fetchedAt": "2026-04-23T02:29:58.102Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "category": "input",
+  "subcategory": "expand-collapse-toggle",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Toggle visibility of expanded content sections on documentation pages",
+    "Show/hide additional product details on e-commerce listings",
+    "Collapse and expand long-form article excerpts or summaries",
+    "Control visibility of FAQ items or nested content hierarchies",
+    "Toggle detailed descriptions in profile or portfolio pages"
+  ],
+  "ai_summary": "A minimalist toggle button component that controls content expansion and collapse. Features an animated chevron icon that rotates 180 degrees on state change to visually indicate the current expanded/collapsed state. Designed as a reusable atomic component for controlling visibility of truncated or hidden content sections across various platform contexts.",
+  "_classifiedAt": "2026-04-23T17:31:06.609Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

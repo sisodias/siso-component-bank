@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "multi-series area chart",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying multiple time-series datasets to compare trends over time periods",
+    "Visualizing analytics metrics with multiple series in dashboard widgets",
+    "Tracking financial or performance data across different categories",
+    "Showing data distribution patterns with gradient-filled area charts"
+  ],
+  "ai_summary": "A multi-series area chart component built with reaviz library for displaying multiple time-series datasets with smooth interpolation and gradient fills. Features linear axes, gridlines, and up to three data series with date-based x-axis and numeric y-axis. Designed for analytics dashboards and data visualization in SaaS, fintech, and e-commerce applications.",
+  "_classifiedAt": "2026-04-23T17:14:20.145Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

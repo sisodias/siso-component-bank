@@ -1,0 +1,26 @@
+{
+  "category": "feedback",
+  "subcategory": "animated-dot-loader",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Loading states in SaaS dashboards with animated dot sequences",
+    "Progress feedback during data fetching or processing",
+    "Onboarding step indicators with animated transitions",
+    "Status updates in dev-tools and creator platforms",
+    "Multi-step form progress indicators"
+  ],
+  "ai_summary": "An animated dot-flow loader component that cycles through configurable dot frames using GSAP-powered blur and opacity transitions. Features smooth y-axis movement animations and coordinated text cycling, ideal for sophisticated loading states in modern SaaS applications and developer tools.",
+  "_classifiedAt": "2026-04-23T17:05:45.087Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

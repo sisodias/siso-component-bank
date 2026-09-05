@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/capsule-tabs",
+  "author": "ruixen.ui",
+  "slug": "capsule-tabs",
+  "name": "capsule-tabs",
+  "description": "This Scrollable Capsule Tabs component is designed to handle a large number of tabs elegantly. It displays a limited number of tabs at a time (visibleCount) and allows users to navigate through them using left/right arrows or pagination dots. The active tab is highlighted, and its corresponding content is displayed below. This layout is ideal for dashboards, analytics menus, or any interface where space is limited but many options need to be accessible. The smooth hover effects, pill-shaped tabs, and responsive design make it visually appealing and user-friendly.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/capsule-tabs?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__capsule-tabs",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/capsule-tabs/default/bundle.1758464195216.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/capsule-tabs/default/preview.1758464195216.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 5,
+  "demo_id": 7884,
+  "video_url": null
+}

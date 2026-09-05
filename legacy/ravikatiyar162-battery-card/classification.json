@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display",
+    "card"
+  ],
+  "subcategory": "battery-status-indicator",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "iot",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display device battery levels in a smart home or IoT dashboard",
+    "Show charging progress with animated wave visualization",
+    "Monitor battery status of multiple connected devices",
+    "Create a mobile device management interface",
+    "Build a battery health monitoring widget for system utilities"
+  ],
+  "ai_summary": "A battery status card component featuring an animated wave visualization that displays device name, battery level percentage, and charging status. Built with React and shadcn/ui patterns, it includes smooth CSS transitions and a dynamic battery fill indicator. Ideal for device management dashboards, IoT monitoring systems, and smart home interfaces requiring real-time battery visualization.",
+  "_classifiedAt": "2026-04-22T09:08:49.367Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

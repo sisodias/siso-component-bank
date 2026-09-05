@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@molecule-lab-rushil/components/dialog",
+  "author": "molecule-lab-rushil",
+  "slug": "dialog",
+  "name": "dialog",
+  "description": "A pop-up layered above the application window or dialog, which makes the background content inert.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/molecule-lab-rushil/dialog?api_key=$API_KEY_21ST\"",
+  "id": "molecule-lab-rushil__dialog",
+  "bundleUrl": "https://cdn.21st.dev/molecule-lab-rushil/dialog/default/bundle.1756056464812.html",
+  "previewUrl": "https://cdn.21st.dev/molecule-lab-rushil/dialog/default/preview.1756056464810.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "button-group",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying primary, default, dashed, text, and link button variants in a flex container",
+    "Providing standard action triggers for forms and UI interactions",
+    "Showing Ant Design button component styles for UI library demos",
+    "Creating button collections with different visual hierarchy levels",
+    "Demonstrating button component options for React applications"
+  ],
+  "ai_summary": "Ant Design Button component showcasing multiple button variants including primary, default, dashed, text, and link types. Renders in a responsive flex container with gap spacing. A foundational UI component from the Ant Design React library used across enterprise applications for standardizing button interactions and visual hierarchy.",
+  "_classifiedAt": "2026-04-22T08:51:28.101Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

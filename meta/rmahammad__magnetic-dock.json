@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@rmahammad/components/magnetic-dock",
+  "author": "rmahammad",
+  "slug": "magnetic-dock",
+  "name": "magnetic-dock",
+  "description": "A macOS-style dock where icons swell and neighbours yield to the cursor on a real magnetic falloff — keyboard navigable, with tooltips and an idle wave.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/rmahammad/magnetic-dock?api_key=$API_KEY_21ST\"",
+  "id": "rmahammad__magnetic-dock",
+  "bundleUrl": "https://cdn.21st.dev/rmahammad/magnetic-dock/default/bundle.1785417551686-d52c1b03-630d-4d8a-acd1-5960de159634.html",
+  "previewUrl": "https://cdn.21st.dev/rmahammad/magnetic-dock/default/preview.1785417551686-d52c1b03-630d-4d8a-acd1-5960de159634.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

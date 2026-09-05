@@ -1,0 +1,26 @@
+{
+  "id": "thegridcn__cta-banner",
+  "author": "thegridcn",
+  "slug": "cta-banner",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@thegridcn/components/cta-banner",
+  "fetchedAt": "2026-08-29T07:31:16.326Z",
+  "completedAt": "2026-08-29T07:31:18.941Z",
+  "versionedFilename": "code.1783727660701.tsx",
+  "codeReference": "r2://components-code-private/thegridcn/cta-banner/code.1783727660701.tsx",
+  "codeUrl": "https://cdn.21st.dev/thegridcn/cta-banner/code.1783727660701.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3500,
+  "sha256": "221212128aeb68cba2bb085296f8eee4ed93a8c6e1b436c377f38d1c09223c7d",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

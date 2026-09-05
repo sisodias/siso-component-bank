@@ -1,0 +1,33 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "collapsible-sidebar",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Primary navigation menu for web applications and dashboards",
+    "Collapsible sidebar for mobile-responsive layouts",
+    "Expandable navigation sections for organizing hierarchical menu items",
+    "Animated hamburger menu toggle for drawer-style navigation"
+  ],
+  "ai_summary": "A collapsible sidebar navigation component featuring an animated hamburger menu toggle that morphs between open/closed states using Framer Motion. Includes collapsible sections with smooth expand/collapse animations, hover effects on navigation items, and Lucide React icons for visual clarity. The minimalist design uses clean Tailwind styling suitable for dashboard and SaaS applications.",
+  "_classifiedAt": "2026-04-23T17:09:30.636Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

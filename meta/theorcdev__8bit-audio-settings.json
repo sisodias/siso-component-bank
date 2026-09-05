@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@theorcdev/components/8bit-audio-settings",
+  "author": "theorcdev",
+  "slug": "8bit-audio-settings",
+  "name": "8bit-audio-settings",
+  "description": "An 8-bit styled audio settings panel with master volume and SFX sliders plus mute and vibration toggle switches. Source-verbatim from the 8bitcn audio-settings block.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/theorcdev/8bit-audio-settings?api_key=$API_KEY_21ST\"",
+  "id": "theorcdev__8bit-audio-settings",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/8bit-audio-settings/default/bundle.1780525326033.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/8bit-audio-settings/default/preview.1780525326033.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

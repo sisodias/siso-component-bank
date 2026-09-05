@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "skyleen77-stars-scrolling-wheel",
+  "type": "registry:ui",
+  "title": "Skyleen77 Stars Scrolling Wheel",
+  "description": "Installed from https://21st.dev/r/skyleen77/stars-scrolling-wheel",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "skyleen77-stars-scrolling-wheel"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "stars-scrolling-wheel.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/skyleen77/stars-scrolling-wheel",
+    "fetchedAt": "2026-04-23T03:04:05.932Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "Animated wave chart with split line path",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying animated wave data visualizations in analytics dashboards",
+    "Creating decorative flowing line backgrounds for landing pages",
+    "Showing temporal data with smooth sinusoidal patterns",
+    "Building animated data storytelling components for media sites",
+    "Implementing decorative flow elements in fintech applications"
+  ],
+  "ai_summary": "An animated split line path visualization component using @visx libraries to render smooth sinusoidal wave patterns. Supports multiple directions (left-to-right, right-to-left, top-to-bottom, bottom-to-top) and gradient fills. Ideal for dashboards, analytics interfaces, or decorative animated backgrounds where flowing data visualization adds visual interest.",
+  "_classifiedAt": "2026-04-23T11:29:53.227Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

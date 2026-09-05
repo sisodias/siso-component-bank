@@ -1,0 +1,33 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "music-player-visualization",
+  "visual_style": [
+    "dark",
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal",
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "creator-tools",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display animated album artwork with spinning vinyl record for music streaming interfaces",
+    "Create interactive music player visualizations for audio platforms and artist portfolios",
+    "Show currently playing track information with synchronized vinyl animation for media apps"
+  ],
+  "ai_summary": "An animated music artwork component featuring a spinning vinyl record visualization with album art, artist, and track information. Includes play/pause controls, smooth entrance animations, and hover effects with mouse tracking. The vinyl rotation speed adjusts based on whether it's a song or album track. Perfect for music streaming platforms, audio players, and media applications requiring visual music playback displays.",
+  "_classifiedAt": "2026-04-23T16:36:20.418Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

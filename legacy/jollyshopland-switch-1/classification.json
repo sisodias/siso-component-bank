@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "toggle-switch",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Toggle boolean settings in forms and dashboards",
+    "Enable or disable features with immediate visual feedback",
+    "Use as a binary selection input in configuration panels"
+  ],
+  "ai_summary": "A React Aria-based toggle switch component that provides an accessible, customizable on/off control with smooth transitions and a clean pill-shaped thumb design. Built on react-aria-components for full keyboard navigation and screen reader support.",
+  "_classifiedAt": "2026-04-23T16:47:48.195Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

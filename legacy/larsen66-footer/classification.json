@@ -1,0 +1,39 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "footer",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Site-wide navigation footer providing access to main pages like Features, Pricing, and About",
+    "Social media link integration with X/Twitter icon for community engagement",
+    "Responsive footer section for business websites with link categorization",
+    "Clean footer layout for Next.js/React applications with Tailwind CSS styling",
+    "Minimal branding footer with hover interaction states for user feedback"
+  ],
+  "ai_summary": "A minimalist footer component from the larsen66 design system featuring navigation links and social media icons. Built with Next.js Link components and Tailwind CSS utility classes, it uses muted color tones with primary hover states. The component is fully responsive with flexbox layout and suits any industry requiring a clean, professional site footer.",
+  "_classifiedAt": "2026-04-23T16:50:19.149Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

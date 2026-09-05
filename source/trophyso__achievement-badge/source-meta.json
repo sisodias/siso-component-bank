@@ -1,0 +1,26 @@
+{
+  "id": "trophyso__achievement-badge",
+  "author": "trophyso",
+  "slug": "achievement-badge",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@trophyso/components/achievement-badge",
+  "fetchedAt": "2026-08-29T07:40:18.205Z",
+  "completedAt": "2026-08-29T07:40:20.991Z",
+  "versionedFilename": "code.1779967237726.tsx",
+  "codeReference": "r2://components-code-private/larsen66/achievement-badge/code.1779967237726.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/achievement-badge/code.1779967237726.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5176,
+  "sha256": "9178ae16f010d9e89d70a6ad5166add23492342b007353301456f3f4eb83cc54",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

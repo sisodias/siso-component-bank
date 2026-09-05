@@ -1,0 +1,33 @@
+{
+  "id": "serafimcloud__pixel-canvas",
+  "author": "serafimcloud",
+  "slug": "pixel-canvas",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@serafimcloud/components/pixel-canvas",
+  "fetchedAt": "2026-08-29T07:04:36.150Z",
+  "completedAt": "2026-08-29T07:04:37.694Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/serafimcloud__pixel-canvas/code.tsx",
+    "bytes": 9052,
+    "sha256": "3417cd5714894a8e34e86ad389ad5d1e4a8a12c19f7b1df90f309ea62bdebc97",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

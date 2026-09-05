@@ -1,0 +1,26 @@
+{
+  "id": "chetanverma16__calendar",
+  "author": "chetanverma16",
+  "slug": "calendar",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@chetanverma16/components/calendar",
+  "fetchedAt": "2026-08-29T03:53:52.134Z",
+  "completedAt": "2026-08-29T03:53:54.318Z",
+  "versionedFilename": "code.1750614796420.tsx",
+  "codeReference": "r2://components-code-private/chetanverma16/calendar/code.1750614796420.tsx",
+  "codeUrl": "https://cdn.21st.dev/chetanverma16/calendar/code.1750614796420.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6007,
+  "sha256": "ab39a4b3b26d6f792386e5fe5182be597590e0939e52063cfa7173eb0b758532",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

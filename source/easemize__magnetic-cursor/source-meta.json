@@ -1,0 +1,26 @@
+{
+  "id": "easemize__magnetic-cursor",
+  "author": "easemize",
+  "slug": "magnetic-cursor",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@easemize/components/magnetic-cursor",
+  "fetchedAt": "2026-08-29T04:38:18.189Z",
+  "completedAt": "2026-08-29T04:38:20.245Z",
+  "versionedFilename": "code.1766746043442.tsx",
+  "codeReference": "r2://components-code-private/easemize/magnetic-cursor/code.1766746043442.tsx",
+  "codeUrl": "https://cdn.21st.dev/easemize/magnetic-cursor/code.1766746043442.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10866,
+  "sha256": "dba5d3a59c276c10657694022cd39218e1eb6463f0bd0e67242ab1ef9a79818f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

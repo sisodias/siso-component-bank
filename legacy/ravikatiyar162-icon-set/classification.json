@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "icon-grid",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying available icons in a design system documentation",
+    "Creating an icon picker or selector interface for applications",
+    "Showcasing icon library collections with visual feedback",
+    "Building a searchable icon browser with hover previews"
+  ],
+  "ai_summary": "A flexible icon grid component that displays icons in a responsive grid layout with staggered entrance animations orchestrated via Framer Motion. Each icon is contained in a hoverable card with subtle elevation and background transitions, making it ideal for design system documentation or icon picker interfaces.",
+  "_classifiedAt": "2026-04-23T01:47:21.004Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

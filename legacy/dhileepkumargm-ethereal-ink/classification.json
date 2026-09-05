@@ -1,0 +1,32 @@
+{
+  "category": "media",
+  "subcategory": "WebGL shader canvas background with fluid ink effect",
+  "visual_style": [
+    "gradient",
+    "glass-morphism"
+  ],
+  "interactions": [
+    "hover-glow",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Full-screen hero background for landing pages with organic flowing visuals",
+    "Interactive ambient background that responds to mouse movement",
+    "Visual centerpiece for creative portfolios and digital experiences",
+    "Atmospheric canvas for SaaS product pages and marketing sites",
+    "Decorative background for media and entertainment web applications"
+  ],
+  "ai_summary": "An interactive WebGL shader canvas component that renders ethereal, flowing ink-like visuals. Uses custom hooks for mouse tracking and performance optimization, creating organic gradients that respond to cursor position. Designed as a full-screen background effect for hero sections and landing pages, with smooth 60fps animation and throttled input handling for optimal performance.",
+  "_classifiedAt": "2026-04-23T01:38:47.108Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

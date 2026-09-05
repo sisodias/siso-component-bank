@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@Codehagen/components/floating-action-panel",
+  "author": "Codehagen",
+  "slug": "floating-action-panel",
+  "name": "floating-action-panel",
+  "description": "A versatile floating action panel component with support for multiple triggers and modes.\n\nFeatures:\n\t•\tMultiple trigger buttons with different modes\n\t•\tSmooth animations using Framer Motion\n\t•\tBackdrop blur effect\n\t•\tKeyboard navigation and accessibility\n\t•\tDark mode support\n\t•\tResponsive design\n\t•\tForm handling for note-taking\n\t•\tTypeScript support\n\nNotes:\n\t•\tBuilt with Framer Motion for smooth animations\n\t•\tUses Lucide React for consistent iconography\n\t•\tSupports multiple panel modes (actions and notes)\n\t•\tIncludes keyboard navigation (Escape key to close)\n\t•\tClick outside the panel to close\n\t•\tFully typed with TypeScript\n\t•\tCustomizable styling using Tailwind CSS\n\t•\tMobile-friendly design\n\n",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/Codehagen/floating-action-panel?api_key=$API_KEY_21ST\"",
+  "id": "Codehagen__floating-action-panel",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1362.html",
+  "previewUrl": "https://cdn.21st.dev/user_Codehagen/floating-action-panel.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 106,
+  "demo_id": 1362,
+  "video_url": "https://cdn.21st.dev/user_Codehagen/floating-action-panel/default/video.mp4"
+}

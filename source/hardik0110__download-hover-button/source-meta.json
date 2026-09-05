@@ -1,0 +1,33 @@
+{
+  "id": "hardik0110__download-hover-button",
+  "author": "hardik0110",
+  "slug": "download-hover-button",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@hardik0110/components/download-hover-button",
+  "fetchedAt": "2026-08-29T04:54:02.952Z",
+  "completedAt": "2026-08-29T04:54:04.781Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/hardik0110__download-hover-button/code.tsx",
+    "bytes": 1436,
+    "sha256": "1bd67ba2d1de62e2d08070c7887af28125f016be14c582924d6b04bf43b07b09",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "designali-in__glowing-shadow",
+  "author": "designali-in",
+  "slug": "glowing-shadow",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/glowing-shadow",
+  "fetchedAt": "2026-08-29T04:18:24.840Z",
+  "completedAt": "2026-08-29T04:18:27.339Z",
+  "versionedFilename": "code.1755534837955.tsx",
+  "codeReference": "r2://components-code-private/designali-in/glowing-shadow/code.1755534837955.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/glowing-shadow/code.1755534837955.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 8286,
+  "sha256": "600c5da594c7f16fde3ff07c3dbbb8b3f19e0ea73490e421e2359b32cd2342d8",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

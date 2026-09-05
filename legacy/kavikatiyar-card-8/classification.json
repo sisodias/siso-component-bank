@@ -1,0 +1,27 @@
+{
+  "category": "input",
+  "subcategory": "button-with-variants",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action triggers for forms and CTAs",
+    "Destructive actions like delete or remove operations",
+    "Secondary navigation and link buttons",
+    "Icon-only buttons for compact UI toolbars",
+    "Ghost-style buttons for tertiary actions in interfaces"
+  ],
+  "ai_summary": "A reusable React Button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, small, large, icon) built on Radix UI Slot and class-variance-authority. Supports composition via asChild prop, includes focus-visible accessibility rings, disabled states, and smooth color transitions for hover and active states. Styled with Tailwind CSS for consistent theming across SaaS and web applications.",
+  "_classifiedAt": "2026-04-23T01:41:34.688Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

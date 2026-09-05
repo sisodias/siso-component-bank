@@ -1,0 +1,35 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "Card component system with header, title, description, content, and footer primitives",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display grouped content in contained card containers with consistent styling",
+    "Create dashboard widgets and info panels using header, body, and footer structure",
+    "Build product listings with title, description, and action areas",
+    "Compose blog post previews with image placeholders and text summaries",
+    "Structure form feedback messages and confirmation cards"
+  ],
+  "ai_summary": "A reusable card component system providing five atomic components (Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter) with standard shadow, border, and rounded styling. Built with React.forwardRef for proper ref forwarding and uses Tailwind CSS utility classes for consistent theming. Forms the foundation for displaying grouped content, dashboard widgets, product cards, and organized information panels across various UI contexts.",
+  "_classifiedAt": "2026-04-23T17:21:25.158Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

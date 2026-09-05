@@ -1,0 +1,43 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "stats-card-2",
+  "type": "registry:ui",
+  "title": "CryptoStatsCard (StatsCard2)",
+  "description": "Crypto dashboard card with market cap, animated sparkline chart, Bitcoin dominance bar, and top coin price list with change indicators",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "crypto",
+    "stats",
+    "card",
+    "chart",
+    "sparkline",
+    "market-cap",
+    "dashboard"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "stats-card-2.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "framer-motion"
+  ],
+  "registryDependencies": [
+    "stats-card-2"
+  ],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "curationTags": []
+  }
+}

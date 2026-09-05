@@ -1,0 +1,26 @@
+{
+  "id": "aghasisahakyan1__browser-preview",
+  "author": "aghasisahakyan1",
+  "slug": "browser-preview",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@aghasisahakyan1/components/browser-preview",
+  "fetchedAt": "2026-08-29T03:28:33.512Z",
+  "completedAt": "2026-08-29T03:28:35.666Z",
+  "versionedFilename": "code.1756833193667.tsx",
+  "codeReference": "r2://components-code-private/aghasisahakyan1/browser-preview/code.1756833193667.tsx",
+  "codeUrl": "https://cdn.21st.dev/aghasisahakyan1/browser-preview/code.1756833193667.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1770,
+  "sha256": "08f7b3e290f8931d7fbe2625e71518b961c468b24886ff19d722c0709b8f3c08",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

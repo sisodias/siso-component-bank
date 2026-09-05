@@ -1,0 +1,35 @@
+{
+  "category": [
+    "other"
+  ],
+  "subcategory": "hover-reactive-split-text",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "morph",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Hero section headlines with proximity-based character animation on hover",
+    "Landing page titles that split and offset characters as users interact",
+    "Portfolio or creative agency sites seeking engaging typography effects",
+    "Interactive text displays where character movement creates visual depth",
+    "Modern web interfaces requiring subtle but distinctive hover animations"
+  ],
+  "ai_summary": "A typography animation component that splits each character into two overlapping layers, creating a split-text effect where characters offset based on mouse proximity. Characters nearest to the cursor move furthest apart vertically, with distance-based falloff creating a ripple-like animation. Built with Framer Motion for smooth 300ms transitions between states.",
+  "_classifiedAt": "2026-04-23T11:33:12.626Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

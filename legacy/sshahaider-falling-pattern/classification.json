@@ -1,0 +1,26 @@
+{
+  "category": "media",
+  "subcategory": "falling-particles",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Background decoration for landing pages and hero sections",
+    "Visual enhancement for SaaS product showcases",
+    "Creating ambient motion effects on portfolio or creative websites",
+    "Adding depth and movement to marketing pages"
+  ],
+  "ai_summary": "A falling pattern background component that creates a cascading particle effect using radial CSS gradients. Customizable via color, duration, density, and blur intensity props. Uses framer-motion for smooth animation and serves as a decorative overlay to add visual depth and movement to any page section.",
+  "_classifiedAt": "2026-04-23T17:33:26.994Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

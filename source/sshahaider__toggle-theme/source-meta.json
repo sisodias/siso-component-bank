@@ -1,0 +1,26 @@
+{
+  "id": "sshahaider__toggle-theme",
+  "author": "sshahaider",
+  "slug": "toggle-theme",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sshahaider/components/toggle-theme",
+  "fetchedAt": "2026-08-29T07:28:00.853Z",
+  "completedAt": "2026-08-29T07:28:03.143Z",
+  "versionedFilename": "code.1758720683006.tsx",
+  "codeReference": "r2://components-code-private/sshahaider/toggle-theme/code.1758720683006.tsx",
+  "codeUrl": "https://cdn.21st.dev/sshahaider/toggle-theme/code.1758720683006.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1686,
+  "sha256": "028be3eef2fa8ce11f6e6d97a3711bac29e8d6cd49185a17ef881d101ac6709b",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

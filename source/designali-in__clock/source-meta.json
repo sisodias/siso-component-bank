@@ -1,0 +1,26 @@
+{
+  "id": "designali-in__clock",
+  "author": "designali-in",
+  "slug": "clock",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/clock",
+  "fetchedAt": "2026-08-29T04:17:34.737Z",
+  "completedAt": "2026-08-29T04:17:37.069Z",
+  "versionedFilename": "code.1754149861416.tsx",
+  "codeReference": "r2://components-code-private/designali-in/clock/code.1754149861416.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/clock/code.1754149861416.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 11626,
+  "sha256": "ed43735aaf4721e0991b0b975fffe796285f4affa9ef8522e944c8d9af5f70cb",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

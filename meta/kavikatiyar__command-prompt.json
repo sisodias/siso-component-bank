@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@kavikatiyar/components/command-prompt",
+  "author": "kavikatiyar",
+  "slug": "command-prompt",
+  "name": "command-prompt",
+  "description": "This component provides an input field for user queries, enhanced with animated suggestion cards that appear on load. It is designed to be a central interaction point for an application, such as a chatbot or a command palette.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/kavikatiyar/command-prompt?api_key=$API_KEY_21ST\"",
+  "id": "kavikatiyar__command-prompt",
+  "bundleUrl": "https://cdn.21st.dev/kavikatiyar/command-prompt/default/bundle.1758353926730.html",
+  "previewUrl": "https://cdn.21st.dev/kavikatiyar/command-prompt/default/preview.1758353926727.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

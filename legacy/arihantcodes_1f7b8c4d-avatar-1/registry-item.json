@@ -1,0 +1,51 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "arihantcodes_1f7b8c4d-avatar-1",
+  "type": "registry:ui",
+  "title": "Arihantcodes_1f7b8c4d Avatar 1",
+  "description": "Installed from https://21st.dev/r/arihantcodes_1f7b8c4d/avatar-1",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "arihantcodes_1f7b8c4d-avatar-1"
+  ],
+  "files": [
+    {
+      "path": "avatar-1.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "tooltip.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-avatar",
+    "@radix-ui/react-slot",
+    "@radix-ui/react-tooltip",
+    "class-variance-authority"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/arihantcodes_1f7b8c4d/avatar-1",
+    "fetchedAt": "2026-04-23T01:16:34.364Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

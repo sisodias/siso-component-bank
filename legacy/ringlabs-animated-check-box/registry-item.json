@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ringlabs-animated-check-box",
+  "type": "registry:ui",
+  "title": "Ringlabs Animated Check Box",
+  "description": "Installed from https://21st.dev/r/ringlabs/animated-check-box",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ringlabs-animated-check-box"
+  ],
+  "files": [
+    {
+      "path": "animated-check-box.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ringlabs/animated-check-box",
+    "fetchedAt": "2026-04-23T03:04:40.111Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

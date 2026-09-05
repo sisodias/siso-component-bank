@@ -1,0 +1,26 @@
+{
+  "id": "prebuiltui__avatar-square",
+  "author": "prebuiltui",
+  "slug": "avatar-square",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@prebuiltui/components/avatar-square",
+  "fetchedAt": "2026-08-29T06:10:53.065Z",
+  "completedAt": "2026-08-29T06:10:55.109Z",
+  "versionedFilename": "code.1757057237486.tsx",
+  "codeReference": "r2://components-code-private/larsen66/avatar-square/code.1757057237486.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/avatar-square/code.1757057237486.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1576,
+  "sha256": "4c11c0c005f5d40c3380f6c3cadbf6fc068a827261a60b0349b6bbc81c22c980",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

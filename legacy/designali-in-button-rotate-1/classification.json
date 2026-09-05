@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "rotating-gradient-button",
+  "visual_style": [
+    "glass-morphism",
+    "gradient"
+  ],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Action buttons requiring eye-catching animated backgrounds for enhanced CTR",
+    "Loading-state buttons with continuous spinning gradient motion",
+    "Premium CTA buttons with dynamic visual effects on dark/light themes",
+    "Icon buttons with rotating gradient borders for feature highlights",
+    "Decorative action triggers with glass-morphism styling"
+  ],
+  "ai_summary": "A button component featuring a continuously rotating conic gradient background that creates a mesmerizing spinning effect. The button uses glass-morphism styling with backdrop blur (backdrop-blur-3xl) and supports both light and dark themes with adaptive gradient colors. The animation runs indefinitely via CSS keyframes, making it ideal for premium CTAs, loading states, or attention-grabbing action buttons in modern SaaS applications.",
+  "_classifiedAt": "2026-04-22T08:56:02.291Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

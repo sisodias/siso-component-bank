@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "rafa-porto-ai-assistant-interface",
+  "type": "registry:ui",
+  "title": "Rafa Porto Ai Assistant Interface",
+  "description": "Installed from https://21st.dev/r/rafa-porto/ai-assistant-interface",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "rafa-porto-ai-assistant-interface"
+  ],
+  "files": [
+    {
+      "path": "ai-assistant-interface.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/rafa-porto/ai-assistant-interface",
+    "fetchedAt": "2026-04-23T03:04:49.279Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

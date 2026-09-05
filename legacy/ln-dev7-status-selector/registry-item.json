@@ -1,0 +1,64 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ln-dev7-status-selector",
+  "type": "registry:ui",
+  "title": "Ln Dev7 Status Selector",
+  "description": "Installed from https://21st.dev/r/ln-dev7/status-selector",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ln-dev7-status-selector"
+  ],
+  "files": [
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "command.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "dialog.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "popover.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "spinner.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "status-selector.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-dialog",
+    "@radix-ui/react-icons",
+    "@radix-ui/react-popover",
+    "cmdk",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ln-dev7/status-selector",
+    "fetchedAt": "2026-04-23T03:04:30.235Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

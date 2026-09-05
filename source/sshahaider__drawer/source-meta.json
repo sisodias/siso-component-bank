@@ -1,0 +1,26 @@
+{
+  "id": "sshahaider__drawer",
+  "author": "sshahaider",
+  "slug": "drawer",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sshahaider/components/drawer",
+  "fetchedAt": "2026-08-29T07:25:05.858Z",
+  "completedAt": "2026-08-29T07:25:08.274Z",
+  "versionedFilename": "code.1753379968850.tsx",
+  "codeReference": "r2://components-code-private/sshahaider/drawer/code.1753379968850.tsx",
+  "codeUrl": "https://cdn.21st.dev/sshahaider/drawer/code.1753379968850.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4283,
+  "sha256": "7be29f65a77dda22a026a4f84df2e264dd9c03a1edc5ab736e9db083ca64983f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

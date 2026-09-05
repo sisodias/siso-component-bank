@@ -1,0 +1,26 @@
+{
+  "id": "easemize__cinematic-landing-hero",
+  "author": "easemize",
+  "slug": "cinematic-landing-hero",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@easemize/components/cinematic-landing-hero",
+  "fetchedAt": "2026-08-29T04:37:32.021Z",
+  "completedAt": "2026-08-29T04:37:34.401Z",
+  "versionedFilename": "code.1774169406116.tsx",
+  "codeReference": "r2://components-code-private/easemize/cinematic-landing-hero/code.1774169406116.tsx",
+  "codeUrl": "https://cdn.21st.dev/easemize/cinematic-landing-hero/code.1774169406116.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 26915,
+  "sha256": "e3871af35e8a486a16e111fcdd008dadb69f58271f7cf711deae43f872998e0f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "moumensoliman__profile-notch",
+  "author": "moumensoliman",
+  "slug": "profile-notch",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@moumensoliman/components/profile-notch",
+  "fetchedAt": "2026-08-29T05:51:02.519Z",
+  "completedAt": "2026-08-29T05:51:04.689Z",
+  "versionedFilename": "code.1769547433146.tsx",
+  "codeReference": "r2://components-code-private/moumensoliman/profile-notch/code.1769547433146.tsx",
+  "codeUrl": "https://cdn.21st.dev/moumensoliman/profile-notch/code.1769547433146.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7005,
+  "sha256": "1e91ab86227fa236e8ad37f7fb6dcca42eea14a7a777c2238e2c13dcd5e87efa",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

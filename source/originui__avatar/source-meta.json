@@ -1,0 +1,33 @@
+{
+  "id": "originui__avatar",
+  "author": "originui",
+  "slug": "avatar",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@originui/components/avatar",
+  "fetchedAt": "2026-08-29T06:00:45.506Z",
+  "completedAt": "2026-08-29T06:00:49.472Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/originui__avatar/code.tsx",
+    "bytes": 1431,
+    "sha256": "f876175bfc129b6c108440b2fb6807efe58a57e9ef6930ae2dc95c7f9b3602f0",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

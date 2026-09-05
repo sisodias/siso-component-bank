@@ -1,0 +1,26 @@
+{
+  "id": "brijr__hero-modern",
+  "author": "brijr",
+  "slug": "hero-modern",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@brijr/components/hero-modern",
+  "fetchedAt": "2026-08-29T03:51:13.826Z",
+  "completedAt": "2026-08-29T03:51:15.689Z",
+  "versionedFilename": "code.1757991711219.tsx",
+  "codeReference": "r2://components-code-private/larsen66/hero-modern/code.1757991711219.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/hero-modern/code.1757991711219.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7421,
+  "sha256": "a5a425bde4e3863c569f22569890c18f741cade7388ddee86a9042dc5bbe448a",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

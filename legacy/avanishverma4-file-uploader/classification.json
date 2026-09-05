@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "file-upload",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "drag",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Drag-and-drop file uploads with visual feedback for SaaS applications",
+    "File upload in document management and content creation tools",
+    "Media file uploads for e-commerce product listings",
+    "Dark/light mode file upload interface for modern web apps"
+  ],
+  "ai_summary": "A React file uploader component with drag-and-drop support, dark mode toggle, and automatic file type detection with icons. Features file size formatting and a list view for managing uploaded files. Built with Tailwind CSS and Lucide icons for a clean, modern interface suitable for SaaS and content management applications.",
+  "_classifiedAt": "2026-04-23T01:36:43.155Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "financial-broker-comparison",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Display broker or trading platform information with ratings on financial comparison websites",
+    "Show tradable assets and platform statistics for investment decisions",
+    "Provide quick overview cards for fintech dashboard or broker comparison pages",
+    "Enable users to evaluate multiple brokers through standardized info cards",
+    "Link users to detailed broker information from a summary card interface"
+  ],
+  "ai_summary": "Interactive Broker Card is a composite card component for displaying financial broker or trading platform information. Features logo, name, tradable assets list, star rating with review count, and account statistics. Uses theme-aware styling with Tailwind CSS variables and includes a subtle radial gradient background effect. Designed for responsive layouts with centered mobile view and left-aligned desktop positioning.",
+  "_classifiedAt": "2026-04-22T09:02:18.219Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

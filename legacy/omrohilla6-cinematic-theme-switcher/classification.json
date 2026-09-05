@@ -1,0 +1,28 @@
+{
+  "category": "input",
+  "subcategory": "theme-toggle-switch",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Toggle between light and dark themes in Next.js applications with smooth transitions",
+    "Add cinematic particle effects when switching themes for enhanced user experience",
+    "Prevent hydration mismatch with SSR placeholder rendering",
+    "Integrate seamlessly with next-themes for consistent theme management",
+    "Create film grain texture effects for a cinematic aesthetic in UI themes"
+  ],
+  "ai_summary": "A cinematic theme switcher component that toggles between light and dark modes with staggered particle burst animations. Built for Next.js with next-themes integration, featuring SSR-safe rendering to prevent hydration mismatches. The toggle includes film grain texture effects and smooth Framer Motion animations, making it ideal for developer tools, SaaS products, and media applications requiring elegant theme switching.",
+  "_classifiedAt": "2026-04-22T09:07:37.814Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

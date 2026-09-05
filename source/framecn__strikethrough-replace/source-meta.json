@@ -1,0 +1,26 @@
+{
+  "id": "framecn__strikethrough-replace",
+  "author": "framecn",
+  "slug": "strikethrough-replace",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@framecn/components/strikethrough-replace",
+  "fetchedAt": "2026-08-29T04:51:09.701Z",
+  "completedAt": "2026-08-29T04:51:11.893Z",
+  "versionedFilename": "code.1784395068164-6aadd51b-51bc-42e1-b450-ad45dc617283.tsx",
+  "codeReference": "r2://components-code-private/framecn/strikethrough-replace/code.1784395068164-6aadd51b-51bc-42e1-b450-ad45dc617283.tsx",
+  "codeUrl": "https://cdn.21st.dev/framecn/strikethrough-replace/code.1784395068164-6aadd51b-51bc-42e1-b450-ad45dc617283.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

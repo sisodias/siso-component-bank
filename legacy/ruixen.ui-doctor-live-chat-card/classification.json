@@ -1,0 +1,28 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Form submission and action triggers",
+    "Modal and overlay openers",
+    "Navigation click handlers",
+    "Call-to-action buttons in any UI context",
+    "Icon buttons for toolbars and action bars"
+  ],
+  "ai_summary": "A reusable atomic button component built with Radix UI Slot and class-variance-authority for flexible variant and size customization. Features standard Tailwind-based styling with shadow effects, hover states, focus-visible outlines, and disabled states. Supports composition via asChild prop for advanced use cases. Contains multiple variant options including default, destructive, outline, secondary, ghost, and link styles with sm, default, lg, and icon size variants.",
+  "_classifiedAt": "2026-04-23T17:17:50.140Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,18 @@
+{
+  "url": "https://21st.dev/@msjmohabali/components/qreatify-skill-registry-card",
+  "author": "msjmohabali",
+  "slug": "qreatify-skill-registry-card",
+  "name": "qreatify-skill-registry-card",
+  "description": "Reusable skill registry card for installed workspace skills and skills.sh templates, with badges, command preview, light modal tone, status and actions.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/msjmohabali/qreatify-skill-registry-card?api_key=$API_KEY_21ST\"",
+  "id": "msjmohabali__qreatify-skill-registry-card",
+  "bundleUrl": "https://cdn.21st.dev/msjmohabali/qreatify-skill-registry-card/default/bundle.1781559410082.html",
+  "previewUrl": null,
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "preview": "preview.png",
+  "previewVia": "ogCard"
+}

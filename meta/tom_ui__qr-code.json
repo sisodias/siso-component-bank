@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@tom_ui/components/qr-code",
+  "author": "tom_ui",
+  "slug": "qr-code",
+  "name": "qr-code",
+  "description": "QR code generator with rounded finder patterns and dot-style data modules.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/tom_ui/qr-code?api_key=$API_KEY_21ST\"",
+  "id": "tom_ui__qr-code",
+  "bundleUrl": "https://cdn.21st.dev/tom_ui/qr-code/default/bundle.1776946299809.html",
+  "previewUrl": "https://cdn.21st.dev/tom_ui/qr-code/default/preview.1776946505536.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

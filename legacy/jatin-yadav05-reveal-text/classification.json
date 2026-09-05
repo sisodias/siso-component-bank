@@ -1,0 +1,32 @@
+{
+  "category": "media",
+  "subcategory": "text-reveal-effect",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "cursor-tracked-ripple"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero section text with interactive cursor-following reveal effects",
+    "Portfolio or creative landing pages needing animated typography",
+    "Dark/light theme-aware text gradient effects",
+    "Interactive text overlays with ripple animations"
+  ],
+  "ai_summary": "A minimalist text reveal component with cursor-tracking ripple animation and theme-aware gradient fills. The effect creates an SVG-based text mask that reveals based on cursor position, with smooth color gradients adapting between light and dark modes. Built with framer-motion for fluid animations and supports dynamic theme switching.",
+  "_classifiedAt": "2026-04-23T16:47:19.252Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

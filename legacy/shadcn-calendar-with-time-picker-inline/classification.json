@@ -1,0 +1,40 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-component",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons for forms and dialogs",
+    "Destructive action buttons for delete or warning operations",
+    "Outline buttons for secondary actions alongside primary CTAs",
+    "Ghost buttons for subtle navigation or inline actions",
+    "Link-style buttons for inline text navigation"
+  ],
+  "ai_summary": "A versatile button component with six variant styles (default, destructive, outline, secondary, ghost, link) and four size options, built with Radix UI Slot for composition and CVA for variant management. Features accessible focus states, disabled states, and shadow effects for depth.",
+  "_classifiedAt": "2026-04-23T17:26:34.850Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

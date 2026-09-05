@@ -1,0 +1,26 @@
+{
+  "id": "coss.com__alert",
+  "author": "coss.com",
+  "slug": "alert",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@coss.com/components/alert",
+  "fetchedAt": "2026-08-29T04:01:52.256Z",
+  "completedAt": "2026-08-29T04:01:54.316Z",
+  "versionedFilename": "code.1774009084336.tsx",
+  "codeReference": "r2://components-code-private/coss.com/alert/code.1774009084336.tsx",
+  "codeUrl": "https://cdn.21st.dev/coss.com/alert/code.1774009084336.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2260,
+  "sha256": "c42e1a0247852f9d487f0f32dbd3484710af4395e6664f50655150f402eff001",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

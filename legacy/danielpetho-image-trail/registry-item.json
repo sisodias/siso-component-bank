@@ -1,0 +1,47 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "danielpetho-image-trail",
+  "type": "registry:ui",
+  "title": "Danielpetho Image Trail",
+  "description": "Installed from https://21st.dev/r/danielpetho/image-trail",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "danielpetho-image-trail"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "image-trail.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "use-mouse-vector.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "uuid"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "imports unresolvable path (@/components/hooks/use-mouse-vector)"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/danielpetho/image-trail",
+    "fetchedAt": "2026-04-23T03:05:49.196Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

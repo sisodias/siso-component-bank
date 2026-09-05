@@ -1,0 +1,44 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "vaib215-hover-testimonial-card",
+  "type": "registry:ui",
+  "title": "Vaib215 Hover Testimonial Card",
+  "description": "Installed from https://21st.dev/r/vaib215/hover-testimonial-card",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "vaib215-hover-testimonial-card"
+  ],
+  "files": [
+    {
+      "path": "avatar.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "hover-testimonial-card.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-avatar"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/vaib215/hover-testimonial-card",
+    "fetchedAt": "2026-04-23T01:18:29.630Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "ai-chat-text-input",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "AI assistant conversational input for web applications",
+    "Command or query input field for AI-powered tools and platforms",
+    "Smart text input with animated placeholder suggestions",
+    "Chat interface message composition with mode toggles",
+    "Interactive search input with think and deep search capabilities"
+  ],
+  "ai_summary": "A polished AI chat input component featuring animated cycling placeholder text, active/inactive states, and optional think/deep search mode toggles. Built with framer-motion for smooth transitions, it includes click-outside-to-close functionality and Lucide icons for common actions like send, mic, attach, and search. Ideal for integrating AI assistants or chat interfaces into SaaS and developer tool platforms.",
+  "_classifiedAt": "2026-04-23T17:06:36.589Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

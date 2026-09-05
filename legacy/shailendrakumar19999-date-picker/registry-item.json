@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "shailendrakumar19999-date-picker",
+  "type": "registry:ui",
+  "title": "Shailendrakumar19999 Date Picker",
+  "description": "Installed from https://21st.dev/r/shailendrakumar19999/date-picker",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "shailendrakumar19999-date-picker"
+  ],
+  "files": [
+    {
+      "path": "date-picker.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@ark-ui/react",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/shailendrakumar19999/date-picker",
+    "fetchedAt": "2026-04-23T01:18:21.314Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    "overlay",
+    "card"
+  ],
+  "subcategory": "user-onboarding-stepper",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Guiding new users through initial product setup and configuration",
+    "Multi-step onboarding flows for user onboarding wizards",
+    "First-time user experience introduction with progress indication",
+    "Interactive product tours with click-through navigation",
+    "Welcome screens for SaaS applications requiring initial setup"
+  ],
+  "ai_summary": "A composite onboarding component designed to guide users through multi-step setup processes. Features a modern minimalist visual style with interactive click-reveal navigation and keyboard accessibility. The component integrates a flexible button system with multiple variants (default, destructive, outline, secondary, ghost, link) and size options, making it adaptable across various industries including SaaS, fintech, and e-commerce platforms. Best suited for desktop and mobile experiences requiring user onboarding, product tours, or guided setup workflows.",
+  "_classifiedAt": "2026-04-22T09:10:18.034Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

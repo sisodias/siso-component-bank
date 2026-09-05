@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "serafimcloud-splite",
+  "type": "registry:ui",
+  "title": "Serafimcloud Splite",
+  "description": "Installed from https://21st.dev/r/serafimcloud/splite",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "serafimcloud-splite"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "splite.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@splinetool/react-spline",
+    "@splinetool/runtime"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/serafimcloud/splite",
+    "fetchedAt": "2026-04-23T03:05:50.696Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

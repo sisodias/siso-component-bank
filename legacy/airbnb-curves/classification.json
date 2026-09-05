@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "line-chart",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying multiple time-series data lines with configurable curve interpolation",
+    "Comparing different curve algorithms for data smoothing visualization",
+    "Building analytics dashboards that require chart visualization components",
+    "Educational tool for understanding d3/visx curve interpolation methods",
+    "Creating data-rich interfaces in SaaS applications"
+  ],
+  "ai_summary": "A multi-line chart component built with visx that renders five time-series curves with switchable interpolation algorithms (curveNatural, curveLinear, etc.). Includes a dropdown control for selecting curve types and toggles for point visibility. Primarily used as an educational demonstration and chart building block for data visualization interfaces.",
+  "_classifiedAt": "2026-04-23T11:29:34.782Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

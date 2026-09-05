@@ -1,0 +1,30 @@
+{
+  "category": "card",
+  "subcategory": "shadcn-card-system",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying grouped content with consistent card styling",
+    "Creating feature sections with title, description, and content regions",
+    "Building product cards, pricing cards, or pricing tables",
+    "Structuring dashboard widgets and data display panels",
+    "Composing layout sections in landing pages or dashboards"
+  ],
+  "ai_summary": "A foundational shadcn/ui Card component system providing composable Card, CardHeader, CardTitle, CardDescription, CardContent, and CardFooter subcomponents with minimalist styling using standard Tailwind classes. Designed as a versatile content container for flexible UI composition across any layout or industry application.",
+  "_classifiedAt": "2026-04-23T17:17:27.819Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@serafimcloud/components/pixel-fire-button",
+  "author": "serafimcloud",
+  "slug": "pixel-fire-button",
+  "name": "pixel-fire-button",
+  "description": "A CTA button that fills with molten pixel fire: a doom-fire simulation on a 3px canvas floods the face from the bottom, the flames bend toward your cursor on hover, and a press sends a burst through them. Lit and unlit states, a ghost variant, and an overlay slot for spinners or success icons. Inspired by the fire CTA on the Forge landing page by ui8.ai (ui8.ai/forge), rebuilt from scratch.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/serafimcloud/pixel-fire-button?api_key=$API_KEY_21ST\"",
+  "id": "serafimcloud__pixel-fire-button",
+  "bundleUrl": "https://cdn.21st.dev/serafimcloud/pixel-fire-button/default/bundle.1785362562575-902b2da8-a69b-403c-8050-71b173567359.html",
+  "previewUrl": "https://cdn.21st.dev/serafimcloud/pixel-fire-button/default/preview.1785362562575-902b2da8-a69b-403c-8050-71b173567359.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

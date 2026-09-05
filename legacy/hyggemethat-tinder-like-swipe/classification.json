@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card",
+    "media"
+  ],
+  "subcategory": "tinder-like swipe card stack",
+  "visual_style": [
+    "flat",
+    "skeuomorphic"
+  ],
+  "interactions": [
+    "drag",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "media",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Dating app interfaces where users swipe right to like or left to reject profiles",
+    "Product discovery in e-commerce allowing customers to browse and dismiss items",
+    "Decision-making interfaces where users choose between options by swiping",
+    "Interactive galleries with dismissible content cards"
+  ],
+  "ai_summary": "A swipeable card stack component inspired by Tinder's interaction pattern, featuring drag-to-dismiss functionality with directional shadow feedback. Users can swipe cards left or right to dismiss them, with green and red shadows indicating swipe direction. The component manages card state, swipe thresholds, and animated transitions.",
+  "_classifiedAt": "2026-04-23T16:42:42.336Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

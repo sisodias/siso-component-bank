@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "resource-links-grid",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying collections of external documentation or resource links",
+    "Creating a navigable grid of tools, references, or external services",
+    "Showcasing resource hubs with icons and update timestamps",
+    "Organizing and presenting external links in a scannable card layout"
+  ],
+  "ai_summary": "A responsive grid component that displays resource cards with icons, titles, and external links. Features staggered entrance animations via Framer Motion and subtle hover scale effects. Uses shadcn/ui design tokens for theming and includes shadow transitions on hover states. Suitable for organizing documentation links, tool collections, or resource hubs.",
+  "_classifiedAt": "2026-04-22T09:02:14.327Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

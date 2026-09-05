@@ -1,0 +1,24 @@
+{
+  "category": "form",
+  "subcategory": "action-button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Triggers form submissions and user interactions across applications",
+    "Provides clickable navigation elements for routing",
+    "Executes calls to action in dashboards and interfaces",
+    "Enables destructive actions with variant styling"
+  ],
+  "ai_summary": "A flexible button component built with Radix UI Slot for polymorphic rendering and class-variance-authority for type-safe variant handling. Supports multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes, with accessible focus states and disabled behavior.",
+  "_classifiedAt": "2026-04-23T17:42:11.999Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

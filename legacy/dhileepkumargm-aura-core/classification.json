@@ -1,0 +1,35 @@
+{
+  "category": "media",
+  "subcategory": "webgl-3d-renderer",
+  "visual_style": [
+    "3d",
+    "gradient",
+    "glass-morphism"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creating immersive 3D hero sections with animated aura effects",
+    "Adding WebGL-powered visual effects to landing pages",
+    "Rendering dynamic particle or glow-based background effects",
+    "Implementing interactive 3D visual elements in creative portfolios",
+    "Enhancing product showcases with atmospheric 3D rendering"
+  ],
+  "ai_summary": "A self-contained WebGL 3D rendering component that creates animated aura and glow effects using inlined OGL graphics library. The component renders dynamic visual effects suitable for hero sections and decorative backgrounds, featuring smooth animations and likely mouse-interactive elements. Designed as a standalone visual experience rather than a traditional UI component.",
+  "_classifiedAt": "2026-04-23T01:38:21.972Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

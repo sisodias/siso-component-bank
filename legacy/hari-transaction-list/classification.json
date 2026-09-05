@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "transaction-list",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "e-commerce",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Display a scrollable list of financial transactions with icons and amounts",
+    "Show detailed transaction information when a user clicks on a list item",
+    "Filter and organize payment history in a finance dashboard",
+    "Display recent purchases or spending activity in a mobile wallet app",
+    "Present billing records with hover states for better UX"
+  ],
+  "ai_summary": "A transaction list component that displays financial transactions in a clean, animated card format. Features smooth layout transitions and click-to-expand functionality to reveal detailed transaction information including payment method, card details, and timestamps. Built with Framer Motion for fluid animations and Tailwind CSS for responsive styling.",
+  "_classifiedAt": "2026-04-23T16:41:58.866Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

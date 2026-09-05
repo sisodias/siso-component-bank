@@ -1,0 +1,40 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "theme-switcher",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Toggle between light, dark, and system theme modes in application headers or sidebars",
+    "Allow users to quickly switch visual preferences without navigating to settings",
+    "Integrate as a compact theme selector in dashboard or settings interfaces",
+    "Provide theme switching functionality in SaaS and product applications"
+  ],
+  "ai_summary": "A lightweight theme toggle component that allows users to switch between system, light, and dark modes. Features smooth animated selection indicators using Framer Motion's layout animations, hover states, and accessibility attributes. Perfect for embedding in navigation bars, headers, or settings panels to provide instant theme control.",
+  "_classifiedAt": "2026-04-23T01:53:43.870Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

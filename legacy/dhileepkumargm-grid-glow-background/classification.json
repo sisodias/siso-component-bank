@@ -1,0 +1,33 @@
+{
+  "category": [
+    "layout"
+  ],
+  "subcategory": "animated-grid-background",
+  "visual_style": [
+    "dark",
+    "glass-morphism",
+    "gradient"
+  ],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero sections for landing pages requiring atmospheric visual depth",
+    "Application backgrounds providing visual interest without distracting from content",
+    "Dark-themed interfaces needing premium animated ambiance effects",
+    "Login screens and authentication pages seeking modern aesthetics",
+    "Marketing sites and product showcases wanting distinctive visual identity"
+  ],
+  "ai_summary": "An animated grid background component that renders a subtle grid pattern with floating, smoothly-interpolated glow orbs using HTML5 Canvas. The glows transition between grid positions with easing, creating a morphing ambient effect. Fully customizable via props for background color, grid size, grid color, glow colors, and glow count. Ideal for hero sections, landing pages, and dark-themed interfaces needing atmospheric visual depth.",
+  "_classifiedAt": "2026-04-22T08:57:50.277Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

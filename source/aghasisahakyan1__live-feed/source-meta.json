@@ -1,0 +1,26 @@
+{
+  "id": "aghasisahakyan1__live-feed",
+  "author": "aghasisahakyan1",
+  "slug": "live-feed",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@aghasisahakyan1/components/live-feed",
+  "fetchedAt": "2026-08-29T03:29:42.220Z",
+  "completedAt": "2026-08-29T03:29:44.300Z",
+  "versionedFilename": "code.1757031358921.tsx",
+  "codeReference": "r2://components-code-private/aghasisahakyan1/live-feed/code.1757031358921.tsx",
+  "codeUrl": "https://cdn.21st.dev/aghasisahakyan1/live-feed/code.1757031358921.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3543,
+  "sha256": "76c701da27b30302a791b0871da2ac824ca642795941f626599a075dbb0b140a",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

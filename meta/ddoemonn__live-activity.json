@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ddoemonn/components/live-activity",
+  "author": "ddoemonn",
+  "slug": "live-activity",
+  "name": "live-activity",
+  "description": "An iOS-style live activity pod that shows a single ongoing task with running, success and error states, morphing between a compact glyph and an expanded card with progress and a retry action.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ddoemonn/live-activity?api_key=$API_KEY_21ST\"",
+  "id": "ddoemonn__live-activity",
+  "bundleUrl": "https://cdn.21st.dev/ddoemonn/live-activity/default/bundle.1785472474914-f9e622c0-62fa-44b0-ba2c-f137f4c3e81d.html",
+  "previewUrl": "https://cdn.21st.dev/ddoemonn/live-activity/default/preview.1785472474914-f9e622c0-62fa-44b0-ba2c-f137f4c3e81d.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

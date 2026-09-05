@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@kizimmaxim/components/gpu-accelerated-3d-blur-swiper-gallery",
+  "author": "kizimmaxim",
+  "slug": "gpu-accelerated-3d-blur-swiper-gallery",
+  "name": "gpu-accelerated-3d-blur-swiper-gallery",
+  "description": "A highly optimized, hardware-accelerated image gallery and modal swiper. Features extremely smooth 3D transitions with blur depth effects. Implements intelligent DOM windowing (renders max 4 items at a time while preloading others in the background) to prevent WebKit GPU glitching/pixelation on Safari and Chromium. Perfect for heavy media portfolios. Supports both images and videos.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/kizimmaxim/gpu-accelerated-3d-blur-swiper-gallery?api_key=$API_KEY_21ST\"",
+  "id": "kizimmaxim__gpu-accelerated-3d-blur-swiper-gallery",
+  "bundleUrl": "https://cdn.21st.dev/kizimmaxim/gpu-accelerated-3d-blur-swiper-gallery/default/bundle.1772618095772.html",
+  "previewUrl": "https://cdn.21st.dev/kizimmaxim/gpu-accelerated-3d-blur-swiper-gallery/default/preview.1772566790745.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

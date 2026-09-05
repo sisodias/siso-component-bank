@@ -1,0 +1,39 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying user profile pictures in navigation headers",
+    "Showing user avatars in comment sections or discussion threads",
+    "Representing users in chat or messaging interfaces",
+    "Displaying user thumbnails in user lists or directories",
+    "Providing fallback initials when user images fail to load"
+  ],
+  "ai_summary": "A flexible avatar component built on Radix UI primitives with configurable sizes (xs to 2xl), rounded styling, and optional tooltip support. Features standard image and fallback subcomponents for graceful degradation when images are unavailable. Clean, minimalist design suitable for any application requiring user representation.",
+  "_classifiedAt": "2026-04-23T17:06:46.772Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

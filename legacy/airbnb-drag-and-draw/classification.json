@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "freehand-drawing-canvas",
+  "visual_style": [],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "creator-tools",
+    "education",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Freehand drawing on a dark canvas with gradient strokes",
+    "Creating interactive sketch interfaces for creative tools",
+    "Building annotation tools for educational platforms",
+    "Adding signature or quick doodle capture to applications",
+    "Prototyping drawing features in design or dev tools"
+  ],
+  "ai_summary": "An interactive freehand drawing canvas component that captures mouse/touch drag movements and renders them as smooth curved lines with an orange-to-yellow gradient stroke on a dark background. The component maintains multiple line histories and uses the Visx drag hook for precise input tracking.",
+  "_classifiedAt": "2026-04-23T11:29:39.860Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

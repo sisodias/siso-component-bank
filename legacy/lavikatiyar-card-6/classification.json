@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "metrics-visualization-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "healthcare",
+    "saas",
+    "fitness"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying step count or progress metrics in fitness and wellness dashboards",
+    "Showing time-based activity data with animated bar chart visualization",
+    "Creating animated metric cards for productivity or health tracking apps",
+    "Building dashboard widgets with smooth counter animations and progress indicators",
+    "Displaying daily/weekly metrics with visual bar chart representations"
+  ],
+  "ai_summary": "A minimalist card component for displaying step or progress data with an animated spring-based counter and vertical bar chart. Features staggered fill animations for each bar, making it ideal for fitness tracking, health dashboards, or any metrics visualization use case. Adapts to theme and works across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T01:42:36.332Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

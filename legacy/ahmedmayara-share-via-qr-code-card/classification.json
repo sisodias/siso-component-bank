@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "qr-sharing",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display QR code for mobile users to scan and access shared content or links",
+    "Enable quick sharing of URLs or digital content via QR code generation",
+    "Provide a scannable card interface for sharing contact information or payment details",
+    "Facilitate seamless handoff from desktop to mobile devices through QR code scanning",
+    "Serve as a social sharing mechanism for profiles, portfolios, or product pages"
+  ],
+  "ai_summary": "A card-based UI component designed to display and share content via QR code, enabling seamless handoff between desktop and mobile devices. Built with standard web technologies and Tailwind CSS, featuring a minimalist visual style with standard hover interactions. Typically used for sharing links, profiles, or digital content in SaaS, e-commerce, and fintech applications.",
+  "_classifiedAt": "2026-04-23T01:35:35.750Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

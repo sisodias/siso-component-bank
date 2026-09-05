@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@radiumcoders/components/click-powerup",
+  "author": "radiumcoders",
+  "slug": "click-powerup",
+  "name": "click-powerup",
+  "description": "An animated button with sprung corner brackets, a diagonal patterned fill, and a power-up tap burst. On hover the brackets push outward and a fill panel arms; on tap it snaps to a teal charged state. Theme-aware via CSS vars, powered by Motion.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/radiumcoders/click-powerup?api_key=$API_KEY_21ST\"",
+  "id": "radiumcoders__click-powerup",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/click-powerup/default/bundle.1780074170433.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/click-powerup/default/preview.1780074170433.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

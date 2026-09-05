@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "flip-card",
+  "visual_style": [
+    "3d",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Display product details with front/back card views for e-commerce product pages",
+    "Show feature highlights with interactive flip animations on SaaS landing pages",
+    "Create educational flashcards with question-answer flip interactions",
+    "Present team member profiles with bio flip cards on company about pages",
+    "Build interactive pricing tier cards with detailed feature lists on flip"
+  ],
+  "ai_summary": "An interactive 3D flip card component that rotates horizontally or vertically on hover to reveal hidden content on the back face. Built with React, motion/react for smooth 700ms cubic-bezier animations, and CSS 3D transforms with perspective. Features disabled state support, onFlip callbacks, and React Context for child component communication. Suitable for displaying paired content like product details, feature lists, or informational cards where users need to hover to flip between front and back views.",
+  "_classifiedAt": "2026-04-23T17:44:59.028Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

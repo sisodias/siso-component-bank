@@ -1,0 +1,26 @@
+{
+  "id": "aghasisahakyan1__loader",
+  "author": "aghasisahakyan1",
+  "slug": "loader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@aghasisahakyan1/components/loader",
+  "fetchedAt": "2026-08-29T03:29:44.303Z",
+  "completedAt": "2026-08-29T03:29:46.547Z",
+  "versionedFilename": "code.1755400424409.tsx",
+  "codeReference": "r2://components-code-private/aghasisahakyan1/loader/code.1755400424409.tsx",
+  "codeUrl": "https://cdn.21st.dev/aghasisahakyan1/loader/code.1755400424409.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10389,
+  "sha256": "0530a0c46899884c95ebf11cea6ba503fa7818a28e74818f26007740a53b9fb5",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

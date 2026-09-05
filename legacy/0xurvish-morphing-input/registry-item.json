@@ -1,0 +1,44 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "0xurvish-morphing-input",
+  "type": "registry:ui",
+  "title": "0xurvish Morphing Input",
+  "description": "Installed from https://21st.dev/r/0xUrvish/morphing-input",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "0xurvish-morphing-input"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "morphing-input.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@hugeicons/core-free-icons",
+    "@hugeicons/react",
+    "motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "missing relative sibling import: ./input"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/0xUrvish/morphing-input",
+    "fetchedAt": "2026-04-22T06:31:56.725Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

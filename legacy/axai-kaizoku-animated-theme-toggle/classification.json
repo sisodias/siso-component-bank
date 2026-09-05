@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "theme-toggle-animated",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Toggling between light and dark modes in web applications",
+    "Theme preference switching in user settings interfaces",
+    "Implementing dark mode functionality in SaaS dashboards",
+    "Accessibility feature for reducing eye strain in various UI contexts"
+  ],
+  "ai_summary": "An animated theme toggle button component that smoothly transitions between sun and moon SVG icons when clicked, enabling light/dark mode switching. Built with Framer Motion for fluid scale and path-length animations, featuring a minimalist outline button with clean stroke icons.",
+  "_classifiedAt": "2026-04-22T08:53:21.818Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

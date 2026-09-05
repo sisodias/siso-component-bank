@@ -1,0 +1,31 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action triggers for forms, dialogs, and page navigation",
+    "Destructive action buttons for delete, remove, or cancel confirmations",
+    "Secondary navigation options within toolbars and header sections",
+    "Accessible link-style buttons for inline text navigation",
+    "Icon-only compact buttons for toolbars and action clusters"
+  ],
+  "ai_summary": "A reusable Button component built with Radix UI Slot and class-variance-authority, offering multiple variants (default, destructive, outline, secondary, ghost, link) and sizes. Features shadow-based depth, smooth hover transitions, keyboard focus states, and disabled state handling. Designed for composition in larger UI systems with asChild prop support for polymorphic rendering.",
+  "_classifiedAt": "2026-04-23T17:30:51.890Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

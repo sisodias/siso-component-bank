@@ -1,0 +1,32 @@
+{
+  "category": "input",
+  "subcategory": "button-component",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons for forms and landing pages",
+    "Secondary action buttons within multi-step workflows",
+    "Icon-only buttons for toolbars and navigation menus",
+    "Destructive action confirmation buttons requiring attention",
+    "Ghost-style navigation links within content sections"
+  ],
+  "ai_summary": "A reusable button component with Radix UI Slot integration offering 6 variants (default, destructive, outline, secondary, ghost, link) and 4 sizes (default, sm, lg, icon). Built with class-variance-authority for type-safe variant management and Tailwind CSS for consistent styling with accessible focus-visible rings.",
+  "_classifiedAt": "2026-04-23T01:47:51.625Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "category": "overlay",
+  "subcategory": "modal-dialog",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Confirmation dialogs for user actions like deletions or sign-outs",
+    "Form submissions displayed in centered modal containers",
+    "Alert or notification overlays with dismiss functionality",
+    "Content previews in modal format over page content",
+    "Privacy policy or terms display in modal overlays"
+  ],
+  "ai_summary": "A minimalist modal dialog component built on Radix UI primitives with Tailwind CSS styling. Features smooth fade and zoom animations for open/close states, a semi-transparent dark overlay backdrop, and a dismissible close button. Designed for desktop and mobile use, suitable for confirmation dialogs, form modals, and content overlays in SaaS and e-commerce applications.",
+  "_classifiedAt": "2026-04-23T16:37:09.801Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

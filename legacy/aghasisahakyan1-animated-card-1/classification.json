@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "content-card",
+  "visual_style": [
+    "minimalist",
+    "flat",
+    "dark"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying product or content information in grid-based layouts",
+    "Creating consistent card-based UI patterns across SaaS dashboards",
+    "Building e-commerce product listings with visual and text content",
+    "Presenting feature highlights or testimonials in media applications",
+    "Structuring information hierarchy in data-display sections"
+  ],
+  "ai_summary": "A flexible composite card component from aghasisahakyan1 featuring multiple sub-components (CardBody, CardTitle, CardDescription, CardVisual) for structured content display. Built with dark mode support, accessibility attributes (ARIA labels), and group-based styling hooks for potential hover effects. The component follows a minimalist flat design with subtle shadows and borders, making it suitable for product cards, feature highlights, or content summaries across SaaS, e-commerce, and media platforms.",
+  "_classifiedAt": "2026-04-23T11:28:52.690Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ssicevs/components/returns-calendar",
+  "author": "ssicevs",
+  "slug": "returns-calendar",
+  "name": "returns-calendar",
+  "description": "Monthly returns heat grid: years by months, diverging green/red cells scaled by magnitude, plus a compounded year-total column. Hovering a cell reads the month and its return into the header. Light and dark via shadcn theme tokens; respects reduced motion.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ssicevs/returns-calendar?api_key=$API_KEY_21ST\"",
+  "id": "ssicevs__returns-calendar",
+  "bundleUrl": "https://cdn.21st.dev/ssicevs/returns-calendar/default/bundle.1785458954492-d50f46f9-2962-46df-99f8-80618403ec7b.html",
+  "previewUrl": "https://cdn.21st.dev/ssicevs/returns-calendar/default/preview.1785458954492-d50f46f9-2962-46df-99f8-80618403ec7b.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

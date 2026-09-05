@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "price-range-slider-dual-thumb",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "real-estate",
+    "fintech",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "E-commerce product filtering by minimum and maximum price thresholds",
+    "Real estate property search by budget range selection",
+    "Financial applications for investment or loan amount range input",
+    "SaaS pricing tier configuration with custom value ranges",
+    "Any dual-value numeric range selection requiring formatted output"
+  ],
+  "ai_summary": "A dual-thumb price range slider component for selecting minimum and maximum price values within a configurable range. Features formatted currency display, drag-based thumb manipulation, and supports both mouse and touch interactions for cross-platform use. Includes callback hooks for value change events and customizable min/max/step parameters.",
+  "_classifiedAt": "2026-04-23T01:47:59.062Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "animated-card",
+  "type": "registry:ui",
+  "title": "AnimatedCard",
+  "description": "Animated card with layered chart visual, hover-reveal tooltip panel, and smooth horizontal slide transitions on card hover",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "card",
+    "animated",
+    "chart",
+    "hover",
+    "visualization",
+    "data"
+  ],
+  "files": [
+    {
+      "path": "animated-card.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "clsx",
+    "tailwind-merge"
+  ],
+  "registryDependencies": [
+    "animated-card"
+  ],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "curationTags": []
+  }
+}

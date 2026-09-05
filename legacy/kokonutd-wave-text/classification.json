@@ -1,0 +1,32 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "wave-text-animation",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Interactive headlines on landing pages with hover-triggered wave animations",
+    "CTA buttons and text links with cascading character effects",
+    "Navigation items or menu labels with playful motion",
+    "Brand typography elements with spring-physics character animations",
+    "Decorative text displays for websites requiring subtle interactivity"
+  ],
+  "ai_summary": "A Framer Motion-based wave text component that applies spring physics animations to individual characters on hover, creating a cascading wave effect from left to right. Built with React, Tailwind CSS, and configurable text/className props for flexible styling integration across landing pages and interactive UI elements.",
+  "_classifiedAt": "2026-04-23T16:49:40.111Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Shonazarov__red-spider-cursor",
+  "author": "Shonazarov",
+  "slug": "red-spider-cursor",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@Shonazarov/components/red-spider-cursor",
+  "fetchedAt": "2026-08-29T07:17:54.032Z",
+  "completedAt": "2026-08-29T07:17:56.226Z",
+  "versionedFilename": "code.1786250825589-2ce96338-bbf8-4058-acea-32508f791932.tsx",
+  "codeReference": "r2://components-code-private/Shonazarov/red-spider-cursor/code.1786250825589-2ce96338-bbf8-4058-acea-32508f791932.tsx",
+  "codeUrl": "https://cdn.21st.dev/Shonazarov/red-spider-cursor/code.1786250825589-2ce96338-bbf8-4058-acea-32508f791932.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

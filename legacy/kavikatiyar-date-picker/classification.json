@@ -1,0 +1,28 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Primary action trigger for date picker navigation and confirmation",
+    "Form submission trigger within calendar interfaces",
+    "Icon or text button for previous/next month navigation"
+  ],
+  "ai_summary": "A polymorphic Button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes. Built with Radix UI Slot for asChild composition, CVA for variant styling, and includes shadow effects, focus-visible accessibility states, and disabled state handling. Part of a weekly date picker system, optimized for form and navigation use cases across SaaS applications.",
+  "_classifiedAt": "2026-04-23T01:41:36.971Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

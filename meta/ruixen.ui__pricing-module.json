@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/pricing-module",
+  "author": "ruixen.ui",
+  "slug": "pricing-module",
+  "name": "pricing-module",
+  "description": "The PricingModule component is a fully configurable, responsive pricing section built with shadcn/ui, Lucide icons, and Tailwind CSS. It allows users to easily toggle between monthly and yearly billing, updating prices instantly for a seamless and dynamic experience. Designed for modern SaaS and product websites, it combines clarity, flexibility, and style — giving teams the ability to showcase multiple pricing tiers with detailed features and highlights.\n\nEach pricing card is modular, allowing you to define the name, description, icon, pricing options, user limits, and features through props. The component also includes a recommended plan highlight, making it easy to emphasize the most popular or valuable tier. With clean transitions, adaptive theming for light and dark modes, and accessible UI components, the PricingModule serves as a polished and production-ready pricing layout for any digital platform.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/pricing-module?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__pricing-module",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/pricing-module/default/bundle.1760809383261.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/pricing-module/default/preview.1760809383261.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 138,
+  "demo_id": 9189,
+  "video_url": null
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@lyanchouss/components/dock",
+  "author": "lyanchouss",
+  "slug": "dock",
+  "name": "dock",
+  "description": "Minimal dock for the daliagents.com console, giving one-click access to the Dali Agents surfaces - Agents, Leads, Operations, Support, Care, and Rescue.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/lyanchouss/dock?api_key=$API_KEY_21ST\"",
+  "id": "lyanchouss__dock",
+  "bundleUrl": "https://cdn.21st.dev/lyanchouss/dock/default/bundle.1759593362517.html",
+  "previewUrl": "https://cdn.21st.dev/lyanchouss/dock/default/preview.1759592925726.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

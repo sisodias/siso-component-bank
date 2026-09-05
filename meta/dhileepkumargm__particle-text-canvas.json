@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@dhileepkumargm/components/particle-text-canvas",
+  "author": "dhileepkumargm",
+  "slug": "particle-text-canvas",
+  "name": "particle-text-canvas",
+  "description": "A full-screen, canvas-driven particle system that spells out specified text and lets the cursor dynamically repel the letters’ particles. It captures pixel data from bold, gradient-filled text and instantiates particles at those locations, creating an interactive “shatter and reform” effect as you move or leave the cursor. Ideal for hero titles, interactive headings, or animated backgrounds.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/dhileepkumargm/particle-text-canvas?api_key=$API_KEY_21ST\"",
+  "id": "dhileepkumargm__particle-text-canvas",
+  "bundleUrl": "https://cdn.21st.dev/dhileepkumargm/particle-text-canvas/default/bundle.1785277767141-5514292c-2968-4e7b-862a-b73f53940acf.html",
+  "previewUrl": "https://cdn.21st.dev/dhileepkumargm/particle-text-canvas/default/preview.1785277767141-5514292c-2968-4e7b-862a-b73f53940acf.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 49,
+  "demo_id": 8084,
+  "video_url": "https://cdn.21st.dev/dhileepkumargm/particle-text-canvas/default/video.1785277767141-5514292c-2968-4e7b-862a-b73f53940acf.mp4"
+}

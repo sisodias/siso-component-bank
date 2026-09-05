@@ -1,0 +1,43 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "airbnb-drag-and-draw",
+  "type": "registry:ui",
+  "title": "Airbnb Drag And Draw",
+  "description": "Installed from https://21st.dev/r/airbnb/drag-and-draw",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "airbnb-drag-and-draw"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "drag-and-draw.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@visx/curve",
+    "@visx/drag",
+    "@visx/gradient",
+    "@visx/shape"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/airbnb/drag-and-draw",
+    "fetchedAt": "2026-04-23T03:04:41.414Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

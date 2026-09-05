@@ -1,0 +1,26 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Form submission buttons for web applications",
+    "Call-to-action buttons with multiple visual variants",
+    "Navigation and interactive element triggers",
+    "Accessible button component with focus states",
+    "Reusable button component with size and variant props"
+  ],
+  "ai_summary": "A reusable Button component built with Radix UI Slot and class-variance-authority. Supports multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Designed as an atomic UI building block for React applications with Tailwind CSS integration and full accessibility support via focus-visible states.",
+  "_classifiedAt": "2026-04-22T09:10:48.660Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

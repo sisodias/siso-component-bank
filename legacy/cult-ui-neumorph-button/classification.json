@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "neumorphic-button",
+  "visual_style": [
+    "neumorphic",
+    "dark"
+  ],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in neumorphic UI designs",
+    "Tactile-feeling interactive elements with embossed/debossed styling",
+    "Loading states with spinner integration for async actions",
+    "Form submission triggers with disabled state handling"
+  ],
+  "ai_summary": "A neumorphic button component with inset and drop shadows creating a soft 3D embossed effect. Features multiple variants (default, primary, secondary), hover states with shadow depth changes, and active press states with reduced shadow intensity. Includes loading spinner support via Lucide icons and disabled state handling. Built with CVA for variant management and Framer Motion for animations.",
+  "_classifiedAt": "2026-04-23T16:28:33.905Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "prebuiltui__hero-section",
+  "author": "prebuiltui",
+  "slug": "hero-section",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@prebuiltui/components/hero-section",
+  "fetchedAt": "2026-08-29T06:11:22.594Z",
+  "completedAt": "2026-08-29T06:11:24.791Z",
+  "versionedFilename": "code.1757573860879.tsx",
+  "codeReference": "r2://components-code-private/larsen66/hero-section/code.1757573860879.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/hero-section/code.1757573860879.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10243,
+  "sha256": "4dc4219cc924c75aa199551ba9cf9051ce52c314c566ae88b2d93ec7fdc1fb48",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

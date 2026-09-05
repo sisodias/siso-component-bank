@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "minhxthanh-terminal-control-section-animated",
+  "type": "registry:ui",
+  "title": "Minhxthanh Terminal Control Section Animated",
+  "description": "Installed from https://21st.dev/r/minhxthanh/terminal-control-section-animated",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "minhxthanh-terminal-control-section-animated"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "terminal-control-section-animated.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/minhxthanh/terminal-control-section-animated",
+    "fetchedAt": "2026-04-23T02:29:00.996Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

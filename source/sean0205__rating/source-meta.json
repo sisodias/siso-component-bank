@@ -1,0 +1,26 @@
+{
+  "id": "sean0205__rating",
+  "author": "sean0205",
+  "slug": "rating",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sean0205/components/rating",
+  "fetchedAt": "2026-08-29T06:58:34.959Z",
+  "completedAt": "2026-08-29T06:58:36.988Z",
+  "versionedFilename": "code.1757402948284.tsx",
+  "codeReference": "r2://components-code-private/sean0205/rating/code.1757402948284.tsx",
+  "codeUrl": "https://cdn.21st.dev/sean0205/rating/code.1757402948284.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3668,
+  "sha256": "885994a7f71279d8ffe13ffc76589607ebf88ddb0ac21a1c14bad7bab9a286de",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

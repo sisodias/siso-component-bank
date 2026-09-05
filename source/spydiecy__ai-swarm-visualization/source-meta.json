@@ -1,0 +1,33 @@
+{
+  "id": "spydiecy__ai-swarm-visualization",
+  "author": "spydiecy",
+  "slug": "ai-swarm-visualization",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@spydiecy/components/ai-swarm-visualization",
+  "fetchedAt": "2026-08-29T07:23:45.052Z",
+  "completedAt": "2026-08-29T07:23:46.799Z",
+  "versionedFilename": "code.1785450072542-d168db31-1f41-4182-a9f0-625c7fbb65f4.tsx",
+  "codeReference": "r2://components-code-private/spydiecy/ai-swarm-visualization/code.1785450072542-d168db31-1f41-4182-a9f0-625c7fbb65f4.tsx",
+  "codeUrl": "https://cdn.21st.dev/spydiecy/ai-swarm-visualization/code.1785450072542-d168db31-1f41-4182-a9f0-625c7fbb65f4.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/spydiecy__ai-swarm-visualization/code.tsx",
+    "bytes": 16444,
+    "sha256": "c061d5df218f3868f41a2dd48f3748273eb240d1952b9b5f5014c63fde12d5a9",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

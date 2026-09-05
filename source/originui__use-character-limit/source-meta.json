@@ -1,0 +1,33 @@
+{
+  "id": "originui__use-character-limit",
+  "author": "originui",
+  "slug": "use-character-limit",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@originui/components/use-character-limit",
+  "fetchedAt": "2026-08-29T06:01:35.873Z",
+  "completedAt": "2026-08-29T06:01:37.005Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/originui__use-character-limit/code.tsx",
+    "bytes": 692,
+    "sha256": "397595b2105c11cc97189becd2c9f3e1fb4fd26718f21e9701b715ba35e45186",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

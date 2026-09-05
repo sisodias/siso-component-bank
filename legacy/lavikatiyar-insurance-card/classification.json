@@ -1,0 +1,35 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "avatar",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display user profile pictures in navigation headers or account menus",
+    "Show user avatars alongside comments, reviews, or forum posts",
+    "Represent users in chat or messaging application interfaces",
+    "Display contact list items with profile images",
+    "Show team member avatars in organizational charts or about pages"
+  ],
+  "ai_summary": "A lightweight Radix UI-based avatar component with support for images, fallback initials, and rounded styling. Provides accessibility-friendly user representation with proper alt text handling and fallback states for when images fail to load. Commonly used in navigation, user profiles, comments, and contact lists across various application contexts.",
+  "_classifiedAt": "2026-04-22T09:04:31.294Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

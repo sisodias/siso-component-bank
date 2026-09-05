@@ -1,0 +1,30 @@
+{
+  "category": "input",
+  "subcategory": "curtain-animated-button",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons with engaging hover animations",
+    "Interactive form submit buttons with loading states",
+    "Navigation and menu trigger buttons with visual feedback",
+    "Action buttons requiring disabled/enabled state management",
+    "Buttons needing variant styling for different importance levels"
+  ],
+  "ai_summary": "A React button component featuring a distinctive curtain hover effect where the background slides up while text color inverts. Built with Framer Motion for smooth 0.4s ease-out transitions using expo easing. Supports multiple variants (default, outline, ghost, destructive), sizes (default, sm, lg, icon), and built-in loading states with Lucide loader icon. The component uses forwardRef for React integration and handles hover states internally with React.useState. Perfect for creating engaging interactive buttons in SaaS dashboards, e-commerce checkout flows, and fintech applications.",
+  "_classifiedAt": "2026-04-22T08:59:46.768Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

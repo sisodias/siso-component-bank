@@ -1,0 +1,26 @@
+{
+  "id": "moumensoliman__sidebar-one",
+  "author": "moumensoliman",
+  "slug": "sidebar-one",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@moumensoliman/components/sidebar-one",
+  "fetchedAt": "2026-08-29T05:51:09.325Z",
+  "completedAt": "2026-08-29T05:51:11.327Z",
+  "versionedFilename": "code.1779967496049.tsx",
+  "codeReference": "r2://components-code-private/larsen66/sidebar-one/code.1779967496049.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/sidebar-one/code.1779967496049.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3972,
+  "sha256": "915b4157dfb7619a65c5f7412ed203f784d44010eff39f44a2320b32f45bf234",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

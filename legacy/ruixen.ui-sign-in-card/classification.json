@@ -1,0 +1,24 @@
+{
+  "category": "card",
+  "subcategory": "authentication-button",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action button in sign-in and registration forms",
+    "Destructive action buttons for account deletion or logout confirmations",
+    "Secondary navigation actions in authentication flows",
+    "Ghost-style buttons for less prominent actions within forms",
+    "Icon buttons for inline actions in card headers or form sections"
+  ],
+  "ai_summary": "A foundational Button component with class-variance-authority for multiple variants (default, destructive, outline, secondary, ghost, link) and sizes. Built with Radix UI Slot for composition patterns. Part of the Ruixen.UI sign-in card library, commonly used for authentication interfaces in SaaS applications, supporting desktop and mobile platforms with accessible focus states and disabled configurations.",
+  "_classifiedAt": "2026-04-23T01:51:19.222Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

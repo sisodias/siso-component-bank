@@ -1,0 +1,31 @@
+{
+  "category": [
+    "hero"
+  ],
+  "subcategory": "3D globe hero with wireframe visualization",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero section featuring an animated 3D globe",
+    "Tech or SaaS product showcase with interactive wireframe visualization",
+    "Creative portfolio intro with rotating globe element",
+    "Background for marketing pages needing 3D visual interest",
+    "Interactive hero for crypto or global network-themed products"
+  ],
+  "ai_summary": "A full-screen hero component featuring a rotating wireframe globe rendered with React Three Fiber. The globe uses transparent mesh materials with HSL CSS variable colors and continuous rotation animation via useFrame, creating a minimalist 3D visual effect suitable for tech, SaaS, or developer-focused landing pages.",
+  "_classifiedAt": "2026-04-23T16:27:23.493Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@jolbol1/components/switch",
+  "author": "jolbol1",
+  "slug": "switch",
+  "name": "switch",
+  "description": "A switch allows a user to turn a setting on or off.\n\nThere is no native HTML element with switch styling. <input type=\"checkbox\"> is the closest semantically, but isn't styled or exposed to assistive technology as a switch. Switch helps achieve accessible switches that can be styled as needed.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/jolbol1/switch?api_key=$API_KEY_21ST\"",
+  "id": "jolbol1__switch",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1023.html",
+  "previewUrl": "https://cdn.21st.dev/user_jolbol1/switch.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 175,
+  "demo_id": 1023,
+  "video_url": "https://cdn.21st.dev/user_jolbol1/switch/1023/video.mp4"
+}

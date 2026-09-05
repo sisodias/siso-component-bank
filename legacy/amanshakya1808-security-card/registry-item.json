@@ -1,0 +1,43 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "amanshakya1808-security-card",
+  "type": "registry:ui",
+  "title": "Amanshakya1808 Security Card",
+  "description": "Installed from https://21st.dev/r/amanshakya1808/security-card",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "amanshakya1808-security-card"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "security-card.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "motion",
+    "react-icons"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "imports parent CSS (../../index.css)"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/amanshakya1808/security-card",
+    "fetchedAt": "2026-04-23T01:18:21.776Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

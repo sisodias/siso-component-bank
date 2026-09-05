@@ -1,0 +1,56 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "sshahaider-header-3",
+  "type": "registry:ui",
+  "title": "Sshahaider Header 3",
+  "description": "Installed from https://21st.dev/r/sshahaider/header-3",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "sshahaider-header-3"
+  ],
+  "files": [
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "header-3.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "menu-toggle-icon.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "navigation-menu.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-icons",
+    "@radix-ui/react-navigation-menu",
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/sshahaider/header-3",
+    "fetchedAt": "2026-04-22T06:44:03.101Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

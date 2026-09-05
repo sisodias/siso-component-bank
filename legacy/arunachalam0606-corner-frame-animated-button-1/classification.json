@@ -1,0 +1,30 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "animated-button",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Call-to-action buttons on landing pages requiring visual emphasis",
+    "Interactive button elements for marketing and promotional sections",
+    "CTA components in marketing sites and conversion-focused interfaces"
+  ],
+  "ai_summary": "An animated button component featuring a corner frame border effect using CSS linear gradients that reveals a vibrant gradient background on hover. Built with Framer Motion for smooth hover and tap animations, this button uses CSS custom properties for theming flexibility and supports customizable text and gradient colors.",
+  "_classifiedAt": "2026-04-22T08:52:24.065Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

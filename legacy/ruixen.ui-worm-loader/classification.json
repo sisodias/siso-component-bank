@@ -1,0 +1,41 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "animated-loader",
+  "visual_style": [
+    "gradient",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Indicating loading states during data fetching in web applications",
+    "Showing progress feedback during async operations like form submissions",
+    "Adding visual interest to page transitions or route changes",
+    "Displaying loading status for content-heavy pages in dashboards",
+    "Enhancing user experience during background processing tasks"
+  ],
+  "ai_summary": "A visually engaging SVG-based loader component featuring two worm-like elements animating along curved sinusoidal paths. The component uses two vibrant multi-stop linear gradients (rainbow spectrum) that create a playful, eye-catching loading indicator. Built with React and styled with Tailwind CSS, it includes predefined linear gradients for both directions and requires corresponding CSS keyframe animations (animate-worm1, animate-worm2) to function properly. The SVG scales responsively and works across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-22T09:13:39.426Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

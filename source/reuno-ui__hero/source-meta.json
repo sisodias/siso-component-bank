@@ -1,0 +1,26 @@
+{
+  "id": "reuno-ui__hero",
+  "author": "reuno-ui",
+  "slug": "hero",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@reuno-ui/components/hero",
+  "fetchedAt": "2026-08-29T06:35:32.459Z",
+  "completedAt": "2026-08-29T06:35:34.902Z",
+  "versionedFilename": "code.1755701209865.tsx",
+  "codeReference": "r2://components-code-private/muhammadnadeemmn9485134/hero/code.1755701209865.tsx",
+  "codeUrl": "https://cdn.21st.dev/muhammadnadeemmn9485134/hero/code.1755701209865.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 12895,
+  "sha256": "5e93d835ccc9f0c089f78f82474280fe1a8e517772806ec8e9b1f6e88eb80519",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

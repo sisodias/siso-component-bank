@@ -1,0 +1,30 @@
+{
+  "category": "media",
+  "subcategory": "svg-globe-visualization",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "dev-tools",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display global distribution data or metrics in dashboard interfaces",
+    "Visualize worldwide user locations or market reach for SaaS platforms",
+    "Create geographic data presentations for educational content",
+    "Show international network connections or server locations",
+    "Render animated globe backgrounds for media or news applications"
+  ],
+  "ai_summary": "An SVG-based globe visualization component that renders a geometric grid pattern representing a globe or hemispherical view. Features configurable aspect ratios via the fullGlobe prop, responsive design with CSS grid variables, and customizable line colors using HSL theme variables. The component uses pure CSS transforms for positioning without JavaScript-driven animations, making it a lightweight, performant option for displaying global data visualizations in web applications.",
+  "_classifiedAt": "2026-04-23T17:03:24.593Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

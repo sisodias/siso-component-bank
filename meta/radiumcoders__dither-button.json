@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@radiumcoders/components/dither-button",
+  "author": "radiumcoders",
+  "slug": "dither-button",
+  "name": "dither-button",
+  "description": "A button with a live ordered-dithering (Bayer matrix) canvas fill that animates a subtle wave across the surface, with stroked label and configurable dither color, size, and opacity. Pure 2D canvas — no WebGL.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/radiumcoders/dither-button?api_key=$API_KEY_21ST\"",
+  "id": "radiumcoders__dither-button",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/dither-button/default/bundle.1780081213960.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/dither-button/default/preview.1780081213960.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

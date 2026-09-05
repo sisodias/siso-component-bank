@@ -1,0 +1,30 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "testimonial-card",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display customer testimonials with star ratings and author attribution",
+    "Showcase social proof with animated entrance effects on product or service pages",
+    "Present reviews in a staggered grid layout for portfolio or landing pages"
+  ],
+  "ai_summary": "A reusable testimonial card component featuring star ratings, quote display, and author avatar with dark mode support. Built with Framer Motion for staggered fade-in animations and subtle hover scale effects. Uses Tailwind CSS for styling with rounded corners, shadows, and responsive layout.",
+  "_classifiedAt": "2026-04-23T01:39:37.661Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

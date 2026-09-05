@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@danielpetho/components/scroll-and-swap-text",
+  "author": "danielpetho",
+  "slug": "scroll-and-swap-text",
+  "name": "scroll-and-swap-text",
+  "description": "A text component that swaps the letters vertically on scroll.\n\nThe trick here is similar to the Letter Swap Hover component—duplicate the text, then wrapping the them in a container with relative position, then stack the elements vertically. We use useScroll hook from motion to track the scroll position of the container, and use the scrollYProgress value to offset the vertical position of the elements (by setting the y property of the element).",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/danielpetho/scroll-and-swap-text?api_key=$API_KEY_21ST\"",
+  "id": "danielpetho__scroll-and-swap-text",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1314.html",
+  "previewUrl": "https://cdn.21st.dev/user_danielpetho/scroll-and-swap-text.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 57,
+  "demo_id": 1314,
+  "video_url": "https://cdn.21st.dev/user_danielpetho/scroll-and-swap-text/default/video.mp4"
+}

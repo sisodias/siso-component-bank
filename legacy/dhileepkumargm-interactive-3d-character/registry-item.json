@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "dhileepkumargm-interactive-3d-character",
+  "type": "registry:ui",
+  "title": "Dhileepkumargm Interactive 3d Character",
+  "description": "Installed from https://21st.dev/r/dhileepkumargm/interactive-3d-character",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "dhileepkumargm-interactive-3d-character"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "interactive-3d-character.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/dhileepkumargm/interactive-3d-character",
+    "fetchedAt": "2026-04-23T01:18:23.748Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

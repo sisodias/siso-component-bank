@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@elements-/components/latency-meter",
+  "author": "elements-",
+  "slug": "latency-meter",
+  "name": "latency-meter",
+  "description": "Response time visualization for AI requests showing TTFB and total duration with color-coded performance indicators, an animated progress bar, and compact or expanded variants.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/elements-/latency-meter?api_key=$API_KEY_21ST\"",
+  "id": "elements-__latency-meter",
+  "bundleUrl": "https://cdn.21st.dev/elements-/latency-meter/default/bundle.1784354323301-ff45538d-0d27-4918-bc01-f7f3bf9e0769.html",
+  "previewUrl": "https://cdn.21st.dev/elements-/latency-meter/default/preview.1784354323301-ff45538d-0d27-4918-bc01-f7f3bf9e0769.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

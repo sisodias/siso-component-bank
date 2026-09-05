@@ -1,0 +1,26 @@
+{
+  "id": "patrick.thomas.dunn1988__tidal-cursor",
+  "author": "patrick.thomas.dunn1988",
+  "slug": "tidal-cursor",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@patrick.thomas.dunn1988/components/tidal-cursor",
+  "fetchedAt": "2026-08-29T06:08:20.621Z",
+  "completedAt": "2026-08-29T06:08:22.874Z",
+  "versionedFilename": "code.1756416010427.tsx",
+  "codeReference": "r2://components-code-private/patrick.thomas.dunn1988/tidal-cursor/code.1756416010427.tsx",
+  "codeUrl": "https://cdn.21st.dev/patrick.thomas.dunn1988/tidal-cursor/code.1756416010427.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2400,
+  "sha256": "15697e7893bebe2343f662c62961815c750105e501a51d7079dace00d94a1e8b",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

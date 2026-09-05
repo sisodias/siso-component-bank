@@ -1,0 +1,26 @@
+{
+  "id": "unlumen__scroll-reveal-image",
+  "author": "unlumen",
+  "slug": "scroll-reveal-image",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@unlumen/components/scroll-reveal-image",
+  "fetchedAt": "2026-08-29T07:51:49.783Z",
+  "completedAt": "2026-08-29T07:51:51.962Z",
+  "versionedFilename": "code.1786707519211-39e02536-38df-43bb-93a2-4bf129a4cc02.tsx",
+  "codeReference": "r2://components-code-private/unlumen/scroll-reveal-image/code.1786707519211-39e02536-38df-43bb-93a2-4bf129a4cc02.tsx",
+  "codeUrl": "https://cdn.21st.dev/unlumen/scroll-reveal-image/code.1786707519211-39e02536-38df-43bb-93a2-4bf129a4cc02.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

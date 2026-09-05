@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "meerbahadin10-stripe-like-gradient-shader",
+  "type": "registry:ui",
+  "title": "Meerbahadin10 Stripe Like Gradient Shader",
+  "description": "Installed from https://21st.dev/r/meerbahadin10/stripe-like-gradient-shader",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "meerbahadin10-stripe-like-gradient-shader"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "stripe-like-gradient-shader.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "gradflow"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/meerbahadin10/stripe-like-gradient-shader",
+    "fetchedAt": "2026-04-22T06:43:30.152Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

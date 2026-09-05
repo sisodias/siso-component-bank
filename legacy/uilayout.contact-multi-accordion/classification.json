@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "expandable-accordion",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Collapsible FAQ sections for product documentation and support pages",
+    "Organized settings panels with grouped configuration options",
+    "Step-by-step wizards with expandable content sections",
+    "Product detail pages with expandable specifications and features",
+    "Navigation menus with collapsible subcategories"
+  ],
+  "ai_summary": "A flexible multi-accordion component supporting both single and multiple expansion modes with smooth motion animations. Built using React Context for state management and designed as a reusable composite component with AccordionContainer, AccordionWrapper, and Accordion sub-components. The component uses Tailwind CSS for styling and Lucide icons for visual indicators, making it adaptable for various content display scenarios across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T01:54:08.128Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

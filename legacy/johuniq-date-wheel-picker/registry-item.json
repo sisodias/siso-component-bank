@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "johuniq-date-wheel-picker",
+  "type": "registry:ui",
+  "title": "Johuniq Date Wheel Picker",
+  "description": "Installed from https://21st.dev/r/johuniq/date-wheel-picker",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "johuniq-date-wheel-picker"
+  ],
+  "files": [
+    {
+      "path": "date-wheel-picker.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/johuniq/date-wheel-picker",
+    "fetchedAt": "2026-04-22T06:32:02.325Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

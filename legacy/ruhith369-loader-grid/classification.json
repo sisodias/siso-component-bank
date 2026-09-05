@@ -1,0 +1,38 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading-spinner",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "healthcare",
+    "education",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display loading states during data fetching operations",
+    "Indicate processing time for user actions",
+    "Show temporary wait states in interactive interfaces",
+    "Enhance perceived performance during async operations",
+    "Provide visual feedback in form submissions"
+  ],
+  "ai_summary": "A minimal flat loading spinner component with two animated spans arranged in a rotated grid formation. Uses CSS transforms and pseudo-elements to create a continuous rotation effect, commonly used to indicate loading or processing states in web applications.",
+  "_classifiedAt": "2026-04-22T09:11:24.622Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

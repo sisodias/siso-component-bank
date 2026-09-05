@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@extend-hq/components/select",
+  "author": "extend-hq",
+  "slug": "select",
+  "name": "select",
+  "description": "A select menu for choosing a single option from a list, built on Base UI.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/extend-hq/select?api_key=$API_KEY_21ST\"",
+  "id": "extend-hq__select",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/select/default/bundle.1782165164074.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/select/default/preview.1782165164074.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

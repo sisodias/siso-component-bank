@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar-profile",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying user profile images in navigation headers or dashboards",
+    "Showing user avatars in comment sections or discussion threads",
+    "Representing users in contact lists or team member grids",
+    "Adding profile pictures to notification or chat interfaces",
+    "Creating user identity badges in cards or modal overlays"
+  ],
+  "ai_summary": "A minimalist avatar component built on Radix UI primitives for displaying user profile images with automatic fallback support. Exports Avatar, AvatarImage, and AvatarFallback subcomponents with standard Tailwind CSS styling for consistent user identity representation across any interface.",
+  "_classifiedAt": "2026-04-22T09:14:24.862Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

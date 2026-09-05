@@ -1,0 +1,26 @@
+{
+  "id": "theutkarshmail__claude-button",
+  "author": "theutkarshmail",
+  "slug": "claude-button",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theutkarshmail/components/claude-button",
+  "fetchedAt": "2026-08-29T07:36:30.987Z",
+  "completedAt": "2026-08-29T07:36:33.459Z",
+  "versionedFilename": "code.1755205525571.tsx",
+  "codeReference": "r2://components-code-private/theutkarshmail/claude-button/code.1755205525571.tsx",
+  "codeUrl": "https://cdn.21st.dev/theutkarshmail/claude-button/code.1755205525571.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 419,
+  "sha256": "18a921664da33683c6e64df394528a3b6b5933550773ce44a4bce6d30acbe03d",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

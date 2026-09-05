@@ -1,0 +1,33 @@
+{
+  "category": "card",
+  "subcategory": "feature-card",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying product or service features in a grid layout",
+    "Highlighting key benefits with icons and descriptions",
+    "Creating interactive feature sections with hover effects",
+    "Building landing pages with multiple feature showcases",
+    "Providing navigation to detailed feature pages via CTA links"
+  ],
+  "ai_summary": "A reusable, dark-mode-compatible feature card component with hover animations. Displays an icon, title, description, optional badge, and a 'Learn More' call-to-action with arrow animation. Designed for showcasing product features in grid layouts on landing pages and marketing sites, with subtle lift and shadow effects on hover.",
+  "_classifiedAt": "2026-04-23T01:38:39.683Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

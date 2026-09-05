@@ -1,0 +1,40 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Trigger form submissions with styled action buttons",
+    "Navigate between pages with link-styled buttons",
+    "Create primary and secondary action buttons for UI components",
+    "Handle destructive actions with variant styling",
+    "Build accessible button groups with keyboard navigation support"
+  ],
+  "ai_summary": "A reusable Button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon) using Radix UI Slot for composition. Built with class-variance-authority for type-safe variant handling and Tailwind CSS for styling. Supports disabled states, focus rings, and asChild prop for polymorphism.",
+  "_classifiedAt": "2026-04-23T01:48:04.017Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

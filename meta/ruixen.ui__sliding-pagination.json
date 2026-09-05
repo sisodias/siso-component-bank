@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/sliding-pagination",
+  "author": "ruixen.ui",
+  "slug": "sliding-pagination",
+  "name": "sliding-pagination",
+  "description": "This Sliding Pagination component provides a modern, interactive way to navigate through large sets of pages. Instead of instantly switching between page numbers, it features a smooth, spring-animated sliding underline that moves fluidly to the currently active page, giving a responsive and natural feel. For datasets with hundreds of pages, it automatically condenses the pagination using ellipsis/dots in the middle, ensuring the layout remains compact while still showing nearby pages for context. Built with Shadcn UI and Framer Motion, it is fully responsive, works seamlessly with both dark and light themes, and allows users to quickly and visually understand their current position in a multi-page interface. The component is also highly customizable, making it ideal for dashboards, blogs, or any application that requires elegant pagination.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/sliding-pagination?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__sliding-pagination",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/sliding-pagination/default/bundle.1758381352192.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/sliding-pagination/default/preview.1758381352192.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 16,
+  "demo_id": 7852,
+  "video_url": "https://cdn.21st.dev/ruixen.ui/sliding-pagination/default/video.1758381352192.mp4"
+}

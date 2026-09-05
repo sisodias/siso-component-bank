@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Submit forms and trigger actions in web applications",
+    "Navigate between pages or sections within an interface",
+    "Trigger modal dialogs, popovers, or other overlay components",
+    "Toggle states or switch between options in settings",
+    "Handle user interactions in payment and checkout flows"
+  ],
+  "ai_summary": "A reusable Button component built with Radix UI and styled with Tailwind CSS using class-variance-authority for variant management. Supports multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes. Includes accessibility features like focus-visible rings and disabled states. Serves as a fundamental UI building block for any web application interface.",
+  "_classifiedAt": "2026-04-23T17:19:09.923Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

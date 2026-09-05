@@ -1,0 +1,26 @@
+{
+  "id": "sean0205__accordion",
+  "author": "sean0205",
+  "slug": "accordion",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sean0205/components/accordion",
+  "fetchedAt": "2026-08-29T06:56:17.669Z",
+  "completedAt": "2026-08-29T06:56:19.566Z",
+  "versionedFilename": "code.1748022485133.tsx",
+  "codeReference": "r2://components-code-private/sean0205/accordion/code.1748022485133.tsx",
+  "codeUrl": "https://cdn.21st.dev/sean0205/accordion/code.1748022485133.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4713,
+  "sha256": "488baa72e6cb008e6988ea58fa36f620c7336fb79ee7eb5877982940bec58585",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

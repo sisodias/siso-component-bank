@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "moumensoliman-elastic-switch-shadcnui",
+  "type": "registry:ui",
+  "title": "Moumensoliman Elastic Switch Shadcnui",
+  "description": "Installed from https://21st.dev/r/moumensoliman/elastic-switch-shadcnui",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "moumensoliman-elastic-switch-shadcnui"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "elastic-switch-shadcnui.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/moumensoliman/elastic-switch-shadcnui",
+    "fetchedAt": "2026-04-22T06:32:00.653Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

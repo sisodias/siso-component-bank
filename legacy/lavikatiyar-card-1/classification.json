@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "review-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display customer testimonials with star ratings on landing pages",
+    "Showcase product reviews in e-commerce product listings",
+    "Present social proof and user feedback in SaaS marketing sections",
+    "Highlight ratings in review and testimonial sections"
+  ],
+  "ai_summary": "A review card component displaying user testimonials with avatar, name, handle, star rating, and review text. Built with shadcn/ui styling conventions and includes framer-motion entrance animation on mount. Uses semantic HTML with ARIA attributes for accessibility. Designed for showcasing customer feedback and social proof across landing pages, product listings, and marketing sections.",
+  "_classifiedAt": "2026-04-23T01:42:27.548Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

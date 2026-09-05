@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "sumonadotwork-blog-cards",
+  "type": "registry:ui",
+  "title": "Sumonadotwork Blog Cards",
+  "description": "Installed from https://21st.dev/r/sumonadotwork/blog-cards",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "sumonadotwork-blog-cards"
+  ],
+  "files": [
+    {
+      "path": "blog-cards.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/sumonadotwork/blog-cards",
+    "fetchedAt": "2026-04-22T06:43:34.133Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

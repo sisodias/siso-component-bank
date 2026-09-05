@@ -1,0 +1,26 @@
+{
+  "id": "sean0205__avatar",
+  "author": "sean0205",
+  "slug": "avatar",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sean0205/components/avatar",
+  "fetchedAt": "2026-08-29T06:56:33.185Z",
+  "completedAt": "2026-08-29T06:56:35.205Z",
+  "versionedFilename": "code.1751453755594.tsx",
+  "codeReference": "r2://components-code-private/sean0205/avatar/code.1751453755594.tsx",
+  "codeUrl": "https://cdn.21st.dev/sean0205/avatar/code.1751453755594.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2105,
+  "sha256": "907bc5cf691d4411b6bf41461dc9b8d27d2ccaf66965742714c6ce528caa3583",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

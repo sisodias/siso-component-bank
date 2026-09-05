@@ -1,0 +1,29 @@
+{
+  "category": "data-display",
+  "subcategory": "status-indicator",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying status labels on dashboard cards and metrics",
+    "Showing category or tag badges on content items",
+    "Indicating notification counts or alert indicators",
+    "Marking feature availability or beta status",
+    "Showing validation states on form elements"
+  ],
+  "ai_summary": "A lightweight badge/pill component with variant support (default, secondary, destructive, outline) for displaying status labels, tags, and counts. Built with class-variance-authority for type-safe variant props and integrates seamlessly with dashboard interfaces and SaaS products for conveying categorical or status information.",
+  "_classifiedAt": "2026-04-23T01:35:31.167Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

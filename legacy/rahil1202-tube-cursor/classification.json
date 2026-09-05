@@ -1,0 +1,33 @@
+{
+  "category": "media",
+  "subcategory": "WebGL WebGPU animated tubes cursor effect",
+  "visual_style": [
+    "3d",
+    "colorful",
+    "gradient"
+  ],
+  "interactions": [
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "media",
+    "creator-tools",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero section with interactive 3D cursor animation",
+    "Creative portfolio showcase with colorful WebGL tube effects",
+    "Entertainment platform background with dynamic light tubes",
+    "Interactive agency website with cursor-following visual effects",
+    "Dev tools or SaaS landing page with modern 3D decoration"
+  ],
+  "ai_summary": "A WebGL/WebGPU-powered animated tube cursor effect that renders colorful 3D tubes following the mouse cursor with dynamic lighting. Features click-to-randomize color functionality and customizable tube and light colors through props. Built on threejs-components library for smooth GPU-accelerated rendering.",
+  "_classifiedAt": "2026-04-23T01:45:57.653Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

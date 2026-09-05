@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "chat-messaging",
+  "visual_style": [
+    "minimalist",
+    "mono"
+  ],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Team messaging interfaces for collaborative workspaces",
+    "Chat applications displaying threaded conversations",
+    "Real-time messaging UIs with reaction capabilities",
+    "Communication dashboards in project management tools",
+    "Social platforms with message status indicators"
+  ],
+  "ai_summary": "A minimalist monochrome chat card component featuring sender filtering, emoji reactions, and message status indicators (sent, delivered, read). Designed for team communication interfaces with avatar display and timestamp tracking. Implements interactive sender selection and supports multi-message conversation threads.",
+  "_classifiedAt": "2026-04-23T17:20:32.496Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

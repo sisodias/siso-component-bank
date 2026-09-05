@@ -1,0 +1,55 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "meschacirung-hero-section-1",
+  "type": "registry:ui",
+  "title": "Meschacirung Hero Section 1",
+  "description": "Installed from https://21st.dev/r/meschacirung/hero-section-1",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "meschacirung-hero-section-1"
+  ],
+  "files": [
+    {
+      "path": "animated-group.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "hero-section-1.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "text-effect.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "framer-motion",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/meschacirung/hero-section-1",
+    "fetchedAt": "2026-04-23T03:05:00.655Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

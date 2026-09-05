@@ -1,0 +1,42 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "button-atom",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Clickable button for form submissions and actions",
+    "Primary call-to-action buttons with variant styles",
+    "Icon-only buttons for compact UI interfaces",
+    "Ghost buttons for secondary navigation actions",
+    "Destructive action buttons for delete or remove operations"
+  ],
+  "ai_summary": "A reusable Button component with Radix UI Slot integration and CVA-powered variants for different visual styles (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Features standard accessibility focus states and disabled states, making it suitable as a foundational UI building block across any industry or platform.",
+  "_classifiedAt": "2026-04-23T01:45:06.532Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

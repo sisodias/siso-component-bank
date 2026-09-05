@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "card-primitive-system",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying product or service feature highlights in a structured card layout",
+    "Creating reusable card containers for dashboard or listing pages",
+    "Building feature sections on landing pages and marketing sites",
+    "Organizing content with headers, descriptions, and footers in a consistent UI pattern"
+  ],
+  "ai_summary": "A reusable card component system providing Card, CardHeader, CardTitle, CardDescription, CardContent, and CardFooter primitives. These atomic components use forward refs and Tailwind CSS for styling, featuring minimal visual design with subtle shadows and rounded corners. Designed for building feature sections, content grids, and structured information displays on landing pages and web applications.",
+  "_classifiedAt": "2026-04-23T16:56:05.166Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

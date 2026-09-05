@@ -1,0 +1,26 @@
+{
+  "category": "card",
+  "subcategory": "feature-challenge-card",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying challenge or feature highlights with title, description, and call-to-action",
+    "Creating attention-grabbing feature showcases with hover animations",
+    "Building interactive landing page sections with animated CTAs"
+  ],
+  "ai_summary": "A customizable challenge or feature card component with hover animations using Framer Motion. Features a solid background color, title, description, and animated arrow button. The card scales up slightly and gains a stronger shadow on hover, with the arrow icon sliding right. Fully customizable via props for title, description, button text, background color, and additional CSS classes.",
+  "_classifiedAt": "2026-04-23T01:42:40.432Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

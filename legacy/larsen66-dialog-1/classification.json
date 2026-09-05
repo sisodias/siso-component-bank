@@ -1,0 +1,34 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "dialog-modal",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying confirmation prompts for user actions like delete or submit operations",
+    "Showing forms for user input such as login, signup, or settings panels",
+    "Revealing additional content or details without navigating away from the current page",
+    "Presenting alerts, warnings, or informational messages in an accessible modal overlay"
+  ],
+  "ai_summary": "A lightweight dialog component built on Radix UI primitives with accessible focus management and keyboard navigation support. Uses Tailwind CSS with CVA for consistent button variants and includes common action icons. Supports dark mode and follows minimal shadcn/ui-inspired styling patterns for clean, functional modal implementations.",
+  "_classifiedAt": "2026-04-23T16:50:08.510Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

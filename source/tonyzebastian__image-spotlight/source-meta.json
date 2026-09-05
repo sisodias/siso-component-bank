@@ -1,0 +1,26 @@
+{
+  "id": "tonyzebastian__image-spotlight",
+  "author": "tonyzebastian",
+  "slug": "image-spotlight",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@tonyzebastian/components/image-spotlight",
+  "fetchedAt": "2026-08-29T07:39:54.219Z",
+  "completedAt": "2026-08-29T07:39:56.471Z",
+  "versionedFilename": "code.1758781906511.tsx",
+  "codeReference": "r2://components-code-private/tonyzebastian/image-spotlight/code.1758781906511.tsx",
+  "codeUrl": "https://cdn.21st.dev/tonyzebastian/image-spotlight/code.1758781906511.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5824,
+  "sha256": "75f33ba65dfd947a80ba791885b5266e4e45e9a9fe712732a2125171a9aaf08b",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

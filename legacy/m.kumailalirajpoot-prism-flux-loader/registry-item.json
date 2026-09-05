@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "m.kumailalirajpoot-prism-flux-loader",
+  "type": "registry:ui",
+  "title": "M.Kumailalirajpoot Prism Flux Loader",
+  "description": "Installed from https://21st.dev/r/m.kumailalirajpoot/prism-flux-loader",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "m.kumailalirajpoot-prism-flux-loader"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "prism-flux-loader.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/m.kumailalirajpoot/prism-flux-loader",
+    "fetchedAt": "2026-04-22T06:32:20.318Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

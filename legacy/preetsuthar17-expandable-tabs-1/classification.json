@@ -1,0 +1,33 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "expandable tabs switcher",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "media",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Dashboard navigation with collapsible tab states for space efficiency",
+    "Category filtering in content platforms with animated tab expansion",
+    "Section switching in web applications with smooth transitions",
+    "Compact-to-expanded navigation menus in mobile-first interfaces",
+    "Tab-based interface for organizing content with interactive feedback"
+  ],
+  "ai_summary": "An expandable tabs navigation component featuring smooth spring-based animations that collapse inactive tabs to icon-only states while expanding the active tab to reveal its label. Built with Framer Motion for fluid layout transitions and supports custom icons, colors, and labels. The component provides an elegant way to save screen space while maintaining quick access to navigation items.",
+  "_classifiedAt": "2026-04-23T17:07:47.316Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

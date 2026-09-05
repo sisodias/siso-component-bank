@@ -1,0 +1,28 @@
+{
+  "category": "input",
+  "subcategory": "model-selector, dropdown-select, ai-model-picker",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "ai-ml"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting an AI language model from a dropdown in chat or generation interfaces",
+    "Switching between different LLM providers in AI tooling applications",
+    "Configuring model preferences in developer-facing SaaS dashboards",
+    "Choosing backend AI models for text or code generation workflows",
+    "Enabling users to pick disabled or available models with visual feedback"
+  ],
+  "ai_summary": "A composite dropdown selector component built on Radix UI for choosing AI language models. Renders a list of predefined models (DeepSeek, Llama, GPT variants) with inline SVG icons per provider, supports disabled states for individual models, and exposes standard select props for form integration. Uses flat Tailwind styling suitable for developer tools and SaaS dashboards.",
+  "_classifiedAt": "2026-04-23T11:30:11.640Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,27 @@
+{
+  "category": "data-display",
+  "subcategory": "avatar",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display user profile pictures in navigation headers or settings menus",
+    "Show user avatars in comment sections or discussion threads",
+    "Display team member avatars in organizational charts or dashboards",
+    "Show user status indicators in messaging or collaboration tools",
+    "Render placeholder avatars with initials for users without profile images"
+  ],
+  "ai_summary": "A composite Avatar component system built with Radix UI primitives and class-variance-authority. Supports multiple sub-components including Avatar, AvatarImage, AvatarFallback, AvatarIndicator, and AvatarStatus with variants for online/offline/busy/away states. Designed for displaying user identity information in various contexts with proper accessibility and fallback handling.",
+  "_classifiedAt": "2026-04-23T17:23:14.706Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

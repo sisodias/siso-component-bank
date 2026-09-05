@@ -1,0 +1,27 @@
+{
+  "category": "form",
+  "subcategory": "date-picker-scheduler",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Scheduling delivery appointments at specific dates and times",
+    "Allowing customers to select preferred delivery time windows",
+    "Enabling service booking with timezone-aware scheduling",
+    "Collecting date and time selections for order fulfillment",
+    "Providing an intuitive calendar interface for appointment scheduling"
+  ],
+  "ai_summary": "A delivery scheduling component featuring a weekly calendar view with day navigation and selectable time slots. Built with Framer Motion for smooth animations, it allows users to browse week days and choose available time windows for delivery or service appointments. Supports timezone configuration and triggers a callback with selected date and time on confirmation.",
+  "_classifiedAt": "2026-04-22T09:09:14.585Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

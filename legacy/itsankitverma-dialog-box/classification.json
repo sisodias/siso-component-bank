@@ -1,0 +1,34 @@
+{
+  "category": [
+    "overlay",
+    "form"
+  ],
+  "subcategory": "profile-edit-modal",
+  "visual_style": [
+    "glass-morphism",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Opening modal dialogs for user profile editing in web applications",
+    "Creating form-based overlays with backdrop blur for settings management",
+    "Displaying interactive forms within a focused modal container",
+    "Implementing account settings interfaces in SaaS platforms"
+  ],
+  "ai_summary": "A React modal dialog component with backdrop blur effect for editing user profiles. Features a trigger button, centered overlay with form inputs for name and username, close functionality, and smooth fade-in animation. Clean minimalist design with shadow depth and accessible keyboard navigation support.",
+  "_classifiedAt": "2026-04-23T16:45:26.828Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

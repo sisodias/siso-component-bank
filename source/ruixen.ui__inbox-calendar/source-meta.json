@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__inbox-calendar",
+  "author": "ruixen.ui",
+  "slug": "inbox-calendar",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/inbox-calendar",
+  "fetchedAt": "2026-08-29T06:44:05.093Z",
+  "completedAt": "2026-08-29T06:44:07.807Z",
+  "versionedFilename": "code.1758803128238.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/inbox-calendar/code.1758803128238.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/inbox-calendar/code.1758803128238.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6378,
+  "sha256": "8bd9a3f864c2db7a48bf195ba99fd673c27e2b4f252165b423f01d9945d9ccbd",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

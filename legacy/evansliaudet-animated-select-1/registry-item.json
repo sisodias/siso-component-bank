@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "evansliaudet-animated-select-1",
+  "type": "registry:ui",
+  "title": "Evansliaudet Animated Select 1",
+  "description": "Installed from https://21st.dev/r/evansliaudet/animated-select-1",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "evansliaudet-animated-select-1"
+  ],
+  "files": [
+    {
+      "path": "animated-select-1.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@phosphor-icons/react",
+    "motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/evansliaudet/animated-select-1",
+    "fetchedAt": "2026-04-23T03:04:57.389Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

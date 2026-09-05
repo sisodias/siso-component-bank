@@ -1,0 +1,34 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "header-search-bar",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Search functionality within header navigation components",
+    "Primary navigation element for SaaS and web applications",
+    "Site-wide content discovery and filtering"
+  ],
+  "ai_summary": "A header search bar component with clean, minimalist styling using Tailwind CSS conventions. Features keyboard navigation support via focus-visible states and integrates seamlessly into navigation systems. Supports standard Tailwind theming patterns and follows atomic design principles for composability.",
+  "_classifiedAt": "2026-04-22T08:56:28.762Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

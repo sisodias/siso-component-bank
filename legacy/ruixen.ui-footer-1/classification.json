@@ -1,0 +1,38 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "action-button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Triggering form submissions in web applications",
+    "Navigating between pages or sections",
+    "Executing destructive actions like delete or cancel",
+    "Opening links or interactive overlays",
+    "Toggling UI states in dashboards and interfaces"
+  ],
+  "ai_summary": "A reusable Button component using class-variance-authority (CVA) for flexible variant and size configurations. Features 6 variants (default, destructive, outline, secondary, ghost, link) and 4 sizes (default, sm, lg, icon), with Radix UI Slot for composition patterns. Styled with subtle shadows and rounded corners for a modern, accessible interface. Supports disabled states, focus visibility, and SVG shrinking for icon buttons.",
+  "_classifiedAt": "2026-04-22T09:12:26.076Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

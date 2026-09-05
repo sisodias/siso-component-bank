@@ -1,0 +1,31 @@
+{
+  "category": "media",
+  "subcategory": "shader-visualization",
+  "visual_style": [
+    "colorful",
+    "gradient",
+    "3d"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Animated WebGL shader background for landing pages",
+    "Creative portfolio visual effects showcase",
+    "Dev tools product page hero animation",
+    "Interactive art installation backgrounds"
+  ],
+  "ai_summary": "A WebGL2 shader component rendering an animated, colorful hive-like 3D visualization using fragment shaders. The shader computes dynamic patterns based on time and screen resolution, creating flowing geometric effects with cos/sin waves and depth-based coloring. Fullscreen canvas with responsive sizing and smooth 60fps animation.",
+  "_classifiedAt": "2026-04-23T01:55:25.477Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

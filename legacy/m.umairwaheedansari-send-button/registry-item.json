@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "m.umairwaheedansari-send-button",
+  "type": "registry:ui",
+  "title": "M.Umairwaheedansari Send Button",
+  "description": "Installed from https://21st.dev/r/m.umairwaheedansari/send-button",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "m.umairwaheedansari-send-button"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "send-button.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "styled-components"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/m.umairwaheedansari/send-button",
+    "fetchedAt": "2026-04-23T02:28:02.966Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

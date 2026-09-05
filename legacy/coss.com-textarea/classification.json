@@ -1,0 +1,35 @@
+{
+  "category": "input",
+  "subcategory": "textarea",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Multi-line text input for forms and user submissions",
+    "Comment and feedback collection interfaces",
+    "Description and bio text entry fields",
+    "Message composition in chat or messaging applications",
+    "Form validation with aria-invalid states and focus indicators"
+  ],
+  "ai_summary": "A flexible textarea component with multiple size variants (sm, default, lg), focus-visible ring effects, aria-invalid state styling, and dark mode support. Features smooth transitions, disabled state handling, and responsive padding that adapts to mobile breakpoints.",
+  "_classifiedAt": "2026-04-22T08:55:00.902Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

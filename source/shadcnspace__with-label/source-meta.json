@@ -1,0 +1,26 @@
+{
+  "id": "shadcnspace__with-label",
+  "author": "shadcnspace",
+  "slug": "with-label",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcnspace/components/with-label",
+  "fetchedAt": "2026-08-29T07:13:17.925Z",
+  "completedAt": "2026-08-29T07:13:20.278Z",
+  "versionedFilename": "code.1772717437048.tsx",
+  "codeReference": "r2://components-code-private/larsen66/with-label/code.1772717437048.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/with-label/code.1772717437048.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 400,
+  "sha256": "9f5f373cf7a39ad51205dffd50908b7f4a0a56ef3f71787933c02e15cd4b7ef6",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

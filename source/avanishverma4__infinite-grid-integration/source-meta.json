@@ -1,0 +1,33 @@
+{
+  "id": "avanishverma4__infinite-grid-integration",
+  "author": "avanishverma4",
+  "slug": "infinite-grid-integration",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@avanishverma4/components/infinite-grid-integration",
+  "fetchedAt": "2026-08-29T03:44:05.100Z",
+  "completedAt": "2026-08-29T03:44:06.928Z",
+  "versionedFilename": "code.1785451733718-42ac888b-554c-4a9f-af07-5ea272a36ef0.tsx",
+  "codeReference": "r2://components-code-private/avanishverma4/infinite-grid-integration/code.1785451733718-42ac888b-554c-4a9f-af07-5ea272a36ef0.tsx",
+  "codeUrl": "https://cdn.21st.dev/avanishverma4/infinite-grid-integration/code.1785451733718-42ac888b-554c-4a9f-af07-5ea272a36ef0.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/avanishverma4__infinite-grid-integration/code.tsx",
+    "bytes": 8463,
+    "sha256": "959ffb759fcc36e153d5a69420c7c540f443cecf63cfe9fcc250dd4defa84d83",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

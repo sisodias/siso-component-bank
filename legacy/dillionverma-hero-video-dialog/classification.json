@@ -1,0 +1,30 @@
+{
+  "category": "overlay",
+  "subcategory": "video-dialog-modal",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero sections showcasing product demo videos with animated dialog overlays",
+    "Portfolio pages displaying video content with smooth entrance animations",
+    "Landing pages with promotional video presentations triggered by user clicks",
+    "Creative portfolios featuring video work with custom animation styles",
+    "Product pages showcasing video demos with elegant modal interactions"
+  ],
+  "ai_summary": "A HeroVideoDialog component that displays video content in an animated modal overlay with 8 different animation styles including fade, scale, slide, and directional transitions. Features a thumbnail preview that opens a full video player dialog on click with smooth framer-motion animations for entrance and exit.",
+  "_classifiedAt": "2026-04-23T16:35:44.512Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,30 @@
+{
+  "category": "overlay",
+  "subcategory": "animated-morphing-popover",
+  "visual_style": [],
+  "interactions": [
+    "morph",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying contextual information or options with smooth spring-based morphing animations",
+    "Creating animated dropdown menus that expand from their trigger element",
+    "Building tooltips with fluid enter/exit transitions using framer-motion",
+    "Implementing click-to-open popovers with automatic close on outside click",
+    "Adding interactive UI overlays with customizable spring physics and variants"
+  ],
+  "ai_summary": "A morphing popover component built with framer-motion that provides smooth spring-based animations when opening and closing. Uses React context for state management, supports both controlled and uncontrolled modes, and includes click-outside detection for automatic dismissal. The component features customizable transitions, variants, and composes multiple motion elements for a polished overlay experience.",
+  "_classifiedAt": "2026-04-23T16:42:50.284Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

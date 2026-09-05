@@ -1,0 +1,26 @@
+{
+  "id": "maxim.bort.devel__fancy-card",
+  "author": "maxim.bort.devel",
+  "slug": "fancy-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@maxim.bort.devel/components/fancy-card",
+  "fetchedAt": "2026-08-29T05:38:40.309Z",
+  "completedAt": "2026-08-29T05:38:42.501Z",
+  "versionedFilename": "code.1750952154851.tsx",
+  "codeReference": "r2://components-code-private/maxim.bort.devel/fancy-card/code.1750952154851.tsx",
+  "codeUrl": "https://cdn.21st.dev/maxim.bort.devel/fancy-card/code.1750952154851.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 19171,
+  "sha256": "ff86e726bbc86c0e28e244015999f4304140f725464159e1dee3820d475e543e",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

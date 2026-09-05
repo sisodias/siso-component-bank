@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "shailendrakumar19999-404-page-not-found",
+  "type": "registry:ui",
+  "title": "Shailendrakumar19999 404 Page Not Found",
+  "description": "Installed from https://21st.dev/r/shailendrakumar19999/404-page-not-found",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "shailendrakumar19999-404-page-not-found"
+  ],
+  "files": [
+    {
+      "path": "404-page-not-found.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "next"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/shailendrakumar19999/404-page-not-found",
+    "fetchedAt": "2026-04-23T03:03:49.555Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

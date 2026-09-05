@@ -1,0 +1,28 @@
+{
+  "category": "data-display",
+  "subcategory": "stacked-bar-chart",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "healthcare",
+    "real-estate",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying temperature data across multiple cities over time periods",
+    "Comparing categorical breakdowns within time-series data",
+    "Visualizing proportional distribution of values across categories",
+    "Creating interactive data dashboards with tooltip details",
+    "Showing trends and patterns in temporal datasets"
+  ],
+  "ai_summary": "A stacked bar chart component built with visx that visualizes temperature data across multiple cities over a 12-month period. Features interactive tooltips revealing detailed values, clean axis labels with date formatting, grid lines for readability, and a color-coded ordinal legend for series identification. Designed for analytics dashboards and data reporting in SaaS applications.",
+  "_classifiedAt": "2026-04-23T11:29:29.505Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

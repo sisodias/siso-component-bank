@@ -1,0 +1,26 @@
+{
+  "id": "sean0205__badge-2",
+  "author": "sean0205",
+  "slug": "badge-2",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sean0205/components/badge-2",
+  "fetchedAt": "2026-08-29T06:56:35.207Z",
+  "completedAt": "2026-08-29T06:56:37.562Z",
+  "versionedFilename": "code.1751392038953.tsx",
+  "codeReference": "r2://components-code-private/sean0205/badge-2/code.1751392038953.tsx",
+  "codeUrl": "https://cdn.21st.dev/sean0205/badge-2/code.1751392038953.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 9139,
+  "sha256": "bd32048dde04df2fccb08deeb13e4b61a7d104ac38534491bea9d96430e4debf",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

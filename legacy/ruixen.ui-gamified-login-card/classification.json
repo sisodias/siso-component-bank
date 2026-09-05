@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-interactive-control",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons in forms and login pages",
+    "Destructive action buttons for delete or remove operations",
+    "Secondary navigation and confirmation buttons",
+    "Ghost-style inline buttons for less prominent actions",
+    "Icon-only buttons for compact toolbar interfaces"
+  ],
+  "ai_summary": "A versatile Radix UI-based Button component with CVA-powered variant system supporting default, destructive, outline, secondary, ghost, and link styles. Features proper accessibility with focus-visible outlines, disabled states, and asChild composition pattern. Includes shadow styling with shadow-black/5 and rounded-lg corners for modern UI aesthetics.",
+  "_classifiedAt": "2026-04-23T01:49:52.032Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

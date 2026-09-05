@@ -1,0 +1,23 @@
+{
+  "category": "hero",
+  "subcategory": "webgl-shader-background",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creating animated hero sections with flowing mesh gradients as landing page backgrounds",
+    "Adding WebGL-powered visual effects to SaaS product pages and marketing sites",
+    "Building immersive hero sections with interactive shader backgrounds for web applications",
+    "Enhancing landing pages with animated gradient effects using SVG glass and gooey filters"
+  ],
+  "ai_summary": "A WebGL-powered hero shader background component using @paper-design/shaders-react with MeshGradient rendering and SVG filters for glass-morphism and gooey visual effects. The component responds to mouse hover state changes while continuously animating the shader background. It wraps content in a 650px minimum height container with overflow handling, designed for use as hero sections on landing pages and marketing sites.",
+  "_classifiedAt": "2026-04-23T16:31:37.603Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

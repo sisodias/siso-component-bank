@@ -1,0 +1,31 @@
+{
+  "category": "input",
+  "subcategory": "searchable-combobox",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav",
+    "click-reveal",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Searchable dropdown selection in forms with typing-to-filter functionality",
+    "E-commerce product filtering by category or attribute",
+    "Address or location selection with type-ahead search",
+    "User or team member selection in collaboration tools",
+    "Tag or label selection with autocomplete support"
+  ],
+  "ai_summary": "A flexible searchable combobox component built on Base UI primitives with integrated input and dropdown functionality. Supports multiple size variants (sm, default, lg) with Tailwind styling, keyboard navigation, and scrollable option lists. Ideal for search-assisted selection patterns in SaaS dashboards, data entry forms, and filtering interfaces.",
+  "_classifiedAt": "2026-04-22T08:54:36.588Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xubohuah__entropy",
+  "author": "xubohuah",
+  "slug": "entropy",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@xubohuah/components/entropy",
+  "fetchedAt": "2026-08-29T07:58:21.646Z",
+  "completedAt": "2026-08-29T07:58:22.968Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/xubohuah__entropy/code.tsx",
+    "bytes": 5628,
+    "sha256": "81422211dd7bde0cc65da136ff048b21516d21ebf6c340d3c4199f6b5c7cb5b6",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-action",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Submitting forms and triggering actions with visual feedback via multiple variants",
+    "Navigating users between pages or sections with link-styled buttons",
+    "Opening modals, dropdowns, or dialogs with consistent button styling",
+    "Enabling destructive actions like delete or cancel with variant prop",
+    "Creating call-to-action buttons in hero sections or cards"
+  ],
+  "ai_summary": "A shadcn/ui-style Button component built with Radix UI Slot and CVA for flexible variant and size options. Supports 6 variants (default, destructive, outline, secondary, ghost, link) and 4 sizes. Features proper accessibility with focus-visible outlines, shadow effects, and disabled states. Designed for general-purpose use across any SaaS, e-commerce, or application interface requiring consistent action triggers.",
+  "_classifiedAt": "2026-04-22T09:00:10.393Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

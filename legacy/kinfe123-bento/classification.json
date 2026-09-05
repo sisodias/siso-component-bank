@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card",
+    "layout"
+  ],
+  "subcategory": "bento-grid",
+  "visual_style": [
+    "dark",
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying multiple feature highlights in an organized grid layout",
+    "Creating dashboard-style overview pages with visual cards",
+    "Showcasing product capabilities with mixed media content",
+    "Building SaaS landing pages with tiered information blocks"
+  ],
+  "ai_summary": "A dark-themed bento grid component featuring a 6-column responsive layout with animated cards using framer-motion. Each card displays an eyebrow label, title, description, and background graphic. The component uses gradient text effects, monospace typography, and supports both light and dark modes. Ideal for SaaS dashboards or feature showcase pages requiring organized visual content hierarchy.",
+  "_classifiedAt": "2026-04-23T01:42:05.277Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "antdesign__dropdown",
+  "author": "antdesign",
+  "slug": "dropdown",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@antdesign/components/dropdown",
+  "fetchedAt": "2026-08-29T03:34:43.774Z",
+  "completedAt": "2026-08-29T03:34:48.231Z",
+  "versionedFilename": "code.1758091135039.tsx",
+  "codeReference": "r2://components-code-private/larsen66/dropdown/code.1758091135039.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/dropdown/code.1758091135039.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1076,
+  "sha256": "572ea415be310e3a17bce75b977d1c9bdf5849389b2d12f38f50d9a96832b695",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

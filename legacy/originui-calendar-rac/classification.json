@@ -1,0 +1,38 @@
+{
+  "category": [
+    "data-display",
+    "input",
+    "form"
+  ],
+  "subcategory": "calendar-date-picker",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "healthcare",
+    "e-commerce",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Date selection for booking appointments in healthcare or service applications",
+    "Range selection for hotel booking, flight search, or event planning tools",
+    "Date input in forms for e-commerce checkout or registration flows",
+    "Schedule visualization for calendar or project management applications",
+    "Time range filtering for analytics dashboards or reporting tools"
+  ],
+  "ai_summary": "A React Aria-based calendar component with full ARIA accessibility support. Features month navigation, range selection capability, keyboard navigation, and focus management. Built with composable sub-components (CalendarGrid, CalendarCell, CalendarHeader) for flexible date picking in forms, booking systems, and scheduling interfaces.",
+  "_classifiedAt": "2026-04-23T17:04:05.072Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

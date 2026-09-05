@@ -1,0 +1,26 @@
+{
+  "id": "sean0205__checkbox",
+  "author": "sean0205",
+  "slug": "checkbox",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sean0205/components/checkbox",
+  "fetchedAt": "2026-08-29T06:57:17.352Z",
+  "completedAt": "2026-08-29T06:57:19.542Z",
+  "versionedFilename": "code.1748269991747.tsx",
+  "codeReference": "r2://components-code-private/serafimcloud/checkbox/code.1748269991747.tsx",
+  "codeUrl": "https://cdn.21st.dev/serafimcloud/checkbox/code.1748269991747.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2173,
+  "sha256": "7b7054e776ed16d9972982fdf0a10ef23308029ab827e0d32baed99217dd3527",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

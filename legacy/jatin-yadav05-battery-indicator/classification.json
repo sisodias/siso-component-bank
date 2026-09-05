@@ -1,0 +1,24 @@
+{
+  "category": "data-display",
+  "subcategory": "battery-indicator",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying battery charge level in mobile apps or device dashboards",
+    "Showing charging status with animated lightning bolt indicator",
+    "Indicating low battery warnings with color-coded visual alerts",
+    "Power status monitoring in system utilities and IoT dashboards",
+    "Device health visualization in control panels and status monitors"
+  ],
+  "ai_summary": "A customizable SVG battery indicator component with multiple visual themes (default, minimal, neon, glass) and dynamic color schemes that automatically adjust based on battery level. Features built-in animations for charging states and low battery warnings, supporting percentage display and lightning bolt icons. Optimized as a reusable atomic component for cross-platform use in dashboards, mobile apps, and system monitoring interfaces.",
+  "_classifiedAt": "2026-04-23T16:46:08.530Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

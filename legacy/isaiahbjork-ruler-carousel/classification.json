@@ -1,0 +1,26 @@
+{
+  "category": "media",
+  "subcategory": "ruler-carousel",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying product carousels in e-commerce storefronts",
+    "Creating infinite scrolling image galleries with ruler navigation",
+    "Building portfolio showcases with timeline-style navigation",
+    "Implementing measurement-themed media browsers",
+    "Adding visual progress indicators to content carousels"
+  ],
+  "ai_summary": "An interactive carousel component featuring a visual ruler with tick marks for navigation positioning. Uses Framer Motion for smooth transitions and implements infinite scrolling by triplicating item arrays. Includes center and fifth-mark highlighting on the ruler with different heights and colors. Supports click-based navigation with Rewind and FastForward controls.",
+  "_classifiedAt": "2026-04-23T16:44:46.545Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

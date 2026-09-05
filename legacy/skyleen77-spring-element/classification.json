@@ -1,0 +1,41 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display user profile pictures in navigation headers or settings pages",
+    "Show author or commenter avatars in blog posts and discussion threads",
+    "Render team member photos in organizational charts or employee directories",
+    "Display user avatars in chat interfaces and messaging applications",
+    "Show product review or testimonial author profile images"
+  ],
+  "ai_summary": "A lightweight avatar component built on Radix UI that displays user profile images with automatic fallback to initials or placeholder text when images are unavailable. Features circular styling with proper aspect ratio handling and responsive sizing through Tailwind CSS utility classes. This is a foundational UI element commonly used across web applications for user identification and personalization.",
+  "_classifiedAt": "2026-04-23T17:32:41.558Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

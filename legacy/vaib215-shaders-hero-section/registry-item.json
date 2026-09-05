@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "vaib215-shaders-hero-section",
+  "type": "registry:ui",
+  "title": "Vaib215 Shaders Hero Section",
+  "description": "Installed from https://21st.dev/r/vaib215/shaders-hero-section",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "vaib215-shaders-hero-section"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "shaders-hero-section.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@paper-design/shaders-react",
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/vaib215/shaders-hero-section",
+    "fetchedAt": "2026-04-22T06:43:41.376Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

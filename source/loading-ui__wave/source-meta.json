@@ -1,0 +1,26 @@
+{
+  "id": "loading-ui__wave",
+  "author": "loading-ui",
+  "slug": "wave",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@loading-ui/components/wave",
+  "fetchedAt": "2026-08-29T05:29:51.419Z",
+  "completedAt": "2026-08-29T05:29:53.792Z",
+  "versionedFilename": "code.1783512302817.tsx",
+  "codeReference": "r2://components-code-private/loading-ui/wave/code.1783512302817.tsx",
+  "codeUrl": "https://cdn.21st.dev/loading-ui/wave/code.1783512302817.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1138,
+  "sha256": "2506d135c2bac141885e361bd843c4203d26692d94fbcb8cd1f77d994ea5806c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

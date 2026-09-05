@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "badge",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying status labels or tags on products and content",
+    "Showing categorization and metadata in card or list views",
+    "Indicating notification counts or alert states in UI",
+    "Providing visual hierarchy with variant-based emphasis",
+    "Supporting accessibility with proper focus ring states"
+  ],
+  "ai_summary": "A lightweight badge component with four variants (default, secondary, destructive, outline) for displaying status indicators, tags, and metadata in UI applications. Built with class-variance-authority for type-safe variant handling and includes standard focus ring accessibility features. Commonly used in data tables, cards, and navigation systems to convey categorical information.",
+  "_classifiedAt": "2026-04-23T16:28:21.488Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

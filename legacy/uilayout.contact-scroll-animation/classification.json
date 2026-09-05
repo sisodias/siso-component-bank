@@ -1,0 +1,32 @@
+{
+  "category": [
+    "layout"
+  ],
+  "subcategory": "scroll-animation-wrapper",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Animating content sections as they scroll into the viewport with blur and opacity transitions",
+    "Creating staggered entrance animations for lists or grids of items",
+    "Adding subtle motion effects to landing page sections",
+    "Enhancing user engagement through scroll-triggered visual feedback",
+    "Wrapping any React children to apply automatic scroll-based visibility animations"
+  ],
+  "ai_summary": "A reusable scroll animation wrapper component built with Framer Motion that applies blur and opacity transitions when elements enter the viewport. Supports configurable animation direction (up, down, left, right), delay timing, and viewport detection settings. Acts as a higher-order component to add scroll-triggered motion to any React children without manual animation setup.",
+  "_classifiedAt": "2026-04-23T17:38:29.990Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

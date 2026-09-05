@@ -1,0 +1,28 @@
+{
+  "category": "data-display",
+  "subcategory": "code-diff-terminal-viewer",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate",
+    "morph"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display AI agent code changes in a terminal-style interface",
+    "Show code diffs during code review workflows in developer tools",
+    "Present code modifications with syntax highlighting for additions/deletions",
+    "Guide users through code changes in AI-powered IDE interfaces",
+    "Demonstrate code editing capabilities in SaaS developer platforms"
+  ],
+  "ai_summary": "A terminal-style animated code diff viewer component that displays AI agent code changes with syntax highlighting for additions and deletions. Features bullet points with descriptions alongside animated diff blocks, designed for developer tools and code review interfaces.",
+  "_classifiedAt": "2026-04-23T17:00:15.599Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

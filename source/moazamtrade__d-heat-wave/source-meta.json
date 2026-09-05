@@ -1,0 +1,26 @@
+{
+  "id": "moazamtrade__d-heat-wave",
+  "author": "moazamtrade",
+  "slug": "d-heat-wave",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@moazamtrade/components/d-heat-wave",
+  "fetchedAt": "2026-08-29T05:47:01.776Z",
+  "completedAt": "2026-08-29T05:47:06.368Z",
+  "versionedFilename": "code.1757499345743.tsx",
+  "codeReference": "r2://components-code-private/moazamtrade/d-heat-wave/code.1757499345743.tsx",
+  "codeUrl": "https://cdn.21st.dev/moazamtrade/d-heat-wave/code.1757499345743.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 649,
+  "sha256": "23052b04adeda23af5d3ace33c6108da57d888d3ca38cf838c768a5f71e4a59f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "axorax__testimonials-1",
+  "author": "axorax",
+  "slug": "testimonials-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@axorax/components/testimonials-1",
+  "fetchedAt": "2026-08-29T03:46:27.196Z",
+  "completedAt": "2026-08-29T03:46:29.324Z",
+  "versionedFilename": "code.1746090771457.tsx",
+  "codeReference": "r2://components-code-private/user_2uf173JMsKfToyeH45lFSoeojRd/testimonials-1/code.1746090771457.tsx",
+  "codeUrl": "https://cdn.21st.dev/user_2uf173JMsKfToyeH45lFSoeojRd/testimonials-1/code.1746090771457.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3102,
+  "sha256": "b46c4f1113ca84f5e56f0f871e9aa11c8409b047c5a54174029d4f8282742ef3",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

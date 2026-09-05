@@ -1,0 +1,29 @@
+{
+  "category": "layout",
+  "subcategory": "masonry-grid with 3D tilt hover effect",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying image galleries with interactive 3D perspective rotation on hover",
+    "Creating masonry-style product grids with staggered scroll animations",
+    "Building portfolio showcases with spring-based mouse tracking effects",
+    "Implementing content grids with preserved 3D transforms and smooth damping"
+  ],
+  "ai_summary": "A generic masonry grid layout component with advanced 3D hover effects using Framer Motion. Items respond to mouse movement with spring-based rotation along X and Y axes, creating an interactive perspective tilt effect. Supports staggered entrance animations via scroll-in-view detection and customizable gap spacing.",
+  "_classifiedAt": "2026-04-23T01:47:33.703Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

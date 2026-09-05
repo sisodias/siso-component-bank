@@ -1,0 +1,33 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "3D robot visualization",
+  "visual_style": [
+    "3d",
+    "dark"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display interactive 3D robot avatars on landing pages or product showcases",
+    "Create engaging hero sections with 3D animated characters for SaaS websites",
+    "Build immersive product demonstrations for robotics or AI-related platforms",
+    "Enhance portfolio or demo pages with interactive 3D elements",
+    "Provide branded 3D mascots or characters for developer tooling interfaces"
+  ],
+  "ai_summary": "An interactive 3D robot component powered by Spline.js that renders customizable 3D scenes with automatic loading states. The component wraps the Spline renderer with React Suspense for lazy loading, displaying a spinner during scene initialization. Ideal for creating engaging 3D hero sections, interactive product showcases, or branded mascot animations on web applications.",
+  "_classifiedAt": "2026-04-23T11:29:02.021Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "xordev__neutrino",
+  "author": "xordev",
+  "slug": "neutrino",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@xordev/components/neutrino",
+  "fetchedAt": "2026-08-29T07:57:54.457Z",
+  "completedAt": "2026-08-29T07:57:57.950Z",
+  "versionedFilename": "code.1756888586662.tsx",
+  "codeReference": "r2://components-code-private/larsen66/neutrino/code.1756888586662.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/neutrino/code.1756888586662.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 8165,
+  "sha256": "293b6daad10fef4c0b493da85dd954b3e4c1b81453e11e9ba46dfae9d19e30c8",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

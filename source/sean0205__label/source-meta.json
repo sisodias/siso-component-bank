@@ -1,0 +1,26 @@
+{
+  "id": "sean0205__label",
+  "author": "sean0205",
+  "slug": "label",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sean0205/components/label",
+  "fetchedAt": "2026-08-29T06:57:57.338Z",
+  "completedAt": "2026-08-29T06:57:59.493Z",
+  "versionedFilename": "code.1753165713293.tsx",
+  "codeReference": "r2://components-code-private/sean0205/label/code.1753165713293.tsx",
+  "codeUrl": "https://cdn.21st.dev/sean0205/label/code.1753165713293.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 793,
+  "sha256": "8a115b38ae67b4322aadf99661990b8c8e1b55c3464e642693f12649548a1b13",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,32 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "icon-dock-bar",
+  "visual_style": [
+    "minimalist",
+    "glass-morphism"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Primary navigation bar for web applications with expandable icon menus",
+    "Quick access toolbar for frequently used features and actions",
+    "Dashboard navigation with dynamic scaling dock icons",
+    "Floating icon bar for mobile-first applications",
+    "Persistent navigation for single-page applications with smooth animations"
+  ],
+  "ai_summary": "A macOS-style animated dock navigation component that dynamically magnifies icons based on mouse proximity. Uses spring-based animations via Framer Motion for smooth, physics-based scaling effects. Features semi-transparent glass styling with rounded corners and subtle shadows, providing an elegant, modern navigation experience for desktop and mobile applications.",
+  "_classifiedAt": "2026-04-23T17:06:38.197Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

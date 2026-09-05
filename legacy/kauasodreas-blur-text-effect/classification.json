@@ -1,0 +1,27 @@
+{
+  "category": "media",
+  "subcategory": "text-blur-reveal-animation",
+  "visual_style": [],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Hero section text reveal animations on page load",
+    "Landing page headline effects for visual engagement",
+    "Feature or benefit text animations to draw attention",
+    "Call-to-action text styling with smooth transitions",
+    "Portfolio or creative website text effects"
+  ],
+  "ai_summary": "A lightweight text blur reveal animation component built with GSAP that splits text into individual characters and animates them from a blurred, semi-transparent state to clear text. The effect features staggered timing with smooth ease-out transitions, making it ideal for hero sections, landing pages, and anywhere compelling text entrance animations are needed.",
+  "_classifiedAt": "2026-04-23T16:48:40.916Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

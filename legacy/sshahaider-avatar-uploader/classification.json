@@ -1,0 +1,31 @@
+{
+  "category": "input",
+  "subcategory": "file-upload-avatar",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "drag"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "social-media",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "User profile picture upload with automatic cropping to standard aspect ratio",
+    "Onboarding flows requiring avatar selection with preview before submission",
+    "Settings pages where users update their profile images with real-time cropping",
+    "Social platforms requiring consistent avatar dimensions across all users",
+    "Admin dashboards allowing profile photo uploads for team members or customers"
+  ],
+  "ai_summary": "A reusable avatar uploader component featuring an integrated image cropper within a modal interface. Users select an image file, then adjust zoom and drag to reposition the crop area before uploading. Supports configurable aspect ratios, file size limits, and accepted image types (JPG, PNG, WebP). Calls an async onUpload callback with the cropped file for integration with backend storage or APIs. Ideal for user profile management in web applications.",
+  "_classifiedAt": "2026-04-23T01:53:10.916Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "designali-in__pixel-animation",
+  "author": "designali-in",
+  "slug": "pixel-animation",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/pixel-animation",
+  "fetchedAt": "2026-08-29T04:20:34.998Z",
+  "completedAt": "2026-08-29T04:20:36.865Z",
+  "versionedFilename": "code.1785364259686-c8f03092-b431-4562-a334-c642dce5ae2d.tsx",
+  "codeReference": "r2://components-code-private/designali-in/pixel-animation/code.1785364259686-c8f03092-b431-4562-a334-c642dce5ae2d.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/pixel-animation/code.1785364259686-c8f03092-b431-4562-a334-c642dce5ae2d.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/designali-in__pixel-animation/code.tsx",
+    "bytes": 7526,
+    "sha256": "26053d8e22e4254c63bcd8f6580257fd70a84d3e277c85353765f8ef38ee87a8",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

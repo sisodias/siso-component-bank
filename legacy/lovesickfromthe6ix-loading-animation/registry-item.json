@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "lovesickfromthe6ix-loading-animation",
+  "type": "registry:ui",
+  "title": "Lovesickfromthe6ix Loading Animation",
+  "description": "Installed from https://21st.dev/r/lovesickfromthe6ix/loading-animation",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "lovesickfromthe6ix-loading-animation"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "loading-animation.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/lovesickfromthe6ix/loading-animation",
+    "fetchedAt": "2026-04-23T01:18:29.153Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

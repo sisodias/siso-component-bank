@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons on landing pages and forms",
+    "Triggering actions in modal dialogs and overlays",
+    "Submitting form data with various visual emphasis levels",
+    "Navigation controls with link-like behavior",
+    "Compact icon buttons for toolbars and action bars"
+  ],
+  "ai_summary": "A flexible button component built with Radix UI Slot and class-variance-authority, offering multiple variants (default, destructive, outline, secondary, ghost, link) and sizes. Features accessible focus states with ring indicators, smooth hover transitions, and disabled state handling. Supports composition via the asChild prop for integrating with other Radix primitives or custom elements. Optimized for landing pages requiring consistent action triggers across different contexts.",
+  "_classifiedAt": "2026-04-23T16:31:49.250Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ishamsu__retro-testimonial",
+  "author": "ishamsu",
+  "slug": "retro-testimonial",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ishamsu/components/retro-testimonial",
+  "fetchedAt": "2026-08-29T05:03:23.716Z",
+  "completedAt": "2026-08-29T05:03:25.808Z",
+  "versionedFilename": "code.1747178884379.tsx",
+  "codeReference": "r2://components-code-private/ishamsu/retro-testimonial/code.1747178884379.tsx",
+  "codeUrl": "https://cdn.21st.dev/ishamsu/retro-testimonial/code.1747178884379.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10779,
+  "sha256": "d8fba174ad363c778be87ed87b3b3545669e610391adcb03f66c337b755677df",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,33 @@
+{
+  "category": "card",
+  "subcategory": "3d-tilt-holographic-card",
+  "visual_style": [
+    "glass-morphism",
+    "gradient",
+    "holographic"
+  ],
+  "interactions": [
+    "hover-glow",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive showcase cards for SaaS product features or benefits",
+    "Premium product display cards in e-commerce storefronts",
+    "Dynamic profile or identity cards for creator platforms",
+    "Crypto or NFT asset cards with holographic visual treatment"
+  ],
+  "ai_summary": "An interactive holographic card component featuring real-time 3D perspective tilt effects that respond to cursor position, with a dynamic glow overlay that follows mouse movement. The card includes smooth reset animations on mouse leave and uses CSS custom properties for state management. Best suited for premium product showcases, feature cards, or digital asset displays where visual impact and interactivity are priorities.",
+  "_classifiedAt": "2026-04-22T08:57:49.134Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

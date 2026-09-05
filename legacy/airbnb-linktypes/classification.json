@@ -1,0 +1,31 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "tree-chart-hierarchical-visualization",
+  "visual_style": [
+    "dark"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying hierarchical data structures like org charts or file systems",
+    "Visualizing nested relationships in taxonomies or category trees",
+    "Interactive data exploration with expand/collapse node functionality",
+    "Showing dependency graphs or project structure hierarchies",
+    "Representing any tree-based data with interactive node drilling"
+  ],
+  "ai_summary": "A hierarchical tree chart component built with @visx that renders interactive node-link diagrams in radial, horizontal, or vertical layouts. Features click-to-expand nodes with customizable link types (step, line, curve) and a dark theme with vibrant accent colors. Ideal for visualizing organizational structures, file systems, taxonomies, and nested data relationships in data-driven applications.",
+  "_classifiedAt": "2026-04-23T11:29:46.533Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "sshahaider__blog-section",
+  "author": "sshahaider",
+  "slug": "blog-section",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sshahaider/components/blog-section",
+  "fetchedAt": "2026-08-29T07:24:28.708Z",
+  "completedAt": "2026-08-29T07:24:30.765Z",
+  "versionedFilename": "code.1757315015457.tsx",
+  "codeReference": "r2://components-code-private/sshahaider/blog-section/code.1757315015457.tsx",
+  "codeUrl": "https://cdn.21st.dev/sshahaider/blog-section/code.1757315015457.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6244,
+  "sha256": "bdf184a4a2c4ceea74dca30d4e7d6ee4d742e276ba866126d1bad8d5c4c026b8",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

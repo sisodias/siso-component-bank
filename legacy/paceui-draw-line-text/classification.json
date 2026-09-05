@@ -1,0 +1,32 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "svg-text-stroke-animation",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Animated hero section headings with hand-drawn stroke effects",
+    "Logo or brand name reveal animations",
+    "Typography-focused landing page designs",
+    "Portfolio or creative showcase introductions"
+  ],
+  "ai_summary": "A React component that renders SVG text with a realistic hand-drawn stroke animation effect. Uses GSAP to animate stroke-dashoffset properties, creating a drawing-in animation where text appears to be written on screen. Supports per-letter or per-word animation modes with customizable stroke width, fill color, letter spacing, and word spacing. Perfect for creating engaging typographic animations in hero sections, landing pages, or creative portfolios without requiring manual SVG path creation.",
+  "_classifiedAt": "2026-04-23T17:05:53.285Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

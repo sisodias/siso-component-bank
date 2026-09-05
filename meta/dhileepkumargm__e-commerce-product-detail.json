@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@dhileepkumargm/components/e-commerce-product-detail",
+  "author": "dhileepkumargm",
+  "slug": "e-commerce-product-detail",
+  "name": "e-commerce-product-detail",
+  "description": "Features\nThis Product Detail component includes:\n\nInteractive Image Gallery\n\nLarge main image with thumbnails\nPrevious/next navigation arrows\nThumbnails with active state indicator\nProduct Information\n\nName, price, and rating display\nTabbed content for description, details, and shipping\nWishlist functionality\nCustomization Options\n\nColor selection with visual indicators\nSize selection with active states\nQuantity selector\nPurchase Actions\n\nAdd to cart button\nBuy now button\nResponsive Design\n\nMobile-friendly layout that adapts to different screen sizes\nProper spacing and typography for all viewports\nAccessibility Features\n\nProper ARIA attributes\nKeyboard navigation support\nFocus management\nScreen reader friendly markup\nDark Mode Support\n\nComplete styling for both light and dark themes\nThe component uses Tailwind CSS for styling and includes all the necessary SVG icons embedded directly in the code for portability.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/dhileepkumargm/e-commerce-product-detail?api_key=$API_KEY_21ST\"",
+  "id": "dhileepkumargm__e-commerce-product-detail",
+  "bundleUrl": "https://cdn.21st.dev/dhileepkumargm/e-commerce-product-detail/default/bundle.1758345928654.html",
+  "previewUrl": "https://cdn.21st.dev/dhileepkumargm/e-commerce-product-detail/default/preview.1758345928653.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 43,
+  "demo_id": 7820,
+  "video_url": "https://cdn.21st.dev/dhileepkumargm/e-commerce-product-detail/default/video.1758345928653.mp4"
+}

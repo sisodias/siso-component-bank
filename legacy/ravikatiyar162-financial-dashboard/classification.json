@@ -1,0 +1,28 @@
+{
+  "category": "data-display",
+  "subcategory": "financial dashboard overview",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "saas",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying financial metrics and transaction summaries in a dashboard interface",
+    "Showing recent activity feed with timestamps and amounts",
+    "Providing quick action buttons for common financial operations",
+    "Featuring financial services with premium and action indicators",
+    "Enabling search functionality for financial data"
+  ],
+  "ai_summary": "A comprehensive financial dashboard component featuring search functionality, quick actions grid, recent activity timeline, and financial services showcase. Built with Framer Motion for staggered entrance animations and Tailwind CSS for clean, modern styling. The card-based layout displays monetary amounts, timestamps, and service descriptions with premium indicators, making it ideal for fintech applications and SaaS platforms requiring financial overview capabilities.",
+  "_classifiedAt": "2026-04-22T09:09:36.191Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "case-study-metrics-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display case study results with animated metric counters on landing pages",
+    "Showcase project success statistics with scroll-triggered number animations",
+    "Present key performance indicators in a visually engaging card format",
+    "Highlight business results with animated counting effects and reduced-motion accessibility"
+  ],
+  "ai_summary": "A case studies component featuring animated metric statistics with number counting effects triggered on scroll. Uses react-countup for smooth counter animations while respecting user motion preferences. Displays parsed metrics in various formats including percentages, currency, multipliers, and large numbers with customizable duration. Supports dark mode and responsive design for showcasing portfolio or project success metrics.",
+  "_classifiedAt": "2026-04-23T17:17:15.943Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

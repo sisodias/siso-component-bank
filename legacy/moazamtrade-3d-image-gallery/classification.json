@@ -1,0 +1,30 @@
+{
+  "category": "media",
+  "subcategory": "3d-floating-gallery",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "system",
+  "use_cases": [
+    "Immersive 3D product galleries for e-commerce platforms",
+    "Portfolio showcases for creative professionals and designers",
+    "Interactive invitation or artwork displays with floating card effects",
+    "Visual galleries with stellar/space-themed backgrounds",
+    "Click-to-expand modal views for detailed image inspection"
+  ],
+  "ai_summary": "An immersive 3D image gallery featuring floating cards in a stellar space environment with Three.js rendering. Uses orbit controls for spatial navigation, click-to-reveal modals for detailed viewing, and a context-based state system. Includes starfield and galaxy backgrounds with floating card animations, making it ideal for creative portfolios, product showcases, and visual galleries requiring an engaging 3D experience.",
+  "_classifiedAt": "2026-04-23T01:43:47.594Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

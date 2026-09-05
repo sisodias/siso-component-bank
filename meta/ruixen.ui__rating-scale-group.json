@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/rating-scale-group",
+  "author": "ruixen.ui",
+  "slug": "rating-scale-group",
+  "name": "rating-scale-group",
+  "description": "This Rating Scale Group component presents a clean, survey-style alternative to traditional star ratings. Instead of icons, it uses a row of numbered boxes (1–10) that users can click to indicate their level of satisfaction or feedback. Each option is styled like a small button with hover and focus effects, making the interaction feel responsive and intuitive. When selected, the active number is highlighted with accent colors and a glowing green dot in the corner, providing a clear visual confirmation. This design mimics the familiar Net Promoter Score (NPS) format, making it ideal for customer satisfaction surveys, user experience feedback forms, or any context where you want to capture ratings in a structured, easy-to-read scale.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/rating-scale-group?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__rating-scale-group",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/rating-scale-group/default/bundle.1758995090475.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/rating-scale-group/default/preview.1758995090475.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 29,
+  "demo_id": 8241,
+  "video_url": "https://cdn.21st.dev/user_2y5Wd5l713ZIFYjX19aZXSyXd6b/rating-scale-group/default/video.1786628662470.mp4"
+}

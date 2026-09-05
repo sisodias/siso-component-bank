@@ -1,0 +1,31 @@
+{
+  "category": [
+    "data-display",
+    "input"
+  ],
+  "subcategory": "badge, tag, label",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying status indicators with color-coded variants",
+    "Tagging content with categorical labels",
+    "Showing notification counts on UI elements",
+    "Marking items with secondary or destructive states",
+    "Creating reusable label components across applications"
+  ],
+  "ai_summary": "A versatile Badge component built with class-variance-authority providing multiple style variants (default, secondary, destructive, outline) for displaying status indicators, tags, and labels. Designed as a reusable atomic component with hover states and ring focus accessibility.",
+  "_classifiedAt": "2026-04-23T01:40:10.896Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-with-variants",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Reusable button component with multiple style variants for different actions",
+    "Supports destructive, outline, secondary, ghost, and link button styles",
+    "Accessible button with focus-visible ring states and disabled handling",
+    "Size variants for compact, default, large, and icon-only buttons",
+    "Can render as child component using Radix Slot for composition"
+  ],
+  "ai_summary": "A reusable button component built with Radix UI Slot and class-variance-authority, offering multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes. Uses Tailwind CSS for styling with standard focus-visible rings and hover states. Fully typed with React forwardRef for accessibility and composition patterns.",
+  "_classifiedAt": "2026-04-23T01:46:23.037Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

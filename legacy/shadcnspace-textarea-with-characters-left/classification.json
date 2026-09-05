@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "form-label",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Labeling form inputs for better accessibility and UX",
+    "Providing descriptive text for textarea and input fields",
+    "Creating consistent form layouts across applications"
+  ],
+  "ai_summary": "A minimal, accessible label component built on Radix UI primitives with class-variance-authority for styling flexibility. Used as a foundational form element to label inputs, textareas, and other form controls with proper semantic HTML and accessibility support.",
+  "_classifiedAt": "2026-04-22T09:15:26.712Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

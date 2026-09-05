@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ravikatiyar162-sleep-tracker-card",
+  "type": "registry:ui",
+  "title": "Ravikatiyar162 Sleep Tracker Card",
+  "description": "Installed from https://21st.dev/r/ravikatiyar162/sleep-tracker-card",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ravikatiyar162-sleep-tracker-card"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "sleep-tracker-card.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ravikatiyar162/sleep-tracker-card",
+    "fetchedAt": "2026-04-22T06:45:05.247Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    "other"
+  ],
+  "subcategory": "parallax-mouse-tracking",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Creating depth perception through mouse-driven parallax animations",
+    "Adding subtle floating motion to enhance visual appeal of any UI section",
+    "Building interactive landing pages with depth-based mouse tracking effects",
+    "Implementing 3D-like floating elements that respond to cursor movement",
+    "Adding polished micro-interactions to hero sections or feature showcases"
+  ],
+  "ai_summary": "A parallax floating animation system that tracks mouse position and applies depth-based movement to registered child elements with smooth easing. Uses React Context for element registration, configurable sensitivity, and easing factors to create layered floating effects that respond dynamically to user cursor movement.",
+  "_classifiedAt": "2026-04-23T16:29:07.145Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

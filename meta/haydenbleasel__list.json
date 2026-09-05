@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@haydenbleasel/components/list",
+  "author": "haydenbleasel",
+  "slug": "list",
+  "name": "list",
+  "description": "List views are a great way to show a list of tasks grouped by status and ranked by priority.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/haydenbleasel/list?api_key=$API_KEY_21ST\"",
+  "id": "haydenbleasel__list",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1400.html",
+  "previewUrl": "https://cdn.21st.dev/user_haydenbleasel/list.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

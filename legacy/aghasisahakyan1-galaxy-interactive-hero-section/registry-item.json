@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "aghasisahakyan1-galaxy-interactive-hero-section",
+  "type": "registry:ui",
+  "title": "Aghasisahakyan1 Galaxy Interactive Hero Section",
+  "description": "Installed from https://21st.dev/r/aghasisahakyan1/galaxy-interactive-hero-section",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "aghasisahakyan1-galaxy-interactive-hero-section"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "galaxy-interactive-hero-section.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@splinetool/react-spline"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/aghasisahakyan1/galaxy-interactive-hero-section",
+    "fetchedAt": "2026-04-23T03:04:54.497Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

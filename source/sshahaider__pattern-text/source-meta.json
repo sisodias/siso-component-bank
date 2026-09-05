@@ -1,0 +1,26 @@
+{
+  "id": "sshahaider__pattern-text",
+  "author": "sshahaider",
+  "slug": "pattern-text",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sshahaider/components/pattern-text",
+  "fetchedAt": "2026-08-29T07:27:03.373Z",
+  "completedAt": "2026-08-29T07:27:05.476Z",
+  "versionedFilename": "code.1757173735547.tsx",
+  "codeReference": "r2://components-code-private/sshahaider/pattern-text/code.1757173735547.tsx",
+  "codeUrl": "https://cdn.21st.dev/sshahaider/pattern-text/code.1757173735547.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 791,
+  "sha256": "4b51534eced1776e08a2ef7cbaf658482048d350bbad154043feb3927c300976",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

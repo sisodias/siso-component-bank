@@ -1,0 +1,33 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "shader-visual-background",
+  "visual_style": [
+    "dark",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "media",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Dynamic hero section background with animated grid and mesh gradients",
+    "Full-screen shader-based loading or splash screen effect",
+    "Interactive decorative background for landing pages",
+    "ASCII-style visual accent for tech-focused interfaces"
+  ],
+  "ai_summary": "A WebGL fragment shader component rendering an animated dark grid with mesh gradients, noise dithering, vignette, and subtle ASCII art effects. The shader includes time-based scrolling animation and mouse position tracking for potential interactivity. Designed as a standalone visual background component suitable for hero sections or full-page decorative effects in modern web applications.",
+  "_classifiedAt": "2026-04-23T01:43:09.511Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

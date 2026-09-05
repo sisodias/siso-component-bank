@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "liveblocks-emoji-picker",
+  "type": "registry:ui",
+  "title": "Liveblocks Emoji Picker",
+  "description": "Installed from https://21st.dev/r/liveblocks/emoji-picker",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "liveblocks-emoji-picker"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "emoji-picker.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "frimousse",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/liveblocks/emoji-picker",
+    "fetchedAt": "2026-04-23T03:05:04.658Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

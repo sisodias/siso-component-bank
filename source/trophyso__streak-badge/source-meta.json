@@ -1,0 +1,26 @@
+{
+  "id": "trophyso__streak-badge",
+  "author": "trophyso",
+  "slug": "streak-badge",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@trophyso/components/streak-badge",
+  "fetchedAt": "2026-08-29T07:40:48.255Z",
+  "completedAt": "2026-08-29T07:40:50.343Z",
+  "versionedFilename": "code.1779990285798.tsx",
+  "codeReference": "r2://components-code-private/larsen66/streak-badge/code.1779990285798.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/streak-badge/code.1779990285798.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3043,
+  "sha256": "0eee8cebb905d98b5b94dd76664c1e31b6e994dc7cb4b4d0d8ee7f4c08d2e269",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

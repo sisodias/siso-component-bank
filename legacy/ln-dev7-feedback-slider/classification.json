@@ -1,0 +1,35 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "rating-slider",
+  "visual_style": [
+    "flat",
+    "colorful"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Collect user satisfaction ratings after a purchase or interaction",
+    "Gather quick feedback on content quality in media applications",
+    "Enable sentiment polling in SaaS customer feedback workflows",
+    "Display emotional response collection in survey interfaces",
+    "Add playful rating interaction to onboarding or review flows"
+  ],
+  "ai_summary": "An interactive feedback slider component featuring an animated smiley face that morphs between three emotional states (BAD, NOT BAD, GOOD). Built with Framer Motion, it combines a color-coded slider track with a dynamic SVG smile icon and eye animations. The component transitions smoothly between states with custom colors and expressions, making it ideal for collecting quick user sentiment in a visually engaging way.",
+  "_classifiedAt": "2026-04-23T16:51:48.901Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

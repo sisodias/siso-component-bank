@@ -1,0 +1,34 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "grid-ripple-loader",
+  "visual_style": [
+    "colorful",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display loading state while fetching data",
+    "Show processing activity during async operations",
+    "Indicate background tasks in progress",
+    "Provide visual feedback during form submissions",
+    "Use as a wait indicator in dashboards or interfaces"
+  ],
+  "ai_summary": "A vibrant grid-based loader component featuring a 3x3 cell layout with cascading ripple animation. Each cell sequentially illuminates from green to cyan with staggered delays, creating a wave-like visual effect. The minimal flat design uses CSS-only animations, making it lightweight and suitable for any loading scenario across web platforms.",
+  "_classifiedAt": "2026-04-23T17:12:35.193Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

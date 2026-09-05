@@ -1,0 +1,26 @@
+{
+  "id": "lavikatiyar__feature-bar",
+  "author": "lavikatiyar",
+  "slug": "feature-bar",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@lavikatiyar/components/feature-bar",
+  "fetchedAt": "2026-08-29T05:24:54.427Z",
+  "completedAt": "2026-08-29T05:24:56.162Z",
+  "versionedFilename": "code.1760507771482.tsx",
+  "codeReference": "r2://components-code-private/lavikatiyar/feature-bar/code.1760507771482.tsx",
+  "codeUrl": "https://cdn.21st.dev/lavikatiyar/feature-bar/code.1760507771482.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2216,
+  "sha256": "6910b8061cd0f913454c8c46f70e3eaf687a02bfe5fd4fd87824f949578a15e0",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

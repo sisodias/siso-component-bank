@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar-user-profile",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "social",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display user profile pictures in navigation headers and sidebars",
+    "Show author or commenter avatars in discussion threads and comments",
+    "Represent users in messaging interfaces and notification feeds",
+    "Display team member or contact avatars in address books and user directories",
+    "Show product reviews with reviewer profile images"
+  ],
+  "ai_summary": "A lightweight avatar component built on Radix UI primitives that displays user profile images with automatic fallback to initials when images fail to load. Supports customization via className props and renders circular profile pictures at a default 40x40 pixel size. Ideal for SaaS applications, social platforms, and any interface requiring user identification through visual representation.",
+  "_classifiedAt": "2026-04-22T08:53:16.558Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

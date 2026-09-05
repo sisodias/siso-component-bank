@@ -1,0 +1,26 @@
+{
+  "id": "voxlet-ui__magic-wand",
+  "author": "voxlet-ui",
+  "slug": "magic-wand",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@voxlet-ui/components/magic-wand",
+  "fetchedAt": "2026-08-29T07:56:00.328Z",
+  "completedAt": "2026-08-29T07:56:04.338Z",
+  "versionedFilename": "code.1750167517163.tsx",
+  "codeReference": "r2://components-code-private/larsen66/magic-wand/code.1750167517163.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/magic-wand/code.1750167517163.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6099,
+  "sha256": "101e8daa6ef811d1bf1ce2309b5b40c056a7e91c024ea2337291d44938411206",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

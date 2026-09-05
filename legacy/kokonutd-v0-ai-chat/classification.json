@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "ai-chat-conversation",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "system",
+  "use_cases": [
+    "AI-powered conversational interfaces for user interaction",
+    "Real-time streaming chat responses with AI models",
+    "Integration with Vercel AI SDK for LLM interactions",
+    "Customer support and virtual assistant interfaces",
+    "Interactive AI onboarding and help systems"
+  ],
+  "ai_summary": "A minimalist AI chat interface component designed for conversational interactions with large language models. Built on Vercel's v0 design system, it provides a clean input area with streaming AI responses and keyboard-friendly navigation. Ideal for integrating AI-powered chatbots, virtual assistants, or LLM-driven user experiences into SaaS applications and developer tools.",
+  "_classifiedAt": "2026-04-23T16:49:35.628Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

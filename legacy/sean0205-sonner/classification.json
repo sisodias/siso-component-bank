@@ -1,0 +1,25 @@
+{
+  "category": "feedback",
+  "subcategory": "toast-notification",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying transient success messages after user actions like form submissions or purchases",
+    "Showing error notifications when operations fail or validation errors occur",
+    "Presenting informational alerts to guide users through workflows",
+    "Delivering warning messages for important but non-critical notices",
+    "Enabling dismissible notifications with close button for temporary feedback"
+  ],
+  "ai_summary": "A customizable toast notification component featuring multiple variants (primary, secondary, destructive, success, info, warning, mono) and appearances (solid, outline, light, stroke). Supports three size options with icon slots and close button functionality. Built with Tailwind CSS and class-variance-authority for flexible theming, designed to display transient user feedback messages that can be dismissed.",
+  "_classifiedAt": "2026-04-23T17:24:01.190Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

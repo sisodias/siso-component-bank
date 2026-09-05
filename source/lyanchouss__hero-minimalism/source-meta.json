@@ -1,0 +1,33 @@
+{
+  "id": "lyanchouss__hero-minimalism",
+  "author": "lyanchouss",
+  "slug": "hero-minimalism",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@lyanchouss/components/hero-minimalism",
+  "fetchedAt": "2026-08-29T05:33:12.257Z",
+  "completedAt": "2026-08-29T05:33:15.704Z",
+  "versionedFilename": "code.1785769225504.tsx",
+  "codeReference": "r2://components-code-private/user_2xFgBhIEcC8WVjxizPEzB14AOkb/hero-minimalism/code.1785769225504.tsx",
+  "codeUrl": "https://cdn.21st.dev/user_2xFgBhIEcC8WVjxizPEzB14AOkb/hero-minimalism/code.1785769225504.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/lyanchouss__hero-minimalism/code.tsx",
+    "bytes": 8182,
+    "sha256": "1cf992270e2ad7ec1b7b6700392c37e34eb0f9a787de7465a31ee1b0890f705f",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

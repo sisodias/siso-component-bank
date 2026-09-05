@@ -1,0 +1,26 @@
+{
+  "id": "mdadul__cta",
+  "author": "mdadul",
+  "slug": "cta",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@mdadul/components/cta",
+  "fetchedAt": "2026-08-29T05:39:24.502Z",
+  "completedAt": "2026-08-29T05:39:26.910Z",
+  "versionedFilename": "code.1749983077911.tsx",
+  "codeReference": "r2://components-code-private/mdadul/cta/code.1749983077911.tsx",
+  "codeUrl": "https://cdn.21st.dev/mdadul/cta/code.1749983077911.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4485,
+  "sha256": "b9ac55a5e68145dc85e4822aa6b894ba990361fc52b83f8cf5e3598b2506ea0f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

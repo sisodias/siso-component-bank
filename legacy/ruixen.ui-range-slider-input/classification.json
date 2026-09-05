@@ -1,0 +1,25 @@
+{
+  "category": "input",
+  "subcategory": "range-slider",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Numeric range selection in forms and dashboards",
+    "Configuration settings with slider-based input controls",
+    "Price filtering and filtering interfaces",
+    "Progress or threshold value input",
+    "Settings panels requiring precise value adjustments"
+  ],
+  "ai_summary": "A minimalist styled HTML input component designed for range slider use cases. Built with React forwardRef pattern, Tailwind CSS utilities, and includes polished focus states with ring effects, disabled states, and shadow depth. Supports multiple input types (search, file, default) with type-specific styling baked in. Clean, production-ready base component for SaaS and web applications requiring form inputs.",
+  "_classifiedAt": "2026-04-23T01:51:01.357Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

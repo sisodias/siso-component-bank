@@ -1,0 +1,30 @@
+{
+  "category": "form",
+  "subcategory": "checkbox-group-wrapper",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Grouping related checkboxes in multi-select form fields",
+    "Creating settings or preferences panels with multiple options",
+    "Building filter interfaces for e-commerce or data tables",
+    "Displaying questionnaire or survey answer options",
+    "Implementing consent or agreement checkbox collections"
+  ],
+  "ai_summary": "A flexible checkbox group wrapper component that provides consistent labeling, error handling, and layout options for grouping related checkbox inputs. Supports both horizontal and vertical arrangements with optional help text and error states, making it suitable for various form contexts across web applications.",
+  "_classifiedAt": "2026-04-23T01:54:01.378Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ashishrajwaniai01-animated-pattern-cloud",
+  "type": "registry:ui",
+  "title": "Ashishrajwaniai01 Animated Pattern Cloud",
+  "description": "Installed from https://21st.dev/r/ashishrajwaniai01/animated-pattern-cloud",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ashishrajwaniai01-animated-pattern-cloud"
+  ],
+  "files": [
+    {
+      "path": "animated-pattern-cloud.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ashishrajwaniai01/animated-pattern-cloud",
+    "fetchedAt": "2026-04-22T06:32:23.133Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

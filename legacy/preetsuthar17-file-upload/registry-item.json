@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "preetsuthar17-file-upload",
+  "type": "registry:ui",
+  "title": "Preetsuthar17 File Upload",
+  "description": "Installed from https://21st.dev/r/preetsuthar17/file-upload",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "preetsuthar17-file-upload"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "file-upload.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "clsx",
+    "lucide-react",
+    "motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/preetsuthar17/file-upload",
+    "fetchedAt": "2026-04-23T03:04:56.879Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

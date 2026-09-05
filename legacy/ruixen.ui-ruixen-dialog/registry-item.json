@@ -1,0 +1,79 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ruixen.ui-ruixen-dialog",
+  "type": "registry:ui",
+  "title": "Ruixen.Ui Ruixen Dialog",
+  "description": "Installed from https://21st.dev/r/ruixen.ui/ruixen-dialog",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ruixen.ui-ruixen-dialog"
+  ],
+  "files": [
+    {
+      "path": "avatar.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "dialog.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "input.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "label.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "ruixen-dialog.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "textarea.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "use-character-limit.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "use-image-upload.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-avatar",
+    "@radix-ui/react-dialog",
+    "@radix-ui/react-label",
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "imports unresolvable path (@/hooks/use-character-limit)"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ruixen.ui/ruixen-dialog",
+    "fetchedAt": "2026-04-23T03:04:25.620Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

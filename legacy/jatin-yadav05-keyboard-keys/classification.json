@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display",
+    "input"
+  ],
+  "subcategory": "keyboard-key-caps",
+  "visual_style": [
+    "skeuomorphic",
+    "3d"
+  ],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display keyboard shortcuts and hotkeys in documentation or help menus",
+    "Interactive keyboard visualization for tutorials and onboarding flows",
+    "Keycap display for code editor or productivity tool interfaces"
+  ],
+  "ai_summary": "A skeuomorphic keyboard key component with 3D depth effects that responds to physical keyboard presses, mouse clicks, and touch interactions. Features dual-layer construction with animated shadow that simulates real key travel. Supports keyCode binding for keyboard event synchronization and includes optional sublabels for modifier key combinations.",
+  "_classifiedAt": "2026-04-22T09:00:27.180Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

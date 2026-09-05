@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@inference-sh/components/table-of-contents",
+  "author": "inference-sh",
+  "slug": "table-of-contents",
+  "name": "table-of-contents",
+  "description": "An auto-scrolling table of contents that highlights the active section using an intersection observer as the reader scrolls.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/inference-sh/table-of-contents?api_key=$API_KEY_21ST\"",
+  "id": "inference-sh__table-of-contents",
+  "bundleUrl": "https://cdn.21st.dev/inference-sh/table-of-contents/default/bundle.1784718030348-03461537-ce39-4fc3-bf13-9623dd5e947b.html",
+  "previewUrl": "https://cdn.21st.dev/inference-sh/table-of-contents/default/preview.1784718030348-03461537-ce39-4fc3-bf13-9623dd5e947b.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

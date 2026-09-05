@@ -1,0 +1,32 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "shader-water-effect",
+  "visual_style": [
+    "other"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Display images with an animated water ripple surface effect for artistic presentations",
+    "Create engaging visual hero sections with dynamic water-like imagery",
+    "Add immersive visual effects to photography portfolios and galleries",
+    "Enhance landing pages with interactive-looking animated imagery",
+    "Showcase product images with a premium, fluid animation effect"
+  ],
+  "ai_summary": "A WebGL-powered image component that renders images with realistic water ripple effects using custom GLSL shaders. The effect simulates water surface distortions with configurable parameters for blueish tint, scale, illumination, surface distortion, and water distortion. The component uses a full-screen quad with fragment shader calculations including Simplex noise for organic wave patterns, continuously animating based on time uniforms for a mesmerizing fluid effect.",
+  "_classifiedAt": "2026-04-22T09:08:41.201Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

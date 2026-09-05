@@ -1,0 +1,33 @@
+{
+  "id": "serafimcloud__fey-button",
+  "author": "serafimcloud",
+  "slug": "fey-button",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@serafimcloud/components/fey-button",
+  "fetchedAt": "2026-08-29T07:02:39.100Z",
+  "completedAt": "2026-08-29T07:02:40.596Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/serafimcloud__fey-button/code.tsx",
+    "bytes": 3272,
+    "sha256": "60619adf9b44492f0fd5db0929a468bdb5fdc82cb8124f0c0b3b25e458ecc26e",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

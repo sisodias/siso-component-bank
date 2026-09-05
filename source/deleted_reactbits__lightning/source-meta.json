@@ -1,0 +1,26 @@
+{
+  "id": "deleted_reactbits__lightning",
+  "author": "deleted_reactbits",
+  "slug": "lightning",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@deleted_reactbits/components/lightning",
+  "fetchedAt": "2026-08-29T04:14:29.817Z",
+  "completedAt": "2026-08-29T04:14:31.951Z",
+  "versionedFilename": "code.1747800806333.tsx",
+  "codeReference": "r2://components-code-private/larsen66/lightning/code.1747800806333.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/lightning/code.1747800806333.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7596,
+  "sha256": "00dc2df6d5c5139ba3c7f8feb8f75adb85aaf5fa3d3a091f1c5a5ab78a5796f1",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

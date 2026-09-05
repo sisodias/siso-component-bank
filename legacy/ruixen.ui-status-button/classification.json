@@ -1,0 +1,30 @@
+{
+  "category": "input",
+  "subcategory": "interactive-button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Trigger form submissions with styled primary and secondary action buttons",
+    "Navigate users through multi-step flows using ghost or outline variants",
+    "Indicate destructive actions with red destructive variant buttons",
+    "Create icon-only buttons for compact UI areas using the icon size variant",
+    "Build accessible interfaces with Radix Slot composition and focus-visible states"
+  ],
+  "ai_summary": "A reusable button component built on Radix UI Slot and class-variance-authority, offering 6 visual variants (default, destructive, outline, secondary, ghost, link) and 4 size options. Includes shadow styling, hover states, focus-visible outlines, and disabled state handling for production-ready interactive UI elements.",
+  "_classifiedAt": "2026-04-23T01:51:38.837Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

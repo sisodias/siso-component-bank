@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "uilayout.contact-text-marque",
+  "type": "registry:ui",
+  "title": "Uilayout.Contact Text Marque",
+  "description": "Installed from https://21st.dev/r/uilayout.contact/text-marque",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "uilayout.contact-text-marque"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "text-marque.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@motionone/utils",
+    "motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/uilayout.contact/text-marque",
+    "fetchedAt": "2026-04-23T03:04:09.587Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "airbnb-curves",
+  "type": "registry:ui",
+  "title": "Airbnb Curves",
+  "description": "Installed from https://21st.dev/r/airbnb/curves",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "airbnb-curves"
+  ],
+  "files": [
+    {
+      "path": "curves.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@visx/curve",
+    "@visx/group",
+    "@visx/marker",
+    "@visx/mock-data",
+    "@visx/scale",
+    "@visx/shape",
+    "@visx/vendor"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/airbnb/curves",
+    "fetchedAt": "2026-04-23T03:04:41.844Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

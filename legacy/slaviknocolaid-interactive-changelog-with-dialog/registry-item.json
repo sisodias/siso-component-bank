@@ -1,0 +1,57 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "slaviknocolaid-interactive-changelog-with-dialog",
+  "type": "registry:ui",
+  "title": "Slaviknocolaid Interactive Changelog With Dialog",
+  "description": "Installed from https://21st.dev/r/slaviknocolaid/interactive-changelog-with-dialog",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "slaviknocolaid-interactive-changelog-with-dialog"
+  ],
+  "files": [
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "dialog.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "interactive-changelog-with-dialog.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "tooltip.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@paper-design/shaders-react",
+    "@radix-ui/react-dialog",
+    "@radix-ui/react-slot",
+    "@radix-ui/react-tooltip",
+    "class-variance-authority",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/slaviknocolaid/interactive-changelog-with-dialog",
+    "fetchedAt": "2026-04-22T06:43:37.818Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

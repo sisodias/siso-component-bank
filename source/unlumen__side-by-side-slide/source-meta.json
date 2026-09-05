@@ -1,0 +1,26 @@
+{
+  "id": "unlumen__side-by-side-slide",
+  "author": "unlumen",
+  "slug": "side-by-side-slide",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@unlumen/components/side-by-side-slide",
+  "fetchedAt": "2026-08-29T07:51:51.964Z",
+  "completedAt": "2026-08-29T07:51:54.170Z",
+  "versionedFilename": "code.1783478031708.tsx",
+  "codeReference": "r2://components-code-private/unlumen/side-by-side-slide/code.1783478031708.tsx",
+  "codeUrl": "https://cdn.21st.dev/unlumen/side-by-side-slide/code.1783478031708.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5163,
+  "sha256": "67c3fe0e1b426856a80bfd8165efa933958f00f2c1b99dd8da4e2d2121d0570f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

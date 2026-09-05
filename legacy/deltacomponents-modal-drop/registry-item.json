@@ -1,0 +1,47 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "deltacomponents-modal-drop",
+  "type": "registry:ui",
+  "title": "Deltacomponents Modal Drop",
+  "description": "Installed from https://21st.dev/r/deltacomponents/modal-drop",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "deltacomponents-modal-drop"
+  ],
+  "files": [
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "modal-drop.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@phosphor-icons/react",
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/deltacomponents/modal-drop",
+    "fetchedAt": "2026-04-22T06:42:51.618Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

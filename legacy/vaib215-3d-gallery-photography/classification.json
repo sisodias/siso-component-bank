@@ -1,0 +1,33 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "3d-photography-gallery",
+  "visual_style": [
+    "3d",
+    "glass-morphism"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Showcasing photography portfolios with immersive 3D scroll navigation",
+    "Displaying product galleries with depth-based blur and fade transitions",
+    "Creating visual storytelling experiences with infinite scroll imagery",
+    "Building creative agency landing pages with animated image planes"
+  ],
+  "ai_summary": "An immersive 3D gallery component that renders images as floating planes in a Three.js scene with depth-based fade and blur effects. Users scroll to navigate through an infinite loop of images that smoothly transition with parallax-like depth perception. Features configurable fade-in/out zones, blur intensity falloff, and smooth animations at 60fps.",
+  "_classifiedAt": "2026-04-22T09:18:54.795Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

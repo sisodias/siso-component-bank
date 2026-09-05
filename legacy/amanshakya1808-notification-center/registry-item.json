@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "amanshakya1808-notification-center",
+  "type": "registry:ui",
+  "title": "Amanshakya1808 Notification Center",
+  "description": "Installed from https://21st.dev/r/amanshakya1808/notification-center",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "amanshakya1808-notification-center"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "notification-center.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "motion",
+    "react-icons"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/amanshakya1808/notification-center",
+    "fetchedAt": "2026-04-23T01:18:21.575Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "prebuiltui__testimonial",
+  "author": "prebuiltui",
+  "slug": "testimonial",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@prebuiltui/components/testimonial",
+  "fetchedAt": "2026-08-29T06:11:35.815Z",
+  "completedAt": "2026-08-29T06:11:38.029Z",
+  "versionedFilename": "code.1757777694829.tsx",
+  "codeReference": "r2://components-code-private/larsen66/testimonial/code.1757777694829.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/testimonial/code.1757777694829.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3773,
+  "sha256": "72b68c37b4c91b36bf9b777b11d1d6f580f7f27de75284329061362e43ca2c60",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

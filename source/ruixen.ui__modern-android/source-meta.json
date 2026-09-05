@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__modern-android",
+  "author": "ruixen.ui",
+  "slug": "modern-android",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/modern-android",
+  "fetchedAt": "2026-08-29T06:45:00.592Z",
+  "completedAt": "2026-08-29T06:45:02.818Z",
+  "versionedFilename": "code.1758477605676.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/modern-android/code.1758477605676.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/modern-android/code.1758477605676.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2014,
+  "sha256": "629b7a2c309b0bacc8586c77a0802d1c5c1cd8c4c5c1455c7a9efb312a366ee0",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

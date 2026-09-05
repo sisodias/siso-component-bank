@@ -1,0 +1,41 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading-spinner",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display loading state while fetching data from API",
+    "Show pending state during form submission",
+    "Indicate async processing in progress",
+    "Provide visual feedback during page navigation",
+    "Use as a loading indicator within other composite components"
+  ],
+  "ai_summary": "A lightweight, customizable loading spinner component that displays animated rotating bars to indicate pending or loading states. Supports configurable size, color inversion, and conditional rendering based on disabled state. Built with Tailwind CSS and CSS variables for easy theming and integration into any React application.",
+  "_classifiedAt": "2026-04-23T17:34:02.915Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

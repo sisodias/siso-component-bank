@@ -1,0 +1,33 @@
+{
+  "id": "shugar__tooltip",
+  "author": "shugar",
+  "slug": "tooltip",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/tooltip",
+  "fetchedAt": "2026-08-29T07:20:59.242Z",
+  "completedAt": "2026-08-29T07:21:00.013Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/shugar__tooltip/code.tsx",
+    "bytes": 1473,
+    "sha256": "999387b5338103415738086e61420433f597cca209c397ccf09c372c0be63962",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

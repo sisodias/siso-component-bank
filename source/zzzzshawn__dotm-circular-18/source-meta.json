@@ -1,0 +1,26 @@
+{
+  "id": "zzzzshawn__dotm-circular-18",
+  "author": "zzzzshawn",
+  "slug": "dotm-circular-18",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@zzzzshawn/components/dotm-circular-18",
+  "fetchedAt": "2026-08-29T08:03:32.632Z",
+  "completedAt": "2026-08-29T08:03:34.821Z",
+  "versionedFilename": "code.1784752988015-771e7c6c-36b1-4cc0-8b52-c81c80016d3c.tsx",
+  "codeReference": "r2://components-code-private/zzzzshawn/dotm-circular-18/code.1784752988015-771e7c6c-36b1-4cc0-8b52-c81c80016d3c.tsx",
+  "codeUrl": "https://cdn.21st.dev/zzzzshawn/dotm-circular-18/code.1784752988015-771e7c6c-36b1-4cc0-8b52-c81c80016d3c.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

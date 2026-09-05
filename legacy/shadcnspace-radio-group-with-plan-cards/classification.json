@@ -1,0 +1,30 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "checkbox",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Enable boolean toggle selections in forms and settings",
+    "Support multi-select functionality in lists and filtering interfaces",
+    "Collect user consent or agreement in registration flows",
+    "Mark items as complete or incomplete in task management",
+    "Provide granular control options in configuration panels"
+  ],
+  "ai_summary": "A lightweight checkbox component built on Radix UI CheckboxPrimitive with Tailwind CSS styling. Features proper focus-visible outlines, disabled cursor states, and dynamic checked styling using primary color. Part of a plan card selection system but functions as a standalone reusable input component with full keyboard navigation and accessibility support.",
+  "_classifiedAt": "2026-04-22T09:15:17.054Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

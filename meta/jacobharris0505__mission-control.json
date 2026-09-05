@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@jacobharris0505/components/mission-control",
+  "author": "jacobharris0505",
+  "slug": "mission-control",
+  "name": "mission-control",
+  "description": "Operator dashboard shell for a personal AI-agent OS: sidebar nav with Cmd+1-5 shortcuts, content pipeline board, agent status, notes list, and a voice-assistant strip with glowing standby ring",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/jacobharris0505/mission-control?api_key=$API_KEY_21ST\"",
+  "id": "jacobharris0505__mission-control",
+  "bundleUrl": "https://cdn.21st.dev/jacobharris0505/mission-control/default/bundle.1786525787558-d82d1ffa-d644-44ec-9d6b-ddeb6636088a.html",
+  "previewUrl": "https://cdn.21st.dev/jacobharris0505/mission-control/default/preview.1786525787558-d82d1ffa-d644-44ec-9d6b-ddeb6636088a.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

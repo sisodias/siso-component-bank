@@ -1,0 +1,33 @@
+{
+  "id": "dhileepkumargm__text-effect",
+  "author": "dhileepkumargm",
+  "slug": "text-effect",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dhileepkumargm/components/text-effect",
+  "fetchedAt": "2026-08-29T04:33:45.843Z",
+  "completedAt": "2026-08-29T04:33:47.676Z",
+  "versionedFilename": "code.1785357981956-87284a85-1548-4fb3-a558-34ff69eba329.tsx",
+  "codeReference": "r2://components-code-private/dhileepkumargm/text-effect/code.1785357981956-87284a85-1548-4fb3-a558-34ff69eba329.tsx",
+  "codeUrl": "https://cdn.21st.dev/dhileepkumargm/text-effect/code.1785357981956-87284a85-1548-4fb3-a558-34ff69eba329.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/dhileepkumargm__text-effect/code.tsx",
+    "bytes": 17590,
+    "sha256": "6fff6e322226f4cc3509fc0f902e636f074960d83ef837df5ecb1be84fd162d2",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "extend-hq__dropdown-menu",
+  "author": "extend-hq",
+  "slug": "dropdown-menu",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@extend-hq/components/dropdown-menu",
+  "fetchedAt": "2026-08-29T04:46:54.564Z",
+  "completedAt": "2026-08-29T04:46:56.590Z",
+  "versionedFilename": "code.1782165671969.tsx",
+  "codeReference": "r2://components-code-private/larsen66/dropdown-menu/code.1782165671969.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/dropdown-menu/code.1782165671969.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10861,
+  "sha256": "e60442586fb65c08ceca9f212585bd430e849f64f99efec5970f1389453acfc8",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "minhxthanh-3d-box-loader-animation",
+  "type": "registry:ui",
+  "title": "Minhxthanh 3d Box Loader Animation",
+  "description": "Installed from https://21st.dev/r/minhxthanh/3d-box-loader-animation",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "minhxthanh-3d-box-loader-animation"
+  ],
+  "files": [
+    {
+      "path": "3d-box-loader-animation.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/minhxthanh/3d-box-loader-animation",
+    "fetchedAt": "2026-04-23T03:04:30.792Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

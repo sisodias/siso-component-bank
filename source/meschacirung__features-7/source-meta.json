@@ -1,0 +1,33 @@
+{
+  "id": "meschacirung__features-7",
+  "author": "meschacirung",
+  "slug": "features-7",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@meschacirung/components/features-7",
+  "fetchedAt": "2026-08-29T05:40:48.208Z",
+  "completedAt": "2026-08-29T05:40:49.164Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/meschacirung__features-7/code.tsx",
+    "bytes": 3727,
+    "sha256": "d5fe824c7c857b321bb725edd78c1a0e779f717e084b76d9970261462ff36551",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

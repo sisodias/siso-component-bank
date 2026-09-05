@@ -1,0 +1,34 @@
+{
+  "category": [
+    "hero"
+  ],
+  "subcategory": "futuristic-3d-hero",
+  "visual_style": [
+    "3d",
+    "dark",
+    "gradient"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "system"
+  ],
+  "use_cases": [
+    "Landing page hero section for tech and SaaS products seeking a futuristic, immersive first impression",
+    "Product showcases requiring high visual impact with animated 3D elements and post-processing effects",
+    "Developer tools and software landing pages wanting a cutting-edge, sci-fi aesthetic"
+  ],
+  "ai_summary": "A futuristic 3D hero component built with React Three Fiber and WebGPU, featuring animated post-processing effects including bloom and a dynamic scanning line overlay. The component uses texture mapping and depth effects to create an immersive, sci-fi visual experience suitable for tech-forward landing pages. Supports desktop and mobile platforms with scroll-triggered animations and continuous ambient motion.",
+  "_classifiedAt": "2026-04-23T16:50:32.616Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

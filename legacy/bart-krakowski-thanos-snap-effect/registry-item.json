@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "bart-krakowski-thanos-snap-effect",
+  "type": "registry:ui",
+  "title": "Bart Krakowski Thanos Snap Effect",
+  "description": "Installed from https://21st.dev/r/bart-krakowski/thanos-snap-effect",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "bart-krakowski-thanos-snap-effect"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "thanos-snap-effect.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/bart-krakowski/thanos-snap-effect",
+    "fetchedAt": "2026-04-23T03:03:40.976Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

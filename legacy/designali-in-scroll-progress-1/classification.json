@@ -1,0 +1,32 @@
+{
+  "category": "feedback",
+  "subcategory": "scroll progress indicator",
+  "visual_style": [
+    "gradient",
+    "colorful"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display reading progress on blog posts or articles",
+    "Show scroll position on long-form content pages",
+    "Indicate page navigation progress in multi-step onboarding",
+    "Visual feedback for document or page traversal",
+    "Progress indication for scannable content-heavy websites"
+  ],
+  "ai_summary": "A highly customizable scroll progress bar component that displays reading or scroll progress at the top or bottom of the viewport. Built with framer-motion for smooth spring-based animations and supports multiple gradient variants, sizes, and glow effects to match various design systems.",
+  "_classifiedAt": "2026-04-23T16:32:47.785Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

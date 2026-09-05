@@ -1,0 +1,38 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "text-input-field",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "fintech",
+    "healthcare",
+    "education",
+    "real-estate",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Collecting user text input in forms such as login, registration, and contact forms",
+    "Accepting email, password, or search queries in web applications",
+    "Acting as a base component for building more complex form inputs like comboboxes or masked inputs",
+    "Serving as a reusable styled input across a design system or component library"
+  ],
+  "ai_summary": "A lightweight, reusable text input component from the ekmas design system built with React and Tailwind CSS. Provides a styled wrapper around the native HTML input element with ref forwarding, accessibility focus states, and consistent border, spacing, and typography utilities. Designed as a foundational atomic component for building any form-based interface requiring user text entry.",
+  "_classifiedAt": "2026-04-23T16:38:44.945Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "moazamtrade__background-shader",
+  "author": "moazamtrade",
+  "slug": "background-shader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@moazamtrade/components/background-shader",
+  "fetchedAt": "2026-08-29T05:46:43.836Z",
+  "completedAt": "2026-08-29T05:46:47.611Z",
+  "versionedFilename": "code.1757496668849.tsx",
+  "codeReference": "r2://components-code-private/moazamtrade/background-shader/code.1757496668849.tsx",
+  "codeUrl": "https://cdn.21st.dev/moazamtrade/background-shader/code.1757496668849.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1424,
+  "sha256": "2ce167030a45a202a9bf24530de305d2b49c709577d85593b0ec145a0397f11b",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

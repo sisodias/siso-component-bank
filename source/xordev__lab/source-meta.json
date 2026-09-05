@@ -1,0 +1,26 @@
+{
+  "id": "xordev__lab",
+  "author": "xordev",
+  "slug": "lab",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@xordev/components/lab",
+  "fetchedAt": "2026-08-29T07:57:47.768Z",
+  "completedAt": "2026-08-29T07:57:50.082Z",
+  "versionedFilename": "code.1756924831835.tsx",
+  "codeReference": "r2://components-code-private/larsen66/lab/code.1756924831835.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/lab/code.1756924831835.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5600,
+  "sha256": "87cc932d751f70f0d8b6475e3740878ee487a3d07276fa0d13bcdbaa4e9becd6",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

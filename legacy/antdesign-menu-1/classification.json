@@ -1,0 +1,31 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "horizontal menu with icons and nested submenus",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Top-level navigation for websites and web applications",
+    "Navigation menus with icon-enhanced menu items",
+    "Hierarchical navigation with dropdown submenus",
+    "Navigation with disabled states and external links"
+  ],
+  "ai_summary": "A horizontal navigation menu component built with Ant Design featuring icon support, disabled item states, nested submenu groups, and reactive selection state management. The component renders a top navigation bar with mail, app store, and settings icons, supporting both click-to-select behavior and external link navigation.",
+  "_classifiedAt": "2026-04-22T08:51:37.659Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

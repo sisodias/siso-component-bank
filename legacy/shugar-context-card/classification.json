@@ -1,0 +1,30 @@
+{
+  "category": "card",
+  "subcategory": "contextual-reveal",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying contextual help text or hints when users hover over UI elements",
+    "Showing detailed information about a product feature or specification in e-commerce",
+    "Providing tooltips with additional context for form fields or data points",
+    "Revealing feature explanations or keyboard shortcuts in SaaS applications",
+    "Offering quick-reference information in educational or documentation interfaces"
+  ],
+  "ai_summary": "A lightweight context card component that reveals contextual information through hover-triggered tooltips. Built with react-tooltip for accessible positioning and theming support via CSS variables. Ideal for SaaS dashboards, e-commerce product pages, and developer tools interfaces where supplementary information needs to be available on demand without cluttering the primary UI.",
+  "_classifiedAt": "2026-04-23T17:29:58.603Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

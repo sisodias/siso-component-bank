@@ -1,0 +1,30 @@
+{
+  "category": "overlay",
+  "subcategory": "search-command-palette-spotlight",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Global search overlay for quick content discovery within applications",
+    "Command palette for fast navigation to pages, settings, or actions",
+    "Spotlight-style search bar for productivity tools and dashboards",
+    "Quick-access shortcut launcher for frequently used features",
+    "Unified search interface for desktop and web applications"
+  ],
+  "ai_summary": "A macOS Spotlight-inspired search overlay component with glassmorphism aesthetics, featuring blur effects, smooth framer-motion animations, and shortcut buttons for quick navigation. Includes SVG blob filters for visual depth and supports keyboard navigation for power users seeking fast, accessible search functionality across SaaS and productivity applications.",
+  "_classifiedAt": "2026-04-22T09:13:40.316Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

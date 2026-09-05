@@ -1,0 +1,41 @@
+{
+  "category": [
+    "form",
+    "input"
+  ],
+  "subcategory": "Primitive button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Form submission triggers with primary or destructive variants",
+    "Call-to-action buttons in marketing and landing pages",
+    "Navigation triggers and link-style buttons",
+    "Interactive controls with multiple size options for different contexts",
+    "Accessible form controls with keyboard navigation and focus states"
+  ],
+  "ai_summary": "A shadcn/ui button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes, built with Radix UI Slot for composition. Features standard hover, focus, and disabled states with accessible focus ring styling. Uses class-variance-authority for type-safe variant management.",
+  "_classifiedAt": "2026-04-23T17:27:00.132Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "toggle-switch",
+  "visual_style": [
+    "skeuomorphic",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Binary on/off state selection for settings panels",
+    "Enabling/disabling features in configuration interfaces",
+    "Toggle-based form controls for preference management",
+    "Dark-themed UI toggle for boolean options",
+    "Interactive switch for feature flags"
+  ],
+  "ai_summary": "A skeuomorphic toggle switch component styled with gradient fills, inset shadows, and realistic 3D-like depth effects. Features a red radial gradient for the on state and gray tones for the off state, with smooth 0.2s transitions on the indicator elements. The component uses a hidden checkbox input with styled label and pseudo-elements to create a realistic physical switch appearance, suitable for settings interfaces and preference panels across various applications.",
+  "_classifiedAt": "2026-04-23T01:48:18.869Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

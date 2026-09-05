@@ -1,0 +1,36 @@
+{
+  "category": [
+    "navigation",
+    "data-display"
+  ],
+  "subcategory": "draggable-infinite-scroll-container",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "drag",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creating infinite horizontal or vertical draggable scroll areas for gallery content",
+    "Building interactive image grids with masonry or polaroid layouts",
+    "Implementing touch-friendly drag navigation for mobile apps",
+    "Adding wheel scroll support to drag-based interfaces",
+    "Creating photo carousels or asset browsers with smooth momentum-based scrolling"
+  ],
+  "ai_summary": "An infinite drag scroll container component using Framer Motion that enables smooth, momentum-based drag interactions with wheel scroll support. Features wrapping logic for seamless infinite scrolling and supports multiple layout variants (default, masonry, polaroid). Optimized for gallery-style content and image browsers where users need fluid navigation through large collections.",
+  "_classifiedAt": "2026-04-23T17:21:28.980Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

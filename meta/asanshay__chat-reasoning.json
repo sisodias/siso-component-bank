@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@asanshay/components/chat-reasoning",
+  "author": "asanshay",
+  "slug": "chat-reasoning",
+  "name": "chat-reasoning",
+  "description": "A collapsible reasoning panel for AI chat that shows a model's step-by-step thinking and tool calls, ready for the Vercel AI SDK useChat().",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/asanshay/chat-reasoning?api_key=$API_KEY_21ST\"",
+  "id": "asanshay__chat-reasoning",
+  "bundleUrl": "https://cdn.21st.dev/asanshay/chat-reasoning/default/bundle.1784309213191-d1db94c2-b5c9-4a24-96a1-7f2e6e821c14.html",
+  "previewUrl": "https://cdn.21st.dev/asanshay/chat-reasoning/default/preview.1784309213191-d1db94c2-b5c9-4a24-96a1-7f2e6e821c14.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

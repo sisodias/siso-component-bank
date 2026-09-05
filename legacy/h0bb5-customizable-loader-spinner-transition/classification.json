@@ -1,0 +1,35 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "animated-loader-spinner",
+  "visual_style": [
+    "minimalist",
+    "colorful",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display loading states during data fetching or async operations",
+    "Provide visual feedback during page transitions or navigation",
+    "Indicate processing status for form submissions or API calls",
+    "Show activity during multi-step workflows or onboarding",
+    "Enhance user experience with customizable animated loaders"
+  ],
+  "ai_summary": "A customizable animated loader spinner featuring nested squares that scale, rotate, and blur in a synchronized animation. The component includes interactive controls for adjusting square count, animation speed, and pause/play functionality. Built with React hooks for state management and dynamically injected CSS animations for smooth performance.",
+  "_classifiedAt": "2026-04-23T16:41:15.293Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

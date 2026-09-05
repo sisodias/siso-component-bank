@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "badge",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying status labels such as Active, Pending, or Draft in application interfaces",
+    "Tagging content with categorical labels or keywords for organization",
+    "Showing notification counts or alerts in navigation headers",
+    "Indicating user roles, permissions, or account types",
+    "Marking products or content as Featured, New, or On Sale"
+  ],
+  "ai_summary": "A reusable badge component with CVA-based variant support for displaying status labels, tags, and categorical information. Features pill-shaped styling with default, secondary, destructive, and outline variants. Designed as a lightweight atomic component suitable for use across any industry or platform.",
+  "_classifiedAt": "2026-04-23T16:51:07.915Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

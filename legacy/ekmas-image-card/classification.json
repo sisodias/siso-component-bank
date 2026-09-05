@@ -1,0 +1,32 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "image-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying images with descriptive captions in gallery layouts",
+    "Showcasing blog post thumbnails with short descriptions",
+    "Presenting portfolio or project items with brief text",
+    "Creating media grids with consistent styling across image cards",
+    "Adding simple image showcases to landing pages or product features"
+  ],
+  "ai_summary": "A lightweight, semantic image card component using HTML5 figure/figcaption elements with a fixed 250px width. Features a 4:3 aspect ratio image container, rounded corners with subtle border and shadow styling, and a caption area below the image. Built with Tailwind CSS using a base theme system for consistent theming across design systems. Perfect for creating uniform image grids or media galleries with minimal configuration.",
+  "_classifiedAt": "2026-04-23T16:38:39.544Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

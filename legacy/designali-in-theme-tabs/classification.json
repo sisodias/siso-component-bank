@@ -1,0 +1,37 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "tab-button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Tab navigation to switch between content panels in dashboard interfaces",
+    "Action buttons for triggering events in SaaS applications",
+    "Navigation controls for organizing content sections on landing pages",
+    "Interactive form submission buttons for e-commerce checkout flows",
+    "Tab switching for settings and configuration panels in dev tools"
+  ],
+  "ai_summary": "A flexible button component with multiple variants and sizes, designed for tab navigation systems. Built with Radix UI Slot for composition, class-variance-authority for variant management, and includes accessibility-focused focus-visible states for keyboard navigation. Supports asChild prop for polymorphic rendering.",
+  "_classifiedAt": "2026-04-23T16:33:42.815Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

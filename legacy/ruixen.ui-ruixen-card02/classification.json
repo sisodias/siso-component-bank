@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons in forms and landing pages",
+    "Destructive action triggers with confirmation patterns",
+    "Secondary navigation and menu item buttons",
+    "Icon-only buttons for compact UI toolbars and controls"
+  ],
+  "ai_summary": "A reusable button component with multiple style variants (default, destructive, outline, secondary, ghost, link) and size options. Built with Radix UI Slot for asChild composition, CVA for variant management, and Tailwind CSS for styling. Supports standard button interactions including hover states, focus indicators, and disabled states.",
+  "_classifiedAt": "2026-04-23T17:20:08.235Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

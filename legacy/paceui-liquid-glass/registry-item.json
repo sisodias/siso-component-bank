@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "paceui-liquid-glass",
+  "type": "registry:ui",
+  "title": "Paceui Liquid Glass",
+  "description": "Installed from https://21st.dev/r/paceui/liquid-glass",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "paceui-liquid-glass"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "liquid-glass.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@gsap/react",
+    "gsap"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/paceui/liquid-glass",
+    "fetchedAt": "2026-04-23T03:04:01.738Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

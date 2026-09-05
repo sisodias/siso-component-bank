@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Form submission triggers and CTAs in web applications",
+    "Navigation actions within dashboards or multi-step flows",
+    "Icon buttons for toolbars and compact UI areas",
+    "Destructive action buttons with confirmation patterns",
+    "Secondary/tertiary actions alongside primary CTAs"
+  ],
+  "ai_summary": "A foundational button component built with Radix UI Slot and class-variance-authority for flexible variant management. Supports multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes (default, small, large, icon). Implements standard accessibility patterns with focus-visible states and disabled states. Clean Tailwind-based styling makes it suitable as a building block for any SaaS or web application UI system.",
+  "_classifiedAt": "2026-04-23T16:43:00.749Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,36 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in navigation bars and headers",
+    "Form submission and action triggers throughout an interface",
+    "Icon-only buttons for compact navigation controls",
+    "Secondary action buttons in modal dialogs and overlays",
+    "Destructive action triggers with visual warning states"
+  ],
+  "ai_summary": "A versatile atomic button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes. Built with Radix UI Slot for composition, CVA for variant management, and Tailwind for styling. Features hover states, focus-visible outlines for accessibility, and disabled states. Shadow effects add subtle depth while maintaining a minimalist aesthetic suitable for any web application.",
+  "_classifiedAt": "2026-04-23T17:04:36.023Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

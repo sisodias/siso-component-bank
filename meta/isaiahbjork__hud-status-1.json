@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@isaiahbjork/components/hud-status-1",
+  "author": "isaiahbjork",
+  "slug": "hud-status-1",
+  "name": "hud-status-1",
+  "description": "This is a themed status indicator component that renders a glowing SVG badge with animated text to signal system activity. It adapts dynamically to light/dark themes using color logic tied to the HUD palette, and uses framer-motion for a smooth entrance slide-in. The HyperText element pulses \"ACTIVE\" with a typewriter-style animation effect for attention.\n\nPerfect for live status dashboards, AI system UIs, bot presence indicators, or futuristic HUD overlays that require a subtle but animated signal of system readiness.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/isaiahbjork/hud-status-1?api_key=$API_KEY_21ST\"",
+  "id": "isaiahbjork__hud-status-1",
+  "bundleUrl": "https://cdn.21st.dev/isaiahbjork/hud-status-1/default/bundle.1748975039404.html",
+  "previewUrl": "https://cdn.21st.dev/isaiahbjork/hud-status-1/default/preview.1748975039404.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 7,
+  "demo_id": 2549,
+  "video_url": "https://cdn.21st.dev/user_2tkbBPFWYn8YMjZNHwgIuP3yzvd/hud-status-1/default/video.1750809178577.mp4"
+}

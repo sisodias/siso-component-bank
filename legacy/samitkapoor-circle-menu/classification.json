@@ -1,0 +1,32 @@
+{
+  "category": [
+    "navigation",
+    "overlay"
+  ],
+  "subcategory": "circular-radial-expandable-menu",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Floating action menu for quick navigation actions in SaaS dashboards",
+    "Radial context menu for creative tools and design software",
+    "Expandable navigation hub for mobile-first web applications",
+    "Quick links menu for portfolio and landing pages",
+    "Alternative to traditional dropdown menus in modern web interfaces"
+  ],
+  "ai_summary": "A circular expandable menu component that reveals menu items arranged radially around a central trigger button. Features smooth spring-based animations with staggered timing, hover effects with brightness changes, and clean minimalist styling. The menu calculates item positions mathematically on a circle and animates between collapsed and expanded states using framer-motion. Ideal for dashboards, creative tools, and modern navigation patterns where space efficiency and visual appeal are priorities.",
+  "_classifiedAt": "2026-04-22T09:13:46.960Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

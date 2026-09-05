@@ -1,0 +1,28 @@
+{
+  "category": "feedback",
+  "subcategory": "cookie-consent-banner",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display cookie consent banner on page load to inform users about cookie usage",
+    "Allow users to accept all cookies with one click for quick consent",
+    "Enable customization of cookie preferences across necessary, functional, analytics, and marketing categories",
+    "Persist cookie preferences in localStorage for return visits",
+    "Show/hide preferences panel with smooth animation for expanded control"
+  ],
+  "ai_summary": "A cookie consent banner component with customizable preference controls. Features smooth show/hide animations, localStorage persistence for consent preferences, expandable preferences panel for granular cookie category selection (necessary, functional, analytics, marketing), and customizable text options. Responsive design works across desktop and mobile platforms with clean flat visual styling.",
+  "_classifiedAt": "2026-04-23T11:31:05.046Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

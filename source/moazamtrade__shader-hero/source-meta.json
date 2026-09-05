@@ -1,0 +1,26 @@
+{
+  "id": "moazamtrade__shader-hero",
+  "author": "moazamtrade",
+  "slug": "shader-hero",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@moazamtrade/components/shader-hero",
+  "fetchedAt": "2026-08-29T05:47:54.559Z",
+  "completedAt": "2026-08-29T05:47:56.711Z",
+  "versionedFilename": "code.1756288225821.tsx",
+  "codeReference": "r2://components-code-private/moazamtrade/shader-hero/code.1756288225821.tsx",
+  "codeUrl": "https://cdn.21st.dev/moazamtrade/shader-hero/code.1756288225821.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7498,
+  "sha256": "148794e8c7e2e50dbb2ecaf74dc6caa759ccd2eb27358d3b47399db1bf5e787e",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

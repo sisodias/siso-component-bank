@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@theorcdev/components/8bit-enemy-health-display",
+  "author": "theorcdev",
+  "slug": "8bit-enemy-health-display",
+  "name": "8bit-enemy-health-display",
+  "description": "An 8-bit styled enemy health display built on the retro health-bar primitive. Shows enemy name, level, and a health bar with a percentage overlay, driven by current/max health values.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/theorcdev/8bit-enemy-health-display?api_key=$API_KEY_21ST\"",
+  "id": "theorcdev__8bit-enemy-health-display",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/8bit-enemy-health-display/default/bundle.1780279045096.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/8bit-enemy-health-display/default/preview.1780279045096.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

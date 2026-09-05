@@ -1,0 +1,30 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action triggers in forms and dashboards",
+    "Navigation actions between pages or views",
+    "Destructive actions like delete or cancel operations",
+    "Icon-only buttons for compact toolbars and tooltips",
+    "Ghost-style buttons for secondary actions and menus"
+  ],
+  "ai_summary": "A reusable Button component built with Radix UI Slot and class-variance-authority, providing multiple visual variants (default, destructive, outline, secondary, ghost, link) and size options. Supports asChild prop for composition with other components. Standard focus and hover states included via Tailwind utilities, making it suitable as a foundational UI element across any SaaS, e-commerce, or application context.",
+  "_classifiedAt": "2026-04-22T09:10:19.200Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

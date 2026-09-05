@@ -1,0 +1,31 @@
+{
+  "category": "layout",
+  "subcategory": "geometric-animated-background",
+  "visual_style": [
+    "dark",
+    "gradient",
+    "glass-morphism"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero section backgrounds for landing pages and marketing sites",
+    "Decorative animated layer for SaaS dashboards and portfolios",
+    "Ambient visual element for presentation or slideshow backgrounds",
+    "Page wrapper providing subtle motion to reduce visual static"
+  ],
+  "ai_summary": "A dark-themed geometric background component featuring floating, animated oval shapes with glass-morphism effects and gradient borders. The ElegantShape subcomponent uses Framer Motion for smooth entrance animations and continuous floating motion, creating an elegant ambient effect suitable for hero sections or page backgrounds. The component wraps children while providing a sophisticated animated visual layer with subtle glow and blur effects.",
+  "_classifiedAt": "2026-04-23T11:33:26.766Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

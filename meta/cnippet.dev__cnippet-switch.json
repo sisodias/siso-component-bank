@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@cnippet.dev/components/cnippet-switch",
+  "author": "cnippet.dev",
+  "slug": "cnippet-switch",
+  "name": "cnippet-switch",
+  "description": "An accessible toggle switch built on Base UI's Switch primitive. Animated thumb with a springy press/scale interaction, two sizes (default and sm), controlled or uncontrolled usage via checked / defaultChecked, disabled state, and easy accent recoloring through the data-checked:* utilities. Re-exports SwitchPrimitive for advanced composition.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/cnippet.dev/cnippet-switch?api_key=$API_KEY_21ST\"",
+  "id": "cnippet.dev__cnippet-switch",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/cnippet-switch/default/bundle.1783606379538.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/cnippet-switch/default/preview.1783606379538.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

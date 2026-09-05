@@ -1,0 +1,28 @@
+{
+  "category": "input",
+  "subcategory": "animated-checkbox",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Toggle boolean settings in forms and preferences panels",
+    "Select single items in lists and tables with animated feedback",
+    "Capture user consent or agreement in registration flows",
+    "Mark tasks or items as complete with visual confirmation",
+    "Filter content or search results in dashboards"
+  ],
+  "ai_summary": "Berlix Checkbox is an animated checkbox component that draws a stroke-based checkmark using motion/react when toggled. It features customizable size, color, and animation duration, making it a polished, modern replacement for default browser checkboxes. The component is ideal for SaaS dashboards, e-commerce interfaces, and dev-tools that require visually engaging form elements with smooth micro-interactions.",
+  "_classifiedAt": "2026-04-23T11:33:05.455Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

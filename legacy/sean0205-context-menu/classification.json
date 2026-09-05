@@ -1,0 +1,30 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "context-menu",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Right-click context menus for desktop and mobile web applications",
+    "Nested submenu navigation for complex action hierarchies",
+    "Application-specific context-sensitive actions and controls",
+    "Accessible menu systems with built-in keyboard navigation support",
+    "Custom-styled dropdown menus triggered by user interaction"
+  ],
+  "ai_summary": "A Radix UI-based context menu component with nested submenu support and comprehensive keyboard accessibility. Built with Tailwind CSS for minimalist styling, it provides a complete menu system including triggers, groups, radio groups, and portal rendering. The component follows shadcn/ui patterns with clean, accessible menu interactions suitable for any web application requiring right-click or custom menu functionality.",
+  "_classifiedAt": "2026-04-23T17:22:34.098Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

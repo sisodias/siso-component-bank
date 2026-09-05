@@ -1,0 +1,36 @@
+{
+  "category": [
+    "media",
+    "layout"
+  ],
+  "subcategory": "aspect-ratio-container",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Creating responsive video embeds with fixed aspect ratios like 16:9 or 4:3",
+    "Maintaining consistent image proportions within card and grid layouts",
+    "Building responsive iframe containers for embedded third-party content",
+    "Creating uniform thumbnail containers in galleries and product listings"
+  ],
+  "ai_summary": "A lightweight wrapper around Radix UI AspectRatio primitive that constrains content to a specified aspect ratio. This atomic utility component is commonly used for creating responsive media containers that maintain consistent proportions across different screen sizes, particularly useful for video embeds, image galleries, and card-based layouts.",
+  "_classifiedAt": "2026-04-23T16:28:16.407Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

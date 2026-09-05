@@ -1,0 +1,37 @@
+{
+  "category": [
+    "card",
+    "media"
+  ],
+  "subcategory": "3d-card-carousel",
+  "visual_style": [
+    "3d",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "media",
+    "e-commerce",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Image gallery with immersive 3D card transitions for portfolio or media sites",
+    "Product showcase carousel with hover-to-reveal card details",
+    "Feature highlight section with scroll-driven 3D depth animation",
+    "Creative portfolio with interactive 3D card stacking effect",
+    "Team member showcase with perspective-based card rotations"
+  ],
+  "ai_summary": "A 3D sliding card carousel component featuring perspective transforms (rotateX, rotateY, rotateZ), scroll-triggered vertical animation, and hover interactions that expand individual cards. The component applies CSS 3D transforms with a -25deg Y rotation and -120deg Z rotation to create an immersive card stacking effect. Ideal for showcasing images, products, or content with depth and visual intrigue.",
+  "_classifiedAt": "2026-04-23T11:28:08.706Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

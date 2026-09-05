@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/color-emotion-select",
+  "author": "ruixen.ui",
+  "slug": "color-emotion-select",
+  "name": "color-emotion-select",
+  "description": "The Color-Emotion Semantic Select is a reusable UI component built with shadcn UI’s Select primitives that lets you visually map options to meaningful colors and emotions. Instead of showing plain text choices, each option carries a color indicator—such as red for “High Priority,” yellow for “Warning,” or blue for “Calm”—and can also include an emoji or icon to express mood or intensity. This makes the dropdown more intuitive, accessible, and quick to scan, especially in dashboards, analytics tools, or design systems where colors already communicate status or priority.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/color-emotion-select?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__color-emotion-select",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/color-emotion-select/default/bundle.1758907534685.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/color-emotion-select/default/preview.1758907534685.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 16,
+  "demo_id": 8176,
+  "video_url": null
+}

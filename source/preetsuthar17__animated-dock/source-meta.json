@@ -1,0 +1,33 @@
+{
+  "id": "preetsuthar17__animated-dock",
+  "author": "preetsuthar17",
+  "slug": "animated-dock",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@preetsuthar17/components/animated-dock",
+  "fetchedAt": "2026-08-29T06:12:08.458Z",
+  "completedAt": "2026-08-29T06:12:09.570Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/preetsuthar17__animated-dock/code.tsx",
+    "bytes": 2524,
+    "sha256": "a56f9910874c46a1af2fef79a8970a6694916a4d0a37d5d91d7aea1714119750",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

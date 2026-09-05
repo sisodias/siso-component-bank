@@ -1,0 +1,26 @@
+{
+  "id": "kokonutd__ai-input-with-search",
+  "author": "kokonutd",
+  "slug": "ai-input-with-search",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@kokonutd/components/ai-input-with-search",
+  "fetchedAt": "2026-08-29T05:17:47.855Z",
+  "completedAt": "2026-08-29T05:17:48.939Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null
+}

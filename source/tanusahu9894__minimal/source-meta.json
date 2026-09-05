@@ -1,0 +1,26 @@
+{
+  "id": "tanusahu9894__minimal",
+  "author": "tanusahu9894",
+  "slug": "minimal",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@tanusahu9894/components/minimal",
+  "fetchedAt": "2026-08-29T07:30:41.039Z",
+  "completedAt": "2026-08-29T07:30:43.025Z",
+  "versionedFilename": "code.1784299877112-db2cf451-94f5-41c8-afe2-1498701ca86c.tsx",
+  "codeReference": "r2://components-code-private/tanusahu9894/minimal/code.1784299877112-db2cf451-94f5-41c8-afe2-1498701ca86c.tsx",
+  "codeUrl": "https://cdn.21st.dev/tanusahu9894/minimal/code.1784299877112-db2cf451-94f5-41c8-afe2-1498701ca86c.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

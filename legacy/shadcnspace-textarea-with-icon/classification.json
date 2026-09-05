@@ -1,0 +1,35 @@
+{
+  "category": "input",
+  "subcategory": "textarea-label",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "healthcare",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Form labels for textarea input fields with icon support",
+    "Accessible form components using Radix UI primitives",
+    "Styled text input labels in modern web applications"
+  ],
+  "ai_summary": "A reusable Label component for textarea inputs, built with Radix UI primitives and styled using Tailwind CSS via class-variance-authority. Part of the shadcnspace component collection, providing accessible form labeling with consistent styling patterns.",
+  "_classifiedAt": "2026-04-22T09:15:30.766Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:36:28.006Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

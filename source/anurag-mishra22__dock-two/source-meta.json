@@ -1,0 +1,26 @@
+{
+  "id": "anurag-mishra22__dock-two",
+  "author": "anurag-mishra22",
+  "slug": "dock-two",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@anurag-mishra22/components/dock-two",
+  "fetchedAt": "2026-08-29T03:36:44.331Z",
+  "completedAt": "2026-08-29T03:36:46.555Z",
+  "versionedFilename": "code.1737719843414.tsx",
+  "codeReference": "r2://components-code-private/user_2rdX0nxNZVHvzWonaWWUowA52VG/dock-two/code.1737719843414.tsx",
+  "codeUrl": "https://cdn.21st.dev/user_2rdX0nxNZVHvzWonaWWUowA52VG/dock-two/code.1737719843414.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2494,
+  "sha256": "b234c02c0f6de782b850ef0c2d8b82fa1585b166f95654534608ce7dd0fb9b34",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

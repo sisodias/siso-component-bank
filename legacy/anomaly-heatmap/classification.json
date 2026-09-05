@@ -1,0 +1,28 @@
+{
+  "category": "card",
+  "subcategory": "heatmap",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Security teams monitoring suspicious activity across time windows",
+    "DevOps tracking anomaly intensity patterns in system logs",
+    "Fintech dashboards visualizing fraud detection signals",
+    "Analytics platforms displaying intensity-based data across grid layouts",
+    "Operations centers monitoring system health with visual heatmaps"
+  ],
+  "ai_summary": "AnomalyHeatmap is a data visualization card component that renders a configurable grid of cells with intensity-based color gradients. Each cell scales and glows on hover with staggered animation delays, creating a dynamic monitoring dashboard element. Supports dark/light themes and displays anomaly intensity using cyan color scaling from 15% to 85% opacity.",
+  "_classifiedAt": "2026-04-22T08:51:26.994Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

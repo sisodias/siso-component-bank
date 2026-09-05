@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "tigerabrodi-smart-textbox",
+  "type": "registry:ui",
+  "title": "Tigerabrodi Smart Textbox",
+  "description": "Installed from https://21st.dev/r/tigerabrodi/smart-textbox",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "tigerabrodi-smart-textbox"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "smart-textbox.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@tigerabrodioss/fude"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "requires @tigerabrodioss/fude (package not on npm)"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/tigerabrodi/smart-textbox",
+    "fetchedAt": "2026-04-22T06:32:05.678Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

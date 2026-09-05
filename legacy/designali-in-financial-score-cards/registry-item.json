@@ -1,0 +1,57 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "designali-in-financial-score-cards",
+  "type": "registry:ui",
+  "title": "Designali In Financial Score Cards",
+  "description": "Installed from https://21st.dev/r/designali-in/financial-score-cards",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "designali-in-financial-score-cards"
+  ],
+  "files": [
+    {
+      "path": "badge.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "financial-score-cards.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "liquid-glass-button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "liquid-glass-card.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-slot",
+    "class-variance-authority"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/designali-in/financial-score-cards",
+    "fetchedAt": "2026-04-23T02:28:49.468Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

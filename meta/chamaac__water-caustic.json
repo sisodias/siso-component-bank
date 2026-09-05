@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@chamaac/components/water-caustic",
+  "author": "chamaac",
+  "slug": "water-caustic",
+  "name": "water-caustic",
+  "description": "An animated, tileable water caustic lighting effect rendered with a WebGL shader for glowing underwater ripple backgrounds.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/chamaac/water-caustic?api_key=$API_KEY_21ST\"",
+  "id": "chamaac__water-caustic",
+  "bundleUrl": "https://cdn.21st.dev/chamaac/water-caustic/default/bundle.1784758454989-5cb8faaf-60c6-4ae2-98be-70b8f76848de.html",
+  "previewUrl": "https://cdn.21st.dev/chamaac/water-caustic/default/preview.1784758454989-5cb8faaf-60c6-4ae2-98be-70b8f76848de.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

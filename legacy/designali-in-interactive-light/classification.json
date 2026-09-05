@@ -1,0 +1,32 @@
+{
+  "category": "other",
+  "subcategory": "interactive-lighting-lamp",
+  "visual_style": [
+    "3d",
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero section interactive lighting that follows mouse movement for engagement",
+    "Portfolio or landing page ambient lighting effects with customizable colors",
+    "Interactive background elements that respond to user cursor position",
+    "Product showcase lighting effects with directional glow transitions"
+  ],
+  "ai_summary": "An interactive lamp component that creates dynamic 3D lighting effects following mouse movement. Features customizable shine colors, directional light casting (left, right, top, bottom), and smooth transition animations. Uses CSS box-shadow manipulation to simulate realistic light glow and spread effects with varying opacity gradients.",
+  "_classifiedAt": "2026-04-23T01:37:43.877Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

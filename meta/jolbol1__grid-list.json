@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@jolbol1/components/grid-list",
+  "author": "jolbol1",
+  "slug": "grid-list",
+  "name": "grid-list",
+  "description": "A grid list displays a list of interactive items, with support for keyboard navigation, single or multiple selection, and row actions.\n\nA list can be built using <ul> or <ol> HTML elements, but does not support any user interactions. HTML lists are meant for static content, rather than lists with rich interactions like focusable elements within rows, keyboard navigation, row selection, etc. GridList helps achieve accessible and interactive list components that can be styled as needed.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/jolbol1/grid-list?api_key=$API_KEY_21ST\"",
+  "id": "jolbol1__grid-list",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1404.html",
+  "previewUrl": "https://cdn.21st.dev/user_jolbol1/grid-list.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 59,
+  "demo_id": 1404,
+  "video_url": "https://cdn.21st.dev/user_jolbol1/grid-list/default/video.mp4"
+}

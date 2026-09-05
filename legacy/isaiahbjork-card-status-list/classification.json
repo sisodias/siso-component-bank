@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "task-status-checklist",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Displaying a list of tasks or setup steps with real-time status indicators for onboarding flows",
+    "Showing sync progress for items like product imports or data synchronization",
+    "Tracking completion status of multiple items in a checklist interface",
+    "Providing visual feedback when users click to synchronize individual cards",
+    "Creating an interactive progress tracker for multi-step workflows"
+  ],
+  "ai_summary": "An animated task status list component that displays cards with three states: completed, updates-found, and syncing. Features smooth CSS animations cycling through dash patterns for loading states, hover effects on cards, and click-to-sync functionality with automatic status transitions. Designed for tracking multi-step setup or synchronization workflows in SaaS applications, with accessibility support for reduced motion preferences.",
+  "_classifiedAt": "2026-04-23T16:43:54.457Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

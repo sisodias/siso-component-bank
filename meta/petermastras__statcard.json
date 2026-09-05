@@ -1,0 +1,18 @@
+{
+  "url": "https://21st.dev/@petermastras/components/statcard",
+  "author": "petermastras",
+  "slug": "statcard",
+  "name": "statcard",
+  "description": "Cerulean Edge stat card with accent bar, trend indicator, and optional link. Used in dashboards to display key financial metrics with typographic-led design.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/petermastras/statcard?api_key=$API_KEY_21ST\"",
+  "id": "petermastras__statcard",
+  "bundleUrl": "https://cdn.21st.dev/petermastras/statcard/default/bundle.1780848570822.html",
+  "previewUrl": null,
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "preview": "preview.png",
+  "previewVia": "ogCard"
+}

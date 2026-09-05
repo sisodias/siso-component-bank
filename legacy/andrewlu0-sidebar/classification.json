@@ -1,0 +1,34 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "sidebar-user-nav",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "User session navigation with avatar display in application sidebars",
+    "Dashboard navigation panels for SaaS applications",
+    "Authenticated user context menus and profile sections",
+    "Multi-user workspace navigation sidebars",
+    "Settings and account management navigation"
+  ],
+  "ai_summary": "A navigation sidebar component with integrated user avatar display, built using Radix UI primitives. Features a SessionNavBar implementation with Avatar, AvatarImage, and AvatarFallback sub-components for handling user profile display with graceful fallbacks for missing images. Designed for authenticated app experiences requiring user context in navigation.",
+  "_classifiedAt": "2026-04-23T11:30:17.584Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

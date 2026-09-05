@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@theorcdev/components/8bit-save-slots",
+  "author": "theorcdev",
+  "slug": "8bit-save-slots",
+  "name": "8bit-save-slots",
+  "description": "An 8-bit save/load game interface that lists save files with floppy-disk previews, timestamps, saved badges, and empty-slot placeholders. Built on the 8bitcn card, badge, button, and separator primitives.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/theorcdev/8bit-save-slots?api_key=$API_KEY_21ST\"",
+  "id": "theorcdev__8bit-save-slots",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/8bit-save-slots/default/bundle.1780523894542.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/8bit-save-slots/default/preview.1780523894542.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "category": "input",
+  "subcategory": "toggle-switch",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Toggle boolean settings or feature flags in application interfaces",
+    "Enable or disable notifications and preferences in user settings",
+    "Control binary on/off states in configuration panels"
+  ],
+  "ai_summary": "A minimalist toggle switch component built with Ark UI and styled with Tailwind CSS. Features a rounded pill-shaped track that transitions from gray to blue when activated, with a white thumb that slides horizontally. Includes accessible focus states and dark mode support for versatile integration across light and dark themes.",
+  "_classifiedAt": "2026-04-22T08:52:05.734Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

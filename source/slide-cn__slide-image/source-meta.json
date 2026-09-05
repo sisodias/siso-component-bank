@@ -1,0 +1,26 @@
+{
+  "id": "slide-cn__slide-image",
+  "author": "slide-cn",
+  "slug": "slide-image",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@slide-cn/components/slide-image",
+  "fetchedAt": "2026-08-29T07:22:16.279Z",
+  "completedAt": "2026-08-29T07:22:18.477Z",
+  "versionedFilename": "code.1784362069098-29520ed6-b4fa-4e5c-aef6-b27acab303c9.tsx",
+  "codeReference": "r2://components-code-private/slide-cn/slide-image/code.1784362069098-29520ed6-b4fa-4e5c-aef6-b27acab303c9.tsx",
+  "codeUrl": "https://cdn.21st.dev/slide-cn/slide-image/code.1784362069098-29520ed6-b4fa-4e5c-aef6-b27acab303c9.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

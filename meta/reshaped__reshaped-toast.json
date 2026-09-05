@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@reshaped/components/reshaped-toast",
+  "author": "reshaped",
+  "slug": "reshaped-toast",
+  "name": "reshaped-toast",
+  "description": "Notification system driven by the useToast hook (show/hide) and ToastProvider for scoped render regions. Toasts support an icon, title, text and 1-2 actions, five colors (inverted default plus neutral/primary/positive/critical), configurable position, timeout and width, vertical action layout, a custom startSlot and fully custom children layouts for banners.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/reshaped/reshaped-toast?api_key=$API_KEY_21ST\"",
+  "id": "reshaped__reshaped-toast",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/reshaped-toast/default/bundle.1783530330503.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/reshaped-toast/default/preview.1783530330503.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

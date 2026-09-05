@@ -1,0 +1,33 @@
+{
+  "category": "media",
+  "subcategory": "Feature step carousel with animated product showcase",
+  "visual_style": [
+    "dark",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Showcasing product features on SaaS landing pages with animated transitions",
+    "Guiding users through onboarding workflows with step-by-step visual tours",
+    "Displaying feature highlights with parallax mouse-following effects on marketing sites",
+    "Presenting service capabilities with smooth animated card transitions in dashboards",
+    "Highlighting product benefits with gradient animations during user demonstrations"
+  ],
+  "ai_summary": "An animated feature carousel component built with Framer Motion that displays 4 product steps with smooth transitions, mouse-following parallax effects, and gradient styling. Each step shows title, description, and paired images with hover animations. The component uses motion values for interactive mouse tracking and AnimatePresence for fluid step transitions. Designed for SaaS and product marketing pages to showcase features through an engaging, animated carousel interface.",
+  "_classifiedAt": "2026-04-23T16:57:56.257Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

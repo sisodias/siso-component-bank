@@ -1,0 +1,41 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "numeric-counter",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "healthcare",
+    "education",
+    "real-estate",
+    "media",
+    "creator-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Numeric counter for tracking quantities or inventory in dashboards and forms",
+    "Step counter for multi-step processes like wizards or onboarding flows",
+    "Simple value selector for quantity inputs in e-commerce or order systems",
+    "Interactive counter for displaying and adjusting numeric values in real-time",
+    "Basic increment/decrement control for managing counts in various applications"
+  ],
+  "ai_summary": "A lightweight, reusable counter component featuring increment and decrement buttons with state management. Designed for tracking numeric values in interfaces, this minimal component serves as a foundational element for quantity selectors, inventory displays, and step-by-step navigation systems.",
+  "_classifiedAt": "2026-04-22T08:54:50.628Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

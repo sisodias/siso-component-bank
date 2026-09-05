@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "prashantsom75-scroll-morph-hero",
+  "type": "registry:ui",
+  "title": "Prashantsom75 Scroll Morph Hero",
+  "description": "Installed from https://21st.dev/r/prashantsom75/scroll-morph-hero",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "prashantsom75-scroll-morph-hero"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "scroll-morph-hero.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/prashantsom75/scroll-morph-hero",
+    "fetchedAt": "2026-04-22T06:42:50.422Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

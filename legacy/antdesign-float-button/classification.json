@@ -1,0 +1,33 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "floating-action-button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Provides persistent quick-action access on any page for common user tasks",
+    "Serves as a floating back-to-top trigger for long-scrolling content",
+    "Offers secondary navigation options that stay visible during scrolling"
+  ],
+  "ai_summary": "Ant Design's FloatButton is an atomic floating action button component that hovers over page content as an overlay. It provides a persistent, accessible trigger for primary or secondary actions like quick settings, feedback submission, or navigation shortcuts. The component integrates seamlessly with Ant Design's design system and supports customization for icons, tooltips, and positioning.",
+  "_classifiedAt": "2026-04-22T08:51:38.645Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__aurora-flow",
+  "author": "ruixen.ui",
+  "slug": "aurora-flow",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/aurora-flow",
+  "fetchedAt": "2026-08-29T06:39:13.943Z",
+  "completedAt": "2026-08-29T06:39:16.168Z",
+  "versionedFilename": "code.1758046621939.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/aurora-flow/code.1758046621939.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/aurora-flow/code.1758046621939.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2856,
+  "sha256": "2f9be81d4ca6e0df5c5e63a5988b46ecc7cedb219c0f90e2bc451b7e9b1678d2",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

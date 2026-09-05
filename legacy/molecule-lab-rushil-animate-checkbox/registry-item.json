@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "molecule-lab-rushil-animate-checkbox",
+  "type": "registry:ui",
+  "title": "Molecule Lab Rushil Animate Checkbox",
+  "description": "Installed from https://21st.dev/r/molecule-lab-rushil/animate-checkbox",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "molecule-lab-rushil-animate-checkbox"
+  ],
+  "files": [
+    {
+      "path": "animate-checkbox.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-checkbox",
+    "motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/molecule-lab-rushil/animate-checkbox",
+    "fetchedAt": "2026-04-23T02:28:59.906Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

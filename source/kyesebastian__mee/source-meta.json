@@ -1,0 +1,26 @@
+{
+  "id": "kyesebastian__mee",
+  "author": "kyesebastian",
+  "slug": "mee",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@kyesebastian/components/mee",
+  "fetchedAt": "2026-08-29T05:21:33.117Z",
+  "completedAt": "2026-08-29T05:21:35.339Z",
+  "versionedFilename": "code.1786652452568-c3a27bc6-42c1-403b-8eab-e72535dbf56a.tsx",
+  "codeReference": "r2://components-code-private/kyesebastian/mee/code.1786652452568-c3a27bc6-42c1-403b-8eab-e72535dbf56a.tsx",
+  "codeUrl": "https://cdn.21st.dev/kyesebastian/mee/code.1786652452568-c3a27bc6-42c1-403b-8eab-e72535dbf56a.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

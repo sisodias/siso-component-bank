@@ -1,0 +1,32 @@
+{
+  "category": [
+    "overlay",
+    "feedback"
+  ],
+  "subcategory": "confirmation-dialog-deactivation",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Confirming account or data deactivation actions",
+    "Asking user confirmation before destructive operations",
+    "Displaying warning messages for irreversible changes",
+    "Replacing browser confirm dialogs with styled alternatives",
+    "Managing user preferences with deactivation options"
+  ],
+  "ai_summary": "A confirmation dialog component designed for deactivation workflows, featuring a destructive action warning with AlertTriangle icon. Built with Radix UI Dialog primitives for accessibility and includes a comprehensive button variant system (destructive, outline, secondary) for cancel/confirm actions. Uses Tailwind with dark mode support and follows minimal flat design patterns.",
+  "_classifiedAt": "2026-04-23T16:38:58.455Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

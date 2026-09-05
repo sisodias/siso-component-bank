@@ -1,0 +1,35 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "celebration-animation",
+  "visual_style": [
+    "colorful"
+  ],
+  "interactions": [
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "saas",
+    "education",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Celebrating successful user actions like purchases, sign-ups, or form submissions",
+    "Displaying achievement or milestone completions in gamification scenarios",
+    "Adding festive visual feedback for special events or announcements",
+    "Creating memorable confirmation moments in checkout or onboarding flows",
+    "Enhancing promotional landing pages with celebratory animations"
+  ],
+  "ai_summary": "A celebratory balloon animation component that renders festive balloon effects using the balloons-js library. Supports both default colorful balloons and custom text balloons with configurable colors and font sizes. Triggered programmatically via the launchAnimation method or click handler, making it ideal for celebration moments like purchase confirmations, achievement unlocks, or special event triggers.",
+  "_classifiedAt": "2026-04-23T17:25:11.489Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

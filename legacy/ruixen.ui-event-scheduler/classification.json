@@ -1,0 +1,42 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools",
+    "healthcare",
+    "education",
+    "real-estate",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Triggering actions and form submissions with multiple visual variants",
+    "Navigation and link-like interactions via ghost and link variants",
+    "Icon-only buttons for compact UI spaces",
+    "Destructive action confirmations with the destructive variant",
+    "Accessible focus states for keyboard navigation"
+  ],
+  "ai_summary": "A versatile, accessible button component with Radix UI Slot integration and CVA-powered variant system. Supports six variants (default, destructive, outline, secondary, ghost, link) and four sizes (default, sm, lg, icon). Features focus-visible ring states, disabled states, and asChild prop for polymorphic composition. Standard utility button used throughout UI systems for triggering actions.",
+  "_classifiedAt": "2026-04-23T01:49:35.678Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

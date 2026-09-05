@@ -1,0 +1,37 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "image-carousel",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "scroll-animate",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Hero section showcasing rotating images with smooth fade transitions and optional text overlays",
+    "Product galleries with auto-play and keyboard arrow navigation for accessibility",
+    "Portfolio showcases with multiple directional slide options and image preloading",
+    "Testimonial or media galleries with smooth framer-motion animations",
+    "Landing page image carousels with 5-second auto-play intervals"
+  ],
+  "ai_summary": "A sophisticated image slider component featuring auto-play functionality, keyboard navigation support, and smooth framer-motion animations. Supports configurable direction (up/down), image preloading, and optional overlay content for displaying text or UI elements on top of rotating images. Built for modern landing pages and media showcases requiring accessible, animated image carousels.",
+  "_classifiedAt": "2026-04-23T11:28:38.803Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

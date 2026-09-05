@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "color-picker-radio-group",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Selecting a theme color in application settings",
+    "Choosing product color variants in e-commerce interfaces",
+    "Picking label or tag colors in project management tools",
+    "Customizing accent colors in design or branding tools",
+    "Setting user profile or avatar accent colors in social applications"
+  ],
+  "ai_summary": "A minimalist color picker component implemented as a radio group with visual color swatches. Each option displays a rounded color dot with a ring indicator on selection and a checkmark icon for feedback. Built with Tailwind CSS using peer-based state styling for clean, accessible color selection in forms and settings interfaces.",
+  "_classifiedAt": "2026-04-23T16:40:26.711Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

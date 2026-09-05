@@ -1,0 +1,26 @@
+{
+  "id": "nexus-ui__typewriter-effect",
+  "author": "nexus-ui",
+  "slug": "typewriter-effect",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@nexus-ui/components/typewriter-effect",
+  "fetchedAt": "2026-08-29T05:58:47.122Z",
+  "completedAt": "2026-08-29T05:58:49.114Z",
+  "versionedFilename": "code.1784658490276-8f4a9da7-6d1b-4826-9c93-193d180bef41.tsx",
+  "codeReference": "r2://components-code-private/nexus-ui/typewriter-effect/code.1784658490276-8f4a9da7-6d1b-4826-9c93-193d180bef41.tsx",
+  "codeUrl": "https://cdn.21st.dev/nexus-ui/typewriter-effect/code.1784658490276-8f4a9da7-6d1b-4826-9c93-193d180bef41.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

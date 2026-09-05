@@ -1,0 +1,24 @@
+{
+  "category": "data-display",
+  "subcategory": "comparison-table",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Comparing programming language capabilities across TypeScript support, AI/ML libraries, and cross-platform deployment",
+    "Evaluating framework features for developer tool selection",
+    "Displaying technology stack feature matrices for SaaS products"
+  ],
+  "ai_summary": "A feature comparison table component that displays supported technologies (programming languages and frameworks) with checkmark and X icons indicating support status and version information. Uses a clean tabular layout with shadcn-style table components for organizing technology feature comparisons.",
+  "_classifiedAt": "2026-04-23T17:18:53.990Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@serafimcloud/components/question-tool",
+  "author": "serafimcloud",
+  "slug": "question-tool",
+  "name": "question-tool",
+  "description": "Clarifying-question form for agents. Single / multi / text answer kinds with optional custom input. Self-contained port from 21st.dev Agent Elements.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/serafimcloud/question-tool?api_key=$API_KEY_21ST\"",
+  "id": "serafimcloud__question-tool",
+  "bundleUrl": "https://cdn.21st.dev/21st.dev/question-tool/default/bundle.1778272438892.html",
+  "previewUrl": "https://cdn.21st.dev/21st.dev/question-tool/default/preview.1777645586738.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 31,
+  "demo_id": 12422,
+  "video_url": "https://cdn.21st.dev/21st.dev/question-tool/text-answer/video.1777645596704.mp4"
+}

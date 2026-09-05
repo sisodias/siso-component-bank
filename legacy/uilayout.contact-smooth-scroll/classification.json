@@ -1,0 +1,30 @@
+{
+  "category": "layout",
+  "subcategory": "smooth-scroll-page-sections",
+  "visual_style": [
+    "dark",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero sections with smooth scrolling transitions between content blocks",
+    "Storytelling-style page layouts with scroll-triggered section reveals",
+    "Portfolio or marketing pages requiring immersive scroll experiences",
+    "Product pages with alternating dark and light section transitions",
+    "Single-page applications needing fluid navigation between sections"
+  ],
+  "ai_summary": "A smooth scroll page layout component using ReactLenis for fluid scrolling behavior. Features multiple sticky-positioned sections with alternating dark and light themes, creating a reveal-on-scroll effect. Includes a grid pattern background with radial mask for visual depth. Designed for landing pages and storytelling-style content layouts.",
+  "_classifiedAt": "2026-04-23T17:38:40.170Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

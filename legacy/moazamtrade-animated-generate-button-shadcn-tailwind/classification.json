@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "animated-generate-button",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "AI content and image generation triggers in creative applications",
+    "Code generation actions in developer tools and IDEs",
+    "Form submission with animated feedback states",
+    "Document and file creation workflows",
+    "Real-time data fetching with visual progress indication"
+  ],
+  "ai_summary": "An animated button component with generation-focused styling, featuring smooth state transitions between idle and active/generating modes. Includes customizable hue-based highlighting, inner shadow depth effects, and SVG icon animation support. Designed for triggering AI-powered generation workflows with visual feedback. Fully accessible with aria attributes and keyboard navigation support.",
+  "_classifiedAt": "2026-04-22T09:06:22.208Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

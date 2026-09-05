@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "status-indicator",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying system or service status with visual indicators in dashboards",
+    "Showing connection or health status for API endpoints or services",
+    "Presenting real-time status updates in monitoring interfaces",
+    "Indicating success or error states in operational workflows",
+    "Labeling and categorizing items with secondary descriptive text"
+  ],
+  "ai_summary": "A lightweight status badge component built on the Tremor design system that displays labeled status information with optional icons on both sides. Supports three status variants (success, error, default) with automatic color coding for success and error states. Commonly used in SaaS dashboards and dev tools interfaces to communicate system health, service status, or operational states with a clean, professional appearance.",
+  "_classifiedAt": "2026-04-23T17:25:34.958Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

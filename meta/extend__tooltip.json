@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@extend/components/tooltip",
+  "author": "extend",
+  "slug": "tooltip",
+  "name": "tooltip",
+  "description": "A tooltip that reveals contextual text on hover or focus, built on Base UI.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/extend/tooltip?api_key=$API_KEY_21ST\"",
+  "id": "extend__tooltip",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/tooltip/default/bundle.1782165079342.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/tooltip/default/preview.1782165079342.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

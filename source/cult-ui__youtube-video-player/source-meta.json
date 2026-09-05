@@ -1,0 +1,26 @@
+{
+  "id": "cult-ui__youtube-video-player",
+  "author": "cult-ui",
+  "slug": "youtube-video-player",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@cult-ui/components/youtube-video-player",
+  "fetchedAt": "2026-08-29T04:04:11.801Z",
+  "completedAt": "2026-08-29T04:04:14.006Z",
+  "versionedFilename": "code.1784712666590-480cb62a-40e0-4aea-8bc0-f22f76d9598b.tsx",
+  "codeReference": "r2://components-code-private/cult-ui/youtube-video-player/code.1784712666590-480cb62a-40e0-4aea-8bc0-f22f76d9598b.tsx",
+  "codeUrl": "https://cdn.21st.dev/cult-ui/youtube-video-player/code.1784712666590-480cb62a-40e0-4aea-8bc0-f22f76d9598b.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "prebuiltui__cookies",
+  "author": "prebuiltui",
+  "slug": "cookies",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@prebuiltui/components/cookies",
+  "fetchedAt": "2026-08-29T06:11:09.437Z",
+  "completedAt": "2026-08-29T06:11:11.662Z",
+  "versionedFilename": "code.1757564165347.tsx",
+  "codeReference": "r2://components-code-private/larsen66/cookies/code.1757564165347.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/cookies/code.1757564165347.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1217,
+  "sha256": "d3ac8fd5e9c1e91b1b5a8f5932430b1f1c15abac54b30e680e7e43697ff39ad5",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

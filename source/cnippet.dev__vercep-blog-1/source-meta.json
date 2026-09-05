@@ -1,0 +1,26 @@
+{
+  "id": "cnippet.dev__vercep-blog-1",
+  "author": "cnippet.dev",
+  "slug": "vercep-blog-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@cnippet.dev/components/vercep-blog-1",
+  "fetchedAt": "2026-08-29T04:00:10.156Z",
+  "completedAt": "2026-08-29T04:00:12.646Z",
+  "versionedFilename": "code.1773482803950.tsx",
+  "codeReference": "r2://components-code-private/cnippet.dev/vercep-blog-1/code.1773482803950.tsx",
+  "codeUrl": "https://cdn.21st.dev/cnippet.dev/vercep-blog-1/code.1773482803950.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4319,
+  "sha256": "91b8d37f223a35299ba70f36685db3358a44b3f0dbcc9dc11c34861814102276",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

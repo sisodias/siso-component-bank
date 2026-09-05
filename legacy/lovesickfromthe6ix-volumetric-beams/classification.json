@@ -1,0 +1,35 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "volumetric-light-effect",
+  "visual_style": [
+    "illustration",
+    "gradient",
+    "3d"
+  ],
+  "interactions": [
+    "parallax",
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creating atmospheric volumetric light beams for hero sections and landing pages",
+    "Adding immersive 3D visual effects to portfolio or creative agency websites",
+    "Generating ambient background lighting for music or art-related projects",
+    "Enhancing visual depth with customizable light scattering and density effects",
+    "Adding film-style post-processing effects including grain, vignette, and exposure controls"
+  ],
+  "ai_summary": "A volumetric beams effect using React Three Fiber with custom GLSL shaders that creates angular light rays with configurable density, scattering, and striping patterns. Features mouse-influenced camera controls, auto-rotation, and post-processing effects including film grain, vignette, and gamma correction for a cinematic aesthetic.",
+  "_classifiedAt": "2026-04-23T01:43:10.877Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

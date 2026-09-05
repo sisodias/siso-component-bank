@@ -1,0 +1,26 @@
+{
+  "id": "hero_ui__heroui-input-otp",
+  "author": "hero_ui",
+  "slug": "heroui-input-otp",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@hero_ui/components/heroui-input-otp",
+  "fetchedAt": "2026-08-29T04:57:08.750Z",
+  "completedAt": "2026-08-29T04:57:10.094Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null
+}

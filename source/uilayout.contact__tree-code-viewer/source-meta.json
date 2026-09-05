@@ -1,0 +1,26 @@
+{
+  "id": "uilayout.contact__tree-code-viewer",
+  "author": "uilayout.contact",
+  "slug": "tree-code-viewer",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uilayout.contact/components/tree-code-viewer",
+  "fetchedAt": "2026-08-29T07:46:04.062Z",
+  "completedAt": "2026-08-29T07:46:05.951Z",
+  "versionedFilename": "code.1784423747891-13925285-d7cb-4d85-9407-8dc212f1278d.tsx",
+  "codeReference": "r2://components-code-private/uilayout.contact/tree-code-viewer/code.1784423747891-13925285-d7cb-4d85-9407-8dc212f1278d.tsx",
+  "codeUrl": "https://cdn.21st.dev/uilayout.contact/tree-code-viewer/code.1784423747891-13925285-d7cb-4d85-9407-8dc212f1278d.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

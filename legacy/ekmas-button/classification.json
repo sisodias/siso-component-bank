@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-action",
+  "visual_style": [
+    "neobrutalism"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons with tactile offset shadow effects for modern interfaces",
+    "Icon-only buttons for compact UI elements like toolbars or navigation",
+    "Multiple button sizes to establish visual hierarchy in forms and layouts",
+    "Keyboard-accessible buttons with proper focus-visible states",
+    "Disabled button states for conditional form submissions"
+  ],
+  "ai_summary": "A neobrutalist-style button component featuring distinctive offset shadow effects that animate on hover, creating a tactile, dimensional feel. Offers four variants (default, noShadow, neutral, reverse) with multiple sizes and full keyboard accessibility. Uses Radix UI Slot for composition, making it flexible for pattern composition.",
+  "_classifiedAt": "2026-04-23T16:38:30.680Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xubohuah__wave-background",
+  "author": "xubohuah",
+  "slug": "wave-background",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@xubohuah/components/wave-background",
+  "fetchedAt": "2026-08-29T07:59:12.029Z",
+  "completedAt": "2026-08-29T07:59:12.886Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/xubohuah__wave-background/code.tsx",
+    "bytes": 10731,
+    "sha256": "dc452429a46b9cf263d15a990587879f44e3f61548b15060c92ab1ad3172ce64",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@bankkroll/components/file-upload-button",
+  "author": "bankkroll",
+  "slug": "file-upload-button",
+  "name": "file-upload-button",
+  "description": "A sleek file upload button for React, built with shadcn/ui. Supports click and drag-and-drop, with file type/size validation, image previews, and file management. Customizable via onFileSelect, maxSize, allowedTypes, className, and disabled props.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/bankkroll/file-upload-button?api_key=$API_KEY_21ST\"",
+  "id": "bankkroll__file-upload-button",
+  "bundleUrl": "https://cdn.21st.dev/bankkroll/file-upload-button/default/bundle.1751640178522.html",
+  "previewUrl": "https://cdn.21st.dev/bankkroll/file-upload-button/default/preview.1751640178519.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

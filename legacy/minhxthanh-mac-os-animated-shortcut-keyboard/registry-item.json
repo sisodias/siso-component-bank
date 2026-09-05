@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "minhxthanh-mac-os-animated-shortcut-keyboard",
+  "type": "registry:ui",
+  "title": "Minhxthanh Mac Os Animated Shortcut Keyboard",
+  "description": "Installed from https://21st.dev/r/minhxthanh/mac-os-animated-shortcut-keyboard",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "minhxthanh-mac-os-animated-shortcut-keyboard"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "mac-os-animated-shortcut-keyboard.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/minhxthanh/mac-os-animated-shortcut-keyboard",
+    "fetchedAt": "2026-04-23T03:03:37.457Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

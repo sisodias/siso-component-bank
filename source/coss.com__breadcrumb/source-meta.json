@@ -1,0 +1,26 @@
+{
+  "id": "coss.com__breadcrumb",
+  "author": "coss.com",
+  "slug": "breadcrumb",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@coss.com/components/breadcrumb",
+  "fetchedAt": "2026-08-29T04:01:56.523Z",
+  "completedAt": "2026-08-29T04:01:58.607Z",
+  "versionedFilename": "code.1774280323978.tsx",
+  "codeReference": "r2://components-code-private/coss.com/breadcrumb/code.1774280323978.tsx",
+  "codeUrl": "https://cdn.21st.dev/coss.com/breadcrumb/code.1774280323978.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/typescript",
+  "bytes": 2238,
+  "sha256": "6583eff597e89109deff8eb12ba1946ac655395d919c5e0e51718e54eca5ed5a",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "easemize__particle-wave",
+  "author": "easemize",
+  "slug": "particle-wave",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@easemize/components/particle-wave",
+  "fetchedAt": "2026-08-29T04:38:49.092Z",
+  "completedAt": "2026-08-29T04:38:51.275Z",
+  "versionedFilename": "code.1749657531648.tsx",
+  "codeReference": "r2://components-code-private/easemize/particle-wave/code.1749657531648.tsx",
+  "codeUrl": "https://cdn.21st.dev/easemize/particle-wave/code.1749657531648.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6650,
+  "sha256": "685311327d4bc1a953e211a91782399ebd75ff4f7313128d0a6a4f01865eff37",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

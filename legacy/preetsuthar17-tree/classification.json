@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "hierarchical-tree",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Display nested file/folder structures with expand/collapse functionality",
+    "Create multi-level navigation menus for hierarchical content organization",
+    "Build organizational charts and team directory views",
+    "Implement settings panels with collapsible grouped options",
+    "Show product categories or taxonomies in e-commerce applications"
+  ],
+  "ai_summary": "A collapsible hierarchical tree component for displaying nested data structures with folder/file icons, single and multi-select capabilities, and smooth expand/collapse animations. Built with Radix UI for accessibility and motion/react for polished transitions. Supports keyboard navigation, custom indentation, and multiple visual variants for different use cases.",
+  "_classifiedAt": "2026-04-23T17:10:09.305Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

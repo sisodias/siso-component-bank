@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@designali-in/components/custom-cursor",
+  "author": "designali-in",
+  "slug": "custom-cursor",
+  "name": "custom-cursor",
+  "description": "The component accepts props for cursor type selection, colors, and sizing, with all styles implemented inline as requested. It includes all six cursor variations: arrow-pointer, big-circle, ring-dot, circle-and-dot, glitch-effect, and motion-blur, each with their unique animations and hover effects.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/designali-in/custom-cursor?api_key=$API_KEY_21ST\"",
+  "id": "designali-in__custom-cursor",
+  "bundleUrl": "https://cdn.21st.dev/designali-in/custom-cursor/default/bundle.1785364513568-441c46a1-1039-4556-94d8-8e3c8ecd9992.html",
+  "previewUrl": "https://cdn.21st.dev/designali-in/custom-cursor/default/preview.1785364513568-441c46a1-1039-4556-94d8-8e3c8ecd9992.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

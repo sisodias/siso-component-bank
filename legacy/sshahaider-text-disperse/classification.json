@@ -1,0 +1,28 @@
+{
+  "category": "media",
+  "subcategory": "text-scatter-animation",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Hero section headline animations with character dispersion effects",
+    "Interactive CTA buttons with text that scatters on hover",
+    "Brand name or logo text reveal animations on landing pages",
+    "Portfolio or creative agency website typography effects",
+    "Interactive headlines that engage users on scroll or hover"
+  ],
+  "ai_summary": "A Framer Motion-powered text animation component that splits text into individual characters and disperses them in unique directions with rotation on hover. Each character receives a custom transform with x, y, and rotationZ values, creating an organic scatter effect. Supports onHover callbacks for integration with parent components.",
+  "_classifiedAt": "2026-04-23T17:34:13.951Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

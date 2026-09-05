@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "animated-bar-chart-stats",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Display animated comparison statistics with bar chart visualization",
+    "Showcase performance metrics with smooth number counter animations",
+    "Present competitive analysis data with hover tooltips",
+    "Highlight product or feature statistics in marketing sections",
+    "Create engaging statistics sections with scroll-triggered animations"
+  ],
+  "ai_summary": "A dynamic statistics card component featuring animated bar charts with candy-stripe backgrounds and NumberFlow animated number counters. Uses Framer Motion for entrance animations and hover interactions with tooltip callouts. The component displays comparison metrics across multiple items with staggered animations, making it ideal for SaaS landing pages and marketing sections showcasing performance data or competitive advantages.",
+  "_classifiedAt": "2026-04-22T09:17:32.360Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@extend/components/popover",
+  "author": "extend",
+  "slug": "popover",
+  "name": "popover",
+  "description": "A floating popover panel anchored to a trigger, built on Base UI primitives.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/extend/popover?api_key=$API_KEY_21ST\"",
+  "id": "extend__popover",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/popover/default/bundle.1782164999232.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/popover/default/preview.1782164999232.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

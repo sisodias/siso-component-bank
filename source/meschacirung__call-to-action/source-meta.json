@@ -1,0 +1,26 @@
+{
+  "id": "meschacirung__call-to-action",
+  "author": "meschacirung",
+  "slug": "call-to-action",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@meschacirung/components/call-to-action",
+  "fetchedAt": "2026-08-29T05:40:12.703Z",
+  "completedAt": "2026-08-29T05:40:14.928Z",
+  "versionedFilename": "code.1753821468674.tsx",
+  "codeReference": "r2://components-code-private/larsen66/call-to-action/code.1753821468674.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/call-to-action/code.1753821468674.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1247,
+  "sha256": "ea8a5b1fcf84fdf3f714ad501926d31299bd86b0d4717904b003eed05f15777f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

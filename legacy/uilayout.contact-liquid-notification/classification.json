@@ -1,0 +1,35 @@
+{
+  "category": [
+    "card",
+    "overlay"
+  ],
+  "subcategory": "liquid-glass notification panel",
+  "visual_style": [
+    "glass-morphism",
+    "gradient"
+  ],
+  "interactions": [
+    "drag",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Floating notification cards with glass-morphism aesthetics on modern SaaS dashboards",
+    "Expandable detail panels that reveal additional content on click",
+    "Draggable UI elements for custom layouts and user arrangement",
+    "Premium-feeling content containers with customizable blur and glow effects"
+  ],
+  "ai_summary": "A highly customizable Liquid Glass Card component featuring glass-morphism styling with configurable backdrop blur, inset shadows, and glow effects. Supports native drag functionality and expandable content on click. The card exposes props for controlling blur intensity (sm to xl), shadow depth, border radius, and dimensions including expanded states. Built with motion/react for smooth animations, making it ideal for premium SaaS interfaces, fintech dashboards, or e-commerce notification systems requiring a modern, translucent aesthetic.",
+  "_classifiedAt": "2026-04-23T17:38:03.414Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

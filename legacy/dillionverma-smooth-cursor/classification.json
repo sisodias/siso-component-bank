@@ -1,0 +1,26 @@
+{
+  "category": "other",
+  "subcategory": "custom-cursor, spring-animation, cursor-follower",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Add smooth animated cursor with spring physics to replace default browser cursor",
+    "Display custom SVG cursor element that follows mouse movement fluidly",
+    "Enhance portfolio and creative websites with interactive cursor effects",
+    "Provide configurable cursor appearance for product showcases",
+    "Create branded cursor experiences with custom styling"
+  ],
+  "ai_summary": "A smooth cursor component that uses motion/react spring physics for fluid cursor following. Accepts a custom cursor element with configurable spring animation parameters including damping, stiffness, and mass. The default implementation features a minimal arrow cursor design, but supports any JSX element as the cursor. Ideal for adding premium interactive polish to portfolio sites, SaaS products, and creative web experiences.",
+  "_classifiedAt": "2026-04-23T16:36:09.830Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

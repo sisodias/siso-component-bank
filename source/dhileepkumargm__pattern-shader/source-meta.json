@@ -1,0 +1,26 @@
+{
+  "id": "dhileepkumargm__pattern-shader",
+  "author": "dhileepkumargm",
+  "slug": "pattern-shader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dhileepkumargm/components/pattern-shader",
+  "fetchedAt": "2026-08-29T04:31:59.756Z",
+  "completedAt": "2026-08-29T04:32:01.974Z",
+  "versionedFilename": "code.1785269379767-953f1d87-5454-46a2-98de-158df9bf55a6.tsx",
+  "codeReference": "r2://components-code-private/dhileepkumargm/pattern-shader/code.1785269379767-953f1d87-5454-46a2-98de-158df9bf55a6.tsx",
+  "codeUrl": "https://cdn.21st.dev/dhileepkumargm/pattern-shader/code.1785269379767-953f1d87-5454-46a2-98de-158df9bf55a6.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "designali-in__id-card",
+  "author": "designali-in",
+  "slug": "id-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/id-card",
+  "fetchedAt": "2026-08-29T04:19:05.025Z",
+  "completedAt": "2026-08-29T04:19:06.906Z",
+  "versionedFilename": "code.1751369609812.tsx",
+  "codeReference": "r2://components-code-private/designali-in/id-card/code.1751369609812.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/id-card/code.1751369609812.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 275,
+  "sha256": "0147213bcd5ffad50917b7f62937afe1c00986822c283954da7980c991c4a20f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

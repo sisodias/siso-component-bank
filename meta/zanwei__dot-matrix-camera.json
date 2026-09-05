@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@zanwei/components/dot-matrix-camera",
+  "author": "zanwei",
+  "slug": "dot-matrix-camera",
+  "name": "dot-matrix-camera",
+  "description": "A WebGL camera effect that turns the webcam feed into an interactive dot matrix display with adjustable density, dot, brightness and glow controls. Ported to React from Zanwei Guo's dot-matrix-camera.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/zanwei/dot-matrix-camera?api_key=$API_KEY_21ST\"",
+  "id": "zanwei__dot-matrix-camera",
+  "bundleUrl": "https://cdn.21st.dev/zanwei/dot-matrix-camera/default/bundle.1785488464146-1e418477-d7a2-44c0-b76f-0e8654e83f8c.html",
+  "previewUrl": "https://cdn.21st.dev/zanwei/dot-matrix-camera/default/preview.1785488464146-1e418477-d7a2-44c0-b76f-0e8654e83f8c.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

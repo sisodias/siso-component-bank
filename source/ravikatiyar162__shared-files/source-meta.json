@@ -1,0 +1,26 @@
+{
+  "id": "ravikatiyar162__shared-files",
+  "author": "ravikatiyar162",
+  "slug": "shared-files",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ravikatiyar162/components/shared-files",
+  "fetchedAt": "2026-08-29T06:29:44.135Z",
+  "completedAt": "2026-08-29T06:29:46.202Z",
+  "versionedFilename": "code.1757853419475.tsx",
+  "codeReference": "r2://components-code-private/ravikatiyar162/shared-files/code.1757853419475.tsx",
+  "codeUrl": "https://cdn.21st.dev/ravikatiyar162/shared-files/code.1757853419475.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7595,
+  "sha256": "2c0be819cb5ba01d314a8b88518e7dc8f406464cd847a00471c566531331283e",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

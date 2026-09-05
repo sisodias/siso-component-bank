@@ -1,0 +1,29 @@
+{
+  "category": "navigation",
+  "subcategory": "navigation menu item with text reveal animation",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Navigation menu items with animated text hover effects",
+    "Interactive links with character-by-character slide reveal on hover",
+    "Modern navigation bars requiring subtle motion interactions",
+    "Portfolio or creative websites with animated navigation",
+    "Landing page menus with premium micro-interactions"
+  ],
+  "ai_summary": "A minimalist navigation menu item component featuring character-by-character text animation on hover. Each letter slides up while a new character slides in from below, creating a smooth reveal effect with configurable timing. Built with Framer Motion for fluid animations and supports center or left-aligned stagger timing. Ideal for modern SaaS dashboards, dev tools interfaces, and creative portfolios requiring polished hover interactions.",
+  "_classifiedAt": "2026-04-22T09:02:41.358Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

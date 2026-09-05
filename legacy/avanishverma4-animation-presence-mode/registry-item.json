@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "avanishverma4-animation-presence-mode",
+  "type": "registry:ui",
+  "title": "Avanishverma4 Animation Presence Mode",
+  "description": "Installed from https://21st.dev/r/avanishverma4/animation-presence-mode",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "avanishverma4-animation-presence-mode"
+  ],
+  "files": [
+    {
+      "path": "animation-presence-mode.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/avanishverma4/animation-presence-mode",
+    "fetchedAt": "2026-04-23T01:16:20.888Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

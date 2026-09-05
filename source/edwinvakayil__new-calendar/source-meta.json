@@ -1,0 +1,26 @@
+{
+  "id": "edwinvakayil__new-calendar",
+  "author": "edwinvakayil",
+  "slug": "new-calendar",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@edwinvakayil/components/new-calendar",
+  "fetchedAt": "2026-08-29T04:42:06.993Z",
+  "completedAt": "2026-08-29T04:42:09.160Z",
+  "versionedFilename": "code.1780166588393.tsx",
+  "codeReference": "r2://components-code-private/lyanchouss/new-calendar/code.1780166588393.tsx",
+  "codeUrl": "https://cdn.21st.dev/lyanchouss/new-calendar/code.1780166588393.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 39944,
+  "sha256": "3fcb59566e02d97ab033e890aa2137d67e53ebfcea8fc590fbcf2d7dacf5ef21",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

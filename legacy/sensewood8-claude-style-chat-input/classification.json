@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "chat-message-composer",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "ai-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Composing and sending messages in AI chat interfaces",
+    "Attaching files and media to chat conversations",
+    "Expanding and collapsing chat input areas",
+    "Displaying loading states during message submission",
+    "Managing conversation states with status indicators"
+  ],
+  "ai_summary": "A Claude-style chat input component with bundled premium icons from lucide-react for building AI conversational interfaces. Supports message composition, file attachments, expandable input areas, and various conversation states including loading and completion indicators. Designed for modern SaaS and developer tool applications requiring clean, minimal chat interfaces.",
+  "_classifiedAt": "2026-04-22T09:14:09.399Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

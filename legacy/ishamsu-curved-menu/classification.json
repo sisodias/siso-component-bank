@@ -1,0 +1,28 @@
+{
+  "category": "navigation",
+  "subcategory": "slide-out-menu",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Primary navigation menu for portfolio and agency websites with smooth slide-in animations",
+    "E-commerce site navigation drawer featuring image previews on hover for categories",
+    "SaaS dashboard navigation overlay with social media footer links",
+    "Creative portfolio navigation with visual subheading previews"
+  ],
+  "ai_summary": "A sophisticated curved navigation menu that slides in from the right side of the screen using Framer Motion animations with custom cubic-bezier easing. Features nav items with optional images and subheadings, hover states, and an embedded social media footer. Designed as an overlay navigation system that works on both desktop and mobile platforms, commonly used for creative portfolios, agency sites, and modern web applications seeking distinctive navigation patterns.",
+  "_classifiedAt": "2026-04-23T16:44:59.023Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,30 @@
+{
+  "category": "form",
+  "subcategory": "sign-in authentication",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "User login and authentication on SaaS platforms",
+    "Secured account access with password visibility toggle",
+    "Social authentication via GitHub, Twitter, and LinkedIn",
+    "Form input validation with animated floating labels",
+    "Interactive form fields with mouse tracking hover effects"
+  ],
+  "ai_summary": "A sign-in form component featuring animated floating labels on input fields, password visibility toggle, and social authentication options via GitHub, Twitter, and LinkedIn. The component includes subtle mouse-tracking hover effects on input containers and smooth focus state transitions. Designed for universal authentication use cases across SaaS, fintech, and e-commerce platforms.",
+  "_classifiedAt": "2026-04-23T16:53:35.686Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

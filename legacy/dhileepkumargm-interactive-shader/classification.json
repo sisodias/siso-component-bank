@@ -1,0 +1,38 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "webgl-shader-interactive-canvas",
+  "visual_style": [
+    "gradient",
+    "3d",
+    "illustration"
+  ],
+  "interactions": [
+    "hover-glow",
+    "parallax",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "system"
+  ],
+  "use_cases": [
+    "Immersive hero sections for landing pages that react to mouse movement",
+    "Interactive background effects for marketing sites and product showcases",
+    "Dynamic visual elements for creative portfolios and digital art platforms",
+    "Real-time shader effects in creative or generative design tools",
+    "Eye-catching animated elements for SaaS dashboards and app interfaces"
+  ],
+  "ai_summary": "A high-performance WebGL shader component featuring real-time animation, mouse interactivity, and customizable visual parameters (hue, speed, intensity, complexity). Implements throttled callbacks for smooth 60fps performance, custom hooks for shader logic encapsulation, and supports desktop and mobile platforms with adaptive canvas rendering.",
+  "_classifiedAt": "2026-04-23T01:39:05.131Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

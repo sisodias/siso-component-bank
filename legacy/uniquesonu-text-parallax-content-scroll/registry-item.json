@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "uniquesonu-text-parallax-content-scroll",
+  "type": "registry:ui",
+  "title": "Uniquesonu Text Parallax Content Scroll",
+  "description": "Installed from https://21st.dev/r/uniquesonu/text-parallax-content-scroll",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "uniquesonu-text-parallax-content-scroll"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "text-parallax-content-scroll.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "react-icons"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/uniquesonu/text-parallax-content-scroll",
+    "fetchedAt": "2026-04-23T03:04:20.461Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

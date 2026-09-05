@@ -1,0 +1,26 @@
+{
+  "id": "coss.com__table",
+  "author": "coss.com",
+  "slug": "table",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@coss.com/components/table",
+  "fetchedAt": "2026-08-29T04:02:45.101Z",
+  "completedAt": "2026-08-29T04:02:47.334Z",
+  "versionedFilename": "code.1774358400000.tsx",
+  "codeReference": "r2://components-code-private/coss.com/table/code.1774358400000.tsx",
+  "codeUrl": "https://cdn.21st.dev/coss.com/table/code.1774358400000.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/typescript",
+  "bytes": 4216,
+  "sha256": "247796f582d9d1a2651f5b27e3af934dd5a48d4b9a01a2b3d1d5a1e74b7684d1",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,34 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "footer",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Website footer for landing pages providing site navigation and company information",
+    "Bottom-of-page navigation with multiple link columns for content discovery",
+    "Standard footer with logo, tagline, and legal links for web applications"
+  ],
+  "ai_summary": "A responsive multi-column footer component featuring a logo area with tagline, four link group sections (Product, Company, Resources, Social), copyright text, and bottom legal links. Built with Tailwind CSS using a CSS grid layout that adapts from 2 columns on mobile to 6 columns on desktop.",
+  "_classifiedAt": "2026-04-23T17:28:27.437Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

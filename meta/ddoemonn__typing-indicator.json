@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ddoemonn/components/typing-indicator",
+  "author": "ddoemonn",
+  "slug": "typing-indicator",
+  "name": "typing-indicator",
+  "description": "Animated chat typing indicator with a bouncing three-dot bubble and a presence hook that tracks who is typing across one or many users, with a send hand-off and accessible live-region announcements.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ddoemonn/typing-indicator?api_key=$API_KEY_21ST\"",
+  "id": "ddoemonn__typing-indicator",
+  "bundleUrl": "https://cdn.21st.dev/ddoemonn/typing-indicator/default/bundle.1785481162781-a9281095-c93e-4702-bd69-20cc00a38973.html",
+  "previewUrl": "https://cdn.21st.dev/ddoemonn/typing-indicator/default/preview.1785481162781-a9281095-c93e-4702-bd69-20cc00a38973.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

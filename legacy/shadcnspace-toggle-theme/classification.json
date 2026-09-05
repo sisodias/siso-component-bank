@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "checkbox",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Toggle boolean states in forms and settings panels",
+    "Accept terms and conditions or privacy policies",
+    "Select multiple items from a list or filter options",
+    "Enable or disable features with preference toggles",
+    "Multi-select options in surveys or questionnaires"
+  ],
+  "ai_summary": "A checkbox component built on Radix UI primitives with proper accessibility support. Features standard focus-visible states, disabled styling, and checked state indicators. Clean minimalist design using Tailwind classes suitable for any web application requiring form controls.",
+  "_classifiedAt": "2026-04-22T09:15:45.453Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

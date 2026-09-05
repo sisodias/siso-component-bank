@@ -1,0 +1,37 @@
+{
+  "category": [
+    "data-display",
+    "form"
+  ],
+  "subcategory": "date-picker with preset ranges",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Quick date range selection for booking systems and reservation workflows",
+    "Filtering data views by predefined time periods like last 7 days or this month",
+    "Scheduling appointments with preset availability windows",
+    "Managing event calendars with recurring date pattern presets",
+    "Time tracking and attendance logging with quick period selection"
+  ],
+  "ai_summary": "A calendar component with preset date range options that enables quick selection of common time periods like today, last week, or custom ranges. Built with Radix UI primitives for accessibility and includes customizable date range presets for efficient data filtering and scheduling workflows.",
+  "_classifiedAt": "2026-04-22T09:11:49.684Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,61 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "shadcn-calendar-date-picker",
+  "type": "registry:ui",
+  "title": "Shadcn Calendar Date Picker",
+  "description": "Installed from https://21st.dev/r/shadcn/calendar-date-picker",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "shadcn-calendar-date-picker"
+  ],
+  "files": [
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "calendar-date-picker.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "calendar-rac.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "label.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "popover.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@internationalized/date",
+    "@radix-ui/react-icons",
+    "@radix-ui/react-popover",
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "react-aria-components"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/shadcn/calendar-date-picker",
+    "fetchedAt": "2026-04-23T03:04:16.683Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

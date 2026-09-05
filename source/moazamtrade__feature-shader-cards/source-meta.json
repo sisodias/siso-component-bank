@@ -1,0 +1,26 @@
+{
+  "id": "moazamtrade__feature-shader-cards",
+  "author": "moazamtrade",
+  "slug": "feature-shader-cards",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@moazamtrade/components/feature-shader-cards",
+  "fetchedAt": "2026-08-29T05:47:10.512Z",
+  "completedAt": "2026-08-29T05:47:12.698Z",
+  "versionedFilename": "code.1757238662044.tsx",
+  "codeReference": "r2://components-code-private/moazamtrade/feature-shader-cards/code.1757238662044.tsx",
+  "codeUrl": "https://cdn.21st.dev/moazamtrade/feature-shader-cards/code.1757238662044.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7150,
+  "sha256": "87a92abf5f65a2f06eae3c063e00bce6c82347c13c03fd746bbb811f567745f3",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

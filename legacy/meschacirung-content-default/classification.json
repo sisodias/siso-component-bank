@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons for forms and pages",
+    "Destructive action buttons with warning styling",
+    "Secondary alternative actions with outline variants",
+    "Icon-only buttons for toolbar and navigation contexts",
+    "Ghost and link variants for inline text actions"
+  ],
+  "ai_summary": "A reusable button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon), built with Radix UI Slot for composition and class-variance-authority for type-safe variant handling. Provides accessible focus-visible states and disabled states out of the box.",
+  "_classifiedAt": "2026-04-23T16:55:45.460Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

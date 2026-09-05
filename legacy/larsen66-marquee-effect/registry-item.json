@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "larsen66-marquee-effect",
+  "type": "registry:ui",
+  "title": "Larsen66 Marquee Effect",
+  "description": "Installed from https://21st.dev/r/larsen66/marquee-effect",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "larsen66-marquee-effect"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "marquee-effect.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "motion",
+    "react-use-measure"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/larsen66/marquee-effect",
+    "fetchedAt": "2026-04-23T02:29:43.166Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

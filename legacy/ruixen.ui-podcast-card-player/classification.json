@@ -1,0 +1,32 @@
+{
+  "category": [
+    "media",
+    "card"
+  ],
+  "subcategory": "podcast-audio-player",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "creator-tools",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display podcast episode information with embedded audio playback controls",
+    "Show podcast artwork, title, duration, and play/pause functionality",
+    "Present podcast series episodes in a browsable card format",
+    "Enable quick audio preview within content feeds or landing pages"
+  ],
+  "ai_summary": "A media card component designed for displaying podcast episodes with integrated audio player controls. Features a clean, minimalist interface typical of shadcn/ui patterns, supporting podcast artwork, title metadata, and playback buttons. Built as a composite component suitable for content platforms, creator tools, and educational applications requiring podcast embedding capabilities.",
+  "_classifiedAt": "2026-04-23T01:50:54.819Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

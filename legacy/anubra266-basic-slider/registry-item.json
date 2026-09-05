@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "anubra266-basic-slider",
+  "type": "registry:ui",
+  "title": "Anubra266 Basic Slider",
+  "description": "Installed from https://21st.dev/r/anubra266/basic-slider",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "anubra266-basic-slider"
+  ],
+  "files": [
+    {
+      "path": "basic-slider.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@ark-ui/react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/anubra266/basic-slider",
+    "fetchedAt": "2026-04-22T06:45:01.964Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

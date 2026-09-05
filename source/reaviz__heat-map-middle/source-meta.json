@@ -1,0 +1,26 @@
+{
+  "id": "reaviz__heat-map-middle",
+  "author": "reaviz",
+  "slug": "heat-map-middle",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@reaviz/components/heat-map-middle",
+  "fetchedAt": "2026-08-29T06:32:36.308Z",
+  "completedAt": "2026-08-29T06:32:38.595Z",
+  "versionedFilename": "code.1748121411739.tsx",
+  "codeReference": "r2://components-code-private/larsen66/heat-map-middle/code.1748121411739.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/heat-map-middle/code.1748121411739.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 12925,
+  "sha256": "7653d87290e828f5c7fea724260e9aaa990564eb7820e78b6b5cbe092fc94e42",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

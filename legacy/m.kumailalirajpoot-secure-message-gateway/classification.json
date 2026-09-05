@@ -1,0 +1,31 @@
+{
+  "category": [
+    "form"
+  ],
+  "subcategory": "secure-message-input",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Secure message submission in developer-focused applications and dashboards",
+    "Terminal-style messaging interface for secure communication gateways",
+    "Anonymous or authenticated message input with loading feedback",
+    "Technical message forms in SaaS platforms requiring secure input"
+  ],
+  "ai_summary": "A secure message gateway form component featuring a terminal-inspired design with dashed borders, corner decorations using PlusIcons, and a diagonal fade grid background. Includes a text input with Send icon button and handles form submission with a 2-second pending state for visual feedback. Designed for developer tools and SaaS applications requiring secure message input interfaces.",
+  "_classifiedAt": "2026-04-22T09:05:01.855Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

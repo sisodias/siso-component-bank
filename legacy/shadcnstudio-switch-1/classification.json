@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "checkbox",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Toggle boolean settings in application preferences and user profiles",
+    "Select multiple items in lists or forms with multiple choice options",
+    "Enable or disable features within a settings panel",
+    "Capture user consent or agreement during onboarding flows",
+    "Mark tasks or items as complete in productivity applications"
+  ],
+  "ai_summary": "A lightweight, accessible checkbox component built on Radix UI primitives with native HTML checkbox functionality. Features proper focus states, keyboard navigation, and disabled state handling. Follows shadcn/ui design patterns with Tailwind CSS for styling and integrates seamlessly with form libraries.",
+  "_classifiedAt": "2026-04-22T09:16:10.360Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

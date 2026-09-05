@@ -1,0 +1,26 @@
+{
+  "id": "sean0205__skeleton",
+  "author": "sean0205",
+  "slug": "skeleton",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sean0205/components/skeleton",
+  "fetchedAt": "2026-08-29T06:59:35.542Z",
+  "completedAt": "2026-08-29T06:59:37.736Z",
+  "versionedFilename": "code.1752037414125.tsx",
+  "codeReference": "r2://components-code-private/sean0205/skeleton/code.1752037414125.tsx",
+  "codeUrl": "https://cdn.21st.dev/sean0205/skeleton/code.1752037414125.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 280,
+  "sha256": "bec96ddd63651680177e1121bab9022ae30ef915aa70f27bec4eb700d341fea0",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

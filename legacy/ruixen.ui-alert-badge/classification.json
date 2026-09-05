@@ -1,0 +1,29 @@
+{
+  "category": "feedback",
+  "subcategory": "notification-badge",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "healthcare"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display notification count with type-based color and icon feedback",
+    "Show auto-dismissing alert badges triggered by user clicks",
+    "Provide visual status indicators for success, error, warning, or info states",
+    "Enhance notification bell icons with actionable count badges",
+    "Serve as a lightweight notification system for dashboards and apps"
+  ],
+  "ai_summary": "A notification badge component that displays a count on a button with a bell icon, featuring a floating badge overlay that appears with type-specific colors and icons (success, error, info, warning). The badge auto-dismisses after a configurable duration and includes increment/decrement controls for managing notification state. Built with Tailwind CSS and Lucide icons for a clean, minimalist look suitable for various SaaS and application interfaces.",
+  "_classifiedAt": "2026-04-23T01:48:51.952Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ahmedmayara/components/stock-market-tracker-chart",
+  "author": "ahmedmayara",
+  "slug": "stock-market-tracker-chart",
+  "name": "stock-market-tracker-chart",
+  "description": "An interactive Stock Market Tracker Card with dynamic line charts, period filters, and company selection, showing price trends, percentage changes, and highest/lowest values in a clean, responsive layout built with Recharts and shadcn/ui.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ahmedmayara/stock-market-tracker-chart?api_key=$API_KEY_21ST\"",
+  "id": "ahmedmayara__stock-market-tracker-chart",
+  "bundleUrl": "https://cdn.21st.dev/ahmedmayara/stock-market-tracker-chart/default/bundle.1755904121220.html",
+  "previewUrl": "https://cdn.21st.dev/ahmedmayara/stock-market-tracker-chart/default/preview.1755904121220.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

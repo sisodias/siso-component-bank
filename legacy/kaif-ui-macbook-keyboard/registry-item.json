@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "kaif-ui-macbook-keyboard",
+  "type": "registry:ui",
+  "title": "Kaif Ui Macbook Keyboard",
+  "description": "Installed from https://21st.dev/r/kaif-ui/macbook-keyboard",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "kaif-ui-macbook-keyboard"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "macbook-keyboard.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/kaif-ui/macbook-keyboard",
+    "fetchedAt": "2026-04-23T03:04:06.786Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

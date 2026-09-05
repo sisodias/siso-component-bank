@@ -1,0 +1,33 @@
+{
+  "id": "reuno-ui__background-paper-shaders",
+  "author": "reuno-ui",
+  "slug": "background-paper-shaders",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@reuno-ui/components/background-paper-shaders",
+  "fetchedAt": "2026-08-29T06:35:11.250Z",
+  "completedAt": "2026-08-29T06:35:12.628Z",
+  "versionedFilename": "code.1785304097969-b0bbd7f1-b225-43bc-ba0c-57fdc6ab3b6e.tsx",
+  "codeReference": "r2://components-code-private/reuno-ui/background-paper-shaders/code.1785304097969-b0bbd7f1-b225-43bc-ba0c-57fdc6ab3b6e.tsx",
+  "codeUrl": "https://cdn.21st.dev/reuno-ui/background-paper-shaders/code.1785304097969-b0bbd7f1-b225-43bc-ba0c-57fdc6ab3b6e.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/reuno-ui__background-paper-shaders/code.tsx",
+    "bytes": 2878,
+    "sha256": "649251e1f51a8c720e87bc68b9b7275e10830d0c56199e81cffed4d046d762b9",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

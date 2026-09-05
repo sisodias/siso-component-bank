@@ -1,0 +1,31 @@
+{
+  "category": "input",
+  "subcategory": "date-time-picker",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting dates and times for appointment scheduling in booking applications",
+    "Setting due dates or deadlines in project management tools",
+    "Choosing date ranges for filtering data in analytics dashboards",
+    "Inputting event dates in calendar applications",
+    "Scheduling delivery or pickup times in e-commerce checkout flows"
+  ],
+  "ai_summary": "A date-time picker component that allows users to select dates and times through an interactive calendar and time selection interface. Part of the Ruixen.UI component library, it provides a clean, accessible way to handle temporal data entry in forms and scheduling interfaces.",
+  "_classifiedAt": "2026-04-23T01:49:25.634Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

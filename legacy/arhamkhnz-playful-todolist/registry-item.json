@@ -1,0 +1,54 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "arhamkhnz-playful-todolist",
+  "type": "registry:ui",
+  "title": "Arhamkhnz Playful Todolist",
+  "description": "Installed from https://21st.dev/r/arhamkhnz/playful-todolist",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "arhamkhnz-playful-todolist"
+  ],
+  "files": [
+    {
+      "path": "checkbox.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "label.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "playful-todolist.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-checkbox",
+    "@radix-ui/react-label",
+    "class-variance-authority",
+    "lucide-react",
+    "motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "Syntax error in component source (malformed JSX with unterminated regexp)"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/arhamkhnz/playful-todolist",
+    "fetchedAt": "2026-04-23T01:17:25.818Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

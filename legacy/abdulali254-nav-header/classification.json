@@ -1,0 +1,31 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "tab-nav",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Main navigation header for landing pages or marketing sites",
+    "Tab-based navigation for dashboard or app-wide navigation",
+    "Responsive navigation menu for websites with multiple sections"
+  ],
+  "ai_summary": "A horizontal tab navigation component featuring a smooth animated cursor that follows hover states. Uses Framer Motion for fluid transitions and mix-blend-difference for text color inversion effects. The tabs are contained in a rounded pill-shaped container with bold black borders, creating a clean minimalist aesthetic suitable for modern SaaS and landing page headers.",
+  "_classifiedAt": "2026-04-23T11:28:07.090Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

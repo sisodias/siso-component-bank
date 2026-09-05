@@ -1,0 +1,26 @@
+{
+  "id": "elements-__suggested-actions",
+  "author": "elements-",
+  "slug": "suggested-actions",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@elements-/components/suggested-actions",
+  "fetchedAt": "2026-08-29T04:43:38.222Z",
+  "completedAt": "2026-08-29T04:43:40.018Z",
+  "versionedFilename": "code.1784360655182-c2c209b9-d3fa-47c7-8687-3988354daa52.tsx",
+  "codeReference": "r2://components-code-private/elements-/suggested-actions/code.1784360655182-c2c209b9-d3fa-47c7-8687-3988354daa52.tsx",
+  "codeUrl": "https://cdn.21st.dev/elements-/suggested-actions/code.1784360655182-c2c209b9-d3fa-47c7-8687-3988354daa52.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

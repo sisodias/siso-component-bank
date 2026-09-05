@@ -1,0 +1,34 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "desktop-menu-bar-dropdown",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Application navigation menus for SaaS platforms mimicking desktop OS patterns",
+    "File and edit operations menu for document-based web applications",
+    "Settings and preferences dropdown menus with keyboard shortcut support",
+    "Admin dashboard navigation with macOS-inspired menu bar design"
+  ],
+  "ai_summary": "A macOS-style menu bar component that replicates the native desktop application menu experience with dropdown submenus, keyboard shortcuts, and hover states. Features standard File/Edit menu patterns with separator support and submenu indicators. Designed for web applications seeking a native desktop feel, offering both mouse and keyboard navigation.",
+  "_classifiedAt": "2026-04-22T08:58:07.342Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

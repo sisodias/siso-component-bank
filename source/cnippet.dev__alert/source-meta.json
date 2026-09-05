@@ -1,0 +1,26 @@
+{
+  "id": "cnippet.dev__alert",
+  "author": "cnippet.dev",
+  "slug": "alert",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@cnippet.dev/components/alert",
+  "fetchedAt": "2026-08-29T03:55:20.795Z",
+  "completedAt": "2026-08-29T03:55:22.898Z",
+  "versionedFilename": "code.1768986128384.tsx",
+  "codeReference": "r2://components-code-private/cnippet.dev/alert/code.1768986128384.tsx",
+  "codeUrl": "https://cdn.21st.dev/cnippet.dev/alert/code.1768986128384.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2401,
+  "sha256": "4c329ec44b36bf48be027c626647d897caa0052545d281f8ece28f9a39ee0574",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

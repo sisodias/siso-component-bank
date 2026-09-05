@@ -1,0 +1,26 @@
+{
+  "id": "rynkovski__3d-card-1",
+  "author": "rynkovski",
+  "slug": "3d-card-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@rynkovski/components/3d-card-1",
+  "fetchedAt": "2026-08-29T06:52:37.831Z",
+  "completedAt": "2026-08-29T06:52:40.639Z",
+  "versionedFilename": "code.1750554259898.tsx",
+  "codeReference": "r2://components-code-private/larsen66/3d-card-1/code.1750554259898.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/3d-card-1/code.1750554259898.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5185,
+  "sha256": "3475740853863a3c966656b43ddd1a83c0b5468a9c8a214b9e45f1f770474619",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

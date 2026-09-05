@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__newsletter",
+  "author": "ruixen.ui",
+  "slug": "newsletter",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/newsletter",
+  "fetchedAt": "2026-08-29T06:45:40.369Z",
+  "completedAt": "2026-08-29T06:45:42.824Z",
+  "versionedFilename": "code.1757347877276.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/newsletter/code.1757347877276.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/newsletter/code.1757347877276.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1407,
+  "sha256": "862da15c243263316b4221993e72c7c2c2f0946a5ab9e5fee445b17312533e3b",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

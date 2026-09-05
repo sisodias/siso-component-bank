@@ -1,0 +1,36 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "image-reveal",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "media",
+    "e-commerce",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Interactive image gallery with cursor-following reveal mask",
+    "Product image preview with hover effect on e-commerce sites",
+    "Portfolio showcase with smooth cursor tracking reveal",
+    "Before/after image comparisons with circular reveal mechanism",
+    "Creative image presentation for media and entertainment sites"
+  ],
+  "ai_summary": "An interactive image reveal component that displays a circular mask following the user's cursor, smoothly exposing the underlying image using linear interpolation (lerping) for fluid motion. Features responsive radius calculations, touch device detection, and adaptive behavior across viewport sizes. Ideal for creative portfolios, product showcases, and interactive gallery experiences where engagement through hover interactions is paramount.",
+  "_classifiedAt": "2026-04-23T16:46:45.167Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

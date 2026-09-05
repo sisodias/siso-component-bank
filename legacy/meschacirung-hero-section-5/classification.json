@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-component",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Button element with multiple visual variants for different action contexts",
+    "Accessible button with focus-visible ring states and disabled handling",
+    "Composable button that renders as child element via Radix Slot",
+    "Standard action trigger for forms, dialogs, and navigation"
+  ],
+  "ai_summary": "A versatile button component built with CVA (class-variance-authority) supporting six style variants (default, destructive, outline, secondary, ghost, link) and four size options. Features standard accessibility patterns including focus-visible rings, disabled states, and keyboard navigation support. Uses Radix UI Slot for composition flexibility, allowing rendering as child elements. Styled with Tailwind CSS for lightweight, utility-first implementation.",
+  "_classifiedAt": "2026-04-23T16:56:52.079Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

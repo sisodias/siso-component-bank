@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "patrick.thomas.dunn1988-robot-flyby",
+  "type": "registry:ui",
+  "title": "Patrick.Thomas.Dunn1988 Robot Flyby",
+  "description": "Installed from https://21st.dev/r/patrick.thomas.dunn1988/robot-flyby",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "patrick.thomas.dunn1988-robot-flyby"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "robot-flyby.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/patrick.thomas.dunn1988/robot-flyby",
+    "fetchedAt": "2026-04-23T03:03:36.972Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

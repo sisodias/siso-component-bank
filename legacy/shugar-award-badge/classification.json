@@ -1,0 +1,32 @@
+{
+  "category": "card",
+  "subcategory": "award-badge-recognition",
+  "visual_style": [
+    "3d",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying award badges on product pages to showcase recognition",
+    "Adding credibility to developer tools and SaaS products",
+    "Featuring product rankings (gold, silver, bronze) in portfolios",
+    "Highlighting product launches with Product Hunt-style badges",
+    "Creating interactive award showcases with 3D hover effects"
+  ],
+  "ai_summary": "An interactive award badge component that displays product achievements like Golden Kitty Awards, Product of the Day, Week, or Month. Features sophisticated 3D mouse-following tilt effects using CSS matrix transforms and smooth overlay animations for a premium, polished appearance. Supports multiple award types with distinct color schemes (golden, silver, bronze) and optional clickable links.",
+  "_classifiedAt": "2026-04-23T17:29:21.653Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

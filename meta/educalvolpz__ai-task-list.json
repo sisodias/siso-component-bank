@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@educalvolpz/components/ai-task-list",
+  "author": "educalvolpz",
+  "slug": "ai-task-list",
+  "name": "ai-task-list",
+  "description": "Agent plan checklist with nested subtasks and pending, running, done and failed states, each transitioning in place. Respects prefers-reduced-motion.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/educalvolpz/ai-task-list?api_key=$API_KEY_21ST\"",
+  "id": "educalvolpz__ai-task-list",
+  "bundleUrl": "https://cdn.21st.dev/educlopez/ai-task-list/default/bundle.1785567967758-07a81852-4356-4976-ae82-7155971a1845.html",
+  "previewUrl": "https://cdn.21st.dev/educlopez/ai-task-list/default/preview.1785567967758-07a81852-4356-4976-ae82-7155971a1845.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

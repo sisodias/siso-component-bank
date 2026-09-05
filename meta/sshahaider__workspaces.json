@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@sshahaider/components/workspaces",
+  "author": "sshahaider",
+  "slug": "workspaces",
+  "name": "workspaces",
+  "description": "a flexible, context-based solution to manage and display multiple workspaces in your app. It uses Radix Popover, supports avatars, search, and customizable rendering—perfect for SaaS dashboards with multi-tenant support.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/sshahaider/workspaces?api_key=$API_KEY_21ST\"",
+  "id": "sshahaider__workspaces",
+  "bundleUrl": "https://cdn.21st.dev/sshahaider/workspaces/default/bundle.1753391499752.html",
+  "previewUrl": "https://cdn.21st.dev/sshahaider/workspaces/default/preview.1753391499748.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

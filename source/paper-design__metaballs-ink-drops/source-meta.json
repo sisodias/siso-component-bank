@@ -1,0 +1,26 @@
+{
+  "id": "paper-design__metaballs-ink-drops",
+  "author": "paper-design",
+  "slug": "metaballs-ink-drops",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@paper-design/components/metaballs-ink-drops",
+  "fetchedAt": "2026-08-29T06:05:03.162Z",
+  "completedAt": "2026-08-29T06:05:06.433Z",
+  "versionedFilename": "code.1784835451281-c312182e-92d1-404d-afc0-0be493550ed0.tsx",
+  "codeReference": "r2://components-code-private/paper-design/metaballs-ink-drops/code.1784835451281-c312182e-92d1-404d-afc0-0be493550ed0.tsx",
+  "codeUrl": "https://cdn.21st.dev/paper-design/metaballs-ink-drops/code.1784835451281-c312182e-92d1-404d-afc0-0be493550ed0.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

@@ -1,0 +1,27 @@
+{
+  "category": "navigation",
+  "subcategory": "clip-path-animated-nav-links",
+  "visual_style": [],
+  "interactions": [
+    "hover-reveal"
+  ],
+  "best_for_industries": [
+    "education",
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Primary site navigation with engaging hover animations",
+    "Sidebar or header navigation menus for web applications",
+    "Tab-like navigation with smooth visual feedback",
+    "Icon-text menu items with animated highlighting"
+  ],
+  "ai_summary": "A navigation component featuring four menu links (Home, Learn, Quiz, Ask) with smooth clip-path animations triggered on hover. The effect uses Framer Motion's useSpring and useMotionTemplate to create a sliding overlay that reveals a blue accent border and icon. Ideal for educational platforms or dashboard-style applications requiring interactive navigation elements.",
+  "_classifiedAt": "2026-04-22T09:05:11.686Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

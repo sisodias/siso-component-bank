@@ -1,0 +1,29 @@
+{
+  "category": "media",
+  "subcategory": "horizontal-image-carousel",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "media",
+    "e-commerce",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying trending spark items with counts and images in a scrollable horizontal carousel",
+    "Showcasing featured media content with navigation arrows on e-commerce platforms",
+    "Creating image galleries with smooth scroll animations for creator portfolios",
+    "Building product carousels with dynamic item counts and labels for SaaS dashboards",
+    "Implementing scrollable content showcases with button-based navigation for media sites"
+  ],
+  "ai_summary": "A horizontal image carousel component with smooth scroll animations and arrow-based navigation. Features item cards displaying images, titles, counts, and count labels. Uses Framer Motion for animations and detects scroll position to enable/disable navigation buttons. Ideal for displaying trending content, featured media, or product showcases in a space-efficient scrollable layout suitable for both desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-22T09:10:41.969Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

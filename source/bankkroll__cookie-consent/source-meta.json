@@ -1,0 +1,26 @@
+{
+  "id": "bankkroll__cookie-consent",
+  "author": "bankkroll",
+  "slug": "cookie-consent",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@bankkroll/components/cookie-consent",
+  "fetchedAt": "2026-08-29T03:47:59.942Z",
+  "completedAt": "2026-08-29T03:48:02.622Z",
+  "versionedFilename": "code.1749422410746.tsx",
+  "codeReference": "r2://components-code-private/bankkroll/cookie-consent/code.1749422410746.tsx",
+  "codeUrl": "https://cdn.21st.dev/bankkroll/cookie-consent/code.1749422410746.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 11893,
+  "sha256": "eb3e85b025f6e05d4e15e1592ddbc6f53f42618b412bda5afc6b76aacfa5389c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

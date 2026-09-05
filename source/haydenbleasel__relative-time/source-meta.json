@@ -1,0 +1,26 @@
+{
+  "id": "haydenbleasel__relative-time",
+  "author": "haydenbleasel",
+  "slug": "relative-time",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@haydenbleasel/components/relative-time",
+  "fetchedAt": "2026-08-29T04:55:11.853Z",
+  "completedAt": "2026-08-29T04:55:13.916Z",
+  "versionedFilename": "code.1755200262173.tsx",
+  "codeReference": "r2://components-code-private/larsen66/relative-time/code.1755200262173.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/relative-time/code.1755200262173.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4116,
+  "sha256": "655687a15af76916b58da52c8ea63251313c6c2f2410b9da9a5dafb55afde33b",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

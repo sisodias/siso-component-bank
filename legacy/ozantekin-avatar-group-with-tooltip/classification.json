@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar-group with tooltip",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "education",
+    "healthcare"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Display team members or collaborators on a project or document",
+    "Show user mentions in comments or chat interfaces",
+    "Represent members in a group or channel",
+    "Display event attendees or participants",
+    "Show assignees or reviewers in workflow systems"
+  ],
+  "ai_summary": "A reusable avatar group component that displays multiple user profiles in a stacked, overlapping layout with smooth hover animations and tooltip labels. Built with Radix UI primitives for accessibility, featuring scale, lift, and shadow effects on interaction. Ideal for team displays, collaboration features, and user representation in SaaS, education, and healthcare applications.",
+  "_classifiedAt": "2026-04-23T17:05:28.156Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

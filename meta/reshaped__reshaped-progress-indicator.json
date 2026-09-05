@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@reshaped/components/reshaped-progress-indicator",
+  "author": "reshaped",
+  "slug": "reshaped-progress-indicator",
+  "name": "reshaped-progress-indicator",
+  "description": "Dot-based step indicator that takes a total amount of steps and the current activeIndex as a controlled component. Pairs with Carousel and Pagination for syncing scroll or navigation state, and supports a media color for static dark backgrounds.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/reshaped/reshaped-progress-indicator?api_key=$API_KEY_21ST\"",
+  "id": "reshaped__reshaped-progress-indicator",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/reshaped-progress-indicator/default/bundle.1783440823858.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/reshaped-progress-indicator/default/preview.1783440823858.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

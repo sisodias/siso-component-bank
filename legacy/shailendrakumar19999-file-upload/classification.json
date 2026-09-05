@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "file-upload",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Users drag and drop files into an upload zone to attach documents or images",
+    "Preview uploaded images in a card grid before submitting a form",
+    "Display file type icons and metadata (name, size) for non-image files",
+    "Remove individual files from a multi-file upload queue",
+    "Hover over file cards to reveal detailed file information"
+  ],
+  "ai_summary": "A file upload component with drag-and-drop support and file preview functionality. Displays uploaded files as card previews with image thumbnails or file type icons, showing file name and size on hover. Features smooth transitions, rounded corners, and a clean minimalist aesthetic suitable for SaaS and e-commerce applications.",
+  "_classifiedAt": "2026-04-23T17:28:55.517Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

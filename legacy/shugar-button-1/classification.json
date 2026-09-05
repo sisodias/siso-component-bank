@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "dark",
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Primary action buttons in SaaS dashboards and web applications",
+    "Form submission triggers with loading state feedback",
+    "Icon-only buttons for compact UI elements like toolbars",
+    "Multi-variant button systems supporting error, warning, and success states",
+    "Responsive button components with size and shape customization"
+  ],
+  "ai_summary": "A versatile React button component from shugar with extensive customization options including 5 types (primary, secondary, tertiary, error, warning), 4 sizes, and 3 shapes. Features loading state with spinner integration, prefix/suffix icon slots, shadow effects, and full-width layout support. Dark-themed minimalist design with hover interactions, suitable for SaaS, fintech, and developer tool interfaces requiring consistent button styling.",
+  "_classifiedAt": "2026-04-23T17:29:30.161Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

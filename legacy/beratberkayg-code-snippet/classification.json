@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in forms, modals, and landing pages",
+    "Icon buttons for toolbars, navigation bars, and action menus",
+    "Destructive action buttons requiring confirmation or warning states",
+    "Secondary and tertiary action buttons alongside primary CTAs",
+    "Ghost and link-style buttons for less prominent navigation or inline actions"
+  ],
+  "ai_summary": "A reusable button component built with Radix UI Slot and class-variance-authority, offering multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Features accessible focus ring states with smooth hover transitions, making it suitable as a foundational UI element across SaaS, fintech, e-commerce, and dev tools platforms.",
+  "_classifiedAt": "2026-04-23T11:32:48.313Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

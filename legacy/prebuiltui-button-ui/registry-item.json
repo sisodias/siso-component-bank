@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "prebuiltui-button-ui",
+  "type": "registry:ui",
+  "title": "Prebuiltui Button Ui",
+  "description": "Installed from https://21st.dev/r/prebuiltui/button-ui",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "prebuiltui-button-ui"
+  ],
+  "files": [
+    {
+      "path": "button-ui.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/prebuiltui/button-ui",
+    "fetchedAt": "2026-04-22T06:44:38.366Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

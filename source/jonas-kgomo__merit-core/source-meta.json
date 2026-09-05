@@ -1,0 +1,26 @@
+{
+  "id": "jonas-kgomo__merit-core",
+  "author": "jonas-kgomo",
+  "slug": "merit-core",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@jonas-kgomo/components/merit-core",
+  "fetchedAt": "2026-08-29T05:11:26.449Z",
+  "completedAt": "2026-08-29T05:11:28.736Z",
+  "versionedFilename": "code.1781655467459.tsx",
+  "codeReference": "r2://components-code-private/jonas-kgomo/merit-core/code.1781655467459.tsx",
+  "codeUrl": "https://cdn.21st.dev/jonas-kgomo/merit-core/code.1781655467459.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4179,
+  "sha256": "20ffecae6746385b7910d2aed2a718760f1b473116b47631a1a59a29dfea24d3",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

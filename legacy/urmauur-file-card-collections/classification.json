@@ -1,0 +1,35 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "file-card",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Display file preview with color-coded type indicator in document management dashboards",
+    "Show uploaded document information with visual format badges in file upload interfaces",
+    "List documents with format-specific visual hierarchy in media libraries",
+    "Present file collections with placeholder skeleton loading states",
+    "Organize and categorize various file types with distinct color coding"
+  ],
+  "ai_summary": "A file card component featuring color-coded banners for 28 different file formats (documents, spreadsheets, presentations, archives, code files, and media), with a placeholder skeleton design for loading states. Supports multiple file types including doc, pdf, md, csv, xls, zip, code, html, js, tsx, img, video, and more with format-specific color schemes.",
+  "_classifiedAt": "2026-04-22T09:18:51.524Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

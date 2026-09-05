@@ -1,0 +1,28 @@
+{
+  "category": "data-display",
+  "subcategory": "blog-listing",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying blog posts in a responsive grid layout for content-heavy websites",
+    "Serving as a news or article listing section for media and publishing platforms",
+    "Providing a content feed section for SaaS product documentation sites",
+    "Acting as a portfolio or case study showcase for agency websites",
+    "Enabling article preview cards with author, date, and tag metadata for blogs"
+  ],
+  "ai_summary": "A blog listing section component featuring a centered heading and description with a responsive grid of post cards. Each card displays title, summary, category label, author, publication date, and tags. Built with Tailwind CSS using a clean, minimalist design suitable for content-driven websites, SaaS blogs, and media platforms.",
+  "_classifiedAt": "2026-04-23T17:27:22.170Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,22 @@
+{
+ "id": "youcefbnm__story",
+ "outcome": "retrieved",
+ "retrievalMethod": "local-legacy-store-copy",
+ "provenanceNote": "Copied from the pre-existing local legacy 21st store; NOT fetched from 21st.dev by this lane.",
+ "legacySourcePath": "legacy/youcefbnm-story/avatar.tsx",
+ "legacySourceFile": "avatar.tsx",
+ "legacyDependencies": [
+  "@radix-ui/react-avatar",
+  "@radix-ui/react-dialog",
+  "@radix-ui/react-icons",
+  "@radix-ui/react-slot",
+  "class-variance-authority",
+  "lucide-react"
+ ],
+ "upstreamUrl": "https://21st.dev/@youcefbnm/components/story",
+ "httpStatus": null,
+ "sha256": "d877c1713350b188a70178c7968fde791ab243857d016ecd96349595b0004209",
+ "bytes": 1422,
+ "completedAt": "2026-08-29T03:43:54.200Z",
+ "seededBy": "CENA-directive-2026-08-29-skip-legacy"
+}

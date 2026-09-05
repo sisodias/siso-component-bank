@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in forms and landing pages",
+    "Destructive action buttons with warning styling",
+    "Navigation links styled as buttons",
+    "Icon-only buttons for compact UI areas",
+    "Ghost-style buttons for secondary actions in toolbars"
+  ],
+  "ai_summary": "A versatile, production-ready Button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes. Built with Radix UI Slot for composition, class-variance-authority for maintainable styling, and Tailwind CSS. Includes accessibility features like focus-visible rings and disabled states. Suitable for any SaaS or web application requiring consistent button styling.",
+  "_classifiedAt": "2026-04-22T09:17:13.603Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

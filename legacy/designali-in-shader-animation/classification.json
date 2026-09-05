@@ -1,0 +1,32 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "WebGL shader animation",
+  "visual_style": [
+    "gradient"
+  ],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero section background animation for landing pages",
+    "Decorative animated background for websites and apps",
+    "Loading screen or splash page visual effect",
+    "Abstract visualization for creative portfolios",
+    "Atmospheric background for marketing materials"
+  ],
+  "ai_summary": "A WebGL shader animation component built with Three.js that renders a time-based geometric pattern featuring oscillating concentric lines with RGB color channel separation. The shader uses GLSL fragment and vertex shaders to create a dynamic, generative visual effect that continuously morphs over time. Best suited as a decorative hero background, loading animation, or atmospheric visual accent for creative, SaaS, and media applications.",
+  "_classifiedAt": "2026-04-23T16:32:50.072Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

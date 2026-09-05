@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "step-card",
+  "visual_style": [
+    "flat",
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "dev-tools",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying step-by-step onboarding or tutorial content with visual indicators",
+    "Feature highlights or process explanation cards in SaaS applications",
+    "Interactive walkthrough cards for educational or training platforms",
+    "Process documentation cards with animated visual aids",
+    "Feature announcement cards with engaging hover animations"
+  ],
+  "ai_summary": "An animated interactive card component featuring a file/folder SVG illustration with hover-based animations powered by Framer Motion. The card displays step information including a title, description, and animated icon, making it ideal for onboarding flows, tutorials, and process documentation in web applications. Supports custom icons via props.",
+  "_classifiedAt": "2026-04-22T09:04:24.786Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

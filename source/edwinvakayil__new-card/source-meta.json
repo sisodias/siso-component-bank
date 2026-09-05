@@ -1,0 +1,26 @@
+{
+  "id": "edwinvakayil__new-card",
+  "author": "edwinvakayil",
+  "slug": "new-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@edwinvakayil/components/new-card",
+  "fetchedAt": "2026-08-29T04:42:09.166Z",
+  "completedAt": "2026-08-29T04:42:11.459Z",
+  "versionedFilename": "code.1780154060266.tsx",
+  "codeReference": "r2://components-code-private/lyanchouss/new-card/code.1780154060266.tsx",
+  "codeUrl": "https://cdn.21st.dev/lyanchouss/new-card/code.1780154060266.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10853,
+  "sha256": "def92196e2ba123bca610e2d27d49628f1688883c2c4123f46fad5b5a6a8e768",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "stacked-diverging-bar-chart",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Visualizing positive vs negative values across time periods such as resolved vs outstanding tickets",
+    "Comparing bidirectional metrics like profit/loss or gains/losses by category",
+    "Tracking trend changes in support tickets, bug resolutions, or project milestones",
+    "Displaying comparative data with diverging segments for quarterly performance reviews",
+    "Rendering financial or operational metrics with color-coded positive/negative indicators"
+  ],
+  "ai_summary": "A stacked diverging bar chart component built with Reaviz that displays bidirectional data comparisons with positive and negative values extending from a center axis. Uses color-coded segments (pink/red tones) to distinguish between categories like resolved vs outstanding metrics across monthly periods. Includes Framer Motion animations for smooth entrance effects and supports metric displays with trend indicators.",
+  "_classifiedAt": "2026-04-23T17:15:52.579Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

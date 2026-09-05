@@ -1,0 +1,32 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading-spinner",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Indicate loading states during data fetching operations",
+    "Show processing feedback when submitting forms",
+    "Display loading status in buttons during async actions",
+    "Provide visual feedback during page transitions",
+    "Indicate background processing in dashboard widgets"
+  ],
+  "ai_summary": "A lightweight spinning loader component built on Lucide's Loader2Icon with Tailwind CSS animate-spin utility. This versatile component serves as a universal loading indicator that can be placed anywhere in the UI to communicate async states, with a clean minimalist aesthetic using the standard Lucide icon style.",
+  "_classifiedAt": "2026-04-22T08:54:50.530Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

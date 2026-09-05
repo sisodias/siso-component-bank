@@ -1,0 +1,26 @@
+{
+  "id": "micka_design__slider",
+  "author": "micka_design",
+  "slug": "slider",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@micka_design/components/slider",
+  "fetchedAt": "2026-08-29T05:42:32.772Z",
+  "completedAt": "2026-08-29T05:42:35.044Z",
+  "versionedFilename": "code.1773164867693.tsx",
+  "codeReference": "r2://components-code-private/larsen66/slider/code.1773164867693.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/slider/code.1773164867693.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 24460,
+  "sha256": "65b865132111a71df47114daff30c95e7be8201ba21215375d2277f27d4f26f5",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

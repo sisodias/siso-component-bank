@@ -1,0 +1,38 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-with-variants",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Interactive button for triggering actions in web applications",
+    "Form submission trigger with disabled states",
+    "Navigation actions with link variants",
+    "Icon-only buttons for compact UI spaces",
+    "Secondary actions with outline or ghost styling"
+  ],
+  "ai_summary": "A reusable Button component built with Radix UI Slot and class-variance-authority. Supports 6 variants (default, destructive, outline, secondary, ghost, link) and 4 sizes (default, sm, lg, icon). Uses standard Tailwind ring utilities for focus states and includes disabled/opacity handling. Designed for composition via asChild prop for integrating with other components.",
+  "_classifiedAt": "2026-04-22T09:10:19.445Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

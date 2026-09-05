@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ishamsu-immersive-scroll-gallery",
+  "type": "registry:ui",
+  "title": "Ishamsu Immersive Scroll Gallery",
+  "description": "Installed from https://21st.dev/r/ishamsu/immersive-scroll-gallery",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ishamsu-immersive-scroll-gallery"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "immersive-scroll-gallery.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ishamsu/immersive-scroll-gallery",
+    "fetchedAt": "2026-04-23T03:04:50.504Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

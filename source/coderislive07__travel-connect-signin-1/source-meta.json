@@ -1,0 +1,33 @@
+{
+  "id": "coderislive07__travel-connect-signin-1",
+  "author": "coderislive07",
+  "slug": "travel-connect-signin-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@coderislive07/components/travel-connect-signin-1",
+  "fetchedAt": "2026-08-29T04:00:48.643Z",
+  "completedAt": "2026-08-29T04:00:49.590Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/coderislive07__travel-connect-signin-1/code.tsx",
+    "bytes": 16834,
+    "sha256": "f75c3b70f3df4b164e696946b134e20351d30c23e88b14acf9d95db38856be2a",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

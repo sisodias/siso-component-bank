@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "aceternity-resizable-navbar",
+  "type": "registry:ui",
+  "title": "Aceternity Resizable Navbar",
+  "description": "Installed from https://21st.dev/r/aceternity/resizable-navbar",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "aceternity-resizable-navbar"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "resizable-navbar.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@tabler/icons-react",
+    "motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/aceternity/resizable-navbar",
+    "fetchedAt": "2026-04-23T03:03:51.534Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

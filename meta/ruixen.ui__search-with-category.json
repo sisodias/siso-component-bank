@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/search-with-category",
+  "author": "ruixen.ui",
+  "slug": "search-with-category",
+  "name": "search-with-category",
+  "description": "This component is a search bar with a category filter, built entirely using shadcn/ui components. It combines a dropdown select for choosing a category (like Products, Blogs, Users, or Docs), a text input for entering search queries, and a button with a search icon to submit. The design keeps all three elements aligned with equal height, giving it a clean and consistent look. It’s a common UI pattern for dashboards, e-commerce, or content platforms where users need to refine searches by category.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/search-with-category?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__search-with-category",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/search-with-category/default/bundle.1756181628618.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/search-with-category/default/preview.1756181628617.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 12,
+  "demo_id": 6122,
+  "video_url": null
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@dqnamo/components/animated-banner",
+  "author": "dqnamo",
+  "slug": "animated-banner",
+  "name": "animated-banner",
+  "description": "A reusable animated banner pattern built from a short muted video loop with a poster fallback, a gradient overlay that fades from a solid color on the text side to transparent over the image, an extra hover/focus depth overlay, and a compact content layer with a title, balanced subtitle, call to action, and a live DD:HH:MM:SS countdown. Fully prop-driven (video, poster, title, subtitle, CTA, deadline, overlay color) and dependency-free.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/dqnamo/animated-banner?api_key=$API_KEY_21ST\"",
+  "id": "dqnamo__animated-banner",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/animated-banner/default/bundle.1782934396390.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/animated-banner/default/preview.1782934396390.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 4,
+  "demo_id": 16730,
+  "video_url": "https://cdn.21st.dev/larsen66/animated-banner/default/video.1782934396390.mp4"
+}

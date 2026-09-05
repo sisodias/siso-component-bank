@@ -1,0 +1,26 @@
+{
+  "id": "easemize__auth-fuse",
+  "author": "easemize",
+  "slug": "auth-fuse",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@easemize/components/auth-fuse",
+  "fetchedAt": "2026-08-29T04:37:24.616Z",
+  "completedAt": "2026-08-29T04:37:26.495Z",
+  "versionedFilename": "code.1756902506902.tsx",
+  "codeReference": "r2://components-code-private/easemize/auth-fuse/code.1756902506902.tsx",
+  "codeUrl": "https://cdn.21st.dev/easemize/auth-fuse/code.1756902506902.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 12562,
+  "sha256": "5a5128f4de77134e91b10eb0bec06041e8563822456a7b5cc3d67b628f8008ff",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

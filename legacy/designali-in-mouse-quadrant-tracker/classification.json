@@ -1,0 +1,32 @@
+{
+  "category": "hero",
+  "subcategory": "Interactive mouse-tracking text shadow component",
+  "visual_style": [
+    "3d",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Hero section with large typography that responds to mouse position across quadrants",
+    "Landing page text with dynamic shadow effect following cursor movement",
+    "Creative portfolio showcase with interactive depth illusion",
+    "SaaS landing page with engaging mouse-reactive visual element",
+    "Portfolio or personal site hero with immersive text shadow interaction"
+  ],
+  "ai_summary": "An interactive hero component featuring large typography with a mouse-tracking shadow effect. The text shadow dynamically follows the mouse position across four quadrants relative to the element, creating an illusion of 3D depth. The shadow intensity and color hue are fully customizable via props, making it ideal for creating engaging landing page hero sections that respond to user mouse movement with visually striking shadow effects.",
+  "_classifiedAt": "2026-04-23T16:32:14.161Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

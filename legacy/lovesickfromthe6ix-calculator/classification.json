@@ -1,0 +1,26 @@
+{
+  "category": "input",
+  "subcategory": "arithmetic-calculator",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Perform basic arithmetic calculations with addition, subtraction, multiplication, and division",
+    "Track calculation history for reference during active sessions",
+    "Handle edge cases like division by zero, infinity, and NaN gracefully",
+    "Format large and small numbers with appropriate precision and exponential notation",
+    "Reset calculator state or delete individual digits with intuitive controls"
+  ],
+  "ai_summary": "A functional arithmetic calculator component with standard operations, history tracking, and robust number formatting. Features display state management for operands and operations, handles edge cases like infinity and NaN, and formats values to fit within display constraints using decimal truncation or exponential notation. Includes clear, delete, and reset functionality.",
+  "_classifiedAt": "2026-04-23T16:52:57.220Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

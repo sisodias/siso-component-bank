@@ -1,0 +1,26 @@
+{
+  "id": "paceui__draw-line-text",
+  "author": "paceui",
+  "slug": "draw-line-text",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@paceui/components/draw-line-text",
+  "fetchedAt": "2026-08-29T06:02:29.946Z",
+  "completedAt": "2026-08-29T06:02:32.659Z",
+  "versionedFilename": "code.1750436395838.tsx",
+  "codeReference": "r2://components-code-private/larsen66/draw-line-text/code.1750436395838.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/draw-line-text/code.1750436395838.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3366,
+  "sha256": "cc7b4dcabc3875a9a78b6a1cab0edd925f37e6092afd7e3d5ddf9b551d6f436e",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

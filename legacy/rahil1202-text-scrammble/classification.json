@@ -1,0 +1,29 @@
+{
+  "category": "media",
+  "subcategory": "text-scramble-animation",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Animate hero section taglines with a randomized character scramble reveal effect",
+    "Create engaging loading states with text that scrambles before displaying final content",
+    "Cycle through multiple phrases in rotation with smooth character-by-character transitions",
+    "Add visual interest to dashboard headers with animated rotating messages",
+    "Build attention-grabbing call-to-action text with typewriter-style reveal"
+  ],
+  "ai_summary": "A lightweight text animation component that creates a scramble effect by cycling through random characters before revealing the final phrase. Supports multiple phrases in sequence with configurable timing, looping behavior, and CSS class customization. Ideal for hero sections, loading states, or dynamic text displays where animated transitions add visual polish.",
+  "_classifiedAt": "2026-04-22T09:08:50.501Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

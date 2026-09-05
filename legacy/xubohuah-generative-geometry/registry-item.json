@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "xubohuah-generative-geometry",
+  "type": "registry:ui",
+  "title": "Xubohuah Generative Geometry",
+  "description": "Installed from https://21st.dev/r/xubohuah/generative-geometry",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "xubohuah-generative-geometry"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "generative-geometry.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "p5"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "syntax error in source (malformed content from registry)"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/xubohuah/generative-geometry",
+    "fetchedAt": "2026-04-22T06:44:52.971Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

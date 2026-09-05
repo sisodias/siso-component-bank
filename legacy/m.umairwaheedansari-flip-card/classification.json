@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "flip-card",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display product features with front summary and back details on hover",
+    "Showcase service descriptions with interactive reveal animations",
+    "Create interactive portfolio or team member cards",
+    "Build feature comparison cards with detailed specs on flip",
+    "Design pricing tier cards with full benefits on hover"
+  ],
+  "ai_summary": "An interactive flip card component that uses 3D CSS transforms to rotate 180 degrees on hover, revealing content on the back. Features smooth 700ms transition animations, gradient backgrounds with customizable primary color, and shadow effects that intensify on hover. Designed for displaying product features, services, or team information with an engaging reveal mechanism.",
+  "_classifiedAt": "2026-04-23T16:53:45.712Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

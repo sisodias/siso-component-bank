@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "jatin-yadav05-icon-3d-hover",
+  "type": "registry:ui",
+  "title": "Jatin Yadav05 Icon 3d Hover",
+  "description": "Installed from https://21st.dev/r/jatin-yadav05/icon-3d-hover",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "jatin-yadav05-icon-3d-hover"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "icon-3d-hover.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/jatin-yadav05/icon-3d-hover",
+    "fetchedAt": "2026-04-23T03:04:33.003Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

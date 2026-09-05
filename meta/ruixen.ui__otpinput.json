@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/otpinput",
+  "author": "ruixen.ui",
+  "slug": "otpinput",
+  "name": "otpinput",
+  "description": "This component is a modern, highly interactive OTP input designed for a smooth and intuitive user experience. Each slot automatically focuses as the user types, and supports backspace navigation, so editing is effortless. Users can also paste the full OTP, which fills the inputs automatically. Completed slots are visually highlighted, and an optional separator can be added for better readability.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/otpinput?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__otpinput",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/otpinput/default/bundle.1757013042089.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/otpinput/default/preview.1757013042089.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

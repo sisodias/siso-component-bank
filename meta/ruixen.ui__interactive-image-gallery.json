@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/interactive-image-gallery",
+  "author": "ruixen.ui",
+  "slug": "interactive-image-gallery",
+  "name": "interactive-image-gallery",
+  "description": "The InteractiveImageGallery component is a dynamic, visually engaging layout designed to display images and accompanying text cards in a randomized, floating arrangement. Each time the page loads, images and text elements appear in different positions, creating a fresh, organic feel reminiscent of a modern design showcase or creative portfolio. Built entirely with shadcn/ui components and Tailwind CSS, it’s lightweight, responsive, and seamlessly adapts to both dark and light themes.\n\nA standout feature of this component is its hover interaction — when the user hovers over any image, all other images gently blur, bringing the focused item to the forefront while leaving text cards crisp and readable. This subtle depth effect enhances visual hierarchy without distracting from the overall layout.\n\nIdeal for creative portfolios, AI-generated art galleries, product showcases, or interactive visual storytelling, the InteractiveImageGallery strikes a balance between motion and clarity, transforming static content into a living, breathing experience that feels both elegant and intelligent.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/interactive-image-gallery?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__interactive-image-gallery",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/interactive-image-gallery/default/bundle.1760797359909.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/interactive-image-gallery/default/preview.1760797359909.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 29,
+  "demo_id": 9181,
+  "video_url": "https://cdn.21st.dev/user_2y5Wd5l713ZIFYjX19aZXSyXd6b/interactive-image-gallery/default/video.1786536196828.mp4"
+}

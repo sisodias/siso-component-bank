@@ -1,0 +1,37 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "error-alert-dialog",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying error messages that require user acknowledgment before dismissing",
+    "Confirmation dialogs before destructive actions like deletions or data loss",
+    "Form validation feedback requiring user attention",
+    "Critical system alerts that interrupt workflow until resolved",
+    "Permission or access denial notifications"
+  ],
+  "ai_summary": "A modal overlay dialog built on Radix UI primitives featuring smooth fade and zoom animations for enter/exit transitions. The component includes a semi-transparent backdrop overlay, centered content positioning, and responsive design with rounded corners and shadow effects. Designed primarily for error alerts and critical notifications requiring user acknowledgment.",
+  "_classifiedAt": "2026-04-23T17:21:33.003Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,39 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading-spinner",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display loading state while fetching data from API",
+    "Show progress indication during async operations",
+    "Indicate file upload or processing in progress",
+    "Provide visual feedback during form submission",
+    "Indicate background task running in dashboards"
+  ],
+  "ai_summary": "WaveLoader is a minimalist loading spinner component featuring animated vertical bars that pulse in a sequential wave pattern using motion/react. Configurable bar count and message placement make it versatile for various loading contexts across SaaS dashboards, e-commerce carts, and data-heavy applications.",
+  "_classifiedAt": "2026-04-23T17:01:32.813Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

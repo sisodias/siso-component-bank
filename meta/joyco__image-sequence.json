@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@joyco/components/image-sequence",
+  "author": "joyco",
+  "slug": "image-sequence",
+  "name": "image-sequence",
+  "description": "A canvas-based image sequence player that renders frame-by-frame animations with binary progressive loading for smooth playback.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/joyco/image-sequence?api_key=$API_KEY_21ST\"",
+  "id": "joyco__image-sequence",
+  "bundleUrl": "https://cdn.21st.dev/joyco/image-sequence/default/bundle.1784264262914-c1a9fc69-02dc-472e-b95e-46ff46c46d75.html",
+  "previewUrl": "https://cdn.21st.dev/joyco/image-sequence/default/preview.1784264262914-c1a9fc69-02dc-472e-b95e-46ff46c46d75.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

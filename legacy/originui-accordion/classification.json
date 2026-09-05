@@ -1,0 +1,33 @@
+{
+  "category": "data-display",
+  "subcategory": "accordion collapsible panels",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying frequently asked questions in an organized, space-saving manner",
+    "Creating collapsible content sections for documentation and help centers",
+    "Building expandable navigation menus or sidebars with nested items",
+    "Implementing settings panels where detailed options can be toggled visible",
+    "Structuring long-form content into digestible, user-controlled sections"
+  ],
+  "ai_summary": "A lightweight accordion component built on Radix UI primitives with smooth expand/collapse animations and rotating chevron indicators. Features clean Tailwind CSS styling with hover underline effects and customizable styling via className props. Uses semantic HTML with proper header and button elements for accessibility.",
+  "_classifiedAt": "2026-04-23T17:04:00.173Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

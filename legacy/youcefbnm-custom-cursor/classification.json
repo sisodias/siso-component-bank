@@ -1,0 +1,33 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "custom-cursor-pointer-follower",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Replacing default browser cursor with branded custom cursor for portfolio or creative websites",
+    "Adding interactive hover states to cursor elements in design tool interfaces",
+    "Creating differentiated mouse follower experiences in SaaS product landing pages",
+    "Implementing cursor text overlays for interactive showcase or tutorial experiences"
+  ],
+  "ai_summary": "A spring-physics animated custom cursor component that smoothly follows mouse movement with configurable variants and optional text display. Uses motion/react for fluid animations with mix-blend-difference styling for visibility on any background. Exports a hook pattern for managing cursor variants and text state across the application.",
+  "_classifiedAt": "2026-04-23T17:44:58.038Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "serafimcloud-status-badge",
+  "type": "registry:ui",
+  "title": "Serafimcloud Status Badge",
+  "description": "Installed from https://21st.dev/r/serafimcloud/status-badge",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "serafimcloud-status-badge"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "status-badge.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@remixicon/react",
+    "class-variance-authority"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/serafimcloud/status-badge",
+    "fetchedAt": "2026-04-23T03:05:48.904Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

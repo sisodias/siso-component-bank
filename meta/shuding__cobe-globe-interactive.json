@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@shuding/components/cobe-globe-interactive",
+  "author": "shuding",
+  "slug": "cobe-globe-interactive",
+  "name": "cobe-globe-interactive",
+  "description": "A WebGL globe with clickable markers that expand to show user counts. Click markers to toggle detail panels.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/shuding/cobe-globe-interactive?api_key=$API_KEY_21ST\"",
+  "id": "shuding__cobe-globe-interactive",
+  "bundleUrl": "https://cdn.21st.dev/reapollo/cobe-globe-interactive/default/bundle.1774293424099.html",
+  "previewUrl": "https://cdn.21st.dev/reapollo/cobe-globe-interactive/default/preview.1774286702970.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

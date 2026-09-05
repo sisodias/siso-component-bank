@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "uniquesonu-animated-shifting-tab-component",
+  "type": "registry:ui",
+  "title": "Uniquesonu Animated Shifting Tab Component",
+  "description": "Installed from https://21st.dev/r/uniquesonu/animated-shifting-tab-component",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "uniquesonu-animated-shifting-tab-component"
+  ],
+  "files": [
+    {
+      "path": "animated-shifting-tab-component.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "react-icons"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/uniquesonu/animated-shifting-tab-component",
+    "fetchedAt": "2026-04-23T01:17:35.367Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

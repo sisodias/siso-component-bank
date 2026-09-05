@@ -1,0 +1,34 @@
+{
+  "category": [
+    "overlay",
+    "form"
+  ],
+  "subcategory": "team-invite-dialog",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "system"
+  ],
+  "use_cases": [
+    "Inviting team members to collaborate on a workspace or project",
+    "Adding new users during team onboarding flow",
+    "Managing team access permissions through invite workflow",
+    "Collecting email addresses for team invitations"
+  ],
+  "ai_summary": "A team invite dialog component built with Radix UI primitives for accessibility. Features a modal overlay design for inviting members to collaborate, commonly used in SaaS and team collaboration platforms. Uses CVA for button variants including default, destructive, outline, secondary, ghost, and link styles with multiple size options.",
+  "_classifiedAt": "2026-04-23T17:21:12.779Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

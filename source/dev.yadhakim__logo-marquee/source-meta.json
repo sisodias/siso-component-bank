@@ -1,0 +1,26 @@
+{
+  "id": "dev.yadhakim__logo-marquee",
+  "author": "dev.yadhakim",
+  "slug": "logo-marquee",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dev.yadhakim/components/logo-marquee",
+  "fetchedAt": "2026-08-29T04:23:52.661Z",
+  "completedAt": "2026-08-29T04:23:54.919Z",
+  "versionedFilename": "code.1771996682231.tsx",
+  "codeReference": "r2://components-code-private/dev.yadhakim/logo-marquee/code.1771996682231.tsx",
+  "codeUrl": "https://cdn.21st.dev/dev.yadhakim/logo-marquee/code.1771996682231.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3169,
+  "sha256": "3630c67d0640c8b5e1ce1b993fe5bbf4cb98bb2c33743097af97973c38e6b171",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

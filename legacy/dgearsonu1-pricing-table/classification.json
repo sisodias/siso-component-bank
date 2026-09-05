@@ -1,0 +1,34 @@
+{
+  "category": [
+    "pricing"
+  ],
+  "subcategory": "pricing-table-with-toggle",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display subscription tiers for SaaS applications with monthly/annual toggle",
+    "Compare feature sets across different service packages",
+    "Present membership or pricing options to website visitors",
+    "Enable users to select a pricing plan with visual feedback on selection",
+    "Show pricing hierarchy with recommended plan highlighting"
+  ],
+  "ai_summary": "A dynamic pricing table component with billing cycle toggle (monthly/annually), multiple plan cards featuring feature comparison lists, and interactive selection states. Uses Lucide icons for feature checkmarks and includes support for recommended plan highlighting and custom button callbacks. Built with TypeScript and Tailwind CSS for clean, maintainable implementation across SaaS and e-commerce platforms.",
+  "_classifiedAt": "2026-04-22T08:57:30.305Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

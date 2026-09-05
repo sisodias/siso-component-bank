@@ -1,0 +1,28 @@
+{
+  "category": "feedback",
+  "subcategory": "bouncing-dots-loader",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying a loading state while waiting for data to fetch",
+    "Showing a typing indicator during message composition",
+    "Indicating progress during form submissions",
+    "Providing feedback during async API calls",
+    "Visual cue during file uploads or processing"
+  ],
+  "ai_summary": "A minimalist bouncing dots loading indicator component with customizable dot count, optional message placement, and smooth Framer Motion animations. The dots bounce in a staggered sequence creating a playful, attention-grabbing effect perfect for indicating ongoing processes or loading states in any application context.",
+  "_classifiedAt": "2026-04-23T17:00:46.869Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

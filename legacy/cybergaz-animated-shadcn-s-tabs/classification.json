@@ -1,0 +1,30 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "sliding-indicator-tabs",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Content section navigation in dashboard interfaces",
+    "Settings panel organization with animated tab switching",
+    "Multi-step wizard or onboarding flows",
+    "Categorized content display for SaaS products",
+    "Navigation between different views in web applications"
+  ],
+  "ai_summary": "An animated tabs component with a dynamically positioned sliding indicator that follows the active tab. Uses IntersectionObserver and MutationObserver to track tab state changes, with requestAnimationFrame for smooth indicator transitions. Built on Radix UI primitives for accessibility, the component features a fluid animated underline effect that morphs between tabs on click.",
+  "_classifiedAt": "2026-04-23T01:37:20.456Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

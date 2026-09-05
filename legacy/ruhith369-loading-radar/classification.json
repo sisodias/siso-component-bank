@@ -1,0 +1,30 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading-spinner",
+  "visual_style": [
+    "dark",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display an animated radar-style loading indicator during data fetching operations",
+    "Use as a waiting indicator for async processes or API calls",
+    "Serve as a loading placeholder during page transitions or navigation"
+  ],
+  "ai_summary": "A radar-themed loading spinner component featuring a rotating sweep animation with seagreen glow effect. The component uses dark styling with subtle shadows and dashed circular rings to create depth. Commonly used to indicate loading or processing states in web applications, particularly fitting for dashboard-style interfaces or tech-focused UIs.",
+  "_classifiedAt": "2026-04-22T09:11:26.989Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@reshaped/components/reshaped-button",
+  "author": "reshaped",
+  "slug": "reshaped-button",
+  "name": "reshaped-button",
+  "description": "Renders its children as button content and works with both href and onClick. Supports solid, outline, ghost and faded variants, neutral/primary/critical/positive colors, four sizes with fullWidth, loading and disabled states, start/end icons, icon-only mode, rounded shape, raised elevation and a Button.Group compound component.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/reshaped/reshaped-button?api_key=$API_KEY_21ST\"",
+  "id": "reshaped__reshaped-button",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/reshaped-button/default/bundle.1783349865105.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/reshaped-button/default/preview.1783349865105.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

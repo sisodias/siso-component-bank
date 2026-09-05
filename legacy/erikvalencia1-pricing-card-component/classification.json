@@ -1,0 +1,33 @@
+{
+  "category": "pricing",
+  "subcategory": "tiered-pricing-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display subscription tiers with pricing information for SaaS products",
+    "Enable users to select pricing plans with clear call-to-action buttons",
+    "Present tiered pricing comparison in a clean, scannable layout",
+    "Support different pricing periods (monthly/yearly) with visual hierarchy",
+    "Show feature lists alongside pricing to aid decision-making"
+  ],
+  "ai_summary": "A minimalist pricing card component designed for SaaS applications to display subscription tiers. Features clean typography hierarchy with pricing amounts, feature lists, and call-to-action buttons with multiple variant options. Built with Tailwind CSS for flat design aesthetic, supporting desktop and mobile layouts with flexible content structure for tier comparison.",
+  "_classifiedAt": "2026-04-22T08:59:08.976Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:32:36.128Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

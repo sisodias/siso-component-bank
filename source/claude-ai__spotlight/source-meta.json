@@ -1,0 +1,26 @@
+{
+  "id": "claude-ai__spotlight",
+  "author": "claude-ai",
+  "slug": "spotlight",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@claude-ai/components/spotlight",
+  "fetchedAt": "2026-08-29T03:54:53.676Z",
+  "completedAt": "2026-08-29T03:54:56.017Z",
+  "versionedFilename": "code.1782755177233.tsx",
+  "codeReference": "r2://components-code-private/claude-ai/spotlight/code.1782755177233.tsx",
+  "codeUrl": "https://cdn.21st.dev/claude-ai/spotlight/code.1782755177233.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4788,
+  "sha256": "d1b2a343deb530065afb7795fd00ceffcab3f194703d3fa08bee0f95cc04dc87",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

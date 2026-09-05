@@ -1,0 +1,26 @@
+{
+  "id": "micka_design__button",
+  "author": "micka_design",
+  "slug": "button",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@micka_design/components/button",
+  "fetchedAt": "2026-08-29T05:42:23.878Z",
+  "completedAt": "2026-08-29T05:42:25.853Z",
+  "versionedFilename": "code.1773161620345.tsx",
+  "codeReference": "r2://components-code-private/larsen66/button/code.1773161620345.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/button/code.1773161620345.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4875,
+  "sha256": "e307ec196bd4ade4de27f291e059146f21b1cf1b06060123e2223fb2b6a40cf1",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

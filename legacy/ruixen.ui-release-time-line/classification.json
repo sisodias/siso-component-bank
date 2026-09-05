@@ -1,0 +1,42 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-action-trigger",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools",
+    "healthcare",
+    "education",
+    "media",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons for forms and key user actions",
+    "Destructive action buttons for delete or warning operations",
+    "Secondary and tertiary navigation buttons for multi-step workflows",
+    "Icon-only buttons for compact toolbars and action bars",
+    "Ghost buttons for subtle UI actions without visual weight"
+  ],
+  "ai_summary": "A versatile atomic button component with semantic variants (default, destructive, outline, secondary, ghost, link) and size options. Built with Radix UI Slot for asChild composition, CVA for variant management, and includes accessibility features like focus-visible outlines and keyboard navigation. Features subtle shadows and smooth hover transitions for a polished, production-ready button system.",
+  "_classifiedAt": "2026-04-23T17:19:49.992Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

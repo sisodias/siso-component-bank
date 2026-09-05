@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@radu/components/saas-pricing-plan-card",
+  "author": "radu",
+  "slug": "saas-pricing-plan-card",
+  "name": "saas-pricing-plan-card",
+  "description": "A responsive, animated pricing tier card that dynamically displays monthly or quarterly billing info, a feature list, and a primary CTA. It supports theme variants (primary, secondary, etc.) and highlights featured plans with enhanced styling.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/radu/saas-pricing-plan-card?api_key=$API_KEY_21ST\"",
+  "id": "radu__saas-pricing-plan-card",
+  "bundleUrl": "https://cdn.21st.dev/radu/saas-pricing-plan-card/default/bundle.1753452807672.html",
+  "previewUrl": "https://cdn.21st.dev/radu/saas-pricing-plan-card/default/preview.1753448861854.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gvozdovic__hero-section",
+  "author": "gvozdovic",
+  "slug": "hero-section",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@gvozdovic/components/hero-section",
+  "fetchedAt": "2026-08-29T04:53:16.849Z",
+  "completedAt": "2026-08-29T04:53:19.084Z",
+  "versionedFilename": "code.1781625488037.tsx",
+  "codeReference": "r2://components-code-private/dzekuza/hero-section/code.1781625488037.tsx",
+  "codeUrl": "https://cdn.21st.dev/dzekuza/hero-section/code.1781625488037.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4493,
+  "sha256": "1a2e3e553b7822fce2f92b6e7f5b8c16183087a3bfcc58a57d20228ba4068c1b",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

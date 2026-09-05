@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "muhammad-binsalman-wooden-cart-button",
+  "type": "registry:ui",
+  "title": "Muhammad Binsalman Wooden Cart Button",
+  "description": "Installed from https://21st.dev/r/muhammad-binsalman/wooden-cart-button",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "muhammad-binsalman-wooden-cart-button"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "wooden-cart-button.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/muhammad-binsalman/wooden-cart-button",
+    "fetchedAt": "2026-04-23T01:18:12.138Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

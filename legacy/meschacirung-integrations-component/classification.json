@@ -1,0 +1,42 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button with variant system",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary action triggers in forms, dialogs, and navigation",
+    "Styled interactive buttons with multiple visual variants for different contexts",
+    "Accessible button component with focus-visible ring states for keyboard navigation",
+    "Reusable UI primitive with consistent styling across applications",
+    "Button with asChild pattern for composition with Radix UI Slot"
+  ],
+  "ai_summary": "A reusable Button component built with Radix UI Slot for composition and class-variance-authority for variant management. Supports 6 visual variants (default, destructive, outline, secondary, ghost, link) and 4 sizes (default, sm, lg, icon). Features standard focus-visible ring states for accessibility, hover transitions, and disabled states. Designed as an atomic UI primitive suitable for composition into larger interface components.",
+  "_classifiedAt": "2026-04-23T16:57:04.288Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

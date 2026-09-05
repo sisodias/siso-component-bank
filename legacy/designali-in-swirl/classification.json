@@ -1,0 +1,29 @@
+{
+  "category": "media",
+  "subcategory": "webgl-shader-swirl-effect",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Hero section backgrounds with dynamic swirling effects",
+    "Landing page visual ambiance and decoration",
+    "Web app decorative animations and transitions",
+    "Interactive visual placeholders for content",
+    "Branded visual effects for marketing pages"
+  ],
+  "ai_summary": "A WebGL shader-based swirling visual effect component using GLSL with simplex noise for procedural animation. Renders dynamic, colorful swirl patterns that can be customized with front/back colors, shape type, and pixel size parameters. The animation is time-driven and creates organic flowing visuals suitable for hero sections, backgrounds, and decorative elements.",
+  "_classifiedAt": "2026-04-23T01:38:04.152Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

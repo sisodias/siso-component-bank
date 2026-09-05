@@ -1,0 +1,54 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ahmedmayara-enable-2fa-card",
+  "type": "registry:ui",
+  "title": "Ahmedmayara Enable 2fa Card",
+  "description": "Installed from https://21st.dev/r/ahmedmayara/enable-2fa-card",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ahmedmayara-enable-2fa-card"
+  ],
+  "files": [
+    {
+      "path": "card.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "enable-2fa-card.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "input-otp.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "separator.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-separator",
+    "input-otp",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ahmedmayara/enable-2fa-card",
+    "fetchedAt": "2026-04-23T02:28:11.405Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

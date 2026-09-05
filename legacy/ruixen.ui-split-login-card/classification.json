@@ -1,0 +1,30 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Form submission triggers for login, signup, and contact forms",
+    "Call-to-action buttons in marketing pages and landing sections",
+    "Navigation actions like cancel, back, and next steps",
+    "Destructive action confirmations with variant styling"
+  ],
+  "ai_summary": "A reusable Button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes using Radix UI's Slot for composition and class-variance-authority for variant management. Features standard hover and focus states with subtle shadow effects. Designed as an atomic component for consistent button styling across applications.",
+  "_classifiedAt": "2026-04-23T01:51:32.541Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

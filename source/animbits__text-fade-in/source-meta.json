@@ -1,0 +1,26 @@
+{
+  "id": "animbits__text-fade-in",
+  "author": "animbits",
+  "slug": "text-fade-in",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@animbits/components/text-fade-in",
+  "fetchedAt": "2026-08-29T03:34:13.762Z",
+  "completedAt": "2026-08-29T03:34:16.095Z",
+  "versionedFilename": "code.1783713716536.tsx",
+  "codeReference": "r2://components-code-private/animbits/text-fade-in/code.1783713716536.tsx",
+  "codeUrl": "https://cdn.21st.dev/animbits/text-fade-in/code.1783713716536.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1108,
+  "sha256": "649f1fd611d71a0192471429b1d0b862eedc7685c9e10fa05537bd0167906b1b",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

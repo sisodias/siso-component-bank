@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "parallax-feature-showcase",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "parallax",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Showcase product features with engaging scroll-triggered parallax animations",
+    "Display service offerings with alternating image-text layouts",
+    "Create interactive landing page sections with depth effects",
+    "Present portfolio or case study content with smooth transitions",
+    "Build feature comparison sections with scroll-driven reveals"
+  ],
+  "ai_summary": "A parallax scroll feature section component that displays multiple feature blocks with alternating layouts and scroll-triggered animations. Uses framer-motion's useScroll and useTransform hooks to create parallax effects as users scroll through content sections. Features clean image display with accompanying titles and descriptions, suitable for showcasing product features or service offerings in a modern, engaging way.",
+  "_classifiedAt": "2026-04-23T17:34:37.561Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

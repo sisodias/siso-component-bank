@@ -1,0 +1,26 @@
+{
+  "id": "chamaac__nebula",
+  "author": "chamaac",
+  "slug": "nebula",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@chamaac/components/nebula",
+  "fetchedAt": "2026-08-29T03:53:24.388Z",
+  "completedAt": "2026-08-29T03:53:26.822Z",
+  "versionedFilename": "code.1783532308946.tsx",
+  "codeReference": "r2://components-code-private/chamaac/nebula/code.1783532308946.tsx",
+  "codeUrl": "https://cdn.21st.dev/chamaac/nebula/code.1783532308946.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4656,
+  "sha256": "41cc2a8fd95e86eea7916cc1d221c93781cff1e3d033cbd7d97ace281f1249a0",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

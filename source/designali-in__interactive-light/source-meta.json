@@ -1,0 +1,26 @@
+{
+  "id": "designali-in__interactive-light",
+  "author": "designali-in",
+  "slug": "interactive-light",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/interactive-light",
+  "fetchedAt": "2026-08-29T04:19:18.379Z",
+  "completedAt": "2026-08-29T04:19:20.563Z",
+  "versionedFilename": "code.1756196912779.tsx",
+  "codeReference": "r2://components-code-private/designali-in/interactive-light/code.1756196912779.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/interactive-light/code.1756196912779.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6608,
+  "sha256": "e728d7d2c356d26c8e9ca4b14da301c6dc24886207f4bfe282385e61dd8aaf61",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

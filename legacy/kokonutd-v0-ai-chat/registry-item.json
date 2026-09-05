@@ -1,0 +1,44 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "kokonutd-v0-ai-chat",
+  "type": "registry:ui",
+  "title": "Kokonutd V0 Ai Chat",
+  "description": "Installed from https://21st.dev/r/kokonutd/v0-ai-chat",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "kokonutd-v0-ai-chat"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "textarea.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "v0-ai-chat.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/kokonutd/v0-ai-chat",
+    "fetchedAt": "2026-04-23T03:05:16.292Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

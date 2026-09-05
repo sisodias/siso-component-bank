@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@zanwei/components/gradient-shimmer",
+  "author": "zanwei",
+  "slug": "gradient-shimmer",
+  "name": "gradient-shimmer",
+  "description": "A zero-dependency text shimmer that sweeps a multi-stop gradient highlight across your text using the Web Animations API, with built-in palettes, easing presets, and off-screen/reduced-motion pausing. Ported to React from the original gradient-shimmer by @mona_biasia.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/zanwei/gradient-shimmer?api_key=$API_KEY_21ST\"",
+  "id": "zanwei__gradient-shimmer",
+  "bundleUrl": "https://cdn.21st.dev/zanwei/gradient-shimmer/default/bundle.1785488479725-7fff7fec-f1d0-4864-a9d0-7aadc9b36b80.html",
+  "previewUrl": "https://cdn.21st.dev/zanwei/gradient-shimmer/default/preview.1785488479725-7fff7fec-f1d0-4864-a9d0-7aadc9b36b80.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

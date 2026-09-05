@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "creator-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action triggers for forms and page navigation",
+    "Destructive action confirmations with the destructive variant",
+    "Secondary action buttons for less prominent user interactions",
+    "Icon-only buttons for compact UI actions",
+    "Link-styled buttons for inline navigation within text content"
+  ],
+  "ai_summary": "A reusable button component with configurable variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Built with Radix UI Slot for composition, class-variance-authority for variant management, and includes proper accessibility support with focus-visible states and disabled handling. Part of the shadcn/ui design system.",
+  "_classifiedAt": "2026-04-23T17:28:32.298Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

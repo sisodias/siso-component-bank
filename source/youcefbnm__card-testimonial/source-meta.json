@@ -1,0 +1,26 @@
+{
+  "id": "youcefbnm__card-testimonial",
+  "author": "youcefbnm",
+  "slug": "card-testimonial",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@youcefbnm/components/card-testimonial",
+  "fetchedAt": "2026-08-29T08:00:56.689Z",
+  "completedAt": "2026-08-29T08:00:58.595Z",
+  "versionedFilename": "code.1784358340807-a93b722c-1e91-4e1b-b7a5-4c65076e1edc.tsx",
+  "codeReference": "r2://components-code-private/youcefbnm/card-testimonial/code.1784358340807-a93b722c-1e91-4e1b-b7a5-4c65076e1edc.tsx",
+  "codeUrl": "https://cdn.21st.dev/youcefbnm/card-testimonial/code.1784358340807-a93b722c-1e91-4e1b-b7a5-4c65076e1edc.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

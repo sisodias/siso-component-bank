@@ -1,0 +1,17 @@
+{
+ "id": "youcefbnm__cards-stack",
+ "outcome": "retrieved",
+ "retrievalMethod": "local-legacy-store-copy",
+ "provenanceNote": "Copied from the pre-existing local legacy 21st store; NOT fetched from 21st.dev by this lane.",
+ "legacySourcePath": "legacy/youcefbnm-cards-stack/cards-stack.tsx",
+ "legacySourceFile": "cards-stack.tsx",
+ "legacyDependencies": [
+  "motion"
+ ],
+ "upstreamUrl": "https://21st.dev/@youcefbnm/components/cards-stack",
+ "httpStatus": null,
+ "sha256": "20f2f0ceba20a7e50ac348c267106fb8e62814c7c1cb6b1dafdb412e0b272794",
+ "bytes": 1336,
+ "completedAt": "2026-08-29T03:43:54.192Z",
+ "seededBy": "CENA-directive-2026-08-29-skip-legacy"
+}

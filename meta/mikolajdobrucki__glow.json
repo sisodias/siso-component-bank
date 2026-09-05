@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@mikolajdobrucki/components/glow",
+  "author": "mikolajdobrucki",
+  "slug": "glow",
+  "name": "glow",
+  "description": "A collection of demos showcasing different use cases for the Glow component:\n\t1.\tGlowBasic\n\t▪\tBasic implementation with top positioning\n\t▪\tDemonstrates default animation\n\t2.\tGlowCentered\n\t▪\tCentered glow effect\n\t▪\tShows pulse animation\n\t3.\tGlowMultiple\n\t▪\tMultiple glow effects combined\n\t▪\tDemonstrates layering capabilities\n\t4.\tGlowInteractive\n\t▪\tInteractive hover effects\n\t▪\tShows transition animations\n",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/mikolajdobrucki/glow?api_key=$API_KEY_21ST\"",
+  "id": "mikolajdobrucki__glow",
+  "bundleUrl": "https://cdn.21st.dev/bundled/812.html",
+  "previewUrl": "https://cdn.21st.dev/user_mikolajdobrucki/glow.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 1178,
+  "demo_id": 812,
+  "video_url": null
+}

@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "animated-button",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in landing pages",
+    "Interactive button with expanding fill animation on hover",
+    "Navigation trigger buttons with directional arrow icon",
+    "Form submission buttons with visual feedback",
+    "Hero section CTA buttons with animated hover states"
+  ],
+  "ai_summary": "An animated button component featuring an expanding circular fill effect triggered on hover. The button displays a directional arrow icon that shifts position and text that changes color during the hover interaction. Built with Tailwind CSS using group-hover states for smooth 500ms transitions, supporting customizable labels and optional styling classes.",
+  "_classifiedAt": "2026-04-22T09:16:29.808Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

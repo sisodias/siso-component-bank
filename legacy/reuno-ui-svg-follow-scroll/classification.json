@@ -1,0 +1,28 @@
+{
+  "category": "media",
+  "subcategory": "scroll-driven-svg-animation",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creating scroll-linked SVG path animations that draw as users scroll through a page",
+    "Building engaging landing page sections with scroll-triggered visual effects",
+    "Adding parallax-like animations to hero sections or storytelling pages",
+    "Designing portfolio or creative agency sites with unique scroll interactions",
+    "Implementing scroll progress indicators with custom SVG artwork"
+  ],
+  "ai_summary": "A scroll-driven SVG animation component that uses Framer Motion's useScroll and useTransform hooks to animate an SVG stroke path following the user's scroll progress. The component features a tall scrollable section with text content and a decorative SVG line that morphs and reveals based on scroll position, creating an engaging visual storytelling effect perfect for landing pages and portfolio sites.",
+  "_classifiedAt": "2026-04-23T01:48:37.501Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

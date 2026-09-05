@@ -1,0 +1,33 @@
+{
+  "id": "sshahaider__testimonials-columns-1",
+  "author": "sshahaider",
+  "slug": "testimonials-columns-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sshahaider/components/testimonials-columns-1",
+  "fetchedAt": "2026-08-29T07:27:55.144Z",
+  "completedAt": "2026-08-29T07:27:56.843Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/sshahaider__testimonials-columns-1/code.tsx",
+    "bytes": 1617,
+    "sha256": "eb3c2d8e2e0542e41edd5df9d01b8ccf3feb10948d80e2a5ae941d5afec81dbb",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

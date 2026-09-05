@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/multi-select-calendar-card",
+  "author": "ruixen.ui",
+  "slug": "multi-select-calendar-card",
+  "name": "multi-select-calendar-card",
+  "description": "The MultiSelectCalendarCard is a modern, interactive date selection component that extends the functionality of a traditional calendar by supporting multiple date selections with an intuitive UI. Built entirely with shadcn/ui, it displays a calendar for picking dates and a dynamic list of selected dates shown as removable chips, giving users clear visibility and control over their choices. Each date can be easily removed from the list with a single click, and the built-in confirmation action ensures selections can be reviewed before submission. This makes the component ideal for use cases like booking systems, availability planners, or event scheduling where users need to select and manage multiple dates efficiently.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/multi-select-calendar-card?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__multi-select-calendar-card",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/multi-select-calendar-card/default/bundle.1758988559179.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/multi-select-calendar-card/default/preview.1758988559179.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 19,
+  "demo_id": 8233,
+  "video_url": null
+}

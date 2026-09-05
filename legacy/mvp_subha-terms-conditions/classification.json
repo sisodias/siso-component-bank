@@ -1,0 +1,26 @@
+{
+  "category": "other",
+  "subcategory": "button-component",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Standard interactive button for form submissions and CTAs",
+    "Reusable button with multiple style variants",
+    "Accessible button with focus states and keyboard support",
+    "Icon buttons for toolbar and navigation actions",
+    "Themeable button component via CVA variants"
+  ],
+  "ai_summary": "A reusable React Button component with Radix UI Slot integration for composition. Supports multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, small, large, icon). Built with class-variance-authority for type-safe variant handling, includes focus-visible states, disabled states, and full accessibility support via Radix primitives.",
+  "_classifiedAt": "2026-04-23T17:03:03.724Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

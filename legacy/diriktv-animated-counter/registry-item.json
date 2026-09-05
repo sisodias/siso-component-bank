@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "diriktv-animated-counter",
+  "type": "registry:ui",
+  "title": "Diriktv Animated Counter",
+  "description": "Installed from https://21st.dev/r/diriktv/animated-counter",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "diriktv-animated-counter"
+  ],
+  "files": [
+    {
+      "path": "animated-counter.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/diriktv/animated-counter",
+    "fetchedAt": "2026-04-23T03:04:33.514Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

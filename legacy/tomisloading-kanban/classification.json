@@ -1,0 +1,31 @@
+{
+  "category": "data-display",
+  "subcategory": "kanban-board",
+  "visual_style": [
+    "dark",
+    "minimalist"
+  ],
+  "interactions": [
+    "drag",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Project managers tracking task progress across workflow stages",
+    "Development teams managing sprints with drag-and-drop task cards",
+    "Product teams organizing backlog items into actionable tasks",
+    "Individual users visualizing personal workflows and to-do lists",
+    "Remote teams collaborating on shared project boards"
+  ],
+  "ai_summary": "A fully interactive Kanban board with drag-and-drop task management across multiple workflow columns. Features a dark theme with color-coded column headers, animated card transitions using Framer Motion, and a burn barrel for card deletion. Built for project management and task visualization in SaaS or dev-tool contexts.",
+  "_classifiedAt": "2026-04-23T17:36:07.718Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,38 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "animated-loader",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display loading states during async operations like data fetching",
+    "Indicate progress during form submissions or API calls",
+    "Show activity during page transitions or navigation",
+    "Provide visual feedback during file uploads or processing",
+    "Indicate background tasks running in applications"
+  ],
+  "ai_summary": "Intentui Loader is a lightweight, animated loading spinner component featuring stacked bars with smooth SMIL animations. It supports multiple color intents (primary, secondary, success, warning, danger) and sizes (sm through xl), making it suitable for any application needing visual feedback during async operations or data loading states.",
+  "_classifiedAt": "2026-04-23T01:40:05.313Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

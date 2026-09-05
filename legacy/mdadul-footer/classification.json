@@ -1,0 +1,26 @@
+{
+  "category": "input",
+  "subcategory": "counter-stepper",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Simple numeric counter for incrementing and decrementing values",
+    "Quantity selector for product pages or shopping carts",
+    "Stepper component for form inputs requiring numeric values",
+    "Like/dislike or rating counter for content interaction",
+    "Basic numeric state demonstration component"
+  ],
+  "ai_summary": "A minimal counter component featuring React useState for managing numeric state with increment and decrement buttons. Displays the current count value centered in a card layout with basic Tailwind styling. Acts as a foundational interactive element for any interface requiring numeric input or stepper functionality.",
+  "_classifiedAt": "2026-04-23T16:55:31.822Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

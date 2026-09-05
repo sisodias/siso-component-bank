@@ -1,0 +1,28 @@
+{
+  "category": "input",
+  "subcategory": "button-with-variants",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action trigger for forms and CTAs in web applications",
+    "Destructive actions requiring confirmation in admin dashboards",
+    "Navigation and pagination controls in content-heavy interfaces",
+    "Secondary actions alongside primary CTAs in multi-step flows",
+    "Accessible button composition using Radix UI Slot pattern"
+  ],
+  "ai_summary": "A versatile React button component from OriginUI featuring multiple visual variants (default, destructive, outline, secondary, ghost, link) and size options (default, sm, lg, icon). Built with Radix UI's Slot for flexible composition, class-variance-authority for variant management, and Tailwind CSS for styling with subtle shadows. Includes proper accessibility features with focus-visible outlines and disabled states. Designed as a foundational atomic component suitable for SaaS dashboards, e-commerce checkouts, and any React application requiring accessible, reusable button elements.",
+  "_classifiedAt": "2026-04-23T17:04:42.127Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@dhileepkumargm/components/field-lines-aurora",
+  "author": "dhileepkumargm",
+  "slug": "field-lines-aurora",
+  "name": "field-lines-aurora",
+  "description": "A full-screen, canvas-driven aurora “field lines” effect built with vanilla JavaScript noise and Bezier tracers. Particles trace graceful arcs from bottom to top, warp around the cursor’s influence, and fade in soft, luminous trails. Ideal for hero backgrounds, ambient UI backdrops, or generative-art overlays.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/dhileepkumargm/field-lines-aurora?api_key=$API_KEY_21ST\"",
+  "id": "dhileepkumargm__field-lines-aurora",
+  "bundleUrl": "https://cdn.21st.dev/dhileepkumargm/field-lines-aurora/default/bundle.1758795101842.html",
+  "previewUrl": "https://cdn.21st.dev/dhileepkumargm/field-lines-aurora/default/preview.1758795101842.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

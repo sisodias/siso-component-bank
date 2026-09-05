@@ -1,0 +1,33 @@
+{
+  "category": "media",
+  "subcategory": "progressive-blur-effect",
+  "visual_style": [
+    "glass-morphism",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Creating frosted glass overlays on hero sections and cards",
+    "Adding depth and dimension to modal backdrops",
+    "Styling navigation bars with transparent blur effects",
+    "Enhancing image galleries with progressive blur transitions",
+    "Building modern landing pages with layered visual depth"
+  ],
+  "ai_summary": "A React component that generates multiple stacked blur layers with varying intensities using CSS backdrop-filter and linear gradient masks. It creates a sophisticated frosted glass effect where blur progressively increases toward a specified direction (top, right, bottom, left), commonly used in modern glassmorphism UI designs for hero sections, cards, and overlays.",
+  "_classifiedAt": "2026-04-23T16:42:53.836Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

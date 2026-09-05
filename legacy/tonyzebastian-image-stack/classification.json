@@ -1,0 +1,28 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "draggable-image-stack",
+  "visual_style": [],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying a stacked collection of images with interactive drag-to-cycle behavior",
+    "Creating an engaging photo gallery with visual depth through rotation offsets",
+    "Building a playful portfolio showcase with swipeable image cards",
+    "Implementing an interactive product image viewer for e-commerce",
+    "Adding visual interest to image presentations with animated card stacking"
+  ],
+  "ai_summary": "An interactive image stack component that displays multiple images in a visually layered card format with rotation offsets and vertical positioning. Supports drag interactions via Framer Motion to cycle through the stack, automatically animating cards back into position. Features a clean, minimalist aesthetic suitable for galleries, portfolios, or product showcases.",
+  "_classifiedAt": "2026-04-23T01:54:04.144Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

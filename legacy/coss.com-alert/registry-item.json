@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "coss.com-alert",
+  "type": "registry:ui",
+  "title": "Coss.Com Alert",
+  "description": "Installed from https://21st.dev/r/coss.com/alert",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "coss.com-alert"
+  ],
+  "files": [
+    {
+      "path": "alert.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "class-variance-authority"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "missing relative sibling import: ./utils"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/coss.com/alert",
+    "fetchedAt": "2026-04-22T06:31:55.803Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

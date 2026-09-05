@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "xubohuah-blur-text-animation",
+  "type": "registry:ui",
+  "title": "Xubohuah Blur Text Animation",
+  "description": "Installed from https://21st.dev/r/xubohuah/blur-text-animation",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "xubohuah-blur-text-animation"
+  ],
+  "files": [
+    {
+      "path": "blur-text-animation.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/xubohuah/blur-text-animation",
+    "fetchedAt": "2026-04-23T02:28:58.452Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

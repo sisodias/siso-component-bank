@@ -1,0 +1,26 @@
+{
+  "id": "sshahaider__bento-pricing",
+  "author": "sshahaider",
+  "slug": "bento-pricing",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sshahaider/components/bento-pricing",
+  "fetchedAt": "2026-08-29T07:24:24.222Z",
+  "completedAt": "2026-08-29T07:24:26.460Z",
+  "versionedFilename": "code.1759400603292.tsx",
+  "codeReference": "r2://components-code-private/sshahaider/bento-pricing/code.1759400603292.tsx",
+  "codeUrl": "https://cdn.21st.dev/sshahaider/bento-pricing/code.1759400603292.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4359,
+  "sha256": "61e02c5794658cdb213ad7315c1e555785bb1e5d2c6f910aba9097fefb145730",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

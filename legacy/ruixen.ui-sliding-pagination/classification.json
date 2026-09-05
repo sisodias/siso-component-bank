@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "action-button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Trigger form submissions with primary button styling",
+    "Navigate between pages in pagination controls",
+    "Open dialogs or modals with variant-specific button styles",
+    "Toggle UI element states with ghost and outline variants",
+    "Execute destructive actions like delete with destructive variant"
+  ],
+  "ai_summary": "A versatile button component built with Radix UI Slot and class-variance-authority (CVA), offering multiple visual variants (default, destructive, outline, secondary, ghost, link) and size options. Uses Tailwind CSS with cn utility for styling, includes focus-visible accessibility rings and disabled state handling. Designed as a reusable atomic component suitable for pagination interfaces and general UI interactions across SaaS, e-commerce, and dev-tool applications.",
+  "_classifiedAt": "2026-04-23T01:51:22.879Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

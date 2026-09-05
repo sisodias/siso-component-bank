@@ -1,0 +1,26 @@
+{
+  "id": "remcostoeten__heartbeat-loader",
+  "author": "remcostoeten",
+  "slug": "heartbeat-loader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@remcostoeten/components/heartbeat-loader",
+  "fetchedAt": "2026-08-29T06:33:27.153Z",
+  "completedAt": "2026-08-29T06:33:29.347Z",
+  "versionedFilename": "code.1760203912706.tsx",
+  "codeReference": "r2://components-code-private/remcostoeten/heartbeat-loader/code.1760203912706.tsx",
+  "codeUrl": "https://cdn.21st.dev/remcostoeten/heartbeat-loader/code.1760203912706.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2783,
+  "sha256": "6133aeb2de986f052377943efa6bc329e8408964d1d7cf46f7aecf4821b185ba",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

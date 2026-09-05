@@ -1,0 +1,26 @@
+{
+  "id": "maxim.bort.devel__metamorphic-loader",
+  "author": "maxim.bort.devel",
+  "slug": "metamorphic-loader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@maxim.bort.devel/components/metamorphic-loader",
+  "fetchedAt": "2026-08-29T05:38:55.741Z",
+  "completedAt": "2026-08-29T05:38:57.964Z",
+  "versionedFilename": "code.1749543831040.tsx",
+  "codeReference": "r2://components-code-private/maxim.bort.devel/metamorphic-loader/code.1749543831040.tsx",
+  "codeUrl": "https://cdn.21st.dev/maxim.bort.devel/metamorphic-loader/code.1749543831040.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2683,
+  "sha256": "a7b53b0bbac35c385f73dd27511b5cfd20b16cbfcf1362cbc10b8b621e117e62",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

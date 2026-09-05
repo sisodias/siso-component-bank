@@ -1,0 +1,31 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Submitting forms with visual feedback through loading and disabled states",
+    "Triggering actions with multiple style variants (primary, secondary, tertiary, error, warning)",
+    "Displaying icon buttons with prefix/suffix support for visual cues",
+    "Responsive button sizing across tiny, small, medium, and large dimensions",
+    "Creating consistent UI patterns with square, circle, and rounded shape variants"
+  ],
+  "ai_summary": "A versatile React button component with multiple size options (tiny, small, medium, large), type variants (primary, secondary, tertiary, error, warning), and shape configurations (square, circle, rounded). Supports loading states with spinner integration, disabled states, shadow effects, and prefix/suffix icon slots. Built with Tailwind CSS classes for consistent dark and minimalist styling across SaaS and fintech applications.",
+  "_classifiedAt": "2026-04-23T17:29:48.503Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

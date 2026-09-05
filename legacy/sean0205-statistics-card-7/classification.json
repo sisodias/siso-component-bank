@@ -1,0 +1,34 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "avatar-profile",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Displaying user profile pictures with fallback initials in chat interfaces",
+    "Showing user avatars with online/offline status indicators in dashboards",
+    "Rendering profile images with lazy-loading fallbacks in social applications",
+    "Creating user identity elements with customizable status badges"
+  ],
+  "ai_summary": "A composite Avatar component system built with Radix UI primitives featuring image display with fallback initials, status indicators (online, offline, busy, away), and customizable styling via CVA variants. Includes Avatar, AvatarImage, AvatarFallback, AvatarIndicator, and AvatarStatus sub-components for flexible user profile representation.",
+  "_classifiedAt": "2026-04-23T17:24:23.903Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

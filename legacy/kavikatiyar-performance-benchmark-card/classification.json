@@ -1,0 +1,25 @@
+{
+  "category": "input",
+  "subcategory": "action-button",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Trigger form submissions with styled button variants",
+    "Provide primary and secondary action buttons in UI",
+    "Create accessible buttons with keyboard navigation support",
+    "Support composition pattern via asChild prop for flexible rendering",
+    "Implement themed button styles with consistent visual language"
+  ],
+  "ai_summary": "A reusable button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes. Built with Radix UI Slot for composition support and class-variance-authority for scalable variant management. Features standard Tailwind styling with shadows and rounded corners for consistent UI patterns.",
+  "_classifiedAt": "2026-04-22T09:02:23.441Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

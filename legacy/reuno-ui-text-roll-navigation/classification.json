@@ -1,0 +1,32 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "text-roll-navigation",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Navigation menus with animated text roll effect on hover",
+    "Header navigation links with character-by-character reveal animation",
+    "Interactive menu items for modern web applications"
+  ],
+  "ai_summary": "A text roll navigation component that creates a smooth character-by-character animation effect on hover using Framer Motion. The text splits into two overlapping layers that animate in opposite directions, creating a roll/reveal effect. Ideal for modern navigation bars in SaaS applications and portfolio sites looking for interactive hover states.",
+  "_classifiedAt": "2026-04-23T01:48:35.031Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

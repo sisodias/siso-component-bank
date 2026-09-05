@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "harshjadhavconnect-cursor-driven-particles-typography",
+  "type": "registry:ui",
+  "title": "Harshjadhavconnect Cursor Driven Particles Typography",
+  "description": "Installed from https://21st.dev/r/harshjadhavconnect/cursor-driven-particles-typography",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "harshjadhavconnect-cursor-driven-particles-typography"
+  ],
+  "files": [
+    {
+      "path": "cursor-driven-particles-typography.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/harshjadhavconnect/cursor-driven-particles-typography",
+    "fetchedAt": "2026-04-22T06:32:18.006Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

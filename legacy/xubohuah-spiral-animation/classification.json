@@ -1,0 +1,32 @@
+{
+  "category": "media",
+  "subcategory": "canvas-3d-spiral-starfield",
+  "visual_style": [],
+  "interactions": [
+    "parallax",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero background with immersive 3D spiral star animation",
+    "Website loading screen with animated visual effect",
+    "Product showcase page with decorative animated backdrop",
+    "Interactive dashboard background with depth-based parallax animation",
+    "Brand website splash animation for visual impact"
+  ],
+  "ai_summary": "A canvas-based 3D spiral star field animation powered by GSAP, featuring 5000 particles with depth-based perspective rendering, smooth camera travel effects, and gradient star trails. The animation creates an immersive spiral effect with continuous morphing motion, suitable for landing pages, splash screens, or decorative backgrounds. Implements custom vector math classes and timeline-based looping for performant, GPU-accelerated rendering.",
+  "_classifiedAt": "2026-04-23T17:44:09.530Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

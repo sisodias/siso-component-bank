@@ -1,0 +1,26 @@
+{
+  "id": "theorcdev__8bit-quest-log",
+  "author": "theorcdev",
+  "slug": "8bit-quest-log",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theorcdev/components/8bit-quest-log",
+  "fetchedAt": "2026-08-29T07:34:29.656Z",
+  "completedAt": "2026-08-29T07:34:31.723Z",
+  "versionedFilename": "code.1780524554160.tsx",
+  "codeReference": "r2://components-code-private/larsen66/8bit-quest-log/code.1780524554160.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/8bit-quest-log/code.1780524554160.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4044,
+  "sha256": "97a4dc442e7e5ffd81ba82aae2a9c4e7ec1bf7d9b284e7bfda46eb1b716a3ce6",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,29 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "separator",
+  "type": "registry:ui",
+  "title": "Separator",
+  "description": "A separator component.",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "separator",
+    "component"
+  ],
+  "files": [
+    {
+      "path": "separator.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-separator"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "renderable": false
+  },
+  "_provenance": {
+    "curationTags": []
+  }
+}

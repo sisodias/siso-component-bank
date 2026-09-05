@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/table-with-dialog",
+  "author": "ruixen.ui",
+  "slug": "table-with-dialog",
+  "name": "table-with-dialog",
+  "description": "This Advanced User Management Table component is a feature-rich and modern UI built entirely with Shadcn UI. It combines a fixed header for clarity, interactive row selection using checkboxes, and a status badge system that visually distinguishes between active, inactive, and suspended users. Each row comes with an actions menu, allowing quick operations like viewing details, editing, or deleting a user, and destructive actions are highlighted with white text on a red background for clear visibility. Additionally, a dialog opens on demand, providing a focused space to display or edit detailed user information without leaving the table. The design is clean, responsive, and highly practical for dashboards, CRMs, and admin panels, making it a versatile component for managing user data efficiently.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/table-with-dialog?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__table-with-dialog",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/table-with-dialog/default/bundle.1757822299309.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/table-with-dialog/default/preview.1757822299308.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 34,
+  "demo_id": 7455,
+  "video_url": null
+}

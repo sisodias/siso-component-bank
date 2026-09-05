@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "designali-in-gradient-mesh",
+  "type": "registry:ui",
+  "title": "Designali In Gradient Mesh",
+  "description": "Installed from https://21st.dev/r/designali-in/gradient-mesh",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "designali-in-gradient-mesh"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "gradient-mesh.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "ogl"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/designali-in/gradient-mesh",
+    "fetchedAt": "2026-04-22T06:44:44.563Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

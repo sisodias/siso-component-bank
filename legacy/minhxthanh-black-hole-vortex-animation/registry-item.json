@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "minhxthanh-black-hole-vortex-animation",
+  "type": "registry:ui",
+  "title": "Minhxthanh Black Hole Vortex Animation",
+  "description": "Installed from https://21st.dev/r/minhxthanh/black-hole-vortex-animation",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "minhxthanh-black-hole-vortex-animation"
+  ],
+  "files": [
+    {
+      "path": "black-hole-vortex-animation.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/minhxthanh/black-hole-vortex-animation",
+    "fetchedAt": "2026-04-23T03:03:01.013Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "moazamtrade__carousel",
+  "author": "moazamtrade",
+  "slug": "carousel",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@moazamtrade/components/carousel",
+  "fetchedAt": "2026-08-29T05:46:52.646Z",
+  "completedAt": "2026-08-29T05:46:54.976Z",
+  "versionedFilename": "code.1765363772811.tsx",
+  "codeReference": "r2://components-code-private/moazamtrade/carousel/code.1765363772811.tsx",
+  "codeUrl": "https://cdn.21st.dev/moazamtrade/carousel/code.1765363772811.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1896,
+  "sha256": "6552fff7247193263827610e2f14bdaf26479e8008faf354b67c1119667d034c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

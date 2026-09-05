@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "action-button",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Submitting forms in SaaS dashboards with primary and secondary button variants",
+    "File upload interfaces requiring destructive actions for error handling",
+    "Navigation actions with ghost and link variants in content-heavy applications",
+    "Mobile-responsive action triggers in e-commerce checkout flows",
+    "Accessible button actions with keyboard navigation support"
+  ],
+  "ai_summary": "A versatile, accessible button component built on Radix UI's Slot primitive with CVA-powered variant and size system. Features six variants (default, destructive, outline, secondary, ghost, link) and four sizes, with smooth transitions and focus-visible keyboard navigation. Includes subtle shadow styling and hover state support. Designed as an atomic building block for file upload interfaces and form systems.",
+  "_classifiedAt": "2026-04-23T16:40:41.655Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

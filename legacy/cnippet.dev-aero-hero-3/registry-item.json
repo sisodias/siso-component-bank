@@ -1,0 +1,45 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "cnippet.dev-aero-hero-3",
+  "type": "registry:ui",
+  "title": "Cnippet.Dev Aero Hero 3",
+  "description": "Installed from https://21st.dev/r/cnippet.dev/aero-hero-3",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "cnippet.dev-aero-hero-3"
+  ],
+  "files": [
+    {
+      "path": "aero-hero-3.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@base-ui/react",
+    "class-variance-authority"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/cnippet.dev/aero-hero-3",
+    "fetchedAt": "2026-04-22T06:31:58.875Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

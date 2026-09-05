@@ -1,0 +1,26 @@
+{
+  "id": "meshavie__bed-laptop-ascii",
+  "author": "meshavie",
+  "slug": "bed-laptop-ascii",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@meshavie/components/bed-laptop-ascii",
+  "fetchedAt": "2026-08-29T05:42:05.188Z",
+  "completedAt": "2026-08-29T05:42:06.982Z",
+  "versionedFilename": "code.1786193412180-d7ac2814-8d5a-4be2-b555-4131228fc417.tsx",
+  "codeReference": "r2://components-code-private/meshavie/bed-laptop-ascii/code.1786193412180-d7ac2814-8d5a-4be2-b555-4131228fc417.tsx",
+  "codeUrl": "https://cdn.21st.dev/meshavie/bed-laptop-ascii/code.1786193412180-d7ac2814-8d5a-4be2-b555-4131228fc417.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

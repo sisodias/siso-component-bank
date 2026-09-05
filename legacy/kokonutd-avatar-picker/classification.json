@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "avatar-selector",
+  "visual_style": [
+    "minimalist",
+    "colorful"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "User profile creation allowing selection from predefined avatar options",
+    "Account setup flow where users pick their profile picture",
+    "Onboarding wizard for user identity customization",
+    "Settings panel for changing user avatar representation",
+    "Team or group member avatar assignment interface"
+  ],
+  "ai_summary": "A prebuilt avatar picker component featuring a grid of colorful SVG avatars with smooth hover and click animations. Built with motion/react for fluid transitions and wrapped in a Card component, it provides an elegant selection interface for profile picture customization in any application requiring user identity representation.",
+  "_classifiedAt": "2026-04-23T16:48:54.548Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

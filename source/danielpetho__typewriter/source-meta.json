@@ -1,0 +1,33 @@
+{
+  "id": "danielpetho__typewriter",
+  "author": "danielpetho",
+  "slug": "typewriter",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@danielpetho/components/typewriter",
+  "fetchedAt": "2026-08-29T04:08:09.006Z",
+  "completedAt": "2026-08-29T04:08:10.318Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/danielpetho__typewriter/code.tsx",
+    "bytes": 3296,
+    "sha256": "50afe433f9f39665e70aa8b917c481a7e9dd6e8afcc646cf803f30c7f14b8ce9",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

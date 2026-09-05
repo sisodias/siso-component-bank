@@ -1,0 +1,26 @@
+{
+  "id": "uilayout.contact__cursor-follower",
+  "author": "uilayout.contact",
+  "slug": "cursor-follower",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uilayout.contact/components/cursor-follower",
+  "fetchedAt": "2026-08-29T07:42:58.150Z",
+  "completedAt": "2026-08-29T07:43:00.831Z",
+  "versionedFilename": "code.1750163551411.tsx",
+  "codeReference": "r2://components-code-private/larsen66/cursor-follower/code.1750163551411.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/cursor-follower/code.1750163551411.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3524,
+  "sha256": "c42053653b1e9a28d7c26176fc7b85c6ff29dfd643e59df15545213e85c9f4bd",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

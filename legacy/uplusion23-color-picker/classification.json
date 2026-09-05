@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "tag-label-indicator",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying categorical tags or labels in product listings",
+    "Showing status indicators like active/inactive or new/sold out",
+    "Marking feature availability or plan tiers in pricing tables",
+    "Indicating notification counts or unread states",
+    "Highlighting metadata like date, location, or author in content cards"
+  ],
+  "ai_summary": "A lightweight badge component with four style variants (default, secondary, destructive, outline) built with class-variance-authority. Features rounded pill styling with configurable hover states, making it suitable for displaying tags, labels, status indicators, and metadata across SaaS, e-commerce, and media applications.",
+  "_classifiedAt": "2026-04-23T17:40:46.707Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "lavikatiyar__status-badge",
+  "author": "lavikatiyar",
+  "slug": "status-badge",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@lavikatiyar/components/status-badge",
+  "fetchedAt": "2026-08-29T05:25:54.081Z",
+  "completedAt": "2026-08-29T05:25:56.175Z",
+  "versionedFilename": "code.1760421709341.tsx",
+  "codeReference": "r2://components-code-private/lavikatiyar/status-badge/code.1760421709341.tsx",
+  "codeUrl": "https://cdn.21st.dev/lavikatiyar/status-badge/code.1760421709341.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3733,
+  "sha256": "79c15a6e6df25a7b2952c2a65dfacaffde15a8363cc8c290bc9075646186b496",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

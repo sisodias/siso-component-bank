@@ -1,0 +1,30 @@
+{
+  "category": "input",
+  "subcategory": "stepper-value-control",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "morph",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Adjusting display brightness settings in system preferences",
+    "Controlling theme brightness levels in app customization panels",
+    "Managing light intensity in smart home device interfaces",
+    "Setting night mode intensity in media playback applications",
+    "Configuring interface luminance in developer tool settings"
+  ],
+  "ai_summary": "A brightness control stepper component featuring increment/decrement buttons to adjust brightness levels (0-6). The component dynamically changes its icon based on brightness state (moon, sun-dim, sun) with smooth morphing transitions. Includes hover and tap animations for tactile feedback, number transitions with AnimatePresence, and proper accessibility support via ARIA attributes. Ideal for settings interfaces, theme customizers, and display control panels in web applications.",
+  "_classifiedAt": "2026-04-23T17:05:33.725Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

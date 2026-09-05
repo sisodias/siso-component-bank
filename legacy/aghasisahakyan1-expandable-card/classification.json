@@ -1,0 +1,37 @@
+{
+  "category": [
+    "card",
+    "overlay"
+  ],
+  "subcategory": "expandable-media-card",
+  "visual_style": [
+    "minimalist",
+    "glass-morphism"
+  ],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying media content that expands to a full-screen modal view with smooth transitions",
+    "Creating interactive product cards in e-commerce that reveal detailed information on click",
+    "Building FAQ or content sections with expandable details and backdrop blur overlay",
+    "Implementing image galleries where thumbnails expand into focused full-screen views",
+    "Adding dismissible detail views with keyboard (Escape) and click-outside close functionality"
+  ],
+  "ai_summary": "An expandable card component that transforms from a compact card view into a full-screen modal with smooth layout animations using Framer Motion. Features glassmorphism-style backdrop blur overlay, keyboard navigation (Escape to close), and click-outside detection for dismissal. Ideal for displaying media, products, or content that requires a detailed view without navigating away from the current page.",
+  "_classifiedAt": "2026-04-23T11:28:56.043Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

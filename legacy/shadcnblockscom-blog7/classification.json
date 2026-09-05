@@ -1,0 +1,36 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "badge, tag, chip, label",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying category tags or labels on blog posts and articles",
+    "Showing status indicators like 'new', 'popular', or 'featured'",
+    "Creating navigation filters with clickable badges",
+    "Adding metadata labels to cards and list items",
+    "Implementing notification counts or badges on UI elements"
+  ],
+  "ai_summary": "A reusable badge component with multiple style variants (default, secondary, destructive, outline) built with Tailwind and class-variance-authority. Designed for displaying short informational labels, tags, or status indicators throughout an application. Clean, minimal styling with hover states makes it suitable for navigation, filtering, and categorization UI patterns.",
+  "_classifiedAt": "2026-04-23T17:27:12.418Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

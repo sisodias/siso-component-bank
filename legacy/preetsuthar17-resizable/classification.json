@@ -1,0 +1,32 @@
+{
+  "category": [
+    "layout"
+  ],
+  "subcategory": "resizable-panel, split-view, panel-group",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creating split-pane layouts for dashboard interfaces",
+    "Building IDE-style or code editor environments with resizable panels",
+    "Implementing collapsible sidebars with adjustable widths",
+    "Designing media editing interfaces with adjustable content areas",
+    "Creating resizable content sections in documentation viewers"
+  ],
+  "ai_summary": "A resizable panel layout component that enables drag-to-resize functionality for creating split-view interfaces. Built on react-resizable-panels with support for horizontal and vertical panel arrangements, border styling variants, and a drag handle with grip icon for intuitive resizing.",
+  "_classifiedAt": "2026-04-23T17:09:08.042Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

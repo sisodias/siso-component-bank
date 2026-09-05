@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@shugar/components/project-banner",
+  "author": "shugar",
+  "slug": "project-banner",
+  "name": "project-banner",
+  "description": "Used for temporary, project-wide notifications that require resolution",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/shugar/project-banner?api_key=$API_KEY_21ST\"",
+  "id": "shugar__project-banner",
+  "bundleUrl": "https://cdn.21st.dev/shugar/project-banner/default/bundle.1752064016688.html",
+  "previewUrl": "https://cdn.21st.dev/shugar/project-banner/default/preview.1752064016688.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "category": "other",
+  "subcategory": "workflow-automation-canvas",
+  "visual_style": [],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Build and visualize automation workflows with interconnected nodes",
+    "Drag workflow nodes to create sequences of triggers, actions, and conditions",
+    "Design n8n-style automation pipelines with visual connections between steps"
+  ],
+  "ai_summary": "A draggable workflow automation canvas component inspired by n8n, featuring interconnected nodes for triggers, actions, and conditions. Users can drag nodes to build automation pipelines with visual connections. Uses Framer Motion for smooth drag interactions and includes customizable node templates with icons and color-coded badges.",
+  "_classifiedAt": "2026-04-22T09:07:08.015Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

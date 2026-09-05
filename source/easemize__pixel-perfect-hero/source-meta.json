@@ -1,0 +1,26 @@
+{
+  "id": "easemize__pixel-perfect-hero",
+  "author": "easemize",
+  "slug": "pixel-perfect-hero",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@easemize/components/pixel-perfect-hero",
+  "fetchedAt": "2026-08-29T04:38:55.694Z",
+  "completedAt": "2026-08-29T04:38:57.975Z",
+  "versionedFilename": "code.1781185547808.tsx",
+  "codeReference": "r2://components-code-private/easemize/pixel-perfect-hero/code.1781185547808.tsx",
+  "codeUrl": "https://cdn.21st.dev/easemize/pixel-perfect-hero/code.1781185547808.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 25289,
+  "sha256": "6dea33f212287998d2cc4f491d1e711f6ffbd1d186669ca1414131c2e30d7acb",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

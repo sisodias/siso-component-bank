@@ -1,0 +1,36 @@
+{
+  "category": [
+    "overlay",
+    "feedback"
+  ],
+  "subcategory": "expandable-notification-pill",
+  "visual_style": [
+    "glass-morphism",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display real-time system notifications that expand on interaction for detailed information",
+    "Show music playback controls with track info in an unobtrusive overlay",
+    "Present countdown timers and alarms with visual progress indicators",
+    "Deliver weather alerts and temperature updates in a compact pill format",
+    "Display incoming call notifications with accept/decline actions"
+  ],
+  "ai_summary": "A dynamic island-inspired notification overlay component that morphs between compact and expanded states. Features animated transitions between idle, timer, and activity states with weather info, music controls, and phone call indicators. Uses Framer Motion for smooth spring-based animations and Lucide icons for a clean, modern aesthetic.",
+  "_classifiedAt": "2026-04-23T01:35:03.563Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

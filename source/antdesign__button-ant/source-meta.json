@@ -1,0 +1,26 @@
+{
+  "id": "antdesign__button-ant",
+  "author": "antdesign",
+  "slug": "button-ant",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@antdesign/components/button-ant",
+  "fetchedAt": "2026-08-29T03:34:41.636Z",
+  "completedAt": "2026-08-29T03:34:43.773Z",
+  "versionedFilename": "code.1758087546780.tsx",
+  "codeReference": "r2://components-code-private/larsen66/button-ant/code.1758087546780.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/button-ant/code.1758087546780.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 380,
+  "sha256": "283d2afaf78b184cf9603e465b6537f6b23b49614278010b3714ff930aedb379",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

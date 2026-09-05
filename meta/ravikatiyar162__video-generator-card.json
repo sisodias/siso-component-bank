@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ravikatiyar162/components/video-generator-card",
+  "author": "ravikatiyar162",
+  "slug": "video-generator-card",
+  "name": "video-generator-card",
+  "description": "This file contains the reusable VideoGeneratorCard component. It's built with shadcn/ui primitives and is fully typed with TypeScript. Props like storyboardImages, initialPrompt, onGenerate, and isLoading make it flexible for various use cases.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ravikatiyar162/video-generator-card?api_key=$API_KEY_21ST\"",
+  "id": "ravikatiyar162__video-generator-card",
+  "bundleUrl": "https://cdn.21st.dev/ravikatiyar162/video-generator-card/default/bundle.1760169524291.html",
+  "previewUrl": "https://cdn.21st.dev/ravikatiyar162/video-generator-card/default/preview.1760169524290.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

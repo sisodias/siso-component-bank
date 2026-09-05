@@ -1,0 +1,26 @@
+{
+  "id": "haydenbleasel__video-player",
+  "author": "haydenbleasel",
+  "slug": "video-player",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@haydenbleasel/components/video-player",
+  "fetchedAt": "2026-08-29T04:55:30.912Z",
+  "completedAt": "2026-08-29T04:55:34.019Z",
+  "versionedFilename": "code.1755198769617.tsx",
+  "codeReference": "r2://components-code-private/larsen66/video-player/code.1755198769617.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/video-player/code.1755198769617.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3383,
+  "sha256": "df6b30cddc3891502661b3579e8a6cddceff60db01e57bd477b9e8cdf313c186",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

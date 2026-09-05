@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "contribution-graph",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display user activity as a GitHub-style contribution grid visualization",
+    "Convert text strings into gamified commit history graphics",
+    "Show contribution metrics on developer profiles and dashboards",
+    "Create interactive text-to-grid visualizations for portfolio sites"
+  ],
+  "ai_summary": "A React component that transforms text input into a GitHub-style contribution graph visualization. It maps characters to grid cell patterns using a letter-to-position encoding system, rendering them as green cells across a bordered grid. The component includes randomized color variations and animation delays for visual interest, making it ideal for displaying activity metrics, user contributions, or gamified text displays in developer-focused applications.",
+  "_classifiedAt": "2026-04-23T16:41:08.066Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

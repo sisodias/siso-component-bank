@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "numeric-stepper",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "E-commerce product quantity selector with increment/decrement controls",
+    "Form input for capturing numeric values with stepper buttons",
+    "Inventory or order management systems requiring number input",
+    "Settings panels needing precise numeric value adjustment",
+    "Any interface requiring controlled numeric input with built-in stepper controls"
+  ],
+  "ai_summary": "A minimalist numeric input component with integrated up/down chevron buttons for incrementing and decrementing values. Features a floating label, dark mode support, and custom styled stepper controls that replace default browser number inputs. The component prevents negative values and handles empty state gracefully with a clean, accessible design suitable for e-commerce, SaaS, and fintech applications.",
+  "_classifiedAt": "2026-04-23T17:17:33.972Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

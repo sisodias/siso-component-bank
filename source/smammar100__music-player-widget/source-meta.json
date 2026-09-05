@@ -1,0 +1,26 @@
+{
+  "id": "smammar100__music-player-widget",
+  "author": "smammar100",
+  "slug": "music-player-widget",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@smammar100/components/music-player-widget",
+  "fetchedAt": "2026-08-29T07:22:23.206Z",
+  "completedAt": "2026-08-29T07:22:25.554Z",
+  "versionedFilename": "code.1779025296336.tsx",
+  "codeReference": "r2://components-code-private/smammar100/music-player-widget/code.1779025296336.tsx",
+  "codeUrl": "https://cdn.21st.dev/smammar100/music-player-widget/code.1779025296336.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 26376,
+  "sha256": "1a562e7a4dcf045329714b4503588c37bbfd9c05bb14f77dc19bf3e9e11e7519",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

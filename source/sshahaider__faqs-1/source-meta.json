@@ -1,0 +1,26 @@
+{
+  "id": "sshahaider__faqs-1",
+  "author": "sshahaider",
+  "slug": "faqs-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sshahaider/components/faqs-1",
+  "fetchedAt": "2026-08-29T07:25:15.766Z",
+  "completedAt": "2026-08-29T07:25:18.187Z",
+  "versionedFilename": "code.1760596765799.tsx",
+  "codeReference": "r2://components-code-private/sshahaider/faqs-1/code.1760596765799.tsx",
+  "codeUrl": "https://cdn.21st.dev/sshahaider/faqs-1/code.1760596765799.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3100,
+  "sha256": "c87e2c1dc1b9158ff4c517d616ac03906986806bebf7fc5e42aad58855992d22",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "olivier_1b6cd5bc__navigation-menu-4",
+  "author": "olivier_1b6cd5bc",
+  "slug": "navigation-menu-4",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@olivier_1b6cd5bc/components/navigation-menu-4",
+  "fetchedAt": "2026-08-29T06:00:06.220Z",
+  "completedAt": "2026-08-29T06:00:07.512Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null
+}

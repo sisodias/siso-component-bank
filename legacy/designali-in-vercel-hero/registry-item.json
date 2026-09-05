@@ -1,0 +1,48 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "designali-in-vercel-hero",
+  "type": "registry:ui",
+  "title": "Designali In Vercel Hero",
+  "description": "Installed from https://21st.dev/r/designali-in/vercel-hero",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "designali-in-vercel-hero"
+  ],
+  "files": [
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "vercel-hero.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@aliimam/icons",
+    "@aliimam/logos",
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "next"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/designali-in/vercel-hero",
+    "fetchedAt": "2026-04-22T06:43:55.926Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

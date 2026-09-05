@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@theorcdev/components/8bit-button",
+  "author": "theorcdev",
+  "slug": "8bit-button",
+  "name": "8bit-button",
+  "description": "Pixel-art button from 8bitcn.com — wraps shadcn/ui Button with a retro variant (Press Start 2P font, hard-edge pixel borders). Drop-in API-compatible replacement.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/theorcdev/8bit-button?api_key=$API_KEY_21ST\"",
+  "id": "theorcdev__8bit-button",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/8bit-button/default/bundle.1779965979739.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/8bit-button/default/preview.1779965979739.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

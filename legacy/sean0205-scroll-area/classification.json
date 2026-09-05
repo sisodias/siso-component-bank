@@ -1,0 +1,29 @@
+{
+  "category": "card",
+  "subcategory": "user-avatar",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display user profile pictures in navigation headers or account menus",
+    "Show user avatars in comment sections or discussion threads",
+    "Present user images in friend lists or contact directories",
+    "Display user avatars in social media feeds and activity streams",
+    "Show status indicators alongside user avatars in real-time chat applications"
+  ],
+  "ai_summary": "A lightweight user avatar component built on Radix UI primitives with customizable status indicators. Features composable sub-components for image, fallback, and status display. Supports online/offline/busy/away states with variant-driven styling. Designed for universal use across web applications requiring user representation.",
+  "_classifiedAt": "2026-04-23T17:23:39.273Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

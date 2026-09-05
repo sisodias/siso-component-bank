@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "lovesickfromthe6ix-smart-combo-box",
+  "type": "registry:ui",
+  "title": "Lovesickfromthe6ix Smart Combo Box",
+  "description": "Installed from https://21st.dev/r/lovesickfromthe6ix/smart-combo-box",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "lovesickfromthe6ix-smart-combo-box"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "smart-combo-box.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/lovesickfromthe6ix/smart-combo-box",
+    "fetchedAt": "2026-04-23T02:28:15.758Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

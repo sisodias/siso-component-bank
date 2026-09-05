@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "slider-range",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Audio volume control in media players and streaming applications",
+    "Settings panels for adjusting playback preferences in SaaS platforms",
+    "Video player controls for content streaming services",
+    "Game audio settings in gaming applications",
+    "Smart device volume controls for IoT dashboards"
+  ],
+  "ai_summary": "A volume slider component built with framer-motion that enables users to adjust volume levels through drag interactions or direct track clicks. Features smooth motion animations, real-time position-to-value conversion, and responsive design suitable for media players, settings panels, and audio controls across web and mobile applications.",
+  "_classifiedAt": "2026-04-22T09:07:11.497Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

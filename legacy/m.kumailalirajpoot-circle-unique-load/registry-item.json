@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "m.kumailalirajpoot-circle-unique-load",
+  "type": "registry:ui",
+  "title": "M.Kumailalirajpoot Circle Unique Load",
+  "description": "Installed from https://21st.dev/r/m.kumailalirajpoot/circle-unique-load",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "m.kumailalirajpoot-circle-unique-load"
+  ],
+  "files": [
+    {
+      "path": "circle-unique-load.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/m.kumailalirajpoot/circle-unique-load",
+    "fetchedAt": "2026-04-22T06:42:06.415Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

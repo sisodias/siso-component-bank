@@ -1,0 +1,35 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "particle-animation-canvas",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "parallax",
+    "mouse-tracking"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero section background with interactive floating particles that respond to mouse movement",
+    "Landing page visual enhancement with customizable particle density and animation speed",
+    "Page section dividers or decorative overlays with smooth particle effects",
+    "Portfolio or showcase pages with subtle animated backgrounds",
+    "Loading states or transition effects using particle animations"
+  ],
+  "ai_summary": "A customizable HTML5 Canvas particle animation system with mouse interaction, supporting configurable quantity, size, color, and staticity parameters. The particles create an interactive floating effect that responds to cursor proximity, making it ideal for hero sections, landing pages, or decorative backgrounds. Uses requestAnimationFrame for smooth 60fps animations and supports refresh capability for dynamic content updates.",
+  "_classifiedAt": "2026-04-23T17:08:50.459Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

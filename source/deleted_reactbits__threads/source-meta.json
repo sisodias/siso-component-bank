@@ -1,0 +1,26 @@
+{
+  "id": "deleted_reactbits__threads",
+  "author": "deleted_reactbits",
+  "slug": "threads",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@deleted_reactbits/components/threads",
+  "fetchedAt": "2026-08-29T04:15:32.855Z",
+  "completedAt": "2026-08-29T04:15:35.222Z",
+  "versionedFilename": "code.1747801867345.tsx",
+  "codeReference": "r2://components-code-private/larsen66/threads/code.1747801867345.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/threads/code.1747801867345.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 8273,
+  "sha256": "d4d5af232e35f97537cde24330301473c5462b7c189d8e4ff1d43f1484be7c66",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

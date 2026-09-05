@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "designali-in-glsl-hills",
+  "type": "registry:ui",
+  "title": "Designali In Glsl Hills",
+  "description": "Installed from https://21st.dev/r/designali-in/glsl-hills",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "designali-in-glsl-hills"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "glsl-hills.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "three"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/designali-in/glsl-hills",
+    "fetchedAt": "2026-04-23T01:17:13.972Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

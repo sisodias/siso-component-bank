@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "fitness-workout",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Displaying workout sessions with exercises in fitness tracking applications",
+    "Presenting Workout of the Day (WOD) information in CrossFit or gym apps",
+    "Listing scheduled exercises with icons, names, and details for training programs",
+    "Showing workout history with duration and exercise breakdowns",
+    "Providing a scroll-animated exercise list interface for mobile fitness apps"
+  ],
+  "ai_summary": "A fitness-focused card component that displays workout sessions with date, title, duration, and animated exercise lists. Built with Framer Motion for staggered list animations, it uses a clean minimalist design with rounded corners and shadow styling. Ideal for fitness apps, gym platforms, or health tracking applications needing to present structured workout data with smooth scroll-triggered animations.",
+  "_classifiedAt": "2026-04-22T09:11:12.448Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

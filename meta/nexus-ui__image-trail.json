@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@nexus-ui/components/image-trail",
+  "author": "nexus-ui",
+  "slug": "image-trail",
+  "name": "image-trail",
+  "description": "A cursor trail that spawns and cycles through a configurable image array as you move the pointer, with fade-blur transitions and an optional magnetic repulsion effect.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/nexus-ui/image-trail?api_key=$API_KEY_21ST\"",
+  "id": "nexus-ui__image-trail",
+  "bundleUrl": "https://cdn.21st.dev/nexus-ui/image-trail/default/bundle.1783519864765.html",
+  "previewUrl": "https://cdn.21st.dev/nexus-ui/image-trail/default/preview.1783581735514.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

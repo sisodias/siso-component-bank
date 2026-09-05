@@ -1,0 +1,34 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "syntax-highlighting",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Displaying syntax-highlighted code snippets in developer documentation",
+    "Showing code examples in technical tutorials and blog posts",
+    "Rendering code samples in SaaS product interfaces and dashboards",
+    "Presenting code demonstrations in educational and learning platforms",
+    "Building code reference panels in IDE-like web applications"
+  ],
+  "ai_summary": "A syntax-highlighted code block component that uses Shiki for language-aware code rendering with support for multiple programming languages and themes. Features a clean, card-based layout with rounded borders and overflow handling for long code snippets. The composite component structure allows flexible grouping of code blocks with optional headers and metadata.",
+  "_classifiedAt": "2026-04-23T16:42:41.677Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

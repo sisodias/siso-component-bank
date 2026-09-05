@@ -1,0 +1,26 @@
+{
+  "id": "ephraimduncan__dialog-1",
+  "author": "ephraimduncan",
+  "slug": "dialog-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ephraimduncan/components/dialog-1",
+  "fetchedAt": "2026-08-29T04:44:11.904Z",
+  "completedAt": "2026-08-29T04:44:14.419Z",
+  "versionedFilename": "code.1748125065573.tsx",
+  "codeReference": "r2://components-code-private/larsen66/dialog-1/code.1748125065573.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/dialog-1/code.1748125065573.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 8759,
+  "sha256": "6edc2f7e8af1dbb58c571a9cf28ccdcd30b0df9afd80bf79adcdbeef0bb4d668",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "animated-menu-item-revealer",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "morph",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "media",
+    "restaurant"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying restaurant menu items with animated clip-path reveals",
+    "Showcasing products in a visually engaging rotating carousel",
+    "Creating interactive food/beverage galleries with pattern-based animations",
+    "Building animated portfolio sections with geometric reveal effects",
+    "Developing creative menu selectors with GSAP-powered transitions"
+  ],
+  "ai_summary": "An animated menu item display component using GSAP and SVG clip-paths to reveal food images through geometric patterns (hexagons, pixels). Features scale and stagger animations with idle breathing effects. Designed as an interactive food showcase with auto-cycling between menu categories like burgers, desserts, and waffles. Uses React hooks for state management and GSAP timelines for complex sequential animations.",
+  "_classifiedAt": "2026-04-22T08:59:25.368Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

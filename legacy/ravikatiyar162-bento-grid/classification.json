@@ -1,0 +1,30 @@
+{
+  "category": "layout",
+  "subcategory": "responsive-bento-grid",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Organizing feature showcases or product highlights in a dashboard-style layout",
+    "Creating portfolio or gallery grids with interactive card hover effects",
+    "Building SaaS product pages with organized information blocks",
+    "Displaying analytics widgets in a structured, scannable format",
+    "Arranging content cards with headers, titles, and descriptions in a responsive grid"
+  ],
+  "ai_summary": "A responsive bento-style grid component that arranges content cards in a flexible CSS Grid layout adapting from single column on mobile to three columns on desktop. Features interactive hover states with subtle scale transforms and shadow elevation, ideal for organizing feature showcases, dashboards, or content galleries with consistent card-based presentation.",
+  "_classifiedAt": "2026-04-23T17:10:59.038Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,36 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "badge",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying status labels or tags on content items",
+    "Showing notification counts or indicators",
+    "Labeling categories or metadata in lists and cards",
+    "Highlighting featured or new items with visual emphasis",
+    "Providing context through color-coded informational badges"
+  ],
+  "ai_summary": "A versatile badge component from Coss featuring multiple size variants (default, lg, sm) and semantic variants (default, destructive, error, info, outline, secondary). Built with Tailwind CSS and class-variance-authority for consistent styling, it includes hover states for interactive use in buttons and links, with responsive sizing and accessible focus states. Clean, flat design suitable for any SaaS or content-heavy application.",
+  "_classifiedAt": "2026-04-22T08:54:25.920Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

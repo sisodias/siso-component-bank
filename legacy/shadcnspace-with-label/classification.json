@@ -1,0 +1,37 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "checkbox",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Binary yes/no selection in forms and settings",
+    "Agreement and consent checkboxes for terms of service or newsletter subscriptions",
+    "Multi-select option lists where users choose multiple items from a group"
+  ],
+  "ai_summary": "A shadcn/ui checkbox component built on Radix UI primitives featuring accessible focus-visible ring states, disabled opacity handling, and a checkmark indicator. Uses Tailwind CSS variables for theming and follows shadcn design system patterns for consistent styling across applications.",
+  "_classifiedAt": "2026-04-22T09:15:53.440Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

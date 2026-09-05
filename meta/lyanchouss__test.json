@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@lyanchouss/components/test",
+  "author": "lyanchouss",
+  "slug": "test",
+  "name": "test",
+  "description": "A minimal counter card from the Dali Agents UI at daliagents.com - count up from zero to your first working agent.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/lyanchouss/test?api_key=$API_KEY_21ST\"",
+  "id": "lyanchouss__test",
+  "bundleUrl": "https://cdn.21st.dev/lyanchouss/test/default/bundle.1772115880658.html",
+  "previewUrl": "https://cdn.21st.dev/lyanchouss/test/default/preview.1772115880658.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

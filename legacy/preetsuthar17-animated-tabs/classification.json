@@ -1,0 +1,32 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "animated tab switcher",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Content section switching within a single page interface",
+    "Filtering or categorizing content without page navigation",
+    "Settings and preferences panel toggling",
+    "Multi-step form progress indication",
+    "Feature comparison or toggle between views"
+  ],
+  "ai_summary": "An animated tab switcher component that uses CSS clip-path transitions to create a smooth sliding highlight effect between tab options. The component accepts an array of tab objects with labels and manages active state internally. Features a pill-shaped container with a rounded clip-path animation that follows the selected tab, creating a polished, modern navigation experience for settings panels, filters, or content categorization.",
+  "_classifiedAt": "2026-04-23T17:06:44.536Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in forms and dashboards",
+    "Secondary actions alongside primary buttons with outline or ghost variants",
+    "Destructive actions like delete or cancel with destructive variant",
+    "Icon-only buttons for compact toolbars and navigation bars",
+    "AsChild composition for integrating Radix UI slots with custom components"
+  ],
+  "ai_summary": "A reusable Button component built with Radix UI Slot and class-variance-authority for flexible styling. Supports multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Designed as a foundational atomic component for any React UI system, providing accessible button interactions with focus-visible states, hover effects, and disabled handling. Can be composed via asChild prop for advanced component integration.",
+  "_classifiedAt": "2026-04-23T17:05:06.863Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ruixen.ui-smart-breadcrumb",
+  "type": "registry:ui",
+  "title": "Ruixen.Ui Smart Breadcrumb",
+  "description": "Installed from https://21st.dev/r/ruixen.ui/smart-breadcrumb",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ruixen.ui-smart-breadcrumb"
+  ],
+  "files": [
+    {
+      "path": "breadcrumb.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "smart-breadcrumb.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-icons",
+    "@radix-ui/react-slot",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ruixen.ui/smart-breadcrumb",
+    "fetchedAt": "2026-04-22T06:43:51.948Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

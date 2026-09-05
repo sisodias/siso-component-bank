@@ -1,0 +1,38 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display user profile pictures with fallback to initials when images fail to load",
+    "Show real-time user presence status (online, offline, busy, away) in team dashboards or chat interfaces",
+    "Render user avatars in comment sections, review systems, or social feeds",
+    "Display user thumbnails in data tables or user management lists",
+    "Create user profile cards with status indicators for collaborative platforms"
+  ],
+  "ai_summary": "A lightweight avatar component system built on Radix UI primitives featuring profile image display with graceful fallbacks, status indicators with multiple variants (online/offline/busy/away), and flexible composition through sub-components. Uses Tailwind CSS for styling and includes accessibility features through Radix UI. Ideal for user identification in dashboards, user lists, and collaborative interfaces where presence indicators are needed.",
+  "_classifiedAt": "2026-04-23T17:22:32.766Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "arunachalam__outline-text",
+  "author": "arunachalam",
+  "slug": "outline-text",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@arunachalam/components/outline-text",
+  "fetchedAt": "2026-08-29T03:39:40.295Z",
+  "completedAt": "2026-08-29T03:39:42.773Z",
+  "versionedFilename": "code.1750675080702.tsx",
+  "codeReference": "r2://components-code-private/arunachalam0606/outline-text/code.1750675080702.tsx",
+  "codeUrl": "https://cdn.21st.dev/arunachalam0606/outline-text/code.1750675080702.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 820,
+  "sha256": "5f128e0799ed0bc4e49e11af575bf87209ba5eb65472e22fdcd1ecc137ce4b50",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

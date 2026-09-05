@@ -1,0 +1,26 @@
+{
+  "id": "dqnamo__game-of-life-loader",
+  "author": "dqnamo",
+  "slug": "game-of-life-loader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dqnamo/components/game-of-life-loader",
+  "fetchedAt": "2026-08-29T04:36:45.589Z",
+  "completedAt": "2026-08-29T04:36:48.111Z",
+  "versionedFilename": "code.1783003848661.tsx",
+  "codeReference": "r2://components-code-private/larsen66/game-of-life-loader/code.1783003848661.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/game-of-life-loader/code.1783003848661.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 12500,
+  "sha256": "6dc2057ef39b21cfa5e84f82f3caceef6fd996e4775e3dea0b6ad9673478d608",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

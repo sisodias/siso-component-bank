@@ -1,0 +1,26 @@
+{
+  "id": "reaviz__incident-bar-chart",
+  "author": "reaviz",
+  "slug": "incident-bar-chart",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@reaviz/components/incident-bar-chart",
+  "fetchedAt": "2026-08-29T06:32:44.222Z",
+  "completedAt": "2026-08-29T06:32:46.673Z",
+  "versionedFilename": "code.1748015223900.tsx",
+  "codeReference": "r2://components-code-private/larsen66/incident-bar-chart/code.1748015223900.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/incident-bar-chart/code.1748015223900.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10341,
+  "sha256": "3b063c4cd80657c3e3f165b06ad6e1dbb989fda4563aab5fd3cb645e3370fe0f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

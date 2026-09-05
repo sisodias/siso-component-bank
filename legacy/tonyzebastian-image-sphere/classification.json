@@ -1,0 +1,31 @@
+{
+  "category": "media",
+  "subcategory": "3d-image-sphere-gallery",
+  "visual_style": [],
+  "interactions": [
+    "drag",
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "media",
+    "e-commerce",
+    "creator-tools",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive portfolio showcasing with 3D rotating image spheres",
+    "Product galleries with smooth drag-to-rotate navigation",
+    "Team member displays in immersive 3D layouts",
+    "Brand showcase presentations with auto-rotation",
+    "Visual storytelling with modal image detail views"
+  ],
+  "ai_summary": "An interactive 3D image sphere component that arranges images using Fibonacci distribution for even coverage. Features drag-to-rotate with momentum physics, auto-rotation, dynamic scaling based on depth position, and modal image viewing. Optimized with z-indexing and visibility culling for smooth performance on both desktop and mobile devices.",
+  "_classifiedAt": "2026-04-23T01:53:59.591Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

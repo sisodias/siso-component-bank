@@ -1,0 +1,33 @@
+{
+  "id": "ozantekin__brightness-control",
+  "author": "ozantekin",
+  "slug": "brightness-control",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ozantekin/components/brightness-control",
+  "fetchedAt": "2026-08-29T06:02:00.749Z",
+  "completedAt": "2026-08-29T06:02:01.617Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/ozantekin__brightness-control/code.tsx",
+    "bytes": 3241,
+    "sha256": "b63c947de00afb84100627eb78ccf0ae7fcd1101bd9429e189f3990441418f05",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

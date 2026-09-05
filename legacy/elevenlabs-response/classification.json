@@ -1,0 +1,28 @@
+{
+  "category": "data-display",
+  "subcategory": "streaming-text",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying streaming AI-generated text responses in real-time",
+    "Rendering live chat or message content with automatic updates",
+    "Showing typewriter-style text output from language models",
+    "Presenting dynamic content that updates as it's generated",
+    "Acting as a base wrapper for AI response rendering"
+  ],
+  "ai_summary": "A minimal streaming text response wrapper component that wraps the Streamdown library to render AI-generated content. Designed for SaaS and dev-tools platforms, it provides real-time display of streaming text responses with full-width styling and proper margin handling for first and last child elements.",
+  "_classifiedAt": "2026-04-22T08:58:42.049Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "uniquesonu__about-us-section",
+  "author": "uniquesonu",
+  "slug": "about-us-section",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uniquesonu/components/about-us-section",
+  "fetchedAt": "2026-08-29T07:46:23.850Z",
+  "completedAt": "2026-08-29T07:46:26.000Z",
+  "versionedFilename": "code.1749719069053.tsx",
+  "codeReference": "r2://components-code-private/uniquesonu/about-us-section/code.1749719069053.tsx",
+  "codeUrl": "https://cdn.21st.dev/uniquesonu/about-us-section/code.1749719069053.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 17421,
+  "sha256": "ede0dade9b66112bdd9e08995bb2ec4e4b27dab3a8325a7b56c37d30e63108f0",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

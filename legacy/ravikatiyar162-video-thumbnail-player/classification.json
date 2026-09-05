@@ -1,0 +1,36 @@
+{
+  "category": [
+    "overlay",
+    "media"
+  ],
+  "subcategory": "video-player-modal",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "media",
+    "education",
+    "e-commerce",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying interactive video content on landing pages with thumbnail preview and full playback",
+    "Creating video galleries in media and content platforms",
+    "Showcasing product demos or feature walkthroughs on SaaS landing pages",
+    "Building course libraries with video preview functionality in education platforms",
+    "Featuring product demonstration videos in e-commerce product listings"
+  ],
+  "ai_summary": "An interactive video thumbnail player component that displays a clickable thumbnail with play overlay and opens a modal for full video playback. Implements keyboard navigation (Escape to close, Enter to open), accessibility features with aria-labels, and body scroll prevention when the modal is active. The component supports configurable aspect ratios and uses clean, minimal styling suitable for professional video content presentation across various industries.",
+  "_classifiedAt": "2026-04-23T17:13:46.400Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

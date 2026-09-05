@@ -1,0 +1,29 @@
+{
+  "category": "feedback",
+  "subcategory": "loading-spinner",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display loading state while fetching data from APIs",
+    "Show processing feedback during async operations",
+    "Indicate initial page load progress",
+    "Visual feedback during form submissions",
+    "Status indicator during background tasks"
+  ],
+  "ai_summary": "A dual-ring animated loading spinner with dashed borders that cycles through status text states (Fetching, Loading, Updating, Fixing) with corresponding color-coded indicators. Features an inner plus icon and animated dot sequences for an engaging, informative loading experience suitable for any application state management.",
+  "_classifiedAt": "2026-04-22T09:04:45.882Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

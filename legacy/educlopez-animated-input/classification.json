@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "floating-label-text-input",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "User registration and login forms with animated label transitions",
+    "Search inputs with floating label hints",
+    "Contact forms requiring accessible label animations",
+    "Any text input field needing visual focus feedback",
+    "Dashboard or settings forms with minimalist design"
+  ],
+  "ai_summary": "A floating label text input component featuring smooth spring-based animations for the label transition. The label floats above the input when focused or filled, providing clear visual feedback. Built with motion/react for fluid animations and supports both controlled and uncontrolled modes with optional leading icons.",
+  "_classifiedAt": "2026-04-23T01:39:52.440Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

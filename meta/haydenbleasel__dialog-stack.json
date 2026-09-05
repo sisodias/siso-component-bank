@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@haydenbleasel/components/dialog-stack",
+  "author": "haydenbleasel",
+  "slug": "dialog-stack",
+  "name": "dialog-stack",
+  "description": "Stacked dialog component inspired by Radix UI Dialog. Accessible. Customizable. Open Source. Pre-styled for shadcn/ui.\n\nFeatures\n\t•\tStacked dialog interface with smooth transitions\n\t•\tKeyboard navigation support\n\t•\tAccessible by default\n\t•\tCustomizable styling\n\t•\tPrevious/Next navigation controls\n\t•\tResponsive design\n\t•\tFully typed with TypeScript\n\nProps\n\nDialogStack\n\t•\topen?: boolean - Controls the open state\n\t•\tonOpenChange?: (open: boolean) => void - Callback when open state changes\n\t•\tclickable?: boolean - Enables clicking on previous dialogs to navigate back\n\nDialogStackTrigger\n\t•\tasChild?: boolean - Merges props onto child element instead of rendering button\n\nDialogStackContent\n\t•\tclassName?: string - Additional CSS classes\n\t•\tchildren: ReactNode - Dialog content\n\t•\tindex?: number - Dialog position in stack (auto-populated)\n\t•\toffset?: number - Visual offset between stacked dialogs\n\nDialogStackNext/Previous\n\t•\tasChild?: boolean - Merges props onto child element\n\t•\tchildren?: ReactNode - Button content\n\t•\tclassName?: string - Additional CSS classes\n\nExample Use Cases\n\t•\tMulti-step forms\n\t•\tOnboarding flows\n\t•\tWizards\n\t•\tSequential content presentation\n\t•\tGuided tutorials",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/haydenbleasel/dialog-stack?api_key=$API_KEY_21ST\"",
+  "id": "haydenbleasel__dialog-stack",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1424.html",
+  "previewUrl": "https://cdn.21st.dev/user_haydenbleasel/dialog-stack.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 64,
+  "demo_id": 1424,
+  "video_url": "https://cdn.21st.dev/user_haydenbleasel/dialog-stack/default/video.mp4"
+}

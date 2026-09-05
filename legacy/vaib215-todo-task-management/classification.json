@@ -1,0 +1,34 @@
+{
+  "category": [
+    "form",
+    "data-display"
+  ],
+  "subcategory": "task-management, todo-list",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Managing personal tasks and to-do items in productivity applications",
+    "Adding task tracking functionality to project management dashboards",
+    "Enabling quick task entry with animated transitions in note-taking apps",
+    "Providing inline editing capabilities for task lists in workflow tools",
+    "Creating interactive checklists for collaborative workspaces"
+  ],
+  "ai_summary": "A feature-rich Todo Task Management component with full CRUD operations including add, edit, delete, and toggle completion states. Includes smooth fly-in animations when adding tasks using Framer Motion, inline editing on double-click, and a clean minimalist interface suitable for productivity and project management applications.",
+  "_classifiedAt": "2026-04-22T09:19:01.040Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

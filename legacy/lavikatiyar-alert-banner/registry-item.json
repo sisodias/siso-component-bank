@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "lavikatiyar-alert-banner",
+  "type": "registry:ui",
+  "title": "Lavikatiyar Alert Banner",
+  "description": "Installed from https://21st.dev/r/lavikatiyar/alert-banner",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "lavikatiyar-alert-banner"
+  ],
+  "files": [
+    {
+      "path": "alert-banner.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "class-variance-authority",
+    "framer-motion",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/lavikatiyar/alert-banner",
+    "fetchedAt": "2026-04-23T01:17:24.207Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

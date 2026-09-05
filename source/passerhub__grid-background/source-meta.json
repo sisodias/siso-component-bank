@@ -1,0 +1,26 @@
+{
+  "id": "passerhub__grid-background",
+  "author": "passerhub",
+  "slug": "grid-background",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@passerhub/components/grid-background",
+  "fetchedAt": "2026-08-29T06:07:17.280Z",
+  "completedAt": "2026-08-29T06:07:19.894Z",
+  "versionedFilename": "code.1774885932813.tsx",
+  "codeReference": "r2://components-code-private/passerhub/grid-background/code.1774885932813.tsx",
+  "codeUrl": "https://cdn.21st.dev/passerhub/grid-background/code.1774885932813.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 11404,
+  "sha256": "9c89db04b248442ba6bb70ed0c901f4ba6cd0e2ad38804201b511ac25d1cea1c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

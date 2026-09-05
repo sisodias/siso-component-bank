@@ -1,0 +1,31 @@
+{
+  "category": "hero",
+  "subcategory": "3d-tilt-feature-spotlight",
+  "visual_style": [],
+  "interactions": [
+    "parallax",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Showcasing a product feature with interactive 3D visual effects to increase engagement and conversion",
+    "Creating compelling hero sections that respond to user mouse movement with depth effects",
+    "Highlighting key value propositions with animated text reveals and call-to-action buttons",
+    "Displaying feature images with perspective transforms that create an immersive showcase experience",
+    "Building responsive feature pages that work across desktop and mobile viewports"
+  ],
+  "ai_summary": "An interactive hero component featuring 3D tilt effects controlled by mouse movement using Framer Motion. The component displays a feature spotlight with preheader, heading, description, CTA button, and an animated image that rotates based on cursor position, creating an immersive product showcase experience with smooth entrance animations and parallax-like interactions.",
+  "_classifiedAt": "2026-04-22T09:11:35.441Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

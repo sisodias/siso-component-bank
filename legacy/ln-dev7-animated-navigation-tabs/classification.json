@@ -1,0 +1,34 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "animated-tabs",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Tab-based navigation in SaaS dashboards with smooth animated transitions",
+    "Category filtering with hover previews in e-commerce product pages",
+    "Navigation menus with visual feedback for active and hover states",
+    "Section navigation in documentation or landing pages",
+    "Filter navigation in data-heavy applications"
+  ],
+  "ai_summary": "A navigation tabs component featuring animated transitions using Framer Motion's layoutId system for smooth hover and active state indicators. The component displays an underline that animates between tabs on click and shows a subtle background glow on hover, creating a polished, interactive navigation experience.",
+  "_classifiedAt": "2026-04-23T16:51:30.843Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

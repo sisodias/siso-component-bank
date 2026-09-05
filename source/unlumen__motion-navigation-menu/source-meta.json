@@ -1,0 +1,26 @@
+{
+  "id": "unlumen__motion-navigation-menu",
+  "author": "unlumen",
+  "slug": "motion-navigation-menu",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@unlumen/components/motion-navigation-menu",
+  "fetchedAt": "2026-08-29T07:51:43.161Z",
+  "completedAt": "2026-08-29T07:51:45.355Z",
+  "versionedFilename": "code.1784755148866-77928b7e-c32a-40b4-bffd-c7181a0fb5b5.tsx",
+  "codeReference": "r2://components-code-private/unlumen/motion-navigation-menu/code.1784755148866-77928b7e-c32a-40b4-bffd-c7181a0fb5b5.tsx",
+  "codeUrl": "https://cdn.21st.dev/unlumen/motion-navigation-menu/code.1784755148866-77928b7e-c32a-40b4-bffd-c7181a0fb5b5.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

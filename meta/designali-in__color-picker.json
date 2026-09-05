@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@designali-in/components/color-picker",
+  "author": "designali-in",
+  "slug": "color-picker",
+  "name": "color-picker",
+  "description": "The component features a full-screen canvas with a rainbow gradient overlay, displays the hex color value that follows your mouse cursor, and shows a notification when you click to copy a color to your clipboard.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/designali-in/color-picker?api_key=$API_KEY_21ST\"",
+  "id": "designali-in__color-picker",
+  "bundleUrl": "https://cdn.21st.dev/designali-in/color-picker/default/bundle.1755489592163.html",
+  "previewUrl": "https://cdn.21st.dev/designali-in/color-picker/default/preview.1755489592163.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

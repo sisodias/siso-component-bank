@@ -1,0 +1,26 @@
+{
+  "id": "theutkarshmail__comment-reply",
+  "author": "theutkarshmail",
+  "slug": "comment-reply",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theutkarshmail/components/comment-reply",
+  "fetchedAt": "2026-08-29T07:36:33.465Z",
+  "completedAt": "2026-08-29T07:36:35.438Z",
+  "versionedFilename": "code.1755113434086.tsx",
+  "codeReference": "r2://components-code-private/theutkarshmail/comment-reply/code.1755113434086.tsx",
+  "codeUrl": "https://cdn.21st.dev/theutkarshmail/comment-reply/code.1755113434086.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5847,
+  "sha256": "880aa14467c2bcdaaea86b92a1492e6cb8dc49891571205339722a67c8fbbb2f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

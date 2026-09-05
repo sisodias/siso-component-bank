@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying user profile pictures in navigation bars, comment sections, or user lists",
+    "Showing avatar fallback initials when no image is available",
+    "Representing users or entities in dashboards and admin panels",
+    "Creating identity indicators in social feeds or messaging interfaces"
+  ],
+  "ai_summary": "A lightweight, accessible avatar component built on Radix UI primitives with support for images and fallback states. Uses Tailwind CSS for styling with a rounded-full design. The component exports three sub-components: Avatar (root), AvatarImage, and AvatarFallback for flexible usage patterns across different application contexts.",
+  "_classifiedAt": "2026-04-22T08:52:22.659Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

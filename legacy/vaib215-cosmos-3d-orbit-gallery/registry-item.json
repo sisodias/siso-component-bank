@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "vaib215-cosmos-3d-orbit-gallery",
+  "type": "registry:ui",
+  "title": "Vaib215 Cosmos 3d Orbit Gallery",
+  "description": "Installed from https://21st.dev/r/vaib215/cosmos-3d-orbit-gallery",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "vaib215-cosmos-3d-orbit-gallery"
+  ],
+  "files": [
+    {
+      "path": "cosmos-3d-orbit-gallery.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@react-three/drei",
+    "@react-three/fiber",
+    "three"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/vaib215/cosmos-3d-orbit-gallery",
+    "fetchedAt": "2026-04-22T06:43:41.408Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-action",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons for account creation and registration forms",
+    "Destructive action buttons for account deletion or warning confirmations",
+    "Secondary action buttons for cancel or skip options in multi-step forms",
+    "Navigation buttons linking to terms, privacy policies, or external resources",
+    "Icon-only buttons for compact toolbar actions within form interfaces"
+  ],
+  "ai_summary": "A versatile atomic button component from Ruixen.Ui with six visual variants (default, destructive, outline, secondary, ghost, link) and four size options. Built with Radix UI Slot for composition, class-variance-authority for variant management, and Tailwind CSS for styling. Includes standard accessibility features like focus-visible rings, disabled states, and keyboard navigation support. Designed for mixed platform deployment across desktop and mobile interfaces.",
+  "_classifiedAt": "2026-04-23T01:49:21.123Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

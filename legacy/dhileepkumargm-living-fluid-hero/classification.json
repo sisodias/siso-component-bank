@@ -1,0 +1,35 @@
+{
+  "category": "hero",
+  "subcategory": "3d-fluid-animation-hero",
+  "visual_style": [
+    "dark",
+    "3d",
+    "gradient",
+    "glass-morphism"
+  ],
+  "interactions": [
+    "morph",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero sections with immersive 3D fluid animations",
+    "Interactive brand presentations with mouse-responsive visuals",
+    "Product showcases with animated backgrounds",
+    "Gaming and entertainment site hero sections",
+    "Modern SaaS landing pages with visual impact"
+  ],
+  "ai_summary": "A 3D fluid animation hero component built with React Three Fiber and custom GLSL shaders. Features real-time mouse interaction, morphing fluid shapes using Simplex noise, and post-processing bloom effects. Creates immersive dark-themed landing page experiences with continuously animated gradients that respond to cursor movement.",
+  "_classifiedAt": "2026-04-23T16:34:29.028Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

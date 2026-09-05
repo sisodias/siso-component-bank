@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "faq-accordion",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying frequently asked questions on support or help pages",
+    "Providing onboarding information with expandable answers",
+    "Creating interactive FAQ sections for product documentation",
+    "Building knowledge base components with animated reveals"
+  ],
+  "ai_summary": "An animated FAQ accordion component that displays expandable question-and-answer pairs with smooth scroll-triggered animations. Built with Framer Motion for fluid reveal transitions and uses a clean, minimal design with an accent-colored icon header and collapsible card-based items. Fully customizable with TypeScript support.",
+  "_classifiedAt": "2026-04-22T09:06:46.920Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

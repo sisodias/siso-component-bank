@@ -1,0 +1,26 @@
+{
+  "id": "sean0205__code",
+  "author": "sean0205",
+  "slug": "code",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sean0205/components/code",
+  "fetchedAt": "2026-08-29T06:57:21.827Z",
+  "completedAt": "2026-08-29T06:57:24.274Z",
+  "versionedFilename": "code.1753163590174.tsx",
+  "codeReference": "r2://components-code-private/sean0205/code/code.1753163590174.tsx",
+  "codeUrl": "https://cdn.21st.dev/sean0205/code/code.1753163590174.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2295,
+  "sha256": "6d73ac0c5902309f7b082123be83463d7678e6530ceb1485d6eac0ec0a9c2127",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

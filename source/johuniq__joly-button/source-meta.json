@@ -1,0 +1,26 @@
+{
+  "id": "johuniq__joly-button",
+  "author": "johuniq",
+  "slug": "joly-button",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@johuniq/components/joly-button",
+  "fetchedAt": "2026-08-29T05:09:59.053Z",
+  "completedAt": "2026-08-29T05:10:01.174Z",
+  "versionedFilename": "code.1773244552174.tsx",
+  "codeReference": "r2://components-code-private/larsen66/joly-button/code.1773244552174.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/joly-button/code.1773244552174.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5462,
+  "sha256": "d661cfd463385b680fe85fe296d192dcbdb634db2d60722b2e0b6c7b784ca836",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

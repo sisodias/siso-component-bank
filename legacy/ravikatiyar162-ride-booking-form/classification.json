@@ -1,0 +1,31 @@
+{
+  "category": "form",
+  "subcategory": "ride-booking-form",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Ride-hailing apps for booking transportation between locations",
+    "Airport transfer booking with pickup/dropoff form",
+    "Logistics platforms for scheduling cargo pickup",
+    "Corporate travel booking interfaces",
+    "On-demand service booking with location inputs"
+  ],
+  "ai_summary": "A ride booking form component featuring a two-column layout with an image on one side and a functional booking form on the other. Uses Framer Motion for staggered entry animations and includes inputs for pickup location, dropoff destination, date, and time selection. Designed with Lucide React icons and responsive grid layout that adapts from mobile to desktop viewports. Ideal for transportation, mobility, and logistics applications requiring user-friendly booking interfaces.",
+  "_classifiedAt": "2026-04-22T09:10:42.094Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:35:21.546Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

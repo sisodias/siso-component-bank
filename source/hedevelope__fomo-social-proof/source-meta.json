@@ -1,0 +1,26 @@
+{
+  "id": "hedevelope__fomo-social-proof",
+  "author": "hedevelope",
+  "slug": "fomo-social-proof",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@hedevelope/components/fomo-social-proof",
+  "fetchedAt": "2026-08-29T04:55:43.184Z",
+  "completedAt": "2026-08-29T04:55:45.278Z",
+  "versionedFilename": "code.1765003278270.tsx",
+  "codeReference": "r2://components-code-private/hedevelope/fomo-social-proof/code.1765003278270.tsx",
+  "codeUrl": "https://cdn.21st.dev/hedevelope/fomo-social-proof/code.1765003278270.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7213,
+  "sha256": "b6062be194881f02194d0768cff7d4bad96a8f935df90066439cc48437cbaf61",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

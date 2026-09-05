@@ -1,0 +1,28 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "error-page",
+  "visual_style": [
+    "skeuomorphic"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying 404 page not found errors with a retro TV aesthetic",
+    "Customizable error messages for various HTTP error codes",
+    "Adding visual interest to error states in web applications",
+    "Creating memorable error experiences for end users"
+  ],
+  "ai_summary": "A retro TV-shaped error page component that displays 404 or custom error codes with a skeuomorphic design featuring antenna elements, curved screens, and dual-layered not found text. The component accepts customizable errorCode and errorMessage props, making it suitable for various error scenarios. Uses SVG for curved display effects and Tailwind utility classes for layout positioning.",
+  "_classifiedAt": "2026-04-23T17:10:53.085Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

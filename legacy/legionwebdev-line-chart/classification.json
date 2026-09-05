@@ -1,0 +1,22 @@
+{
+  "category": "data-display",
+  "subcategory": "badge, label, tag, pill",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display categorical labels or status indicators on UI elements",
+    "Show counts or metadata associated with content items",
+    "Highlight featured or selected items in lists and grids",
+    "Provide visual feedback for user-applied filters or tags"
+  ],
+  "ai_summary": "A reusable badge component with four style variants (default, secondary, destructive, outline) built with class-variance-authority. Part of a shadcn/ui-style component library, featuring standard hover states and ring focus accessibility. Provides flexible labeling and categorization capability for any UI context.",
+  "_classifiedAt": "2026-04-23T16:51:16.151Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

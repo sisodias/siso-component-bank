@@ -1,0 +1,29 @@
+{
+  "category": "card",
+  "subcategory": "offer-carousel",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying promotional offers and deals in a horizontally scrollable carousel",
+    "Showcasing brand partnerships with logo and promo code information",
+    "Highlighting limited-time deals with tag badges and CTAs",
+    "Creating engagement through hover-animated offer cards with image zoom",
+    "Enabling easy navigation between multiple promotional offers"
+  ],
+  "ai_summary": "An animated offer carousel component with hover-lift card effects and image zoom transitions. Displays promotional content including tags, titles, descriptions, brand logos, and promo codes in a scrollable snap carousel. Built with Framer Motion for smooth spring animations and Tailwind CSS for styling, optimized for e-commerce promotions and deal showcases.",
+  "_classifiedAt": "2026-04-22T09:10:13.976Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

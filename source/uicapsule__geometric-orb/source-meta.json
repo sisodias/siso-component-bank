@@ -1,0 +1,26 @@
+{
+  "id": "uicapsule__geometric-orb",
+  "author": "uicapsule",
+  "slug": "geometric-orb",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uicapsule/components/geometric-orb",
+  "fetchedAt": "2026-08-29T07:41:56.983Z",
+  "completedAt": "2026-08-29T07:41:58.932Z",
+  "versionedFilename": "code.1783537620111.tsx",
+  "codeReference": "r2://components-code-private/uicapsule/geometric-orb/code.1783537620111.tsx",
+  "codeUrl": "https://cdn.21st.dev/uicapsule/geometric-orb/code.1783537620111.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 9428,
+  "sha256": "1ade9f8005f7d3dfe0893627ed84d2edab24fe98fce0a27094cdae635cbce5be",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

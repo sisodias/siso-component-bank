@@ -1,0 +1,26 @@
+{
+  "id": "7ovr__empty-states-1",
+  "author": "7ovr",
+  "slug": "empty-states-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@7ovr/components/empty-states-1",
+  "fetchedAt": "2026-08-29T03:25:42.940Z",
+  "completedAt": "2026-08-29T03:25:45.476Z",
+  "versionedFilename": "code.1783730524323.tsx",
+  "codeReference": "r2://components-code-private/7ovr/empty-states-1/code.1783730524323.tsx",
+  "codeUrl": "https://cdn.21st.dev/7ovr/empty-states-1/code.1783730524323.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1161,
+  "sha256": "c9c964d112bde8e80e140ab518d15e60471e5285fe81be8c632700df4437265d",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

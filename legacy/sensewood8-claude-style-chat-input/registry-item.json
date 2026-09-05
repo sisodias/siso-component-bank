@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "sensewood8-claude-style-chat-input",
+  "type": "registry:ui",
+  "title": "Sensewood8 Claude Style Chat Input",
+  "description": "Installed from https://21st.dev/r/sensewood8/claude-style-chat-input",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "sensewood8-claude-style-chat-input"
+  ],
+  "files": [
+    {
+      "path": "claude-style-chat-input.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/sensewood8/claude-style-chat-input",
+    "fetchedAt": "2026-04-22T06:42:08.079Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

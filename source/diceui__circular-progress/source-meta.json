@@ -1,0 +1,26 @@
+{
+  "id": "diceui__circular-progress",
+  "author": "diceui",
+  "slug": "circular-progress",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@diceui/components/circular-progress",
+  "fetchedAt": "2026-08-29T04:34:25.962Z",
+  "completedAt": "2026-08-29T04:34:28.126Z",
+  "versionedFilename": "code.1786705771377-979bf81a-8925-494c-97f1-81fbd0fd3067.tsx",
+  "codeReference": "r2://components-code-private/diceui/circular-progress/code.1786705771377-979bf81a-8925-494c-97f1-81fbd0fd3067.tsx",
+  "codeUrl": "https://cdn.21st.dev/diceui/circular-progress/code.1786705771377-979bf81a-8925-494c-97f1-81fbd0fd3067.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

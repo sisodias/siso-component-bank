@@ -1,0 +1,37 @@
+{
+  "category": [
+    "hero",
+    "media"
+  ],
+  "subcategory": "WebGL particle hero with 3D lighting",
+  "visual_style": [
+    "3d",
+    "gradient",
+    "colorful"
+  ],
+  "interactions": [
+    "parallax",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "dev-tools",
+    "creator-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Immersive hero sections for landing pages requiring high visual impact",
+    "Interactive website headers with mouse-following particle effects",
+    "Creative portfolio and agency websites showcasing visual storytelling",
+    "Product showcase sections with animated 3D elements",
+    "Tech and SaaS landing pages seeking modern, cutting-edge aesthetics"
+  ],
+  "ai_summary": "A WebGL-powered particle hero component featuring custom vertex and fragment shaders with 3D lighting calculations. The component tracks mouse position for interactive parallax-like behavior, rendering animated particles with ambient and diffuse lighting effects. Built with React hooks including useAnimationFrame for smooth 60fps rendering and useMousePosition for cursor tracking. Suitable for creating immersive, visually striking hero sections on creative, tech, and SaaS websites.",
+  "_classifiedAt": "2026-04-23T16:53:21.067Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

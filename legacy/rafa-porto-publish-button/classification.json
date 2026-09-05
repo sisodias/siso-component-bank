@@ -1,0 +1,27 @@
+{
+  "category": "input",
+  "subcategory": "publish-action-button",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Submitting content changes to a CMS or publishing platform",
+    "Triggering async operations like form submission or API calls",
+    "Providing primary call-to-action in modal dialogs",
+    "Enabling user actions in dashboard interfaces",
+    "Acting as confirmation trigger for workflow operations"
+  ],
+  "ai_summary": "A versatile publish button component built with Radix UI Slot and class-variance-authority for flexible variant styling. Features standard button variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon), with proper accessibility support through focus-visible ring states and disabled states. Suitable for SaaS applications, content management systems, and any platform requiring publish or submit functionality.",
+  "_classifiedAt": "2026-04-22T09:08:20.675Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

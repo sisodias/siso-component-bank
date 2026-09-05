@@ -1,0 +1,26 @@
+{
+  "category": "feedback",
+  "subcategory": "hover-tooltip",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying contextual help text and additional information on hover for UI elements",
+    "Showing keyboard shortcuts and feature explanations in interface controls",
+    "Providing labels and descriptions for icon-only buttons in compact UI layouts",
+    "Revealing additional context for form fields and data table entries",
+    "Guiding users through complex interfaces with progressive disclosure patterns"
+  ],
+  "ai_summary": "A lightweight, animated tooltip component built on Radix UI primitives for displaying contextual information on hover. Features smooth enter/exit animations with directional slide-in effects and includes a styled arrow indicator. Designed as an atomic component for integration into any React application requiring accessible hover-reveal functionality.",
+  "_classifiedAt": "2026-04-22T09:02:06.442Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "macos-dock, icon-bar, taskbar",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Primary navigation bar for desktop applications mimicking macOS dock behavior",
+    "Quick-launcher interface for frequently accessed features or apps",
+    "App switching panel for multi-app workflows",
+    "Taskbar-style navigation for SaaS dashboards",
+    "Mobile app drawer alternative with smooth spring animations"
+  ],
+  "ai_summary": "A macOS-style dock navigation component with spring-physics-based icon expansion that creates a parabolic magnification effect as users hover across items. Built with Framer Motion for smooth, performant animations and tracks mouse position to dynamically scale icons. Provides quick access to multiple app sections with hover states, click handling, and a polished, modern flat aesthetic suitable for various application types.",
+  "_classifiedAt": "2026-04-23T16:30:44.656Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

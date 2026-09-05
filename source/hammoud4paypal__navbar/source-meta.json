@@ -1,0 +1,26 @@
+{
+  "id": "hammoud4paypal__navbar",
+  "author": "hammoud4paypal",
+  "slug": "navbar",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@hammoud4paypal/components/navbar",
+  "fetchedAt": "2026-08-29T04:53:58.688Z",
+  "completedAt": "2026-08-29T04:54:01.072Z",
+  "versionedFilename": "code.1782907405425.tsx",
+  "codeReference": "r2://components-code-private/hammoud4paypal/navbar/code.1782907405425.tsx",
+  "codeUrl": "https://cdn.21st.dev/hammoud4paypal/navbar/code.1782907405425.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5673,
+  "sha256": "ff6619fc6f0b741d7d0dbcfb53a713665995748089d9b05cba87d2d39e07b569",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

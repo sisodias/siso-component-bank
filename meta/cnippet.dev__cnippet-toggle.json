@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@cnippet.dev/components/cnippet-toggle",
+  "author": "cnippet.dev",
+  "slug": "cnippet-toggle",
+  "name": "cnippet-toggle",
+  "description": "A two-state toggle button built on Base UI's Toggle primitive. Ships default and outline variants, three sizes (sm, default, lg), controlled or uncontrolled pressed state via pressed / defaultPressed, disabled styling, and springy pressed feedback. Works as a single button or grouped into a formatting toolbar. Re-exports TogglePrimitive for advanced composition.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/cnippet.dev/cnippet-toggle?api_key=$API_KEY_21ST\"",
+  "id": "cnippet.dev__cnippet-toggle",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/cnippet-toggle/default/bundle.1783607963754.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/cnippet-toggle/default/preview.1783607963754.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

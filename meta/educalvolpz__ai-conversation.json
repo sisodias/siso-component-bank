@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@educalvolpz/components/ai-conversation",
+  "author": "educalvolpz",
+  "slug": "ai-conversation",
+  "name": "ai-conversation",
+  "description": "Auto-scrolling chat container that follows streaming output, stops following the moment the user scrolls up, and offers a jump-to-latest control. Respects prefers-reduced-motion.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/educalvolpz/ai-conversation?api_key=$API_KEY_21ST\"",
+  "id": "educalvolpz__ai-conversation",
+  "bundleUrl": "https://cdn.21st.dev/educalvolpz/ai-conversation/default/bundle.1785773864981-31959f07-f489-4ec7-a9ef-543701c53e07.html",
+  "previewUrl": "https://cdn.21st.dev/educalvolpz/ai-conversation/default/preview.1785773864981-31959f07-f489-4ec7-a9ef-543701c53e07.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

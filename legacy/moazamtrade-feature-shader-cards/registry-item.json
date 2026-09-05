@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "moazamtrade-feature-shader-cards",
+  "type": "registry:ui",
+  "title": "Moazamtrade Feature Shader Cards",
+  "description": "Installed from https://21st.dev/r/moazamtrade/feature-shader-cards",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "moazamtrade-feature-shader-cards"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "feature-shader-cards.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@paper-design/shaders-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/moazamtrade/feature-shader-cards",
+    "fetchedAt": "2026-04-23T01:17:56.270Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

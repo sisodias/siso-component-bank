@@ -1,0 +1,26 @@
+{
+  "id": "moumensoliman__nav-user",
+  "author": "moumensoliman",
+  "slug": "nav-user",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@moumensoliman/components/nav-user",
+  "fetchedAt": "2026-08-29T05:51:00.097Z",
+  "completedAt": "2026-08-29T05:51:02.498Z",
+  "versionedFilename": "code.1779963997372.tsx",
+  "codeReference": "r2://components-code-private/larsen66/nav-user/code.1779963997372.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/nav-user/code.1779963997372.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4162,
+  "sha256": "9e1101fc3d9cef92359ca72b724049e1d7817e35d752b3e8af26705745786023",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

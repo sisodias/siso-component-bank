@@ -1,0 +1,26 @@
+{
+  "id": "edwinvakayil__alert",
+  "author": "edwinvakayil",
+  "slug": "alert",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@edwinvakayil/components/alert",
+  "fetchedAt": "2026-08-29T04:41:37.630Z",
+  "completedAt": "2026-08-29T04:41:40.164Z",
+  "versionedFilename": "code.1780079044885.tsx",
+  "codeReference": "r2://components-code-private/lyanchouss/alert/code.1780079044885.tsx",
+  "codeUrl": "https://cdn.21st.dev/lyanchouss/alert/code.1780079044885.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10019,
+  "sha256": "2e71ae70f2ad19809d76250f546c6b458dfe748a76f7f690a4b05bb0822ffc66",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "lran1028__smoky-button",
+  "author": "lran1028",
+  "slug": "smoky-button",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@lran1028/components/smoky-button",
+  "fetchedAt": "2026-08-29T05:32:30.262Z",
+  "completedAt": "2026-08-29T05:32:32.447Z",
+  "versionedFilename": "code.1785748058287-4e102cf6-d1a0-4e9b-81ea-590220a7f12c.tsx",
+  "codeReference": "r2://components-code-private/lran1028/smoky-button/code.1785748058287-4e102cf6-d1a0-4e9b-81ea-590220a7f12c.tsx",
+  "codeUrl": "https://cdn.21st.dev/lran1028/smoky-button/code.1785748058287-4e102cf6-d1a0-4e9b-81ea-590220a7f12c.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

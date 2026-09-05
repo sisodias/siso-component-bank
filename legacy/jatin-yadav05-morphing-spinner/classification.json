@@ -1,0 +1,30 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading-spinner",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display loading states during async operations",
+    "Indicate processing in progress for any UI action",
+    "Show pending states in forms or data fetching",
+    "Provide visual feedback during page transitions",
+    "Use as a placeholder while content loads"
+  ],
+  "ai_summary": "A morphing loading spinner that smoothly transitions between different shapes and rotates continuously. The animation creates a fluid morphing effect by combining scale, rotation, and border-radius changes. Configurable with sm/md/lg size options, making it suitable for any application needing visual loading feedback.",
+  "_classifiedAt": "2026-04-23T01:40:52.807Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

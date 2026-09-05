@@ -1,0 +1,18 @@
+{
+  "url": "https://21st.dev/@senthilindiagit/components/productrangecard",
+  "author": "senthilindiagit",
+  "slug": "productrangecard",
+  "name": "productrangecard",
+  "description": "Light product/category card that lifts on hover while two preview image tiles fan out from behind it (expertise-style reveal). Drop in real photos via previews[].imageSrc or use CSS backgrounds; self-contained styles, no Tailwind required.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/senthilindiagit/productrangecard?api_key=$API_KEY_21ST\"",
+  "id": "senthilindiagit__productrangecard",
+  "bundleUrl": "https://cdn.21st.dev/senthilindiagit/productrangecard/default/bundle.1782285647196.html",
+  "previewUrl": null,
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "preview": "preview.png",
+  "previewVia": "ogCard"
+}

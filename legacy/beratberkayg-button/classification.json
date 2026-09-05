@@ -1,0 +1,30 @@
+{
+  "category": "input",
+  "subcategory": "gradient-button",
+  "visual_style": [
+    "gradient-border",
+    "glass-morphism",
+    "dark"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in landing pages and marketing sites",
+    "Interactive navigation triggers with icon support for visual clarity",
+    "Premium-featured buttons in SaaS dashboards and product interfaces",
+    "Action buttons requiring visual hierarchy in dark-themed applications"
+  ],
+  "ai_summary": "A decorative gradient button component featuring glass-morphism effects with backdrop blur, animated moving gradient overlays on hover, and smooth scale/glow transitions. Supports customizable light/dark gradients, three size variants (sm/md/lg), and includes Lucide icon integration with title/subtitle content slots. The button includes sophisticated hover states with opacity transitions and shadow effects, making it suitable for premium SaaS and modern web application interfaces.",
+  "_classifiedAt": "2026-04-23T11:32:43.449Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

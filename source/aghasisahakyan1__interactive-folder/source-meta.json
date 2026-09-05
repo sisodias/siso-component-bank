@@ -1,0 +1,26 @@
+{
+  "id": "aghasisahakyan1__interactive-folder",
+  "author": "aghasisahakyan1",
+  "slug": "interactive-folder",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@aghasisahakyan1/components/interactive-folder",
+  "fetchedAt": "2026-08-29T03:29:39.907Z",
+  "completedAt": "2026-08-29T03:29:41.209Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null
+}

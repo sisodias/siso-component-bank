@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "feature-badge-label",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying feature categories or labels in product showcase grids",
+    "Highlighting feature tiers or plan indicators in pricing contexts",
+    "Tagging product capabilities in documentation and landing pages",
+    "Marking new or updated features with visual badges",
+    "Adding status indicators to feature comparison tables"
+  ],
+  "ai_summary": "A reusable Badge component with four style variants (default, secondary, destructive, outline) built using class-variance-authority for consistent theming. Features hover states and focus accessibility rings. Commonly used to label and categorize product features in bento grid layouts, landing pages, and feature comparison sections. Part of a BentoGridShowcase system for SaaS product feature presentations.",
+  "_classifiedAt": "2026-04-22T09:02:08.388Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "enhanced-input-with-actions",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Command-line style inputs for AI or developer tools where users type prompts and execute actions",
+    "Form inputs with inline validation and status feedback (loading, success, error states)",
+    "Input fields with persistent history navigation via dropdown",
+    "Email or snippet inputs with action buttons like copy, delete, or submit",
+    "Multi-action input components where different buttons trigger different behaviors on the same value"
+  ],
+  "ai_summary": "A versatile enhanced input component combining standard text input with customizable action buttons, real-time validation, and local history management. Features status indicators (loading spinner, success checkmark, error states) and persists the last 10 entries to localStorage. Ideal for command-style interfaces, developer tools, or any workflow requiring quick action execution on typed content.",
+  "_classifiedAt": "2026-04-23T01:48:42.515Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

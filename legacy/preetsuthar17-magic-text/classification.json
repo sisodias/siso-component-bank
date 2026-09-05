@@ -1,0 +1,28 @@
+{
+  "category": "data-display",
+  "subcategory": "scroll-reveal-text",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Hero sections with animated typography that reveals as users scroll",
+    "Landing pages with progressive text reveals for storytelling",
+    "Section introductions with staggered word animations",
+    "Portfolio and portfolio-style presentations with scroll-triggered text",
+    "Storytelling sections that build narrative through scroll-based word reveals"
+  ],
+  "ai_summary": "A scroll-triggered text animation component that progressively reveals words as users scroll through the content, creating an engaging \"magic\" text effect. Built with motion/react, each word fades in sequentially using scroll position to control opacity transitions. Ideal for hero sections and storytelling layouts where text reveal timing enhances the narrative.",
+  "_classifiedAt": "2026-04-23T17:08:28.279Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

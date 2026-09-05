@@ -1,0 +1,35 @@
+{
+  "category": [
+    "hero"
+  ],
+  "subcategory": "animated-theme-toggle-hero",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero section with animated entrance effects for SaaS applications",
+    "Dark/light theme toggleable hero for product pages and marketing sites",
+    "Profile avatar hover tooltips with smooth motion animations",
+    "Full-viewport hero with gradient text and icon animations",
+    "Theme-persistent hero section with localStorage integration"
+  ],
+  "ai_summary": "A versatile hero section component featuring animated text, gradient styling, and theme toggle functionality with light/dark mode support. Includes Framer Motion animations for smooth transitions, avatar components with hover tooltips, and localStorage-based theme persistence. Built as a composite component with a ThemeProvider context for scalable theme management across applications.",
+  "_classifiedAt": "2026-04-22T09:07:27.213Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

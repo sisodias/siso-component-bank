@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in forms and landing pages",
+    "Action triggers in navigation bars and toolbars",
+    "Destructive action buttons with red styling for delete/remove operations",
+    "Ghost-style buttons for secondary actions and overlays",
+    "Icon-only buttons for compact UI toolbars and controls"
+  ],
+  "ai_summary": "A versatile, production-ready button component built with Radix UI Slot and class-variance-authority for polymorphic rendering and variant management. Supports 6 visual variants (default, destructive, outline, secondary, ghost, link) and 4 sizes (default, sm, lg, icon). Includes accessible focus-visible states with ring styling, disabled states, and asChild prop for composition with other Radix primitives. Designed for use across SaaS, fintech, and e-commerce applications requiring consistent action triggers.",
+  "_classifiedAt": "2026-04-22T09:11:04.871Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

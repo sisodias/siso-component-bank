@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@soralabs/components/custom-cursor",
+  "author": "soralabs",
+  "slug": "custom-cursor",
+  "name": "custom-cursor",
+  "description": "A smooth custom cursor that follows the pointer with spring physics and morphs into a larger ring when hovering interactive targets.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/soralabs/custom-cursor?api_key=$API_KEY_21ST\"",
+  "id": "soralabs__custom-cursor",
+  "bundleUrl": "https://cdn.21st.dev/soralabs/custom-cursor/default/bundle.1783519770833.html",
+  "previewUrl": "https://cdn.21st.dev/soralabs/custom-cursor/default/preview.1783579468658.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

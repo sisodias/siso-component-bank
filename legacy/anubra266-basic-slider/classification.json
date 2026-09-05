@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "range-selector",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Selecting numeric values within a defined range in forms",
+    "Adjusting settings like volume, brightness, or preferences in dashboards",
+    "Filtering products or content by price ranges in e-commerce",
+    "Setting quantitative parameters in configuration panels",
+    "Capturing user input for analytics or personalization features"
+  ],
+  "ai_summary": "A clean, accessible slider component built with Ark UI that enables users to select values within a defined range. Features dark mode support, keyboard navigation via hidden input, and visible focus states for accessibility. The component uses a track with filled range indicator and a draggable thumb for value selection.",
+  "_classifiedAt": "2026-04-22T08:51:43.963Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "activity heatmap calendar",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "education",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Display yearly contribution activity in a GitHub-style heatmap grid format",
+    "Visualize personal productivity or learning metrics over a 12-month period",
+    "Track developer activity and open-source contribution history",
+    "Monitor consistent engagement patterns for habit tracking applications",
+    "Show educational progress or coding practice consistency over time"
+  ],
+  "ai_summary": "A GitHub-style contribution graph component that displays activity data across a full calendar year in a color-coded heatmap grid. Features interactive hover tooltips showing specific daily contribution details, customizable legend display, and flexible data input supporting up to 53 weeks of activity. Built with motion animations for smooth user experience, designed for tracking productivity, learning progress, or engagement metrics in dev tools, education platforms, and SaaS dashboards.",
+  "_classifiedAt": "2026-04-22T08:58:34.405Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

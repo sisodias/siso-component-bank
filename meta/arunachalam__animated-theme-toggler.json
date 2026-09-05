@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@arunachalam/components/animated-theme-toggler",
+  "author": "arunachalam",
+  "slug": "animated-theme-toggler",
+  "name": "animated-theme-toggler",
+  "description": "AnimatedThemeToggler — React Theme Toggle Button with Smooth Icon Transitions\n\nA lightweight React component that toggles between light and dark modes with animated sun and moon icons using Framer Motion. It detects and syncs the current theme state with the DOM, supports persistent theme preference via localStorage, and uses the new View Transitions API to animate smooth page background transitions based on the toggle button's position.\n\nFeatures:\n\nClean React hooks-based logic\n\nAnimated icon transitions using framer-motion\n\nTheme persistence and live updates\n\nView Transitions API clip-path reveal animation\n\nTailwind CSS compatible styling with customizable classes\n\nAccessible button with ARIA labels\n\nPerfect for modern React/Next.js projects looking to add a polished theme toggle with smooth UI and excellent UX.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/arunachalam/animated-theme-toggler?api_key=$API_KEY_21ST\"",
+  "id": "arunachalam__animated-theme-toggler",
+  "bundleUrl": "https://cdn.21st.dev/arunachalam0606/animated-theme-toggler/default/bundle.1759210475678.html",
+  "previewUrl": "https://cdn.21st.dev/arunachalam0606/animated-theme-toggler/default/preview.1759210475677.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 176,
+  "demo_id": 8335,
+  "video_url": "https://cdn.21st.dev/arunachalam0606/animated-theme-toggler/default/video.1759210475677.mp4"
+}

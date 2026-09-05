@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@educalvolpz/components/ai-tool-call",
+  "author": "educalvolpz",
+  "slug": "ai-tool-call",
+  "name": "ai-tool-call",
+  "description": "Agent tool-call card that stays collapsed while running and expands to its arguments and result, with success, running and error states. Respects prefers-reduced-motion.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/educalvolpz/ai-tool-call?api_key=$API_KEY_21ST\"",
+  "id": "educalvolpz__ai-tool-call",
+  "bundleUrl": "https://cdn.21st.dev/educlopez/ai-tool-call/default/bundle.1785567181237-55f8a3a3-5b93-4dbc-aeac-02176117b567.html",
+  "previewUrl": "https://cdn.21st.dev/educlopez/ai-tool-call/default/preview.1785567181237-55f8a3a3-5b93-4dbc-aeac-02176117b567.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

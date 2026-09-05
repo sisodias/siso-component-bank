@@ -1,0 +1,33 @@
+{
+  "id": "dhileepkumargm__liquid-metal-vortex",
+  "author": "dhileepkumargm",
+  "slug": "liquid-metal-vortex",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dhileepkumargm/components/liquid-metal-vortex",
+  "fetchedAt": "2026-08-29T04:30:36.412Z",
+  "completedAt": "2026-08-29T04:30:38.633Z",
+  "versionedFilename": "code.1785265841926-8d0485f1-b509-4bae-8f4b-fb653f2c918f.tsx",
+  "codeReference": "r2://components-code-private/dhileepkumargm/liquid-metal-vortex/code.1785265841926-8d0485f1-b509-4bae-8f4b-fb653f2c918f.tsx",
+  "codeUrl": "https://cdn.21st.dev/dhileepkumargm/liquid-metal-vortex/code.1785265841926-8d0485f1-b509-4bae-8f4b-fb653f2c918f.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/dhileepkumargm__liquid-metal-vortex/code.tsx",
+    "bytes": 15020,
+    "sha256": "64a3e9483881bf1bccb5fd1f773a9eb5acc44dd8cb99ffc21bbfe7207a116e76",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

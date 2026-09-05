@@ -1,0 +1,26 @@
+{
+  "id": "vinny_b0b96136__arch-gallery",
+  "author": "vinny_b0b96136",
+  "slug": "arch-gallery",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@vinny_b0b96136/components/arch-gallery",
+  "fetchedAt": "2026-08-29T07:55:39.527Z",
+  "completedAt": "2026-08-29T07:55:41.742Z",
+  "versionedFilename": "code.1786569665296-77f5e280-d113-43b5-b72f-22fda8ebcb91.tsx",
+  "codeReference": "r2://components-code-private/vinny_b0b96136/arch-gallery/code.1786569665296-77f5e280-d113-43b5-b72f-22fda8ebcb91.tsx",
+  "codeUrl": "https://cdn.21st.dev/vinny_b0b96136/arch-gallery/code.1786569665296-77f5e280-d113-43b5-b72f-22fda8ebcb91.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

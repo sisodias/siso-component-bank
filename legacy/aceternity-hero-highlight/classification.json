@@ -1,0 +1,40 @@
+{
+  "category": [
+    "hero",
+    "media"
+  ],
+  "subcategory": "cursor-tracking-highlight",
+  "visual_style": [
+    "glass-morphism",
+    "dark",
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "dev-tools",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Landing page hero sections with interactive cursor-following highlight effects",
+    "Product showcases where elements reveal on hover with radial gradient masks",
+    "Interactive portfolio or personal website hero intros with mouse tracking",
+    "SaaS and fintech landing pages needing engaging visual hover effects",
+    "Creative tool interfaces requiring subtle interactive feedback"
+  ],
+  "ai_summary": "An interactive hero component featuring a cursor-following radial gradient highlight effect that reveals on hover. Uses Framer Motion for smooth mouse position tracking and supports both light and dark modes with a subtle dot pattern background texture. The highlight creates a spotlight effect that follows the user's cursor, making it ideal for creating engaging, modern landing page hero sections.",
+  "_classifiedAt": "2026-04-23T11:28:33.145Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

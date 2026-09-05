@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "social",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying user profile pictures in navigation headers and settings pages",
+    "Showing user avatars in comment sections or discussion threads",
+    "Representing users in contact lists or team member directories",
+    "Indicating user presence status in chat or collaboration applications",
+    "Displaying author information next to content like articles or reviews"
+  ],
+  "ai_summary": "A composite avatar component system built on Radix UI primitives with support for images, fallback initials, status indicators, and presence states (online, offline, busy, away). Uses Tailwind CSS for styling with clean, minimal aesthetic. Suitable for any application requiring user representation across SaaS, e-commerce, or social platforms.",
+  "_classifiedAt": "2026-04-23T17:23:05.359Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

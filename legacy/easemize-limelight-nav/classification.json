@@ -1,0 +1,36 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "tab-bar with limelight highlight effect",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Bottom navigation bar for mobile applications with highlighted active state",
+    "Tab-based navigation for dashboard interfaces",
+    "Primary navigation for single-page applications",
+    "Secondary navigation for SaaS platforms",
+    "Navigation with limelight spotlight effect on active item"
+  ],
+  "ai_summary": "A navigation bar component featuring a distinctive limelight effect that highlights the currently active tab with a spotlight/glow animation. Supports custom navigation items with SVG icons, adaptive width, and provides callback handlers for tracking tab changes. Uses clean minimalist icons and smooth transitions between states.",
+  "_classifiedAt": "2026-04-23T16:37:24.881Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

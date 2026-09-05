@@ -1,0 +1,25 @@
+{
+  "category": "feedback",
+  "subcategory": "error-page-404",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display when users navigate to a non-existent page or broken link",
+    "Provide navigation back to home from error states",
+    "Communicate missing content to users with friendly messaging",
+    "Serve as a fallback route handler in web applications"
+  ],
+  "ai_summary": "A 404 error page component featuring a playful dog GIF background with prominent '404' text overlay. Built with serif typography and green accent button for home navigation. Responsive design adapts across breakpoints with centered layout and hover interactions on CTA button.",
+  "_classifiedAt": "2026-04-23T16:57:51.633Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ian.veber/components/space-station-journey",
+  "author": "ian.veber",
+  "slug": "space-station-journey",
+  "name": "space-station-journey",
+  "description": "An immersive 3D space station experience where scroling moves you through depth, guided by a robot compnion through 5 distinct rooms.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ian.veber/space-station-journey?api_key=$API_KEY_21ST\"",
+  "id": "ian.veber__space-station-journey",
+  "bundleUrl": "https://cdn.21st.dev/ian.veber/space-station-journey/default/bundle.1779904561772.html",
+  "previewUrl": "https://cdn.21st.dev/ian.veber/space-station-journey/default/preview.1779904561772.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

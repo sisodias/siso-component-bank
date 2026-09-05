@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ruhith369-bar-loader",
+  "type": "registry:ui",
+  "title": "Ruhith369 Bar Loader",
+  "description": "Installed from https://21st.dev/r/ruhith369/bar-loader",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ruhith369-bar-loader"
+  ],
+  "files": [
+    {
+      "path": "bar-loader.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ruhith369/bar-loader",
+    "fetchedAt": "2026-04-22T06:44:07.084Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

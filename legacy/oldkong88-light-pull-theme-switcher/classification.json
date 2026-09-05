@@ -1,0 +1,34 @@
+{
+  "category": "input",
+  "subcategory": "theme-switcher",
+  "visual_style": [
+    "gradient",
+    "glass-morphism"
+  ],
+  "interactions": [
+    "drag",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Toggle between light and dark themes using an intuitive vertical drag gesture",
+    "Replace traditional click-based theme toggles with gesture-based interaction",
+    "Add interactive theme switching to any web application dashboard or landing page",
+    "Enhance user experience with physics-based drag animations for theme transitions",
+    "Provide a visually appealing sun/moon orb control for theme selection"
+  ],
+  "ai_summary": "A drag-based theme switcher component that toggles dark/light mode through a vertical pull gesture. Features a radial gradient sun/moon orb with glow shadow effects and smooth physics-based animations using Framer Motion. The component uses CSS class toggling on the document root to switch themes, with bounce physics and drag elasticity for satisfying interaction feel.",
+  "_classifiedAt": "2026-04-23T17:03:46.987Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

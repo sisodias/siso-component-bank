@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/column-collaboration-table",
+  "author": "ruixen.ui",
+  "slug": "column-collaboration-table",
+  "name": "column-collaboration-table",
+  "description": "This is a Column Collaboration Table built entirely with Shadcn UI components. It allows users to add and view comments directly on each column header, making it ideal for collaborative data review or team analysis. Each column features a chat icon that opens a popover, where multiple comments can be added, viewed, and scrolled through. The table body is scrollable for large datasets, while the header and footer remain sticky, ensuring that column titles and summary information are always visible. The footer displays the total number of rows dynamically. The design is clean, minimal, and fully compatible with both light and dark themes, making it highly reusable and suitable for professional applications where collaboration and clarity are key.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/column-collaboration-table?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__column-collaboration-table",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/column-collaboration-table/default/bundle.1757840602905.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/column-collaboration-table/default/preview.1757840602905.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 18,
+  "demo_id": 7476,
+  "video_url": null
+}

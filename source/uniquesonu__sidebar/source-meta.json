@@ -1,0 +1,26 @@
+{
+  "id": "uniquesonu__sidebar",
+  "author": "uniquesonu",
+  "slug": "sidebar",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uniquesonu/components/sidebar",
+  "fetchedAt": "2026-08-29T07:50:26.906Z",
+  "completedAt": "2026-08-29T07:50:30.402Z",
+  "versionedFilename": "code.1749655107865.tsx",
+  "codeReference": "r2://components-code-private/uniquesonu/sidebar/code.1749655107865.tsx",
+  "codeUrl": "https://cdn.21st.dev/uniquesonu/sidebar/code.1749655107865.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6533,
+  "sha256": "5e43ab1999f403049c9463696c28d33d9a265678a8f657840878d7243069f9b1",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

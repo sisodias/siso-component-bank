@@ -1,0 +1,24 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Triggering form submissions with primary or destructive action buttons",
+    "Providing navigation options with ghost or link styled buttons",
+    "Creating icon-only buttons for compact UI toolbar actions",
+    "Building accessible button groups with keyboard navigation support",
+    "Implementing polymorphic button patterns using Radix Slot"
+  ],
+  "ai_summary": "A polymorphic button component built with Radix UI Slot and class-variance-authority, supporting multiple visual variants (default, outline, ghost, destructive, secondary, link) and sizes. Features standard focus-visible states, disabled handling, and Ring UI accessibility patterns for keyboard navigation. Designed as a reusable atomic input element suitable for any React-based UI system.",
+  "_classifiedAt": "2026-04-22T09:01:36.131Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

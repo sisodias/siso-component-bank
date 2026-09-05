@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "aghasisahakyan1-3d-hero-section-boxes",
+  "type": "registry:ui",
+  "title": "Aghasisahakyan1 3d Hero Section Boxes",
+  "description": "Installed from https://21st.dev/r/aghasisahakyan1/3d-hero-section-boxes",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "aghasisahakyan1-3d-hero-section-boxes"
+  ],
+  "files": [
+    {
+      "path": "3d-hero-section-boxes.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@splinetool/react-spline"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/aghasisahakyan1/3d-hero-section-boxes",
+    "fetchedAt": "2026-04-23T03:04:54.556Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

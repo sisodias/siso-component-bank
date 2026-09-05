@@ -1,0 +1,31 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "top-navbar with mobile menu",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Main site navigation for landing pages and marketing sites",
+    "Responsive header navigation with mobile hamburger menu support",
+    "Top navigation for SaaS dashboards and project documentation sites"
+  ],
+  "ai_summary": "A responsive top navigation bar featuring a gradient logo with hover rotation animation, smooth scale effects on navigation links, and a mobile-friendly hamburger menu toggle. The component uses motion/react for fluid animations and includes a pill-shaped container with shadow styling, making it suitable for modern SaaS and e-commerce landing pages.",
+  "_classifiedAt": "2026-04-23T17:08:38.310Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

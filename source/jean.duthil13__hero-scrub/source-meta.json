@@ -1,0 +1,26 @@
+{
+  "id": "jean.duthil13__hero-scrub",
+  "author": "jean.duthil13",
+  "slug": "hero-scrub",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@jean.duthil13/components/hero-scrub",
+  "fetchedAt": "2026-08-29T05:09:09.063Z",
+  "completedAt": "2026-08-29T05:09:11.020Z",
+  "versionedFilename": "code.1776866301076.tsx",
+  "codeReference": "r2://components-code-private/jean.duthil13/hero-scrub/code.1776866301076.tsx",
+  "codeUrl": "https://cdn.21st.dev/jean.duthil13/hero-scrub/code.1776866301076.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10235,
+  "sha256": "c297b7a7691c4a26af16f05db419672fcabfa8ba46aa4a8c674cc1b49f60f89c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

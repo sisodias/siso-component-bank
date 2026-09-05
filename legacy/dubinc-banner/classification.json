@@ -1,0 +1,28 @@
+{
+  "category": "feedback",
+  "subcategory": "announcement-banner",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying product announcements or feature highlights at the top of a page",
+    "Showing promotional messages with call-to-action buttons",
+    "Presenting important notices that users can dismiss",
+    "Communicating updates or changes to users in a non-intrusive way"
+  ],
+  "ai_summary": "A dismissible announcement banner component with a subtle grid pattern overlay and gradient background (lime to emerald). Features customizable icon, title, and action button with a close handler. The banner uses a glass-like aesthetic with semi-transparent borders and responsive flexbox layout that adapts from column on mobile to row on desktop.",
+  "_classifiedAt": "2026-04-23T16:36:28.337Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

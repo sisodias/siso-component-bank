@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "Action Button with Variants",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Triggering form submissions with primary action styling",
+    "Destructive actions like delete or remove operations",
+    "Secondary navigation or less prominent actions",
+    "Icon-only buttons for compact UI spaces",
+    "Ghost-style buttons for subtle, minimal interfaces"
+  ],
+  "ai_summary": "A versatile Radix UI-based button component with Tailwind CSS styling featuring multiple variants (default, destructive, outline, secondary, ghost, link) and sizes. Supports composition via asChild prop with Slot, includes disabled and focus states with accessibility-focused outlines. Ideal for any interface requiring standard action triggers.",
+  "_classifiedAt": "2026-04-23T01:49:16.413Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

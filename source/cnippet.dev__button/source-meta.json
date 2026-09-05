@@ -1,0 +1,26 @@
+{
+  "id": "cnippet.dev__button",
+  "author": "cnippet.dev",
+  "slug": "button",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@cnippet.dev/components/button",
+  "fetchedAt": "2026-08-29T03:55:33.757Z",
+  "completedAt": "2026-08-29T03:55:36.202Z",
+  "versionedFilename": "code.1770466611111.tsx",
+  "codeReference": "r2://components-code-private/cnippet.dev/button/code.1770466611111.tsx",
+  "codeUrl": "https://cdn.21st.dev/cnippet.dev/button/code.1770466611111.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5006,
+  "sha256": "e8f151480b468b092bedf0ee3698dfd77651ea735c604e061ca7845bb6d8561b",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

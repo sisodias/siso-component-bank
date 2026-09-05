@@ -1,0 +1,30 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "badge",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display status indicators with semantic color variants (success, warning, destructive)",
+    "Show categorical labels or tags with customizable appearance styles",
+    "Present compact informational badges with optional dot indicators"
+  ],
+  "ai_summary": "A flexible badge component with multiple color variants (primary, secondary, success, warning, info, destructive, outline) and appearance styles (default, light, ghost). Built with class-variance-authority for type-safe variant composition, supporting three sizes (sm, md, lg) and disabled states. Uses Radix UI Slot for composition and CSS variables for theming flexibility.",
+  "_classifiedAt": "2026-04-23T17:22:44.338Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

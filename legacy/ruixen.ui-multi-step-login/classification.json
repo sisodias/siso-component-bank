@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "authentication-button-multi-step-login",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Submit credentials in multi-step authentication flows",
+    "Navigate between steps in onboarding processes",
+    "Trigger destructive actions with confirmation states",
+    "Handle form submission with loading/disabled states",
+    "Serve as primary or secondary call-to-action in login forms"
+  ],
+  "ai_summary": "A versatile button component with CVA-powered variant system (default, destructive, outline, secondary, ghost, link) and multiple size options. Part of a multi-step login system with proper accessibility features including focus-visible outlines and keyboard navigation support. Features smooth transitions and shadow utilities for depth, designed for authentication and form workflows in SaaS and fintech applications.",
+  "_classifiedAt": "2026-04-23T01:50:35.041Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

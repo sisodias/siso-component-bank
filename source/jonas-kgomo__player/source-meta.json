@@ -1,0 +1,26 @@
+{
+  "id": "jonas-kgomo__player",
+  "author": "jonas-kgomo",
+  "slug": "player",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@jonas-kgomo/components/player",
+  "fetchedAt": "2026-08-29T05:11:28.745Z",
+  "completedAt": "2026-08-29T05:11:30.871Z",
+  "versionedFilename": "code.1769367960529.tsx",
+  "codeReference": "r2://components-code-private/jonas-kgomo/player/code.1769367960529.tsx",
+  "codeUrl": "https://cdn.21st.dev/jonas-kgomo/player/code.1769367960529.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2147,
+  "sha256": "bcefbbecae08f4594cf33424a29fe78e65fbdf583c67a97c5f36759588b23414",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

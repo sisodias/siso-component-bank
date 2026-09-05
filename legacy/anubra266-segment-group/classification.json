@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "segmented-control",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Tab-based navigation between different views or content sections",
+    "Switching between categories or filters in a list or grid",
+    "Toggling between display modes (e.g., list vs. grid view)",
+    "Selecting time ranges or date periods in dashboards",
+    "Choosing between different options in settings panels"
+  ],
+  "ai_summary": "A segmented control component for switching between mutually exclusive options with an animated sliding indicator. Built with Ark UI for full accessibility support including keyboard navigation and ARIA attributes. Features smooth CSS variable-based transitions, dark/light mode support, and disabled state handling for a polished tab-switching experience.",
+  "_classifiedAt": "2026-04-23T01:36:05.959Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

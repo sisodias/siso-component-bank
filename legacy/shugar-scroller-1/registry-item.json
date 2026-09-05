@@ -1,0 +1,48 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "shugar-scroller-1",
+  "type": "registry:ui",
+  "title": "Shugar Scroller 1",
+  "description": "Installed from https://21st.dev/r/shugar/scroller-1",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "shugar-scroller-1"
+  ],
+  "files": [
+    {
+      "path": "button-1.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "scroller-1.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "spinner-1.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "clsx"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/shugar/scroller-1",
+    "fetchedAt": "2026-04-23T03:03:20.507Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

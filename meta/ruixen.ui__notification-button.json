@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/notification-button",
+  "author": "ruixen.ui",
+  "slug": "notification-button",
+  "name": "notification-button",
+  "description": "The Notification Button is a shadcn/ui-based component designed to display real-time alerts or counts for messages, tasks, or cart items. It combines a button with an icon (defaulting to a bell) and a dynamic badge that shows the count, making it highly visible and actionable. The component supports multiple sizes (sm, md, lg) and ensures that the badge scales proportionally with the icon and button, maintaining a clean, modern, and responsive design. Its flexibility allows developers to replace the icon or integrate it into dashboards, navbars, or overlays, making it a practical solution for interactive UIs that require user attention to notifications.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/notification-button?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__notification-button",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/notification-button/default/bundle.1758559993958.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/notification-button/default/preview.1758559993958.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 31,
+  "demo_id": 7914,
+  "video_url": null
+}

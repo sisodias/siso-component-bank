@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__progressive-flux-loader",
+  "author": "ruixen.ui",
+  "slug": "progressive-flux-loader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/progressive-flux-loader",
+  "fetchedAt": "2026-08-29T06:47:12.514Z",
+  "completedAt": "2026-08-29T06:47:14.401Z",
+  "versionedFilename": "code.1781592886622.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/progressive-flux-loader/code.1781592886622.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/progressive-flux-loader/code.1781592886622.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 11049,
+  "sha256": "0bbf9af7b3312910ad323f4291ec665dd2479f7ca0f1e1071de3ce51c89becdc",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

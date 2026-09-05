@@ -1,0 +1,31 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "skeleton-loader",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display placeholder content while data is being fetched to improve perceived loading performance",
+    "Provide visual feedback during page transitions or route changes",
+    "Show skeleton states for cards, lists, or text content loading"
+  ],
+  "ai_summary": "A lightweight atomic skeleton loader component that displays a pulsing placeholder with muted background styling. Used to improve user experience by showing content structure during asynchronous data loading, common in dashboard, feed, and list views across SaaS, e-commerce, and media applications.",
+  "_classifiedAt": "2026-04-23T11:30:52.167Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

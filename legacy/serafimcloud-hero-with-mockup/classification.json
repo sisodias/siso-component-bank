@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "badge",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display status indicators like 'New', 'Sale', or 'Featured' on product cards",
+    "Show notification counts or category labels in navigation",
+    "Highlight feature tags or plan tiers in pricing sections",
+    "Indicate user roles or permissions in dashboard interfaces",
+    "Mark items with metadata like 'Popular' or 'Limited' in catalogs"
+  ],
+  "ai_summary": "A reusable Badge component with variant support (default, secondary, destructive, outline) built with class-variance-authority for consistent styling across an application. Features border-transparent backgrounds, rounded-full design, and focus ring accessibility. Designed as an atomic UI primitive for displaying labels, status indicators, and metadata tags.",
+  "_classifiedAt": "2026-04-23T17:25:20.503Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

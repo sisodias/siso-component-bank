@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ddoemonn/components/copy-button",
+  "author": "ddoemonn",
+  "slug": "copy-button",
+  "name": "copy-button",
+  "description": "A copy-to-clipboard button that animates between idle, copied, and error states with an SVG check draw, crossfading labels, and a clipboard fallback and reduced-motion support.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ddoemonn/copy-button?api_key=$API_KEY_21ST\"",
+  "id": "ddoemonn__copy-button",
+  "bundleUrl": "https://cdn.21st.dev/ddoemonn/copy-button/default/bundle.1785472410317-fb65290a-2ca5-427e-86e5-0e7c1f9f6034.html",
+  "previewUrl": "https://cdn.21st.dev/ddoemonn/copy-button/default/preview.1785472410317-fb65290a-2ca5-427e-86e5-0e7c1f9f6034.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

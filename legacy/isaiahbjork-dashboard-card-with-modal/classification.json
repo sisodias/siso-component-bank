@@ -1,0 +1,29 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "dashboard-card-with-modal",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying user or entity information in a dashboard layout with expandable modal details",
+    "Presenting key metrics or summaries that users can click to see full details",
+    "Creating interactive dashboard interfaces with user avatar representations"
+  ],
+  "ai_summary": "A dashboard card component with modal functionality, likely displaying user or entity data with an associated avatar. Built with Radix UI primitives for accessibility. The card serves as a container that reveals modal content on interaction, common in SaaS and analytics dashboards for presenting detailed information on demand.",
+  "_classifiedAt": "2026-04-23T01:40:17.578Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

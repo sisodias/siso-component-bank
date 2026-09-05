@@ -1,0 +1,28 @@
+{
+  "category": "overlay",
+  "subcategory": "tour-dialog",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Product onboarding tours to guide new users through features",
+    "Step-by-step feature walkthroughs with contextual highlights",
+    "User guidance overlays for complex workflows",
+    "Setup wizards for initial configuration",
+    "Contextual help dialogs triggered by user actions"
+  ],
+  "ai_summary": "A tour and onboarding overlay component built on Radix UI primitives providing accessible modal dialogs with smooth fade and zoom animations. Designed for guided user experiences, product tours, and step-by-step feature walkthroughs with customizable tour steps and overlay styling.",
+  "_classifiedAt": "2026-04-23T17:03:23.363Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

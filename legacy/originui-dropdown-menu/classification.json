@@ -1,0 +1,31 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "nested-menu",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Navigation menus with nested hierarchical options for complex application menus",
+    "User settings and preferences panels with grouped action items",
+    "Context menus providing quick actions for selected items",
+    "Form selection interfaces with categorized choices"
+  ],
+  "ai_summary": "A Radix UI-based dropdown menu component providing accessible, nested menu navigation with sub-menus, checkable items, and keyboard navigation support. Uses shadcn/ui-style Tailwind classes with CSS variables for theming, making it suitable for modern SaaS and web applications requiring context menus or hierarchical navigation.",
+  "_classifiedAt": "2026-04-23T17:04:15.328Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

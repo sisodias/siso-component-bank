@@ -1,0 +1,26 @@
+{
+  "category": "card",
+  "subcategory": "navigation-card",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Dashboard quick navigation for navigating between sections",
+    "Landing page link collection for feature discovery",
+    "Footer navigation links for site-wide access",
+    "Mobile-friendly navigation menu for small screens",
+    "Admin panel sidebar links for internal tools"
+  ],
+  "ai_summary": "A vibrant purple navigation card component with animated spinning cross decorations and hover-enabled link items. Built with Next.js Link for client-side navigation, featuring a composite structure with wrapper, heading, and link sub-components. The card uses Tailwind CSS for styling with glass-morphism-like transparency effects.",
+  "_classifiedAt": "2026-04-23T01:35:18.516Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

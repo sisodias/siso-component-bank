@@ -1,0 +1,34 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "3d-loader-animation",
+  "visual_style": [
+    "3d",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displays loading state while content is being fetched or processed",
+    "Shows animated 3D rotating box during page transitions or navigation",
+    "Indicates processing status with visual feedback in applications",
+    "Works as a branded loading spinner for various web platforms",
+    "Provides visual feedback during async operations in SaaS dashboards"
+  ],
+  "ai_summary": "A 3D box loader animation that creates a rotating cube effect on a ground plane using CSS 3D transforms, preserve-3d, and keyframe animations. Features a dark/black primary color scheme with gradient styling on the ground element. Responsive design with mobile zoom adjustment. Ideal for displaying loading states in SaaS platforms, e-commerce sites, and developer tools where visual feedback during data fetching or transitions is needed.",
+  "_classifiedAt": "2026-04-23T16:57:43.541Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "textarea-auto-resize-hook",
+  "visual_style": [
+    "none"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Automatically adjusting textarea height as user types to fit content without scrolling",
+    "Creating dynamic form fields that grow with user input in comment or feedback forms",
+    "Implementing chat message inputs with auto-expanding text areas",
+    "Building rich text editors or note-taking interfaces with fluid text containers",
+    "Replacing fixed-height textarea with responsive alternatives in any form application"
+  ],
+  "ai_summary": "A React hook utility that automatically resizes textarea elements based on their content. It calculates minimum height from line height and specified rows, then adjusts the textarea height in real-time using useLayoutEffect for immediate visual feedback. This hook is useful for creating auto-expanding text inputs in forms, chat interfaces, and content creation tools.",
+  "_classifiedAt": "2026-04-23T11:30:15.121Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "category": "feedback",
+  "subcategory": "notification-banner",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying dismissible notification messages at the top of a page",
+    "Showing alert or warning banners with action buttons",
+    "Announcing feature updates or maintenance notices",
+    "Rendering icon-based status indicators in a banner layout",
+    "Creating multi-layout notification bars with close functionality"
+  ],
+  "ai_summary": "A flexible banner component with multiple variants (default, muted, border), sizes, and layout options for displaying notifications, alerts, or announcements. Supports optional icons, action buttons, and close functionality with responsive design for both desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T17:25:09.809Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

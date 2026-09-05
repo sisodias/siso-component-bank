@@ -1,0 +1,26 @@
+{
+  "id": "hammoud4paypal__footer",
+  "author": "hammoud4paypal",
+  "slug": "footer",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@hammoud4paypal/components/footer",
+  "fetchedAt": "2026-08-29T04:53:56.589Z",
+  "completedAt": "2026-08-29T04:53:58.565Z",
+  "versionedFilename": "code.1782907478756.tsx",
+  "codeReference": "r2://components-code-private/hammoud4paypal/footer/code.1782907478756.tsx",
+  "codeUrl": "https://cdn.21st.dev/hammoud4paypal/footer/code.1782907478756.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4794,
+  "sha256": "95d209b13e90720a179560742728b176d360d3f07b2a140eaae6586d1d838f56",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

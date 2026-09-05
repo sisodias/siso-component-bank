@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-action-trigger",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Form submission triggers for user actions",
+    "Call-to-action buttons in landing pages or dashboards",
+    "Navigation action triggers with asChild composition",
+    "Interactive UI controls with multiple visual variants"
+  ],
+  "ai_summary": "A reusable atomic Button component built with Radix UI Slot for flexible composition, styled with Tailwind CSS and managed through class-variance-authority for variant control. Supports multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon), making it suitable for any web application requiring standardized button interactions.",
+  "_classifiedAt": "2026-04-23T01:53:39.774Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

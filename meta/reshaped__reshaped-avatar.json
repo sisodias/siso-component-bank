@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@reshaped/components/reshaped-avatar",
+  "author": "reshaped",
+  "slug": "reshaped-avatar",
+  "name": "reshaped-avatar",
+  "description": "Displays a masked image when src is passed, with initials or icon fallbacks when the image is not available. Supports color tokens with a faded variant, any numeric size with automatic typography scaling, and a squared shape.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/reshaped/reshaped-avatar?api_key=$API_KEY_21ST\"",
+  "id": "reshaped__reshaped-avatar",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/reshaped-avatar/default/bundle.1783346696619.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/reshaped-avatar/default/preview.1783346696619.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

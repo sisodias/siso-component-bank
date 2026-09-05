@@ -1,0 +1,43 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "coss.com-coss-accordion",
+  "type": "registry:ui",
+  "title": "Coss.Com Coss Accordion",
+  "description": "Installed from https://21st.dev/r/coss.com/coss-accordion",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "coss.com-coss-accordion"
+  ],
+  "files": [
+    {
+      "path": "coss-accordion.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@base-ui/react",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "missing relative sibling import: ./utils"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/coss.com/coss-accordion",
+    "fetchedAt": "2026-04-22T06:31:56.177Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

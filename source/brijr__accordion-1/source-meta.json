@@ -1,0 +1,26 @@
+{
+  "id": "brijr__accordion-1",
+  "author": "brijr",
+  "slug": "accordion-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@brijr/components/accordion-1",
+  "fetchedAt": "2026-08-29T03:51:06.890Z",
+  "completedAt": "2026-08-29T03:51:09.330Z",
+  "versionedFilename": "code.1757994400455.tsx",
+  "codeReference": "r2://components-code-private/larsen66/accordion-1/code.1757994400455.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/accordion-1/code.1757994400455.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3404,
+  "sha256": "cada0d26473b37e9fd74070c0b5e245f80fe6ec65d1795960f8402b2971a62c9",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

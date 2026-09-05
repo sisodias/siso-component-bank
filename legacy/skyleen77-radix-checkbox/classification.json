@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "checkbox",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Form input for boolean selections in signup or settings forms",
+    "Agreement and consent checkboxes for terms of service",
+    "Multi-select options in lists or filtering interfaces",
+    "Toggle switches for feature flags or preferences",
+    "Interactive list item selection in dashboards or tables"
+  ],
+  "ai_summary": "A polished checkbox component built on Radix UI primitives with smooth scale animations on tap and hover. Uses CSS variables for theming compatibility and includes accessible focus states with ring styling. The checkmark SVG animates with pathLength for a satisfying visual confirmation when checked.",
+  "_classifiedAt": "2026-04-23T17:32:44.630Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

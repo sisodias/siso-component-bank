@@ -1,0 +1,33 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "media-container",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "e-commerce",
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Maintains consistent aspect ratios for images and video embeds in responsive layouts",
+    "Creates uniform thumbnail grids for product listings or galleries",
+    "Wraps embedded content like YouTube videos while preserving 16:9 or custom ratios",
+    "Ensures images don't cause layout shifts during loading by reserving space",
+    "Provides a clean container for displaying fixed-proportion media assets"
+  ],
+  "ai_summary": "A lightweight aspect ratio container component that maintains fixed proportions for media content. Supports custom ratio values (16/9, 4/3, 1/1, etc.) and ensures responsive images or videos scale correctly without distortion. Commonly used for thumbnails, video embeds, and responsive media grids.",
+  "_classifiedAt": "2026-04-23T11:32:04.989Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

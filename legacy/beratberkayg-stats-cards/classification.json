@@ -1,0 +1,35 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "card primitives",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying content in a contained card format for dashboards and layouts",
+    "Building reusable card-based UI systems with header, content, and footer sections",
+    "Creating form containers with consistent styling across applications",
+    "Displaying statistics, metrics, or data summaries in organized layouts",
+    "Serving as foundation components for building modals, alerts, and other overlay patterns"
+  ],
+  "ai_summary": "A set of primitive card components (Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter) following shadcn/ui patterns. These atomic UI building blocks provide a consistent card container system with forwardRef support for flexible composition. Built with Tailwind CSS utility classes for rounded corners, shadows, and typography, making them ideal foundation components for dashboards, forms, and data display layouts across SaaS, fintech, and e-commerce platforms.",
+  "_classifiedAt": "2026-04-23T11:33:05.109Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "blog-article-grid",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "education",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying blog posts or articles in a responsive grid layout on content-driven websites",
+    "Showcasing latest publications or news updates on media platforms",
+    "Featuring thought leadership content on SaaS marketing pages",
+    "Listing educational resources or tutorials on learning platforms",
+    "Presenting portfolio pieces or case studies on creative agency sites"
+  ],
+  "ai_summary": "A responsive blog article grid component featuring three cards with category badges, images, titles, descriptions, and publish dates. Each card has a subtle glass-morphism effect with backdrop blur and displays hover shadow transitions. Supports dark mode and uses Next.js Image optimization. Designed for content-heavy platforms needing to showcase articles in an organized, visually appealing grid that adapts from mobile single-column to desktop three-column layouts.",
+  "_classifiedAt": "2026-04-22T08:53:57.945Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

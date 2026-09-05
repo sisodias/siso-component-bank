@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "chat-text-input",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Text input for real-time chat messaging interfaces",
+    "Search input with styled focus states for chat applications",
+    "File upload input for sharing attachments in conversations",
+    "General-purpose text input with accessible focus rings",
+    "Form input with shadow effects and placeholder styling"
+  ],
+  "ai_summary": "A minimal chat box input component built with React and Tailwind CSS. Features a clean, modern aesthetic with focus ring animations, shadow depth effects, and support for multiple input types including search and file uploads. Designed for integration into chat interfaces, messaging platforms, or any application requiring styled text input with accessibility considerations.",
+  "_classifiedAt": "2026-04-23T17:19:11.125Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

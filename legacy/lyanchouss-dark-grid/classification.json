@@ -1,0 +1,32 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "dark-themed card system",
+  "visual_style": [
+    "dark",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying structured content in dark-themed interfaces and dashboards",
+    "Creating consistent card layouts with headers, titles, and descriptions",
+    "Building card-based UI layouts for various content types",
+    "Serving as a foundational component for more complex card compositions"
+  ],
+  "ai_summary": "A dark-themed card component system featuring multiple sub-components (Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter) designed for creating structured content containers in dark mode interfaces. Built with React forward refs and Tailwind utility classes, it provides a clean, flat visual style suitable for SaaS dashboards, fintech applications, and developer tools.",
+  "_classifiedAt": "2026-04-22T09:04:46.597Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Triggers actions or events when clicked by users",
+    "Submits forms or confirms user decisions in workflows",
+    "Navigates users between pages or sections within an application",
+    "Toggles states like opening/closing panels or modals",
+    "Provides accessible interactive controls with keyboard navigation support"
+  ],
+  "ai_summary": "A flexible button component with multiple visual variants (default, destructive, outline, secondary, ghost, link) and size options (default, small, large, icon). Built with class-variance-authority for scalable variant management and Radix UI's Slot for composition flexibility. Features standard accessibility attributes including focus-visible rings and disabled states. Standard flat Tailwind styling suitable as a foundational UI element in any application.",
+  "_classifiedAt": "2026-04-23T17:42:05.530Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

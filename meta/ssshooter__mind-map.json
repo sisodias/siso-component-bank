@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ssshooter/components/mind-map",
+  "author": "ssshooter",
+  "slug": "mind-map",
+  "name": "mind-map",
+  "description": "Beautiful mind map components based on Mind Elixir. One command to install, zero config to start. Styled with Tailwind, works seamlessly with shadcn/ui.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ssshooter/mind-map?api_key=$API_KEY_21ST\"",
+  "id": "ssshooter__mind-map",
+  "bundleUrl": "https://cdn.21st.dev/ssshooter/mind-map/default/bundle.1769588157076.html",
+  "previewUrl": "https://cdn.21st.dev/ssshooter/mind-map/default/preview.1769588157076.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

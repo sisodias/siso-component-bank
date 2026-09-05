@@ -1,0 +1,33 @@
+{
+  "id": "dhileepkumargm__spiral-shader",
+  "author": "dhileepkumargm",
+  "slug": "spiral-shader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dhileepkumargm/components/spiral-shader",
+  "fetchedAt": "2026-08-29T04:33:23.425Z",
+  "completedAt": "2026-08-29T04:33:26.838Z",
+  "versionedFilename": "code.1785267358301-ec63eab7-22b7-4649-8eb3-10840cb3127d.tsx",
+  "codeReference": "r2://components-code-private/dhileepkumargm/spiral-shader/code.1785267358301-ec63eab7-22b7-4649-8eb3-10840cb3127d.tsx",
+  "codeUrl": "https://cdn.21st.dev/dhileepkumargm/spiral-shader/code.1785267358301-ec63eab7-22b7-4649-8eb3-10840cb3127d.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/dhileepkumargm__spiral-shader/code.tsx",
+    "bytes": 5218,
+    "sha256": "7052d79c704c067a5cbe98bf4d4dc7ef4212e4bd5670b50bfd603f5fbd6f32c9",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

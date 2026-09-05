@@ -1,0 +1,30 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "json-config-viewer-with-tabs",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying JSON configuration snippets for package manager setup",
+    "Showing installation instructions with syntax highlighting for MCP server configuration",
+    "Providing copyable code examples in documentation or onboarding flows",
+    "Tabbed interface for displaying multiple configuration variants"
+  ],
+  "ai_summary": "A syntax-highlighted JSON configuration viewer with tabbed interface for displaying installation instructions across different package managers. Features one-click copy functionality with visual feedback and regex-based syntax highlighting for keys, strings, numbers, and boolean values. Designed for developer documentation and onboarding flows where users need to quickly copy configuration snippets.",
+  "_classifiedAt": "2026-04-23T01:52:16.293Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

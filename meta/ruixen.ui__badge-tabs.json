@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/badge-tabs",
+  "author": "ruixen.ui",
+  "slug": "badge-tabs",
+  "name": "badge-tabs",
+  "description": "The Badge Tabs component is a dynamic, interactive tab system that displays badges alongside each tab label, making it ideal for real-time dashboards, notifications, or admin panels. Each tab can show a number or alert, and badges can animate as they change, providing a clear visual cue of updates. Selecting a tab highlights it distinctly, while inactive tabs remain subdued, ensuring users always know which tab is active. The component supports rich content for each tab, allowing for detailed displays such as messages, tasks, or alerts, all within a compact and visually engaging interface.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/badge-tabs?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__badge-tabs",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/badge-tabs/default/bundle.1758466150268.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/badge-tabs/default/preview.1758466150268.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 21,
+  "demo_id": 7885,
+  "video_url": "https://cdn.21st.dev/user_2y5Wd5l713ZIFYjX19aZXSyXd6b/badge-tabs/default/video.1786472122008.mp4"
+}

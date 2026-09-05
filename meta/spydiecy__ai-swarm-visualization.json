@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@spydiecy/components/ai-swarm-visualization",
+  "author": "spydiecy",
+  "slug": "ai-swarm-visualization",
+  "name": "ai-swarm-visualization",
+  "description": "An interactive particle system that visualizes AI behavior with three distinct simulation modes: neural network connections, swarm intelligence, and data clustering. Features adjustable parameters, theme switching, and real-time visualization.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/spydiecy/ai-swarm-visualization?api_key=$API_KEY_21ST\"",
+  "id": "spydiecy__ai-swarm-visualization",
+  "bundleUrl": "https://cdn.21st.dev/spydiecy/ai-swarm-visualization/default/bundle.1785450072542-d168db31-1f41-4182-a9f0-625c7fbb65f4.html",
+  "previewUrl": "https://cdn.21st.dev/spydiecy/ai-swarm-visualization/default/preview.1785450072542-d168db31-1f41-4182-a9f0-625c7fbb65f4.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

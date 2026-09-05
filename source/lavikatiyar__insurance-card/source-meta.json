@@ -1,0 +1,26 @@
+{
+  "id": "lavikatiyar__insurance-card",
+  "author": "lavikatiyar",
+  "slug": "insurance-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@lavikatiyar/components/insurance-card",
+  "fetchedAt": "2026-08-29T05:25:16.304Z",
+  "completedAt": "2026-08-29T05:25:18.570Z",
+  "versionedFilename": "code.1760523631287.tsx",
+  "codeReference": "r2://components-code-private/lavikatiyar/insurance-card/code.1760523631287.tsx",
+  "codeUrl": "https://cdn.21st.dev/lavikatiyar/insurance-card/code.1760523631287.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4183,
+  "sha256": "019897fec4b718e23628b2a8adf6f344ed1cd485487ac717dfc53490a8ab39dd",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

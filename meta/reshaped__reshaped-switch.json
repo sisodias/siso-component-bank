@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@reshaped/components/reshaped-switch",
+  "author": "reshaped",
+  "slug": "reshaped-switch",
+  "name": "reshaped-switch",
+  "description": "Toggle form field that takes a name and an optional children label, with an onChange handler. Supports a reversed label position, three sizes, controlled and uncontrolled modes via checked/defaultChecked, and a disabled state.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/reshaped/reshaped-switch?api_key=$API_KEY_21ST\"",
+  "id": "reshaped__reshaped-switch",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/reshaped-switch/default/bundle.1783520818311.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/reshaped-switch/default/preview.1783520818311.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "category": "media",
+  "subcategory": "user-avatar",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display user profile pictures in navigation headers and user menus",
+    "Show author or commenter avatars in content feeds and discussion sections",
+    "Render team member profile photos in organizational charts",
+    "Display user avatars in dashboard cards and analytics interfaces",
+    "Show placeholder avatars when user images fail to load"
+  ],
+  "ai_summary": "A minimalist avatar component built on Radix UI primitives that displays user profile pictures with automatic fallback support. Includes Avatar root container, AvatarImage for the photo, and AvatarFallback for placeholder text when images fail to load. Uses Tailwind for styling with circular rounded corners and muted background fallback. Fully composable and ready for use in any SaaS or content platform requiring user representation.",
+  "_classifiedAt": "2026-04-22T09:14:57.015Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

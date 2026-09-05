@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/gradient-reveal-text",
+  "author": "ruixen.ui",
+  "slug": "gradient-reveal-text",
+  "name": "gradient-reveal-text",
+  "description": "GradientRevealText is an interactive and visually appealing text component designed for modern web interfaces. It allows text to be highlighted with a smooth gradient reveal in multiple directions—left-to-right, right-to-left, top-to-bottom, or bottom-to-top. The component supports hover, in-view, or automatic triggers, and developers can customize the gradient, transition duration, delay, and rounded edges. Importantly, when the gradient is applied, the text color automatically changes to white, ensuring high contrast and readability, while reverting to black when inactive. Lightweight, flexible, and reusable, GradientRevealText is ideal for headings, hero sections, buttons, and any UI element that needs an attention-grabbing, dynamic effect.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/gradient-reveal-text?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__gradient-reveal-text",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/gradient-reveal-text/default/bundle.1758919920747.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/gradient-reveal-text/default/preview.1758919920747.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 4,
+  "demo_id": 8196,
+  "video_url": "https://cdn.21st.dev/ruixen.ui/gradient-reveal-text/default/video.1758919920747.mp4"
+}

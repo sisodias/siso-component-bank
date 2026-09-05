@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "password-strength-validator",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "User registration with real-time password strength validation",
+    "Account settings password change with visual feedback",
+    "Login forms with show/hide password toggle",
+    "Password reset flows with requirement validation",
+    "Secure onboarding flows for SaaS applications"
+  ],
+  "ai_summary": "A sophisticated password input component with real-time strength validation, featuring a 5-level color-coded strength indicator, requirement checklist showing met/unmet criteria, and a toggle visibility button. Built with React hooks for state management and optimized with useMemo for performance. Clean, accessible form design suitable for authentication flows across SaaS, fintech, and e-commerce platforms.",
+  "_classifiedAt": "2026-04-23T17:38:16.850Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,29 @@
+{
+  "category": "navigation",
+  "subcategory": "segmented-control theme-switcher",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Toggle between light and dark mode in application interfaces",
+    "Switch language or regional settings in multilingual apps",
+    "Navigate between different view modes or filters",
+    "Control application settings through a segmented control group",
+    "Theme selection in customizable UI dashboards"
+  ],
+  "ai_summary": "A segmented control component styled with glass-morphism featuring light/dark mode toggle buttons with a settings option. Uses backdrop blur, semi-transparent backgrounds, and smooth hover scale transitions for a modern, polished appearance. Commonly used as a theme switcher in UI component libraries, providing users with quick access to toggle between appearance modes.",
+  "_classifiedAt": "2026-04-23T17:17:41.780Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

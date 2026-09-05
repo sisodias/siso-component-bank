@@ -1,0 +1,26 @@
+{
+  "id": "animbits__text-svg-text-draw",
+  "author": "animbits",
+  "slug": "text-svg-text-draw",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@animbits/components/text-svg-text-draw",
+  "fetchedAt": "2026-08-29T03:34:19.893Z",
+  "completedAt": "2026-08-29T03:34:23.388Z",
+  "versionedFilename": "code.1783718759011.tsx",
+  "codeReference": "r2://components-code-private/animbits/text-svg-text-draw/code.1783718759011.tsx",
+  "codeUrl": "https://cdn.21st.dev/animbits/text-svg-text-draw/code.1783718759011.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4327,
+  "sha256": "b6b5333a9de33ceb96d7ebabfb007b7b5bb203b8177e0254dc6d3458d12fd0cc",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

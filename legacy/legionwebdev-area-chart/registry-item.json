@@ -1,0 +1,49 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "legionwebdev-area-chart",
+  "type": "registry:ui",
+  "title": "Legionwebdev Area Chart",
+  "description": "Installed from https://21st.dev/r/LegionWebDev/area-chart",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "legionwebdev-area-chart"
+  ],
+  "files": [
+    {
+      "path": "area-chart.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "badge.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "card.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "class-variance-authority",
+    "recharts"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/LegionWebDev/area-chart",
+    "fetchedAt": "2026-04-23T02:30:10.706Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "action-button",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in forms and landing pages",
+    "Destructive action triggers with visual warning styling",
+    "Secondary navigation actions with subtle outline styling",
+    "Icon-only buttons for compact toolbar interfaces",
+    "Ghost-style buttons for less prominent actions"
+  ],
+  "ai_summary": "A flexible button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes for triggering actions across any interface. Built with Radix UI Slot for composition, class-variance-authority for variant management, and standard Tailwind focus/hover/disabled states. Fully accessible with ring focus indicators.",
+  "_classifiedAt": "2026-04-23T17:20:31.626Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

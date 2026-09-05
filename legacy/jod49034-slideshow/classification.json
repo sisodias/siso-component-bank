@@ -1,0 +1,29 @@
+{
+  "category": "media",
+  "subcategory": "image-carousel",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying a rotating sequence of images with text overlays for hero sections",
+    "Creating an immersive gallery experience for photography or artwork portfolios",
+    "Building a product showcase carousel for e-commerce landing pages",
+    "Implementing a brand story presentation for marketing campaigns",
+    "Adding visual storytelling to agency or creative portfolio websites"
+  ],
+  "ai_summary": "A minimalist image slideshow component that cycles through background images with overlaid text. Features left/right navigation buttons and a slide counter. The component uses a simple state-based approach to toggle active slides, making it lightweight and performant for showcasing visual content in hero sections or gallery displays.",
+  "_classifiedAt": "2026-04-23T01:41:07.902Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

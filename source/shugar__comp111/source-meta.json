@@ -1,0 +1,26 @@
+{
+  "id": "shugar__comp111",
+  "author": "shugar",
+  "slug": "comp111",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/comp111",
+  "fetchedAt": "2026-08-29T07:19:03.953Z",
+  "completedAt": "2026-08-29T07:19:06.132Z",
+  "versionedFilename": "code.1747920686760.tsx",
+  "codeReference": "r2://components-code-private/shugar/comp111/code.1747920686760.tsx",
+  "codeUrl": "https://cdn.21st.dev/shugar/comp111/code.1747920686760.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 570,
+  "sha256": "b1a37c97bc3847ad457aa2843f77f9eb7a0071b69c167285bfdf137d40a56d59",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

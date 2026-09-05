@@ -1,0 +1,26 @@
+{
+  "category": "feedback",
+  "subcategory": "numeric-counter",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "A simple counter component for displaying and adjusting numeric values",
+    "Basic increment/decrement functionality for forms or settings panels",
+    "Foundation component for building more complex stepper or quantity selector UI",
+    "Educational example for React state management with useState hook",
+    "Placeholder component for prototyping interface layouts and interactions"
+  ],
+  "ai_summary": "A minimalist numeric counter component featuring increment and decrement buttons with React state management. Displays a count value centered within a flex container, styled with Tailwind CSS. Serves as a fundamental interactive element for building quantity selectors, steppers, or any interface requiring numerical input controls.",
+  "_classifiedAt": "2026-04-22T09:07:51.123Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

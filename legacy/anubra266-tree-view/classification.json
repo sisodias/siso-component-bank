@@ -1,0 +1,31 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "hierarchical-tree",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display hierarchical file/folder structures like code editors and file explorers",
+    "Navigate nested configuration or settings trees",
+    "Show organizational hierarchies or category trees",
+    "Browse directory structures in documentation or admin panels",
+    "Present nested data in dashboards or admin interfaces"
+  ],
+  "ai_summary": "A tree view component for displaying hierarchical data structures using Ark UI. Renders nested nodes with expand/collapse functionality, styled with Tailwind CSS for a clean minimalist look. Supports file/folder visualization with icons and smooth state transitions.",
+  "_classifiedAt": "2026-04-23T01:36:17.504Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

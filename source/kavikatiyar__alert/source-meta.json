@@ -1,0 +1,26 @@
+{
+  "id": "kavikatiyar__alert",
+  "author": "kavikatiyar",
+  "slug": "alert",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@kavikatiyar/components/alert",
+  "fetchedAt": "2026-08-29T05:14:17.352Z",
+  "completedAt": "2026-08-29T05:14:19.452Z",
+  "versionedFilename": "code.1758822076095.tsx",
+  "codeReference": "r2://components-code-private/kavikatiyar/alert/code.1758822076095.tsx",
+  "codeUrl": "https://cdn.21st.dev/kavikatiyar/alert/code.1758822076095.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3847,
+  "sha256": "65d0bd3f63316cc0a69ed88b6994c7b28af7dc5db3bb62f9e61f75b7b7cd0a36",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

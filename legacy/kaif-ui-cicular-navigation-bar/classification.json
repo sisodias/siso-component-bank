@@ -1,0 +1,42 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Form submission triggers with multiple visual variants",
+    "Navigation CTAs with outlined or filled button styles",
+    "Icon-only buttons for compact toolbar interfaces",
+    "Destructive action buttons with red accent styling",
+    "Ghost-style buttons for secondary actions in overlays"
+  ],
+  "ai_summary": "A versatile atomic button component built on Radix UI primitives with CVA-based variant system. Features 6 visual variants (default, destructive, outline, secondary, ghost, link) and 4 sizes including an icon-only option. Supports keyboard navigation with focus-visible ring styling and composable asChild pattern via Radix Slot for rendering as other elements.",
+  "_classifiedAt": "2026-04-23T16:48:04.919Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

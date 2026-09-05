@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/sidebar-showcase",
+  "author": "ruixen.ui",
+  "slug": "sidebar-showcase",
+  "name": "sidebar-showcase",
+  "description": "This custom sidebar component is a fully responsive, interactive navigation panel built using ShadCN UI, Framer Motion, and React. It features a team switcher at the top, allowing users to quickly toggle between different teams using a dropdown menu. The sidebar is divided into categories such as “Main” and “Work,” where each category contains individual navigation items. The Work category supports collapsible sub-labels with smooth animations for nested items, while some items can remain as single links without dropdowns. Each navigation item can display a status badge (like “New,” “Updated,” or “Coming Soon”) to indicate priority or updates. At the bottom, the sidebar includes a user profile dropdown with options for profile management, settings, billing, and logout, fully leveraging ShadCN UI’s DropdownMenu. The component combines clean typography, muted default text, hover effects, and smooth motion animations, offering a polished and professional navigation experience suitable for modern web applications.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/sidebar-showcase?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__sidebar-showcase",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/sidebar-showcase/default/bundle.1759034753111.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/sidebar-showcase/default/preview.1759034753110.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 84,
+  "demo_id": 8252,
+  "video_url": null
+}

@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "feature-showcase",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Showcasing product features on SaaS landing pages with animated entrance effects",
+    "Highlighting key service benefits in feature sections with staggered icon and text animations",
+    "Displaying pricing plan capabilities with visual hierarchy and spring animations",
+    "Presenting product capabilities in hero sections with motion-enhanced typography",
+    "Creating feature lists with mixed content support for landing pages"
+  ],
+  "ai_summary": "A React feature showcase component built with Framer Motion that displays icon, title, and feature list with staggered spring animations. Uses Tailwind CSS for minimalist flat styling with responsive flexbox layout. Designed for landing pages and product sections to highlight capabilities with motion-enhanced visual hierarchy. Supports custom icon, title, features array with React nodes, and optional footer content.",
+  "_classifiedAt": "2026-04-22T09:09:31.349Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

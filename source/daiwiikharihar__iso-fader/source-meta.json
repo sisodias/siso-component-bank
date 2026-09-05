@@ -1,0 +1,26 @@
+{
+  "id": "daiwiikharihar__iso-fader",
+  "author": "daiwiikharihar",
+  "slug": "iso-fader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@daiwiikharihar/components/iso-fader",
+  "fetchedAt": "2026-08-29T04:05:46.243Z",
+  "completedAt": "2026-08-29T04:05:48.683Z",
+  "versionedFilename": "code.1767856863336.tsx",
+  "codeReference": "r2://components-code-private/daiwiikharihar17147/iso-fader/code.1767856863336.tsx",
+  "codeUrl": "https://cdn.21st.dev/daiwiikharihar17147/iso-fader/code.1767856863336.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5949,
+  "sha256": "c4eb58bc3c9e8cb41bba0572348ead17b35948a65a8d2f73b5bb4941a2b237fe",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

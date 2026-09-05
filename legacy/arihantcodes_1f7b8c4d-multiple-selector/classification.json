@@ -1,0 +1,30 @@
+{
+  "category": "form",
+  "subcategory": "multi-select",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting multiple tags or categories in a content management system",
+    "Filtering data by multiple criteria in dashboards",
+    "Assigning multiple users or values in a form field",
+    "Choosing multiple options from a dropdown in settings",
+    "Building multi-select input for e-commerce product attributes"
+  ],
+  "ai_summary": "A multiple selector component that allows users to select multiple items from a list, displaying chosen values as dismissible badges or tags. Includes keyboard navigation support and hover states for enhanced interactivity. Part of a shadcn-style component system with customizable badge variants.",
+  "_classifiedAt": "2026-04-23T01:36:25.746Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

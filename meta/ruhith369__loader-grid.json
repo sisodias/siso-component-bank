@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruhith369/components/loader-grid",
+  "author": "ruhith369",
+  "slug": "loader-grid",
+  "name": "loader-grid",
+  "description": "The LoaderGrid component is a lightweight, colorful loading animation built with React, TypeScript, and Tailwind CSS. It uses two absolutely positioned elements that animate their box-shadow and size to create a dynamic, rotating motion. The component starts as a small square rotated by 165 degrees, with each pseudo-element expanding and contracting while shifting the positions of its glowing colored shadows. This effect produces an eye-catching illusion of spinning lights moving around a center point. The loader is small and reusable, making it perfect for modern web applications that need a stylish yet minimal loading indicator without relying on external libraries or heavy assets.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruhith369/loader-grid?api_key=$API_KEY_21ST\"",
+  "id": "ruhith369__loader-grid",
+  "bundleUrl": "https://cdn.21st.dev/ruhith369/loader-grid/default/bundle.1759287764647.html",
+  "previewUrl": "https://cdn.21st.dev/ruhith369/loader-grid/default/preview.1759287764646.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 27,
+  "demo_id": 8356,
+  "video_url": "https://cdn.21st.dev/ruhith369/loader-grid/default/video.1759287764646.mp4"
+}

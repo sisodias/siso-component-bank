@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@corr/components/scroll-blur",
+  "author": "corr",
+  "slug": "scroll-blur",
+  "name": "scroll-blur",
+  "description": "A scrollable container that fades content into blurred gradient edges on the top, bottom, left, and right, with optional scroll-snap item helpers.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/corr/scroll-blur?api_key=$API_KEY_21ST\"",
+  "id": "corr__scroll-blur",
+  "bundleUrl": "https://cdn.21st.dev/corr/scroll-blur/default/bundle.1783712768907.html",
+  "previewUrl": "https://cdn.21st.dev/corr/scroll-blur/default/preview.1783712768907.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

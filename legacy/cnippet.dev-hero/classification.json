@@ -1,0 +1,31 @@
+{
+  "category": [
+    "hero"
+  ],
+  "subcategory": "interactive-counter-hero",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Landing page hero section with interactive counter demonstration",
+    "Simple increment/decrement UI element for product pages",
+    "Basic interactive component for showcasing React state management"
+  ],
+  "ai_summary": "A minimalist hero section component featuring an interactive counter with increment and decrement buttons. Built with React hooks for state management, this atomic component demonstrates basic click interactions suitable for landing pages and product showcases in SaaS applications.",
+  "_classifiedAt": "2026-04-22T08:54:06.369Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

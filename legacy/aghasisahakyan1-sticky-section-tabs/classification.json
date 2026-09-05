@@ -1,0 +1,32 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "sticky-section-tabs",
+  "visual_style": [
+    "dark",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Tab-based navigation for documentation or product feature pages",
+    "Sticky section headers that remain visible during scroll for better UX",
+    "Content organization with tabbed navigation for long-form pages",
+    "Multi-section layouts with persistent navigation anchors"
+  ],
+  "ai_summary": "A sticky navigation component with tabbed sections that stays fixed at the top during scroll. Features a dark theme with black background and white text, responsive design with Tailwind CSS breakpoints, and customizable styling through className props. Designed for content-heavy pages requiring persistent navigation like documentation, product pages, or category-based content organization.",
+  "_classifiedAt": "2026-04-23T11:29:13.164Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

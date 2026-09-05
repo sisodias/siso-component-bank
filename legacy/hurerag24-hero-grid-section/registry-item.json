@@ -1,0 +1,47 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "hurerag24-hero-grid-section",
+  "type": "registry:ui",
+  "title": "Hurerag24 Hero Grid Section",
+  "description": "Installed from https://21st.dev/r/hurerag24/hero-grid-section",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "hurerag24-hero-grid-section"
+  ],
+  "files": [
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "hero-grid-section.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-slot",
+    "class-variance-authority"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "imports unresolvable path (@/lib/utils.ts)"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/hurerag24/hero-grid-section",
+    "fetchedAt": "2026-04-22T06:42:07.981Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

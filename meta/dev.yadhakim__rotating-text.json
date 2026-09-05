@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@dev.yadhakim/components/rotating-text",
+  "author": "dev.yadhakim",
+  "slug": "rotating-text",
+  "name": "rotating-text",
+  "description": "Animated word rotator for hero headings — cycles through an array of words with 5 built-in animation modes: slide, fade, blur, flip, and drop. Inline-friendly — drop it inside any heading. Auto-sizes to the widest word to prevent layout shift. Configurable interval and animation style.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/dev.yadhakim/rotating-text?api_key=$API_KEY_21ST\"",
+  "id": "dev.yadhakim__rotating-text",
+  "bundleUrl": "https://cdn.21st.dev/dev.yadhakim/rotating-text/default/bundle.1771959402610.html",
+  "previewUrl": "https://cdn.21st.dev/dev.yadhakim/rotating-text/default/preview.1771959402609.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

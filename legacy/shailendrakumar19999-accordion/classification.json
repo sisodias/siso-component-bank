@@ -1,0 +1,27 @@
+{
+  "category": "navigation",
+  "subcategory": "collapsible-accordion",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display FAQ sections with expandable answers on documentation or support pages",
+    "Organize product feature comparisons in a space-efficient vertical layout",
+    "Create sectioned navigation menus for settings or configuration dashboards",
+    "Build knowledge base interfaces with categorized content sections",
+    "Implement step-by-step wizards or guided workflows with collapsible steps"
+  ],
+  "ai_summary": "A clean accordion component built with @ark-ui/react and animated with framer-motion, featuring smooth expand/collapse transitions with a rotating chevron indicator. The component uses AnimatePresence and motion for height/opacity animations, with subtle hover states on triggers. Suitable for FAQ sections, documentation navigation, and any UI requiring collapsible content organization.",
+  "_classifiedAt": "2026-04-23T01:52:43.193Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

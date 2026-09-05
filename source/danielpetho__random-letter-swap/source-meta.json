@@ -1,0 +1,33 @@
+{
+  "id": "danielpetho__random-letter-swap",
+  "author": "danielpetho",
+  "slug": "random-letter-swap",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@danielpetho/components/random-letter-swap",
+  "fetchedAt": "2026-08-29T04:07:57.161Z",
+  "completedAt": "2026-08-29T04:07:58.048Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/danielpetho__random-letter-swap/code.tsx",
+    "bytes": 5562,
+    "sha256": "5bc5c4f50aa3e4b1b3f9b6bf9c34e0d82c44d3cbf60090eb54401ee2b183ea89",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

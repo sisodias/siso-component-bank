@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "2D Directional Pad / Joystick Control",
+  "visual_style": [
+    "glass-morphism",
+    "dark",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "drag"
+  ],
+  "best_for_industries": [
+    "creator-tools",
+    "dev-tools",
+    "media",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "2D directional input control for creative software like drawing or design applications",
+    "Simulated game controller joystick for web-based gaming interfaces",
+    "Touch-based panning control for video editing timelines or image viewers",
+    "Audio panning or spatial positioning control in media production tools",
+    "Abstract navigation control for experimental UI interactions"
+  ],
+  "ai_summary": "VectorPad is a physics-based 2D directional input control with a glassmorphic dark theme. It uses framer-motion spring physics to create a fluid, responsive joystick-like experience with smooth crosshair movement, velocity-based tilt effects, and real-time X/Y coordinate readouts. Designed for creative tools, game dev, and media applications where intuitive 2D input is needed.",
+  "_classifiedAt": "2026-04-22T08:55:39.066Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,31 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "credit-card-with-flip-animation",
+  "visual_style": [
+    "3d",
+    "glass-morphism"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display credit/debit card information with CVV reveal in payment forms",
+    "Virtual card preview in banking and fintech applications",
+    "Payment method selector in e-commerce checkout flows",
+    "Showcase payment cards in digital wallet interfaces",
+    "Interactive card gallery in fintech dashboards"
+  ],
+  "ai_summary": "A 3D flippable credit card component featuring smooth hover-triggered rotation animation that reveals the card back with CVV details. Built with CSS perspective and 3D transforms for a realistic card flip experience. Uses Tailwind color variables and includes chip SVG graphics, commonly used in payment forms, fintech dashboards, and e-commerce checkout flows.",
+  "_classifiedAt": "2026-04-23T17:11:17.366Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

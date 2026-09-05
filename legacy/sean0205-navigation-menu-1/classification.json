@@ -1,0 +1,38 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "horizontal-dropdown-menu",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Primary website navigation with dropdown menus for categories or sections",
+    "Application header navigation with hover-activated submenus",
+    "E-commerce site navigation with product category dropdowns",
+    "Dashboard or SaaS application top-level navigation",
+    "Documentation or help center navigation with expandable sections"
+  ],
+  "ai_summary": "A composite navigation menu component built on Base UI primitives with horizontal layout and dropdown functionality. Features hover-activated submenus, keyboard navigation support, and focus-visible accessibility states. Clean, minimalist styling with smooth transitions suitable for modern web applications across various industries.",
+  "_classifiedAt": "2026-04-22T09:14:08.682Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

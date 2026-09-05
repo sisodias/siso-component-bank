@@ -1,0 +1,34 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "command-palette",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "system"
+  ],
+  "use_cases": [
+    "Quickly search and navigate to any page or section within a SaaS application",
+    "Execute actions or commands without leaving the current context",
+    "Provide keyboard-first shortcuts for power users to access app functionality",
+    "Aggregate multiple data sources into a unified search interface",
+    "Track and display recently used items for faster access on return visits"
+  ],
+  "ai_summary": "A full-featured command palette overlay component that provides universal search and action execution across multiple configurable data sources. Supports keyboard navigation with custom shortcuts, recent items tracking, pinned favorites, async data fetching with debouncing, and extensible render overrides. Designed for power-user workflows in any web application.",
+  "_classifiedAt": "2026-04-23T16:53:23.336Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

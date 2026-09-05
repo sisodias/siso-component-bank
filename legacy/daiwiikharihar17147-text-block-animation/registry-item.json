@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "daiwiikharihar17147-text-block-animation",
+  "type": "registry:ui",
+  "title": "Daiwiikharihar17147 Text Block Animation",
+  "description": "Installed from https://21st.dev/r/daiwiikharihar17147/text-block-animation",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "daiwiikharihar17147-text-block-animation"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "text-block-animation.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@gsap/react",
+    "gsap"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/daiwiikharihar17147/text-block-animation",
+    "fetchedAt": "2026-04-22T06:32:21.352Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

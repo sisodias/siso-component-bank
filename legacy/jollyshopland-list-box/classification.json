@@ -1,0 +1,27 @@
+{
+  "category": "input",
+  "subcategory": "selection-list",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting items from a searchable list in forms, settings, and configuration pages",
+    "Navigation menus and category browsing in e-commerce interfaces",
+    "User role or permission selection in admin dashboards",
+    "Filtering and sorting data views in SaaS applications",
+    "Multi-select or single-select interfaces in content management systems"
+  ],
+  "ai_summary": "A lightweight, accessible list box component built on react-aria-components with native keyboard navigation support. Features sections, collections, and selection states for creating dropdown or inline selection interfaces with standard checkmark indicators for selected items.",
+  "_classifiedAt": "2026-04-22T09:01:32.650Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

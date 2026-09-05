@@ -1,0 +1,29 @@
+{
+  "category": "navigation",
+  "subcategory": "breadcrumb-trail",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "education",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying user location within site hierarchy for improved orientation",
+    "Showing product category paths in e-commerce product listings",
+    "Revealing documentation or help center article navigation trails",
+    "Indicating file or folder paths in file management interfaces",
+    "Guiding users through multi-step forms or checkout flows"
+  ],
+  "ai_summary": "A composable breadcrumb navigation system providing atomic components for building hierarchical navigation trails. Features separate primitives for list, items, links, current page indication, separators with icons, and ellipsis for collapsed paths. Clean minimal styling with muted colors and hover states for link interactions.",
+  "_classifiedAt": "2026-04-22T08:54:11.532Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

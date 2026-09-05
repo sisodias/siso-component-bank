@@ -1,0 +1,29 @@
+{
+  "category": "card",
+  "subcategory": "profile-selector",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Streaming platform user switching interface similar to Netflix",
+    "Multi-user application profile/account selection",
+    "Family-friendly content filtering with individual profile selection",
+    "Shared device user identification on tablets or smart TVs",
+    "Dashboard access control for multi-tenant applications"
+  ],
+  "ai_summary": "A responsive profile selector component featuring a grid layout of user avatars with hover lift animations and smooth transitions. Designed for streaming platforms and multi-user applications, it supports both image URLs and React components for profile icons with full keyboard accessibility and focus states.",
+  "_classifiedAt": "2026-04-22T09:10:28.209Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

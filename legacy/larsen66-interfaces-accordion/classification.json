@@ -1,0 +1,33 @@
+{
+  "category": "input",
+  "subcategory": "collapsible-sections",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "FAQ sections on product or help pages",
+    "Organizing settings or configuration options",
+    "Collapsible content panels for dashboards",
+    "Navigation menus with nested categories",
+    "Step-by-step wizards or guided flows"
+  ],
+  "ai_summary": "A clean, accessible accordion component built on Radix UI primitives with smooth open/close animations. Features a card-style container with rounded borders, chevron rotation on state change, and proper focus/hover/disabled states. Uses Tailwind CSS for styling and Lucide icons, making it ideal for FAQ sections, settings panels, or collapsible content organization in SaaS and e-commerce applications.",
+  "_classifiedAt": "2026-04-22T09:03:56.523Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

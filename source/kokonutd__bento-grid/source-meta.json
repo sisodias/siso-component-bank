@@ -1,0 +1,33 @@
+{
+  "id": "kokonutd__bento-grid",
+  "author": "kokonutd",
+  "slug": "bento-grid",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@kokonutd/components/bento-grid",
+  "fetchedAt": "2026-08-29T05:18:04.255Z",
+  "completedAt": "2026-08-29T05:18:05.458Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/kokonutd__bento-grid/code.tsx",
+    "bytes": 6687,
+    "sha256": "5c1ddc66a528b5ebfcdd90f46a577126c37b781ef49faf8f39688788f00361f6",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

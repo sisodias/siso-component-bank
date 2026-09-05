@@ -1,0 +1,26 @@
+{
+  "id": "shugar__command-menu",
+  "author": "shugar",
+  "slug": "command-menu",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/command-menu",
+  "fetchedAt": "2026-08-29T07:19:02.049Z",
+  "completedAt": "2026-08-29T07:19:03.937Z",
+  "versionedFilename": "code.1752154495530.tsx",
+  "codeReference": "r2://components-code-private/shugar/command-menu/code.1752154495530.tsx",
+  "codeUrl": "https://cdn.21st.dev/shugar/command-menu/code.1752154495530.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4770,
+  "sha256": "4dc3082f5aed4bf5c688f0568218c2bcb140e12155a1999c610864b885b3e870",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

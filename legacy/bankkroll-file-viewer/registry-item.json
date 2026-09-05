@@ -1,0 +1,68 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "bankkroll-file-viewer",
+  "type": "registry:ui",
+  "title": "Bankkroll File Viewer",
+  "description": "Installed from https://21st.dev/r/bankkroll/file-viewer",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "bankkroll-file-viewer"
+  ],
+  "files": [
+    {
+      "path": "badge.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "file-viewer.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "resizable.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "scroll-area.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "separator.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-accordion",
+    "@radix-ui/react-scroll-area",
+    "@radix-ui/react-separator",
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "lucide-react",
+    "next-themes",
+    "react-resizable-panels",
+    "sonner"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/bankkroll/file-viewer",
+    "fetchedAt": "2026-04-23T03:03:26.346Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

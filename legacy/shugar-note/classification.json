@@ -1,0 +1,37 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "dark",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action triggers in forms and user interfaces across various application types",
+    "Loading state handling during asynchronous operations like form submissions",
+    "Multi-style button system supporting primary, secondary, tertiary, error, and warning states",
+    "Accessible button interactions with keyboard navigation support and disabled states"
+  ],
+  "ai_summary": "A versatile, dark-themed button component from the shugar design system featuring multiple type variants (primary, secondary, tertiary, error, warning), size options (tiny to large), and shape configurations (square, circle, rounded). Supports loading states with spinner integration, full-width layout, custom prefix/suffix elements, and hover interactions. Built with Tailwind CSS and clsx for className management, designed for desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T17:30:31.580Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

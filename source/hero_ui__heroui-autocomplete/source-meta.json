@@ -1,0 +1,26 @@
+{
+  "id": "hero_ui__heroui-autocomplete",
+  "author": "hero_ui",
+  "slug": "heroui-autocomplete",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@hero_ui/components/heroui-autocomplete",
+  "fetchedAt": "2026-08-29T04:55:56.292Z",
+  "completedAt": "2026-08-29T04:55:58.638Z",
+  "versionedFilename": "code.1782930275159.tsx",
+  "codeReference": "r2://components-code-private/larsen66/heroui-autocomplete/code.1782930275159.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/heroui-autocomplete/code.1782930275159.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 165,
+  "sha256": "432fb7462305a99430835604883cd985e4264266619468c8d787d4c7491747ed",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

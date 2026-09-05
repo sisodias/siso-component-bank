@@ -1,0 +1,40 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar-user-profile-image",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display user profile images in comment sections",
+    "Show author attribution on blog posts",
+    "Represent users in chat and messaging interfaces",
+    "Display team member photos in about pages",
+    "Show speaker or contributor avatars in event pages"
+  ],
+  "ai_summary": "A minimalist Avatar component built on Radix UI primitives for displaying user profile images with automatic fallback support for missing images. Uses Tailwind CSS for styling with a rounded-full design. The component exports Avatar, AvatarImage, and AvatarFallback primitives that can be composed for various user representation needs across any platform.",
+  "_classifiedAt": "2026-04-23T17:42:13.579Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

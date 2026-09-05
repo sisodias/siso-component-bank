@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__safari-01",
+  "author": "ruixen.ui",
+  "slug": "safari-01",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/safari-01",
+  "fetchedAt": "2026-08-29T06:49:29.666Z",
+  "completedAt": "2026-08-29T06:49:31.447Z",
+  "versionedFilename": "code.1752808574820.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/safari-01/code.1752808574820.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/safari-01/code.1752808574820.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1625,
+  "sha256": "30d6b0307d4f1a808e9cab832e87ff64a61ab8e9028a8d0630fb82a65f928d6d",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

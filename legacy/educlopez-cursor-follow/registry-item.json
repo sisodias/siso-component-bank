@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "educlopez-cursor-follow",
+  "type": "registry:ui",
+  "title": "Educlopez Cursor Follow",
+  "description": "Installed from https://21st.dev/r/educlopez/cursor-follow",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "educlopez-cursor-follow"
+  ],
+  "files": [
+    {
+      "path": "cursor-follow.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/educlopez/cursor-follow",
+    "fetchedAt": "2026-04-23T03:02:39.522Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

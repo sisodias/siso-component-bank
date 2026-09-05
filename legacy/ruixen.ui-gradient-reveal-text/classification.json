@@ -1,0 +1,22 @@
+{
+  "category": "input",
+  "subcategory": "button, interactive-element",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action triggers in forms and web applications",
+    "Call-to-action buttons for user conversion flows",
+    "Navigation action triggers linking to other pages or states",
+    "Destructive action buttons for delete or warning operations",
+    "Icon-based action buttons in toolbars and header controls"
+  ],
+  "ai_summary": "A reusable Button component built with class-variance-authority (CVA) providing multiple visual variants including default, destructive, outline, secondary, ghost, and link styles. Features responsive sizing options (default, sm, lg, icon), hover states, focus-visible outlines for accessibility, disabled states, and supports polymorphic rendering via Radix UI Slot for flexible composition in any UI context.",
+  "_classifiedAt": "2026-04-22T09:12:29.248Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

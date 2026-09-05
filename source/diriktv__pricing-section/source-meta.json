@@ -1,0 +1,26 @@
+{
+  "id": "diriktv__pricing-section",
+  "author": "diriktv",
+  "slug": "pricing-section",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@diriktv/components/pricing-section",
+  "fetchedAt": "2026-08-29T04:36:26.349Z",
+  "completedAt": "2026-08-29T04:36:28.503Z",
+  "versionedFilename": "code.1748486179720.tsx",
+  "codeReference": "r2://components-code-private/diriktv/pricing-section/code.1748486179720.tsx",
+  "codeUrl": "https://cdn.21st.dev/diriktv/pricing-section/code.1748486179720.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10573,
+  "sha256": "bf34d02e6ef475ebb284df8d50eadb9b8933b30daff9db1a6714861daca75fed",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

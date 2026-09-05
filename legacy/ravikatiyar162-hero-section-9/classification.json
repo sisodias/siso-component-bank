@@ -1,0 +1,34 @@
+{
+  "category": [
+    "hero"
+  ],
+  "subcategory": "cta-hero",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Landing page hero section with prominent call-to-action buttons for SaaS and product launches",
+    "Marketing pages requiring primary and secondary action buttons for user conversion",
+    "Application entry points with multiple navigation options and CTAs"
+  ],
+  "ai_summary": "A hero section component featuring a centered layout with a bold headline, supporting description text, and dual CTA buttons using Radix UI Slot and CVA for variant management. Designed for landing pages and marketing sites, this component provides a professional, conversion-focused entry point with standard button variants including default, outline, and secondary styles. Ships with full accessibility support via Radix UI primitives.",
+  "_classifiedAt": "2026-04-22T09:09:55.134Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

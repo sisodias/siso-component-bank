@@ -1,0 +1,26 @@
+{
+  "id": "elements-__tool-call",
+  "author": "elements-",
+  "slug": "tool-call",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@elements-/components/tool-call",
+  "fetchedAt": "2026-08-29T04:43:40.031Z",
+  "completedAt": "2026-08-29T04:43:42.221Z",
+  "versionedFilename": "code.1784287390993-d8ef5295-9ec9-4823-9bb8-fb0c183b59e2.tsx",
+  "codeReference": "r2://components-code-private/elements-/tool-call/code.1784287390993-d8ef5295-9ec9-4823-9bb8-fb0c183b59e2.tsx",
+  "codeUrl": "https://cdn.21st.dev/elements-/tool-call/code.1784287390993-d8ef5295-9ec9-4823-9bb8-fb0c183b59e2.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

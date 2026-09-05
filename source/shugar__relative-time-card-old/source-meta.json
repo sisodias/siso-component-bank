@@ -1,0 +1,26 @@
+{
+  "id": "shugar__relative-time-card-old",
+  "author": "shugar",
+  "slug": "relative-time-card-old",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/relative-time-card-old",
+  "fetchedAt": "2026-08-29T07:20:04.129Z",
+  "completedAt": "2026-08-29T07:20:05.641Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null
+}

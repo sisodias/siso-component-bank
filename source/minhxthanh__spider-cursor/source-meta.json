@@ -1,0 +1,26 @@
+{
+  "id": "minhxthanh__spider-cursor",
+  "author": "minhxthanh",
+  "slug": "spider-cursor",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@minhxthanh/components/spider-cursor",
+  "fetchedAt": "2026-08-29T05:45:45.305Z",
+  "completedAt": "2026-08-29T05:45:47.367Z",
+  "versionedFilename": "code.1757432194283.tsx",
+  "codeReference": "r2://components-code-private/minhxthanh/spider-cursor/code.1757432194283.tsx",
+  "codeUrl": "https://cdn.21st.dev/minhxthanh/spider-cursor/code.1757432194283.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4429,
+  "sha256": "0c4d231e5962713a6a11b641dc07fb7a05e3ce6d8a3ac7fdcb0bab69b33ae060",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

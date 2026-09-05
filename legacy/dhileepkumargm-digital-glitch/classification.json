@@ -1,0 +1,25 @@
+{
+  "category": "media",
+  "subcategory": "webgl-shader-glitch-effect",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creating animated glitch effects as landing page backgrounds",
+    "Adding chromatic aberration and scanline aesthetics to creative portfolios",
+    "Building dynamic visual overlays for gaming or music-related websites",
+    "Implementing WebGL shader effects for tech-forward brand experiences",
+    "Designing animated hero backgrounds for media and entertainment sites"
+  ],
+  "ai_summary": "A Three.js WebGL shader component that renders animated digital glitch effects including chromatic aberration (RGB shift), scanlines, and film grain. Features customizable parameters for glitch intensity, RGB separation, scanline density, and base color. Uses GLSL fragment shaders for real-time GPU-accelerated visual effects with continuous time-based animation.",
+  "_classifiedAt": "2026-04-23T01:38:50.103Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

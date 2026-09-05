@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "maxim.bort.devel-fishy-file-drop",
+  "type": "registry:ui",
+  "title": "Maxim.Bort.Devel Fishy File Drop",
+  "description": "Installed from https://21st.dev/r/maxim.bort.devel/fishy-file-drop",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "maxim.bort.devel-fishy-file-drop"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "fishy-file-drop.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/maxim.bort.devel/fishy-file-drop",
+    "fetchedAt": "2026-04-23T03:03:59.643Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

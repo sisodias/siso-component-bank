@@ -1,0 +1,35 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "marquee-text-carousel",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying scrolling text content with automatic horizontal or vertical movement",
+    "Creating testimonial carousels that continuously animate across the screen",
+    "Building news tickers or announcement banners for websites",
+    "Showcasing partner logos or client testimonials in a space-efficient manner",
+    "Displaying scrolling feature highlights or benefit lists"
+  ],
+  "ai_summary": "A lightweight Marquee component that renders child elements in a continuously scrolling container. Supports pause-on-hover functionality through a boolean prop, making it ideal for displaying testimonials, announcements, or logo carousels. Acts as a simple HTML div wrapper with optional pause behavior for common animation patterns.",
+  "_classifiedAt": "2026-04-22T08:54:10.520Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

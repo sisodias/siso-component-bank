@@ -1,0 +1,36 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "navbar",
+  "visual_style": [
+    "dark",
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Responsive application navigation with automatic truncation of long route lists on smaller screens",
+    "Command palette-style search activation via keyboard shortcuts for quick navigation",
+    "Dark-themed interface navigation for modern SaaS and developer tools products",
+    "Mobile hamburger menu navigation for full-screen overlay menus on touch devices",
+    "Scroll-aware navigation bars that change appearance when user scrolls down the page"
+  ],
+  "ai_summary": "A highly customizable dark-themed responsive navigation bar component featuring automatic truncation of navigation items, search functionality with keyboard shortcuts (Cmd/Ctrl+K pattern), mobile hamburger menu with full-screen overlay, and scroll-aware background styling. Supports extensive color customization for all interactive states including hover effects, active states, and mobile menu styling. Designed for SaaS, dev tools, and modern web applications requiring professional navigation with desktop and mobile responsiveness.",
+  "_classifiedAt": "2026-04-23T16:55:21.289Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

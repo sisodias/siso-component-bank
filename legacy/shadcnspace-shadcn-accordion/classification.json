@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "collapsible-sections",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "morph",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "FAQ sections for customer support pages",
+    "Nested navigation menus in documentation sites",
+    "Collapsible settings panels in admin dashboards",
+    "Step-by-step wizards in onboarding flows",
+    "Organizing long-form content into digestible sections"
+  ],
+  "ai_summary": "A lightweight, accessible accordion component built on Radix UI primitives with smooth expand/collapse animations and a rotating chevron indicator. The component features keyboard navigation support and hover states for interactivity. Styled with Tailwind CSS for easy customization, it exports four composable sub-components: Accordion, AccordionItem, AccordionTrigger, and AccordionContent.",
+  "_classifiedAt": "2026-04-22T09:15:24.458Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

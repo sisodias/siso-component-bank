@@ -1,0 +1,26 @@
+{
+  "id": "savasaachimarketingagency__reveal",
+  "author": "savasaachimarketingagency",
+  "slug": "reveal",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@savasaachimarketingagency/components/reveal",
+  "fetchedAt": "2026-08-29T06:56:04.118Z",
+  "completedAt": "2026-08-29T06:56:06.113Z",
+  "versionedFilename": "code.1785193260525-a0f7ea9f-3d93-4ea4-a85b-1671843840ed.tsx",
+  "codeReference": "r2://components-code-private/savasaachimarketingagency/reveal/code.1785193260525-a0f7ea9f-3d93-4ea4-a85b-1671843840ed.tsx",
+  "codeUrl": "https://cdn.21st.dev/savasaachimarketingagency/reveal/code.1785193260525-a0f7ea9f-3d93-4ea4-a85b-1671843840ed.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

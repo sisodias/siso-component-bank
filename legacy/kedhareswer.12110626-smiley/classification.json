@@ -1,0 +1,34 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "animated-smiley-face",
+  "visual_style": [
+    "colorful",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive decorative background for landing pages",
+    "Playful mood indicator or feedback component",
+    "Fun visual element for entertainment or media applications",
+    "Engaging hover-interactive avatar display",
+    "Animated background grid for creative portfolios"
+  ],
+  "ai_summary": "An animated smiley face component that generates a responsive grid of morphing emojis across the viewport. Uses GSAP's MorphSVGPlugin for smooth shape transformations and applies radial gradient color changes on hover, transitioning from neutral yellow tones to expressive red and orange colors. The component dynamically recalculates the grid on window resize for responsive behavior.",
+  "_classifiedAt": "2026-04-23T01:42:05.063Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

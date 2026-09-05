@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@heygaia/components/tool-calls-section",
+  "author": "heygaia",
+  "slug": "tool-calls-section",
+  "name": "tool-calls-section",
+  "description": "An expandable section that shows AI agent tool usage as a collapsible timeline with stacked category icons and per-call inputs and outputs.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/heygaia/tool-calls-section?api_key=$API_KEY_21ST\"",
+  "id": "heygaia__tool-calls-section",
+  "bundleUrl": "https://cdn.21st.dev/heygaia/tool-calls-section/default/bundle.1784355239570-9dfb4cde-306f-4cc5-b38f-120aaba6acc9.html",
+  "previewUrl": "https://cdn.21st.dev/heygaia/tool-calls-section/default/preview.1784355239570-9dfb4cde-306f-4cc5-b38f-120aaba6acc9.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

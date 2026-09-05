@@ -1,0 +1,30 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "nested-accordion",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "education",
+    "media",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display hierarchical FAQ sections with expandable subcategories",
+    "Organize documentation content with nested collapsible sections",
+    "Present company information with categorized, drill-down content",
+    "Create structured product or service catalogs with detailed sub-items",
+    "Build multi-level navigation menus for knowledge bases"
+  ],
+  "ai_summary": "A multi-level accordion component that combines shadcn's Accordion and Collapsible primitives to create nested, expandable content sections. Features categorized items with icons, color-coded backgrounds, and collapsible sub-content. Ideal for organizing hierarchical information like FAQs, documentation, or organizational overviews with clean, accessible expand/collapse behavior.",
+  "_classifiedAt": "2026-04-22T09:14:36.843Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

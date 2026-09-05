@@ -1,0 +1,37 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "shadcn-card-system",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "education",
+    "healthcare",
+    "real-estate",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "system",
+  "use_cases": [
+    "Displaying user profile information with header, title, and content sections",
+    "Building dashboard layouts with consistent card containers",
+    "Creating data-driven interfaces with footer actions like save or cancel",
+    "Organizing content in grid layouts with uniform card styling",
+    "Composing complex UIs by combining card sub-components for headers, titles, descriptions, and content areas"
+  ],
+  "ai_summary": "A Shadcn-style card component system providing reusable Card, CardHeader, CardTitle, CardDescription, CardContent, and CardFooter sub-components. Built with React.forwardRef for proper ref handling and uses Tailwind classes for styling with rounded borders, shadow, and card-specific background colors. This is a foundational UI system designed for building data display interfaces, dashboards, and content containers across various industries and platforms.",
+  "_classifiedAt": "2026-04-23T01:55:00.979Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

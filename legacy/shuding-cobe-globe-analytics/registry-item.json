@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "shuding-cobe-globe-analytics",
+  "type": "registry:ui",
+  "title": "Shuding Cobe Globe Analytics",
+  "description": "Installed from https://21st.dev/r/shuding/cobe-globe-analytics",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "shuding-cobe-globe-analytics"
+  ],
+  "files": [
+    {
+      "path": "cobe-globe-analytics.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "cobe"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/shuding/cobe-globe-analytics",
+    "fetchedAt": "2026-04-22T06:31:48.909Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

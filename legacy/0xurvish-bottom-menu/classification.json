@@ -1,0 +1,35 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "mobile-bottom-nav with expandable submenus",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "mobile",
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Mobile app primary navigation with quick access to nested features like theme switching and content creation options",
+    "Social media or content creation apps needing expandable action menus for posting, screenshots, and voice notes",
+    "Cross-platform applications requiring consistent bottom navigation with contextual submenus"
+  ],
+  "ai_summary": "A mobile-first bottom navigation bar component featuring expandable submenus for different navigation contexts (home, search, notifications, profile, theme). Built with motion/react for smooth expand/collapse animations and react-use-measure for dynamic height calculations. Supports theme switching (light/dark/system), quick actions (Note, Voice, Screenshot), and notification filtering. Clean flat design using Hugeicons for a modern, minimalist aesthetic suitable for mobile applications.",
+  "_classifiedAt": "2026-04-22T08:49:55.475Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

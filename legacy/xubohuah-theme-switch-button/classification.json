@@ -1,0 +1,32 @@
+{
+  "category": "input",
+  "subcategory": "theme-toggle",
+  "visual_style": [],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Toggle between light and dark themes in a web application",
+    "Persist user's theme preference in localStorage",
+    "Respect system color scheme preference on initial load",
+    "Provide smooth animated icon transition between sun and moon states",
+    "Serve as a compact UI control in navigation headers or settings panels"
+  ],
+  "ai_summary": "A compact theme switch toggle button that allows users to switch between light and dark modes with smooth morphing animations. The component persists theme preferences to localStorage, detects system color scheme on mount, and uses CSS transforms with custom easing for polished icon transitions. Designed as an atomic UI element suitable for headers or settings interfaces across any web application.",
+  "_classifiedAt": "2026-04-23T17:44:07.591Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

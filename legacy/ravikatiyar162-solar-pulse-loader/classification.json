@@ -1,0 +1,35 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading-spinner",
+  "visual_style": [
+    "gradient",
+    "3d",
+    "skeuomorphic"
+  ],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Indicates loading state during data fetching or async operations",
+    "Provides visual feedback during page transitions or route changes",
+    "Shows processing status in button or card components",
+    "Displays loading progress in dashboard or analytics interfaces"
+  ],
+  "ai_summary": "A rotating circular loader component featuring a vibrant solar-inspired orange-yellow gradient effect with 3D skeuomorphic styling. The loader uses inset and outer box shadows to create depth, with a continuous 360-degree rotation animation that conveys active processing. Designed as a reusable atomic component for indicating loading states across various application contexts.",
+  "_classifiedAt": "2026-04-23T17:13:28.511Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

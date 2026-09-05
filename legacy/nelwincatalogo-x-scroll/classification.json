@@ -1,0 +1,31 @@
+{
+  "category": [
+    "layout"
+  ],
+  "subcategory": "horizontal-scroll-container",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display horizontally scrollable content in a contained area with native scroll behavior",
+    "Wrap lists of items, cards, or media that need horizontal overflow navigation",
+    "Provide accessible horizontal scrolling with customizable scrollbar styling via Radix UI",
+    "Create scrollable carousels or horizontal galleries with consistent scroll behavior",
+    "Enable side-scrolling navigation for navigation menus or toolbars"
+  ],
+  "ai_summary": "A minimal horizontal scroll area wrapper component built on Radix UI's ScrollArea primitive. It provides a flexible container with horizontal scrollbar functionality for displaying overflow content like lists, cards, or media in a controlled scrolling region. Designed for generic use across any industry requiring horizontal content display.",
+  "_classifiedAt": "2026-04-23T17:03:14.460Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

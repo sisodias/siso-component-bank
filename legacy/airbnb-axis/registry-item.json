@@ -1,0 +1,48 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "airbnb-axis",
+  "type": "registry:ui",
+  "title": "Airbnb Axis",
+  "description": "Installed from https://21st.dev/r/airbnb/axis",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "airbnb-axis"
+  ],
+  "files": [
+    {
+      "path": "axis.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@visx/axis",
+    "@visx/curve",
+    "@visx/gradient",
+    "@visx/grid",
+    "@visx/mock-data",
+    "@visx/react-spring",
+    "@visx/scale",
+    "@visx/shape",
+    "@visx/vendor"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/airbnb/axis",
+    "fetchedAt": "2026-04-23T03:04:41.523Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

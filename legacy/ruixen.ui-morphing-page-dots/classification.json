@@ -1,0 +1,30 @@
+{
+  "category": "navigation",
+  "subcategory": "pagination-indicator",
+  "visual_style": [],
+  "interactions": [
+    "morph",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Indicating current page position in image galleries with smooth morphing transitions between states",
+    "Showing progress through onboarding flows with animated dot indicators",
+    "Providing pagination controls for product carousels and sliders",
+    "Navigating between slides in presentation-style interfaces",
+    "Indicating active sections in documentation or long-form content"
+  ],
+  "ai_summary": "Interactive page dot navigation component with smooth morphing animations when transitioning between active states. Provides visual feedback for multi-step processes, carousel pagination, and slide-based navigation with fluid state transitions.",
+  "_classifiedAt": "2026-04-23T01:50:28.487Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

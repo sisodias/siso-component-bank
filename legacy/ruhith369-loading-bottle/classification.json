@@ -1,0 +1,31 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading-indicator",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display loading state while waiting for data fetch or page transitions",
+    "Indicate progress during async operations in web applications",
+    "Show activity indicator in UI components like buttons, cards, or modals",
+    "Enhance user experience by providing visual feedback during background processes"
+  ],
+  "ai_summary": "A minimalist bottle-shaped loading animation built with SVG stroke-dasharray technique. The component draws a Coca-Cola style bottle outline using animated stroke properties over 8 seconds, creating a smooth reveal effect suitable for loading states. It's a lightweight, scalable solution for indicating async operations or page transitions.",
+  "_classifiedAt": "2026-04-22T09:11:15.120Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "lovesickfromthe6ix__calculator",
+  "author": "lovesickfromthe6ix",
+  "slug": "calculator",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@lovesickfromthe6ix/components/calculator",
+  "fetchedAt": "2026-08-29T05:31:14.441Z",
+  "completedAt": "2026-08-29T05:31:16.982Z",
+  "versionedFilename": "code.1750467486125.tsx",
+  "codeReference": "r2://components-code-private/lovesickfromthe6ix/calculator/code.1750467486125.tsx",
+  "codeUrl": "https://cdn.21st.dev/lovesickfromthe6ix/calculator/code.1750467486125.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10082,
+  "sha256": "1e677a616e220e9ce624192159e673e44e765301dbdd6666b2f684f9ca737de6",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

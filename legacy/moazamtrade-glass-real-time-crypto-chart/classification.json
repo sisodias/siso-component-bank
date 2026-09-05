@@ -1,0 +1,30 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "crypto-financial-chart",
+  "visual_style": [
+    "glass-morphism"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying real-time cryptocurrency prices with live WebSocket updates",
+    "Enabling coin selection for multiple crypto assets (BTC, ETH, SOL, etc.)",
+    "Visualizing price trends with interactive area and line charts",
+    "Providing financial data dashboards for crypto trading platforms",
+    "Monitoring market price movements with color-coded directional indicators"
+  ],
+  "ai_summary": "A real-time cryptocurrency price chart component featuring glass-morphism UI styling with backdrop blur effects. It integrates Coinbase WebSocket for live price updates and supports multiple coins and fiat currencies. The component renders interactive charts using recharts with responsive design, tab-based coin selection, and visual price direction indicators in green/red.",
+  "_classifiedAt": "2026-04-23T01:44:00.343Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

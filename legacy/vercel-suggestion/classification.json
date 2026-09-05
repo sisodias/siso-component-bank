@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "autocomplete-suggestion",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Provides autocomplete suggestions as users type in search or command inputs",
+    "Enables command palette-style quick actions for power users",
+    "Offers contextual suggestions based on partial user input"
+  ],
+  "ai_summary": "A Vercel-styled suggestion component that provides autocomplete functionality with minimal, clean design aesthetics. Supports multiple button variants for triggering suggestions and likely includes keyboard navigation for accessibility. Designed to integrate seamlessly with SaaS and developer tool interfaces.",
+  "_classifiedAt": "2026-04-23T17:42:23.534Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

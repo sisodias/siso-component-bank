@@ -1,0 +1,26 @@
+{
+  "id": "theshanelevine__streaming-text",
+  "author": "theshanelevine",
+  "slug": "streaming-text",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theshanelevine/components/streaming-text",
+  "fetchedAt": "2026-08-29T07:36:05.357Z",
+  "completedAt": "2026-08-29T07:36:07.542Z",
+  "versionedFilename": "code.1785483052316-efbe4f6a-7ce7-43d2-be9b-032d08a251de.tsx",
+  "codeReference": "r2://components-code-private/theshanelevine/streaming-text/code.1785483052316-efbe4f6a-7ce7-43d2-be9b-032d08a251de.tsx",
+  "codeUrl": "https://cdn.21st.dev/theshanelevine/streaming-text/code.1785483052316-efbe4f6a-7ce7-43d2-be9b-032d08a251de.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

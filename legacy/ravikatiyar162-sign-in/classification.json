@@ -1,0 +1,31 @@
+{
+  "category": [
+    "form",
+    "card"
+  ],
+  "subcategory": "authentication-login",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "User authentication and login forms for web applications",
+    "Secure credential entry with styled interactive buttons",
+    "Onboarding and account creation flows",
+    "Session management and authentication state interfaces",
+    "Multi-step verification processes with actionable buttons"
+  ],
+  "ai_summary": "A sign-in authentication component featuring a Radix UI Slot-based Button with CVA variants for multiple visual states. Includes 6 button variants (default, destructive, outline, secondary, ghost, link) and 4 sizes. Designed for credential entry with accessible focus states and shadow styling. Wraps the button in a centered card layout for clean login form presentation.",
+  "_classifiedAt": "2026-04-23T17:13:19.907Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

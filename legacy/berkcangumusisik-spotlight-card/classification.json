@@ -1,0 +1,32 @@
+{
+  "category": "card",
+  "subcategory": "spotlight-effect-card",
+  "visual_style": [
+    "dark",
+    "glass-morphism"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive feature highlights that reveal details on hover",
+    "Product or service cards with attention-grabbing visual effects",
+    "Dashboard widgets that need to draw user focus",
+    "Landing page sections requiring eye-catching hover states",
+    "Card-based layouts where mouse tracking adds engagement"
+  ],
+  "ai_summary": "A dark-themed card component with a mouse-tracking spotlight effect that reveals a radial gradient centered on the cursor position when hovering. The spotlight fades in smoothly and follows the mouse, creating an elegant glass-morphism-like glow effect. Ideal for interactive feature showcases, product cards, or any card-based UI that benefits from attention-grabbing hover states in SaaS, fintech, or e-commerce contexts.",
+  "_classifiedAt": "2026-04-22T08:53:33.553Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

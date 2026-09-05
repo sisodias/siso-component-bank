@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@smammar100/components/perspective-highlight",
+  "author": "smammar100",
+  "slug": "perspective-highlight",
+  "name": "perspective-highlight",
+  "description": "A 3D card that tilts toward your cursor. As it rotates, highlighted text rises forward, creating a layered depth effect. Includes three color variants for highlights, full dark mode support, and respects prefers-reduced-motion.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/smammar100/perspective-highlight?api_key=$API_KEY_21ST\"",
+  "id": "smammar100__perspective-highlight",
+  "bundleUrl": "https://cdn.21st.dev/smammar100/perspective-highlight/default/bundle.1779692133680.html",
+  "previewUrl": "https://cdn.21st.dev/smammar100/perspective-highlight/default/preview.1779692133680.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

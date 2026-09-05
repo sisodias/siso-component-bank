@@ -1,0 +1,34 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action for forms and user interactions",
+    "Reset or secondary actions in multi-step workflows",
+    "Icon-only buttons for compact UI toolbars",
+    "Destructive actions requiring visual distinction",
+    "Navigation links styled as buttons"
+  ],
+  "ai_summary": "A flexible button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes. Built with class-variance-authority for type-safe variant handling and Radix UI Slot for composition. Supports keyboard navigation and standard hover states. Commonly used as an atomic building block in shadcn/ui-style design systems for SaaS and web applications.",
+  "_classifiedAt": "2026-04-22T09:09:36.850Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,55 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "chowlol202-liquid-metal-hero",
+  "type": "registry:ui",
+  "title": "Chowlol202 Liquid Metal Hero",
+  "description": "Installed from https://21st.dev/r/chowlol202/liquid-metal-hero",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "chowlol202-liquid-metal-hero"
+  ],
+  "files": [
+    {
+      "path": "badge.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "card.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "liquid-metal-hero.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@paper-design/shaders-react",
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/chowlol202/liquid-metal-hero",
+    "fetchedAt": "2026-04-23T02:28:18.904Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

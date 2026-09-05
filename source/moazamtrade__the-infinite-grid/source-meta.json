@@ -1,0 +1,26 @@
+{
+  "id": "moazamtrade__the-infinite-grid",
+  "author": "moazamtrade",
+  "slug": "the-infinite-grid",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@moazamtrade/components/the-infinite-grid",
+  "fetchedAt": "2026-08-29T05:48:05.531Z",
+  "completedAt": "2026-08-29T05:48:07.719Z",
+  "versionedFilename": "code.1765266773686.tsx",
+  "codeReference": "r2://components-code-private/moazamtrade/the-infinite-grid/code.1765266773686.tsx",
+  "codeUrl": "https://cdn.21st.dev/moazamtrade/the-infinite-grid/code.1765266773686.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3987,
+  "sha256": "13a88c2a583842ef96be8ca8a47fcc70085b23c85b584ae47cc0fb416d395248",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

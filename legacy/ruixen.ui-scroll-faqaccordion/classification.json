@@ -1,0 +1,36 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "scroll-animated FAQ accordion",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Expandable FAQ sections with scroll-triggered content reveals",
+    "Help center and documentation disclosure patterns",
+    "Support pages with animated question-answer reveals",
+    "Landing page information accordions",
+    "Product feature explanations with smooth animations"
+  ],
+  "ai_summary": "A scroll-animated FAQ accordion component built with Radix UI, Framer Motion, and GSAP ScrollTrigger. Features expandable question-answer pairs with smooth expand/collapse interactions and scroll-triggered content reveals. Uses Tailwind CSS for styling with Lucide icons for visual indicators.",
+  "_classifiedAt": "2026-04-22T09:13:11.950Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

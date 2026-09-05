@@ -1,0 +1,31 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "text-roll",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Creating animated text headings with hover reveal effects for hero sections and navigation",
+    "Building interactive labels on buttons or CTAs with character-by-character animation",
+    "Adding subtle motion to typography in portfolio or creative agency websites",
+    "Designing animated section titles that respond to user hover interactions",
+    "Enhancing text links with a polished, modern reveal animation"
+  ],
+  "ai_summary": "A hover-triggered text roll component that animates individual characters sliding upward to reveal hidden text underneath, creating a staggered reveal effect. Built with Framer Motion, it supports centered or left-aligned character timing and provides a clean, minimalist way to add interactive typography to any UI element like buttons, headings, or navigation links.",
+  "_classifiedAt": "2026-04-22T09:05:32.213Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

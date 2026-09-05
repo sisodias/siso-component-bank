@@ -1,0 +1,34 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "text-marquee",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Continuously scrolling text announcements across a hero or landing page",
+    "News ticker-style breaking updates that adjust speed based on scroll velocity",
+    "Promotional brand messages or taglines with eye-catching animation",
+    "Loading state or attention-grabbing text movement",
+    "Scrolling feature lists or benefit highlights in a product showcase"
+  ],
+  "ai_summary": "A scroll-velocity-responsive text marquee component that smoothly animates text across the viewport. Features configurable base speed, optional scroll-dependent acceleration, and a start delay. Text scales to 8vw for responsive sizing and uses motion/react for buttery-smooth GPU-accelerated animation. Perfect for news tickers, announcements, or eye-catching promotional text on any landing page or hero section.",
+  "_classifiedAt": "2026-04-23T17:39:00.339Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

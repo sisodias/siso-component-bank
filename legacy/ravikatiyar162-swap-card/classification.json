@@ -1,0 +1,37 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Form submission triggers and action buttons in web applications",
+    "Navigation links and route changes within applications",
+    "Modal dialog openers and confirmation actions",
+    "Interactive card elements requiring clickable areas",
+    "Toolbar and control panel action elements"
+  ],
+  "ai_summary": "A reusable atomic button component with multiple visual variants (default, destructive, outline, secondary, ghost, link) and size options. Built with Radix UI Slot for composition support and class-variance-authority for type-safe variant management. Features standard accessibility attributes including focus rings and disabled states, making it suitable as a foundational UI element across any React application.",
+  "_classifiedAt": "2026-04-23T01:48:05.366Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

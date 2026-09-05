@@ -1,0 +1,33 @@
+{
+  "id": "critcoder__threejs-particles-waves",
+  "author": "critcoder",
+  "slug": "threejs-particles-waves",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@critcoder/components/threejs-particles-waves",
+  "fetchedAt": "2026-08-29T04:03:03.316Z",
+  "completedAt": "2026-08-29T04:03:05.198Z",
+  "versionedFilename": "code.1785451010973-b4eff534-227f-48cd-928e-1596e22a6eaf.tsx",
+  "codeReference": "r2://components-code-private/critcoder/threejs-particles-waves/code.1785451010973-b4eff534-227f-48cd-928e-1596e22a6eaf.tsx",
+  "codeUrl": "https://cdn.21st.dev/critcoder/threejs-particles-waves/code.1785451010973-b4eff534-227f-48cd-928e-1596e22a6eaf.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/critcoder__threejs-particles-waves/code.tsx",
+    "bytes": 569,
+    "sha256": "db6a18e1f587dde15aad64c49cae0973375a957dd1c5c75f68efbd52f0388337",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

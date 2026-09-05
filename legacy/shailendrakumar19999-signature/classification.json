@@ -1,0 +1,34 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "thumbnail-carousel",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "media",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Product image galleries for e-commerce product pages",
+    "Photo album or portfolio showcases with thumbnail navigation",
+    "Blog post content carousels with visual thumbnails",
+    "Team member or testimonial sliders with preview thumbnails",
+    "Before/after comparison galleries with thumbnail navigation"
+  ],
+  "ai_summary": "A thumbnail-based image carousel component featuring a large main image display area with clickable thumbnail indicators and prev/next navigation arrows. Built with Ark UI Carousel, supports dark mode via Tailwind dark: classes, includes hover state transitions on navigation controls and thumbnails, and uses overflow scrolling for mobile-friendly thumbnail navigation.",
+  "_classifiedAt": "2026-04-23T01:52:50.379Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "shadcnblockscom__signup-1",
+  "author": "shadcnblockscom",
+  "slug": "signup-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcnblockscom/components/signup-1",
+  "fetchedAt": "2026-08-29T07:10:30.742Z",
+  "completedAt": "2026-08-29T07:10:32.803Z",
+  "versionedFilename": "code.1750560850080.tsx",
+  "codeReference": "r2://components-code-private/shadcnblockscom/signup-1/code.1750560850080.tsx",
+  "codeUrl": "https://cdn.21st.dev/shadcnblockscom/signup-1/code.1750560850080.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2826,
+  "sha256": "6bd3486bfae92132aabf098d5dbe1e3c2c162ce8a9e86bc92e50c86103f3e76f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

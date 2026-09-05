@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "waleedkibhen-gradient-bar-hero-section",
+  "type": "registry:ui",
+  "title": "Waleedkibhen Gradient Bar Hero Section",
+  "description": "Installed from https://21st.dev/r/waleedkibhen/gradient-bar-hero-section",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "waleedkibhen-gradient-bar-hero-section"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "gradient-bar-hero-section.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/waleedkibhen/gradient-bar-hero-section",
+    "fetchedAt": "2026-04-23T03:04:43.697Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

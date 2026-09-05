@@ -1,0 +1,26 @@
+{
+  "id": "diriktv__animated-counter",
+  "author": "diriktv",
+  "slug": "animated-counter",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@diriktv/components/animated-counter",
+  "fetchedAt": "2026-08-29T04:36:19.676Z",
+  "completedAt": "2026-08-29T04:36:21.871Z",
+  "versionedFilename": "code.1748466609247.tsx",
+  "codeReference": "r2://components-code-private/diriktv/animated-counter/code.1748466609247.tsx",
+  "codeUrl": "https://cdn.21st.dev/diriktv/animated-counter/code.1748466609247.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 9151,
+  "sha256": "fd136ba291f4b48182ffedf8c7906c1333c31fbdc4a6c06f77e6d0d2a03eef76",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

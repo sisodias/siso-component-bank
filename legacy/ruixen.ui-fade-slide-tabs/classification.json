@@ -1,0 +1,31 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "tab-switcher with fade-slide animation",
+  "visual_style": [
+    "glass-morphism",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Switching between different content panels within a single view without page navigation",
+    "Organizing related content into tabbed sections for better information hierarchy",
+    "Creating wizard-style multi-step flows with animated transitions"
+  ],
+  "ai_summary": "A tabbed navigation component featuring smooth fade and slide animations when switching between content panels. Built with framer-motion for fluid transitions, Radix UI primitives for accessibility, and glass-morphism styling with backdrop blur. Supports customizable tab items and maintains active state with animated content reveals.",
+  "_classifiedAt": "2026-04-23T01:49:35.742Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,34 @@
+{
+  "category": "hero",
+  "subcategory": "parallax-layered-hero",
+  "visual_style": [
+    "3d",
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "parallax",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero sections with immersive depth effects",
+    "Product showcases with interactive mouse-following parallax",
+    "Marketing pages requiring visual depth without heavy 3D libraries",
+    "Portfolio or creative agency headers with layered elements",
+    "SaaS landing pages seeking modern parallax hero aesthetics"
+  ],
+  "ai_summary": "A layered parallax hero component featuring multiple depth layers with 3D transforms that respond to mouse movement. Uses CSS perspective and translateZ for depth, creating an immersive scrolling effect. The component tracks mouse position to offset each layer at different rates, producing a dynamic 3D parallax illusion with geometric shapes and gradient blur effects.",
+  "_classifiedAt": "2026-04-22T08:58:58.964Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

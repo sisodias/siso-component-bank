@@ -1,0 +1,37 @@
+{
+  "category": "card",
+  "subcategory": "morphing-card-stack with layout mode switching",
+  "visual_style": [
+    "glass-morphism",
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "drag",
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Browse through collections with swipeable card navigation in stacked view",
+    "Switch between stack, grid, and list layouts for different content densities",
+    "Expand cards to reveal detailed information without page navigation",
+    "Display product or feature showcases with interactive card interactions",
+    "Create responsive card-based galleries and dashboards with fluid transitions"
+  ],
+  "ai_summary": "A morphing card stack component featuring smooth layout transitions between stack, grid, and list views, with drag/swipe navigation and expandable card details. Built with Framer Motion for fluid animations and supports multiple visual density modes for different browsing preferences.",
+  "_classifiedAt": "2026-04-22T09:02:55.798Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:29:31.889Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@claude-ai/components/spotlight",
+  "author": "claude-ai",
+  "slug": "spotlight",
+  "name": "spotlight",
+  "description": "Interactive cards with a radial mouse-following spotlight glow, supporting proximity, hover-focus, and cursor-flow gradient lighting effects.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/claude-ai/spotlight?api_key=$API_KEY_21ST\"",
+  "id": "claude-ai__spotlight",
+  "bundleUrl": "https://cdn.21st.dev/claude-ai/spotlight/default/bundle.1782755177233.html",
+  "previewUrl": "https://cdn.21st.dev/claude-ai/spotlight/default/preview.1782755177233.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

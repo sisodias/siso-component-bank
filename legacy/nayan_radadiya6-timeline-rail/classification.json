@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "timeline-rail",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "education",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying multi-step onboarding or onboarding workflows in SaaS applications",
+    "Showing order tracking or shipping progress in e-commerce platforms",
+    "Visualizing learning paths or course completion in educational platforms",
+    "Representing CI/CD pipeline stages or deployment progress in dev-tools",
+    "Illustrating project milestones or historical events in timeline formats"
+  ],
+  "ai_summary": "A horizontally-oriented timeline rail component that visualizes sequential steps or events with customizable dots, labels, and connecting rails. Supports both navigation links and button interactions, with emphasis styling for active items and full dark mode compatibility. Ideal for displaying multi-step processes, progress tracking, or chronological data in a clean, scannable horizontal format.",
+  "_classifiedAt": "2026-04-23T01:44:49.966Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

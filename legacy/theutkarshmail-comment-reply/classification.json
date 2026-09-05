@@ -1,0 +1,30 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "comment-card",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display user comments with profile information and timestamps in discussion threads",
+    "Show comment content in social media, blog, or forum applications",
+    "Provide a like/heart interaction counter for comment engagement",
+    "Build threaded comment sections in SaaS collaboration tools"
+  ],
+  "ai_summary": "A flat-design comment card component that displays user profile information, timestamp, and comment content with a heart/like button and counter. Features inline SVG icons for the user avatar and like interaction. Designed for discussion threads in social apps, blogs, or SaaS collaboration platforms.",
+  "_classifiedAt": "2026-04-23T17:35:33.882Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

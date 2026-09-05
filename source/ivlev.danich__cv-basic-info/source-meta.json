@@ -1,0 +1,26 @@
+{
+  "id": "ivlev.danich__cv-basic-info",
+  "author": "ivlev.danich",
+  "slug": "cv-basic-info",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ivlev.danich/components/cv-basic-info",
+  "fetchedAt": "2026-08-29T05:04:47.639Z",
+  "completedAt": "2026-08-29T05:04:50.078Z",
+  "versionedFilename": "code.1768846647713.tsx",
+  "codeReference": "r2://components-code-private/ivlev.danich/cv-basic-info/code.1768846647713.tsx",
+  "codeUrl": "https://cdn.21st.dev/ivlev.danich/cv-basic-info/code.1768846647713.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4982,
+  "sha256": "d03a6904b5989e1703a5e3cc16434401cf469bf0cefd21d8413f71f0b9ec6ef7",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

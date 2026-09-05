@@ -1,0 +1,32 @@
+{
+  "category": "input",
+  "subcategory": "neon-button",
+  "visual_style": [
+    "gradient",
+    "3d"
+  ],
+  "interactions": [
+    "click-reveal",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary CTA button on landing pages requiring high visual impact",
+    "Interactive counter or action trigger in web applications",
+    "Call-to-action button in marketing sites with neon aesthetic themes",
+    "Form submission button with engaging micro-interactions",
+    "Highlighted action button in dashboards or product UIs"
+  ],
+  "ai_summary": "A single animated button component featuring a vibrant lime-green neon gradient with glow shadows and 3D perspective transforms. The button includes multiple interactive states: ripple effect on click, hover lift/scale/rotate animations, active press feedback, and styled focus/disabled states. Designed as a high-impact call-to-action element for SaaS and dev-tool applications.",
+  "_classifiedAt": "2026-04-23T01:44:31.634Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

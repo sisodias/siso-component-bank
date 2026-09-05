@@ -1,0 +1,43 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "airbnb-polygons",
+  "type": "registry:ui",
+  "title": "Airbnb Polygons",
+  "description": "Installed from https://21st.dev/r/airbnb/polygons",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "airbnb-polygons"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "polygons.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@visx/gradient",
+    "@visx/group",
+    "@visx/scale",
+    "@visx/shape"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/airbnb/polygons",
+    "fetchedAt": "2026-04-23T03:04:38.065Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

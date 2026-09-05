@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "uniquesonu-animated-fuzzy-overlay-effect",
+  "type": "registry:ui",
+  "title": "Uniquesonu Animated Fuzzy Overlay Effect",
+  "description": "Installed from https://21st.dev/r/uniquesonu/animated-fuzzy-overlay-effect",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "uniquesonu-animated-fuzzy-overlay-effect"
+  ],
+  "files": [
+    {
+      "path": "animated-fuzzy-overlay-effect.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/uniquesonu/animated-fuzzy-overlay-effect",
+    "fetchedAt": "2026-04-23T01:18:03.908Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

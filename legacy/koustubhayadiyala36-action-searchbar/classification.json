@@ -1,0 +1,34 @@
+{
+  "category": "input",
+  "subcategory": "command-palette action-searchbar with debounced filtering",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Quick action search for command palettes in productivity apps",
+    "Keyboard shortcut-driven navigation for developer tools",
+    "Unified search interface for SaaS platforms with multiple actions",
+    "Voice and video tool launchers for creator applications",
+    "Multi-purpose action launcher with filtered results"
+  ],
+  "ai_summary": "A sleek command palette component with debounced search functionality, action selection, and keyboard shortcut support. Features animated transitions using Framer Motion, color-coded Lucide icons, and interactive hover states. Designed for desktop and mobile use, making it ideal for SaaS platforms, developer tools, and creative applications requiring quick action invocation.",
+  "_classifiedAt": "2026-04-22T09:02:43.885Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:34:01.833Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

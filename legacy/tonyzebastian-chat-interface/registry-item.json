@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "tonyzebastian-chat-interface",
+  "type": "registry:ui",
+  "title": "Tonyzebastian Chat Interface",
+  "description": "Installed from https://21st.dev/r/tonyzebastian/chat-interface",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "tonyzebastian-chat-interface"
+  ],
+  "files": [
+    {
+      "path": "chat-interface.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "lucide-react",
+    "motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/tonyzebastian/chat-interface",
+    "fetchedAt": "2026-04-22T06:45:05.808Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

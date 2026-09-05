@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-action-trigger",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons in forms and interfaces",
+    "Destructive action buttons for delete or warning confirmations",
+    "Navigation trigger buttons with hover states",
+    "Icon-only buttons for compact toolbar interfaces",
+    "Ghost or link-style buttons for inline actions"
+  ],
+  "ai_summary": "A versatile Button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes, built with class-variance-authority and Radix UI Slot for composition. Includes proper focus-visible accessibility rings, disabled states, and supports asChild prop for component composition. Standard shadcn/ui-style implementation suitable for any React interface requiring action triggers.",
+  "_classifiedAt": "2026-04-23T01:51:13.749Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

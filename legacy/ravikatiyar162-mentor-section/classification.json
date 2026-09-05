@@ -1,0 +1,30 @@
+{
+  "category": "card",
+  "subcategory": "mentor-profile-listing",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "education",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display a grid of mentor profiles with ratings, reviews, and gig counts",
+    "Filter mentor listings by category using animated tab navigation",
+    "Showcase mentor images with hover zoom effects and bookmark functionality",
+    "Create a mentorship marketplace or directory browsing interface",
+    "Enable users to discover and compare mentors based on expertise and reputation"
+  ],
+  "ai_summary": "A mentor listing and profile showcase component featuring category-based filtering, animated mentor cards with ratings/reviews, image hover effects, and bookmark functionality. Built with Framer Motion for smooth transitions and layout animations. Ideal for mentorship platforms, educational marketplaces, or professional networking sites where users browse and select mentors based on expertise, ratings, and completed gigs.",
+  "_classifiedAt": "2026-04-22T09:10:10.229Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

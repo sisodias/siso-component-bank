@@ -1,0 +1,26 @@
+{
+  "id": "prebuiltui__login-form",
+  "author": "prebuiltui",
+  "slug": "login-form",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@prebuiltui/components/login-form",
+  "fetchedAt": "2026-08-29T06:11:26.963Z",
+  "completedAt": "2026-08-29T06:11:29.567Z",
+  "versionedFilename": "code.1757655610551.tsx",
+  "codeReference": "r2://components-code-private/larsen66/login-form/code.1757655610551.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/login-form/code.1757655610551.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4011,
+  "sha256": "e615acbe59087c9ae4ea7f0bd56f790c6578bb8c1dad2baba392ca52c12e518d",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

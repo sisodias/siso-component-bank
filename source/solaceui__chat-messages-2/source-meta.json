@@ -1,0 +1,26 @@
+{
+  "id": "solaceui__chat-messages-2",
+  "author": "solaceui",
+  "slug": "chat-messages-2",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@solaceui/components/chat-messages-2",
+  "fetchedAt": "2026-08-29T07:22:43.048Z",
+  "completedAt": "2026-08-29T07:22:45.241Z",
+  "versionedFilename": "code.1784311119964-3271ac91-ea1b-4e2f-a4f9-427e3508c00c.tsx",
+  "codeReference": "r2://components-code-private/solaceui/chat-messages-2/code.1784311119964-3271ac91-ea1b-4e2f-a4f9-427e3508c00c.tsx",
+  "codeUrl": "https://cdn.21st.dev/solaceui/chat-messages-2/code.1784311119964-3271ac91-ea1b-4e2f-a4f9-427e3508c00c.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

@@ -1,0 +1,39 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "Button",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary action triggers for forms, dialogs, and call-to-action scenarios",
+    "Destructive action buttons for delete, remove, or cancel confirmations",
+    "Outline-style secondary buttons for less prominent user actions",
+    "Ghost buttons for minimal UI contexts requiring subtle interaction affordances",
+    "Link-style buttons for inline navigation within content areas"
+  ],
+  "ai_summary": "A shadcn/ui-style atomic button component with CVA-powered variant system supporting 6 visual styles (default, destructive, outline, secondary, ghost, link) and 4 sizes. Built on Radix UI Slot for flexible composition, with Tailwind shadow utilities and focus-visible keyboard navigation states. Designed for design system integration with accessible focus ring patterns and smooth hover transitions.",
+  "_classifiedAt": "2026-04-23T17:33:26.874Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

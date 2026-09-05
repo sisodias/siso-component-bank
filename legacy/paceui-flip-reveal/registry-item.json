@@ -1,0 +1,52 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "paceui-flip-reveal",
+  "type": "registry:ui",
+  "title": "Paceui Flip Reveal",
+  "description": "Installed from https://21st.dev/r/paceui/flip-reveal",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "paceui-flip-reveal"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "flip-reveal.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "toggle-group.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "toggle.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@gsap/react",
+    "@radix-ui/react-toggle",
+    "@radix-ui/react-toggle-group",
+    "class-variance-authority",
+    "gsap"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/paceui/flip-reveal",
+    "fetchedAt": "2026-04-23T03:04:02.787Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

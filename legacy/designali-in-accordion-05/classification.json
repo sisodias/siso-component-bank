@@ -1,0 +1,27 @@
+{
+  "category": "data-display",
+  "subcategory": "accordion",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Personal portfolio about sections with expandable biography details",
+    "FAQ pages for websites needing organized question-answer content",
+    "Team or services listing pages with expandable descriptions",
+    "Contact information sections with expandable contact methods"
+  ],
+  "ai_summary": "A minimalist accordion component for displaying collapsible content sections. Built with Radix UI primitives, it features smooth expand/collapse animations, single-selection behavior with one item open by default, and a clean design ideal for personal portfolios, FAQ sections, or any content-heavy page. The component renders eight expandable items with titles and detailed content, optimized for both desktop and mobile viewing.",
+  "_classifiedAt": "2026-04-22T08:55:50.911Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "swipe-to-unlock-slider",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "saas",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Reveal reward or gift content after user completes a swipe gesture",
+    "Interactive unlock mechanism for loyalty programs and gamification",
+    "Progressive disclosure in onboarding flows requiring user action",
+    "Secure-feeling reveal for cashback or bonus content in fintech apps"
+  ],
+  "ai_summary": "A swipe-to-unlock component that requires users to drag a slider handle across a track to reveal hidden reward content. Built with Framer Motion, it calculates drag constraints dynamically and unlocks when the slider passes 80% of the track width. Features optional shimmer effects and snaps back if not fully unlocked, creating an engaging, gamified reveal experience ideal for reward cards, loyalty systems, and interactive promotional content.",
+  "_classifiedAt": "2026-04-23T17:13:10.428Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

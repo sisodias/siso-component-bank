@@ -1,0 +1,26 @@
+{
+  "id": "deleted_reactbits__dock",
+  "author": "deleted_reactbits",
+  "slug": "dock",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@deleted_reactbits/components/dock",
+  "fetchedAt": "2026-08-29T04:13:23.395Z",
+  "completedAt": "2026-08-29T04:13:25.477Z",
+  "versionedFilename": "code.1747789633561.tsx",
+  "codeReference": "r2://components-code-private/larsen66/dock/code.1747789633561.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/dock/code.1747789633561.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5912,
+  "sha256": "4a52c0dd7b35fe69a574625efd705c5523a99da4fed8b34d5d08dc4dd29eb6b3",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

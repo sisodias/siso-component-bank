@@ -1,0 +1,29 @@
+{
+  "category": "feedback",
+  "subcategory": "promotional-banner",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying promotional announcements or special offers on landing pages",
+    "Highlighting new features or product updates to users",
+    "Showing discount codes or limited-time offers in marketing sections",
+    "Communicating important notices or system status updates",
+    "Featuring educational tips or helpful guidance within applications"
+  ],
+  "ai_summary": "A promotional banner component built with React, Framer Motion, and class-variance-authority for styling. Features smooth entrance animations and hover scale effects, with a clean design using shadcn/ui conventions. The component accepts title, description, icon, and optional href for linkable banners, making it versatile for announcements, offers, and featured content across SaaS and e-commerce platforms.",
+  "_classifiedAt": "2026-04-23T01:46:09.462Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

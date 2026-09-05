@@ -1,0 +1,33 @@
+{
+  "category": [
+    "form"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Form submission triggers with configurable variants for primary and secondary actions",
+    "Interactive UI buttons with size, shape, and type customization for design systems",
+    "Loading state management for async operations with spinner integration",
+    "Icon buttons with prefix/suffix support for toolbar and navigation contexts",
+    "Disabled state handling for conditional form workflows"
+  ],
+  "ai_summary": "A versatile React Button component with multiple size variants (tiny to large), type variants (primary, secondary, tertiary, error, warning), and shape options (square, circle, rounded). Features hover states, loading spinner support, disabled state handling, and shadow options. Styled with Tailwind CSS for easy integration into design systems and modern web applications.",
+  "_classifiedAt": "2026-04-23T17:29:33.010Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

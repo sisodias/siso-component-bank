@@ -1,0 +1,26 @@
+{
+  "id": "intentui__toggle",
+  "author": "intentui",
+  "slug": "toggle",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@intentui/components/toggle",
+  "fetchedAt": "2026-08-29T05:01:20.672Z",
+  "completedAt": "2026-08-29T05:01:23.219Z",
+  "versionedFilename": "code.1750536157835.tsx",
+  "codeReference": "r2://components-code-private/larsen66/toggle/code.1750536157835.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/toggle/code.1750536157835.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5468,
+  "sha256": "04c030a0b75b6db749251ea074c0a14dad67423ed143ec2390e998f86db95e97",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

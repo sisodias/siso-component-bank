@@ -1,0 +1,27 @@
+{
+  "category": "navigation",
+  "subcategory": "animated tab-dropdown",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Navigation menus with animated dropdown content panels",
+    "Category or product feature exploration on hover",
+    "Settings or options menus with smooth transitions",
+    "Tab-based navigation with contextual content reveal"
+  ],
+  "ai_summary": "A shifting dropdown navigation component featuring smooth directional animations based on tab selection order. Built with Framer Motion for fluid AnimatePresence transitions, this hover and click-activated tab system reveals content panels with left/right directional motion. The component uses Tailwind CSS for styling and Lucide React icons, making it suitable for SaaS dashboards, e-commerce category navigation, or any interface requiring compact, animated menu systems.",
+  "_classifiedAt": "2026-04-22T08:59:44.468Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,28 @@
+{
+  "category": "overlay",
+  "subcategory": "hover-profile-card",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Revealing user profile information on hover with 3D animated card transitions",
+    "Displaying extended profile details in dashboard or team member interfaces",
+    "Creating interactive user cards with smooth GSAP-powered animations",
+    "Adding contextual profile popovers in social or collaboration platforms",
+    "Enhancing user listing interfaces with hover-activated detail views"
+  ],
+  "ai_summary": "ProfilePeek is a 3D-animated hover card component that reveals user profile content with smooth GSAP timeline animations featuring scale, rotation, and position transforms. Uses advanced CSS transforms with rotationX/rotationY for a floating card effect and back.out easing for a polished bounce. Ideal for dashboard interfaces, user lists, or any context where revealing additional profile information on hover adds value without cluttering the UI.",
+  "_classifiedAt": "2026-04-23T17:06:09.782Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

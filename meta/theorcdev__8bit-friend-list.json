@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@theorcdev/components/8bit-friend-list",
+  "author": "theorcdev",
+  "slug": "8bit-friend-list",
+  "name": "8bit-friend-list",
+  "description": "An 8-bit styled friend list block. Shows a scrollable roster of players with retro avatars, online/offline/in-game status indicators, and current activity, built on the retro card and scroll-area primitives.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/theorcdev/8bit-friend-list?api_key=$API_KEY_21ST\"",
+  "id": "theorcdev__8bit-friend-list",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/8bit-friend-list/default/bundle.1780525866625.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/8bit-friend-list/default/preview.1780525866625.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__mouse-spark",
+  "author": "ruixen.ui",
+  "slug": "mouse-spark",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/mouse-spark",
+  "fetchedAt": "2026-08-29T06:45:11.896Z",
+  "completedAt": "2026-08-29T06:45:14.168Z",
+  "versionedFilename": "code.1760121027697.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/mouse-spark/code.1760121027697.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/mouse-spark/code.1760121027697.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2407,
+  "sha256": "8518d88fa6fd805557e9cb62bbc0d9fecf85f923b0c3acde5e7d0602e1b10567",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

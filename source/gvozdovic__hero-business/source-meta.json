@@ -1,0 +1,26 @@
+{
+  "id": "gvozdovic__hero-business",
+  "author": "gvozdovic",
+  "slug": "hero-business",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@gvozdovic/components/hero-business",
+  "fetchedAt": "2026-08-29T04:53:05.777Z",
+  "completedAt": "2026-08-29T04:53:08.234Z",
+  "versionedFilename": "code.1781626448113.tsx",
+  "codeReference": "r2://components-code-private/dzekuza/hero-business/code.1781626448113.tsx",
+  "codeUrl": "https://cdn.21st.dev/dzekuza/hero-business/code.1781626448113.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3799,
+  "sha256": "cde36b3ba9e5f521e169551d788f2d365ea90d0190a55b7a9a8a6ebf6c049d3e",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

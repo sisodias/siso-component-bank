@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ibelick/components/animated-background",
+  "author": "ibelick",
+  "slug": "animated-background",
+  "name": "animated-background",
+  "description": "The AnimatedBackground component visually highlights selected items by sliding a background into view when hovered over or clicked. This smooth transition helps users focus on the active item, making it ideal for interactive lists, menus, or navigations where clear selection feedback is important.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ibelick/animated-background?api_key=$API_KEY_21ST\"",
+  "id": "ibelick__animated-background",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1319.html",
+  "previewUrl": "https://cdn.21st.dev/user_motion_primitives/animated-background.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 165,
+  "demo_id": 1319,
+  "video_url": "https://cdn.21st.dev/user_motion_primitives/animated-background/default/video.mp4"
+}

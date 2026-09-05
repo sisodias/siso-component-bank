@@ -1,0 +1,35 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "mobile-bottom-nav-bar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "e-commerce",
+    "saas",
+    "media"
+  ],
+  "platform_fit": [
+    "mobile",
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Mobile app navigation with tab-based selection for dashboard-style interfaces",
+    "Fintech apps with portfolio tracking and transaction management",
+    "E-commerce apps with cart, orders, and profile sections",
+    "Social/communication apps with messaging and notifications",
+    "General mobile-first web applications requiring persistent bottom navigation"
+  ],
+  "ai_summary": "A polished mobile bottom navigation bar component with tab-style navigation featuring Lucide icons and Framer Motion animations. Supports active state indicators, sticky positioning, and touch-friendly tap targets. Ideal for mobile-first applications like fintech dashboards, e-commerce apps, and social platforms requiring persistent bottom navigation with smooth micro-interactions.",
+  "_classifiedAt": "2026-04-22T08:52:33.024Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

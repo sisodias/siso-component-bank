@@ -1,0 +1,37 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "expandable animated search bar",
+  "visual_style": [
+    "flat",
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "click-reveal",
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Global site search in SaaS applications with animated expansion",
+    "Header navigation search bar that saves space when collapsed",
+    "Mobile-first search that expands on tap for better UX",
+    "Command palette style search for dev-tools interfaces",
+    "E-commerce product search with smooth open/close animations"
+  ],
+  "ai_summary": "An expandable search bar component with smooth Framer Motion animations that supports left or right expansion directions. Features auto-focus on expansion, click-outside-to-close behavior when empty, and customizable width and placeholder. Designed for saving UI space while maintaining full search functionality, ideal for headers, navigation bars, or any interface needing inline search.",
+  "_classifiedAt": "2026-04-23T01:36:25.054Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "moazamtrade__distort-text",
+  "author": "moazamtrade",
+  "slug": "distort-text",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@moazamtrade/components/distort-text",
+  "fetchedAt": "2026-08-29T05:47:06.372Z",
+  "completedAt": "2026-08-29T05:47:08.293Z",
+  "versionedFilename": "code.1757240308778.tsx",
+  "codeReference": "r2://components-code-private/moazamtrade/distort-text/code.1757240308778.tsx",
+  "codeUrl": "https://cdn.21st.dev/moazamtrade/distort-text/code.1757240308778.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1927,
+  "sha256": "819e4cd42342cf075060fd07e2853c768478fa3927935d6ab4677b7a1a54b973",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

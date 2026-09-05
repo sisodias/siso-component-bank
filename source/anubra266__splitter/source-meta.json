@@ -1,0 +1,26 @@
+{
+  "id": "anubra266__splitter",
+  "author": "anubra266",
+  "slug": "splitter",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@anubra266/components/splitter",
+  "fetchedAt": "2026-08-29T03:36:09.726Z",
+  "completedAt": "2026-08-29T03:36:12.077Z",
+  "versionedFilename": "code.1756154949706.tsx",
+  "codeReference": "r2://components-code-private/larsen66/splitter/code.1756154949706.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/splitter/code.1756154949706.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1306,
+  "sha256": "1cb254c3347a9ff19b684a16302dd1424c4c44557470b94025653076eca10a76",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "webgl-shader",
+  "visual_style": [
+    "gradient",
+    "3d"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "creator-tools",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero section background with animated wave effects for visual impact",
+    "Landing page decorative element to add motion and depth",
+    "Abstract backdrop for creative portfolios and artist showcases",
+    "Loading screen or transition animation for web applications",
+    "Ambient visual for entertainment or gaming-related landing pages"
+  ],
+  "ai_summary": "A Three.js WebGL shader component that renders animated wave patterns using custom vertex and fragment shaders. The effect combines time-based cosine warping with gradient coloring to create flowing, cosmic-looking wave animations. Uses u_time and u_resolution uniforms for smooth, continuous animation and proper scaling across different screen sizes.",
+  "_classifiedAt": "2026-04-23T01:35:21.348Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

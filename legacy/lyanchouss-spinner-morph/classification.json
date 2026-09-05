@@ -1,0 +1,34 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "morphing spinner loader",
+  "visual_style": [
+    "gradient",
+    "3d"
+  ],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display loading states for async operations like data fetching",
+    "Show progress feedback during form submissions",
+    "Indicate page transitions or route changes",
+    "Provide visual feedback during file uploads",
+    "Enhance empty state screens with engaging animation"
+  ],
+  "ai_summary": "A morphing SVG spinner component with continuous shape transformation and rotation animations. Accepts customizable size, background color, fill color, and animation durations for rotation and morphing effects. Creates engaging visual feedback during loading states with organic, fluid path animations that morph between geometric shapes.",
+  "_classifiedAt": "2026-04-23T01:43:17.951Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

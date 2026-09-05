@@ -1,0 +1,26 @@
+{
+  "id": "reshaped__reshaped-divider",
+  "author": "reshaped",
+  "slug": "reshaped-divider",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@reshaped/components/reshaped-divider",
+  "fetchedAt": "2026-08-29T06:33:58.303Z",
+  "completedAt": "2026-08-29T06:34:00.200Z",
+  "versionedFilename": "code.1783428921249.tsx",
+  "codeReference": "r2://components-code-private/larsen66/reshaped-divider/code.1783428921249.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/reshaped-divider/code.1783428921249.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 469,
+  "sha256": "2afebcca145a5523a9a68f0eb82ae33572d454b90d3d9fd7199ad797f30d5b2f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

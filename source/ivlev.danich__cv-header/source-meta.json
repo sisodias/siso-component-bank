@@ -1,0 +1,26 @@
+{
+  "id": "ivlev.danich__cv-header",
+  "author": "ivlev.danich",
+  "slug": "cv-header",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ivlev.danich/components/cv-header",
+  "fetchedAt": "2026-08-29T05:04:50.311Z",
+  "completedAt": "2026-08-29T05:04:52.408Z",
+  "versionedFilename": "code.1768847234075.tsx",
+  "codeReference": "r2://components-code-private/ivlev.danich/cv-header/code.1768847234075.tsx",
+  "codeUrl": "https://cdn.21st.dev/ivlev.danich/cv-header/code.1768847234075.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1790,
+  "sha256": "1ce84994f625ada5216b5826d0e61b0e7a346556d7ec921e8cb7aaadad172900",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

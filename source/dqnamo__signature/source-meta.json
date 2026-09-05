@@ -1,0 +1,26 @@
+{
+  "id": "dqnamo__signature",
+  "author": "dqnamo",
+  "slug": "signature",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dqnamo/components/signature",
+  "fetchedAt": "2026-08-29T04:36:59.173Z",
+  "completedAt": "2026-08-29T04:37:01.182Z",
+  "versionedFilename": "code.1783004657368.tsx",
+  "codeReference": "r2://components-code-private/larsen66/signature/code.1783004657368.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/signature/code.1783004657368.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2339,
+  "sha256": "8d1295bca08bdead237ddb7083dd13923c772a0f0aea4261ded2013d9573aff2",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

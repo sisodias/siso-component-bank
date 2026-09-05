@@ -1,0 +1,26 @@
+{
+  "id": "abbeybidmus12__table-example",
+  "author": "abbeybidmus12",
+  "slug": "table-example",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@abbeybidmus12/components/table-example",
+  "fetchedAt": "2026-08-29T03:26:47.709Z",
+  "completedAt": "2026-08-29T03:26:49.573Z",
+  "versionedFilename": "code.1766779002328.tsx",
+  "codeReference": "r2://components-code-private/abbeybidmus12/table-example/code.1766779002328.tsx",
+  "codeUrl": "https://cdn.21st.dev/abbeybidmus12/table-example/code.1766779002328.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2672,
+  "sha256": "9cee7001b870fdd9f8fa8a723e442cf86356f2f577ce47237e29884c327608fa",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,30 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "tooltip-popover",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying contextual information on hover for icon buttons and toolbar controls",
+    "Providing accessible tooltips with keyboard navigation support for form elements",
+    "Showing brief helper text that appears and disappears smoothly without interrupting workflow"
+  ],
+  "ai_summary": "A minimalist tooltip component built with Base UI that provides contextual information on hover or focus. Features smooth scale and opacity animations, automatic arrow positioning, dark mode support, and full keyboard accessibility. The tooltip uses a portal for proper z-index stacking and includes transitions for entering and exiting states, making it ideal for toolbar interfaces and icon-rich UIs in SaaS applications.",
+  "_classifiedAt": "2026-04-23T11:32:34.538Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

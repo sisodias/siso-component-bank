@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "tree-view",
+  "visual_style": [
+    "gradient",
+    "dark"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display hierarchical file and folder structures with visual glow effects for emphasis",
+    "Navigate through nested content in project management or admin interfaces",
+    "Show code structure or documentation trees with expandable sections",
+    "Provide interactive file explorers in web-based IDEs or code editors",
+    "Organize and browse nested content with smooth expand/collapse animations"
+  ],
+  "ai_summary": "GlowTree is an animated hierarchical tree component for displaying file and folder structures with glowing visual effects. It features expand/collapse functionality, selection states, and smooth Framer Motion animations for hover and click interactions. The component supports custom data structures and callbacks for node selection, making it ideal for developer tools, admin panels, and any interface requiring nested content navigation.",
+  "_classifiedAt": "2026-04-23T01:49:53.057Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

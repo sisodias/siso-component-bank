@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "daiwiikharihar17147-spatial-product-showcase",
+  "type": "registry:ui",
+  "title": "Daiwiikharihar17147 Spatial Product Showcase",
+  "description": "Installed from https://21st.dev/r/daiwiikharihar17147/spatial-product-showcase",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "daiwiikharihar17147-spatial-product-showcase"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "spatial-product-showcase.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/daiwiikharihar17147/spatial-product-showcase",
+    "fetchedAt": "2026-04-22T06:42:08.347Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

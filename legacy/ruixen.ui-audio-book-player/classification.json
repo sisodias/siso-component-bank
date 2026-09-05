@@ -1,0 +1,26 @@
+{
+  "category": "media",
+  "subcategory": "audio-player",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Playing audio books with chapter navigation and progress tracking",
+    "Adjusting playback speed for personalized listening experience",
+    "Seeking through audio content to specific timestamps",
+    "Embedding a persistent audio player in web applications"
+  ],
+  "ai_summary": "A floating audio book player component with play/pause controls, progress slider, chapter display, and adjustable playback speed. Uses the HTML5 Audio API for audio playback and features a dark-mode compatible, minimal design fixed at the bottom of the viewport. Ideal for media and educational platforms requiring embedded audio content.",
+  "_classifiedAt": "2026-04-23T01:48:45.139Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

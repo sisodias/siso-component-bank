@@ -1,0 +1,33 @@
+{
+  "id": "sean0205__statistics-card-13",
+  "author": "sean0205",
+  "slug": "statistics-card-13",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sean0205/components/statistics-card-13",
+  "fetchedAt": "2026-08-29T06:59:50.915Z",
+  "completedAt": "2026-08-29T06:59:51.962Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "page-soft404",
+  "failureClass": "soft-404",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/sean0205__statistics-card-13/code.tsx",
+    "bytes": 2106,
+    "sha256": "da9087c2a174e56dc9028c13fad4f3750b9fe2e19c8e0d3f429d037333d369eb",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is page-soft404/soft-404."
+  }
+}

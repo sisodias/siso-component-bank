@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "avanishverma4-checkbox-02",
+  "type": "registry:ui",
+  "title": "Avanishverma4 Checkbox 02",
+  "description": "Installed from https://21st.dev/r/avanishverma4/checkbox-02",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "avanishverma4-checkbox-02"
+  ],
+  "files": [
+    {
+      "path": "checkbox-02.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/avanishverma4/checkbox-02",
+    "fetchedAt": "2026-04-22T06:42:55.075Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

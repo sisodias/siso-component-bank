@@ -1,0 +1,36 @@
+{
+  "category": "input",
+  "subcategory": "theme-toggle",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Toggle between light and dark theme modes in web applications",
+    "Provide user preference for visual comfort in low-light or bright environments",
+    "Add animated UI feedback when switching application color schemes",
+    "Enable accessibility-compliant color contrast preferences",
+    "Enhance brand polish with smooth motion transitions during theme changes"
+  ],
+  "ai_summary": "An animated theme toggle component that switches between light and dark modes using next-themes integration. Features a solar switch design with smooth morphing animations for sun and moon icons. Uses Framer Motion for fluid transitions and includes proper hydration handling to prevent SSR mismatches. Includes hover states, focus-visible accessibility features, and ARIA labels for screen readers.",
+  "_classifiedAt": "2026-04-22T09:01:16.162Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,28 @@
+{
+  "category": "media",
+  "subcategory": "infinite-image-carousel",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "media",
+    "e-commerce",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero section banner with auto-scrolling imagery",
+    "Product showcase carousel for e-commerce sites",
+    "Testimonial or portfolio image gallery",
+    "Background decorative element for landing pages",
+    "Visual branding element for creative agencies"
+  ],
+  "ai_summary": "An infinite image auto-slider component that displays a seamless horizontal scroll of images using CSS animations. The component duplicates the image array to create a continuous loop effect, making it ideal for hero sections, product showcases, or decorative visual elements on websites. Uses minimal styling with a dark theme and system fonts.",
+  "_classifiedAt": "2026-04-23T17:43:02.353Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

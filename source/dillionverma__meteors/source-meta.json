@@ -1,0 +1,33 @@
+{
+  "id": "dillionverma__meteors",
+  "author": "dillionverma",
+  "slug": "meteors",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dillionverma/components/meteors",
+  "fetchedAt": "2026-08-29T04:35:35.246Z",
+  "completedAt": "2026-08-29T04:35:36.114Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/dillionverma__meteors/code.tsx",
+    "bytes": 1052,
+    "sha256": "3d32a7ce722fd7970c7089a6da519577e2a248e8c9fe9e69c786439a8e3fa9fe",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

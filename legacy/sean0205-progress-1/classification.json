@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar-profile-picture",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display user profile pictures in applications requiring user identification",
+    "Show user online/offline/busy/away status indicators",
+    "Provide fallback initials when avatar images fail to load",
+    "Create avatar stacks with status badges for team or contact lists"
+  ],
+  "ai_summary": "An Avatar component system built with Radix UI primitives that provides circular profile picture display with multiple sub-components. Includes AvatarImage for image display, AvatarFallback for initial/text fallbacks, AvatarIndicator for positioned overlays, and AvatarStatus with color-coded variants (online, offline, busy, away). Uses standard Tailwind utility classes for minimal, flat styling suitable for any application requiring user profile display functionality.",
+  "_classifiedAt": "2026-04-23T17:23:35.640Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "otp-verification-input",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Two-factor authentication verification in SaaS applications",
+    "Phone and email verification during account registration",
+    "Order confirmation codes in e-commerce checkout flows",
+    "Password reset verification in web applications",
+    "Payment authentication in fintech platforms"
+  ],
+  "ai_summary": "A multi-field OTP input component that automatically progresses through fields as digits are entered, supports keyboard navigation with arrow keys and backspace, and handles paste events for rapid code entry. Designed for verification workflows in authentication and payment flows.",
+  "_classifiedAt": "2026-04-23T01:54:44.901Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

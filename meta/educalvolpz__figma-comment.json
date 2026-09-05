@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@educalvolpz/components/figma-comment",
+  "author": "educalvolpz",
+  "slug": "figma-comment",
+  "name": "figma-comment",
+  "description": "A Figma-style comment pin that springs open from a 32px bubble into a full note, measures its own height, and closes on click outside. Respects prefers-reduced-motion.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/educalvolpz/figma-comment?api_key=$API_KEY_21ST\"",
+  "id": "educalvolpz__figma-comment",
+  "bundleUrl": "https://cdn.21st.dev/educalvolpz/figma-comment/default/bundle.1785960143362-c4f98b7b-fb82-4fb5-a946-f675947f9e40.html",
+  "previewUrl": "https://cdn.21st.dev/educalvolpz/figma-comment/default/preview.1785960143362-c4f98b7b-fb82-4fb5-a946-f675947f9e40.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

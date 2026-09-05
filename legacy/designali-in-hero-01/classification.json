@@ -1,0 +1,35 @@
+{
+  "category": "input",
+  "subcategory": "button-variant-system",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "creator-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in hero sections and forms",
+    "Destructive action buttons for delete or warning operations",
+    "Secondary navigation and feature exploration buttons",
+    "Ghost-style inline buttons for minimal UI patterns",
+    "Icon buttons for compact toolbars and action bars"
+  ],
+  "ai_summary": "A versatile Button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Built with Radix UI Slot for composition, CVA for variant handling, and Tailwind CSS for styling. Features focus-visible ring states, disabled states, and smooth transitions. Designed as an atomic, reusable UI primitive suitable for any industry requiring interactive button controls in SaaS, fintech, e-commerce, or general web applications.",
+  "_classifiedAt": "2026-04-22T08:56:30.401Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

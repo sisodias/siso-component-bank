@@ -1,0 +1,26 @@
+{
+  "id": "theutkarshmail__honeycomb-loader",
+  "author": "theutkarshmail",
+  "slug": "honeycomb-loader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theutkarshmail/components/honeycomb-loader",
+  "fetchedAt": "2026-08-29T07:36:53.030Z",
+  "completedAt": "2026-08-29T07:36:55.204Z",
+  "versionedFilename": "code.1755115235945.tsx",
+  "codeReference": "r2://components-code-private/theutkarshmail/honeycomb-loader/code.1755115235945.tsx",
+  "codeUrl": "https://cdn.21st.dev/theutkarshmail/honeycomb-loader/code.1755115235945.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 295,
+  "sha256": "15b34fa2639b949ae627abb025f657c51b6898630a5c11c8e6808bc7036c8611",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

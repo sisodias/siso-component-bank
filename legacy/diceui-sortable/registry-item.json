@@ -1,0 +1,50 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "diceui-sortable",
+  "type": "registry:ui",
+  "title": "Diceui Sortable",
+  "description": "Installed from https://21st.dev/r/diceui/sortable",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "diceui-sortable"
+  ],
+  "files": [
+    {
+      "path": "composition.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "sortable.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@dnd-kit/core",
+    "@dnd-kit/modifiers",
+    "@dnd-kit/sortable",
+    "@dnd-kit/utilities",
+    "@radix-ui/react-slot"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "imports unresolvable path (@/lib/composition)"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/diceui/sortable",
+    "fetchedAt": "2026-04-23T03:05:45.045Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

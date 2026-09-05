@@ -1,0 +1,28 @@
+{
+  "category": "input",
+  "subcategory": "radio-button-group",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Binary choice selection in forms requiring yes/no or confirm/cancel responses",
+    "Toggle states in settings pages and preference panels",
+    "Decision buttons in survey or questionnaire interfaces",
+    "Confirmation controls in modal dialogs and overlays",
+    "Accept/reject workflows in approval systems"
+  ],
+  "ai_summary": "A dual-option radio button component with dark theme styling and subtle glow effects. Features 'yes' and 'no' options represented by circle and X icons respectively, with visual feedback on selection. Designed for binary decision-making interfaces with modern aesthetic appeal.",
+  "_classifiedAt": "2026-04-23T11:32:46.648Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

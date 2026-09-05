@@ -1,0 +1,30 @@
+{
+  "category": "input",
+  "subcategory": "action-button",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in forms and dialogs",
+    "Destructive action triggers with red styling",
+    "Secondary navigation or alternative action buttons",
+    "Ghost-style buttons for less prominent UI actions",
+    "Icon-only buttons for compact toolbar interfaces"
+  ],
+  "ai_summary": "A versatile, production-ready button component with CVA-based variant system supporting default, destructive, outline, secondary, ghost, and link styles. Includes size variants, focus-visible states, disabled handling, and asChild pattern support via Radix Slot for flexible composition. Built with accessibility best practices including focus outlines and keyboard navigation.",
+  "_classifiedAt": "2026-04-23T17:34:45.123Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

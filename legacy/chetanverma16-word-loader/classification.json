@@ -1,0 +1,36 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "word-rotator, text carousel, character animation",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Rotating service offerings or categories in a hero section with smooth character-by-character animation",
+    "Displaying dynamic taglines or keywords on landing pages",
+    "Showing cycling text content in portfolio or agency websites",
+    "Animated word transitions for product descriptions in e-commerce",
+    "Loading state or transitional text display for web applications"
+  ],
+  "ai_summary": "A text animation component that cycles through an array of words with GSAP-powered character-by-character fade and slide effects. Words appear with staggered opacity and y-axis movement, creating a smooth blur-in/blur-out rotation effect. Built with Tailwind CSS for easy customization and optimized for hero sections, landing pages, and any context requiring dynamic rotating text content.",
+  "_classifiedAt": "2026-04-22T08:53:56.745Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

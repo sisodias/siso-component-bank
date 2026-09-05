@@ -1,0 +1,34 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "adaptive-pill-navigation",
+  "visual_style": [
+    "3d",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Primary website navigation with compact pill UI that expands on hover for better item visibility",
+    "Landing page section navigation with smooth spring animations between pages",
+    "Single-page application navigation with adaptive pill that shows active section",
+    "Minimalist navigation for modern SaaS landing pages with hover-activated expansion"
+  ],
+  "ai_summary": "A 3D adaptive navigation pill component with intelligent hover expansion that smoothly grows from compact to expanded state using spring physics. The navigation features smooth animations, click-based section switching, and a morphing pill effect that collapses after selection. Built with framer-motion for fluid micro-interactions and optimized for desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-22T09:07:32.058Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

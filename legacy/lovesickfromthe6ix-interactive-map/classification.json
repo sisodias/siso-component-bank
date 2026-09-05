@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display",
+    "media"
+  ],
+  "subcategory": "interactive-map-geographic-visualization",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "real-estate",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying and clustering multiple geographic markers on an interactive map",
+    "Enabling users to click markers for location details via popups",
+    "Providing location-based exploration with fly-to animations",
+    "Supporting layer toggling for different data overlays",
+    "Rendering custom markers, circles, polygons, and polylines for varied geographic data visualization"
+  ],
+  "ai_summary": "A React-Leaflet based interactive map component that renders customizable markers, clusters, and geographic overlays with support for user interactions including clicking for popups, location finding with fly-to animations, and layer toggling. Built with react-leaflet-cluster for marker clustering and includes custom control components for enhanced map navigation.",
+  "_classifiedAt": "2026-04-23T16:53:11.561Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

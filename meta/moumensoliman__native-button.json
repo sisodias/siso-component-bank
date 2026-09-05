@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@moumensoliman/components/native-button",
+  "author": "moumensoliman",
+  "slug": "native-button",
+  "name": "native-button",
+  "description": "Glassmorphism-inspired button wrapping shadcn/ui Button. Adds framer-motion whileHover/whileTap spring micro-interactions, an optional glow halo (shadow + blurred radial overlay), and a loading state with Loader2 spinner + opacity pulse. Falls back to no animation when reduced-motion is requested.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/moumensoliman/native-button?api_key=$API_KEY_21ST\"",
+  "id": "moumensoliman__native-button",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/native-button/default/bundle.1779920857266.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/native-button/default/preview.1779920857266.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 6,
+  "demo_id": 12909,
+  "video_url": null
+}

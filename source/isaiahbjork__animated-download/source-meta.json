@@ -1,0 +1,26 @@
+{
+  "id": "isaiahbjork__animated-download",
+  "author": "isaiahbjork",
+  "slug": "animated-download",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@isaiahbjork/components/animated-download",
+  "fetchedAt": "2026-08-29T05:01:37.486Z",
+  "completedAt": "2026-08-29T05:01:39.591Z",
+  "versionedFilename": "code.1748464318062.tsx",
+  "codeReference": "r2://components-code-private/isaiahbjork/animated-download/code.1748464318062.tsx",
+  "codeUrl": "https://cdn.21st.dev/isaiahbjork/animated-download/code.1748464318062.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10441,
+  "sha256": "84d0af0fce4b50680c66e35db9f813e502deeda1e86d483dcb063d70d6a25c37",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

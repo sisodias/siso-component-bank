@@ -1,0 +1,26 @@
+{
+  "id": "designali-in__bento",
+  "author": "designali-in",
+  "slug": "bento",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/bento",
+  "fetchedAt": "2026-08-29T04:16:42.046Z",
+  "completedAt": "2026-08-29T04:16:44.089Z",
+  "versionedFilename": "code.1771435665950.tsx",
+  "codeReference": "r2://components-code-private/designali-in/bento/code.1771435665950.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/bento/code.1771435665950.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10416,
+  "sha256": "61dff4c8fd45784200c14ffbceb0c71127a69186487a0553d9bcbca39eeae2c6",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

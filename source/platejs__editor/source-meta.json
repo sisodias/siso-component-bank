@@ -1,0 +1,26 @@
+{
+  "id": "platejs__editor",
+  "author": "platejs",
+  "slug": "editor",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@platejs/components/editor",
+  "fetchedAt": "2026-08-29T06:09:58.598Z",
+  "completedAt": "2026-08-29T06:10:00.781Z",
+  "versionedFilename": "code.1784741047903-4188c723-ad26-4a2b-9550-0d9918fd81e3.tsx",
+  "codeReference": "r2://components-code-private/platejs/editor/code.1784741047903-4188c723-ad26-4a2b-9550-0d9918fd81e3.tsx",
+  "codeUrl": "https://cdn.21st.dev/platejs/editor/code.1784741047903-4188c723-ad26-4a2b-9550-0d9918fd81e3.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

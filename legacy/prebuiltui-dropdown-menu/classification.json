@@ -1,0 +1,26 @@
+{
+  "category": "input",
+  "subcategory": "dropdown-select",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting a country or region from a list in a form or settings page",
+    "Choosing from a predefined list of options in a filter or search interface",
+    "Implementing a simple language or currency selector",
+    "Creating dropdown navigation in a compact menu system",
+    "Selecting options in multi-step onboarding or configuration wizards"
+  ],
+  "ai_summary": "A lightweight, accessible dropdown menu component that toggles to reveal a scrollable list of selectable options. Features a rotating chevron indicator, hover state highlighting on items, and a clean flat design using standard Tailwind utility classes. Suitable for form inputs, settings panels, and lightweight navigation systems where space is constrained.",
+  "_classifiedAt": "2026-04-22T09:08:02.799Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

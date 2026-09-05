@@ -1,0 +1,31 @@
+{
+  "category": [
+    "form"
+  ],
+  "subcategory": "multi-selector-button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Select multiple contacts in a contact management interface",
+    "Filter and select items in a multi-select dropdown component",
+    "Handle selection actions within a contact picker or selector UI"
+  ],
+  "ai_summary": "A reusable Button component with CVA (class-variance-authority) variants for multi-select interfaces. Supports 6 visual variants (default, destructive, outline, secondary, ghost, link) and 4 sizes (default, sm, lg, icon). Uses Radix UI Slot for composition patterns and includes standard accessibility features with focus-visible ring states and disabled pointer-events handling.",
+  "_classifiedAt": "2026-04-23T17:38:13.570Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "user-profile-avatar",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display user profile pictures in navigation headers and user menus",
+    "Show user avatars alongside comments, reviews, or activity feeds",
+    "Represent team members or collaborators in dashboard interfaces",
+    "Provide fallback initials when profile images fail to load",
+    "Create avatar stacks or groups for displaying multiple users"
+  ],
+  "ai_summary": "A lightweight, accessible avatar component built on Radix UI primitives featuring image display with automatic fallback to initials or placeholder text when images fail to load. Uses standard Tailwind sizing with rounded-full styling, designed as a foundational building block for user identity displays across any interface.",
+  "_classifiedAt": "2026-04-23T11:30:17.227Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

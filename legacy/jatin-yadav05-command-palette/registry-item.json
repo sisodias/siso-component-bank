@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "jatin-yadav05-command-palette",
+  "type": "registry:ui",
+  "title": "Jatin Yadav05 Command Palette",
+  "description": "Installed from https://21st.dev/r/jatin-yadav05/command-palette",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "jatin-yadav05-command-palette"
+  ],
+  "files": [
+    {
+      "path": "command-palette.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/jatin-yadav05/command-palette",
+    "fetchedAt": "2026-04-23T01:18:47.913Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

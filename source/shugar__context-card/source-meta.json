@@ -1,0 +1,33 @@
+{
+  "id": "shugar__context-card",
+  "author": "shugar",
+  "slug": "context-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/context-card",
+  "fetchedAt": "2026-08-29T07:19:06.151Z",
+  "completedAt": "2026-08-29T07:19:07.637Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/shugar__context-card/code.tsx",
+    "bytes": 965,
+    "sha256": "c01994feb3db83860e25dfac0fb77119424d16f7732e47120d8748df2c0c85d8",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

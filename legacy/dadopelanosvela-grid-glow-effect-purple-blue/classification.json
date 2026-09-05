@@ -1,0 +1,30 @@
+{
+  "category": "feedback",
+  "subcategory": "glow effect spotlight",
+  "visual_style": [
+    "gradient",
+    "glass-morphism"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive card hover effects with dynamic glow that follows mouse proximity",
+    "Premium UI enhancements for dashboards and landing pages",
+    "Visual feedback component for interactive elements requiring attention",
+    "Decorative spotlight effects for hero sections and feature showcases",
+    "Customizable gradient-based visual effects with multiple color variants"
+  ],
+  "ai_summary": "A reusable glowing effect component that creates dynamic radial and conic gradient spotlights following mouse proximity. Features multiple variants including blue-purple theme with semi-transparent overlapping circles. The effect uses Motion library for smooth animations and includes configurable options for blur, spread, proximity detection zones, and movement duration. Ideal for premium UI elements requiring interactive visual feedback on hover.",
+  "_classifiedAt": "2026-04-23T01:37:15.651Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

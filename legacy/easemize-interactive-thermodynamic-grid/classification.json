@@ -1,0 +1,31 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "thermal-heatmap-canvas",
+  "visual_style": [
+    "gradient"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive heat map visualization for data dashboards and analytics tools",
+    "Physics simulation demonstrations in educational and research contexts",
+    "User-interactive art and creative tools leveraging thermal drawing mechanics",
+    "Scientific data visualization showing heat distribution patterns",
+    "Environmental or industrial monitoring interfaces displaying temperature gradients"
+  ],
+  "ai_summary": "A canvas-based thermodynamic heat simulation component that renders a dynamic grid of temperature data using a magma-style thermal color palette. Users interact by clicking and dragging to inject heat points, which diffuse across the grid and gradually cool based on configurable parameters. The component implements a physics-inspired heat dissipation model with real-time animation, making it suitable for scientific visualizations, interactive dashboards, and creative applications.",
+  "_classifiedAt": "2026-04-22T08:58:17.579Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

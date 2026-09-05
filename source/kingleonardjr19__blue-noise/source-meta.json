@@ -1,0 +1,26 @@
+{
+  "id": "kingleonardjr19__blue-noise",
+  "author": "kingleonardjr19",
+  "slug": "blue-noise",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@kingleonardjr19/components/blue-noise",
+  "fetchedAt": "2026-08-29T05:17:33.266Z",
+  "completedAt": "2026-08-29T05:17:35.289Z",
+  "versionedFilename": "code.1785714324031-5cef01e5-cb3f-4ac6-8389-12b285506aa2.tsx",
+  "codeReference": "r2://components-code-private/kingleonardjr19/blue-noise/code.1785714324031-5cef01e5-cb3f-4ac6-8389-12b285506aa2.tsx",
+  "codeUrl": "https://cdn.21st.dev/kingleonardjr19/blue-noise/code.1785714324031-5cef01e5-cb3f-4ac6-8389-12b285506aa2.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

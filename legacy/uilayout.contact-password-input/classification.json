@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "password-input",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Secure password entry in login and signup forms",
+    "Password field in account settings and profile pages",
+    "Authentication forms for SaaS applications and websites",
+    "Multi-step onboarding forms requiring credential entry",
+    "Password reset and recovery forms"
+  ],
+  "ai_summary": "A minimal password input field with integrated show/hide toggle functionality. Features a standard eye icon button that switches between password masking and visible text, with focus states for accessibility. Designed for authentication flows in any application requiring secure credential entry.",
+  "_classifiedAt": "2026-04-23T17:38:14.590Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

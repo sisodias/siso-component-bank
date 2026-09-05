@@ -1,0 +1,33 @@
+{
+  "id": "serafimcloud__filter-badge",
+  "author": "serafimcloud",
+  "slug": "filter-badge",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@serafimcloud/components/filter-badge",
+  "fetchedAt": "2026-08-29T07:02:41.282Z",
+  "completedAt": "2026-08-29T07:02:42.677Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/serafimcloud__filter-badge/code.tsx",
+    "bytes": 2417,
+    "sha256": "416adf6aec785b0a77ef4aa1d44fe84defa45c4f9c1086e043e6b3b60f7eaa93",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

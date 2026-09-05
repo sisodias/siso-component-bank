@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "muhammad-binsalman-social-connect-platform-buttons",
+  "type": "registry:ui",
+  "title": "Muhammad Binsalman Social Connect Platform Buttons",
+  "description": "Installed from https://21st.dev/r/muhammad-binsalman/social-connect-platform-buttons",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "muhammad-binsalman-social-connect-platform-buttons"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "social-connect-platform-buttons.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/muhammad-binsalman/social-connect-platform-buttons",
+    "fetchedAt": "2026-04-23T02:28:20.280Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

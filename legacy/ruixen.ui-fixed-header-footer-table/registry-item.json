@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ruixen.ui-fixed-header-footer-table",
+  "type": "registry:ui",
+  "title": "Ruixen.Ui Fixed Header Footer Table",
+  "description": "Installed from https://21st.dev/r/ruixen.ui/fixed-header-footer-table",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ruixen.ui-fixed-header-footer-table"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "fixed-header-footer-table.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "table.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ruixen.ui/fixed-header-footer-table",
+    "fetchedAt": "2026-04-23T01:17:14.568Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

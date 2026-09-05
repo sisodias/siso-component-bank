@@ -1,0 +1,26 @@
+{
+  "id": "paper-design__halftone-cmyk-vintage",
+  "author": "paper-design",
+  "slug": "halftone-cmyk-vintage",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@paper-design/components/halftone-cmyk-vintage",
+  "fetchedAt": "2026-08-29T06:04:10.390Z",
+  "completedAt": "2026-08-29T06:04:12.585Z",
+  "versionedFilename": "code.1784835617655-c4c7c409-2ffe-493f-a3f4-c4ba53b01215.tsx",
+  "codeReference": "r2://components-code-private/paper-design/halftone-cmyk-vintage/code.1784835617655-c4c7c409-2ffe-493f-a3f4-c4ba53b01215.tsx",
+  "codeUrl": "https://cdn.21st.dev/paper-design/halftone-cmyk-vintage/code.1784835617655-c4c7c409-2ffe-493f-a3f4-c4ba53b01215.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

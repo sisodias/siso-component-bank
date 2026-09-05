@@ -1,0 +1,24 @@
+{
+  "category": "other",
+  "subcategory": "svg-draw-animation-hook",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Adds looping line-drawing animation to Lucide SVG icons using anime.js",
+    "Creates animated icon effects for loading states or decorative purposes",
+    "Provides animated icon visuals for feature showcases or walkthroughs"
+  ],
+  "ai_summary": "A React hook that applies a continuous line-drawing animation effect to Lucide icon SVGs using anime.js. The animation loops indefinitely with an in-out quad easing, creating a drawing/unrawing effect on paths, circles, and polylines. Designed as a reusable utility for adding animated icon visuals to any component or page.",
+  "_classifiedAt": "2026-04-23T17:03:52.718Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "checkbox-group",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Collecting multiple boolean selections in forms for user preferences and settings",
+    "Filtering data in dashboards or e-commerce product filters",
+    "Gathering consent or agreement acknowledgments",
+    "Multi-select options for survey questions or quizzes",
+    "Toggling multiple features or options in settings panels"
+  ],
+  "ai_summary": "A checkbox group component for collecting multiple selections from users in forms. This atomic input component supports binary toggles across multiple options, commonly used in settings interfaces, filtering systems, consent forms, and multi-select surveys. Designed for cross-platform use with responsive layouts.",
+  "_classifiedAt": "2026-04-22T09:03:26.929Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

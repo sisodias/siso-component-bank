@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@suraj-xd/components/claude-style-ai-input",
+  "author": "suraj-xd",
+  "slug": "claude-style-ai-input",
+  "name": "claude-style-ai-input",
+  "description": "Claude style dynamic chat input that adapts its preview based on content type - showing code snippets for programming files, content previews for documents, and traditional previews for media.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/suraj-xd/claude-style-ai-input?api_key=$API_KEY_21ST\"",
+  "id": "suraj-xd__claude-style-ai-input",
+  "bundleUrl": "https://cdn.21st.dev/suraj-xd/claude-style-ai-input/default/bundle.1748942175971.html",
+  "previewUrl": "https://cdn.21st.dev/suraj-xd/claude-style-ai-input/default/preview.1748942175971.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

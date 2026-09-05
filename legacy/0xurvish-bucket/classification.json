@@ -1,0 +1,30 @@
+{
+  "category": "card",
+  "subcategory": "feature-highlights-showcase",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying rotating product feature highlights on landing pages with animated transitions",
+    "Showcasing key value propositions with glass-morphism styling and iconography",
+    "Creating interactive feature cards that auto-cycle through benefits every 2 seconds",
+    "Building visually engaging product or service showcases with backdrop blur effects",
+    "Adding animated feature sections to SaaS dashboards or marketing sites"
+  ],
+  "ai_summary": "A dynamic feature showcase component featuring rotating chips with glass-morphism styling and backdrop blur effects. Uses Framer Motion for smooth 60fps animations and auto-cycles through feature highlights every 2 seconds. Includes icons from Hugeicons library and supports responsive layouts with mobile detection.",
+  "_classifiedAt": "2026-04-22T08:50:31.796Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

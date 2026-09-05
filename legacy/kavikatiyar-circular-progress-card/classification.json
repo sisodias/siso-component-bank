@@ -1,0 +1,24 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Form submission and user action triggers",
+    "Interactive UI elements with hover and focus states",
+    "Destructive action confirmation with destructive variant",
+    "Navigation triggers with link variant",
+    "Compact icon-only buttons for toolbars and interfaces"
+  ],
+  "ai_summary": "A reusable button component with Radix UI Slot integration and CVA variants, supporting multiple visual styles (default, destructive, outline, secondary, ghost, link) and sizes for diverse UI needs across any industry.",
+  "_classifiedAt": "2026-04-23T01:41:39.807Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

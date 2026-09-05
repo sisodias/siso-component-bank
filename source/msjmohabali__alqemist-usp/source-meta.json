@@ -1,0 +1,26 @@
+{
+  "id": "msjmohabali__alqemist-usp",
+  "author": "msjmohabali",
+  "slug": "alqemist-usp",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@msjmohabali/components/alqemist-usp",
+  "fetchedAt": "2026-08-29T05:51:55.175Z",
+  "completedAt": "2026-08-29T05:51:57.486Z",
+  "versionedFilename": "code.1781701273072.tsx",
+  "codeReference": "r2://components-code-private/msjmohabali/alqemist-usp/code.1781701273072.tsx",
+  "codeUrl": "https://cdn.21st.dev/msjmohabali/alqemist-usp/code.1781701273072.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1344,
+  "sha256": "13250e12748b9e6dcddca49e0239f5ac9d186d5cf785c2c3d2f3f504f626f1c0",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "ai-prompt-textarea",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools",
+    "ai-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "AI chatbot prompt input with accessible tooltip and popover support",
+    "ChatGPT-style text input for AI-powered applications",
+    "Rich prompt composition interface with contextual help overlays"
+  ],
+  "ai_summary": "A ChatGPT-style prompt input component built with Radix UI primitives providing accessible tooltips, popovers, and dialog support. Features smooth fade and zoom animations for overlays, dark mode support, and a clean minimalist design. Designed for AI/chat interfaces where users compose prompts with contextual guidance.",
+  "_classifiedAt": "2026-04-23T16:36:49.374Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

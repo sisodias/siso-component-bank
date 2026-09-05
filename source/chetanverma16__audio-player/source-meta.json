@@ -1,0 +1,33 @@
+{
+  "id": "chetanverma16__audio-player",
+  "author": "chetanverma16",
+  "slug": "audio-player",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@chetanverma16/components/audio-player",
+  "fetchedAt": "2026-08-29T03:53:48.855Z",
+  "completedAt": "2026-08-29T03:53:50.122Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/chetanverma16__audio-player/code.tsx",
+    "bytes": 8488,
+    "sha256": "101ee422677f845d3e52201b837d8994a686aef92d61bbb5ed225d4b1b156488",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

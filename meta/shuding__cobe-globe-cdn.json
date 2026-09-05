@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@shuding/components/cobe-globe-cdn",
+  "author": "shuding",
+  "slug": "cobe-globe-cdn",
+  "name": "cobe-globe-cdn",
+  "description": "A Vercel-style WebGL globe with spinning 3D pyramid markers at edge regions and live traffic stats on arcs.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/shuding/cobe-globe-cdn?api_key=$API_KEY_21ST\"",
+  "id": "shuding__cobe-globe-cdn",
+  "bundleUrl": "https://cdn.21st.dev/reapollo/cobe-globe-cdn/default/bundle.1774294444412.html",
+  "previewUrl": "https://cdn.21st.dev/reapollo/cobe-globe-cdn/default/preview.1774286201227.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

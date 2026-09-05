@@ -1,0 +1,30 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "product-display-card",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying featured products with call-to-action in e-commerce storefronts",
+    "Showcasing digital products or SaaS offerings with pricing information",
+    "Presenting product details with image, title, description, and purchase button"
+  ],
+  "ai_summary": "A product card component designed for e-commerce and SaaS platforms, featuring product image display, title, description, and a call-to-action button. Built with Radix UI Slot and CVA for flexible variant styling. Supports hover interactions and integrates cleanly into product grids or featured sections.",
+  "_classifiedAt": "2026-04-22T09:10:27.493Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

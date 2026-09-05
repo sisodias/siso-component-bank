@@ -1,0 +1,23 @@
+{
+  "category": "input",
+  "subcategory": "file-upload-hook",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Handling image file uploads with automatic client-side preview generation using blob URLs",
+    "Managing file upload state including preview URL and filename for display in UI",
+    "Cleaning up blob URLs and resetting file input when images are removed",
+    "Providing reusable image upload logic for any React component"
+  ],
+  "ai_summary": "A React hook that encapsulates image upload functionality including client-side preview generation via URL.createObjectURL, file selection handling, and automatic cleanup of blob URLs on unmount or removal. Returns refs and handlers for seamless integration into any upload UI component.",
+  "_classifiedAt": "2026-04-23T17:05:06.952Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

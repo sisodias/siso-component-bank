@@ -1,0 +1,29 @@
+{
+  "category": "navigation",
+  "subcategory": "nav-divider",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Separating navigation links in header menus between primary and secondary items",
+    "Dividing sections in dropdown or flyout menus",
+    "Creating visual breaks in toolbar or action bars",
+    "Separating sidebar navigation groups",
+    "Dividing content sections in forms or settings pages"
+  ],
+  "ai_summary": "A lightweight Base UI Separator component that renders a thin vertical or horizontal line to visually divide navigation elements. Primarily used in header navigation bars to separate primary nav items (Home, Pricing, Blog) from secondary actions (Log in). Features keyboard accessibility with focus-visible states and supports vertical/horizontal orientations.",
+  "_classifiedAt": "2026-04-23T11:32:26.297Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

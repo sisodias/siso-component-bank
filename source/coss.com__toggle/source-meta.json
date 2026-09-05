@@ -1,0 +1,26 @@
+{
+  "id": "coss.com__toggle",
+  "author": "coss.com",
+  "slug": "toggle",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@coss.com/components/toggle",
+  "fetchedAt": "2026-08-29T04:02:51.781Z",
+  "completedAt": "2026-08-29T04:02:53.909Z",
+  "versionedFilename": "code.1774356310184.tsx",
+  "codeReference": "r2://components-code-private/coss.com/toggle/code.1774356310184.tsx",
+  "codeUrl": "https://cdn.21st.dev/coss.com/toggle/code.1774356310184.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/typescript",
+  "bytes": 2355,
+  "sha256": "0984c4d4a1e03be075ea87943512684a325f97aa5722661a0bb6921f331de434",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "reaviz__incident-report-middle",
+  "author": "reaviz",
+  "slug": "incident-report-middle",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@reaviz/components/incident-report-middle",
+  "fetchedAt": "2026-08-29T06:32:53.034Z",
+  "completedAt": "2026-08-29T06:32:55.224Z",
+  "versionedFilename": "code.1748009733724.tsx",
+  "codeReference": "r2://components-code-private/larsen66/incident-report-middle/code.1748009733724.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/incident-report-middle/code.1748009733724.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 13232,
+  "sha256": "96179021fdaecbdbd751ca057183d37c8e1515d2142568ad13fa6fb47eed2e0d",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

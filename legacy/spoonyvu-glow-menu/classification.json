@@ -1,0 +1,32 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "animated-menu-bar",
+  "visual_style": [
+    "glass-morphism",
+    "gradient",
+    "glow"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Main navigation bar for web applications with animated hover states",
+    "Floating tool menu with 3D flip animations and gradient glow effects",
+    "Dashboard navigation with glassmorphic styling and theme support"
+  ],
+  "ai_summary": "A glassmorphic navigation bar featuring animated menu items with 3D flip effects on hover and radial gradient glow. Built with Framer Motion for smooth transitions and supports both light and dark themes via next-themes.",
+  "_classifiedAt": "2026-04-23T17:32:55.569Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

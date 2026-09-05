@@ -1,0 +1,33 @@
+{
+  "id": "preetsuthar17__ai-chat-input",
+  "author": "preetsuthar17",
+  "slug": "ai-chat-input",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@preetsuthar17/components/ai-chat-input",
+  "fetchedAt": "2026-08-29T06:11:49.090Z",
+  "completedAt": "2026-08-29T06:11:50.341Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/preetsuthar17__ai-chat-input/code.tsx",
+    "bytes": 9558,
+    "sha256": "afa0e2d1f82bb846a799cf145c971c53b9ca65798d281dc925ca30485d8468fe",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

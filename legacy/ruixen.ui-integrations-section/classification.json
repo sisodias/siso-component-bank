@@ -1,0 +1,24 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Form submission and user actions across web applications",
+    "Call-to-action buttons in marketing and product interfaces",
+    "Navigation triggers and modal activations",
+    "Interactive elements in dashboards and admin panels"
+  ],
+  "ai_summary": "A reusable Button component using Radix UI Slot and class-variance-authority for variant management. Supports multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Follows shadcn/ui design patterns with Tailwind CSS, providing accessible focus states and disabled states. Ships with full TypeScript support and forwardRef for DOM manipulation.",
+  "_classifiedAt": "2026-04-23T17:18:59.978Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

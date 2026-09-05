@@ -1,0 +1,27 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "action-button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Interactive call-to-action buttons for forms, navigation, and user interfaces across any web application",
+    "Buttons support multiple visual variants including default, destructive, outline, secondary, ghost, and link styles",
+    "Accessible button component with focus-visible outlines and keyboard navigation support",
+    "Scalable button system with consistent styling using CSS variables and class-variance-authority",
+    "Reusable button component that can be composed as child elements via Radix UI Slot"
+  ],
+  "ai_summary": "A versatile, accessible button component built with Radix UI Slot and class-variance-authority. Supports multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon) with consistent flat styling and subtle shadows. Features focus-visible states, disabled states, and composable rendering via asChild prop.",
+  "_classifiedAt": "2026-04-23T17:40:17.640Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "theorcdev__8bit-badge",
+  "author": "theorcdev",
+  "slug": "8bit-badge",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theorcdev/components/8bit-badge",
+  "fetchedAt": "2026-08-29T07:31:58.654Z",
+  "completedAt": "2026-08-29T07:32:00.669Z",
+  "versionedFilename": "code.1779962143897.tsx",
+  "codeReference": "r2://components-code-private/larsen66/8bit-badge/code.1779962143897.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/8bit-badge/code.1779962143897.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2210,
+  "sha256": "c4de2df7afc2fbd023d30b8f807c0f9d2e460bccf62e70ef24d24bcfef1c399b",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

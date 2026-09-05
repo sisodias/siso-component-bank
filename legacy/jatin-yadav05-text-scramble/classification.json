@@ -1,0 +1,29 @@
+{
+  "category": "other",
+  "subcategory": "text-scramble-effect",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Create engaging hover effects on headings or call-to-action text",
+    "Add dynamic text animations to marketing landing pages",
+    "Enhance button labels with scrambled reveal interactions",
+    "Build interactive portfolio or creative website text elements",
+    "Implement glitch-style text transitions in loading states"
+  ],
+  "ai_summary": "A lightweight text scrambling effect component that reveals characters progressively on hover using random character substitution. The animation cycles through a set of random characters (uppercase letters, numbers, symbols) before settling on the final text, creating a glitch-like reveal effect. Built with monospace typography and tracking for a tech-forward aesthetic, suitable for interactive UI elements requiring dynamic text transitions.",
+  "_classifiedAt": "2026-04-22T09:01:10.978Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

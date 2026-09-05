@@ -1,0 +1,29 @@
+{
+  "category": "feedback",
+  "subcategory": "ai-reasoning-display",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "ai-tools",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display AI agent reasoning and thought process in chatbots",
+    "Show AI thinking states during query processing in agentic applications",
+    "Provide transparency in AI decision-making for user trust",
+    "Use as animated loading state while AI processes requests",
+    "Visualize multi-step reasoning in AI tutoring or education platforms"
+  ],
+  "ai_summary": "An interactive AI thinking block component that displays agent reasoning through animated scrolling text. Features a card wrapper with integrated loader animation, showing progressive thought content to users during AI processing. Commonly used in AI chatbots and agentic workflows to demonstrate reasoning transparency and maintain user engagement during processing.",
+  "_classifiedAt": "2026-04-22T09:08:17.047Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "arunachalam0606-thumbnail-button-video-player",
+  "type": "registry:ui",
+  "title": "Arunachalam0606 Thumbnail Button Video Player",
+  "description": "Installed from https://21st.dev/r/arunachalam0606/thumbnail-button-video-player",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "arunachalam0606-thumbnail-button-video-player"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "thumbnail-button-video-player.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "lucide-react",
+    "next"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/arunachalam0606/thumbnail-button-video-player",
+    "fetchedAt": "2026-04-23T03:04:08.556Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

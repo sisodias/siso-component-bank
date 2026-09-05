@@ -1,0 +1,26 @@
+{
+  "id": "lavikatiyar__card-1",
+  "author": "lavikatiyar",
+  "slug": "card-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@lavikatiyar/components/card-1",
+  "fetchedAt": "2026-08-29T05:24:18.750Z",
+  "completedAt": "2026-08-29T05:24:20.777Z",
+  "versionedFilename": "code.1757929856066.tsx",
+  "codeReference": "r2://components-code-private/lavikatiyar/card-1/code.1757929856066.tsx",
+  "codeUrl": "https://cdn.21st.dev/lavikatiyar/card-1/code.1757929856066.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2272,
+  "sha256": "fad82753a0661ef61cecaad0d49d4c9653cdd5c2762a4ce492a70bb8d73efcb7",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

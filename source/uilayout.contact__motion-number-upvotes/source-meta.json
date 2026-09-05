@@ -1,0 +1,26 @@
+{
+  "id": "uilayout.contact__motion-number-upvotes",
+  "author": "uilayout.contact",
+  "slug": "motion-number-upvotes",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uilayout.contact/components/motion-number-upvotes",
+  "fetchedAt": "2026-08-29T07:44:40.371Z",
+  "completedAt": "2026-08-29T07:44:42.275Z",
+  "versionedFilename": "code.1784423727970-ee0af1b5-db16-4a5e-9e5d-98dab02d02a6.tsx",
+  "codeReference": "r2://components-code-private/uilayout.contact/motion-number-upvotes/code.1784423727970-ee0af1b5-db16-4a5e-9e5d-98dab02d02a6.tsx",
+  "codeUrl": "https://cdn.21st.dev/uilayout.contact/motion-number-upvotes/code.1784423727970-ee0af1b5-db16-4a5e-9e5d-98dab02d02a6.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

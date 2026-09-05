@@ -1,0 +1,28 @@
+{
+  "category": "data-display",
+  "subcategory": "flip-countdown-timer",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Counting down to product launches or feature releases",
+    "Displaying time remaining for limited offers or flash sales",
+    "Showing countdown to event start times like webinars or live streams",
+    "Creating urgency for countdown-based marketing campaigns",
+    "Displaying live statistics that animate on value changes"
+  ],
+  "ai_summary": "A flip-style countdown timer component that displays numbers with a smooth card-flip animation when values change. Supports large numbers using BigInt and customizable colors. Automatically counts down from a starting value to a target with real-time animated digit transitions.",
+  "_classifiedAt": "2026-04-23T16:37:05.410Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

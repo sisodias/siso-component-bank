@@ -1,0 +1,29 @@
+{
+  "category": "form",
+  "subcategory": "authentication-sign-in",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "User authentication flows for web applications",
+    "Login pages for SaaS platforms requiring email/password credentials",
+    "Account access gates for protected content or member-only features",
+    "E-commerce checkout authentication processes",
+    "Onboarding flows requiring user sign-in before proceeding"
+  ],
+  "ai_summary": "A polished dual-theme sign-in form component featuring email and password inputs with password visibility toggle, loading states, and smooth mount animations. Includes theme switching between light and dark modes with responsive design suitable for desktop and mobile platforms. Built with Tailwind CSS and Lucide icons for a clean, professional authentication experience.",
+  "_classifiedAt": "2026-04-23T17:01:47.300Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

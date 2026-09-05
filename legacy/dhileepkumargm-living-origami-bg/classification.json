@@ -1,0 +1,33 @@
+{
+  "category": "hero",
+  "subcategory": "animated-hero-background",
+  "visual_style": [
+    "3d",
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero section backgrounds for creative landing pages and portfolios",
+    "Atmospheric animated backgrounds for tech and SaaS product pages",
+    "Visual impact sections for marketing websites and event promotions",
+    "Decorative animated elements for creative agency websites",
+    "Procedural animation showcases for design system documentation"
+  ],
+  "ai_summary": "A procedurally animated hero background featuring glowing origami cranes that fly across the screen using CSS 3D transforms and layered keyframe animations. Each of the 15 drifter elements has randomized position, rotation, scale, and animation timing to create organic, flock-like movement. The component is self-contained and generates its own animation parameters, making it suitable as a drop-in hero background for landing pages, portfolios, or creative product showcases.",
+  "_classifiedAt": "2026-04-23T01:39:20.377Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

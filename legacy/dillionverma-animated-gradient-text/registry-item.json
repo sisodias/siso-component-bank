@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "dillionverma-animated-gradient-text",
+  "type": "registry:ui",
+  "title": "Dillionverma Animated Gradient Text",
+  "description": "Installed from https://21st.dev/r/dillionverma/animated-gradient-text",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "dillionverma-animated-gradient-text"
+  ],
+  "files": [
+    {
+      "path": "animated-gradient-text.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/dillionverma/animated-gradient-text",
+    "fetchedAt": "2026-04-23T03:05:41.191Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

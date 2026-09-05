@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "muhammad-binsalman-light-saas-hero-section",
+  "type": "registry:ui",
+  "title": "Muhammad Binsalman Light Saas Hero Section",
+  "description": "Installed from https://21st.dev/r/muhammad-binsalman/light-saas-hero-section",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "muhammad-binsalman-light-saas-hero-section"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "light-saas-hero-section.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "ogl"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/muhammad-binsalman/light-saas-hero-section",
+    "fetchedAt": "2026-04-23T02:28:15.234Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

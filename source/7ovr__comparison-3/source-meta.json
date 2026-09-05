@@ -1,0 +1,26 @@
+{
+  "id": "7ovr__comparison-3",
+  "author": "7ovr",
+  "slug": "comparison-3",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@7ovr/components/comparison-3",
+  "fetchedAt": "2026-08-29T03:25:36.355Z",
+  "completedAt": "2026-08-29T03:25:38.520Z",
+  "versionedFilename": "code.1784806075624-0e6d2b9d-8fc9-4b87-a3e9-a1d92fd00e0b.tsx",
+  "codeReference": "r2://components-code-private/7ovr/comparison-3/code.1784806075624-0e6d2b9d-8fc9-4b87-a3e9-a1d92fd00e0b.tsx",
+  "codeUrl": "https://cdn.21st.dev/7ovr/comparison-3/code.1784806075624-0e6d2b9d-8fc9-4b87-a3e9-a1d92fd00e0b.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

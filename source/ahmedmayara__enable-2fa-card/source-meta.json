@@ -1,0 +1,26 @@
+{
+  "id": "ahmedmayara__enable-2fa-card",
+  "author": "ahmedmayara",
+  "slug": "enable-2fa-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ahmedmayara/components/enable-2fa-card",
+  "fetchedAt": "2026-08-29T03:31:07.541Z",
+  "completedAt": "2026-08-29T03:31:09.800Z",
+  "versionedFilename": "code.1755905645215.tsx",
+  "codeReference": "r2://components-code-private/ahmedmayara/enable-2fa-card/code.1755905645215.tsx",
+  "codeUrl": "https://cdn.21st.dev/ahmedmayara/enable-2fa-card/code.1755905645215.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4922,
+  "sha256": "7dbe4c016653738d81a3152b91c2c490f33abb05538fd9cb25975fa528c5bbd2",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

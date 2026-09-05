@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "select-dropdown",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Form input for selecting options from a predefined list in applications",
+    "Filter or category selection in dashboards and settings pages",
+    "Drop-in replacement for native HTML select elements with enhanced styling",
+    "Configuration forms requiring option selection"
+  ],
+  "ai_summary": "A customizable select dropdown component featuring four size variants (xsmall to large), error state handling, and optional prefix/suffix slots for icons or text. Built with Tailwind CSS, it provides a clean, minimalist alternative to native select elements with proper form accessibility support. Includes error display capability and disabled state for comprehensive form validation scenarios.",
+  "_classifiedAt": "2026-04-23T17:31:01.101Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

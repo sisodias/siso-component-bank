@@ -1,0 +1,26 @@
+{
+  "id": "ibssibss7__elixr",
+  "author": "ibssibss7",
+  "slug": "elixr",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ibssibss7/components/elixr",
+  "fetchedAt": "2026-08-29T05:00:28.278Z",
+  "completedAt": "2026-08-29T05:00:30.097Z",
+  "versionedFilename": "code.1755313633092.tsx",
+  "codeReference": "r2://components-code-private/ibssibss7/elixr/code.1755313633092.tsx",
+  "codeUrl": "https://cdn.21st.dev/ibssibss7/elixr/code.1755313633092.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10611,
+  "sha256": "bdf142456369a9e0a0e7bb3e88e34bc1d14b72e18c42ede3cdbc69d104ff8005",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

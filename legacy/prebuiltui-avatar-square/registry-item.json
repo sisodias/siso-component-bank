@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "prebuiltui-avatar-square",
+  "type": "registry:ui",
+  "title": "Prebuiltui Avatar Square",
+  "description": "Installed from https://21st.dev/r/prebuiltui/avatar-square",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "prebuiltui-avatar-square"
+  ],
+  "files": [
+    {
+      "path": "avatar-square.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/prebuiltui/avatar-square",
+    "fetchedAt": "2026-04-22T06:44:03.474Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "category": "data-display",
+  "subcategory": "calendar-grid-pill",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying monthly calendar views with pill-styled date cells",
+    "Navigating between months using prev/next buttons",
+    "Selecting single dates for scheduling applications",
+    "Selecting date ranges for booking systems",
+    "Integrating into appointment or event management interfaces"
+  ],
+  "ai_summary": "A minimalist calendar component featuring pill-styled date cells with rounded-full styling and subtle hover states. Built on react-aria-components with navigation controls, day headers, and support for both single and range date selection. Clean, functional design suitable for appointment scheduling, task management, and booking interfaces across various industries.",
+  "_classifiedAt": "2026-04-22T09:12:53.518Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

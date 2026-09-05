@@ -1,0 +1,34 @@
+{
+  "category": [
+    "form",
+    "card"
+  ],
+  "subcategory": "authentication-form",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "User authentication for web applications",
+    "Login interface for SaaS platforms",
+    "Account access for fintech applications",
+    "Developer portal authentication"
+  ],
+  "ai_summary": "A sign-in form component from Ruixen.UI library designed for user authentication flows. Features a clean, minimalist design with subtle shadow effects and smooth hover transitions. Built with Radix UI Slot for composition and CVA for variant management. The form includes input fields for credentials and action buttons with multiple style variants including default, outline, and secondary styles. Responsive design works across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T01:51:14.079Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

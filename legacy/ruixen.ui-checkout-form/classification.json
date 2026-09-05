@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "action-button",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Trigger form submission in checkout or registration flows",
+    "Execute primary actions like save, confirm, or purchase",
+    "Provide destructive action buttons for cancel or delete operations",
+    "Serve as secondary or alternative action options within forms",
+    "Enable navigation or link-like behavior with ghost and link variants"
+  ],
+  "ai_summary": "A versatile, accessible button component with multiple visual variants (default, destructive, outline, secondary, ghost, link) and size options. Built with Radix UI Slot for composition flexibility and class-variance-authority for consistent styling. Features standard focus states, disabled states, and shadow effects suitable for checkout forms, SaaS interfaces, and general web applications requiring interactive action elements.",
+  "_classifiedAt": "2026-04-23T01:49:08.631Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

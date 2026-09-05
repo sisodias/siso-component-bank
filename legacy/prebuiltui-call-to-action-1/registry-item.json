@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "prebuiltui-call-to-action-1",
+  "type": "registry:ui",
+  "title": "Prebuiltui Call To Action 1",
+  "description": "Installed from https://21st.dev/r/prebuiltui/call-to-action-1",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "prebuiltui-call-to-action-1"
+  ],
+  "files": [
+    {
+      "path": "call-to-action-1.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/prebuiltui/call-to-action-1",
+    "fetchedAt": "2026-04-23T01:17:42.729Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

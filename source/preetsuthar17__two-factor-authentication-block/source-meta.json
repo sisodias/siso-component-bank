@@ -1,0 +1,33 @@
+{
+  "id": "preetsuthar17__two-factor-authentication-block",
+  "author": "preetsuthar17",
+  "slug": "two-factor-authentication-block",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@preetsuthar17/components/two-factor-authentication-block",
+  "fetchedAt": "2026-08-29T06:15:25.081Z",
+  "completedAt": "2026-08-29T06:15:26.128Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "page-soft404",
+  "failureClass": "soft-404",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/preetsuthar17__two-factor-authentication-block/code.tsx",
+    "bytes": 3346,
+    "sha256": "a3ffa10e46e1c56072bac974b5d89e062ccb14ab004bf34515e7552ce62f0903",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is page-soft404/soft-404."
+  }
+}

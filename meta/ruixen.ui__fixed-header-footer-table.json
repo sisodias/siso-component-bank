@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/fixed-header-footer-table",
+  "author": "ruixen.ui",
+  "slug": "fixed-header-footer-table",
+  "name": "fixed-header-footer-table",
+  "description": "This Fixed Header and Footer Table component is a highly practical and user-friendly UI element built with Shadcn UI. It ensures that the table header remains fixed at the top and the footer stays visible at the bottom, while the rows in the middle can scroll independently. This layout is especially useful when working with long datasets, as users can always see the column titles for context and the footer for totals or summary information without losing track while scrolling. By separating the header, body, and footer into distinct sections with a scrollable middle, the component improves readability and usability in dashboards, financial reports, admin panels, and data-heavy applications. Its clean design, responsiveness, and clarity make it a versatile table structure for modern web apps.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/fixed-header-footer-table?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__fixed-header-footer-table",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/fixed-header-footer-table/default/bundle.1757821020511.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/fixed-header-footer-table/default/preview.1757821020511.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 47,
+  "demo_id": 7454,
+  "video_url": null
+}

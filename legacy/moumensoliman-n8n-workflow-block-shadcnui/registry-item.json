@@ -1,0 +1,43 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "moumensoliman-n8n-workflow-block-shadcnui",
+  "type": "registry:ui",
+  "title": "Moumensoliman N8n Workflow Block Shadcnui",
+  "description": "Installed from https://21st.dev/r/moumensoliman/n8n-workflow-block-shadcnui",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "moumensoliman-n8n-workflow-block-shadcnui"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "n8n-workflow-block-shadcnui.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "missing relative sibling import: ./badge"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/moumensoliman/n8n-workflow-block-shadcnui",
+    "fetchedAt": "2026-04-22T06:31:58.715Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

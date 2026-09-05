@@ -1,0 +1,44 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "kokonutd-interactive-checkout",
+  "type": "registry:ui",
+  "title": "Kokonutd Interactive Checkout",
+  "description": "Installed from https://21st.dev/r/kokonutd/interactive-checkout",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "kokonutd-interactive-checkout"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "interactive-checkout.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@number-flow/react",
+    "framer-motion",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "missing relative sibling imports: ./button"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/kokonutd/interactive-checkout",
+    "fetchedAt": "2026-04-23T03:05:32.560Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

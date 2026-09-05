@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@m.kumailalirajpoot/components/vpn-featured-modal",
+  "author": "m.kumailalirajpoot",
+  "slug": "vpn-featured-modal",
+  "name": "vpn-featured-modal",
+  "description": "The TurboVpn component is a ShadCN-based dialog that lets users manage VPN settings. It includes a main switch to turn the VPN on or off and feature toggles for third-party app access, ad blocking, and fast-speed mode. Each option has an icon and short description, and features become active only when the VPN is enabled.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/m.kumailalirajpoot/vpn-featured-modal?api_key=$API_KEY_21ST\"",
+  "id": "m.kumailalirajpoot__vpn-featured-modal",
+  "bundleUrl": "https://cdn.21st.dev/m.kumailalirajpoot/vpn-featured-modal/default/bundle.1762797728736.html",
+  "previewUrl": "https://cdn.21st.dev/m.kumailalirajpoot/vpn-featured-modal/default/preview.1762797728736.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

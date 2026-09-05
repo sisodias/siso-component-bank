@@ -1,0 +1,26 @@
+{
+  "category": "media",
+  "subcategory": "animated pixel grid visualization",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Background decoration for landing pages",
+    "Ambient visual effect for hero sections",
+    "Decorative canvas animation for website backgrounds",
+    "Dynamic pixel art visualization for tech-focused interfaces",
+    "Self-animating grid effect for digital product showcases"
+  ],
+  "ai_summary": "A canvas-based animated pixel grid component that renders a configurable grid of pixels with randomized life cycles, opacity transitions, and optional glow effects. Individual pixels fade in and out with varying alpha values and timing, creating a dynamic ambient visual effect suitable for backgrounds or decorative purposes. The component is fully self-contained with built-in animation logic using requestAnimationFrame.",
+  "_classifiedAt": "2026-04-22T09:08:01.822Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,34 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "image-comparison-slider",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "drag",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "media",
+    "e-commerce",
+    "real-estate",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Comparing before/after images in photo editing or restoration workflows",
+    "Showing product variations or versions side-by-side in e-commerce",
+    "Comparing property images in real estate listings",
+    "Displaying design iterations in creative portfolios",
+    "Educational side-by-side visual comparisons in media studies"
+  ],
+  "ai_summary": "An interactive image comparison slider component with smooth spring animations for the divider handle. Supports both drag and hover-based interaction modes with full touch support for mobile devices. Uses React context for state management and Motion's physics-based animations for fluid slider movement. Ideal for comparing visual differences between two images with an intuitive draggable divider.",
+  "_classifiedAt": "2026-04-23T11:33:27.944Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

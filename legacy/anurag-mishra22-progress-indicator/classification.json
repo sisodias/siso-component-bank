@@ -1,0 +1,29 @@
+{
+  "category": "feedback",
+  "subcategory": "step-progress",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Multi-step onboarding or registration flows showing completion progress",
+    "Checkout or payment process step tracking",
+    "Tutorial or guided setup wizard progress indicators",
+    "Survey or questionnaire multi-page form progress",
+    "Course lesson or module completion tracking"
+  ],
+  "ai_summary": "A three-step progress indicator component with animated green bar overlay showing completion status through dots. Features spring-based framer-motion animations for smooth progress transitions and Continue/Back button controls for navigating through multi-step workflows. Designed for universal use across onboarding, checkout, and wizard-style interfaces.",
+  "_classifiedAt": "2026-04-23T11:30:37.510Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

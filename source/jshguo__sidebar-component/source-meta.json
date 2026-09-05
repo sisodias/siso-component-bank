@@ -1,0 +1,26 @@
+{
+  "id": "jshguo__sidebar-component",
+  "author": "jshguo",
+  "slug": "sidebar-component",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@jshguo/components/sidebar-component",
+  "fetchedAt": "2026-08-29T05:12:34.760Z",
+  "completedAt": "2026-08-29T05:12:36.948Z",
+  "versionedFilename": "code.1756233829951.tsx",
+  "codeReference": "r2://components-code-private/larsen66/sidebar-component/code.1756233829951.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/sidebar-component/code.1756233829951.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 40467,
+  "sha256": "60c19d7370641fd5fad7cada4ba2adf8bde521fc3caf2589f4d20f3b68184fc4",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

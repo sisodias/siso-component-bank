@@ -1,0 +1,26 @@
+{
+  "id": "haydenbleasel__kanban",
+  "author": "haydenbleasel",
+  "slug": "kanban",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@haydenbleasel/components/kanban",
+  "fetchedAt": "2026-08-29T04:55:05.706Z",
+  "completedAt": "2026-08-29T04:55:07.685Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null
+}

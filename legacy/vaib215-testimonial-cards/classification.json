@@ -1,0 +1,31 @@
+{
+  "category": "card",
+  "subcategory": "testimonial card with drag-to-shuffle",
+  "visual_style": [
+    "glass-morphism",
+    "dark"
+  ],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display customer testimonials with interactive drag-to-shuffle functionality",
+    "Showcase social proof with avatar images and quotes on product pages",
+    "Feature user reviews in a modern, glass-effect card layout",
+    "Create testimonial carousels with physics-based drag interactions",
+    "Build testimonial sections with depth and layered card positioning"
+  ],
+  "ai_summary": "An interactive testimonial card component with glass-morphism styling featuring dark slate colors and backdrop blur effects. The card uses framer-motion for drag interactions, allowing users to swipe and shuffle between testimonials. Features include avatar display, quote text with italic styling, and author attribution with indigo accent colors. The drag-end handler triggers shuffle animations when swiped past 150px threshold, making it ideal for testimonial carousels or review showcases in SaaS, e-commerce, or portfolio applications.",
+  "_classifiedAt": "2026-04-23T17:41:48.857Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,24 @@
+{
+  "category": "input",
+  "subcategory": "responsive-detection-utility",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Detecting mobile viewport width to enable responsive component behavior",
+    "Conditionally rendering mobile-optimized layouts or interactions",
+    "Providing device-type context for adaptive UI components"
+  ],
+  "ai_summary": "A lightweight React hook that uses the matchMedia API to detect if the viewport width is below the mobile breakpoint of 768px. It returns a boolean value and includes proper cleanup on unmount. Commonly used to conditionally apply mobile-specific styles, render different component variants, or enable responsive behavior throughout a shadcn/ui application.",
+  "_classifiedAt": "2026-04-23T17:27:01.383Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

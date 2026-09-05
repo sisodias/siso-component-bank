@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card",
+    "media"
+  ],
+  "subcategory": "contact-profile-hover-card",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Team member profile cards that reveal contact info on hover",
+    "Speaker or presenter bio cards for conference websites",
+    "Employee directory with space-efficient hover-reveal design",
+    "Portfolio cards showcasing individuals with expandable details",
+    "Contact cards for professional networking pages"
+  ],
+  "ai_summary": "A contact card component featuring a full-bleed profile image with an overlay that smoothly reveals on hover, displaying contact information with slide-up animations. Supports multiple color variants (default, primary, secondary) and size options. The interaction uses scale, opacity, and translateY transitions for an elegant user experience. Ideal for team pages, directories, or speaker sections where space efficiency and visual appeal are priorities.",
+  "_classifiedAt": "2026-04-23T17:37:05.699Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

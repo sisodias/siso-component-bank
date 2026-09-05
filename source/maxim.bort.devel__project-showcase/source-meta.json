@@ -1,0 +1,26 @@
+{
+  "id": "maxim.bort.devel__project-showcase",
+  "author": "maxim.bort.devel",
+  "slug": "project-showcase",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@maxim.bort.devel/components/project-showcase",
+  "fetchedAt": "2026-08-29T05:39:00.447Z",
+  "completedAt": "2026-08-29T05:39:02.301Z",
+  "versionedFilename": "code.1754588058682.tsx",
+  "codeReference": "r2://components-code-private/maxim.bort.devel/project-showcase/code.1754588058682.tsx",
+  "codeUrl": "https://cdn.21st.dev/maxim.bort.devel/project-showcase/code.1754588058682.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 19785,
+  "sha256": "06c7d86f0b408b24b8115291c0178f21836a63900f7eb20024dbba27b1cc85b8",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

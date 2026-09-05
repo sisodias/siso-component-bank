@@ -1,0 +1,33 @@
+{
+  "id": "shugar__award-badge",
+  "author": "shugar",
+  "slug": "award-badge",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/award-badge",
+  "fetchedAt": "2026-08-29T07:18:35.578Z",
+  "completedAt": "2026-08-29T07:18:36.755Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/shugar__award-badge/code.tsx",
+    "bytes": 15040,
+    "sha256": "591e8aa483b0c6bbab528b3e9c549d24c3a1d818744cd202e55d646164703998",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

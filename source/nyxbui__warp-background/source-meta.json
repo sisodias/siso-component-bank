@@ -1,0 +1,26 @@
+{
+  "id": "nyxbui__warp-background",
+  "author": "nyxbui",
+  "slug": "warp-background",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@nyxbui/components/warp-background",
+  "fetchedAt": "2026-08-29T05:59:36.683Z",
+  "completedAt": "2026-08-29T05:59:38.976Z",
+  "versionedFilename": "code.1750173410668.tsx",
+  "codeReference": "r2://components-code-private/larsen66/warp-background/code.1750173410668.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/warp-background/code.1750173410668.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6610,
+  "sha256": "305e3c15cc2c16de528f13af2098a84226767e745c7fc6521ff44a163a1a1eed",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

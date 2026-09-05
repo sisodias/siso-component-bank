@@ -1,0 +1,33 @@
+{
+  "id": "ruixen.ui__floating-icons-loader",
+  "author": "ruixen.ui",
+  "slug": "floating-icons-loader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/floating-icons-loader",
+  "fetchedAt": "2026-08-29T06:42:38.547Z",
+  "completedAt": "2026-08-29T06:42:40.465Z",
+  "versionedFilename": "code.1785370086615-e9f785fb-e8cc-4afc-8317-e76994e5a951.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/floating-icons-loader/code.1785370086615-e9f785fb-e8cc-4afc-8317-e76994e5a951.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/floating-icons-loader/code.1785370086615-e9f785fb-e8cc-4afc-8317-e76994e5a951.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/ruixen.ui__floating-icons-loader/code.tsx",
+    "bytes": 2847,
+    "sha256": "520d2e9fb43f723bb7222fa1086e4501bd3c6bd3c636e4a078c5d0695a3f2ec4",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

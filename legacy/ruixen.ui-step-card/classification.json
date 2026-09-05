@@ -1,0 +1,42 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools",
+    "healthcare",
+    "education",
+    "real-estate",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Form submission triggers for user actions like login, signup, or checkout",
+    "Call-to-action buttons in marketing pages and dashboards",
+    "Navigation actions within multi-step flows or wizards",
+    "Icon-only buttons for compact UI toolbars and action bars",
+    "Destructive action confirmation buttons with visual warning states"
+  ],
+  "ai_summary": "A versatile button component from the ruixen.ui library built with Radix UI Slot and class-variance-authority for flexible styling. Supports multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon) with proper focus states, disabled states, and shadow effects. Designed for reusable UI patterns across SaaS, e-commerce, and dev tool interfaces.",
+  "_classifiedAt": "2026-04-23T01:51:41.251Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

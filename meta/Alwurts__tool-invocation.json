@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@Alwurts/components/tool-invocation",
+  "author": "Alwurts",
+  "slug": "tool-invocation",
+  "name": "tool-invocation",
+  "description": "A composable card that displays an AI tool call with state icons (loading, success, error) and collapsible tool details showing arguments and results.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/Alwurts/tool-invocation?api_key=$API_KEY_21ST\"",
+  "id": "Alwurts__tool-invocation",
+  "bundleUrl": "https://cdn.21st.dev/Alwurts/tool-invocation/default/bundle.1783696455812.html",
+  "previewUrl": "https://cdn.21st.dev/Alwurts/tool-invocation/default/preview.1783696455812.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

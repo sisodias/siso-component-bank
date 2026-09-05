@@ -1,0 +1,25 @@
+{
+  "category": "form",
+  "subcategory": "authentication-card",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "User login and authentication flows for web applications",
+    "Secure credential collection with password visibility toggle",
+    "Interactive 3D card effect for enhanced visual engagement during sign-in",
+    "Remember me functionality for persistent user sessions"
+  ],
+  "ai_summary": "A polished sign-in card component featuring email and password input fields with a 3D tilt effect that responds to mouse movement. Includes password visibility toggle, remember me checkbox, and loading state. Built with Framer Motion for smooth animations and a glassmorphism-inspired dark aesthetic suitable for modern SaaS and e-commerce authentication forms.",
+  "_classifiedAt": "2026-04-23T16:47:28.876Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

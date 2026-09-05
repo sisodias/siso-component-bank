@@ -1,0 +1,36 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading-indicator",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Display loading state during async data fetching operations",
+    "Indicate progress during API calls or network requests",
+    "Provide visual feedback during page or route transitions",
+    "Show processing status during form submissions",
+    "Maintain user engagement during background operations"
+  ],
+  "ai_summary": "A versatile loading indicator component with multiple variants including circular, classic radial spinner, pulse, dots, wave, bars, and text-based animations. Features size customization (sm/md/lg) with CSS keyframe animations for smooth visual feedback. Built with Tailwind CSS using a minimalist flat design with primary color theming. Exports individual loader components like CircularLoader for focused usage or can be used as a unified Loader interface.",
+  "_classifiedAt": "2026-04-23T11:29:05.100Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,42 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "action-button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Triggering form submissions and actions in web applications",
+    "Navigation and routing via clickable CTAs",
+    "Destructive actions with dedicated variant for delete/warning operations",
+    "Icon-only buttons for compact toolbar interfaces",
+    "Accessibility-friendly buttons with focus states via Radix Slot"
+  ],
+  "ai_summary": "A shadcn/ui-style button component with CVA-based variant and size control. Supports standard variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Built with Radix UI Slot for composition flexibility and proper accessibility attributes. Designed for desktop and mobile use with disabled states and focus ring support.",
+  "_classifiedAt": "2026-04-22T09:15:12.376Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

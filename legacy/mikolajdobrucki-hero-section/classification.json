@@ -1,0 +1,30 @@
+{
+  "category": "card",
+  "subcategory": "badge-status-indicator",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying status labels like 'new', 'sale', or 'featured' on product or content cards",
+    "Showing category or tag labels in content management and e-commerce interfaces",
+    "Indicating feature availability or plan tiers in pricing tables",
+    "Marking notification counts or unread states in dashboard interfaces",
+    "Labeling content types such as articles, videos, or documents in media platforms"
+  ],
+  "ai_summary": "A reusable badge component with variant-driven styling using class-variance-authority. Supports multiple visual variants (default, secondary, destructive, outline) with hover and focus states. Used for displaying status labels, tags, and category indicators across various interface contexts.",
+  "_classifiedAt": "2026-04-23T16:57:39.711Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

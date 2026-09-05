@@ -1,0 +1,26 @@
+{
+  "id": "Codehagen__timeline",
+  "author": "Codehagen",
+  "slug": "timeline",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@Codehagen/components/timeline",
+  "fetchedAt": "2026-08-29T04:00:40.892Z",
+  "completedAt": "2026-08-29T04:00:43.136Z",
+  "versionedFilename": "code.1749983669098.tsx",
+  "codeReference": "r2://components-code-private/larsen66/timeline/code.1749983669098.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/timeline/code.1749983669098.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 9056,
+  "sha256": "858698c2b2ebc0babd0f52585de14412992a13a325600e10fa3ecd217e4805ad",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

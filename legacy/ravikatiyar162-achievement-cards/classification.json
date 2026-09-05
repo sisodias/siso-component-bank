@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "achievement-award-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "education",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying user achievements and awards in profile sections",
+    "Showing certification badges or recognitions",
+    "Presenting ranked accomplishments in leaderboards",
+    "Highlighting milestones in gamification systems",
+    "Listing professional recognitions in portfolios"
+  ],
+  "ai_summary": "A minimalist card component designed to display achievement and award information with an icon, title, and description. Features subtle hover animations with shadow elevation and vertical translation. Built with shadcn/ui styling conventions, making it ideal for profile pages, gamification interfaces, or any context requiring recognition display.",
+  "_classifiedAt": "2026-04-23T17:10:47.839Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

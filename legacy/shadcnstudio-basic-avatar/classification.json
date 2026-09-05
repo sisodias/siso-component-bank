@@ -1,0 +1,25 @@
+{
+  "category": "media",
+  "subcategory": "user-avatar",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying user profile pictures in navigation, comments, or user lists",
+    "Showing fallback initials or icons when user images fail to load",
+    "Representing users in chat interfaces or notification systems",
+    "Creating consistent user identity across dashboards and profiles"
+  ],
+  "ai_summary": "A lightweight, accessible avatar component built on Radix UI primitives with image support and automatic fallback to initials when images fail to load. Part of the shadcn/ui design system, following minimalist styling conventions with Tailwind CSS.",
+  "_classifiedAt": "2026-04-22T09:15:44.122Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

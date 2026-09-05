@@ -1,0 +1,30 @@
+{
+  "category": "media",
+  "subcategory": "magnetic-cursor-text-effect",
+  "visual_style": [],
+  "interactions": [
+    "morph",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "creator-tools",
+    "media",
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creating interactive hero sections with magnetic cursor text effects for creative portfolios",
+    "Building engaging landing pages with cursor-following animations for design agencies",
+    "Adding premium interactive cursor effects to creative/agency websites",
+    "Implementing smooth morphing cursor elements that track mouse movement with easing",
+    "Enhancing text-based sections with inverse parallax movement for visual depth"
+  ],
+  "ai_summary": "A magnetic cursor text effect component that creates an interactive element with smooth mouse-tracking animation. Features a circle that follows the cursor with lerp-based easing (0.15 factor) and inner text that moves inversely for a parallax depth effect. Uses requestAnimationFrame for buttery 60fps animation performance, with dynamic container sizing and responsive resize handling. Ideal for creative portfolios, agency websites, and interactive landing pages seeking premium cursor effects.",
+  "_classifiedAt": "2026-04-22T09:00:55.499Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

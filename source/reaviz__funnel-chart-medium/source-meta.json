@@ -1,0 +1,33 @@
+{
+  "id": "reaviz__funnel-chart-medium",
+  "author": "reaviz",
+  "slug": "funnel-chart-medium",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@reaviz/components/funnel-chart-medium",
+  "fetchedAt": "2026-08-29T06:32:34.260Z",
+  "completedAt": "2026-08-29T06:32:35.182Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "page-soft404",
+  "failureClass": "soft-404",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/reaviz__funnel-chart-medium/code.tsx",
+    "bytes": 11077,
+    "sha256": "a9434c2cf61c53c0964ec6e3868cb7ed3d1345718fed5b6baa576191e2a817e0",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is page-soft404/soft-404."
+  }
+}

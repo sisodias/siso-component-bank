@@ -1,0 +1,33 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "sidebar-nav",
+  "visual_style": [
+    "dark",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Primary navigation for SaaS and dashboard applications with collapsible sidebar support",
+    "Mobile-responsive navigation drawer with hamburger menu trigger",
+    "Admin panel navigation with active state indicators for current page",
+    "Space-efficient navigation using collapse functionality on desktop viewports",
+    "Multi-section app navigation with icons and labels for visual clarity"
+  ],
+  "ai_summary": "A responsive sidebar navigation component with dark gradient styling featuring a collapsible mode for desktop and hamburger-triggered drawer for mobile. Includes overlay backdrop on mobile, smooth CSS transitions, active item highlighting, and icon-based menu items. Built for SaaS applications, admin dashboards, and dev tool interfaces requiring persistent navigation with space-saving options.",
+  "_classifiedAt": "2026-04-23T17:40:25.789Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

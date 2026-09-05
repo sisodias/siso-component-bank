@@ -1,0 +1,34 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "scroll-animated-gallery-container",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Scroll-triggered image galleries with blur-to-clear reveal animations",
+    "Product showcases with smooth spring-based motion transitions",
+    "Landing page sections requiring depth-creating 3D perspective transforms",
+    "Portfolio and content sections needing smooth scroll-driven animations",
+    "Creative websites and agencies showcasing visual content with motion effects"
+  ],
+  "ai_summary": "A scroll-animated gallery container system that provides scroll context for child elements using React context and motion hooks. Features blur-to-reveal animations with spring physics, 3D perspective transforms for depth effects, and sticky positioning capabilities for creating immersive scroll-driven gallery experiences in landing pages and portfolio sites.",
+  "_classifiedAt": "2026-04-23T17:44:33.492Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

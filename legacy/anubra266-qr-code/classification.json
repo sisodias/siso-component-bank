@@ -1,0 +1,29 @@
+{
+  "category": "data-display",
+  "subcategory": "qr-code",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display scannable QR codes for sharing website URLs or links",
+    "Generate QR codes for mobile app deep links in marketing materials",
+    "Show QR codes for payment links or digital business cards",
+    "Provide authentication codes via QR in two-factor setups",
+    "Embed scannable links in print collateral for offline-to-online conversion"
+  ],
+  "ai_summary": "A lightweight QR code display component from Ark UI that renders a scannable QR code pattern encoding a URL or text value. Features basic dark mode support with minimal styling including a white/dark background, border, and rounded corners. Designed for embedding scannable links into any application interface.",
+  "_classifiedAt": "2026-04-23T01:36:03.906Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "jshguo-sidebar-component",
+  "type": "registry:ui",
+  "title": "Jshguo Sidebar Component",
+  "description": "Installed from https://21st.dev/r/jshguo/sidebar-component",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "jshguo-sidebar-component"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "sidebar-component.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@carbon/icons-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/jshguo/sidebar-component",
+    "fetchedAt": "2026-04-23T01:18:46.850Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

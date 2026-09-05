@@ -1,0 +1,33 @@
+{
+  "id": "waleedkibhen__matrix-code-rain",
+  "author": "waleedkibhen",
+  "slug": "matrix-code-rain",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@waleedkibhen/components/matrix-code-rain",
+  "fetchedAt": "2026-08-29T07:56:28.706Z",
+  "completedAt": "2026-08-29T07:56:30.517Z",
+  "versionedFilename": "code.1785458045364-96652c19-5955-47ff-b411-be98eddb0e2c.tsx",
+  "codeReference": "r2://components-code-private/waleedkibhen/matrix-code-rain/code.1785458045364-96652c19-5955-47ff-b411-be98eddb0e2c.tsx",
+  "codeUrl": "https://cdn.21st.dev/waleedkibhen/matrix-code-rain/code.1785458045364-96652c19-5955-47ff-b411-be98eddb0e2c.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/waleedkibhen__matrix-code-rain/code.tsx",
+    "bytes": 9121,
+    "sha256": "a81e7992c155b52e5c0e27474f7278ffc0232698447352c8f0d4bdeb646a2e28",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

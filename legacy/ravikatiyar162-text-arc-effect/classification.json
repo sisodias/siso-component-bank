@@ -1,0 +1,36 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "arc-text-display",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Display brand names or taglines in a circular text arc pattern around a central logo",
+    "Create decorative hero section elements with curved typography",
+    "Design profile pages with avatar name displayed in an arc layout",
+    "Add creative text presentation to landing pages",
+    "Build branding elements with circular text integration"
+  ],
+  "ai_summary": "A Text Arc Effect component that renders text along a circular path surrounding a central logo element. Features responsive design with dark/light theme support, using Framer Motion for animations. The text characters are positioned using CSS transforms to create the arc effect with adjustable diameter. Ideal for creative brand presentations, hero sections, and decorative typography displays in web applications.",
+  "_classifiedAt": "2026-04-23T17:13:43.416Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

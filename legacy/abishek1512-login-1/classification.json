@@ -1,0 +1,26 @@
+{
+  "category": "form",
+  "subcategory": "login-authentication",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "User authentication and login flows for web applications",
+    "Account login forms with interactive input field feedback",
+    "Secure entry point for user dashboards and protected routes"
+  ],
+  "ai_summary": "A modern login form component with custom input fields featuring interactive hover effects. The input elements display radial gradient glow effects that follow mouse movement across the field, creating an engaging user experience. Built with CSS variables for theming flexibility and includes focus states with background transitions.",
+  "_classifiedAt": "2026-04-23T11:28:08.414Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

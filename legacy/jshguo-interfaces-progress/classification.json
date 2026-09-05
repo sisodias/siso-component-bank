@@ -1,0 +1,28 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "progress-indicator",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display loading or processing status in applications",
+    "Show form or task completion percentage",
+    "Indicate file upload or download progress",
+    "Visualize data processing or analysis completion",
+    "Represent workflow or pipeline stage progression"
+  ],
+  "ai_summary": "A minimalist progress bar component built on Radix UI primitives. Displays a horizontal progress indicator with smooth CSS transform-based animation and rounded styling. Suitable for indicating completion status across various contexts including loading states, form progress, and task completion tracking.",
+  "_classifiedAt": "2026-04-22T09:01:56.203Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "toggle-switch",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Enable or disable features in application settings panels",
+    "Toggle boolean states in forms such as dark mode or notifications",
+    "Use as on/off switches for user preferences in SaaS dashboards",
+    "Control e-commerce filters or product options",
+    "Switch between states in settings pages for any web application"
+  ],
+  "ai_summary": "A lightweight toggle switch component using Tailwind CSS that leverages CSS peer-checked selectors for state management. The switch features a pill-shaped track with a sliding dot, indigo color scheme when active, and includes accessible focus rings for keyboard navigation. Designed as a drop-in replacement for checkboxes with a more intuitive visual metaphor for boolean settings.",
+  "_classifiedAt": "2026-04-22T09:08:06.179Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

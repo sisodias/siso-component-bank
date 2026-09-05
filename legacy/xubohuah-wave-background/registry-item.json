@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "xubohuah-wave-background",
+  "type": "registry:ui",
+  "title": "Xubohuah Wave Background",
+  "description": "Installed from https://21st.dev/r/xubohuah/wave-background",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "xubohuah-wave-background"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "wave-background.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "simplex-noise"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/xubohuah/wave-background",
+    "fetchedAt": "2026-04-23T03:04:59.261Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "solaceui__navbar-section-2",
+  "author": "solaceui",
+  "slug": "navbar-section-2",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@solaceui/components/navbar-section-2",
+  "fetchedAt": "2026-08-29T07:22:54.389Z",
+  "completedAt": "2026-08-29T07:22:56.939Z",
+  "versionedFilename": "code.1783485957214.tsx",
+  "codeReference": "r2://components-code-private/solaceui/navbar-section-2/code.1783485957214.tsx",
+  "codeUrl": "https://cdn.21st.dev/solaceui/navbar-section-2/code.1783485957214.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 16338,
+  "sha256": "39ef6d75236e1fa46514fc6575923499d9b1e9a22709919c94734051b9bc8df7",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

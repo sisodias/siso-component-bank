@@ -1,0 +1,35 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "upload-progress-toast",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Display file upload progress with real-time percentage updates in cloud storage applications",
+    "Show multi-file upload status with expandable details in document management systems",
+    "Provide success/error feedback after file uploads complete in web applications",
+    "Allow users to collapse/expand upload queue to save screen space",
+    "Support dismissal of completed uploads to clean up the notification area"
+  ],
+  "ai_summary": "A Google Drive-style upload toast component that displays real-time file upload progress with status indicators, file type icons, and expandable queue management. Features dark mode support and includes success/error states for multi-file uploads in SaaS and file management applications.",
+  "_classifiedAt": "2026-04-23T17:34:44.733Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

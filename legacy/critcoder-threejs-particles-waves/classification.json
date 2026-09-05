@@ -1,0 +1,23 @@
+{
+  "category": "data-display",
+  "subcategory": "numeric-counter",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display and modify numeric values with increment/decrement controls",
+    "Simple counter UI for testing component structure"
+  ],
+  "ai_summary": "A basic React counter component displaying a numeric value with plus and minus buttons for incrementing and decrementing. Built with React hooks for state management and Tailwind CSS for styling. This appears to be a stub implementation rather than the actual Three.js particles waves visualization described in the component metadata.",
+  "_classifiedAt": "2026-04-23T01:37:15.102Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

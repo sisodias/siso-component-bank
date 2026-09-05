@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "molecule-lab-rushil-bouncing-dots",
+  "type": "registry:ui",
+  "title": "Molecule Lab Rushil Bouncing Dots",
+  "description": "Installed from https://21st.dev/r/molecule-lab-rushil/bouncing-dots",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "molecule-lab-rushil-bouncing-dots"
+  ],
+  "files": [
+    {
+      "path": "bouncing-dots.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "class-variance-authority",
+    "motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/molecule-lab-rushil/bouncing-dots",
+    "fetchedAt": "2026-04-23T03:02:36.997Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

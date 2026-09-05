@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@kvnkld/components/data-table",
+  "author": "kvnkld",
+  "slug": "data-table",
+  "name": "data-table",
+  "description": "A compact comparison table listing AI models with their context window and price, each row prefixed with the provider's brand icon.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/kvnkld/data-table?api_key=$API_KEY_21ST\"",
+  "id": "kvnkld__data-table",
+  "bundleUrl": "https://cdn.21st.dev/kvnkld/data-table/default/bundle.1785482974797-42b40023-44f8-4ca4-bb79-d14de92b7bec.html",
+  "previewUrl": "https://cdn.21st.dev/kvnkld/data-table/default/preview.1785482974797-42b40023-44f8-4ca4-bb79-d14de92b7bec.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

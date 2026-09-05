@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/case-studies",
+  "author": "ruixen.ui",
+  "slug": "case-studies",
+  "name": "case-studies",
+  "description": "This component is a pricing plan selector built with React and ShadCN UI. It displays three subscription options—Free, Pro, and Enterprise—each inside a styled card. The plans include a title, price, base units, and a list of features. A toggle button allows switching between showing the base units included in each plan or the per-unit pricing. The design ensures clarity by neatly aligning text, removing decimals",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/case-studies?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__case-studies",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/case-studies/default/bundle.1755359704026.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/case-studies/default/preview.1755359638626.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 153,
+  "demo_id": 5574,
+  "video_url": null
+}

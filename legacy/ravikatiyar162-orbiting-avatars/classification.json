@@ -1,0 +1,29 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action button for forms and interactive interfaces",
+    "Destructive variant for delete or dangerous actions",
+    "Outline buttons for secondary actions in UI flows",
+    "Ghost buttons for subtle, minimal interface designs",
+    "Icon buttons for compact toolbar and navigation elements"
+  ],
+  "ai_summary": "A polymorphic button component built with Radix UI Slot and class-variance-authority for flexible variant management. Supports multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon) with standard accessibility features including focus-visible ring states and disabled mode. Uses Tailwind CSS for styling with standard color transitions on hover.",
+  "_classifiedAt": "2026-04-23T01:47:46.130Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

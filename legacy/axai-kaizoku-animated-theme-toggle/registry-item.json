@@ -1,0 +1,46 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "axai-kaizoku-animated-theme-toggle",
+  "type": "registry:ui",
+  "title": "Axai Kaizoku Animated Theme Toggle",
+  "description": "Installed from https://21st.dev/r/axai-kaizoku/animated-theme-toggle",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "axai-kaizoku-animated-theme-toggle"
+  ],
+  "files": [
+    {
+      "path": "animated-theme-toggle.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/axai-kaizoku/animated-theme-toggle",
+    "fetchedAt": "2026-04-22T06:43:27.304Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

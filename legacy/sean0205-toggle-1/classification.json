@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "toggle-switch",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Binary settings toggles for enabling/disabling features in settings panels",
+    "Dark mode or theme switches in application headers",
+    "Filter toggles for e-commerce product filtering",
+    "Permission or access control toggles in admin dashboards",
+    "Form inputs requiring boolean values in healthcare or business applications"
+  ],
+  "ai_summary": "A reusable toggle switch component built on Radix UI primitives with Tailwind CSS styling. Supports multiple variants (default, outline) and sizes (lg, md, sm) via class-variance-authority for flexible styling customization. The component features hover states, focus-visible rings for accessibility, and active state styling using accent colors. As a foundational atomic UI primitive, it's designed for integration into larger form systems, settings interfaces, and dashboard components across SaaS, fintech, and general web applications.",
+  "_classifiedAt": "2026-04-23T17:24:46.943Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

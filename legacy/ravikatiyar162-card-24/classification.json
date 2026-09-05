@@ -1,0 +1,29 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Form submission and action triggering across web applications",
+    "Navigation triggers and CTA buttons in landing pages",
+    "Interactive UI elements in dashboards and interfaces"
+  ],
+  "ai_summary": "A reusable Button component with configurable variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Built on Radix UI Slot for composition flexibility and uses class-variance-authority for consistent styling. Includes standard accessibility attributes like focus-visible ring and disabled states.",
+  "_classifiedAt": "2026-04-23T01:46:23.499Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

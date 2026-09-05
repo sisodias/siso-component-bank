@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "search input with animated suggestions",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "morph",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Search bar with typewriter-animated suggestion text for engaging user experience",
+    "Command palette or quick-search with slide/fade suggestion effects",
+    "Hero section search input with cycling animated suggestions",
+    "Auto-complete search component with customizable animation effects",
+    "Accessible search input supporting reduced motion preferences"
+  ],
+  "ai_summary": "A search input component featuring animated text suggestions with built-in typewriter, slide, fade, and custom effect support. Supports infinite or one-time animation modes, custom leading/trailing icons, and respects reduced motion preferences. Highly customizable via EffectComponent prop for extensibility.",
+  "_classifiedAt": "2026-04-23T01:55:03.432Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

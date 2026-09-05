@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action triggers in forms and authentication flows",
+    "Navigation and routing interactions",
+    "Call-to-action buttons in marketing pages",
+    "Confirmation dialogs and alerts",
+    "Toggle states and mode switching"
+  ],
+  "ai_summary": "A reusable button component built with shadcn/ui patterns featuring multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes. Uses CVA for type-safe variant management and Radix UI Slot for composition. Includes proper accessibility support with focus rings and disabled states. Designed for flexible integration across authentication, forms, and UI action triggers.",
+  "_classifiedAt": "2026-04-23T17:28:06.894Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

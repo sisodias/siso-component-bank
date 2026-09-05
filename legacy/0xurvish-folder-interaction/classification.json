@@ -1,0 +1,29 @@
+{
+  "category": "media",
+  "subcategory": "folder-animation-spring-physics",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "File and folder UI components in document management systems",
+    "Animated folder opening interactions for portfolio or showcase sections",
+    "Tabbed or layered content displays with spring physics",
+    "Interactive card stacking animations in productivity apps",
+    "File browser previews with smooth open/close transitions"
+  ],
+  "ai_summary": "A dark-themed folder component with spring-animated pages that expand outward on click. Features three card layers with rotation and position transforms creating a 3D folder opening effect with smooth motion physics. The component uses Framer Motion's spring animations with configurable bounce, stiffness, and damping values for natural-feeling interactions.",
+  "_classifiedAt": "2026-04-22T08:50:21.908Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

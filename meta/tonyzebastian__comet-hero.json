@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@tonyzebastian/components/comet-hero",
+  "author": "tonyzebastian",
+  "slug": "comet-hero",
+  "name": "comet-hero",
+  "description": "An animated SVG component recreating the swirling line animation from the Perplexity Comet download page. Features four 3D-rotated circles with gradient strokes (teal, orange, rose, amber) animated via strokeDashOffset. The visual effect comes from carefully tuned rotation angles, gradients, and animation speeds to achieve the signature swirling motion.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/tonyzebastian/comet-hero?api_key=$API_KEY_21ST\"",
+  "id": "tonyzebastian__comet-hero",
+  "bundleUrl": "https://cdn.21st.dev/tonyzebastian/comet-hero/default/bundle.1759509986724.html",
+  "previewUrl": "https://cdn.21st.dev/tonyzebastian/comet-hero/default/preview.1759509986723.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "category": "media",
+  "subcategory": "avatar",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying user avatars in navigation headers or profile sections",
+    "Showing team member thumbnails in dashboards or admin panels",
+    "Representing users in comment sections or chat interfaces",
+    "Displaying customer avatars in e-commerce order management",
+    "Showing user presence indicators in real-time collaboration tools"
+  ],
+  "ai_summary": "A flat-style avatar component with square rounded corners and a notification badge overlay. Features multiple color variants (blue, red, yellow) for status indicators. Designed as a reusable atomic component for displaying user profile images with optional badge counts in various UI contexts.",
+  "_classifiedAt": "2026-04-22T09:07:57.577Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

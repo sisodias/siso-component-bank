@@ -1,0 +1,44 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "isaiahbjork-hud-area-chart-1",
+  "type": "registry:ui",
+  "title": "Isaiahbjork Hud Area Chart 1",
+  "description": "Installed from https://21st.dev/r/isaiahbjork/hud-area-chart-1",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "isaiahbjork-hud-area-chart-1"
+  ],
+  "files": [
+    {
+      "path": "chart.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "hud-area-chart-1.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "recharts"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/isaiahbjork/hud-area-chart-1",
+    "fetchedAt": "2026-04-23T03:03:46.304Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

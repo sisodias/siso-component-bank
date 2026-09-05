@@ -1,0 +1,29 @@
+{
+  "category": "media",
+  "subcategory": "particle-animation-canvas",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Decorative background animation for hero sections on landing pages",
+    "Ambient visual effect for portfolio or creative tool interfaces",
+    "Loading or waiting state visual replacement",
+    "Abstract visual element for data visualization or tech-themed designs",
+    "Dynamic background for splash screens or empty states"
+  ],
+  "ai_summary": "A particle system animation component that renders an entropy/chaos visual effect on an HTML canvas. Features ordered and chaotic particles that influence each other's movement, creating an organic, flowing animation. The component is highly customizable with size and styling props, and renders white particles on a dark background using device pixel ratio for crisp display across devices.",
+  "_classifiedAt": "2026-04-23T17:43:25.228Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

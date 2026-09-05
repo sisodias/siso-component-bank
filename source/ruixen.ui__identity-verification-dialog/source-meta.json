@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__identity-verification-dialog",
+  "author": "ruixen.ui",
+  "slug": "identity-verification-dialog",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/identity-verification-dialog",
+  "fetchedAt": "2026-08-29T06:43:56.666Z",
+  "completedAt": "2026-08-29T06:43:58.715Z",
+  "versionedFilename": "code.1759041372789.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/identity-verification-dialog/code.1759041372789.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/identity-verification-dialog/code.1759041372789.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4213,
+  "sha256": "cb7c7b182c1c69c42bde9b0e323565c6b48bdca6b0bcf8493dfe31ac3a685f47",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

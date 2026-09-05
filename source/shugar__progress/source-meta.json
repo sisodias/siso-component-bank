@@ -1,0 +1,26 @@
+{
+  "id": "shugar__progress",
+  "author": "shugar",
+  "slug": "progress",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/progress",
+  "fetchedAt": "2026-08-29T07:19:50.376Z",
+  "completedAt": "2026-08-29T07:19:52.587Z",
+  "versionedFilename": "code.1751618997768.tsx",
+  "codeReference": "r2://components-code-private/shugar/progress/code.1751618997768.tsx",
+  "codeUrl": "https://cdn.21st.dev/shugar/progress/code.1751618997768.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1408,
+  "sha256": "aaea00cd162f0473ad4a5fd3099b30f46a320aa0b1f4306125054438bd4f9fa5",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

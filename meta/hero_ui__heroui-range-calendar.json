@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@hero_ui/components/heroui-range-calendar",
+  "author": "hero_ui",
+  "slug": "heroui-range-calendar",
+  "name": "heroui-range-calendar",
+  "description": "A HeroUI range calendar for selecting a contiguous span of dates, built on react-aria. Supports default and controlled values, min/max bounds, unavailable and non-contiguous ranges, read-only and disabled states, per-day indicators, and multiple visible months. Month names are rendered in English.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/hero_ui/heroui-range-calendar?api_key=$API_KEY_21ST\"",
+  "id": "hero_ui__heroui-range-calendar",
+  "bundleUrl": "https://cdn.21st.dev/hero_ui/heroui-range-calendar/default/bundle.1783614840643.html",
+  "previewUrl": "https://cdn.21st.dev/hero_ui/heroui-range-calendar/default/preview.1783614840643.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

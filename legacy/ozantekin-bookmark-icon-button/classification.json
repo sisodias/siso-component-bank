@@ -1,0 +1,30 @@
+{
+  "category": "input",
+  "subcategory": "bookmark-save-toggle-button",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Saving/bookmarking articles or content in web applications",
+    "Marking items as favorites in e-commerce or media platforms",
+    "Adding items to reading lists or wishlists",
+    "Toggling saved state with animated feedback in productivity apps",
+    "Collection management UI for SaaS dashboards"
+  ],
+  "ai_summary": "A bookmark icon button component with animated save state toggle functionality. Features particle burst effects and spring animations when toggling between saved and unsaved states, providing satisfying micro-interactions. Built with Framer Motion for smooth animations, lucide-react for icons, and includes accessibility support via aria-pressed attribute for screen readers.",
+  "_classifiedAt": "2026-04-23T17:05:32.132Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "shugar__show-more-1",
+  "author": "shugar",
+  "slug": "show-more-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/show-more-1",
+  "fetchedAt": "2026-08-29T07:20:15.684Z",
+  "completedAt": "2026-08-29T07:20:18.423Z",
+  "versionedFilename": "code.1751389565585.tsx",
+  "codeReference": "r2://components-code-private/shugar/show-more-1/code.1751389565585.tsx",
+  "codeUrl": "https://cdn.21st.dev/shugar/show-more-1/code.1751389565585.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1918,
+  "sha256": "1d116a559fb856c52e243eb3ae69d49bb5ba400fd63e6e576618ef2b15fd60ee",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

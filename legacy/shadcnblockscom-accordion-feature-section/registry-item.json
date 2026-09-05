@@ -1,0 +1,45 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "shadcnblockscom-accordion-feature-section",
+  "type": "registry:ui",
+  "title": "Shadcnblockscom Accordion Feature Section",
+  "description": "Installed from https://21st.dev/r/shadcnblockscom/accordion-feature-section",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "shadcnblockscom-accordion-feature-section"
+  ],
+  "files": [
+    {
+      "path": "accordion-feature-section.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "accordion.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-accordion",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/shadcnblockscom/accordion-feature-section",
+    "fetchedAt": "2026-04-23T03:04:47.387Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

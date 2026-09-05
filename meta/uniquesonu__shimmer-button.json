@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@uniquesonu/components/shimmer-button",
+  "author": "uniquesonu",
+  "slug": "shimmer-button",
+  "name": "shimmer-button",
+  "description": "This React component renders a customizable button with various visual enhancements, including a 3D effect, hover animations, and a unique shimmer effect triggered by mouse movement.  It offers options for size, variant (default or secondary), and custom shimmer color. The component utilizes CSS variables and keyframes for animation.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/uniquesonu/shimmer-button?api_key=$API_KEY_21ST\"",
+  "id": "uniquesonu__shimmer-button",
+  "bundleUrl": "https://cdn.21st.dev/uniquesonu/shimmer-button/default/bundle.1755006720014.html",
+  "previewUrl": "https://cdn.21st.dev/uniquesonu/shimmer-button/default/preview.1754996043874.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

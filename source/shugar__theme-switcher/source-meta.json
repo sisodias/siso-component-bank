@@ -1,0 +1,33 @@
+{
+  "id": "shugar__theme-switcher",
+  "author": "shugar",
+  "slug": "theme-switcher",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/theme-switcher",
+  "fetchedAt": "2026-08-29T07:20:50.203Z",
+  "completedAt": "2026-08-29T07:20:51.767Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/shugar__theme-switcher/code.tsx",
+    "bytes": 5764,
+    "sha256": "31a32d8feb6eb5078a46a17af94a41b575736016e1a41188cca84b768cc37613",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

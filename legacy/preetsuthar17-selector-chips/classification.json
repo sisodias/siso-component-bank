@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "Multi-select toggle chips",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Multi-select filtering in dashboards or search interfaces",
+    "Category or tag selection in content management systems",
+    "Filter options in e-commerce product browsers",
+    "Form input for selecting multiple preferences or interests",
+    "Quick-toggle selection for settings or configuration panels"
+  ],
+  "ai_summary": "A multi-select chip selector component with animated selection states and spring-based width transitions. Each chip smoothly animates its background color, border, and width when toggled, with a reveal animation for checkmark indicators. Designed for filtering, categorization, and preference selection interfaces with a clean, pill-shaped aesthetic.",
+  "_classifiedAt": "2026-04-23T17:09:19.494Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

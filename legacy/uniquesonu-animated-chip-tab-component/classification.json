@@ -1,0 +1,34 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "chip tab pills",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Top-level navigation between app sections like Home, Search, About, and FAQ pages",
+    "Category or filter switching in dashboards and content management interfaces",
+    "Segment selection in settings panels or user preference interfaces",
+    "Tab-based view switching in SaaS applications and admin dashboards",
+    "Navigation pills in mobile-friendly responsive layouts"
+  ],
+  "ai_summary": "An animated chip tab navigation component using Framer Motion for smooth pill morphing transitions between selected states. Features gradient-filled active tabs that slide between options, with hover states for unselected items. Designed for lightweight navigation in SaaS, dev-tools, and general web applications with a clean, modern aesthetic.",
+  "_classifiedAt": "2026-04-23T01:54:12.645Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

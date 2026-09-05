@@ -1,0 +1,34 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "radial-social-menu",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Social media profile links on personal portfolios and developer websites",
+    "Quick-access contact links on author or speaker profile pages",
+    "External profile links on SaaS product team pages",
+    "Follow buttons on creator or influencer landing pages",
+    "Connect links in developer conference speaker bios"
+  ],
+  "ai_summary": "A radial social menu component that displays social media icons orbiting around a central user avatar with continuous clockwise rotation animation. Icons are positioned using trigonometry (cos/sin calculations) and feature hover scale and shadow effects. The center uses a blue-to-indigo gradient with pulse animation, while orbital icons have white backgrounds with subtle shadows. Perfect for personal websites, portfolios, and profile pages needing elegant social link presentation.",
+  "_classifiedAt": "2026-04-23T11:33:01.423Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

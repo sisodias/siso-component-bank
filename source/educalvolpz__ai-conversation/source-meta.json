@@ -1,0 +1,26 @@
+{
+  "id": "educalvolpz__ai-conversation",
+  "author": "educalvolpz",
+  "slug": "ai-conversation",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@educalvolpz/components/ai-conversation",
+  "fetchedAt": "2026-08-29T04:39:48.375Z",
+  "completedAt": "2026-08-29T04:39:53.746Z",
+  "versionedFilename": "code.1785773864981-31959f07-f489-4ec7-a9ef-543701c53e07.tsx",
+  "codeReference": "r2://components-code-private/educalvolpz/ai-conversation/code.1785773864981-31959f07-f489-4ec7-a9ef-543701c53e07.tsx",
+  "codeUrl": "https://cdn.21st.dev/educalvolpz/ai-conversation/code.1785773864981-31959f07-f489-4ec7-a9ef-543701c53e07.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

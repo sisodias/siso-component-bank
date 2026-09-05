@@ -1,0 +1,40 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "breadcrumb navigation",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "education",
+    "real-estate",
+    "fintech",
+    "healthcare",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying hierarchical navigation paths in web applications",
+    "Helping users understand their current location within a site's structure",
+    "Enabling quick navigation to parent pages in e-commerce product catalogs",
+    "Providing accessible breadcrumb trails for admin dashboards and settings pages",
+    "Supporting SEO-friendly navigation in content-heavy websites"
+  ],
+  "ai_summary": "A minimalist breadcrumb navigation component from Ant Design library that displays hierarchical path navigation. Renders a clickable trail of items with customizable links and separators, commonly used to show users their current location within a site's structure and enable quick navigation to parent pages.",
+  "_classifiedAt": "2026-04-22T08:51:23.580Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

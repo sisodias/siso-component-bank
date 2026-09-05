@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@theshanelevine/components/chat",
+  "author": "theshanelevine",
+  "slug": "chat",
+  "name": "chat",
+  "description": "Tabbed AI chat panel with animated reasoning replies and a message composer for agent interfaces.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/theshanelevine/chat?api_key=$API_KEY_21ST\"",
+  "id": "theshanelevine__chat",
+  "bundleUrl": "https://cdn.21st.dev/theshanelevine/chat/default/bundle.1785484847734-f168553a-13cb-4a59-978c-c9a170358307.html",
+  "previewUrl": "https://cdn.21st.dev/theshanelevine/chat/default/preview.1785484847734-f168553a-13cb-4a59-978c-c9a170358307.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

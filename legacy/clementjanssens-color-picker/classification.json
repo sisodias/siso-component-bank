@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "color-picker",
+  "visual_style": [],
+  "interactions": [
+    "drag",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "creator-tools",
+    "saas",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting colors from an interactive HSL color wheel with drag support",
+    "Creating color palettes with configurable spread and multiple color points",
+    "Customizing themes with real-time color preview via onColorChange callback",
+    "Building design tools with precise hue, saturation, and lightness control",
+    "Implementing brand color pickers with adjustable light range parameters"
+  ],
+  "ai_summary": "An interactive HSL color picker rendered on canvas with drag-to-select functionality. Features configurable spread factors, multiple color points, and real-time color output via onColorChange callback. Uses polar coordinates (angle and radius) to map to hue and lightness values, with smooth gradient rendering across the color spectrum. Supports customization through props for size, padding, bullet radius, and light range parameters.",
+  "_classifiedAt": "2026-04-23T16:27:48.883Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

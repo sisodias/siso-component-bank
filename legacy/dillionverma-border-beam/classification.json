@@ -1,0 +1,32 @@
+{
+  "category": "overlay",
+  "subcategory": "border-animation-effect",
+  "visual_style": [
+    "gradient-border",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Add animated gradient border effects to card components for visual pop",
+    "Enhance call-to-action buttons with glowing beam animations",
+    "Create attention-grabbing container borders on landing pages",
+    "Add premium visual effects to modal overlays and dialogs",
+    "Decorate image cards with animated border beams for media galleries"
+  ],
+  "ai_summary": "A lightweight atomic component that creates an animated gradient border beam effect. Uses CSS custom properties for flexible customization of size, duration, colors, and animation timing. The effect leverages CSS mask styles and offset-path animations to create a sweeping beam that travels around container edges, making it ideal for adding premium visual polish to cards, buttons, and overlay elements in modern web applications.",
+  "_classifiedAt": "2026-04-23T16:35:33.657Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

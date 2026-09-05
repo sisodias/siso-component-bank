@@ -1,0 +1,26 @@
+{
+  "id": "phucbm__draw-svg",
+  "author": "phucbm",
+  "slug": "draw-svg",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@phucbm/components/draw-svg",
+  "fetchedAt": "2026-08-29T06:08:41.970Z",
+  "completedAt": "2026-08-29T06:08:44.272Z",
+  "versionedFilename": "code.1762696454375.tsx",
+  "codeReference": "r2://components-code-private/phucbm/draw-svg/code.1762696454375.tsx",
+  "codeUrl": "https://cdn.21st.dev/phucbm/draw-svg/code.1762696454375.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4177,
+  "sha256": "dd2fd709fd11595cc4546cabad5d507bcd11d1e0e566f04c52f03b4061af7e82",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

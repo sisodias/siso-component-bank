@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "moazamtrade-background-shades",
+  "type": "registry:ui",
+  "title": "Moazamtrade Background Shades",
+  "description": "Installed from https://21st.dev/r/moazamtrade/background-shades",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "moazamtrade-background-shades"
+  ],
+  "files": [
+    {
+      "path": "background-shades.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@paper-design/shaders-react",
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/moazamtrade/background-shades",
+    "fetchedAt": "2026-04-23T01:18:27.776Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

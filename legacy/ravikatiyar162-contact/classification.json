@@ -1,0 +1,38 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons triggering form submissions or key user flows",
+    "Destructive action triggers with destructive variant styling for delete or remove operations",
+    "Secondary and outline-styled buttons for supporting actions alongside primary CTAs",
+    "Icon-only buttons for compact toolbar or navigation interfaces",
+    "Navigation links styled as buttons using the link variant with underline behavior"
+  ],
+  "ai_summary": "A reusable button component with variant-based styling powered by class-variance-authority, supporting six visual variants (default, destructive, outline, secondary, ghost, link) and four size options. Built with Radix UI Slot for flexible composition and follows standard accessible patterns with focus-visible ring states and disabled state handling. Designed as a foundational UI primitive that integrates with any design system using Tailwind CSS.",
+  "_classifiedAt": "2026-04-22T09:09:06.391Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

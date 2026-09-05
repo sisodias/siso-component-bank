@@ -1,0 +1,35 @@
+{
+  "category": [
+    "other"
+  ],
+  "subcategory": "scroll-fade-mask, overflow-container",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Creating scrollable containers with elegant fade-out edges at boundaries",
+    "Adding visual polish to content overflow areas in image galleries or carousels",
+    "Implementing progressive content reveal patterns in storytelling layouts",
+    "Building reading indicators with fade effects at scroll container edges",
+    "Enhancing card components with subtle scroll fade transitions"
+  ],
+  "ai_summary": "A lightweight React utility component that applies a CSS mask gradient to create smooth fade-out effects at the edges of scrollable containers. Supports both horizontal and vertical orientations, making it ideal for creating elegant content reveals, image carousels, and reading progress indicators in modern web interfaces.",
+  "_classifiedAt": "2026-04-22T09:04:05.851Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

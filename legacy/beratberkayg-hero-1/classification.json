@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "interactive-button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Trigger actions or navigate users to specific pages",
+    "Submit forms with styled CTA buttons",
+    "Provide destructive action buttons with warning styling",
+    "Create ghost or outline buttons for secondary actions",
+    "Use as link-style buttons for inline navigation"
+  ],
+  "ai_summary": "A reusable Button component built with React and Radix UI Slot for composition. Supports multiple variants (default, destructive, outline, secondary, ghost, link) and sizes. Uses CVA for variant management and includes standard accessibility features like focus-visible ring and disabled states. Commonly used within larger components like Hero sections for CTAs.",
+  "_classifiedAt": "2026-04-23T11:32:50.963Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

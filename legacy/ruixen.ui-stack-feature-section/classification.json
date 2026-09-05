@@ -1,0 +1,30 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-action-trigger",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action buttons in web applications",
+    "Form submission and reset triggers",
+    "Navigation menu items and links",
+    "Destructive action confirmation buttons",
+    "Icon-only buttons for compact UI spaces"
+  ],
+  "ai_summary": "A reusable React button component with multiple visual variants (default, destructive, outline, secondary, ghost, link) and size options (default, sm, lg, icon). Built with Radix UI Slot for composition, class-variance-authority for variant management, and includes keyboard accessibility with focus-visible ring states. Designed as an atomic UI building block for any Tailwind CSS application.",
+  "_classifiedAt": "2026-04-23T17:21:08.958Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

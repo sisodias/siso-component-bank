@@ -1,0 +1,32 @@
+{
+  "category": "input",
+  "subcategory": "date-picker",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting appointment dates in healthcare scheduling applications",
+    "Choosing delivery or booking dates in e-commerce checkout flows",
+    "Setting event or deadline dates in project management tools",
+    "Picking inspection or closing dates in real estate platforms",
+    "Recording transaction or billing dates in financial dashboards"
+  ],
+  "ai_summary": "A clean, accessible date picker component built with Ark UI featuring a trigger input, month/year selectors, and a calendar grid popup. Includes dark mode support, clear functionality, and focus states. Designed for universal use across SaaS, e-commerce, healthcare, and financial applications requiring date selection.",
+  "_classifiedAt": "2026-04-23T01:52:44.957Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

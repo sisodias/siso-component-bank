@@ -1,0 +1,26 @@
+{
+  "id": "contact.mlozano__particleburst",
+  "author": "contact.mlozano",
+  "slug": "particleburst",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@contact.mlozano/components/particleburst",
+  "fetchedAt": "2026-08-29T04:01:36.425Z",
+  "completedAt": "2026-08-29T04:01:38.727Z",
+  "versionedFilename": "code.1781212057502.tsx",
+  "codeReference": "r2://components-code-private/contact.mlozano/particleburst/code.1781212057502.tsx",
+  "codeUrl": "https://cdn.21st.dev/contact.mlozano/particleburst/code.1781212057502.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1720,
+  "sha256": "6167cf20ca8cb41d9a4cd7e9a931fbc0c9fbc24bf532edaf0b4429fd07acd145",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

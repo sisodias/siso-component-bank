@@ -1,0 +1,33 @@
+{
+  "id": "spoonyvu__glow-menu",
+  "author": "spoonyvu",
+  "slug": "glow-menu",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@spoonyvu/components/glow-menu",
+  "fetchedAt": "2026-08-29T07:23:43.800Z",
+  "completedAt": "2026-08-29T07:23:45.049Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/spoonyvu__glow-menu/code.tsx",
+    "bytes": 5825,
+    "sha256": "138a9ef3af690f3baf44fd2a53eaf50dad529d44ba2ffa2b200e30acaf35167d",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

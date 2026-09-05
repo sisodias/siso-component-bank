@@ -1,0 +1,26 @@
+{
+  "id": "beratberkayg__shader-hero",
+  "author": "beratberkayg",
+  "slug": "shader-hero",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@beratberkayg/components/shader-hero",
+  "fetchedAt": "2026-08-29T03:49:40.712Z",
+  "completedAt": "2026-08-29T03:49:42.863Z",
+  "versionedFilename": "code.1755720832213.tsx",
+  "codeReference": "r2://components-code-private/beratberkayg/shader-hero/code.1755720832213.tsx",
+  "codeUrl": "https://cdn.21st.dev/beratberkayg/shader-hero/code.1755720832213.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3916,
+  "sha256": "dedfc036f84757db10f0a69f5d6675e85e4c15d32c95b50ad5971f2426fba650",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

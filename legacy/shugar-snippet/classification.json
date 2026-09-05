@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "code-snippet",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying code snippets in documentation with one-click copy functionality",
+    "Showing configuration values or API keys that users need to copy",
+    "Rendering status messages with semantic colors for success, warning, or error states",
+    "Displaying multi-line code blocks in tutorials and developer guides",
+    "Creating inline code references in knowledge base articles"
+  ],
+  "ai_summary": "A lightweight code snippet component with copy-to-clipboard functionality. Supports multiple display variants including default, inverted, and semantic states (success, warning, error) with optional prompt styling. Features click-triggered animation feedback and customizable width for flexible integration in documentation, tutorials, and developer interfaces.",
+  "_classifiedAt": "2026-04-23T17:31:23.900Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

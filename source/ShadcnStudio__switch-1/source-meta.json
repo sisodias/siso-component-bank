@@ -1,0 +1,26 @@
+{
+  "id": "ShadcnStudio__switch-1",
+  "author": "ShadcnStudio",
+  "slug": "switch-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ShadcnStudio/components/switch-1",
+  "fetchedAt": "2026-08-29T07:14:04.635Z",
+  "completedAt": "2026-08-29T07:14:06.924Z",
+  "versionedFilename": "code.1760584543332.tsx",
+  "codeReference": "r2://components-code-private/larsen66/switch-1/code.1760584543332.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/switch-1/code.1760584543332.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 322,
+  "sha256": "a77368fd78ec9fc52d44a600e33a7d9f45afe716b85c32ae14f6b11fb50364c3",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

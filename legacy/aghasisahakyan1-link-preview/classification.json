@@ -1,0 +1,29 @@
+{
+  "category": "overlay",
+  "subcategory": "link-preview-hover-card",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying rich link previews when hovering over URLs in text content",
+    "Showing screenshot previews of external pages with mouse-following card animation",
+    "Providing static or dynamic image previews for link hover states",
+    "Enhancing navigation with contextual page previews without leaving current context",
+    "Supporting dark mode preview rendering via Microlink API integration"
+  ],
+  "ai_summary": "A dynamic link preview component that displays rich hover cards with website screenshots using the Microlink API. Features smooth mouse-following animations powered by Framer Motion spring physics, supports both static and dynamic image sources, and renders with a dark color scheme. Built on Radix UI's HoverCard primitive for accessible overlay behavior.",
+  "_classifiedAt": "2026-04-23T11:29:04.359Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

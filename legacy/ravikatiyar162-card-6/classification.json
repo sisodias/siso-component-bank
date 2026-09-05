@@ -1,0 +1,40 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary action trigger in forms and user interfaces",
+    "Navigation and routing through clickable buttons",
+    "Form submission with visual feedback states",
+    "Accessible keyboard navigation with focus-visible styling"
+  ],
+  "ai_summary": "A reusable Button component built with Radix UI Slot and class-variance-authority for variant management. Features multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes, with accessible focus states and hover transitions. Designed as a foundational UI primitive suitable for any industry or platform.",
+  "_classifiedAt": "2026-04-23T01:46:40.354Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

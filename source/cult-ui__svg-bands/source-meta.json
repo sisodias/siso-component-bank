@@ -1,0 +1,26 @@
+{
+  "id": "cult-ui__svg-bands",
+  "author": "cult-ui",
+  "slug": "svg-bands",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@cult-ui/components/svg-bands",
+  "fetchedAt": "2026-08-29T04:04:02.126Z",
+  "completedAt": "2026-08-29T04:04:04.122Z",
+  "versionedFilename": "code.1784721694736-7c2210d0-de92-4f30-86c9-a10c3ee045aa.tsx",
+  "codeReference": "r2://components-code-private/cult-ui/svg-bands/code.1784721694736-7c2210d0-de92-4f30-86c9-a10c3ee045aa.tsx",
+  "codeUrl": "https://cdn.21st.dev/cult-ui/svg-bands/code.1784721694736-7c2210d0-de92-4f30-86c9-a10c3ee045aa.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

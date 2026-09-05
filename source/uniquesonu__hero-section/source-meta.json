@@ -1,0 +1,26 @@
+{
+  "id": "uniquesonu__hero-section",
+  "author": "uniquesonu",
+  "slug": "hero-section",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uniquesonu/components/hero-section",
+  "fetchedAt": "2026-08-29T07:48:47.752Z",
+  "completedAt": "2026-08-29T07:48:49.930Z",
+  "versionedFilename": "code.1753134722429.tsx",
+  "codeReference": "r2://components-code-private/uniquesonu/hero-section/code.1753134722429.tsx",
+  "codeUrl": "https://cdn.21st.dev/uniquesonu/hero-section/code.1753134722429.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7216,
+  "sha256": "91e67f0c2b2a2418c63974ef2d0911a8059a946d5ce3deebc8f8c306a6c8ad02",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

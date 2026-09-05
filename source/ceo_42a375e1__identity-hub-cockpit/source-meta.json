@@ -1,0 +1,26 @@
+{
+  "id": "ceo_42a375e1__identity-hub-cockpit",
+  "author": "ceo_42a375e1",
+  "slug": "identity-hub-cockpit",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ceo_42a375e1/components/identity-hub-cockpit",
+  "fetchedAt": "2026-08-29T03:53:08.921Z",
+  "completedAt": "2026-08-29T03:53:11.348Z",
+  "versionedFilename": "code.1782819856131.tsx",
+  "codeReference": "r2://components-code-private/ceo_42a375e1/identity-hub-cockpit/code.1782819856131.tsx",
+  "codeUrl": "https://cdn.21st.dev/ceo_42a375e1/identity-hub-cockpit/code.1782819856131.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 21396,
+  "sha256": "a5ddcd2ccf3e9074ea0ae9f17d85749523f2a37b4a44181135650eddf136e0d7",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

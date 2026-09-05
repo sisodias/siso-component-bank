@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ravikatiyar162/components/stats-widget",
+  "author": "ravikatiyar162",
+  "slug": "stats-widget",
+  "name": "stats-widget",
+  "description": "The UI has a card-style widget showing a financial amount, percentage change, and an arrow. An animated line graph indicates the trend, turning green for positive and orange for negative changes.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ravikatiyar162/stats-widget?api_key=$API_KEY_21ST\"",
+  "id": "ravikatiyar162__stats-widget",
+  "bundleUrl": "https://cdn.21st.dev/ravikatiyar162/stats-widget/default/bundle.1752921238671.html",
+  "previewUrl": "https://cdn.21st.dev/ravikatiyar162/stats-widget/default/preview.1752921238670.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

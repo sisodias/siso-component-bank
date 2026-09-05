@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@cnippet.dev/components/formatting-toolbar",
+  "author": "cnippet.dev",
+  "slug": "formatting-toolbar",
+  "name": "formatting-toolbar",
+  "description": "A rich-text formatting toolbar with toggle buttons that applies strikethrough, inline code, blockquote, and link styles with a live markdown preview.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/cnippet.dev/formatting-toolbar?api_key=$API_KEY_21ST\"",
+  "id": "cnippet.dev__formatting-toolbar",
+  "bundleUrl": "https://cdn.21st.dev/cnippet.dev/formatting-toolbar/default/bundle.1785174585804-0bf6edc6-45d9-41a9-b73f-2b0c953c911b.html",
+  "previewUrl": "https://cdn.21st.dev/cnippet.dev/formatting-toolbar/default/preview.1785174585804-0bf6edc6-45d9-41a9-b73f-2b0c953c911b.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

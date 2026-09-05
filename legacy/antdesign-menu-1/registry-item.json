@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "antdesign-menu-1",
+  "type": "registry:ui",
+  "title": "Antdesign Menu 1",
+  "description": "Installed from https://21st.dev/r/antdesign/menu-1",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "antdesign-menu-1"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "menu-1.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@ant-design/icons",
+    "antd"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/antdesign/menu-1",
+    "fetchedAt": "2026-04-22T06:45:02.024Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

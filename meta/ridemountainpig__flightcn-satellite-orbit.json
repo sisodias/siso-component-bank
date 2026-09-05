@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ridemountainpig/components/flightcn-satellite-orbit",
+  "author": "ridemountainpig",
+  "slug": "flightcn-satellite-orbit",
+  "name": "flightcn-satellite-orbit",
+  "description": "Renders a globe-based orbital path with an elevated satellite marker, ground track, and optional animated motion for space or telecom visualizations.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ridemountainpig/flightcn-satellite-orbit?api_key=$API_KEY_21ST\"",
+  "id": "ridemountainpig__flightcn-satellite-orbit",
+  "bundleUrl": "https://cdn.21st.dev/ridemountainpig/flightcn-satellite-orbit/default/bundle.1785544423051-f5c29038-0807-433b-8812-ff437e078590.html",
+  "previewUrl": "https://cdn.21st.dev/ridemountainpig/flightcn-satellite-orbit/default/preview.1785544423051-f5c29038-0807-433b-8812-ff437e078590.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display user profile pictures in navigation headers and sidebars",
+    "Show author or participant avatars in project and team interfaces",
+    "Represent users in comment sections, activity feeds, and notification lists",
+    "Display team member or employee images in organizational dashboards"
+  ],
+  "ai_summary": "A reusable avatar component built with Radix UI primitives that displays user profile images with automatic fallback to initials when images fail to load. Features a clean, minimalist design with rounded-full styling and standard 40px sizing, making it suitable for professional SaaS, fintech, and general-purpose applications requiring user representation.",
+  "_classifiedAt": "2026-04-22T09:02:29.380Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

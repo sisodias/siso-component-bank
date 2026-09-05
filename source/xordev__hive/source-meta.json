@@ -1,0 +1,26 @@
+{
+  "id": "xordev__hive",
+  "author": "xordev",
+  "slug": "hive",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@xordev/components/hive",
+  "fetchedAt": "2026-08-29T07:57:45.596Z",
+  "completedAt": "2026-08-29T07:57:47.765Z",
+  "versionedFilename": "code.1756885055127.tsx",
+  "codeReference": "r2://components-code-private/larsen66/hive/code.1756885055127.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/hive/code.1756885055127.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3465,
+  "sha256": "7dfad6aa69c52efe6f72f848e4a3eed34394be3e47834fb96054d1499d854b4c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

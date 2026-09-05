@@ -1,0 +1,26 @@
+{
+  "id": "shadcnui-blocks__integrations-02",
+  "author": "shadcnui-blocks",
+  "slug": "integrations-02",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcnui-blocks/components/integrations-02",
+  "fetchedAt": "2026-08-29T07:14:33.251Z",
+  "completedAt": "2026-08-29T07:14:35.449Z",
+  "versionedFilename": "code.1785100926227-9c3f0724-92ea-4d0e-a8ff-02944e76a378.tsx",
+  "codeReference": "r2://components-code-private/shadcnui-blocks/integrations-02/code.1785100926227-9c3f0724-92ea-4d0e-a8ff-02944e76a378.tsx",
+  "codeUrl": "https://cdn.21st.dev/shadcnui-blocks/integrations-02/code.1785100926227-9c3f0724-92ea-4d0e-a8ff-02944e76a378.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

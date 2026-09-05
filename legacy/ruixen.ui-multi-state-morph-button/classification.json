@@ -1,0 +1,28 @@
+{
+  "category": "input",
+  "subcategory": "action-button",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in web forms and interfaces",
+    "Triggering actions and state changes in interactive UIs",
+    "Navigation and routing controls in single-page applications",
+    "Destructive action confirmation buttons with visual feedback",
+    "Composition with Radix UI Slot for polymorphic component behavior"
+  ],
+  "ai_summary": "A polymorphic button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes using CVA for style composition. Supports Radix UI Slot for composition, hover states, and morphing between button states. Built with Tailwind CSS and follows Shadcn/ui design patterns for consistent styling.",
+  "_classifiedAt": "2026-04-23T01:50:28.529Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

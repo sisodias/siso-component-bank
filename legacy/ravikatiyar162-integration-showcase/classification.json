@@ -1,0 +1,33 @@
+{
+  "category": [
+    "hero"
+  ],
+  "subcategory": "integration-grid",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Display available tool integrations on a SaaS product landing page",
+    "Showcase connection options in a platform's settings or dashboard",
+    "Present a product's integration ecosystem in marketing materials",
+    "Highlight compatible third-party services in an app marketplace"
+  ],
+  "ai_summary": "A hero-style integration showcase component featuring animated highlighted titles with custom SVG underlines, an optional illustration area, and a responsive grid of integration cards. Built with Framer Motion for scroll animations and Tailwind CSS for styling. Designed to promote available tool connections and third-party integrations for SaaS platforms, developer tools, and marketplace products.",
+  "_classifiedAt": "2026-04-22T09:09:57.017Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

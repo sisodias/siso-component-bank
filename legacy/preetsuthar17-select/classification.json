@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "select-dropdown",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting options from predefined lists in forms and settings panels",
+    "Implementing category or filter dropdowns in content management interfaces",
+    "Enabling user preferences with variant styles (outline, ghost) for flexible theming",
+    "Creating accessible select inputs with keyboard navigation support via Radix UI",
+    "Building multi-step wizard selections with smooth open/close animations"
+  ],
+  "ai_summary": "A customizable select/dropdown input component built on Radix UI primitives with full accessibility support. Features three visual variants (default, outline, ghost) and three size options (sm, default, lg) using class-variance-authority for flexible styling. Includes smooth dropdown animations via Motion React, custom icons (ChevronDown, Check), and integrates seamlessly into Shadcn-style design systems.",
+  "_classifiedAt": "2026-04-23T17:09:12.777Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

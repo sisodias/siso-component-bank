@@ -1,0 +1,26 @@
+{
+  "id": "dhileepkumargm__quantum-nebula",
+  "author": "dhileepkumargm",
+  "slug": "quantum-nebula",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dhileepkumargm/components/quantum-nebula",
+  "fetchedAt": "2026-08-29T04:32:33.492Z",
+  "completedAt": "2026-08-29T04:32:35.615Z",
+  "versionedFilename": "code.1760598460742.tsx",
+  "codeReference": "r2://components-code-private/dhileepkumargm/quantum-nebula/code.1760598460742.tsx",
+  "codeUrl": "https://cdn.21st.dev/dhileepkumargm/quantum-nebula/code.1760598460742.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 15080,
+  "sha256": "92decae5b0d97618816427d286f7a9d85b226db368e4d83ef5bc0afd44527dc6",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

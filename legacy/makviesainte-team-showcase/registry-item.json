@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "makviesainte-team-showcase",
+  "type": "registry:ui",
+  "title": "Makviesainte Team Showcase",
+  "description": "Installed from https://21st.dev/r/makviesainte/team-showcase",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "makviesainte-team-showcase"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "team-showcase.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "react-icons"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "imports ../../lib/utils from outside folder"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/makviesainte/team-showcase",
+    "fetchedAt": "2026-04-22T06:32:17.850Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

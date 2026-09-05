@@ -1,0 +1,24 @@
+{
+  "category": "input",
+  "subcategory": "form-label",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Labeling required form fields in accessible web applications",
+    "Providing accessible form labels with peer-disabled state styling",
+    "Integrating with shadcn/ui form components for consistent styling"
+  ],
+  "ai_summary": "A minimalist form label component built on Radix UI primitives with class-variance-authority styling. Part of the shadcn ecosystem, it provides accessible labeling for form inputs with peer-disabled cursor and opacity state support. Used to mark required textarea fields in forms.",
+  "_classifiedAt": "2026-04-22T09:15:14.466Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

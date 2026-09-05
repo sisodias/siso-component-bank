@@ -1,0 +1,26 @@
+{
+  "id": "patrick.thomas.dunn1988__inferno",
+  "author": "patrick.thomas.dunn1988",
+  "slug": "inferno",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@patrick.thomas.dunn1988/components/inferno",
+  "fetchedAt": "2026-08-29T06:07:52.413Z",
+  "completedAt": "2026-08-29T06:07:54.726Z",
+  "versionedFilename": "code.1774630827421.tsx",
+  "codeReference": "r2://components-code-private/patrick.thomas.dunn1988/inferno/code.1774630827421.tsx",
+  "codeUrl": "https://cdn.21st.dev/patrick.thomas.dunn1988/inferno/code.1774630827421.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 484662,
+  "sha256": "47bf131fb306eb798d16a4a187c46904b2741e55b9276e3341a10f4751f4998a",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

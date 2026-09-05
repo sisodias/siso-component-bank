@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@theshanelevine/components/diff-table",
+  "author": "theshanelevine",
+  "slug": "diff-table",
+  "name": "diff-table",
+  "description": "An animated data table that plays an AI-proposed edit sweeping through tabular rows — removed rows tint red and strike through while a newly added row slides in green, resting on the completed diff.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/theshanelevine/diff-table?api_key=$API_KEY_21ST\"",
+  "id": "theshanelevine__diff-table",
+  "bundleUrl": "https://cdn.21st.dev/theshanelevine/diff-table/default/bundle.1785484878538-50879f45-473a-45c2-8051-35e566edf060.html",
+  "previewUrl": "https://cdn.21st.dev/theshanelevine/diff-table/default/preview.1785484878538-50879f45-473a-45c2-8051-35e566edf060.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "stat-indicator",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying metric change indicators with directional arrows for analytics dashboards",
+    "Showing increase/decrease/neutral status for financial or business metrics",
+    "Indicating trend direction for data cards in SaaS applications",
+    "Providing visual feedback for comparative values in reporting tools",
+    "Serving as status badges in e-commerce inventory or sales reports"
+  ],
+  "ai_summary": "A badge component for displaying directional metric changes with up/down/neutral arrow indicators. Supports multiple variants (outline, solid, solid-outline, complex) with color-coded states for increase (emerald), decrease (red), and neutral (gray) changes. Built on Tremor design system with Remix icon integration for consistent arrow styling.",
+  "_classifiedAt": "2026-04-23T17:25:03.293Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "hardikkashiyani123456788-connoisseur-stack-interactor",
+  "type": "registry:ui",
+  "title": "Hardikkashiyani123456788 Connoisseur Stack Interactor",
+  "description": "Installed from https://21st.dev/r/hardikkashiyani123456788/connoisseur-stack-interactor",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "hardikkashiyani123456788-connoisseur-stack-interactor"
+  ],
+  "files": [
+    {
+      "path": "connoisseur-stack-interactor.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/hardikkashiyani123456788/connoisseur-stack-interactor",
+    "fetchedAt": "2026-04-22T06:32:20.491Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

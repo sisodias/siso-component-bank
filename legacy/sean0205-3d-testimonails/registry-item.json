@@ -1,0 +1,48 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "sean0205-3d-testimonails",
+  "type": "registry:ui",
+  "title": "Sean0205 3d Testimonails",
+  "description": "Installed from https://21st.dev/r/sean0205/3d-testimonails",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "sean0205-3d-testimonails"
+  ],
+  "files": [
+    {
+      "path": "3d-testimonails.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "avatar.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "card.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-avatar"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/sean0205/3d-testimonails",
+    "fetchedAt": "2026-04-23T03:03:36.503Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

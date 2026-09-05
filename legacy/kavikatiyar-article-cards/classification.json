@@ -1,0 +1,32 @@
+{
+  "category": "card",
+  "subcategory": "article-card with pricing overlay",
+  "visual_style": [
+    "glass-morphism",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display article previews with category, title, and price in media platforms",
+    "Show premium content cards with gradient backgrounds and hover animations",
+    "Create article grid layouts for blogs and content-heavy websites",
+    "Build paywalled content teasers with pricing information",
+    "Design interactive article cards with image backgrounds and text overlays"
+  ],
+  "ai_summary": "A reusable ArticleCard component featuring gradient overlays on background images, glass-morphism effects with backdrop blur, and interactive hover states including lift, scale, and shadow transitions. Displays category labels, article titles, and pricing for paywalled content. Optimized for media platforms and content-driven applications requiring visually engaging article previews.",
+  "_classifiedAt": "2026-04-22T09:02:10.645Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:33:36.765Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

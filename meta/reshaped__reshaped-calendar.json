@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@reshaped/components/reshaped-calendar",
+  "author": "reshaped",
+  "slug": "reshaped-calendar",
+  "name": "reshaped-calendar",
+  "description": "Functional without any properties by default, rendering the current month with single date selection and a month-selection view. Supports controlled and uncontrolled values, range selection, rendering multiple months, individual selected and disabled dates, min/max boundaries, localization and a configurable first week day.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/reshaped/reshaped-calendar?api_key=$API_KEY_21ST\"",
+  "id": "reshaped__reshaped-calendar",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/reshaped-calendar/default/bundle.1783366044738.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/reshaped-calendar/default/preview.1783366044738.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

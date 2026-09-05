@@ -1,0 +1,34 @@
+{
+  "category": "feedback",
+  "subcategory": "concentric-circles-loader",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display loading state during async operations like data fetching or API calls",
+    "Indicate processing status during form submissions or file uploads",
+    "Show transitional states between page navigation or content loading",
+    "Provide visual feedback while waiting for real-time data updates",
+    "Enhance user experience during long-running computations or searches"
+  ],
+  "ai_summary": "A metamorphic loader component featuring concentric circles with progressively lightening colors that animate with a spinning effect. The component creates a visually engaging loading indicator with customizable size and base color, suitable for indicating processing or waiting states across various web applications.",
+  "_classifiedAt": "2026-04-23T16:54:58.378Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

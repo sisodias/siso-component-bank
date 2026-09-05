@@ -1,0 +1,37 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "real-estate",
+    "creator-tools",
+    "dev-tools",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action button in web forms and authentication flows",
+    "Call-to-action trigger for conversions and user engagement",
+    "Interactive control in dashboards and admin panels",
+    "Submit and reset functionality in data entry interfaces",
+    "Navigation action trigger for multi-step workflows and wizards"
+  ],
+  "ai_summary": "A reusable, accessible button component from the Untitled UI design system, built with React Aria and Tailwind CSS. This atomic input component provides customizable variants, sizes, and states for triggering actions across web applications. Designed as a fundamental UI primitive for building complex interfaces with consistent styling and accessibility compliance.",
+  "_classifiedAt": "2026-04-22T09:18:46.528Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

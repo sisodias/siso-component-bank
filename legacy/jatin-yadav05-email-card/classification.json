@@ -1,0 +1,28 @@
+{
+  "category": "card",
+  "subcategory": "email-badge",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying status indicators on email list items",
+    "Showing category tags for email filtering",
+    "Labeling messages with priority levels",
+    "Indicating read/unread states in email interfaces",
+    "Showing sender type badges like work or personal"
+  ],
+  "ai_summary": "A lightweight Badge component with variant support (default, secondary, destructive, outline) designed for email card contexts. Features hover state transitions and focus accessibility rings, making it suitable for displaying email metadata like tags, status indicators, or sender labels in inbox interfaces.",
+  "_classifiedAt": "2026-04-23T01:40:53.010Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

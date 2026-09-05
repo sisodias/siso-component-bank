@@ -1,0 +1,26 @@
+{
+  "id": "educalvolpz__job-listing",
+  "author": "educalvolpz",
+  "slug": "job-listing",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@educalvolpz/components/job-listing",
+  "fetchedAt": "2026-08-29T04:40:55.555Z",
+  "completedAt": "2026-08-29T04:40:58.070Z",
+  "versionedFilename": "code.1760167095944.tsx",
+  "codeReference": "r2://components-code-private/larsen66/job-listing/code.1760167095944.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/job-listing/code.1760167095944.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 9599,
+  "sha256": "a3637e753433efb90b5baf014d89f76fdff495657e781248de08e4911ca461dc",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

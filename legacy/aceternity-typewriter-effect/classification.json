@@ -1,0 +1,33 @@
+{
+  "category": "data-display",
+  "subcategory": "typewriter-text-reveal",
+  "visual_style": [
+    "minimalist",
+    "dark"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Hero section headline with animated character-by-character text reveal on scroll",
+    "Landing page welcome message with typewriter typing effect",
+    "Loading or status messages with typing animation",
+    "Product feature callouts with progressive text reveal",
+    "Interactive storytelling sections with sequential character display"
+  ],
+  "ai_summary": "A typewriter text animation component that reveals text character by character when scrolled into view using Framer Motion, featuring a blinking cursor effect and configurable word-level styling for creating engaging text reveal animations.",
+  "_classifiedAt": "2026-04-23T11:28:47.872Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

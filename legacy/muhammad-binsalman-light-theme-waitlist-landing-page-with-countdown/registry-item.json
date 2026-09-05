@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "muhammad-binsalman-light-theme-waitlist-landing-page-with-countdown",
+  "type": "registry:ui",
+  "title": "Muhammad Binsalman Light Theme Waitlist Landing Page With Countdown",
+  "description": "Installed from https://21st.dev/r/muhammad-binsalman/light-theme-waitlist-landing-page-with-countdown",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "muhammad-binsalman-light-theme-waitlist-landing-page-with-countdown"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "light-theme-waitlist-landing-page-with-countdown.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "three"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/muhammad-binsalman/light-theme-waitlist-landing-page-with-countdown",
+    "fetchedAt": "2026-04-23T01:17:23.134Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

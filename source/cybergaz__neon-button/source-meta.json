@@ -1,0 +1,33 @@
+{
+  "id": "cybergaz__neon-button",
+  "author": "cybergaz",
+  "slug": "neon-button",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@cybergaz/components/neon-button",
+  "fetchedAt": "2026-08-29T04:04:18.706Z",
+  "completedAt": "2026-08-29T04:04:20.149Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/cybergaz__neon-button/code.tsx",
+    "bytes": 2019,
+    "sha256": "247a40421143325c77a233ebf26cd36a20324f9549e081d03d90eeccc8334668",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

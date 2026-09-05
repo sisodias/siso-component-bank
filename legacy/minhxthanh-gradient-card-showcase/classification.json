@@ -1,0 +1,34 @@
+{
+  "category": "card",
+  "subcategory": "gradient-card-showcase",
+  "visual_style": [
+    "glass-morphism",
+    "gradient",
+    "dark"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Showcasing product features with animated gradient backgrounds on hover",
+    "Displaying service or pricing tier cards with skew transformations",
+    "Creating visually striking portfolio or showcase grid layouts",
+    "Adding animated blur effects to card content for depth",
+    "Building interactive feature highlights with morphing gradient panels"
+  ],
+  "ai_summary": "A visually striking gradient card showcase featuring skew-transformed gradient panels with blur effects and smooth hover animations. The component uses multiple layered spans to create depth through animated glows and blur halos, making it ideal for premium product or feature displays. Built with Tailwind CSS for flexible responsive behavior across platforms.",
+  "_classifiedAt": "2026-04-23T16:58:51.837Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

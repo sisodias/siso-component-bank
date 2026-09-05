@@ -1,0 +1,39 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "profile-dropdown-menu",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "creator-tools",
+    "fintech",
+    "media",
+    "education",
+    "real-estate",
+    "healthcare",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "User account dropdown menu for navigating to settings, activity log, and integrations",
+    "Theme switching toggle (light/dark mode) within navigation",
+    "Upgrade prompt for premium features in SaaS applications",
+    "Sign-out functionality with danger styling for logout actions",
+    "Profile header with avatar and quick user info display"
+  ],
+  "ai_summary": "A profile dropdown component featuring a user avatar with hover scale animation, theme toggle (light/dark mode), and a menu with navigation options including activity log, settings, integrations, upgrade to Pro, and sign out. Built with Framer Motion for smooth animations, Tailwind CSS for styling with dark mode support, and Lucide icons. The component uses subtle shadows, rounded-3xl corners, and border styling for a clean, modern navigation experience suitable for any authenticated application interface.",
+  "_classifiedAt": "2026-04-23T11:30:54.002Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

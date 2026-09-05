@@ -1,0 +1,41 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "typography",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying responsive headings with predefined font sizes ranging from 16px to 72px",
+    "Applying consistent button text styling across different sizes",
+    "Implementing responsive text behavior with SM/MD/LG/XL breakpoints",
+    "Creating typography systems with tight letter-spacing for modern aesthetics",
+    "Building text components that adapt to different screen sizes automatically"
+  ],
+  "ai_summary": "A typography component providing predefined text variants for headings (16-72px) and buttons with semantic naming conventions. Features a custom responsive hook that adjusts styling based on viewport breakpoints. Uses tight letter-spacing for headings creating a modern, editorial look. Designed as a foundational atomic component for design systems requiring consistent text treatment.",
+  "_classifiedAt": "2026-04-23T17:31:55.272Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

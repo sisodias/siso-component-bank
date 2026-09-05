@@ -1,0 +1,35 @@
+{
+  "category": [
+    "layout"
+  ],
+  "subcategory": "scroll-animation-utility-system",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "system",
+  "use_cases": [
+    "Building scroll-driven animations and parallax effects in React applications",
+    "Creating scroll-triggered reveal animations for landing pages",
+    "Implementing scroll-based storytelling and animated content sections",
+    "Developing interactive data visualizations with scroll-linked motion",
+    "Adding smooth, physics-based scroll animations to web interfaces"
+  ],
+  "ai_summary": "A scroll animation utility system built with Framer Motion that provides context-based scroll progress tracking and reusable components for scroll-driven animations. Includes ScrollAnimation provider, ScrollTranslateY, and ScrollTranslateX components with spring physics and reduced motion support. Designed as a developer tool for building interactive, scroll-linked UIs with parallax and reveal effects.",
+  "_classifiedAt": "2026-04-23T01:55:54.843Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

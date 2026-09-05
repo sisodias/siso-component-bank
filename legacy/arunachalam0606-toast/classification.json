@@ -1,0 +1,24 @@
+{
+  "category": "input",
+  "subcategory": "action-button",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Form submission triggers with multiple visual variants",
+    "Primary and secondary call-to-action buttons",
+    "Destructive action buttons for delete or warning states",
+    "Icon-only buttons for compact toolbar interfaces",
+    "Link-style buttons for inline navigation"
+  ],
+  "ai_summary": "A versatile Radix-based button component with class-variance-authority for managing multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Built with Slot composition for flexibility, this reusable button system provides accessible focus states and disabled handling for form and UI interactions across SaaS, fintech, and general web applications.",
+  "_classifiedAt": "2026-04-23T11:31:16.466Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

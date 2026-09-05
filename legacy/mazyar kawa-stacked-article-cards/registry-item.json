@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "mazyar kawa-stacked-article-cards",
+  "type": "registry:ui",
+  "title": "Mazyar Kawa Stacked Article Cards",
+  "description": "Installed from https://21st.dev/r/Mazyar kawa/stacked-article-cards",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "mazyar kawa-stacked-article-cards"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "stacked-article-cards.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "clsx",
+    "tailwind-merge"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/Mazyar kawa/stacked-article-cards",
+    "fetchedAt": "2026-04-22T06:32:03.419Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

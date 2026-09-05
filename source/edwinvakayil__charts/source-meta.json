@@ -1,0 +1,26 @@
+{
+  "id": "edwinvakayil__charts",
+  "author": "edwinvakayil",
+  "slug": "charts",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@edwinvakayil/components/charts",
+  "fetchedAt": "2026-08-29T04:41:44.676Z",
+  "completedAt": "2026-08-29T04:41:46.694Z",
+  "versionedFilename": "code.1780162518792.tsx",
+  "codeReference": "r2://components-code-private/lyanchouss/charts/code.1780162518792.tsx",
+  "codeUrl": "https://cdn.21st.dev/lyanchouss/charts/code.1780162518792.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 15073,
+  "sha256": "5da85118975a354d29d54f98659fdc1458be962cdc53f4a4891e524aa10f780c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

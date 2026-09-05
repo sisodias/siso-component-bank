@@ -1,0 +1,27 @@
+{
+  "category": "input",
+  "subcategory": "numeric-stepper",
+  "visual_style": [],
+  "interactions": [
+    "drag",
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "A numeric input control for incrementing and decrementing values via drag gestures or button clicks",
+    "Used in product quantity selectors for e-commerce shopping carts",
+    "Suitable for form inputs requiring numeric value selection within defined ranges",
+    "Implements smooth animations when transitioning between values using animejs",
+    "Supports keyboard accessibility with pointer-based interaction for mobile and desktop platforms"
+  ],
+  "ai_summary": "A drag-enabled numeric stepper component that allows users to increment or decrement values through vertical drag gestures or integrated chevron buttons. Built with animejs for smooth animated transitions between values. Configurable with min, max, and step props, firing onChange callbacks for value updates. Designed for cross-platform use with responsive pointer event handling.",
+  "_classifiedAt": "2026-04-23T16:48:53.591Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

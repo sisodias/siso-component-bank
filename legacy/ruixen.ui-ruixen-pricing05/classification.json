@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "action-button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons in pricing cards or signup forms",
+    "Secondary action buttons for cancel or skip options in multi-step flows",
+    "Icon-only buttons for compact UI toolbars and navigation",
+    "Destructive action buttons for delete or remove operations"
+  ],
+  "ai_summary": "A versatile Button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes, built with Radix UI Slot for composition flexibility. Features subtle shadow effects, proper focus states, and disabled handling. Designed as a reusable atomic component for any React application requiring interactive button elements.",
+  "_classifiedAt": "2026-04-23T17:20:44.528Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

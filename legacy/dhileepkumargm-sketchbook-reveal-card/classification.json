@@ -1,0 +1,34 @@
+{
+  "category": "card",
+  "subcategory": "sketchbook-reveal",
+  "visual_style": [
+    "illustration",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Showcasing creative projects with animated sketchbook-style reveals on scroll",
+    "Feature highlight cards that draw into view on landing pages",
+    "Portfolio section with hand-drawn border aesthetics and path animations",
+    "Onboarding tutorials that reveal content through SVG stroke animations",
+    "Interactive gallery cards with wobble filter distortion effects"
+  ],
+  "ai_summary": "A scroll-triggered card component with a hand-drawn sketchbook aesthetic featuring SVG path stroke animations that draw into view. The card uses a wobble filter for organic distortion and reveals content with smooth stroke-dashoffset transitions. Ideal for creative portfolios, landing page sections, or anywhere a playful illustration-style card with reveal animations is needed.",
+  "_classifiedAt": "2026-04-23T01:39:36.470Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:37:52.504Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "isaiahbjork__animated-radial-chart",
+  "author": "isaiahbjork",
+  "slug": "animated-radial-chart",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@isaiahbjork/components/animated-radial-chart",
+  "fetchedAt": "2026-08-29T05:01:48.435Z",
+  "completedAt": "2026-08-29T05:01:50.388Z",
+  "versionedFilename": "code.1785450617109-fe785ee4-862d-4c6d-a546-fc79affa8aa6.tsx",
+  "codeReference": "r2://components-code-private/isaiahbjork/animated-radial-chart/code.1785450617109-fe785ee4-862d-4c6d-a546-fc79affa8aa6.tsx",
+  "codeUrl": "https://cdn.21st.dev/isaiahbjork/animated-radial-chart/code.1785450617109-fe785ee4-862d-4c6d-a546-fc79affa8aa6.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/isaiahbjork__animated-radial-chart/code.tsx",
+    "bytes": 6737,
+    "sha256": "e92ecbeee9f889a821c9af992f3d787755539ddb7ee6f78cabebe47bc15f965c",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

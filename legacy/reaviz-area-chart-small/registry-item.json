@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "reaviz-area-chart-small",
+  "type": "registry:ui",
+  "title": "Reaviz Area Chart Small",
+  "description": "Installed from https://21st.dev/r/reaviz/area-chart-small",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "reaviz-area-chart-small"
+  ],
+  "files": [
+    {
+      "path": "area-chart-small.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "reaviz"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/reaviz/area-chart-small",
+    "fetchedAt": "2026-04-23T03:04:36.214Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

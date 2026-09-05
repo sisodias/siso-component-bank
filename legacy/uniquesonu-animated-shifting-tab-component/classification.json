@@ -1,0 +1,31 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "animated-dropdown-tabs",
+  "visual_style": [
+    "dark",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Primary navigation menus in SaaS dashboards with expandable dropdown content",
+    "Category filtering interfaces with animated tab switching behavior",
+    "Settings or preference panels with nested menu navigation"
+  ],
+  "ai_summary": "An animated shifting tab dropdown component featuring smooth directional animations based on selection order. Tabs reveal dropdown content on hover with a rotating chevron indicator and fade-in transitions. Uses framer-motion for fluid entrance animations and supports both mouse hover and click interactions.",
+  "_classifiedAt": "2026-04-23T01:54:17.764Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dixitsimform__dialog",
+  "author": "dixitsimform",
+  "slug": "dialog",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dixitsimform/components/dialog",
+  "fetchedAt": "2026-08-29T04:36:28.508Z",
+  "completedAt": "2026-08-29T04:36:30.428Z",
+  "versionedFilename": "code.1754539216865.tsx",
+  "codeReference": "r2://components-code-private/dixitsimform/dialog/code.1754539216865.tsx",
+  "codeUrl": "https://cdn.21st.dev/dixitsimform/dialog/code.1754539216865.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4250,
+  "sha256": "2f70917444a21cb47d81108f2c178abff5b01c220595cf15780b9560bdffa53d",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

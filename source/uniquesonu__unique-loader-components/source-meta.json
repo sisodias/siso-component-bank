@@ -1,0 +1,26 @@
+{
+  "id": "uniquesonu__unique-loader-components",
+  "author": "uniquesonu",
+  "slug": "unique-loader-components",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uniquesonu/components/unique-loader-components",
+  "fetchedAt": "2026-08-29T07:51:00.068Z",
+  "completedAt": "2026-08-29T07:51:02.461Z",
+  "versionedFilename": "code.1755260263023.tsx",
+  "codeReference": "r2://components-code-private/uniquesonu/unique-loader-components/code.1755260263023.tsx",
+  "codeUrl": "https://cdn.21st.dev/uniquesonu/unique-loader-components/code.1755260263023.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5788,
+  "sha256": "6120db39a3bb9469ada11835dd2bd7ff867b4cd1d44d90721ca431b2404f0fab",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

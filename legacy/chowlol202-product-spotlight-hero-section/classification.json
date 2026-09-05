@@ -1,0 +1,31 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools",
+    "fintech",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action trigger for forms, modals, and call-to-action sections across web applications",
+    "Destructive variant for delete, cancel, or dangerous action confirmation flows",
+    "Outline style for secondary actions in multi-step workflows and settings panels",
+    "Ghost variant for minimal UI designs with inline contextual button actions",
+    "Icon-only buttons for compact toolbars, navigation controls, and mobile interfaces"
+  ],
+  "ai_summary": "A versatile atomic button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes. Built with Radix UI Slot for composition support and class-variance-authority for type-safe variant management. Features shadow effects, hover states, and accessibility focus rings for production-ready web applications.",
+  "_classifiedAt": "2026-04-23T16:27:34.082Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,31 @@
+{
+  "category": "feedback",
+  "subcategory": "loading-indicator",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display loading states during async operations like API calls or data fetching.",
+    "Show progress feedback during form submissions or file uploads.",
+    "Indicate page transitions or navigation loading in single-page applications.",
+    "Provide visual feedback while waiting for content to load in dashboards or data tables.",
+    "Use as a minimal loading indicator in button components or inline with text."
+  ],
+  "ai_summary": "A minimalist loading dots component that displays three animated dots with staggered timing to indicate ongoing processes. Accepts customizable size and optional text content displayed before the dots. Uses a looping CSS animation for the dots and renders as an inline-flex element that integrates seamlessly with text or buttons.",
+  "_classifiedAt": "2026-04-23T17:30:23.086Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

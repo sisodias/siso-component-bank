@@ -1,0 +1,33 @@
+{
+  "id": "dhileepkumargm__modern-feature-grid",
+  "author": "dhileepkumargm",
+  "slug": "modern-feature-grid",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dhileepkumargm/components/modern-feature-grid",
+  "fetchedAt": "2026-08-29T04:31:22.324Z",
+  "completedAt": "2026-08-29T04:31:24.455Z",
+  "versionedFilename": "code.1785271125478-c8574378-2d1f-4b72-b8e2-9df22f715d80.tsx",
+  "codeReference": "r2://components-code-private/dhileepkumargm/modern-feature-grid/code.1785271125478-c8574378-2d1f-4b72-b8e2-9df22f715d80.tsx",
+  "codeUrl": "https://cdn.21st.dev/dhileepkumargm/modern-feature-grid/code.1785271125478-c8574378-2d1f-4b72-b8e2-9df22f715d80.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/dhileepkumargm__modern-feature-grid/code.tsx",
+    "bytes": 2992,
+    "sha256": "ce59452a00c1af7cc567b949589905896cf0802744b026c699a5cf769b7c4aa0",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

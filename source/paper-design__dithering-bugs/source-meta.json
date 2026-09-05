@@ -1,0 +1,26 @@
+{
+  "id": "paper-design__dithering-bugs",
+  "author": "paper-design",
+  "slug": "dithering-bugs",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@paper-design/components/dithering-bugs",
+  "fetchedAt": "2026-08-29T06:02:53.228Z",
+  "completedAt": "2026-08-29T06:02:55.428Z",
+  "versionedFilename": "code.1784835241106-96e11a54-0d19-4dd3-b785-e1ef3ae505df.tsx",
+  "codeReference": "r2://components-code-private/paper-design/dithering-bugs/code.1784835241106-96e11a54-0d19-4dd3-b785-e1ef3ae505df.tsx",
+  "codeUrl": "https://cdn.21st.dev/paper-design/dithering-bugs/code.1784835241106-96e11a54-0d19-4dd3-b785-e1ef3ae505df.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

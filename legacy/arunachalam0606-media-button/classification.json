@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "hover-media-button",
+  "visual_style": [
+    "dark",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Create interactive buttons that reveal video or image content on hover for engaging user experiences",
+    "Build media galleries with hover-activated video/image previews",
+    "Design animated CTA buttons with multimedia backgrounds",
+    "Add visual interest to navigation elements with media reveal effects",
+    "Create interactive landing page components with dynamic media content"
+  ],
+  "ai_summary": "A minimalist dark-styled button component that reveals video or image media content on hover using Framer Motion animations. Supports both .mp4/.webm video and image formats with smooth opacity transitions and an optional dark overlay for text readability.",
+  "_classifiedAt": "2026-04-23T11:31:06.263Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ddoemonn__show-more",
+  "author": "ddoemonn",
+  "slug": "show-more",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ddoemonn/components/show-more",
+  "fetchedAt": "2026-08-29T04:11:45.268Z",
+  "completedAt": "2026-08-29T04:11:47.493Z",
+  "versionedFilename": "code.1785478250195-29949437-d513-4759-b66d-6ad7900c7148.tsx",
+  "codeReference": "r2://components-code-private/ddoemonn/show-more/code.1785478250195-29949437-d513-4759-b66d-6ad7900c7148.tsx",
+  "codeUrl": "https://cdn.21st.dev/ddoemonn/show-more/code.1785478250195-29949437-d513-4759-b66d-6ad7900c7148.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

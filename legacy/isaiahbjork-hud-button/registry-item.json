@@ -1,0 +1,45 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "isaiahbjork-hud-button",
+  "type": "registry:ui",
+  "title": "Isaiahbjork Hud Button",
+  "description": "Installed from https://21st.dev/r/isaiahbjork/hud-button",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "isaiahbjork-hud-button"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "hud-button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "hyper-text.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "next-themes"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/isaiahbjork/hud-button",
+    "fetchedAt": "2026-04-23T03:03:46.304Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "arunachalam0606-corner-frame-animated-button-1",
+  "type": "registry:ui",
+  "title": "Arunachalam0606 Corner Frame Animated Button 1",
+  "description": "Installed from https://21st.dev/r/arunachalam0606/corner-frame-animated-button-1",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "arunachalam0606-corner-frame-animated-button-1"
+  ],
+  "files": [
+    {
+      "path": "corner-frame-animated-button-1.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/arunachalam0606/corner-frame-animated-button-1",
+    "fetchedAt": "2026-04-22T06:44:38.749Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

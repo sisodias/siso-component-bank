@@ -1,0 +1,35 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "parallax-background",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "parallax"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Hero section background with mouse-responsive parallax effect",
+    "Landing page visual interest with depth illusion",
+    "Portfolio or media site immersive backgrounds",
+    "Product showcase pages with dynamic visual engagement",
+    "Creative agency website hero backgrounds"
+  ],
+  "ai_summary": "A parallax background component that creates an immersive depth effect by moving the background image opposite to mouse movement. Uses CSS transform3d and window mousemove event listeners to calculate translation offsets based on cursor position. The background image is sized at 110% to ensure seamless coverage during movement. Ideal for hero sections, landing pages, and portfolio sites seeking dynamic visual engagement.",
+  "_classifiedAt": "2026-04-23T16:59:39.000Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,28 @@
+{
+  "category": "input",
+  "subcategory": "toggle-switch",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Toggle boolean settings on and off in app preferences",
+    "Enable or disable features and filters in dashboards",
+    "Switch between binary states like dark/light mode",
+    "Use as a form input for capturing yes/no responses",
+    "Control visibility of content sections or panels"
+  ],
+  "ai_summary": "A toggle switch component featuring an animated SVG path that creates a unique visual transition between off and on states. Uses stroke-dasharray manipulation and scaleY transformation for the toggle animation, styled with a minimal gray-to-white color scheme. The switch uses a custom SVG shape resembling two connected rounded rectangles and responds to checkbox state changes with smooth CSS transitions.",
+  "_classifiedAt": "2026-04-23T01:48:15.691Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

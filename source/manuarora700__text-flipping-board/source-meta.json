@@ -1,0 +1,26 @@
+{
+  "id": "manuarora700__text-flipping-board",
+  "author": "manuarora700",
+  "slug": "text-flipping-board",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@manuarora700/components/text-flipping-board",
+  "fetchedAt": "2026-08-29T05:37:23.779Z",
+  "completedAt": "2026-08-29T05:37:25.384Z",
+  "versionedFilename": "code.1784480070067-17ea692f-36e6-4d12-a8cb-827fd3c1dbc5.tsx",
+  "codeReference": "r2://components-code-private/manuarora700/text-flipping-board/code.1784480070067-17ea692f-36e6-4d12-a8cb-827fd3c1dbc5.tsx",
+  "codeUrl": "https://cdn.21st.dev/manuarora700/text-flipping-board/code.1784480070067-17ea692f-36e6-4d12-a8cb-827fd3c1dbc5.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

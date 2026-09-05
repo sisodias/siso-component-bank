@@ -1,0 +1,36 @@
+{
+  "category": [
+    "hero"
+  ],
+  "subcategory": "animated hero with rotating text",
+  "visual_style": [
+    "glass-morphism",
+    "gradient"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page header with animated headline text for marketing sites",
+    "SaaS product hero section with rotating feature highlights",
+    "Portfolio or personal site intro with animated typography",
+    "E-commerce hero with animated promotional text",
+    "Dev tools landing page with animated code-related headlines"
+  ],
+  "ai_summary": "A premium hero section component featuring animated rotating text with spring-based transitions and scroll-triggered animations. Built with Framer Motion, it includes a custom RotatingText component supporting character/word animations, glow effects, and parallax-style scroll interactions. Perfect for creating engaging landing page headers that capture attention through motion and dynamic typography.",
+  "_classifiedAt": "2026-04-23T11:28:56.957Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

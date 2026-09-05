@@ -1,0 +1,33 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "toast-notification",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying success confirmations after form submissions or completed actions",
+    "Showing warning alerts for validation issues or pending deadlines",
+    "Presenting error notifications for failed operations or connectivity issues",
+    "Providing contextual help tooltips during user workflows",
+    "Delivering real-time system status updates with auto-dismissing timers"
+  ],
+  "ai_summary": "A toast notification system that displays temporary alert messages in four types: success, error, warning, and help. Features an auto-dismissing progress timer bar, Lucide icons, and an imperative API for programmatic control via useImperativeHandle. Includes RTL support and customizable timer colors for flexible integration across web applications.",
+  "_classifiedAt": "2026-04-23T16:55:21.116Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "amanshakya1808-framework-agnostic",
+  "type": "registry:ui",
+  "title": "Amanshakya1808 Framework Agnostic",
+  "description": "Installed from https://21st.dev/r/amanshakya1808/framework-agnostic",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "amanshakya1808-framework-agnostic"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "framework-agnostic.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/amanshakya1808/framework-agnostic",
+    "fetchedAt": "2026-04-23T01:18:21.776Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

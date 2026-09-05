@@ -1,0 +1,26 @@
+{
+  "id": "shun0tter__calendar",
+  "author": "shun0tter",
+  "slug": "calendar",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shun0tter/components/calendar",
+  "fetchedAt": "2026-08-29T07:21:08.758Z",
+  "completedAt": "2026-08-29T07:21:11.179Z",
+  "versionedFilename": "code.1776403223689.tsx",
+  "codeReference": "r2://components-code-private/shun0tter/calendar/code.1776403223689.tsx",
+  "codeUrl": "https://cdn.21st.dev/shun0tter/calendar/code.1776403223689.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5551,
+  "sha256": "e5c414bfbad32770f030130aa2367336a4bcfb13c8d4ae7721ec3992757a3107",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

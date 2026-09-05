@@ -1,0 +1,31 @@
+{
+  "category": "feedback",
+  "subcategory": "celebration-overlay",
+  "visual_style": [
+    "colorful",
+    "gradient"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Celebrate successful user signups or account creation with a confetti burst",
+    "Mark order completion or purchase confirmation with an animated celebration",
+    "Highlight product feature releases or successful uploads",
+    "Reward milestone achievements like streaks, goals, or badges earned",
+    "Add visual delight to content publication or posting success"
+  ],
+  "ai_summary": "A lightweight confetti celebration overlay component using Lottie animations for visual feedback. Renders a fixed full-screen confetti effect that can be toggled via the isActive prop, with configurable duration, z-index, and looping. Perfect for celebrating user actions like signups, purchases, or achievements in SaaS, e-commerce, and creator platform applications.",
+  "_classifiedAt": "2026-04-23T17:00:32.204Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

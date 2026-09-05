@@ -1,0 +1,27 @@
+{
+  "category": "navigation",
+  "subcategory": "menu-bar-dropdown",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Application navigation menus with File/Edit/Help structure",
+    "Desktop-style dropdown menus for web apps",
+    "Organizing actions in toolbars or header sections"
+  ],
+  "ai_summary": "A minimalist menu bar component from Base UI featuring dropdown menus with hover highlighting, keyboard navigation support, and dark mode compatibility. Displays menu items with subtle background fills on highlight states and organized dropdown lists. Ideal for desktop-style application menus in SaaS platforms, developer tools, or any web application requiring organized action menus.",
+  "_classifiedAt": "2026-04-23T11:32:17.154Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

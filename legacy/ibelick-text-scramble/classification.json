@@ -1,0 +1,32 @@
+{
+  "category": "feedback",
+  "subcategory": "text-scramble-animation",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Creating animated headlines with a scramble-to-reveal effect for hero sections",
+    "Adding visual interest to status messages with character randomization animations",
+    "Building scroll-triggered text reveals for landing pages",
+    "Enhancing portfolio or portfolio-style showcases with glitch-like text effects",
+    "Creating loading states with animated placeholder text"
+  ],
+  "ai_summary": "A lightweight React text scrambling component that animates characters through random sets before resolving to the final text. Supports custom duration, speed, and character sets with Framer Motion integration. Commonly used for scroll-triggered text reveal effects in hero sections and landing pages, creating a cyberpunk-like typing/glitch aesthetic.",
+  "_classifiedAt": "2026-04-23T16:43:12.488Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

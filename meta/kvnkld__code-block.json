@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@kvnkld/components/code-block",
+  "author": "kvnkld",
+  "slug": "code-block",
+  "name": "code-block",
+  "description": "A compact code snippet block with a filename header, line numbers and a copy-to-clipboard button, ideal for showing code output in AI chat interfaces.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/kvnkld/code-block?api_key=$API_KEY_21ST\"",
+  "id": "kvnkld__code-block",
+  "bundleUrl": "https://cdn.21st.dev/kvnkld/code-block/default/bundle.1785482944355-851d640c-1d50-4413-9584-d9cc5613048f.html",
+  "previewUrl": "https://cdn.21st.dev/kvnkld/code-block/default/preview.1785482944355-851d640c-1d50-4413-9584-d9cc5613048f.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

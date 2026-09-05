@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ncdai-wheel-picker",
+  "type": "registry:ui",
+  "title": "Ncdai Wheel Picker",
+  "description": "Installed from https://21st.dev/r/ncdai/wheel-picker",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ncdai-wheel-picker"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "wheel-picker.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@ncdai/react-wheel-picker"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ncdai/wheel-picker",
+    "fetchedAt": "2026-04-23T03:03:48.220Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

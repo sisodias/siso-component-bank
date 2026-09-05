@@ -1,0 +1,26 @@
+{
+  "id": "tonyzebastian__image-tiles",
+  "author": "tonyzebastian",
+  "slug": "image-tiles",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@tonyzebastian/components/image-tiles",
+  "fetchedAt": "2026-08-29T07:39:58.663Z",
+  "completedAt": "2026-08-29T07:40:01.054Z",
+  "versionedFilename": "code.1758643965932.tsx",
+  "codeReference": "r2://components-code-private/tonyzebastian/image-tiles/code.1758643965932.tsx",
+  "codeUrl": "https://cdn.21st.dev/tonyzebastian/image-tiles/code.1758643965932.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4154,
+  "sha256": "50c7ef5d2bacd959b6a1d5b9f349a3596665e355fa6d3a8c687238d120c2f136",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

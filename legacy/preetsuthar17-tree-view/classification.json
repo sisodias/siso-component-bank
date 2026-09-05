@@ -1,0 +1,28 @@
+{
+  "category": "data-display",
+  "subcategory": "tree-view/hierarchical-list",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "File and folder navigation in project explorers or file managers",
+    "Displaying organizational structures or team hierarchies",
+    "Nested category or tag browsing interfaces",
+    "Settings or configuration panels with collapsible sections",
+    "Menu navigation with expandable submenus"
+  ],
+  "ai_summary": "A hierarchical tree-view component for displaying nested data structures with expandable and collapsible nodes. Supports single and multi-select functionality, custom icons for files and folders, and smooth expand/collapse animations via Framer Motion. Features both controlled and uncontrolled modes for selection state management.",
+  "_classifiedAt": "2026-04-23T17:10:10.680Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

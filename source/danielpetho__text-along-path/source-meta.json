@@ -1,0 +1,26 @@
+{
+  "id": "danielpetho__text-along-path",
+  "author": "danielpetho",
+  "slug": "text-along-path",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@danielpetho/components/text-along-path",
+  "fetchedAt": "2026-08-29T04:08:01.187Z",
+  "completedAt": "2026-08-29T04:08:03.484Z",
+  "versionedFilename": "code.1783579282133.tsx",
+  "codeReference": "r2://components-code-private/danielpetho/text-along-path/code.1783579282133.tsx",
+  "codeUrl": "https://cdn.21st.dev/danielpetho/text-along-path/code.1783579282133.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4675,
+  "sha256": "250d64e7fd3f5317578484209136a6191a4b021d5d4a5aae4ac8274a989384d6",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

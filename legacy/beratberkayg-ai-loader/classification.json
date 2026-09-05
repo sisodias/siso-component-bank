@@ -1,0 +1,31 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading spinner",
+  "visual_style": [
+    "gradient",
+    "3d"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "ai",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying loading state during AI content generation",
+    "Full-screen loading overlay for async operations",
+    "Waiting indicator for SaaS applications processing requests"
+  ],
+  "ai_summary": "A full-screen loading spinner component with an animated rotating circle and pulsing text letters. Features a dark blue gradient background with cyan glow effects, designed for AI-related loading states. Includes customizable size and text props for flexible integration.",
+  "_classifiedAt": "2026-04-23T11:32:35.648Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

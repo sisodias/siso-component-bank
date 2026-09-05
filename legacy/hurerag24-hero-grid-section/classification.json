@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Trigger form submissions and action handlers in web applications",
+    "Provide navigation triggers for internal and external links",
+    "Enable user interactions with hover and focus feedback states",
+    "Support accessibility with keyboard navigation and screen reader compatibility",
+    "Serve as primary or secondary call-to-action elements in UI layouts"
+  ],
+  "ai_summary": "A flexible, accessible button component built with Radix UI's Slot and class-variance-authority for variant-based styling. Supports multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, small, large, icon) with hover, focus, and disabled states. Designed as a foundational UI primitive suitable for any React application requiring consistent action triggers.",
+  "_classifiedAt": "2026-04-22T08:59:40.114Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

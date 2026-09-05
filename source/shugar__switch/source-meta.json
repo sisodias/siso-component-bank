@@ -1,0 +1,26 @@
+{
+  "id": "shugar__switch",
+  "author": "shugar",
+  "slug": "switch",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/switch",
+  "fetchedAt": "2026-08-29T07:20:36.762Z",
+  "completedAt": "2026-08-29T07:20:39.148Z",
+  "versionedFilename": "code.1752057509851.tsx",
+  "codeReference": "r2://components-code-private/shugar/switch/code.1752057509851.tsx",
+  "codeUrl": "https://cdn.21st.dev/shugar/switch/code.1752057509851.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2900,
+  "sha256": "aefb3e24be3e4215ddca10dc8ad3efd28855c9a1dad11af63238797a045bde79",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

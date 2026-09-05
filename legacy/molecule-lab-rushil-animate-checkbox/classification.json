@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "checkbox",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Form validation and agreement confirmations in signup or settings pages",
+    "Task management applications requiring toggleable checklist items",
+    "E-commerce checkout flows for multiple product selections or filters",
+    "Settings panels in SaaS dashboards for feature enablement",
+    "Survey and poll builders where users select multiple options"
+  ],
+  "ai_summary": "An animated checkbox component built on Radix UI with spring-based scale animations on hover and tap interactions. Features subtle hover shadows and border transitions for visual feedback, supporting all standard checkbox states including disabled and focus-visible rings. Lightweight atomic component suitable for forms, settings panels, and any UI requiring boolean toggle functionality.",
+  "_classifiedAt": "2026-04-23T17:00:42.880Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "compound-card-system",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "system"
+  ],
+  "use_cases": [
+    "Displaying grouped content with structured header, body, and footer sections",
+    "Building dashboard panels with title, description, and action buttons",
+    "Creating product or feature cards with consistent spacing and borders",
+    "Composing layout grids with uniform card components",
+    "Displaying data entries with semantic card structure in lists"
+  ],
+  "ai_summary": "A compound card component system from 21st.dev with sub-components for card header, title, description, action, content, and footer. Built on Tailwind CSS with semantic data-slot attributes and responsive container queries. Follows standard card UI patterns for SaaS dashboards and content display, offering a clean, minimal visual style with subtle border separators.",
+  "_classifiedAt": "2026-04-22T09:01:42.582Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

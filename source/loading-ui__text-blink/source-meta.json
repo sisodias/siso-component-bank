@@ -1,0 +1,26 @@
+{
+  "id": "loading-ui__text-blink",
+  "author": "loading-ui",
+  "slug": "text-blink",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@loading-ui/components/text-blink",
+  "fetchedAt": "2026-08-29T05:29:42.585Z",
+  "completedAt": "2026-08-29T05:29:44.749Z",
+  "versionedFilename": "code.1784677396555-58aef2d6-9232-4efd-8e5b-65ce03ca6fe3.tsx",
+  "codeReference": "r2://components-code-private/loading-ui/text-blink/code.1784677396555-58aef2d6-9232-4efd-8e5b-65ce03ca6fe3.tsx",
+  "codeUrl": "https://cdn.21st.dev/loading-ui/text-blink/code.1784677396555-58aef2d6-9232-4efd-8e5b-65ce03ca6fe3.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

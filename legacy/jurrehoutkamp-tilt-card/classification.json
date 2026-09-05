@@ -1,0 +1,30 @@
+{
+  "category": "card",
+  "subcategory": "3d-tilt-interactive-card",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "saas",
+    "media",
+    "creative-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Product showcase cards with interactive 3D tilt effects and glare lighting",
+    "Image galleries with mouse-tracking perspective transforms",
+    "Feature highlight cards on landing pages with hover animations",
+    "Interactive portfolio cards with realistic depth and light reflections",
+    "E-commerce product previews with premium glass-like appearance"
+  ],
+  "ai_summary": "An interactive 3D tilt card component built with Framer Motion that creates a realistic perspective shift based on mouse position. Features configurable glare effect that follows the cursor, adjustable tilt intensity, shadow depth, and hover scaling. The card uses CSS 3D transforms with perspective for depth, making it ideal for product showcases, image galleries, or premium feature highlights on e-commerce and SaaS platforms.",
+  "_classifiedAt": "2026-04-23T16:47:59.051Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

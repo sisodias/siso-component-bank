@@ -1,0 +1,37 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "animated-data-table",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying structured datasets with animated row hover effects in dashboards",
+    "Creating interactive data tables with proximity-based highlighting for better UX",
+    "Building responsive table views for SaaS applications and admin panels",
+    "Implementing sortable, filterable table interfaces with smooth transitions",
+    "Displaying financial or analytics data with visual polish and hover feedback"
+  ],
+  "ai_summary": "A sophisticated React data table component with proximity hover effects and spring-based animations. Built with Framer Motion for smooth transitions, it features scroll-aware row highlighting and modern minimalist styling. Ideal for dashboards, admin panels, and data-rich applications requiring interactive table views with polished animations.",
+  "_classifiedAt": "2026-04-22T09:06:00.525Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

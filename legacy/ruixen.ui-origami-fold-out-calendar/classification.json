@@ -1,0 +1,34 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "collapsible-accordion",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Collapsible content sections for FAQs or documentation",
+    "Step-by-step wizards with expandable sections",
+    "Navigation menus with expandable submenus",
+    "Organizing grouped content in settings pages",
+    "FAQ sections on landing pages or help centers"
+  ],
+  "ai_summary": "A reusable accordion component built on Radix UI primitives featuring smooth expand/collapse animations with chevron rotation indicators. Uses standard Tailwind styling for borders, typography, and spacing. The component provides accessible collapsible content sections commonly used for FAQs, navigation menus, and grouped content organization across various industries and platforms.",
+  "_classifiedAt": "2026-04-23T01:50:46.611Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

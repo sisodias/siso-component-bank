@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@theshanelevine/components/code-block",
+  "author": "theshanelevine",
+  "slug": "code-block",
+  "name": "code-block",
+  "description": "A code block that streams agent-written code line by line with syntax token colors, a filename header, and a live copy-to-clipboard button.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/theshanelevine/code-block?api_key=$API_KEY_21ST\"",
+  "id": "theshanelevine__code-block",
+  "bundleUrl": "https://cdn.21st.dev/theshanelevine/code-block/default/bundle.1785485820796-1f638759-f9e4-40e4-aa63-003e102dd86f.html",
+  "previewUrl": "https://cdn.21st.dev/theshanelevine/code-block/default/preview.1785485820796-1f638759-f9e4-40e4-aa63-003e102dd86f.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

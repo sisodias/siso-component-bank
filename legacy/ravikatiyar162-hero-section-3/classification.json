@@ -1,0 +1,30 @@
+{
+  "category": "hero",
+  "subcategory": "scroll-animated landing hero",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero sections with scroll-driven visual storytelling",
+    "Product showcases with animated image reveals on scroll",
+    "Creative portfolio or agency landing pages with parallax effects",
+    "Interactive storytelling sections in marketing sites",
+    "App feature introductions with cinematic scroll animations"
+  ],
+  "ai_summary": "A scroll-driven hero section component featuring a plane animation that flies across the screen as users scroll. Uses Framer Motion's useScroll and useTransform hooks for parallax-like effects with dynamic opacity transitions. The component wraps content in a sticky container within a tall scroll container, creating an immersive visual narrative perfect for creative landing pages and product showcases.",
+  "_classifiedAt": "2026-04-23T17:11:52.789Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

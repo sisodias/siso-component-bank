@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "bar-chart",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying categorical data with visual bar representations for analytics dashboards",
+    "Comparing quantities across different categories in a card-based layout",
+    "Presenting statistical summaries with category breakdowns"
+  ],
+  "ai_summary": "A card-based data visualization component for rendering category bar charts, providing a clean container system with header, content, and footer sections to display categorized statistics. Designed for dashboards and analytics interfaces where visual data comparison is needed, styled with minimalist flat design principles using Tailwind CSS utility classes.",
+  "_classifiedAt": "2026-04-23T01:35:27.995Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

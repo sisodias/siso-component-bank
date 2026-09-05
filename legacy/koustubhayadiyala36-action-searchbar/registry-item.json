@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "koustubhayadiyala36-action-searchbar",
+  "type": "registry:ui",
+  "title": "Koustubhayadiyala36 Action Searchbar",
+  "description": "Installed from https://21st.dev/r/koustubhayadiyala36/action-searchbar",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "koustubhayadiyala36-action-searchbar"
+  ],
+  "files": [
+    {
+      "path": "action-searchbar.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/koustubhayadiyala36/action-searchbar",
+    "fetchedAt": "2026-04-22T06:42:54.997Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "LegionWebDev__legion-web-dev",
+  "author": "LegionWebDev",
+  "slug": "legion-web-dev",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@LegionWebDev/components/legion-web-dev",
+  "fetchedAt": "2026-08-29T05:26:14.936Z",
+  "completedAt": "2026-08-29T05:26:16.147Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/LegionWebDev__legion-web-dev/code.tsx",
+    "bytes": 14560,
+    "sha256": "95ddb8e0dec1ea1edfd9d1231834a01b94f66b51218a6f4a53eae9d960c388dc",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

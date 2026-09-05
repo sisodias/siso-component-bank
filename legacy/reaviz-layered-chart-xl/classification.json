@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "funnel chart with animated metrics",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Visualize sales or conversion funnels in analytics dashboards",
+    "Display user journey drop-off rates with animated metric counters",
+    "Track marketing campaign performance with trend indicators",
+    "Monitor pipeline stages with real-time animated data",
+    "Present business KPIs with upward/downward trend visualization"
+  ],
+  "ai_summary": "A data visualization component featuring a funnel chart from the Reaviz library combined with animated CountUp metrics and custom trend indicator icons. Uses framer-motion for smooth transitions and displays performance data with upward (coral) and downward (teal) trend arrows. Designed for analytics dashboards and conversion tracking scenarios.",
+  "_classifiedAt": "2026-04-23T17:15:21.455Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

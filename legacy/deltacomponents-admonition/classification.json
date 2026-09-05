@@ -1,0 +1,36 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "notification-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "education",
+    "healthcare",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying contextual tips and helpful information to guide users through interfaces",
+    "Showing warning messages for potentially risky actions or configurations",
+    "Presenting success confirmations after form submissions or completed actions",
+    "Highlighting important notes or disclaimers in documentation and help sections",
+    "Communicating error states and danger alerts with appropriate visual urgency"
+  ],
+  "ai_summary": "A versatile admonition component providing contextual feedback through color-coded alert boxes. Supports seven distinct notification types (note, tip, info, warning, danger, success, caution) each with semantic icons and coordinated color schemes. Built with Tailwind CSS for clean styling and includes dark mode support, making it ideal for documentation interfaces, SaaS dashboards, and developer tools requiring inline contextual messaging.",
+  "_classifiedAt": "2026-04-23T01:37:28.762Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

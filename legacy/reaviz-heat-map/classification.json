@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "Heat Map Chart",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Display time-based activity patterns across days and hours",
+    "Visualize intensity of recurring events or behaviors over a grid",
+    "Show usage or engagement metrics with color-coded intensity values"
+  ],
+  "ai_summary": "A Reaviz-based heat map component for visualizing time-series intensity data across a grid. Displays activity patterns with color gradients indicating value intensity, with automatic dark mode detection based on system preferences. Ideal for showing recurring data patterns like user engagement or system activity over time.",
+  "_classifiedAt": "2026-04-23T17:14:37.017Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

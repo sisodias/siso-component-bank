@@ -1,0 +1,26 @@
+{
+  "id": "cnippet.dev__vercep-feature-1",
+  "author": "cnippet.dev",
+  "slug": "vercep-feature-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@cnippet.dev/components/vercep-feature-1",
+  "fetchedAt": "2026-08-29T04:00:12.648Z",
+  "completedAt": "2026-08-29T04:00:14.808Z",
+  "versionedFilename": "code.1773258378590.tsx",
+  "codeReference": "r2://components-code-private/cnippet.dev/vercep-feature-1/code.1773258378590.tsx",
+  "codeUrl": "https://cdn.21st.dev/cnippet.dev/vercep-feature-1/code.1773258378590.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 568,
+  "sha256": "706fe0418b5e9bfee32f916d6c357be7a79ea437c6ca319d1ec15fb9c0ba6d18",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

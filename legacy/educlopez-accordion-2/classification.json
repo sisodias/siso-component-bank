@@ -1,0 +1,26 @@
+{
+  "category": "navigation",
+  "subcategory": "dropdown-selector",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting from a list of options in forms and settings",
+    "Navigation menu with expandable options",
+    "Filtering or categorizing content",
+    "Currency or language selection in international apps",
+    "Theme or display preference selection"
+  ],
+  "ai_summary": "A reusable dropdown component featuring smooth open/close animations with a rotating chevron indicator, click-outside detection for auto-closing, and clean minimalist styling using CSS variables. The component supports custom labels, selectable items with optional icons, and provides proper accessibility attributes for screen readers and keyboard navigation.",
+  "_classifiedAt": "2026-04-23T01:39:50.087Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

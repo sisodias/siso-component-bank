@@ -1,0 +1,30 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "animated-loader",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying loading state while content fetches",
+    "Indicating async operations are in progress",
+    "Placeholder animation during page transitions"
+  ],
+  "ai_summary": "An animated loading indicator component featuring eight stacked box elements with a ground base, creating a skeleton-style wave animation effect. Typically used to signal that content is loading or an operation is in progress.",
+  "_classifiedAt": "2026-04-23T17:12:32.848Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

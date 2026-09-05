@@ -1,0 +1,31 @@
+{
+  "category": "media",
+  "subcategory": "text-animation",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "dev-tools",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Animate text reveals in hero sections to create visual intrigue",
+    "Add scramble-on-hover effects to interactive headings or buttons",
+    "Trigger text animations when elements scroll into view using intersection observer",
+    "Create attention-grabbing loading states or transitions",
+    "Build dramatic headline reveals for landing pages"
+  ],
+  "ai_summary": "A text scrambling animation component that reveals text through a randomized character effect. Built on the use-scramble library, it supports auto-start, hover triggers, intersection observer-based scroll animations, and programmatic control via ref methods. Lightweight atomic component suitable for creating engaging text reveals in hero sections, buttons, or loading states.",
+  "_classifiedAt": "2026-04-23T01:37:25.305Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

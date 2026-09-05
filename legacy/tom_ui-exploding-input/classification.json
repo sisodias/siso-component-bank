@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "particle-explosion-input",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "creator-tools",
+    "saas",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creative signup forms with visual feedback",
+    "Interactive search inputs with particle effects",
+    "Engaging contact forms for marketing pages",
+    "Fun user registration experiences",
+    "Playful data entry interfaces"
+  ],
+  "ai_summary": "An interactive text input component that spawns animated particle effects when the user interacts with it. Particles explode outward from the input with configurable direction, gravity, scale, and rotation animations. The component supports customizable particle content and randomized behavior using a deterministic PRNG for unique visual feedback on each interaction.",
+  "_classifiedAt": "2026-04-22T09:17:59.804Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

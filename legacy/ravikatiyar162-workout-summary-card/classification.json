@@ -1,0 +1,27 @@
+{
+  "category": "card",
+  "subcategory": "workout-stats",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "healthcare",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying workout session results after completing a fitness activity",
+    "Showing fitness progress statistics in a health tracking dashboard",
+    "Presenting workout history entries with detailed metrics in a mobile app",
+    "Summarizing workout data with customizable stat items and action buttons",
+    "Featuring workout images and performance metrics in a fitness community app"
+  ],
+  "ai_summary": "A workout summary card component for fitness tracking applications that displays workout session details including date, activity type, equipment, image, and performance metrics. Features customizable stat items with icons, colors, and units, along with action buttons for like, delete, and close interactions. Built with Framer Motion for smooth entrance animations with staggered child elements, using Tailwind CSS for styling and supporting dark mode via CSS variables. Fully responsive and designed for fitness and healthcare platforms.",
+  "_classifiedAt": "2026-04-22T09:11:16.446Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

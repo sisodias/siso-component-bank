@@ -1,0 +1,32 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "badge-label",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display status indicators with semantic color variants",
+    "Show counts or labels for filtering and categorization",
+    "Highlight new or featured items with destructive or secondary variants"
+  ],
+  "ai_summary": "A shadcn/ui-styled badge component with four semantic variants (default, secondary, destructive, outline) for displaying labels, counts, or status indicators. Built with class-variance-authority for consistent theming and includes hover and focus states for accessibility.",
+  "_classifiedAt": "2026-04-22T09:15:59.372Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

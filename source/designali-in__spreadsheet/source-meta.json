@@ -1,0 +1,26 @@
+{
+  "id": "designali-in__spreadsheet",
+  "author": "designali-in",
+  "slug": "spreadsheet",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/spreadsheet",
+  "fetchedAt": "2026-08-29T04:21:17.290Z",
+  "completedAt": "2026-08-29T04:21:19.588Z",
+  "versionedFilename": "code.1755230414712.tsx",
+  "codeReference": "r2://components-code-private/designali-in/spreadsheet/code.1755230414712.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/spreadsheet/code.1755230414712.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 8577,
+  "sha256": "3b8615fd108232536d2d822e679a314664764044d4e0409a44584c5497b1b9e0",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

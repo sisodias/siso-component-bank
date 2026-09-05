@@ -1,0 +1,17 @@
+{
+ "id": "youcefbnm__hero-video",
+ "outcome": "retrieved",
+ "retrievalMethod": "local-legacy-store-copy",
+ "provenanceNote": "Copied from the pre-existing local legacy 21st store; NOT fetched from 21st.dev by this lane.",
+ "legacySourcePath": "legacy/youcefbnm-hero-video/hero-video.tsx",
+ "legacySourceFile": "hero-video.tsx",
+ "legacyDependencies": [
+  "motion"
+ ],
+ "upstreamUrl": "https://21st.dev/@youcefbnm/components/hero-video",
+ "httpStatus": null,
+ "sha256": "623d143fe80d559d82ec4944ae01152a60ffe21e786cfee9e8b053eda6b8487d",
+ "bytes": 4678,
+ "completedAt": "2026-08-29T03:43:54.195Z",
+ "seededBy": "CENA-directive-2026-08-29-skip-legacy"
+}

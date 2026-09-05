@@ -1,0 +1,33 @@
+{
+  "id": "xubohuah__spiral-animation",
+  "author": "xubohuah",
+  "slug": "spiral-animation",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@xubohuah/components/spiral-animation",
+  "fetchedAt": "2026-08-29T07:59:01.734Z",
+  "completedAt": "2026-08-29T07:59:03.098Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/xubohuah__spiral-animation/code.tsx",
+    "bytes": 15899,
+    "sha256": "68d914e4231eace5d7180bcb53be596e0f6bcfb043a4635a7a17e26550dc534d",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

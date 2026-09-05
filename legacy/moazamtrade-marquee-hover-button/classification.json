@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "hover-marquee-button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons in landing pages requiring attention-grabbing hover effects",
+    "Navigation elements that reveal secondary text on hover for additional context",
+    "Interactive buttons in SaaS dashboards where visual feedback enhances user experience"
+  ],
+  "ai_summary": "A sleek, minimalist button component featuring a marquee text effect that reveals on hover. Built with Framer Motion for smooth tap animations and fully supports both light and dark modes. The button uses CSS group-based hover states to transition between static and animated text states, making it ideal for interactive UI elements where visual polish and micro-interactions enhance the user experience.",
+  "_classifiedAt": "2026-04-22T09:06:35.350Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

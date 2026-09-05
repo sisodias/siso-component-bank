@@ -1,0 +1,41 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "tab-switcher with capsule-style buttons",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Tab-based navigation between content sections in dashboard interfaces",
+    "Segmented control for filtering data views in SaaS applications",
+    "Category switching in e-commerce product listings",
+    "Mode toggling in editor interfaces or settings panels",
+    "Step-by-step wizard navigation in multi-step forms"
+  ],
+  "ai_summary": "A versatile capsule-style tab and button component with multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes. Built with Radix UI's Slot for composition, featuring proper focus states, hover effects, and shadow styling. Supports asChild pattern for flexible composition. Ideal for creating navigation tabs, segmented controls, or interactive button groups in modern web applications.",
+  "_classifiedAt": "2026-04-23T01:49:08.940Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card",
+    "media"
+  ],
+  "subcategory": "avatar-share-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "social"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying user avatars with automatic fallback in share cards",
+    "Creating consistent user profile representations across social features",
+    "Building shareable content cards with user attribution",
+    "Implementing accessible avatar components in comment and feed systems"
+  ],
+  "ai_summary": "Radix UI-based avatar component system providing Avatar, AvatarImage, and AvatarFallback primitives for share card implementations. Features accessible, keyboard-navigable user profile display with automatic image fallback handling and rounded-full styling for social sharing contexts.",
+  "_classifiedAt": "2026-04-22T09:10:42.030Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

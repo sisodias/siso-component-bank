@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "toggle-switch",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Toggle settings or preferences in application interfaces",
+    "Enable or disable features in SaaS dashboards",
+    "Form input for boolean/yes-no selections",
+    "Theme toggles for light/dark mode switches",
+    "Filter toggles in e-commerce product listings"
+  ],
+  "ai_summary": "A smooth animated toggle switch component built with React and Framer Motion featuring spring-based physics for satisfying tactile feedback. The switch toggles between dark and light states with a subtle yellow glow effect when activated, and includes proper ARIA attributes for accessibility. Ideal for settings panels, feature toggles, and form inputs requiring boolean state management.",
+  "_classifiedAt": "2026-04-23T11:33:53.038Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

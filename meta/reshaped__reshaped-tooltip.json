@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@reshaped/components/reshaped-tooltip",
+  "author": "reshaped",
+  "slug": "reshaped-tooltip",
+  "name": "reshaped-tooltip",
+  "description": "Tooltip attached to any interactive element by passing its attributes to the trigger. Shows on hover with automatic viewport-aware repositioning, supports a configurable position, and can wrap disabled elements via the Actionable utility to keep them accessible.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/reshaped/reshaped-tooltip?api_key=$API_KEY_21ST\"",
+  "id": "reshaped__reshaped-tooltip",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/reshaped-tooltip/default/bundle.1783531298924.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/reshaped-tooltip/default/preview.1783531298924.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

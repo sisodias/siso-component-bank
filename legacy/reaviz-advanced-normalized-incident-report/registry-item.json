@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "reaviz-advanced-normalized-incident-report",
+  "type": "registry:ui",
+  "title": "Reaviz Advanced Normalized Incident Report",
+  "description": "Installed from https://21st.dev/r/reaviz/advanced-normalized-incident-report",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "reaviz-advanced-normalized-incident-report"
+  ],
+  "files": [
+    {
+      "path": "advanced-normalized-incident-report.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "react-countup",
+    "reaviz"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/reaviz/advanced-normalized-incident-report",
+    "fetchedAt": "2026-04-23T03:04:35.861Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

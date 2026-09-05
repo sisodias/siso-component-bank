@@ -1,0 +1,30 @@
+{
+  "category": "feedback",
+  "subcategory": "AI generation progress indicator",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displays AI image generation progress with animated gradient text and state-based messaging",
+    "Shows loading feedback during AI-powered image creation in chat interfaces",
+    "Communicates generation status through animated progress and text transitions",
+    "Provides visual feedback for long-running AI operations in creative tools",
+    "Delivers status updates in AI chat interfaces with smooth animations"
+  ],
+  "ai_summary": "A specialized progress indicator component for AI image generation interfaces featuring animated gradient text, a state-based message system (starting/generating/completed), and a timed progress bar. Designed for seamless integration into AI chat UIs, it provides clear visual feedback during long-running generation tasks with smooth transitions between states.",
+  "_classifiedAt": "2026-04-23T16:40:59.443Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

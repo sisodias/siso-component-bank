@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@dqnamo/components/model-selector",
+  "author": "dqnamo",
+  "slug": "model-selector",
+  "name": "model-selector",
+  "description": "A benchmark-informed prompt composer with an advanced LLM model selector for comparing frontier models across capability, speed, context, and cost. The model dropdown is searchable; hovering a model opens a preview card with animated metric bars (intelligence, speed, context, cost) and inline reasoning/speed configuration that adjusts the metrics live. Includes provider marks, per-model configuration badges, a scroll-faded list, and a Send action. Built on Base UI Combobox + Preview Card.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/dqnamo/model-selector?api_key=$API_KEY_21ST\"",
+  "id": "dqnamo__model-selector",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/model-selector/default/bundle.1782935263971.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/model-selector/default/preview.1782935263971.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 4,
+  "demo_id": 16717,
+  "video_url": "https://cdn.21st.dev/larsen66/model-selector/default/video.1782935263971.mp4"
+}

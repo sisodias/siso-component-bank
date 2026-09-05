@@ -1,0 +1,39 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "action-button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Primary call-to-action buttons in forms and landing pages",
+    "Secondary action buttons in multi-step workflows",
+    "Icon-only buttons for compact UI toolbars",
+    "Destructive action buttons for delete or warning confirmations",
+    "Ghost and link-style buttons for inline navigation elements"
+  ],
+  "ai_summary": "A versatile, accessible React button component with multiple visual variants (default, destructive, outline, secondary, ghost, link) and size options. Built with Radix UI Slot for composition, CVA for variant management, and proper Tailwind styling. Features standard hover, focus, and disabled states suitable for any web application interface requiring interactive action elements.",
+  "_classifiedAt": "2026-04-23T17:20:49.146Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

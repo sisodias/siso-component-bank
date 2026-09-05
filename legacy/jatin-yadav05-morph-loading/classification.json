@@ -1,0 +1,34 @@
+{
+  "category": "feedback",
+  "subcategory": "morph-loading-spinner",
+  "visual_style": [],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying loading states while content fetches",
+    "Providing visual feedback during async operations",
+    "Indicating processing time in applications",
+    "Replacing default browser spinners with branded loading animations"
+  ],
+  "ai_summary": "A morph loading spinner component featuring four animated dots that create a fluid morphing effect through staggered CSS keyframe animations. The component supports three size variants (sm, md, lg) and renders differently in light and dark modes using black and white colors. Perfect for adding polished loading feedback to any application without heavy dependencies.",
+  "_classifiedAt": "2026-04-23T16:47:00.646Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

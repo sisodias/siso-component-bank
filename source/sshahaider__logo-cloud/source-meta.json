@@ -1,0 +1,26 @@
+{
+  "id": "sshahaider__logo-cloud",
+  "author": "sshahaider",
+  "slug": "logo-cloud",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sshahaider/components/logo-cloud",
+  "fetchedAt": "2026-08-29T07:26:34.952Z",
+  "completedAt": "2026-08-29T07:26:36.612Z",
+  "versionedFilename": "code.1761041110291.tsx",
+  "codeReference": "r2://components-code-private/sshahaider/logo-cloud/code.1761041110291.tsx",
+  "codeUrl": "https://cdn.21st.dev/sshahaider/logo-cloud/code.1761041110291.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 958,
+  "sha256": "b80fff7812611d78b1985094ca3168762b67b4a7ddd1158687d2fa870e8f1869",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

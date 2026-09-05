@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "theme-switcher",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Allow users to toggle between system, light, and dark display themes",
+    "Persist user's preferred theme selection using localStorage",
+    "Automatically respect system color scheme preferences when set to system mode",
+    "Provide a compact, pill-shaped theme control for header or settings areas"
+  ],
+  "ai_summary": "A lightweight, pill-shaped theme switcher component with system/light/dark toggle options using native radio inputs and inline SVG icons. Features localStorage persistence for theme preference, automatic detection of system color scheme, and smooth hover transitions. Uses Tailwind CSS with a minimal border-based aesthetic for clean visual separation between options.",
+  "_classifiedAt": "2026-04-23T17:31:59.738Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

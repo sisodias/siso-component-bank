@@ -1,0 +1,31 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "sequential-reveal-list",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying real-time notifications or activity feeds that appear sequentially",
+    "Showing testimonial or review carousels with smooth spring animations",
+    "Revealing product features or highlights one at a time during onboarding",
+    "Displaying chat messages or comment threads as they arrive",
+    "Presenting achievement or milestone notifications with staggered entrance"
+  ],
+  "ai_summary": "An animated list component that sequentially reveals items one-by-one using spring physics animations. Items fade and scale in with configurable delays, creating a smooth cascading effect ideal for notification feeds, activity streams, or testimonial carousels. Built with Framer Motion's AnimatePresence for enter/exit transitions.",
+  "_classifiedAt": "2026-04-22T09:14:35.689Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@Codehagen/components/popover",
+  "author": "Codehagen",
+  "slug": "popover",
+  "name": "popover",
+  "description": "A versatile popover component for displaying contextual content, forms, and interactive menus with smooth animations.\n\nFeatures:\n\t•\tSmooth open and close animations\n\t•\tForm handling with textarea\n\t•\tMenu-style interactions\n\t•\tCommand palette functionality\n\t•\tProject status displays\n\t•\tClick outside detection\n\t•\tKeyboard navigation\n\t•\tDark mode support\n\t•\tCustom trigger variants\n\t•\tFlexible content layouts\n\t•\tCompound component pattern\n\t•\tAccessibility features\nNotes:\n\t•\tBuilt with Framer Motion for smooth animations\n\t•\tUtilizes React Context for state management\n\t•\tHandles click outside and escape key events\n\t•\tEmploys a responsive design with a mobile-first approach\n\t•\tIncludes TypeScript support with proper types\n\t•\tIntegrates seamlessly with Shadcn UI components\n\t•\tSupports custom styling and theming\n\t•\tOptimized for performance with proper hooks usage\n\n",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/Codehagen/popover?api_key=$API_KEY_21ST\"",
+  "id": "Codehagen__popover",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1476.html",
+  "previewUrl": "https://cdn.21st.dev/user_Codehagen/popover.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 68,
+  "demo_id": 1476,
+  "video_url": "https://cdn.21st.dev/user_Codehagen/popover/default/video.mp4"
+}

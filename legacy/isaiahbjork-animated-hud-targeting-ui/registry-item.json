@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "isaiahbjork-animated-hud-targeting-ui",
+  "type": "registry:ui",
+  "title": "Isaiahbjork Animated Hud Targeting Ui",
+  "description": "Installed from https://21st.dev/r/isaiahbjork/animated-hud-targeting-ui",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "isaiahbjork-animated-hud-targeting-ui"
+  ],
+  "files": [
+    {
+      "path": "animated-hud-targeting-ui.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "next-themes"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/isaiahbjork/animated-hud-targeting-ui",
+    "fetchedAt": "2026-04-23T01:16:45.736Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

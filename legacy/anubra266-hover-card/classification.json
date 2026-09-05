@@ -1,0 +1,28 @@
+{
+  "category": "overlay",
+  "subcategory": "hover-reveal-card",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying contextual information when users hover over interactive elements",
+    "Showing additional details about links, users, or items in list views",
+    "Providing tooltips with rich content beyond plain text",
+    "Revealing preview information in dashboards or data tables",
+    "Offering help text or definitions in educational interfaces"
+  ],
+  "ai_summary": "A clean hover card component built with Ark UI that reveals contextual content on mouse hover with smooth fade animations. Features a minimalist design with border styling, shadow, and dark mode support. The card includes a positioning arrow and supports rich content like headings and descriptions. Designed for displaying tooltips, user previews, and supplementary information across various application types.",
+  "_classifiedAt": "2026-04-22T08:52:07.911Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

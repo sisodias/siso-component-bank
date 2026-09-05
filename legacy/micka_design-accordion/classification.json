@@ -1,0 +1,29 @@
+{
+  "category": "data-display",
+  "subcategory": "collapsible-sections",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display FAQ sections with expandable answers",
+    "Organize feature lists with collapsible descriptions",
+    "Create help documentation with nested content sections",
+    "Build settings panels with categorized options",
+    "Implement content-dense pages with progressive disclosure"
+  ],
+  "ai_summary": "A clean, minimal accordion component built with Base UI that displays collapsible content sections with smooth height transitions. Features a rotating plus-to-X icon indicator, hover and focus states, and accessible keyboard navigation. Ideal for FAQ pages, documentation, or any interface requiring organized expandable content.",
+  "_classifiedAt": "2026-04-22T09:05:55.431Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

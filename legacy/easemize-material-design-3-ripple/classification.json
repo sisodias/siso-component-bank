@@ -1,0 +1,38 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "ripple-effect",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "fintech",
+    "media",
+    "education",
+    "healthcare",
+    "real-estate",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Providing touch/click feedback on buttons following Material Design 3 specifications",
+    "Adding visual confirmation to interactive elements when pressed or tapped",
+    "Enhancing user experience with smooth ripple animations on pointer interactions",
+    "Creating consistent interaction feedback across web applications",
+    "Replacing default browser click effects with customizable Material Design ripples"
+  ],
+  "ai_summary": "A Material Design 3 compliant ripple effect component that provides visual feedback on user interactions. Implements physics-based animation with configurable color, opacity, and disabled states. Handles pointer events with proper state management including touch delay, holding, and waiting-for-click states. Supports both wrapper and inline modes for flexible integration into existing UI components.",
+  "_classifiedAt": "2026-04-22T08:58:25.931Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

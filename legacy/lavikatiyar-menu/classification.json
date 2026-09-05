@@ -1,0 +1,41 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "user-profile-sidebar-menu",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "User profile navigation in SaaS dashboards with animated menu items",
+    "Sidebar menu for account settings and navigation in web applications",
+    "User profile sidebar with logout functionality for authenticated apps",
+    "Animated navigation component for admin panels and user dashboards",
+    "Profile menu with grouped navigation items using staggered spring animations"
+  ],
+  "ai_summary": "A user profile sidebar navigation component with a header displaying avatar, name, and email, followed by animated navigation menu items. Built with Framer Motion for staggered spring animations and supports grouping items with optional separators. Uses Lucide icons for visual indicators and includes a logout action at the bottom.",
+  "_classifiedAt": "2026-04-23T01:42:48.226Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

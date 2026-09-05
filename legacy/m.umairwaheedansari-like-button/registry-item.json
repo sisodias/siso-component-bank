@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "m.umairwaheedansari-like-button",
+  "type": "registry:ui",
+  "title": "M.Umairwaheedansari Like Button",
+  "description": "Installed from https://21st.dev/r/m.umairwaheedansari/like-button",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "m.umairwaheedansari-like-button"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "like-button.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "styled-components"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/m.umairwaheedansari/like-button",
+    "fetchedAt": "2026-04-23T02:28:03.111Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

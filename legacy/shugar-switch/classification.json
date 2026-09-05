@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "segmented-control",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Toggle between display modes or view options in a settings panel",
+    "Select a single option from a group of related choices",
+    "Switch between tabs or categories in a navigation context",
+    "Toggle boolean settings with grouped semantic options",
+    "Create a pill-style radio button group with optional icons"
+  ],
+  "ai_summary": "A segmented control switch component that functions like a group of radio buttons styled as an interconnected pill control. Supports three sizes (small, medium, large), optional icons per control, and disabled states. Uses React Context for state management, making it self-contained and easy to integrate into forms or settings interfaces. Clean flat design with subtle borders and rounded corners for a modern, minimalist aesthetic.",
+  "_classifiedAt": "2026-04-23T17:31:39.827Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

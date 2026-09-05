@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@hero_ui/components/heroui-surface",
+  "author": "hero_ui",
+  "slug": "heroui-surface",
+  "name": "heroui-surface",
+  "description": "A HeroUI surface — a themeable container that provides consistent background layering for cards, panels, and overlays. Supports default, secondary, and tertiary background levels plus a transparent variant for custom backgrounds.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/hero_ui/heroui-surface?api_key=$API_KEY_21ST\"",
+  "id": "hero_ui__heroui-surface",
+  "bundleUrl": "https://cdn.21st.dev/hero_ui/heroui-surface/default/bundle.1783964905319.html",
+  "previewUrl": "https://cdn.21st.dev/hero_ui/heroui-surface/default/preview.1783964905319.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

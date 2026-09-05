@@ -1,0 +1,41 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading-skeleton",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displays animated placeholder content while data loads to improve perceived performance",
+    "Provides visual feedback during async operations in lists, cards, or text blocks",
+    "Prevents layout shift by reserving space before content renders",
+    "Enhances UX with smooth gradient animation during loading states",
+    "Works as a wrapper around child components to show loading state without structural changes"
+  ],
+  "ai_summary": "A versatile skeleton loading component that displays animated gradient placeholder content to indicate loading states. Supports customizable dimensions, multiple shape variants (pill, rounded, squared), and smooth gradient animations for improved perceived performance and reduced layout shift during async operations.",
+  "_classifiedAt": "2026-04-23T17:31:13.756Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

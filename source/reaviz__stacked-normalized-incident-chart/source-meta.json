@@ -1,0 +1,33 @@
+{
+  "id": "reaviz__stacked-normalized-incident-chart",
+  "author": "reaviz",
+  "slug": "stacked-normalized-incident-chart",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@reaviz/components/stacked-normalized-incident-chart",
+  "fetchedAt": "2026-08-29T06:33:18.356Z",
+  "completedAt": "2026-08-29T06:33:19.270Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "page-soft404",
+  "failureClass": "soft-404",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/reaviz__stacked-normalized-incident-chart/code.tsx",
+    "bytes": 5564,
+    "sha256": "684e5523df330bd65eb40c08007e626f967d3ea5580219a385e575ba59889127",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is page-soft404/soft-404."
+  }
+}

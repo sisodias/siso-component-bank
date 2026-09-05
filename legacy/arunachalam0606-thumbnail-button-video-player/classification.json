@@ -1,0 +1,29 @@
+{
+  "category": "media",
+  "subcategory": "thumbnail-video-player",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "e-commerce",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display video content with a clickable thumbnail that opens a modal player",
+    "Embed product demonstration videos with branded thumbnail previews",
+    "Play YouTube videos or custom video URLs in an animated overlay modal",
+    "Showcase video tutorials with smooth open/close animations",
+    "Create interactive video galleries with thumbnail previews"
+  ],
+  "ai_summary": "A thumbnail video player component that displays a clickable thumbnail image with a play button overlay. When clicked, it opens an animated modal overlay that plays the video using YouTube embeds or custom video URLs. The modal features smooth morphing animations from the button position and supports ESC key dismissal. Ideal for video-heavy platforms like media sites, course platforms, or product showcases needing elegant video playback.",
+  "_classifiedAt": "2026-04-23T11:31:14.012Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,42 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "button-component",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Form submission triggers and user interactions",
+    "Navigation and routing actions",
+    "Modal and overlay open/close controls",
+    "Call-to-action buttons for conversions",
+    "Accessible button with multiple visual variants"
+  ],
+  "ai_summary": "A reusable Button component built with Radix UI Slot, class-variance-authority, and Tailwind CSS. Supports 6 variants (default, destructive, outline, secondary, ghost, link) and 4 sizes (default, sm, lg, icon). Includes proper focus-visible states, ring offsets, and disabled states for accessibility. This atomic component serves as a foundational UI building block for any web application, from form submissions to navigation triggers.",
+  "_classifiedAt": "2026-04-23T17:21:40.819Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

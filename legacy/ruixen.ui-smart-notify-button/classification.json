@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "action-button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Triggering form submissions in web applications",
+    "Serving as call-to-action buttons in marketing pages",
+    "Navigation triggers for routing between pages",
+    "Opening or closing modal dialogs",
+    "Initiating asynchronous operations like API calls"
+  ],
+  "ai_summary": "A versatile, accessible button component built on Radix UI Slot and styled with Tailwind CSS using class-variance-authority. Supports multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon) with composition support via the asChild prop. Designed as a foundational UI primitive for any web application requiring interactive action triggers.",
+  "_classifiedAt": "2026-04-23T01:51:22.353Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

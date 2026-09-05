@@ -1,0 +1,25 @@
+{
+  "category": "form",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Form submission and action triggers",
+    "Navigation and link-based interactions",
+    "Primary and secondary call-to-action elements",
+    "Icon-based toolbar actions",
+    "Accessible button components with Radix UI integration"
+  ],
+  "ai_summary": "A versatile, accessible button component built on Radix UI with multiple visual variants (default, destructive, outline, secondary, ghost, link) and size options. Uses Tailwind CSS and class-variance-authority for consistent styling, with proper focus states for keyboard navigation accessibility.",
+  "_classifiedAt": "2026-04-23T17:16:36.822Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

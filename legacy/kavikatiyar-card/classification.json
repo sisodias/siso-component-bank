@@ -1,0 +1,29 @@
+{
+  "category": "data-display",
+  "subcategory": "analytics-metrics-card",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying key metrics and KPIs in dashboard analytics sections",
+    "Showing weekly or monthly data trends with animated bar visualizations",
+    "Presenting financial or business performance summaries with iconography",
+    "Building analytics overview pages with metric cards in SaaS applications"
+  ],
+  "ai_summary": "A responsive analytics card component that displays metrics with an animated bar chart visualization. Built with Framer Motion for smooth animations, Tailwind CSS for theming, and TypeScript for type safety. Features a clean minimalist design with icon support, dynamic bar highlighting based on maximum values, and striped bar backgrounds for visual interest. Ideal for dashboards displaying weekly analytics, business metrics, or financial performance data.",
+  "_classifiedAt": "2026-04-23T01:41:20.953Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

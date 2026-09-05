@@ -1,0 +1,36 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "page-pagination",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Navigating through pages of search results or filtered content listings",
+    "Browsing multi-page data tables in SaaS dashboards",
+    "Paging through product catalogs in e-commerce storefronts",
+    "Navigating article or blog post archives in media applications",
+    "Accessing paginated course content or lesson modules in educational platforms"
+  ],
+  "ai_summary": "A clean, minimalist pagination component from reuno-ui designed for navigating through multi-page content. Features responsive button sizing with subtle hover states and active press animations, displaying numbered page indicators with the current page highlighted in indigo. Suitable for any application requiring basic list or content pagination, with straightforward implementation that adapts seamlessly between desktop and mobile viewports.",
+  "_classifiedAt": "2026-04-22T09:11:18.097Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

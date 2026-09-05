@@ -1,0 +1,37 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "checkbox",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "dev-tools",
+    "fintech",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Used as a standalone selection control in forms for boolean options like terms acceptance",
+    "Serves as a filtering mechanism in e-commerce or data-driven applications",
+    "Functions as a task completion indicator in productivity tools",
+    "Acts as a preference toggle in settings interfaces",
+    "Enables bulk selection in list-based interfaces like email or file managers"
+  ],
+  "ai_summary": "A lightweight, accessible checkbox component built on Radix UI primitives with standard focus-visible and disabled states. The component features a clean minimalist design with a check icon from Lucide React and supports the native checkbox state pattern using data attributes. Suitable for any application requiring form input controls with proper accessibility support.",
+  "_classifiedAt": "2026-04-22T09:18:44.349Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

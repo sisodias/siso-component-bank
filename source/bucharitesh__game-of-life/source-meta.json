@@ -1,0 +1,26 @@
+{
+  "id": "bucharitesh__game-of-life",
+  "author": "bucharitesh",
+  "slug": "game-of-life",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@bucharitesh/components/game-of-life",
+  "fetchedAt": "2026-08-29T03:51:25.165Z",
+  "completedAt": "2026-08-29T03:51:27.379Z",
+  "versionedFilename": "code.1753737068371.tsx",
+  "codeReference": "r2://components-code-private/bucharitesh/game-of-life/code.1753737068371.tsx",
+  "codeUrl": "https://cdn.21st.dev/bucharitesh/game-of-life/code.1753737068371.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6569,
+  "sha256": "93f5c2120997830f42a87f888537d79bd082e38ff596733270e70928dc56f23c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

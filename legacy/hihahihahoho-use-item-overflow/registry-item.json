@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "hihahihahoho-use-item-overflow",
+  "type": "registry:ui",
+  "title": "Hihahihahoho Use Item Overflow",
+  "description": "Installed from https://21st.dev/r/hihahihahoho/use-item-overflow",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "hihahihahoho-use-item-overflow"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "use-item-overflow.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "usehooks-ts"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/hihahihahoho/use-item-overflow",
+    "fetchedAt": "2026-04-23T03:05:42.620Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

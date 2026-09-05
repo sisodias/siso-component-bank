@@ -1,0 +1,30 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "ai-chat-input",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Chat interface input for AI assistants and chatbots",
+    "Text input field with submit functionality for conversational AI applications",
+    "Prompt input for generative AI tools and content creation platforms"
+  ],
+  "ai_summary": "A minimalist AI chat input component built with Radix UI and class-variance-authority, featuring standard button variants and Lucide icons for submit and attachment actions. Designed for conversational AI interfaces, providing a clean input field suitable for SaaS platforms, developer tools, and AI-powered applications. Uses Tailwind CSS for styling with standard focus-visible ring and hover state behaviors.",
+  "_classifiedAt": "2026-04-23T11:32:07.467Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

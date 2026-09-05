@@ -1,0 +1,26 @@
+{
+  "id": "designali-in__book-a-demo-2",
+  "author": "designali-in",
+  "slug": "book-a-demo-2",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/book-a-demo-2",
+  "fetchedAt": "2026-08-29T04:16:55.645Z",
+  "completedAt": "2026-08-29T04:16:58.118Z",
+  "versionedFilename": "code.1760501603816.tsx",
+  "codeReference": "r2://components-code-private/designali-in/book-a-demo-2/code.1760501603816.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/book-a-demo-2/code.1760501603816.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6137,
+  "sha256": "1cef727dd35cb473ea45ad8c8f46f8c2e204aae3318dc7deca9d6e8d4ebd4fd6",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

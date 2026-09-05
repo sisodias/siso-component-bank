@@ -1,0 +1,24 @@
+{
+  "category": "card",
+  "subcategory": "flip-card",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Product cards for e-commerce showcasing front and back images",
+    "Portfolio gallery with interactive image reveals",
+    "Team member cards displaying information on flip",
+    "Image galleries with hover-to-reveal content",
+    "Interactive media cards for creative portfolios"
+  ],
+  "ai_summary": "A 3D flip card component that rotates on hover to reveal back content, featuring smooth rotateY transitions with 700ms timing and translateY offset for depth. The card accepts a single imageUrl prop and displays it on both front and back faces with a solid blue back side. Uses CSS perspective, backface-visibility, and transform-style for authentic 3D effects suitable for product showcases and interactive galleries.",
+  "_classifiedAt": "2026-04-23T01:40:53.626Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

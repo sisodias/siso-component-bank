@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "minhxthanh-dynamic-animated-hero-section-with-gradient",
+  "type": "registry:ui",
+  "title": "Minhxthanh Dynamic Animated Hero Section With Gradient",
+  "description": "Installed from https://21st.dev/r/minhxthanh/dynamic-animated-hero-section-with-gradient",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "minhxthanh-dynamic-animated-hero-section-with-gradient"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "dynamic-animated-hero-section-with-gradient.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/minhxthanh/dynamic-animated-hero-section-with-gradient",
+    "fetchedAt": "2026-04-23T03:04:22.330Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

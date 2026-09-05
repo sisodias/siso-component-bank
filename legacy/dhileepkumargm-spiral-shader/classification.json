@@ -1,0 +1,31 @@
+{
+  "category": "media",
+  "subcategory": "webgl-spiral-animation",
+  "visual_style": [
+    "colorful",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero background with animated spiral visuals",
+    "Portfolio or showcase pages requiring striking animated visuals",
+    "Loading screens or transition animations with neon rainbow effects",
+    "Brand presentations needing vibrant, modern visual elements",
+    "Dashboard or app splash screens as decorative animated elements"
+  ],
+  "ai_summary": "A WebGL-powered spiral shader animation using Three.js that renders a continuously animated neon rainbow spiral effect. The fragment shader defines a 7-color neon palette (red/pink, orange, yellow, green, blue, indigo, magenta) with smooth color transitions, creating a hypnotic rotating spiral visualization. Built as a self-contained React component with full WebGL lifecycle management.",
+  "_classifiedAt": "2026-04-23T01:39:40.307Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "daiwiikharihar__cube-loader",
+  "author": "daiwiikharihar",
+  "slug": "cube-loader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@daiwiikharihar/components/cube-loader",
+  "fetchedAt": "2026-08-29T04:05:03.855Z",
+  "completedAt": "2026-08-29T04:05:06.090Z",
+  "versionedFilename": "code.1768582765952.tsx",
+  "codeReference": "r2://components-code-private/daiwiikharihar17147/cube-loader/code.1768582765952.tsx",
+  "codeUrl": "https://cdn.21st.dev/daiwiikharihar17147/cube-loader/code.1768582765952.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5736,
+  "sha256": "90124ec6c244dde0fd6a5fe304a1ab4193cca65271f9d49b0bd3aa9a3b37a6e8",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

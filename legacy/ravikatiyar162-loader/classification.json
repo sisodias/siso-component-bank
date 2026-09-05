@@ -1,0 +1,29 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "3d-cube-text-loader",
+  "visual_style": [
+    "3d",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying loading states with a visually engaging 3D rotating cube animation",
+    "Use as a page or content loading indicator for any application",
+    "Splash screen loader for web applications",
+    "Async operation feedback in data-heavy interfaces"
+  ],
+  "ai_summary": "A 3D rotating cube text loader that displays the word 'LOADING' with each letter rendered as an individual spinning 3D cube. The component uses CSS 3D transforms to create perspective depth, with each cube having six faces where the letter appears on the front face. This creates an engaging, animated loading indicator suitable for any web application awaiting data or content to load.",
+  "_classifiedAt": "2026-04-23T17:12:22.586Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

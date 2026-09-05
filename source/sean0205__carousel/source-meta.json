@@ -1,0 +1,26 @@
+{
+  "id": "sean0205__carousel",
+  "author": "sean0205",
+  "slug": "carousel",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sean0205/components/carousel",
+  "fetchedAt": "2026-08-29T06:57:12.854Z",
+  "completedAt": "2026-08-29T06:57:15.034Z",
+  "versionedFilename": "code.1761028506038.tsx",
+  "codeReference": "r2://components-code-private/sean0205/carousel/code.1761028506038.tsx",
+  "codeUrl": "https://cdn.21st.dev/sean0205/carousel/code.1761028506038.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5481,
+  "sha256": "efb1c773c8f9440142f13df799d8c9ebe48a53141903b4f1c997c9c5608e1263",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

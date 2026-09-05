@@ -1,0 +1,35 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "bottom-nav with active indicator",
+  "visual_style": [
+    "glass-morphism",
+    "gradient",
+    "dark"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Mobile-first app navigation with animated active state indication",
+    "Bottom tab navigation featuring glass-morphism styling and blur effects",
+    "Quick-access toolbar with gradient glow effects for visual feedback",
+    "Cross-platform navigation component supporting dark and light modes"
+  ],
+  "ai_summary": "A futuristic bottom navigation bar featuring glass-morphism styling with backdrop blur and semi-transparent backgrounds. The component includes an animated active indicator that uses Framer Motion's layoutId for smooth morphing transitions between navigation items. Supports dark mode and provides hover glow effects with a blue-to-purple gradient. Designed as a mobile-first navigation pattern that works across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T17:18:17.687Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

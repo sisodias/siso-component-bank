@@ -1,0 +1,27 @@
+{
+  "category": "data-display",
+  "subcategory": "code-snippet",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying code snippets with one-click copy-to-clipboard functionality",
+    "Showing status messages (success, warning, error) in inline formats",
+    "Presenting configuration examples or command-line instructions",
+    "Creating reusable inline text blocks with visual variants",
+    "Building documentation or help interfaces with copyable content"
+  ],
+  "ai_summary": "A lightweight copyable text snippet component with multiple visual variants (default, inverted, success, warning, error) and built-in clipboard functionality. Features a click-to-copy interaction with a 2-second animation feedback, making it ideal for displaying code examples, status messages, or any copyable inline content in developer tools or SaaS applications.",
+  "_classifiedAt": "2026-04-23T17:31:26.219Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

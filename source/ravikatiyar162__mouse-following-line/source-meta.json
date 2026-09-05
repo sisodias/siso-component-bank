@@ -1,0 +1,33 @@
+{
+  "id": "ravikatiyar162__mouse-following-line",
+  "author": "ravikatiyar162",
+  "slug": "mouse-following-line",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ravikatiyar162/components/mouse-following-line",
+  "fetchedAt": "2026-08-29T06:27:10.309Z",
+  "completedAt": "2026-08-29T06:27:11.698Z",
+  "versionedFilename": "code.1785365136445-f13fb4ae-ac39-4f85-a013-4232038c0b82.tsx",
+  "codeReference": "r2://components-code-private/ravikatiyar162/mouse-following-line/code.1785365136445-f13fb4ae-ac39-4f85-a013-4232038c0b82.tsx",
+  "codeUrl": "https://cdn.21st.dev/ravikatiyar162/mouse-following-line/code.1785365136445-f13fb4ae-ac39-4f85-a013-4232038c0b82.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/ravikatiyar162__mouse-following-line/code.tsx",
+    "bytes": 6655,
+    "sha256": "a56daaf4799990d5350ba41c65722178c222360c84826b21d8ae278671ee8adf",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

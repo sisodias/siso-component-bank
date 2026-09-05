@@ -1,0 +1,33 @@
+{
+  "id": "xubohuah__vortex",
+  "author": "xubohuah",
+  "slug": "vortex",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@xubohuah/components/vortex",
+  "fetchedAt": "2026-08-29T07:59:10.596Z",
+  "completedAt": "2026-08-29T07:59:12.008Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/xubohuah__vortex/code.tsx",
+    "bytes": 13717,
+    "sha256": "97018320579b82f3b4750ce1a152b3e9fe9fc9e10e50c4cfcea1253e7c5f68d2",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

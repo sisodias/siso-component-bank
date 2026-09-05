@@ -1,0 +1,35 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "gradient",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action trigger for forms and dialogs",
+    "Call-to-action buttons in marketing pages",
+    "Navigation action buttons with icon support",
+    "Destructive action buttons for delete operations",
+    "Secondary actions in multi-step workflows"
+  ],
+  "ai_summary": "A reusable Button component with Radix UI Slot integration and CVA-powered variants. Supports multiple visual styles (default, destructive, outline, secondary, ghost, link) and sizes. Features shadow effects, focus-visible states, and disabled states for accessibility.",
+  "_classifiedAt": "2026-04-23T17:11:29.034Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

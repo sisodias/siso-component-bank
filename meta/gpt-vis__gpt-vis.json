@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@gpt-vis/components/gpt-vis",
+  "author": "gpt-vis",
+  "slug": "gpt-vis",
+  "name": "gpt-vis",
+  "description": "A React chart component that renders AI/LLM-generated data visualizations from vis-syntax strings or config objects, supporting 26 chart types via @antv/gpt-vis.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/gpt-vis/gpt-vis?api_key=$API_KEY_21ST\"",
+  "id": "gpt-vis__gpt-vis",
+  "bundleUrl": "https://cdn.21st.dev/gpt-vis/gpt-vis/default/bundle.1784724376558-d0bdc0be-e025-446a-b46b-42e833876f11.html",
+  "previewUrl": "https://cdn.21st.dev/gpt-vis/gpt-vis/default/preview.1784724376558-d0bdc0be-e025-446a-b46b-42e833876f11.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

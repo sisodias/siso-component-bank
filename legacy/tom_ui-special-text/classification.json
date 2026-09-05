@@ -1,0 +1,25 @@
+{
+  "category": "media",
+  "subcategory": "glitch-text-reveal",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Creating dramatic text reveal effects on landing pages",
+    "Adding animated hero headings with a glitch aesthetic",
+    "Enhancing typography with random character scramble transitions",
+    "Building interactive section headers that animate on scroll"
+  ],
+  "ai_summary": "SpecialText is an atomic typography component that creates a glitch-like text reveal animation, cycling through random characters before settling on the actual text. Uses scroll-triggered in-view detection from motion/react and supports configurable animation speed and delay for creating dramatic text effects.",
+  "_classifiedAt": "2026-04-22T09:18:15.574Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

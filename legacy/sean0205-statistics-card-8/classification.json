@@ -1,0 +1,35 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "statistics metrics display with avatar indicators",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Displaying user statistics with profile avatars in dashboard cards",
+    "Showing team member status indicators in analytics interfaces",
+    "Rendering metrics cards with online/offline user status in admin panels",
+    "Presenting profile-based statistical data in analytics dashboards"
+  ],
+  "ai_summary": "A statistics card component featuring avatar subcomponents with status indicators (online, offline, busy, away) built on Radix UI primitives. Uses Tailwind CSS for styling with configurable border and background variants. Designed for displaying user-centric metrics in dashboard and analytics interfaces with clean, minimalist aesthetics.",
+  "_classifiedAt": "2026-04-23T17:24:23.157Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

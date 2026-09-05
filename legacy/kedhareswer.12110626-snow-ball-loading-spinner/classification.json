@@ -1,0 +1,28 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading-spinner",
+  "visual_style": [
+    "3d"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display loading state while content is being fetched",
+    "Show progress indication during data processing operations",
+    "Indicate background operations are in progress"
+  ],
+  "ai_summary": "A 3D snow ball loading spinner component that provides visual feedback during loading states. Features realistic shading with multiple shadow layers and texture effects to create a spherical snow ball appearance. Uses CSS-based animations to rotate the elements and indicate ongoing processes or waiting periods in applications.",
+  "_classifiedAt": "2026-04-23T01:42:06.637Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

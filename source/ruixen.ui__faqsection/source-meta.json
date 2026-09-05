@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__faqsection",
+  "author": "ruixen.ui",
+  "slug": "faqsection",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/faqsection",
+  "fetchedAt": "2026-08-29T06:41:57.863Z",
+  "completedAt": "2026-08-29T06:41:59.842Z",
+  "versionedFilename": "code.1760638765888.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/faqsection/code.1760638765888.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/faqsection/code.1760638765888.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2383,
+  "sha256": "adf5230eeb1f7f78e51124e49df6b02d336fda26ce93e899345bcbaf26d88527",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

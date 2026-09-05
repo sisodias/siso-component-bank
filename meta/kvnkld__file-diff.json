@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@kvnkld/components/file-diff",
+  "author": "kvnkld",
+  "slug": "file-diff",
+  "name": "file-diff",
+  "description": "A compact code file diff viewer showing added and removed lines with line numbers, a header filename, and add/remove counts.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/kvnkld/file-diff?api_key=$API_KEY_21ST\"",
+  "id": "kvnkld__file-diff",
+  "bundleUrl": "https://cdn.21st.dev/kvnkld/file-diff/default/bundle.1785482914586-8bd1ffa5-e8cb-43bc-8379-79b6500643ff.html",
+  "previewUrl": "https://cdn.21st.dev/kvnkld/file-diff/default/preview.1785482914586-8bd1ffa5-e8cb-43bc-8379-79b6500643ff.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

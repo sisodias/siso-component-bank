@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@easemize/components/morhic-background",
+  "author": "easemize",
+  "slug": "morhic-background",
+  "name": "morhic-background",
+  "description": "MorphicBackground is a drop-in component that lets you create a stunning, liquid-gooey animation for your landing pages, hero sections, or anywhere you need a touch of dynamic flair.\nKey Features\n🎨 Effortlessly Customizable: Change the ball color with a single prop (ballColor=\"#ff5733\"). It accepts hex codes, names, RGB—any CSS color.\n🚀 Performance First: The animation is highly optimized. It uses requestAnimationFrame and manipulates DOM elements directly, bypassing React's render cycle to ensure it's silky smooth and won't slow down your app.\n🧩 Zero Dependencies: Besides React, it's completely self-contained.\n🖱️ Click-Through By Design: The component automatically uses a negative z-index and pointer-events-none so it stays in the background and never interferes with your content. Your buttons and links will work without any extra effort.\n✅ Simple to Use: Just import the component and place it in your layout. That's it.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/easemize/morhic-background?api_key=$API_KEY_21ST\"",
+  "id": "easemize__morhic-background",
+  "bundleUrl": "https://cdn.21st.dev/easemize/morhic-background/default/bundle.1749264805433.html",
+  "previewUrl": "https://cdn.21st.dev/easemize/morhic-background/default/preview.1749264805432.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 18,
+  "demo_id": 2605,
+  "video_url": null
+}

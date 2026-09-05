@@ -1,0 +1,36 @@
+{
+  "category": "input",
+  "subcategory": "button, call-to-action",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in marketing and landing pages",
+    "Form submission triggers in web applications",
+    "Navigation and routing actions in single-page applications",
+    "Interactive controls in dashboards and admin interfaces",
+    "Generic interactive elements requiring multiple visual variants"
+  ],
+  "ai_summary": "A versatile button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, small, large, icon). Built with Radix UI Slot for composition flexibility and class-variance-authority for type-safe variant handling. Supports hover states, focus-visible outlines, and disabled states with smooth transitions. A foundational atomic component for any React/Tailwind application requiring accessible interactive elements.",
+  "_classifiedAt": "2026-04-23T16:50:08.421Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

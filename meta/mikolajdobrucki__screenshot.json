@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@mikolajdobrucki/components/screenshot",
+  "author": "mikolajdobrucki",
+  "slug": "screenshot",
+  "name": "screenshot",
+  "description": "A theme-aware image component that automatically swaps between light and dark screenshots based on the active color scheme.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/mikolajdobrucki/screenshot?api_key=$API_KEY_21ST\"",
+  "id": "mikolajdobrucki__screenshot",
+  "bundleUrl": "https://cdn.21st.dev/mikolajdobrucki/screenshot/default/bundle.1785558306898-13f4723b-11b1-4a0b-8e58-06f9137f271d.html",
+  "previewUrl": "https://cdn.21st.dev/mikolajdobrucki/screenshot/default/preview.1785558306898-13f4723b-11b1-4a0b-8e58-06f9137f271d.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

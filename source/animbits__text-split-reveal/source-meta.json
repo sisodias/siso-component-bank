@@ -1,0 +1,26 @@
+{
+  "id": "animbits__text-split-reveal",
+  "author": "animbits",
+  "slug": "text-split-reveal",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@animbits/components/text-split-reveal",
+  "fetchedAt": "2026-08-29T03:34:17.691Z",
+  "completedAt": "2026-08-29T03:34:19.891Z",
+  "versionedFilename": "code.1784465868498-c2a2dad8-c7c7-40c0-8407-0df4a8b618d2.tsx",
+  "codeReference": "r2://components-code-private/animbits/text-split-reveal/code.1784465868498-c2a2dad8-c7c7-40c0-8407-0df4a8b618d2.tsx",
+  "codeUrl": "https://cdn.21st.dev/animbits/text-split-reveal/code.1784465868498-c2a2dad8-c7c7-40c0-8407-0df4a8b618d2.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

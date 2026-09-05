@@ -1,0 +1,28 @@
+{
+  "category": "overlay",
+  "subcategory": "spotlight-glow-effect",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Creating glowing spotlight highlights on hero sections and cards to draw attention to key elements",
+    "Adding depth and visual hierarchy to marketing and landing pages with animated blur effects",
+    "Enhancing interactive elements like buttons and CTAs with a premium luminous overlay",
+    "Building interactive card components that respond to cursor movement with spotlight effects",
+    "Adding decorative visual polish to SaaS product interfaces and dashboards"
+  ],
+  "ai_summary": "A lightweight SVG spotlight overlay component that creates a glowing, blur-based effect using Gaussian blur filters and semi-transparent ellipses. Designed as a reusable decorative effect to be positioned absolutely over other UI elements, commonly used with hover animations to create cursor-following or scroll-triggered spotlight reveals in modern UI designs.",
+  "_classifiedAt": "2026-04-23T11:28:50.857Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

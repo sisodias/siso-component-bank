@@ -1,0 +1,26 @@
+{
+  "id": "n38693842__process-task",
+  "author": "n38693842",
+  "slug": "process-task",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@n38693842/components/process-task",
+  "fetchedAt": "2026-08-29T05:56:13.573Z",
+  "completedAt": "2026-08-29T05:56:15.802Z",
+  "versionedFilename": "code.1760727166537.tsx",
+  "codeReference": "r2://components-code-private/n38693842/process-task/code.1760727166537.tsx",
+  "codeUrl": "https://cdn.21st.dev/n38693842/process-task/code.1760727166537.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 9496,
+  "sha256": "e573cceed6e08b8afd4f923c89f8b94e191ed8a320b81df129df3c8a453e1be0",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

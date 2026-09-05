@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display user profile pictures in chat interfaces and messaging applications",
+    "Show author attribution with avatars next to posts or comments",
+    "Display team member avatars in organizational dashboards and member lists",
+    "User identification and personalization in notification systems"
+  ],
+  "ai_summary": "A Radix UI-based avatar component with image, fallback, and root container subcomponents. Supports custom styling via Tailwind CSS className props and provides automatic fallback display when images fail to load. Commonly used in chat interfaces, user profiles, and any interface requiring visual user identification.",
+  "_classifiedAt": "2026-04-23T17:13:49.226Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

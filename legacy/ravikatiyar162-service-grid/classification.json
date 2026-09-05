@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display",
+    "card"
+  ],
+  "subcategory": "service-grid",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying a grid of services or features on a landing page with staggered entrance animations",
+    "Showcasing product or service offerings with images in an organized grid layout",
+    "Creating interactive service directories with click-through navigation to service pages",
+    "Building responsive service showcases with hover interactions for enhanced user engagement"
+  ],
+  "ai_summary": "A responsive service grid component that displays services in a visually organized grid layout with Framer Motion staggered scroll animations. Each service displays an image, name, and clickable link, making it ideal for showcasing product offerings, features, or service categories on landing pages or marketing sites with smooth entrance animations and hover interactions.",
+  "_classifiedAt": "2026-04-23T01:48:00.739Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

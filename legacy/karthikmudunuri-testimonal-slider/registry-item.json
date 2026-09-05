@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "karthikmudunuri-testimonal-slider",
+  "type": "registry:ui",
+  "title": "Karthikmudunuri Testimonal Slider",
+  "description": "Installed from https://21st.dev/r/karthikmudunuri/testimonal-slider",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "karthikmudunuri-testimonal-slider"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "testimonal-slider.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@headlessui/react",
+    "next"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/karthikmudunuri/testimonal-slider",
+    "fetchedAt": "2026-04-23T03:03:52.805Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

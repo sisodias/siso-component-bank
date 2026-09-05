@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ibelick/components/animated-group",
+  "author": "ibelick",
+  "slug": "animated-group",
+  "name": "animated-group",
+  "description": "A wrapper that adds animated transitions to a group of child elements. It's perfect for creating staggered animations for lists, grids, or any collection of components.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ibelick/animated-group?api_key=$API_KEY_21ST\"",
+  "id": "ibelick__animated-group",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1154.html",
+  "previewUrl": "https://cdn.21st.dev/user_motion_primitives/animated-group.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

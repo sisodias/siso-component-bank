@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@cnippet.dev/components/cnippet-collapsible",
+  "author": "cnippet.dev",
+  "slug": "cnippet-collapsible",
+  "name": "cnippet-collapsible",
+  "description": "A minimal show/hide primitive built on Base UI's Collapsible. A trigger toggles a height-animated panel — perfect for read-more text, FAQ rows, nested groups and expandable log output. Controlled or uncontrolled via open / defaultOpen, with data-panel-open styling hooks. Ships Collapsible, CollapsibleTrigger and CollapsiblePanel (also exported as CollapsibleContent).",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/cnippet.dev/cnippet-collapsible?api_key=$API_KEY_21ST\"",
+  "id": "cnippet.dev__cnippet-collapsible",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/cnippet-collapsible/default/bundle.1784046947032.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/cnippet-collapsible/default/preview.1784046947032.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

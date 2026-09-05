@@ -1,0 +1,29 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "image-masking",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying images with custom SVG masks for unique visual shapes",
+    "Creating branded image containers with irregular boundaries",
+    "Adding visual interest to hero or feature image sections",
+    "Building creative portfolio or gallery layouts with masked images",
+    "Implementing distinctive image presentations in marketing pages"
+  ],
+  "ai_summary": "A React image component featuring CSS SVG masking to display images in custom geometric shapes. The component applies a tomato-colored background with a complex SVG path mask, creating an irregular image container effect. Includes hover scale animation for interactive engagement. Designed for creative image presentation in design-forward layouts.",
+  "_classifiedAt": "2026-04-23T17:37:53.385Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "daiwiikharihar__team-builder",
+  "author": "daiwiikharihar",
+  "slug": "team-builder",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@daiwiikharihar/components/team-builder",
+  "fetchedAt": "2026-08-29T04:06:53.311Z",
+  "completedAt": "2026-08-29T04:06:56.086Z",
+  "versionedFilename": "code.1769965951865.tsx",
+  "codeReference": "r2://components-code-private/daiwiikharihar17147/team-builder/code.1769965951865.tsx",
+  "codeUrl": "https://cdn.21st.dev/daiwiikharihar17147/team-builder/code.1769965951865.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 15878,
+  "sha256": "fa05aecfcee404d320c07cc22f12f19fee4ab4ff4f09d417bde70b83fedef838",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

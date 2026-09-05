@@ -1,0 +1,33 @@
+{
+  "category": [
+    "overlay",
+    "input"
+  ],
+  "subcategory": "circular radial command menu",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Quick access command palette with radial item arrangement for efficient navigation",
+    "Keyboard-driven workflows with arrow key navigation and Enter to select",
+    "Space-efficient action menus that expand on demand from a trigger button",
+    "Contextual toolbars for creative or productivity applications"
+  ],
+  "ai_summary": "A circular command menu component that displays selectable items in a radial arrangement around a trigger. Supports keyboard navigation with arrow keys, Enter to select, and Escape to close. Built with Framer Motion for smooth open/close animations. Ideal for quick-access tool palettes in productivity apps, code editors, or creative tools where space-efficient radial menus enhance user efficiency.",
+  "_classifiedAt": "2026-04-22T09:02:43.449Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

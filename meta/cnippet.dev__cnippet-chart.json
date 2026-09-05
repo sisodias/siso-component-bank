@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@cnippet.dev/components/cnippet-chart",
+  "author": "cnippet.dev",
+  "slug": "cnippet-chart",
+  "name": "cnippet-chart",
+  "description": "A set of composable chart primitives built on Recharts, providing a themeable ChartContainer plus ChartTooltip, ChartTooltipContent, ChartLegend and ChartLegendContent. Colors are driven by a typed ChartConfig and exposed as CSS variables, so the same wrappers render bar, line, area, pie, radar, radial and composed charts with consistent styling in light and dark mode.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/cnippet.dev/cnippet-chart?api_key=$API_KEY_21ST\"",
+  "id": "cnippet.dev__cnippet-chart",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/cnippet-chart/default/bundle.1783962689603.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/cnippet-chart/default/preview.1783962689603.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

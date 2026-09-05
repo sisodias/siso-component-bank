@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "easemize-glass-testimonial-swiper",
+  "type": "registry:ui",
+  "title": "Easemize Glass Testimonial Swiper",
+  "description": "Installed from https://21st.dev/r/easemize/glass-testimonial-swiper",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "easemize-glass-testimonial-swiper"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "glass-testimonial-swiper.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/easemize/glass-testimonial-swiper",
+    "fetchedAt": "2026-04-23T01:18:43.921Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

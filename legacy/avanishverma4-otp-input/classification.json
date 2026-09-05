@@ -1,0 +1,34 @@
+{
+  "category": "input",
+  "subcategory": "otp-verification",
+  "visual_style": [
+    "minimalist",
+    "dark"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "e-commerce",
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Two-factor authentication in login flows for enhanced account security",
+    "Phone or email verification during account registration processes",
+    "Payment confirmation codes for secure transaction completion",
+    "One-time access codes for password reset workflows",
+    "Verification tokens for sensitive document or account actions"
+  ],
+  "ai_summary": "A 6-digit OTP input component with full keyboard navigation (arrow keys, backspace, auto-focus), paste support with clipboard integration, and dark/light mode toggle. Features automatic completion detection, individual digit input validation, and seamless navigation between input fields. Provides visual feedback through icons for paste detection and completion states.",
+  "_classifiedAt": "2026-04-23T01:36:47.201Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:28:53.043Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

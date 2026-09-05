@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action button for forms and dialogs",
+    "Destructive action triggers with variant styling",
+    "Icon-only navigation or tool buttons",
+    "Secondary actions with outline or ghost variants",
+    "Polymorphic button rendering via asChild prop for Radix Slot integration"
+  ],
+  "ai_summary": "A polymorphic button component built with Radix UI Slot and class-variance-authority for flexible variant and size configuration. Supports multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes (default, small, large, icon). Designed as an atomic component suitable for composition into larger UI systems, with standard focus-visible and disabled states built-in. The component name suggests a glow effect variant that may be implemented via external CSS or wrapper component.",
+  "_classifiedAt": "2026-04-23T16:50:23.065Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__calendar-twin",
+  "author": "ruixen.ui",
+  "slug": "calendar-twin",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/calendar-twin",
+  "fetchedAt": "2026-08-29T06:39:49.261Z",
+  "completedAt": "2026-08-29T06:39:51.149Z",
+  "versionedFilename": "code.1758924782837.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/calendar-twin/code.1758924782837.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/calendar-twin/code.1758924782837.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4940,
+  "sha256": "637b631f06f679878cf2e0199e6712faa4511d16c39709924801b331a0de160f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

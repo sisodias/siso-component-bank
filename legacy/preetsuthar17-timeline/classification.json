@@ -1,0 +1,31 @@
+{
+  "category": "layout",
+  "subcategory": "scrollable-container",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Scrollable container for long-form content in dashboards",
+    "Timeline and feed views with overflow scrolling",
+    "Vertical or horizontal scroll regions in responsive layouts",
+    "Content areas requiring custom scrollbar styling",
+    "Nested scroll contexts within complex page layouts"
+  ],
+  "ai_summary": "A Radix UI-based scrollable container component with configurable orientation (vertical, horizontal, both) and customizable scrollbar visibility behavior. Built with Tailwind CSS and class variance authority for flexible styling. Provides a polished scrolling experience with smooth transitions and configurable auto-hide functionality for scrollbars.",
+  "_classifiedAt": "2026-04-23T17:09:55.214Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

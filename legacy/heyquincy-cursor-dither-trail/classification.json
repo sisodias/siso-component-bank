@@ -1,0 +1,28 @@
+{
+  "category": "overlay",
+  "subcategory": "cursor-trail, canvas-dither-effect",
+  "visual_style": [],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "creator-tools",
+    "media",
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Add a retro-styled cursor trail effect to landing pages and portfolio sites",
+    "Create interactive visual feedback for creative tool applications",
+    "Enhance brand identity with custom cursor effects on marketing pages",
+    "Implement dithering-based cursor tracking for digital art projects",
+    "Add subtle animated polish to interactive product demos"
+  ],
+  "ai_summary": "A canvas-based cursor trail component that renders a dynamic dithering effect using a Bayer matrix. As users move their cursor, it paints small pixel squares that fade out over time, creating a fluid monochrome tail. Fully responsive with resize handling and smooth requestAnimationFrame-based animation.",
+  "_classifiedAt": "2026-04-23T16:42:27.354Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

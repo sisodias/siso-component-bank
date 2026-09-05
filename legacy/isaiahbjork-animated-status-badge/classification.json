@@ -1,0 +1,30 @@
+{
+  "category": "feedback",
+  "subcategory": "animated status badge",
+  "visual_style": [],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display loading status while processing async operations",
+    "Show task completion confirmation with animated checkmark transition",
+    "Provide visual feedback for workflow state changes in dashboards",
+    "Indicate order or payment processing status in e-commerce apps",
+    "Give build or deployment status updates in developer tools"
+  ],
+  "ai_summary": "An animated status badge component that transitions between loading and completed states using framer-motion. Features smooth y-axis sliding animations with opacity and scale transitions, displaying a loader during processing and a checkmark confirmation after completion. Configurable timing for animation duration and auto-dismiss behavior.",
+  "_classifiedAt": "2026-04-23T16:43:47.997Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,38 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "checkbox",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "healthcare",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Toggle boolean states in forms and settings panels",
+    "Select multiple items from lists or tables",
+    "Filter content based on checkbox criteria",
+    "Indicate agreement to terms and conditions",
+    "Mark items as complete or incomplete in task lists"
+  ],
+  "ai_summary": "A lightweight checkbox input component with hover states and support for disabled and indeterminate modes. Built with Tailwind CSS using clean, monochrome styling with subtle hover interactions. Ideal for forms, settings, and selection interfaces across any industry.",
+  "_classifiedAt": "2026-04-23T17:29:35.363Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

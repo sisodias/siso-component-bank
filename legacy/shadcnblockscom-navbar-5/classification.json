@@ -1,0 +1,34 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "collapsible-accordion",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Collapsible content sections for FAQ pages or documentation sites",
+    "Expandable menu items in navigation sidebars or headers",
+    "Step-by-step wizards or guided tutorials with collapsible sections",
+    "Settings panels with grouped expandable options"
+  ],
+  "ai_summary": "A lightweight accordion component built on Radix UI primitives with smooth expand/collapse animations and chevron rotation. Supports keyboard navigation and hover states, exported as composable primitives (Accordion, AccordionItem, AccordionTrigger, AccordionContent) for flexible integration in any layout context.",
+  "_classifiedAt": "2026-04-23T17:28:17.713Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

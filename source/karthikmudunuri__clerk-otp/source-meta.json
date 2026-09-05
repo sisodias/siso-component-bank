@@ -1,0 +1,26 @@
+{
+  "id": "karthikmudunuri__clerk-otp",
+  "author": "karthikmudunuri",
+  "slug": "clerk-otp",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@karthikmudunuri/components/clerk-otp",
+  "fetchedAt": "2026-08-29T05:13:38.715Z",
+  "completedAt": "2026-08-29T05:13:40.638Z",
+  "versionedFilename": "code.1762086946493.tsx",
+  "codeReference": "r2://components-code-private/karthikmudunuri/clerk-otp/code.1762086946493.tsx",
+  "codeUrl": "https://cdn.21st.dev/karthikmudunuri/clerk-otp/code.1762086946493.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5531,
+  "sha256": "0a2351e96239cbf05229d7c120ed41b4f849756211c8c20ff2bd28f3b81728b1",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

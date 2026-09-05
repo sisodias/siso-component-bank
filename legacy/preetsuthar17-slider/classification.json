@@ -1,0 +1,30 @@
+{
+  "category": "input",
+  "subcategory": "range-slider",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Selecting numeric values in pricing or settings interfaces",
+    "Adjusting volume, brightness, or playback controls in media applications",
+    "Filtering data by range in analytics dashboards",
+    "Setting quantity or amount inputs in e-commerce checkout flows",
+    "Configuring numeric parameters in developer tools or configuration panels"
+  ],
+  "ai_summary": "A configurable range slider component built on Radix UI primitives with CVA-powered variants for styling flexibility. Supports multiple sizes (sm to xl) and variants (default, destructive, ghost) with accessible focus states, disabled handling, and hover shadow effects on the thumb. Designed as an atomic UI primitive that integrates seamlessly into SaaS products, fintech dashboards, and data-driven applications requiring numeric range selection.",
+  "_classifiedAt": "2026-04-23T17:09:38.170Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

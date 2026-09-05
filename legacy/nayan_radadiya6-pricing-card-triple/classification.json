@@ -1,0 +1,34 @@
+{
+  "category": [
+    "pricing"
+  ],
+  "subcategory": "pricing-card-triple",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display SaaS pricing tiers with feature comparison for subscription plans",
+    "Show three pricing options side-by-side with visual hierarchy and gradient accents",
+    "Service tier comparison with checkmarks and X marks for feature inclusion",
+    "Product pricing display with customizable color themes per tier",
+    "Membership or subscription cards with CTA buttons and ARIA accessibility"
+  ],
+  "ai_summary": "A triple pricing card component with gradient-colored frames and customizable tones (pink, blue, amber, emerald, zinc) for displaying three pricing tiers. Features include feature lists with checkmark/cross indicators, CTA buttons with hover states, and slot override props for full customization. Built with TypeScript, supports accessibility through ARIA labels, and uses Tailwind CSS for styling. Ideal for SaaS applications, subscription services, and product pricing pages requiring tiered plan comparisons.",
+  "_classifiedAt": "2026-04-23T01:44:42.182Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

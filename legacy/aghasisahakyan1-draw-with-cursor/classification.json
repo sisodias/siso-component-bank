@@ -1,0 +1,35 @@
+{
+  "category": [
+    "overlay",
+    "feedback"
+  ],
+  "subcategory": "cursor-drawing-effect",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "none"
+  ],
+  "best_for_industries": [
+    "creator-tools",
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive landing pages where users can draw with their cursor as a unique engagement mechanic",
+    "Creative portfolio or art-focused websites seeking distinctive cursor interactions",
+    "Interactive storytelling experiences or digital art installations",
+    "Demo or showcase pages where cursor customization adds visual interest",
+    "Signature or drawing capture features in web applications"
+  ],
+  "ai_summary": "A cursor drawing effect component that creates SVG line strokes following user mouse movements. Supports two drawing modes (draw on hold vs draw always) with customizable stroke color and width. Features mix-blend-difference styling for striking visual contrast. Dynamically generates SVG elements based on cursor position tracking, automatically disabling on touch devices for proper cross-platform behavior.",
+  "_classifiedAt": "2026-04-23T11:28:59.798Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

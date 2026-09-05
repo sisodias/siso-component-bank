@@ -1,0 +1,36 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "noise-texture-overlay",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Adding a lo-fi fuzzy noise texture effect to hero sections for visual depth and retro aesthetic",
+    "Enhancing dark-themed landing pages with a subtle animated overlay for visual interest",
+    "Creating a vintage CRT TV-style effect on any content wrapper for unique brand differentiation",
+    "Adding polish and texture to pricing or card components with a non-intrusive animated overlay",
+    "Applying ambient visual motion to SaaS product pages without distracting from content"
+  ],
+  "ai_summary": "A lightweight animated overlay component that applies a subtle lo-fi fuzzy noise texture effect using a repeating noise image and Framer Motion animation. The overlay continuously translates back and forth at low opacity (15%), creating a soft, analog TV-style visual effect. Designed as a drop-in wrapper component that enhances dark-themed UIs, hero sections, and landing pages with ambient motion and retro texture without distracting from underlying content.",
+  "_classifiedAt": "2026-04-23T01:54:26.258Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

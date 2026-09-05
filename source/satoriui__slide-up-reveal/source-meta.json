@@ -1,0 +1,26 @@
+{
+  "id": "satoriui__slide-up-reveal",
+  "author": "satoriui",
+  "slug": "slide-up-reveal",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@satoriui/components/slide-up-reveal",
+  "fetchedAt": "2026-08-29T06:53:33.384Z",
+  "completedAt": "2026-08-29T06:53:35.924Z",
+  "versionedFilename": "code.1783714265701.tsx",
+  "codeReference": "r2://components-code-private/satoriui/slide-up-reveal/code.1783714265701.tsx",
+  "codeUrl": "https://cdn.21st.dev/satoriui/slide-up-reveal/code.1783714265701.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6593,
+  "sha256": "dc562897e155cebf33ff479f39f5078ebdae28645896f83ea8a30a800ebd728c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

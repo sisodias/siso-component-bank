@@ -1,0 +1,28 @@
+{
+  "category": "overlay",
+  "subcategory": "liquid-cursor, custom-pointer, cursor-follower",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Adds a dynamic liquid cursor that stretches and morphs based on mouse movement direction and speed",
+    "Provides visual click feedback with scale and bounce animations",
+    "Creates engaging micro-interactions for portfolio and showcase websites",
+    "Enhances brand identity with a fluid, physics-based custom cursor",
+    "Delivers smooth mouse tracking with direction-aware stretching effects"
+  ],
+  "ai_summary": "A sophisticated custom cursor component that uses GSAP animations to create a liquid, physics-based pointer effect. The cursor follows the mouse with smooth interpolation, stretches dynamically based on movement direction and speed, and features a bounce animation on click. Ideal for modern web applications and creative portfolios seeking distinctive cursor interactions.",
+  "_classifiedAt": "2026-04-23T17:05:58.034Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

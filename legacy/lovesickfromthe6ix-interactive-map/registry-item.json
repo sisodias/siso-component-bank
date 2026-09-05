@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "lovesickfromthe6ix-interactive-map",
+  "type": "registry:ui",
+  "title": "Lovesickfromthe6ix Interactive Map",
+  "description": "Installed from https://21st.dev/r/lovesickfromthe6ix/interactive-map",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "lovesickfromthe6ix-interactive-map"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "interactive-map.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "leaflet",
+    "react-leaflet",
+    "react-leaflet-cluster"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/lovesickfromthe6ix/interactive-map",
+    "fetchedAt": "2026-04-23T03:03:17.130Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

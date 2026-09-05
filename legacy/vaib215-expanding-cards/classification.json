@@ -1,0 +1,32 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "expanding-card-grid",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive feature or benefit showcases where users click cards to expand and reveal detailed information",
+    "Image galleries with a responsive grid that expands cards horizontally on desktop and vertically on mobile",
+    "Product showcases in e-commerce with expandable card previews showing additional details",
+    "Portfolio or testimonial sections displaying items with expandable previews"
+  ],
+  "ai_summary": "A responsive expanding cards component with an adaptive grid layout that switches between horizontal expansion on desktop and vertical expansion on mobile. Features smooth CSS transitions when clicking cards to expand the active item while collapsing others, making it ideal for showcasing multiple content items with detailed views.",
+  "_classifiedAt": "2026-04-23T17:41:04.897Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

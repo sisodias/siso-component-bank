@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "faq-accordion",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Displaying frequently asked questions on websites with collapsible answers",
+    "Creating expandable help documentation sections for support pages",
+    "Building terms of service or privacy policy sections with hidden details",
+    "Organizing product feature explanations in a compact, user-controlled format",
+    "Structuring knowledge base content with categorized accordion sections"
+  ],
+  "ai_summary": "A flexible FAQ accordion component built with Radix UI and styled using Tailwind CSS and class-variance-authority. Features multiple visual variants (default, ghost, outline) and sizes (sm, default, lg), with built-in keyboard accessibility and focus ring states. Uses CSS variables for theming consistency and includes a ChevronDown icon for expand/collapse indicators. Ideal for displaying FAQ content, help documentation, or any collapsible information sections on websites.",
+  "_classifiedAt": "2026-04-23T17:07:57.430Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

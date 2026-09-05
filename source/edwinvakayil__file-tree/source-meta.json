@@ -1,0 +1,26 @@
+{
+  "id": "edwinvakayil__file-tree",
+  "author": "edwinvakayil",
+  "slug": "file-tree",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@edwinvakayil/components/file-tree",
+  "fetchedAt": "2026-08-29T04:41:53.488Z",
+  "completedAt": "2026-08-29T04:41:55.636Z",
+  "versionedFilename": "code.1783695298489.tsx",
+  "codeReference": "r2://components-code-private/edwinvakayil/file-tree/code.1783695298489.tsx",
+  "codeUrl": "https://cdn.21st.dev/edwinvakayil/file-tree/code.1783695298489.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 41236,
+  "sha256": "3965b9955dcf83d70ec2d8de4483ab563d730c6a7feb0848fbe8ebfe53088a06",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "loading-ui__dots-ring",
+  "author": "loading-ui",
+  "slug": "dots-ring",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@loading-ui/components/dots-ring",
+  "fetchedAt": "2026-08-29T05:29:00.703Z",
+  "completedAt": "2026-08-29T05:29:02.866Z",
+  "versionedFilename": "code.1784219128957-84d48b21-9ba7-46e6-84de-5aaf38951151.tsx",
+  "codeReference": "r2://components-code-private/loading-ui/dots-ring/code.1784219128957-84d48b21-9ba7-46e6-84de-5aaf38951151.tsx",
+  "codeUrl": "https://cdn.21st.dev/loading-ui/dots-ring/code.1784219128957-84d48b21-9ba7-46e6-84de-5aaf38951151.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

@@ -1,0 +1,34 @@
+{
+  "category": [
+    "feedback",
+    "card"
+  ],
+  "subcategory": "upload-progress-card",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying real-time file upload progress with percentage and progress bar",
+    "Showing success confirmation after completed uploads with checkmark icon",
+    "Presenting error states when uploads fail with retry options",
+    "Providing actionable upload cards with primary and secondary button controls",
+    "Enabling users to cancel uploads via the close button"
+  ],
+  "ai_summary": "A reusable upload status card component that displays real-time upload progress with percentage indicators and progress bars. The card handles three states: uploading (blue), success (green), and error (red), each with appropriate status icons and color coding. Includes action buttons for primary and secondary interactions, making it suitable for SaaS applications, e-commerce platforms, and content management systems requiring file upload workflows.",
+  "_classifiedAt": "2026-04-23T16:49:56.128Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

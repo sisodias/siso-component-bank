@@ -1,0 +1,31 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "parallax-scroll-layers",
+  "visual_style": [
+    "gradient"
+  ],
+  "interactions": [
+    "parallax",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero sections with layered depth effects",
+    "Product showcases with scroll-driven visual storytelling",
+    "Brand presentations requiring immersive scroll experiences",
+    "Portfolio or portfolio-style sections with parallax motion"
+  ],
+  "ai_summary": "A parallax scrolling component featuring multiple image layers that move at different scroll speeds to create depth perception. Built with GSAP ScrollTrigger and Lenis for buttery-smooth scrolling. The component animates four image layers with staggered yPercent values (70, 55, 40, 10) during vertical scroll, creating an engaging visual effect ideal for SaaS product showcases or brand storytelling sections.",
+  "_classifiedAt": "2026-04-23T17:05:18.916Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

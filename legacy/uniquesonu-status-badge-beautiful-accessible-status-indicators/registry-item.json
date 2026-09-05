@@ -1,0 +1,45 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "uniquesonu-status-badge-beautiful-accessible-status-indicators",
+  "type": "registry:ui",
+  "title": "Uniquesonu Status Badge Beautiful Accessible Status Indicators",
+  "description": "Installed from https://21st.dev/r/uniquesonu/status-badge-beautiful-accessible-status-indicators",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "uniquesonu-status-badge-beautiful-accessible-status-indicators"
+  ],
+  "files": [
+    {
+      "path": "badge.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "status-badge-beautiful-accessible-status-indicators.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "class-variance-authority",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/uniquesonu/status-badge-beautiful-accessible-status-indicators",
+    "fetchedAt": "2026-04-23T01:16:17.912Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

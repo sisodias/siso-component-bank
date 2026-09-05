@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display user profile images in community support sections with hover tooltips",
+    "Show team member avatars in about or contact pages",
+    "Render user avatars in comment sections or discussion threads",
+    "Display contributor or support staff avatars in help center layouts",
+    "Show profile thumbnails in member directories or listings"
+  ],
+  "ai_summary": "A flexible Avatar component built with Radix UI primitives and class-variance-authority for type-safe size variants (xs through 2xl). Features optional tooltip integration for displaying additional user information on hover. Designed as a reusable atomic component suitable for community platforms, support interfaces, and any application requiring user profile imagery with consistent styling and accessibility support.",
+  "_classifiedAt": "2026-04-23T17:07:27.584Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

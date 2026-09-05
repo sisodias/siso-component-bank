@@ -1,0 +1,982 @@
+{
+  "version": "1.0",
+  "components": [
+    {
+      "name": "AnimatedNumberCountdown",
+      "slug": "countdown-number",
+      "path": "components/countdown-number/countdown-number.tsx",
+      "type": "Animation",
+      "description": "Animated countdown timer with smooth number transitions using @number-flow/react and framer-motion",
+      "tags": [
+        "animation",
+        "countdown",
+        "timer",
+        "framer-motion",
+        "number-flow"
+      ],
+      "source": "21st.dev",
+      "addedAt": "2026-04-07T00:00:00.000Z",
+      "files": [
+        "countdown-number.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "@number-flow/react",
+        "framer-motion",
+        "badge"
+      ]
+    },
+    {
+      "name": "Badge",
+      "slug": "badge",
+      "path": "components/badge/badge.tsx",
+      "type": "UI",
+      "description": "Shadcn/ui badge with variant styling via class-variance-authority",
+      "tags": [
+        "badge",
+        "label",
+        "tag",
+        "shadcn"
+      ],
+      "source": "shadcn/ui",
+      "addedAt": "2026-04-07T00:00:00.000Z",
+      "files": [
+        "badge.tsx"
+      ],
+      "dependencies": [
+        "class-variance-authority"
+      ]
+    },
+    {
+      "name": "SearchBar",
+      "slug": "search-bar",
+      "path": "components/search-bar/search-bar.tsx",
+      "type": "UI",
+      "description": "Animated search bar with gooey particle effects, autocomplete suggestions, and rich micro-interactions using framer-motion",
+      "tags": [
+        "search",
+        "animated",
+        "gooey",
+        "particles",
+        "autocomplete",
+        "framer-motion"
+      ],
+      "source": "21st.dev",
+      "addedAt": "2026-04-07T00:00:00.000Z",
+      "files": [
+        "search-bar.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "lucide-react",
+        "framer-motion"
+      ]
+    },
+    {
+      "name": "FuturisticFileUploader",
+      "slug": "futuristic-file-uploader",
+      "path": "components/futuristic-file-uploader/futuristic-file-uploader.tsx",
+      "type": "Form",
+      "description": "Cyberpunk-themed file uploader with drag-and-drop, progress tracking, and image previews",
+      "tags": [
+        "file-upload",
+        "drag-drop",
+        "form",
+        "cyberpunk",
+        "progress"
+      ],
+      "source": "21st.dev",
+      "addedAt": "2026-04-07T00:00:00.000Z",
+      "files": [
+        "futuristic-file-uploader.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "lucide-react"
+      ]
+    },
+    {
+      "name": "AgentPlan",
+      "slug": "agent-plan",
+      "path": "components/agent-plan/agent-plan.tsx",
+      "type": "UI",
+      "description": "Animated task planner with hierarchical tasks, subtasks, dependency tracking, and MCP tool badges",
+      "tags": [
+        "task",
+        "planner",
+        "project-management",
+        "animation",
+        "framer-motion",
+        "hierarchy"
+      ],
+      "source": "21st.dev",
+      "addedAt": "2026-04-07T00:00:00.000Z",
+      "files": [
+        "agent-plan.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "lucide-react",
+        "framer-motion"
+      ]
+    },
+    {
+      "name": "GlassCard",
+      "slug": "glass-card",
+      "path": "components/glass-card/glass-card.tsx",
+      "type": "UI",
+      "description": "Premium 3D glass-morphism card with hover tilt effects, animated social icons, and layered depth",
+      "tags": [
+        "glass",
+        "3d",
+        "card",
+        "hover",
+        "animation",
+        "glassmorphism"
+      ],
+      "source": "21st.dev",
+      "addedAt": "2026-04-07T00:00:00.000Z",
+      "files": [
+        "glass-card.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "lucide-react"
+      ]
+    },
+    {
+      "name": "AnimatedCardChart",
+      "slug": "animated-card-chart",
+      "path": "components/animated-card-chart/animated-card-chart.tsx",
+      "type": "UI",
+      "description": "Layered 3D glass-morphism card with animated bar charts, gradient overlays, and hover tooltip panels",
+      "tags": [
+        "card",
+        "chart",
+        "animation",
+        "3d",
+        "glassmorphism",
+        "hover",
+        "layered"
+      ],
+      "source": "21st.dev",
+      "addedAt": "2026-04-07T00:00:00.000Z",
+      "files": [
+        "animated-card-chart.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "clsx",
+        "tailwind-merge"
+      ]
+    },
+    {
+      "name": "AnimatedCardDiagram",
+      "slug": "animated-card-diagram",
+      "path": "components/animated-card-diagram/animated-card-diagram.tsx",
+      "type": "UI",
+      "description": "Multi-layered animated card with SVG donut chart, floating tech badges, and hover-triggered layer transitions",
+      "tags": [
+        "card",
+        "diagram",
+        "animation",
+        "donut-chart",
+        "hover",
+        "layers"
+      ],
+      "source": "21st.dev",
+      "addedAt": "2026-04-07T00:00:00.000Z",
+      "files": [
+        "animated-card-diagram.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "clsx",
+        "tailwind-merge"
+      ]
+    },
+    {
+      "name": "IaSiriChat",
+      "slug": "ia-siri-chat",
+      "path": "components/ia-siri-chat/ia-siri-chat.tsx",
+      "type": "UI",
+      "description": "AI voice assistant interface with animated mic button, waveform visualizer, ambient particles, and demo mode",
+      "tags": [
+        "voice",
+        "siri",
+        "ai",
+        "assistant",
+        "waveform",
+        "microphone",
+        "animated",
+        "framer-motion"
+      ],
+      "source": "21st.dev",
+      "addedAt": "2026-04-07T00:00:00.000Z",
+      "files": [
+        "ia-siri-chat.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "lucide-react",
+        "framer-motion"
+      ]
+    },
+    {
+      "name": "RadialOrbitalTimeline",
+      "slug": "radial-orbital-timeline",
+      "path": "components/radial-orbital-timeline/radial-orbital-timeline.tsx",
+      "type": "Chart",
+      "description": "Animated radial orbital timeline with auto-rotate, expandable node cards, and connected node navigation",
+      "tags": [
+        "timeline",
+        "radial",
+        "orbital",
+        "animated",
+        "interactive",
+        "visualization"
+      ],
+      "source": "21st.dev",
+      "addedAt": "2026-04-07T00:00:00.000Z",
+      "files": [
+        "radial-orbital-timeline.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "lucide-react",
+        "badge",
+        "button",
+        "card"
+      ]
+    },
+    {
+      "name": "CircularNavigation",
+      "slug": "circular-navigation",
+      "path": "components/circular-navigation/cicular-navigation-bar.tsx",
+      "type": "Navigation",
+      "description": "Full-screen circular navigation menu with animated open/close transition and radial item layout",
+      "tags": [
+        "navigation",
+        "menu",
+        "circular",
+        "overlay",
+        "modal",
+        "animated",
+        "framer-motion"
+      ],
+      "source": "21st.dev",
+      "addedAt": "2026-04-07T00:00:00.000Z",
+      "files": [
+        "cicular-navigation-bar.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "lucide-react",
+        "framer-motion",
+        "next"
+      ]
+    },
+    {
+      "name": "AnimatedCard",
+      "slug": "animated-card",
+      "path": "components/animated-card/animated-card.tsx",
+      "type": "UI",
+      "description": "Animated card with layered chart visual, hover-reveal tooltip panel, and smooth horizontal slide transitions on card hover",
+      "tags": [
+        "card",
+        "animated",
+        "chart",
+        "hover",
+        "visualization",
+        "data"
+      ],
+      "source": "21st.dev",
+      "addedAt": "2026-04-07T00:00:00.000Z",
+      "files": [
+        "animated-card.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "clsx",
+        "tailwind-merge"
+      ]
+    },
+    {
+      "name": "SecurityCard",
+      "slug": "security-card",
+      "path": "components/security-card/security-card.tsx",
+      "type": "UI",
+      "description": "Animated security/access card with SVG face outline animation, scrambled text overlay, and dark/light mode support",
+      "tags": [
+        "security",
+        "card",
+        "identity",
+        "animation",
+        "svg",
+        "dark-mode",
+        "kyc"
+      ],
+      "source": "user-provided",
+      "addedAt": "2026-04-07T12:30:00.000Z",
+      "files": [
+        "security-card.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "motion",
+        "react-icons"
+      ]
+    },
+    {
+      "name": "Loader15",
+      "slug": "loader-15",
+      "path": "components/loader-15/loader-15.tsx",
+      "type": "Animation",
+      "description": "Hypnotic circular SVG loader with neon pink-to-orange gradient, blur glow filter, and shadow layer",
+      "tags": [
+        "loader",
+        "spinner",
+        "svg",
+        "animation",
+        "loading"
+      ],
+      "source": "21st.dev",
+      "addedAt": "2026-04-07T00:00:00.000Z",
+      "files": [
+        "loader-15.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "styled-components"
+      ]
+    },
+    {
+      "name": "SiriOrb",
+      "slug": "siri-orb",
+      "path": "components/siri-orb/siri-orb.tsx",
+      "type": "Animation",
+      "description": "Apple Siri-style animated orb with CSS @property conic gradients, blur/contrast filters, and interactive size/speed controls",
+      "tags": [
+        "siri",
+        "orb",
+        "animation",
+        "gradient",
+        "css",
+        "ai",
+        "avatar"
+      ],
+      "source": "21st.dev",
+      "addedAt": "2026-04-07T00:00:00.000Z",
+      "files": [
+        "siri-orb.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "lucide-react"
+      ]
+    },
+    {
+      "name": "Awards",
+      "slug": "award",
+      "path": "components/award/award.tsx",
+      "type": "UI",
+      "description": "Multi-variant awards component with 6 styles: stamp, award, certificate, badge, sticker, and id-card",
+      "tags": [
+        "award",
+        "badge",
+        "certificate",
+        "achievement",
+        "gamification",
+        "medal"
+      ],
+      "source": "21st.dev",
+      "addedAt": "2026-04-07T00:00:00.000Z",
+      "files": [
+        "award.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "lucide-react"
+      ]
+    },
+    {
+      "name": "OrbitingSkills",
+      "slug": "orbiting-skills",
+      "path": "components/orbiting-skills/orbiting-skills.tsx",
+      "type": "Animation",
+      "description": "Animated orbital skills showcase with icons rotating in two concentric rings around a central code element",
+      "tags": [
+        "animation",
+        "skills",
+        "orbital",
+        "tech",
+        "portfolio",
+        "svg-icons"
+      ],
+      "source": "21st.dev",
+      "addedAt": "2026-04-07T00:00:00.000Z",
+      "files": [
+        "orbiting-skills.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": []
+    },
+    {
+      "name": "ResizableTable",
+      "slug": "resizable-table",
+      "path": "components/resizable-table/resizable-table.tsx",
+      "type": "UI",
+      "description": "Feature-rich employee data table with drag-to-resize columns, sorting, pagination, row selection, CSV/JSON export, dark mode, and staggered animations",
+      "tags": [
+        "table",
+        "resizable",
+        "sortable",
+        "pagination",
+        "export",
+        "data-grid"
+      ],
+      "source": "21st.dev",
+      "addedAt": "2026-04-07T00:00:00.000Z",
+      "files": [
+        "resizable-table.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "next-themes",
+        "lucide-react",
+        "framer-motion",
+        "react-resizable"
+      ]
+    },
+    {
+      "name": "GradientSelectorCard",
+      "slug": "gradient-selector-card",
+      "path": "components/gradient-selector-card/gradient-selector-card.tsx",
+      "type": "UI",
+      "description": "Interactive funding tier selector with gradient-filled progress circles, animated orbital dots, and radial glow tracking",
+      "tags": [
+        "selector",
+        "gradient",
+        "progress",
+        "milestone",
+        "interactive",
+        "framer-motion"
+      ],
+      "source": "21st.dev",
+      "addedAt": "2026-04-07T00:00:00.000Z",
+      "files": [
+        "gradient-selector-card.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "framer-motion"
+      ]
+    },
+    {
+      "name": "MessageConversation",
+      "slug": "messaging-conversation",
+      "path": "components/messaging-conversation/messaging-conversation.tsx",
+      "type": "UI",
+      "description": "Messaging conversation UI with header, avatars, status badges, and hover-reveal message actions",
+      "tags": [
+        "messaging",
+        "chat",
+        "conversation",
+        "ui",
+        "shadcn"
+      ],
+      "source": "user-provided",
+      "addedAt": "2026-04-07T13:00:00.000Z",
+      "files": [
+        "messaging-conversation.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "lucide-react",
+        "@radix-ui/react-scroll-area",
+        "@radix-ui/react-avatar",
+        "@radix-ui/react-slot",
+        "class-variance-authority",
+        "@radix-ui/react-dropdown-menu"
+      ]
+    },
+    {
+      "name": "DonutChart",
+      "slug": "donut-chart",
+      "path": "components/donut-chart/donut-chart.tsx",
+      "type": "Chart",
+      "description": "Animated SVG donut chart with staggered segment animations, hover highlighting with drop-shadow, and configurable center content",
+      "tags": [
+        "chart",
+        "donut",
+        "svg",
+        "animation",
+        "data-visualization",
+        "hover"
+      ],
+      "source": "21st.dev",
+      "addedAt": "2026-04-07T00:00:00.000Z",
+      "files": [
+        "donut-chart.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "framer-motion",
+        "card"
+      ]
+    },
+    {
+      "name": "Card",
+      "slug": "card",
+      "path": "components/card/card.tsx",
+      "type": "UI",
+      "description": "Shadcn/ui card primitive with header, title, description, content, and footer slots",
+      "tags": [
+        "card",
+        "container",
+        "layout",
+        "shadcn"
+      ],
+      "source": "shadcn/ui",
+      "addedAt": "2026-04-07T00:00:00.000Z",
+      "files": [
+        "card.tsx"
+      ],
+      "dependencies": []
+    },
+    {
+      "name": "AlertCard",
+      "slug": "card-8",
+      "path": "components/card-8/card-8.tsx",
+      "type": "UI",
+      "description": "Animated alert card with spring animations, staggered reveals, icon pulse, dismiss button, and CTA",
+      "tags": [
+        "alert",
+        "card",
+        "notification",
+        "animation",
+        "framer-motion",
+        "shadcn"
+      ],
+      "source": "user-provided",
+      "addedAt": "2026-04-07T13:30:00.000Z",
+      "files": [
+        "card-8.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "framer-motion",
+        "lucide-react",
+        "@radix-ui/react-slot",
+        "class-variance-authority"
+      ]
+    },
+    {
+      "name": "SocialPostCard",
+      "slug": "social-post-card",
+      "path": "components/social-post-card/social-post-card.tsx",
+      "type": "UI",
+      "description": "Social media post card with author header, link preview, and engagement footer (likes, comments, shares, bookmark)",
+      "tags": [
+        "social",
+        "post",
+        "card",
+        "feed",
+        "engagement",
+        "messaging"
+      ],
+      "source": "21st.dev",
+      "addedAt": "2026-04-07T00:00:00.000Z",
+      "files": [
+        "social-post-card.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "lucide-react"
+      ]
+    },
+    {
+      "name": "NotificationsMenu",
+      "slug": "notifications-menu",
+      "path": "components/notifications-menu/notifications-menu.tsx",
+      "type": "UI",
+      "description": "Comprehensive notifications panel with tabbed filtering, avatar-based notification items, file attachments, and action buttons",
+      "tags": [
+        "notifications",
+        "feed",
+        "tabs",
+        "social",
+        "dashboard",
+        "avatar"
+      ],
+      "source": "21st.dev",
+      "addedAt": "2026-04-07T00:00:00.000Z",
+      "files": [
+        "notifications-menu.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "@radix-ui/react-avatar",
+        "@radix-ui/react-tabs",
+        "@radix-ui/react-slot",
+        "class-variance-authority",
+        "@radix-ui/react-label"
+      ]
+    },
+    {
+      "name": "AnomalyHeatmap",
+      "slug": "anomaly-heatmap",
+      "path": "components/anomaly-heatmap/anomaly-heatmap.tsx",
+      "type": "Chart",
+      "description": "Data visualization card with intensity-based heatmap grid and hover-reactive cell scaling",
+      "tags": [
+        "heatmap",
+        "chart",
+        "anomaly",
+        "visualization",
+        "security",
+        "motion"
+      ],
+      "source": "user-provided",
+      "addedAt": "2026-04-08T00:00:00.000Z",
+      "files": [
+        "anomaly-heatmap.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "motion"
+      ]
+    },
+    {
+      "name": "CryptoStatsCard",
+      "slug": "stats-card-2",
+      "path": "components/stats-card-2/stats-card-2.tsx",
+      "type": "UI",
+      "description": "Crypto dashboard card with market cap, animated sparkline chart, Bitcoin dominance bar, and top coin price list with change indicators",
+      "tags": [
+        "crypto",
+        "stats",
+        "card",
+        "chart",
+        "sparkline",
+        "market-cap",
+        "dashboard"
+      ],
+      "source": "21st.dev",
+      "addedAt": "2026-04-08T00:00:00.000Z",
+      "files": [
+        "stats-card-2.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "framer-motion"
+      ]
+    },
+    {
+      "name": "SleepTrackerCard",
+      "slug": "sleep-tracker-card",
+      "path": "components/sleep-tracker-card/sleep-tracker-card.tsx",
+      "type": "UI",
+      "description": "Sleep tracking card with animated bar graph showing Awake, REM, Core, Deep stages, quality metrics, and legend",
+      "tags": [
+        "sleep",
+        "health",
+        "card",
+        "chart",
+        "animation",
+        "wellness",
+        "framer-motion"
+      ],
+      "source": "21st.dev",
+      "addedAt": "2026-04-08T00:00:00.000Z",
+      "files": [
+        "sleep-tracker-card.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "framer-motion"
+      ]
+    },
+    {
+      "name": "ScreenTimeCard",
+      "slug": "screen-time-card",
+      "path": "components/screen-time-card/screen-time-card.tsx",
+      "type": "Chart",
+      "description": "Screen time dashboard card with animated bar graph showing usage over time, total hours display, and top apps list",
+      "tags": [
+        "screen-time",
+        "dashboard",
+        "bar-chart",
+        "animation",
+        "stats",
+        "health",
+        "wellness"
+      ],
+      "source": "21st.dev",
+      "addedAt": "2026-04-08T00:00:00.000Z",
+      "files": [
+        "screen-time-card.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "framer-motion",
+        "lucide-react"
+      ]
+    },
+    {
+      "name": "AnalyticsCard",
+      "slug": "analytics-card",
+      "path": "components/analytics-card/analytics-card.tsx",
+      "type": "Chart",
+      "description": "Responsive analytics card with animated bar chart, striped background pattern, and Framer Motion transitions",
+      "tags": [
+        "analytics",
+        "card",
+        "chart",
+        "bar-chart",
+        "dashboard",
+        "animated",
+        "framer-motion"
+      ],
+      "source": "21st.dev",
+      "addedAt": "2026-04-08T00:00:00.000Z",
+      "files": [
+        "analytics-card.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "framer-motion"
+      ]
+    },
+    {
+      "name": "PredictionMarketCard",
+      "slug": "prediction-market-card",
+      "path": "components/prediction-market-card/prediction-market-card.tsx",
+      "type": "UI",
+      "description": "Live prediction/betting card with countdown timer, YES/NO voting bars, bank totals, and slide-up betting slip overlay",
+      "tags": [
+        "betting",
+        "prediction",
+        "market",
+        "timer",
+        "voting",
+        "live",
+        "sports"
+      ],
+      "source": "21st.dev",
+      "addedAt": "2026-04-08T00:00:00.000Z",
+      "files": [
+        "prediction-market-card.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "lucide-react",
+        "framer-motion",
+        "badge",
+        "avatar",
+        "button",
+        "separator"
+      ]
+    },
+    {
+      "name": "RadialChart",
+      "slug": "radial-chart",
+      "path": "components/radial-chart/radial-chart.tsx",
+      "type": "Chart",
+      "description": "Shadcn-style chart system wrapping recharts with Chart provider, tooltips, legends, and CSS custom property theming",
+      "tags": [
+        "chart",
+        "radial",
+        "recharts",
+        "tooltip",
+        "legend",
+        "theming"
+      ],
+      "source": "21st.dev",
+      "addedAt": "2026-04-08T00:00:00.000Z",
+      "files": [
+        "radial-chart.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "recharts",
+        "tailwind-merge"
+      ]
+    },
+    {
+      "name": "StackedDivergingBar",
+      "slug": "stacked-diverging-bar",
+      "path": "components/stacked-diverging-bar/stacked-diverging-bar.tsx",
+      "type": "Chart",
+      "description": "Incident report card with reaviz stacked diverging bar chart, 3 KPI metric rows with inline SVG icons and trend indicators, and dark mode support",
+      "tags": [
+        "incident",
+        "chart",
+        "diverging-bar",
+        "reaviz",
+        "dashboard",
+        "metrics",
+        "animation"
+      ],
+      "source": "21st.dev",
+      "addedAt": "2026-04-08T00:00:00.000Z",
+      "files": [
+        "stacked-diverging-bar.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "reaviz",
+        "framer-motion"
+      ]
+    },
+    {
+      "name": "StatisticsCard",
+      "slug": "statistics-card",
+      "path": "components/statistics-card/statistics-card.tsx",
+      "type": "Chart",
+      "description": "Statistics showcase section with animated bar charts comparing values against competitors",
+      "tags": [
+        "statistics",
+        "bar-chart",
+        "animation",
+        "landing-page",
+        "comparison",
+        "metrics",
+        "framer-motion"
+      ],
+      "source": "21st.dev",
+      "addedAt": "2026-04-08T00:00:00.000Z",
+      "files": [
+        "statistics-card.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "lucide-react",
+        "framer-motion",
+        "@number-flow/react"
+      ]
+    },
+    {
+      "name": "StatisticsCard",
+      "slug": "statistics-card",
+      "path": "components/statistics-card/statistics-card.tsx",
+      "type": "Chart",
+      "description": "Animated statistics section with bar charts, candy-stripe backgrounds, NumberFlow counters, and tooltip callouts",
+      "tags": [
+        "stats",
+        "chart",
+        "bar-chart",
+        "animation",
+        "framer-motion",
+        "number-flow"
+      ],
+      "source": "user-provided",
+      "addedAt": "2026-04-08T01:00:00.000Z",
+      "files": [
+        "statistics-card.tsx",
+        "demo.tsx"
+      ],
+      "dependencies": [
+        "lucide-react",
+        "framer-motion",
+        "@number-flow/react"
+      ]
+    },
+    {
+      "name": "BarChart",
+      "slug": "bar-chart",
+      "path": "components/bar-chart/bar-chart.tsx",
+      "type": "Chart",
+      "description": "Shadcn-style chart system wrapping recharts with ChartContainer, ChartTooltip, ChartLegend, CSS variable theming, and dark mode support",
+      "tags": ["chart", "recharts", "bar", "dashboard", "analytics", "shadcn", "theming"],
+      "source": "21st.dev (shadcn charts)",
+      "addedAt": "2026-04-08T00:00:00.000Z",
+      "files": ["bar-chart.tsx", "demo.tsx"],
+      "dependencies": ["recharts", "class-variance-authority", "lucide-react", "@radix-ui/react-select"]
+    },
+    {
+      "name": "FreelancerStatsCard",
+      "slug": "freelancer-stats-card",
+      "path": "components/freelancer-stats-card/stats-card.tsx",
+      "type": "UI",
+      "description": "Freelancer dashboard card with earnings, ranking, project/client stats, and animated availability bar chart",
+      "tags": ["freelancer", "stats", "earnings", "dashboard", "card", "availability", "animated", "framer-motion"],
+      "source": "21st.dev",
+      "addedAt": "2026-04-08T00:00:00.000Z",
+      "files": ["stats-card.tsx", "demo.tsx"],
+      "dependencies": ["framer-motion"]
+    },
+    {
+      "name": "SeanCard",
+      "slug": "sean-card",
+      "path": "components/sean-card/sean-card.tsx",
+      "type": "UI",
+      "description": "Enhanced card component with variant support (default/accent), context-based styling for header/content/table/footer",
+      "tags": ["card", "container", "layout", "variant", "context"],
+      "source": "user-provided",
+      "addedAt": "2026-04-08T00:00:00.000Z",
+      "files": ["sean-card.tsx"],
+      "dependencies": ["class-variance-authority"]
+    },
+    {
+      "name": "SeanButton",
+      "slug": "sean-button",
+      "path": "components/sean-button/sean-button.tsx",
+      "type": "UI",
+      "description": "Feature-rich button with 9 variants, multiple modes (default/icon/link/input), sizes, shapes, and CVA-based styling",
+      "tags": ["button", "form", "input", "link", "icon", "variant"],
+      "source": "user-provided",
+      "addedAt": "2026-04-08T00:00:00.000Z",
+      "files": ["sean-button.tsx"],
+      "dependencies": ["class-variance-authority", "lucide-react", "@radix-ui/react-slot"]
+    },
+    {
+      "name": "SeanBadge",
+      "slug": "sean-badge",
+      "path": "components/sean-badge/sean-badge.tsx",
+      "type": "UI",
+      "description": "Multi-variant badge with appearance modes (default/light/outline/ghost), sizes, shapes, and destructive variant support",
+      "tags": ["badge", "label", "tag", "variant", "appearance"],
+      "source": "user-provided",
+      "addedAt": "2026-04-08T00:00:00.000Z",
+      "files": ["sean-badge.tsx"],
+      "dependencies": ["class-variance-authority", "@radix-ui/react-slot"]
+    },
+    {
+      "name": "SeanAvatar",
+      "slug": "sean-avatar",
+      "path": "components/sean-avatar/sean-avatar.tsx",
+      "type": "UI",
+      "description": "Avatar with image, fallback, indicator badge (online/offline/busy/away), and status dot variants",
+      "tags": ["avatar", "user", "profile", "status", "indicator"],
+      "source": "user-provided",
+      "addedAt": "2026-04-08T00:00:00.000Z",
+      "files": ["sean-avatar.tsx"],
+      "dependencies": ["@radix-ui/react-avatar", "class-variance-authority"]
+    },
+    {
+      "name": "SeanDropdownMenu",
+      "slug": "sean-dropdown-menu",
+      "path": "components/sean-dropdown-menu/sean-dropdown-menu.tsx",
+      "type": "UI",
+      "description": "Full-featured dropdown menu with submenu support, checkbox/radio items, shortcuts, separators, and labels",
+      "tags": ["dropdown", "menu", "navigation", "submenu", "radix-ui"],
+      "source": "user-provided",
+      "addedAt": "2026-04-08T00:00:00.000Z",
+      "files": ["sean-dropdown-menu.tsx"],
+      "dependencies": ["@radix-ui/react-dropdown-menu", "lucide-react"]
+    },
+    {
+      "name": "StatisticsCard13",
+      "slug": "statistics-card-13",
+      "path": "components/statistics-card-13/statistics-card-13.tsx",
+      "type": "UI",
+      "description": "Compliance checks card with segmented progress bar, shield icon header, avatar with status, and dropdown toolbar",
+      "tags": ["compliance", "security", "progress", "card", "stats", "dashboard", "checks"],
+      "source": "21st.dev",
+      "addedAt": "2026-04-08T00:00:00.000Z",
+      "files": ["statistics-card-13.tsx", "demo.tsx"],
+      "dependencies": ["sean-card", "sean-button", "sean-dropdown-menu"]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "category": [
+    "card",
+    "media"
+  ],
+  "subcategory": "3D tilt card with mouse-tracking interaction",
+  "visual_style": [
+    "minimalist",
+    "3d"
+  ],
+  "interactions": [
+    "parallax",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive product showcase cards that respond to mouse movement with 3D rotation",
+    "Feature highlight cards on landing pages with engaging hover effects",
+    "Portfolio or gallery items with depth and dimensionality",
+    "Pricing tier cards with premium interactive feel",
+    "Testimonial or review cards with dynamic visual feedback"
+  ],
+  "ai_summary": "A 3D tilt effect card component that rotates in response to mouse movement, creating depth and interactivity. Built on a shadcn/ui-style card system with Header, Title, Description, Content, and Footer subcomponents. The effect tracks cursor position and applies CSS transforms to create perspective rotation, making elements feel responsive and premium.",
+  "_classifiedAt": "2026-04-23T11:33:28.557Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

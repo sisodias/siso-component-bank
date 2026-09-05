@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "shailendrakumar19999-avatar-chips",
+  "type": "registry:ui",
+  "title": "Shailendrakumar19999 Avatar Chips",
+  "description": "Installed from https://21st.dev/r/shailendrakumar19999/avatar-chips",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "shailendrakumar19999-avatar-chips"
+  ],
+  "files": [
+    {
+      "path": "avatar-chips.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@mui/material"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/shailendrakumar19999/avatar-chips",
+    "fetchedAt": "2026-04-23T01:17:40.315Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

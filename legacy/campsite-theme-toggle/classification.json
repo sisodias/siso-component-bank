@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "theme-toggle-button",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Toggle between light and dark themes in web applications",
+    "Switch color schemes for user preference or accessibility",
+    "Control UI appearance mode in dashboard interfaces",
+    "Enable dark mode for reduced eye strain in low-light environments"
+  ],
+  "ai_summary": "A theme toggle button component using Radix UI Slot and CVA for variant styling. This atomic component provides a clean, accessible way to switch between light and dark modes in web applications. Supports multiple visual variants including ghost, outline, and default styles, with hover states and focus ring accessibility built-in.",
+  "_classifiedAt": "2026-04-23T11:33:38.512Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

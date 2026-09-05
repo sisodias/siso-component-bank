@@ -1,0 +1,33 @@
+{
+  "category": "media",
+  "subcategory": "audio-bar-visualizer",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Real-time microphone volume visualization in voice chat applications",
+    "Audio level monitoring in podcasting or recording software",
+    "Visual feedback for voice command interfaces",
+    "Audio spectrum display in music production tools",
+    "Live audio activity indicators in streaming applications"
+  ],
+  "ai_summary": "A bar visualizer component that leverages the Web Audio API to capture audio input from a media stream and render real-time volume levels as animated bars on a canvas. It exports a custom useAudioVolume hook for audio analysis and handles WebAudioContext setup, including support for Safari's webkit prefix. Designed for applications requiring live audio feedback or voice activity visualization.",
+  "_classifiedAt": "2026-04-22T08:58:34.727Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:29:09.609Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

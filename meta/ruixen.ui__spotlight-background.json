@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/spotlight-background",
+  "author": "ruixen.ui",
+  "slug": "spotlight-background",
+  "name": "spotlight-background",
+  "description": "This component creates a smooth circular spotlight effect that dynamically follows the user’s cursor. Unlike scattered or fuzzy glow effects, this version uses a clean radial gradient to form a crisp yet soft circle that expands and contracts based on cursor movement. When the cursor is in motion, the circle becomes slightly smaller, and when idle, it gently grows larger, creating a natural breathing-like interaction. The effect provides a modern and elegant way to bring focus and interactivity to any page background, making it suitable for both dark and light themes. It’s lightweight, reusable, and ideal for hero sections, portfolios, or interactive landing pages where subtle motion enhances the user experience without overwhelming the content.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/spotlight-background?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__spotlight-background",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/spotlight-background/default/bundle.1758084376926.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/spotlight-background/default/preview.1758084376926.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 18,
+  "demo_id": 7645,
+  "video_url": "https://cdn.21st.dev/ruixen.ui/spotlight-background/default/video.1758084376926.mp4"
+}

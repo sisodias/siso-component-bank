@@ -1,0 +1,67 @@
+# SISO Component Bank
+
+Every component we could get from **21st.dev**, in one place, offline, with an index an agent can query in one command.
+
+| Layer | Count | What it is |
+|---|---:|---|
+| `index.jsonl` | **8,538** rows | One row per component joining every layer below. Start here. |
+| `meta/` | 7,977 | Per-component metadata from the component page: URL, author, description, upstream preview and bundle URLs, install command, usage count. |
+| `previews/` | 7,975 | Preview image per component (`webp`, a few `png`/`jpg`). Browse the bank without hitting 21st. |
+| `source/` | 5,210 with `code.tsx` | **Real TSX source** pulled from `cdn.21st.dev` on 2026-08-29, plus a `source-meta.json` receipt per component. The other 2,744 dirs hold the receipt explaining why source was unobtainable (`gated-404`, `parse-failure`, `page-soft404`). |
+| `legacy/` | 3,507 with source | An older pull (2026-04-22) through the shadcn registry endpoint: component `.tsx` files (multi-file components included), `demo.tsx`, `registry-item.json` (dependencies), and a `classification.json` (category, subcategory, visual style, interactions, industries, platform, complexity). 562 of these exist nowhere else. |
+| `curated/` | 112 picks + 303 candidates | A hand-picked shortlist with verbatim human feedback per pick, apples-to-apples `type` grouping, per-target presets, a board UI, and a rubric-scored scout layer over the corpus. |
+
+**6,212 components have real source** (CDN, legacy, or both). The rest have preview + metadata and an upstream URL.
+
+## Quick start for an agent
+
+```bash
+# 1. Find candidates by free text / tag against the index
+node find.mjs pricing --limit 8
+node find.mjs card --tag testimonials
+
+# 2. Read the row, look at its preview, read its source
+jq -c 'select(.id=="ln-dev7__flip-button")' index.jsonl
+open previews/ln-dev7__flip-button.webp
+cat source/ln-dev7__flip-button/code.tsx         # or legacy/ln-dev7-flip-button/*.tsx
+
+# 3. Or use the hand-picked layer with presets (operator dashboard, models app, landing)
+node curated/query.mjs "login" --preset operator
+node curated/serve.mjs                             # board on http://127.0.0.1:8812
+```
+
+Do **not** grep `source/` or load `index.jsonl` whole into an agent's context. Query, take the top handful, read those.
+
+### Index row shape
+
+```jsonc
+{
+  "id": "0xUrvish__animated-collection",       // author__slug
+  "author": "0xUrvish", "slug": "animated-collection",
+  "url": "https://21st.dev/@0xUrvish/components/animated-collection",
+  "description": "...", "usage_count": "14",
+  "preview": "previews/0xUrvish__animated-collection.webp",
+  "meta": "meta/0xUrvish__animated-collection.json",
+  "source": "source/0xUrvish__animated-collection/code.tsx", "source_bytes": 4120,   // when CDN source exists
+  "legacy": "legacy/0xurvish-animated-collection",                                      // when the older pull exists
+  "legacy_files": ["animated-collection.tsx"], "dependencies": ["motion"],
+  "classification": { "category": "card", "subcategory": "...", "visual_style": [...], "interactions": [...], "best_for_industries": [...] },
+  "has_source": true
+}
+```
+
+## How it was built
+
+- `harvest.mjs` enumerates 21st.dev through free, unauthenticated endpoints (sitemap + profile pages, then each component page's flight payload, then the CDN for `bundle.html`, `demo.tsx`, and `preview.webp`). The compiled `bundle.html` files (~1 GB) are **not** in this repo; regenerate with `node harvest.mjs --all` if you need them, or fetch `upstream_bundle` from the row.
+- `source/` came from a second pass that parses the component page for the versioned `code.<v>.tsx` CDN reference and fetches it. Newer uploads are gated and 404; those are recorded, not hidden.
+- `legacy/` came from the shadcn registry endpoint before it was rate-limited to 2 calls/day. It carries multi-file components and the classification axes that the CDN pass doesn't.
+- `catalog-site/build.mjs` builds a static browsable catalog from `meta/` + `previews/`.
+
+## Rights
+
+Component code belongs to its 21st.dev author. Each row carries the upstream URL; check the author's licence before shipping their code in a product. This repo is a research and reuse index, not a relicensing.
+
+## Related
+
+- [unfuck-the-project](https://github.com/sisodias/unfuck-the-project): the whole-project ownership prompt this bank is a source layer for.
+- [siso-repo-bank](https://github.com/sisodias/siso-repo-bank): the sibling bank of categorised GitHub repositories.

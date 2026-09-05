@@ -1,0 +1,25 @@
+{
+  "category": "input",
+  "subcategory": "checkbox",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Boolean toggle for enabling/disabling features in settings panels",
+    "Form validation requiring user agreement or consent acceptance",
+    "Multi-select filters in product listings or admin dashboards",
+    "Checkout flow terms and conditions acknowledgment",
+    "Interactive form controls for data entry interfaces"
+  ],
+  "ai_summary": "A minimalist checkbox component featuring a clean slate border with a blue checkmark SVG that appears on selection. Uses React peer states for checked/unchecked styling with Tailwind CSS. Perfect for forms, settings pages, and any interface requiring boolean input with straightforward visual feedback.",
+  "_classifiedAt": "2026-04-22T09:08:01.439Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

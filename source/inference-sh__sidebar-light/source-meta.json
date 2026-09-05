@@ -1,0 +1,26 @@
+{
+  "id": "inference-sh__sidebar-light",
+  "author": "inference-sh",
+  "slug": "sidebar-light",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@inference-sh/components/sidebar-light",
+  "fetchedAt": "2026-08-29T05:00:32.062Z",
+  "completedAt": "2026-08-29T05:00:34.514Z",
+  "versionedFilename": "code.1783729093009.tsx",
+  "codeReference": "r2://components-code-private/inference-sh/sidebar-light/code.1783729093009.tsx",
+  "codeUrl": "https://cdn.21st.dev/inference-sh/sidebar-light/code.1783729093009.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2840,
+  "sha256": "2208a5c136d9475110849d5a45e51df988ffff445c6be2aee331c48599e660f2",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

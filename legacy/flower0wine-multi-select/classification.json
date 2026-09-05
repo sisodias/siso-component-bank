@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "checkbox",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Toggle boolean values in forms with click interaction",
+    "Select multiple items from a list with visual feedback",
+    "Display indeterminate state for parent checkboxes in hierarchical selections",
+    "Show disabled state for read-only form scenarios",
+    "Provide accessible checkbox with custom styling via Tailwind CSS"
+  ],
+  "ai_summary": "A reusable Checkbox component with support for checked, unchecked, disabled, and indeterminate states. Built with Tailwind CSS featuring group-hover effects for visual feedback and an accessible hidden input for screen readers. The component uses a minimal, flat design aesthetic with clean gray tones and rounded borders, making it suitable for various SaaS, e-commerce, and developer tooling applications.",
+  "_classifiedAt": "2026-04-23T16:40:44.214Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

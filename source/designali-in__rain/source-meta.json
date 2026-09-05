@@ -1,0 +1,26 @@
+{
+  "id": "designali-in__rain",
+  "author": "designali-in",
+  "slug": "rain",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/rain",
+  "fetchedAt": "2026-08-29T04:20:41.577Z",
+  "completedAt": "2026-08-29T04:20:43.716Z",
+  "versionedFilename": "code.1754666231342.tsx",
+  "codeReference": "r2://components-code-private/designali-in/rain/code.1754666231342.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/rain/code.1754666231342.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 12177,
+  "sha256": "1f16a386fd9084c0b1e318452f2c81c675d363ee663a26d3e35cb0f38e2dc7cc",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

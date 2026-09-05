@@ -1,0 +1,26 @@
+{
+  "id": "youcefbnm__text-scroll-read",
+  "author": "youcefbnm",
+  "slug": "text-scroll-read",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@youcefbnm/components/text-scroll-read",
+  "fetchedAt": "2026-08-29T08:01:08.500Z",
+  "completedAt": "2026-08-29T08:01:10.891Z",
+  "versionedFilename": "code.1783716814151.tsx",
+  "codeReference": "r2://components-code-private/youcefbnm/text-scroll-read/code.1783716814151.tsx",
+  "codeUrl": "https://cdn.21st.dev/youcefbnm/text-scroll-read/code.1783716814151.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2519,
+  "sha256": "f23baae37893f74e7059be50da90250341f2f4c1df2bd30fd1973041c7d76d70",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

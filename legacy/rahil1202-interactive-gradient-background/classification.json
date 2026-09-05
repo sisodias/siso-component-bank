@@ -1,0 +1,36 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "gradient-animation-background",
+  "visual_style": [
+    "gradient",
+    "glass-morphism"
+  ],
+  "interactions": [
+    "hover-glow",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Hero section backgrounds with mouse-following gradient effects",
+    "Landing page visual enhancement with interactive lighting",
+    "Card hover states with dynamic gradient glow effects",
+    "Marketing and portfolio sites needing ambient motion backgrounds",
+    "Product showcases with premium-feeling interactive visuals"
+  ],
+  "ai_summary": "An interactive gradient background component that creates a dynamic, mouse-following light effect. The gradient responds to pointer movement using CSS custom properties, supports configurable intensity from 0 to 1.5, and includes dark mode styling. Uses requestAnimationFrame for smooth performance and respects prefers-reduced-motion accessibility settings. Ideal for creating immersive hero sections and engaging landing page backgrounds.",
+  "_classifiedAt": "2026-04-22T09:08:27.165Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

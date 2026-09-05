@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons in forms and pages",
+    "Destructive actions like delete or remove operations",
+    "Secondary navigation and tool actions",
+    "Icon-only buttons for compact toolbars and interfaces",
+    "Inline text links with button behavior"
+  ],
+  "ai_summary": "A versatile atomic button component with 6 variants (default, destructive, outline, secondary, ghost, link) and 4 size options (default, sm, lg, icon). Features keyboard accessibility with focus-visible outlines, disabled states, and flexible sizing. Built with Tailwind and class-variance-authority following shadcn/ui design patterns with subtle shadows and rounded corners.",
+  "_classifiedAt": "2026-04-23T17:03:22.491Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@shugar/components/calendar",
+  "author": "shugar",
+  "slug": "calendar",
+  "name": "calendar",
+  "description": "Displays a calendar from which users can select a date or range of dates.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/shugar/calendar?api_key=$API_KEY_21ST\"",
+  "id": "shugar__calendar",
+  "bundleUrl": "https://cdn.21st.dev/shugar/calendar/default/bundle.1752572276311.html",
+  "previewUrl": "https://cdn.21st.dev/shugar/calendar/default/preview.1752572276311.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "airbnb-word-cloud",
+  "type": "registry:ui",
+  "title": "Airbnb Word Cloud",
+  "description": "Installed from https://21st.dev/r/airbnb/word-cloud",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "airbnb-word-cloud"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "word-cloud.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@visx/scale",
+    "@visx/text",
+    "@visx/wordcloud"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/airbnb/word-cloud",
+    "fetchedAt": "2026-04-23T03:04:42.615Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

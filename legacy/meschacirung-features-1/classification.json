@@ -1,0 +1,26 @@
+{
+  "category": "card",
+  "subcategory": "card-component-system",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "system",
+  "use_cases": [
+    "Building feature showcase sections with cards",
+    "Creating pricing table layouts",
+    "Displaying content in organized card grids",
+    "Structuring dashboard or listing pages",
+    "Grouping related information in contained sections"
+  ],
+  "ai_summary": "A set of reusable card UI components from the meschacirung design system, styled with Tailwind CSS. Provides Card, CardHeader, CardTitle, CardDescription, CardContent, and CardFooter components as building blocks for feature sections, pricing tables, and content displays. Standard shadcn/ui pattern with forward refs for accessibility.",
+  "_classifiedAt": "2026-04-23T16:55:58.113Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "music-player-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying track information with album art, title, and artist name",
+    "Providing playback controls including play, pause, skip forward, and skip backward",
+    "Showing audio progress with an interactive progress bar and time display",
+    "Visualizing volume levels through animated volume bars",
+    "Creating an immersive music listening experience in web applications"
+  ],
+  "ai_summary": "A music player card component featuring track information display with album art, artist details, and track title. Includes full playback controls with skip buttons, play/pause toggle, interactive progress bar with handle, animated volume bars visualization, and time indicators. Designed with a minimalist flat aesthetic suitable for media and audio streaming applications across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T01:39:23.411Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "preetsuthar17__hover-link-preview",
+  "author": "preetsuthar17",
+  "slug": "hover-link-preview",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@preetsuthar17/components/hover-link-preview",
+  "fetchedAt": "2026-08-29T06:13:25.916Z",
+  "completedAt": "2026-08-29T06:13:26.883Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/preetsuthar17__hover-link-preview/code.tsx",
+    "bytes": 3162,
+    "sha256": "00394ee6876a3fe29c0c747e122764198e04088ec291f5aae60a2154e72c090b",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dillionverma__word-pull-up",
+  "author": "dillionverma",
+  "slug": "word-pull-up",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dillionverma/components/word-pull-up",
+  "fetchedAt": "2026-08-29T04:36:13.223Z",
+  "completedAt": "2026-08-29T04:36:14.340Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null
+}

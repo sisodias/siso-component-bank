@@ -1,0 +1,32 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "alert-notification",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying success, warning, or error status messages to users",
+    "Showing informational notifications with dismissible close button",
+    "Providing destructive action confirmations with visual distinction",
+    "Delivering inline feedback within forms or dashboards"
+  ],
+  "ai_summary": "A configurable Alert notification component with multiple variants (primary, secondary, destructive, success, info, warning, mono) and appearance styles (solid, outline, light, stroke). Supports three sizes (sm, md, lg) with customizable icon and close button slots using data-attribute selectors. Built with Tailwind CSS and class-variance-authority for flexible theming, suitable for displaying status messages and feedback across SaaS, e-commerce, and healthcare applications.",
+  "_classifiedAt": "2026-04-22T09:14:07.760Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

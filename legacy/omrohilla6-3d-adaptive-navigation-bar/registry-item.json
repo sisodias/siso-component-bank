@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "omrohilla6-3d-adaptive-navigation-bar",
+  "type": "registry:ui",
+  "title": "Omrohilla6 3d Adaptive Navigation Bar",
+  "description": "Installed from https://21st.dev/r/omrohilla6/3d-adaptive-navigation-bar",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "omrohilla6-3d-adaptive-navigation-bar"
+  ],
+  "files": [
+    {
+      "path": "3d-adaptive-navigation-bar.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/omrohilla6/3d-adaptive-navigation-bar",
+    "fetchedAt": "2026-04-22T06:43:05.271Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

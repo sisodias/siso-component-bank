@@ -1,0 +1,33 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "animated-text",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero section text with interactive morphing animations between word pairs",
+    "Landing page headlines that change on hover using smooth letter transitions",
+    "Interactive typography for creative websites requiring engaging text effects",
+    "Animated text components that cycle through word pairs on click interaction",
+    "Themable morphing text using CSS variables for primary and foreground colors"
+  ],
+  "ai_summary": "A reusable React component that displays text with fluid letter-by-letter morphing animations. Supports word pairs, hover-to-morph interactions, click cycling through pairs, and customizable animation colors through CSS variables. Built with Framer Motion for smooth letter-by-letter transitions. Ideal for creating engaging hero headlines, interactive typography effects, and animated text reveals in modern web applications.",
+  "_classifiedAt": "2026-04-23T01:38:58.117Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

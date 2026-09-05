@@ -1,0 +1,28 @@
+{
+  "category": "media",
+  "subcategory": "webgl-shader-radial-visualization",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "creator-tools",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Full-screen animated background for landing pages or hero sections",
+    "Dynamic visualization element for creative or generative art tools",
+    "Decorative animated component for media or entertainment applications",
+    "Background element for SaaS dashboards or product showcases",
+    "Ambient visual element for digital art installations"
+  ],
+  "ai_summary": "A WebGL shader-based radial visualization that renders animated, colorful patterns using mathematical color cycling and radial segmentation. The component creates overlapping radial bands with smooth transitions, animated by time-based rotation and color modulation. Built as a standalone visual effect that adapts to its container dimensions using standard shader uniforms.",
+  "_classifiedAt": "2026-04-23T01:55:43.068Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

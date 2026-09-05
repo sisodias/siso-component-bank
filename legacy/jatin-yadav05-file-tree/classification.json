@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "tree-view",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal",
+    "none"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display hierarchical file and folder structures in code editors or documentation",
+    "Navigate project directories in web-based IDEs or file managers",
+    "Organize and browse nested content in CMS or documentation platforms",
+    "Visualize directory trees in developer dashboard applications",
+    "Create expandable navigation menus for structured content"
+  ],
+  "ai_summary": "A hierarchical file tree component for displaying expandable folder and file structures with file-type-specific icons. Features click-to-expand folders, hover states, and smooth transitions. Built with TypeScript and Tailwind CSS, optimized for developer tools and SaaS applications needing project navigation.",
+  "_classifiedAt": "2026-04-22T09:00:33.951Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

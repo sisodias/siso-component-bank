@@ -1,0 +1,36 @@
+{
+  "category": "hero",
+  "subcategory": "minimal-hero",
+  "visual_style": [
+    "glass-morphism",
+    "minimalist",
+    "gradient",
+    "dark"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero section for SaaS applications to showcase product value proposition",
+    "Portfolio or agency website hero with professional dark/light theme switching",
+    "Marketing page header with background imagery and gradient overlays",
+    "Product launch pages with animated visual effects and theme customization",
+    "Creative portfolio showcase sections with minimal aesthetic"
+  ],
+  "ai_summary": "A sophisticated minimal hero section component featuring automatic and manual dark/light theme switching, background imagery with gradient overlays, and glass-morphism styling. Built with React hooks for state management and includes custom CSS animations. Designed as a versatile landing page header suitable for SaaS, portfolio, and creative agency websites with responsive platform support.",
+  "_classifiedAt": "2026-04-22T09:04:08.915Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "omrohilla6-cinematic-theme-switcher",
+  "type": "registry:ui",
+  "title": "Omrohilla6 Cinematic Theme Switcher",
+  "description": "Installed from https://21st.dev/r/omrohilla6/cinematic-theme-switcher",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "omrohilla6-cinematic-theme-switcher"
+  ],
+  "files": [
+    {
+      "path": "cinematic-theme-switcher.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "lucide-react",
+    "next-themes"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/omrohilla6/cinematic-theme-switcher",
+    "fetchedAt": "2026-04-22T06:43:26.360Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "shadcn__item",
+  "author": "shadcn",
+  "slug": "item",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcn/components/item",
+  "fetchedAt": "2026-08-29T07:08:37.523Z",
+  "completedAt": "2026-08-29T07:08:39.127Z",
+  "versionedFilename": "code.1760074946572.tsx",
+  "codeReference": "r2://components-code-private/larsen66/item/code.1760074946572.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/item/code.1760074946572.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4494,
+  "sha256": "6d64b756260749245b3a1f292e2aaf2774d7ec0b8bb99403eb8c1be31bd26900",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

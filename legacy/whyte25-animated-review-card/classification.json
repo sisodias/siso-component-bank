@@ -1,0 +1,37 @@
+{
+  "category": "card",
+  "subcategory": "review-testimonial-carousel",
+  "visual_style": [
+    "gradient",
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "drag",
+    "click-reveal",
+    "scroll-animate",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display customer testimonials with animated card transitions on landing pages",
+    "Showcase star-rated product reviews in an interactive carousel format",
+    "Create social proof sections with draggable review cards for portfolios",
+    "Build testimonial grids with auto-rotation for business websites",
+    "Implement configurable review carousels with theme variants for branding"
+  ],
+  "ai_summary": "Animated Review Card component featuring multiple theme variants (default, primary, elegant, vibrant, minimal) with configurable drag or click interactions. Supports auto-rotation with customizable intervals, star ratings, user avatars, and visual effects like border beams. Built with Framer Motion for smooth animations and CVA for consistent styling across themes. Ideal for showcasing testimonials and reviews on SaaS landing pages, e-commerce sites, and creator portfolios with responsive desktop and mobile layouts.",
+  "_classifiedAt": "2026-04-23T01:55:13.955Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:30:33.359Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

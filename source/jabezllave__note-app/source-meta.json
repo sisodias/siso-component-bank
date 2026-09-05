@@ -1,0 +1,26 @@
+{
+  "id": "jabezllave__note-app",
+  "author": "jabezllave",
+  "slug": "note-app",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@jabezllave/components/note-app",
+  "fetchedAt": "2026-08-29T05:05:12.281Z",
+  "completedAt": "2026-08-29T05:05:14.494Z",
+  "versionedFilename": "code.1774638467414.tsx",
+  "codeReference": "r2://components-code-private/jabezllave/note-app/code.1774638467414.tsx",
+  "codeUrl": "https://cdn.21st.dev/jabezllave/note-app/code.1774638467414.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 9040,
+  "sha256": "5ecde2b44d2ab67f61eebe4d8c8fd7eebd1330a12732c1c1003c7da16204ca0d",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

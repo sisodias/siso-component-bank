@@ -1,0 +1,26 @@
+{
+  "category": "media",
+  "subcategory": "avatar-primitive",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display user profile pictures in comment sections",
+    "Show artist avatars in music player interfaces",
+    "Represent users in social feeds and discussion threads",
+    "Provide fallback initials when images fail to load",
+    "Create consistent avatar styling across application"
+  ],
+  "ai_summary": "A reusable Avatar component built on Radix UI primitives with AvatarImage and AvatarFallback sub-components. Features rounded-full styling, responsive sizing (10x10 units), and fallback to secondary background color with centered text. Intended for displaying user or artist profile pictures in music player interfaces but works as a general-purpose avatar primitive for any application requiring consistent user representation.",
+  "_classifiedAt": "2026-04-22T09:10:08.755Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,36 @@
+{
+  "category": [
+    "card",
+    "media"
+  ],
+  "subcategory": "horizontal-cards-slider",
+  "visual_style": [
+    "glass-morphism",
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "click-reveal",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying blog posts or articles in a browsable horizontal carousel",
+    "Showcasing portfolio projects or case studies with author attribution",
+    "Content discovery interface for media platforms and blogs",
+    "Feature highlights slider for landing pages and marketing sites",
+    "Product or service recommendations with category filtering"
+  ],
+  "ai_summary": "A horizontal card slider component featuring article-style cards with images, titles, descriptions, and metadata. Built with Framer Motion for smooth drag and click-based navigation animations. Includes author avatars, category badges, and reading time indicators. Responsive design works across desktop and mobile with navigation chevrons for browsing content.",
+  "_classifiedAt": "2026-04-22T09:03:15.767Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

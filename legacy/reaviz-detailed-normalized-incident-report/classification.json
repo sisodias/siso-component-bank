@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "incident-report-chart",
+  "visual_style": [
+    "gradient",
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display normalized incident metrics with trend indicators for system reliability monitoring",
+    "Visualize stacked area chart data for incident distribution across categories",
+    "Present key performance metrics with animated reveals in incident post-mortem reports",
+    "Track incident trends and patterns in DevOps/SRE dashboards",
+    "Monitor system health indicators with color-coded status visualization"
+  ],
+  "ai_summary": "A detailed incident report visualization component featuring a stacked normalized area chart with gradient fills, animated metric cards with trend indicators, and custom SVG alert icons. Built with reaviz for charting and framer-motion for scroll-based animations. Designed for DevOps and SaaS platforms to monitor system incidents, track reliability metrics, and present post-mortem data in an interactive dashboard format.",
+  "_classifiedAt": "2026-04-23T17:14:25.742Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

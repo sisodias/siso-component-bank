@@ -1,0 +1,33 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "cursor-following spotlight background",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Hero section backgrounds that follow user cursor movement",
+    "Landing pages requiring interactive visual effects",
+    "Product showcase pages with spotlight emphasis",
+    "Interactive marketing campaign backgrounds"
+  ],
+  "ai_summary": "An interactive spotlight background component that tracks cursor position and renders a radial gradient glow effect. The spotlight smoothly shrinks when the cursor is moving and expands when idle, creating a dynamic lighting effect. Built with React hooks for performant mouse tracking.",
+  "_classifiedAt": "2026-04-23T01:51:28.131Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

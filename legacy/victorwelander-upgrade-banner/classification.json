@@ -1,0 +1,33 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "upgrade-prompt",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Encourage free users to upgrade to paid subscription tiers",
+    "Display promotional upgrade messages on dashboard or settings pages",
+    "Drive conversion by highlighting premium features and benefits",
+    "Prompt users to unlock advanced capabilities with a dismissible call-to-action"
+  ],
+  "ai_summary": "A dismissible upgrade banner component with smooth framer-motion animations designed to drive user conversions from free to paid tiers. Features customizable button text, description, close handler, and click action props. Built for SaaS and subscription-based platforms requiring elegant upgrade prompts that can be dismissed while maintaining user engagement.",
+  "_classifiedAt": "2026-04-23T17:42:37.711Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

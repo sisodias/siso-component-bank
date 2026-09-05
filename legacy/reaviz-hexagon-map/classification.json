@@ -1,0 +1,37 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "heatmap-chart",
+  "visual_style": [
+    "flat",
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying time-based activity patterns across days and hours with color-coded intensity",
+    "Showing statistical metrics with animated counters and trend comparisons",
+    "Dashboard analytics visualization for user engagement and performance monitoring",
+    "Comparing metric values with visual trend indicators and percentage changes",
+    "Data-driven decision making with animated statistical summaries and heatmap insights"
+  ],
+  "ai_summary": "A Reaviz-powered hexagonal heatmap visualization component that displays time-based activity data with animated statistical counters, trend indicators, and color-coded metrics. Features CountUp animations for numbers and framer-motion transitions. Designed for analytics dashboards showing engagement patterns, usage metrics, or performance data with visual trend analysis using a clean flat design with coral and teal accent colors.",
+  "_classifiedAt": "2026-04-23T17:14:44.108Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,34 @@
+{
+  "category": "card",
+  "subcategory": "3d-animated-interactive-card",
+  "visual_style": [
+    "glass-morphism",
+    "gradient",
+    "3d"
+  ],
+  "interactions": [
+    "hover-glow",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display feature cards with icons and 3D hover perspective transforms",
+    "Showcase product cards with gradient backgrounds and interactive animations",
+    "Build interactive dashboard elements with mouse-tracking effects",
+    "Create service or benefit cards with premium variants",
+    "Display user testimonials or profile cards with 3D depth effects"
+  ],
+  "ai_summary": "A highly interactive 3D animated card component featuring mouse-tracking perspective transforms that rotate cards based on cursor position. Supports multiple themes (8 gradient color schemes), three size variants (sm/md/lg), and three style variants (default/minimal/premium). Built with Framer Motion for smooth animations and includes responsive grid layouts for displaying multiple cards. Perfect for showcasing features, products, or services with engaging visual effects.",
+  "_classifiedAt": "2026-04-23T17:28:46.263Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

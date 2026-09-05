@@ -1,0 +1,17 @@
+{
+  "url": "https://21st.dev/@trophyso/components/achievement-badge/clickable-achievement",
+  "author": "trophyso",
+  "slug": "clickable-achievement",
+  "name": "clickable-achievement",
+  "parent": "trophyso__achievement-badge",
+  "variant": true,
+  "id": "trophyso__achievement-badge--clickable-achievement",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/achievement-badge/clickable-achievement/bundle.1779967238976.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/achievement-badge/clickable-achievement/preview.1779967238976.png",
+  "video_url": null,
+  "harvested": [
+    "preview",
+    "bundle"
+  ],
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/trophyso/achievement-badge?api_key=$API_KEY_21ST\""
+}

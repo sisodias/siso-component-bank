@@ -1,0 +1,31 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "analytics-chart-card",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying campaign ad spend trends over time in analytics dashboards",
+    "Tracking marketing budget utilization with visual daily spending patterns",
+    "Presenting marketing ROI metrics in a clean card format for stakeholder reports",
+    "Monitoring campaign performance indicators in SaaS platforms",
+    "Serving as a reusable analytics visualization component in web applications"
+  ],
+  "ai_summary": "A data visualization card component displaying campaign ad spend metrics over a 28-day period using an area chart. Built with Recharts for chart rendering and shadcn/ui components for the card container, badges, and tooltips. Features a clean minimalist design with cyan accent colors, designed to present marketing analytics data in a professional, digestible format suitable for SaaS and e-commerce dashboards.",
+  "_classifiedAt": "2026-04-23T01:35:28.422Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

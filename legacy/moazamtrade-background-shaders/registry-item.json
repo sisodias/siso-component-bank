@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "moazamtrade-background-shaders",
+  "type": "registry:ui",
+  "title": "Moazamtrade Background Shaders",
+  "description": "Installed from https://21st.dev/r/moazamtrade/background-shaders",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "moazamtrade-background-shaders"
+  ],
+  "files": [
+    {
+      "path": "background-shaders.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@paper-design/shaders-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "Syntax error in component source"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/moazamtrade/background-shaders",
+    "fetchedAt": "2026-04-23T01:18:27.776Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

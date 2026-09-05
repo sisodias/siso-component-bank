@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@uniquesonu/components/weight-and-bmi-tracking-widget",
+  "author": "uniquesonu",
+  "slug": "weight-and-bmi-tracking-widget",
+  "name": "weight-and-bmi-tracking-widget",
+  "description": "This React component displays a customizable weight and BMI tracking widget.  It features an animated bar graph visualizing weight or BMI data over time against a user-defined threshold.  Users can switch between weight and BMI views, and the widget supports both US and metric systems.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/uniquesonu/weight-and-bmi-tracking-widget?api_key=$API_KEY_21ST\"",
+  "id": "uniquesonu__weight-and-bmi-tracking-widget",
+  "bundleUrl": "https://cdn.21st.dev/uniquesonu/weight-and-bmi-tracking-widget/default/bundle.1755178397192.html",
+  "previewUrl": "https://cdn.21st.dev/uniquesonu/weight-and-bmi-tracking-widget/default/preview.1755178397192.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "cult-ui__hero-liquid-metal",
+  "author": "cult-ui",
+  "slug": "hero-liquid-metal",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@cult-ui/components/hero-liquid-metal",
+  "fetchedAt": "2026-08-29T04:03:41.034Z",
+  "completedAt": "2026-08-29T04:03:43.217Z",
+  "versionedFilename": "code.1783695372703.tsx",
+  "codeReference": "r2://components-code-private/cult-ui/hero-liquid-metal/code.1783695372703.tsx",
+  "codeUrl": "https://cdn.21st.dev/cult-ui/hero-liquid-metal/code.1783695372703.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 25396,
+  "sha256": "a3da5023228a8c285fb1b4df41c92a9d1a69df307e58689f4d88f372eaff944d",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

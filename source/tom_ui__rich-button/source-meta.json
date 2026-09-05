@@ -1,0 +1,26 @@
+{
+  "id": "tom_ui__rich-button",
+  "author": "tom_ui",
+  "slug": "rich-button",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@tom_ui/components/rich-button",
+  "fetchedAt": "2026-08-29T07:38:50.809Z",
+  "completedAt": "2026-08-29T07:38:53.222Z",
+  "versionedFilename": "code.1773097670545.tsx",
+  "codeReference": "r2://components-code-private/larsen66/rich-button/code.1773097670545.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/rich-button/code.1773097670545.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5588,
+  "sha256": "6593c28aa6a046785badddce34262e366bbc4e0ad73e63f56ea9c9afc444c758",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

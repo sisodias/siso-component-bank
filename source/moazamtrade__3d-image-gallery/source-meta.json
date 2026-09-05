@@ -1,0 +1,26 @@
+{
+  "id": "moazamtrade__3d-image-gallery",
+  "author": "moazamtrade",
+  "slug": "3d-image-gallery",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@moazamtrade/components/3d-image-gallery",
+  "fetchedAt": "2026-08-29T05:46:26.051Z",
+  "completedAt": "2026-08-29T05:46:28.910Z",
+  "versionedFilename": "code.1756500903712.tsx",
+  "codeReference": "r2://components-code-private/moazamtrade/3d-image-gallery/code.1756500903712.tsx",
+  "codeUrl": "https://cdn.21st.dev/moazamtrade/3d-image-gallery/code.1756500903712.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 15426,
+  "sha256": "89b84e53699dbe1349f819b97c980c680f234c5d6e2cd3a42d5d79b1b74f60fc",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

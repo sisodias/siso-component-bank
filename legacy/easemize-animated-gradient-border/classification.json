@@ -1,0 +1,31 @@
+{
+  "category": "card",
+  "subcategory": "gradient-border-wrapper",
+  "visual_style": [
+    "gradient",
+    "dark"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Wrapping card content with animated rotating gradient borders for visual emphasis",
+    "Creating eye-catching product showcase cards in e-commerce interfaces",
+    "Adding decorative animated borders to feature callout sections in landing pages",
+    "Enhancing pricing cards or CTA buttons with dynamic gradient effects",
+    "Providing hover-responsive animated borders for interactive UI elements"
+  ],
+  "ai_summary": "A reusable React wrapper component that applies animated gradient borders around any content. Features CSS conic-gradient rotation with three animation modes (auto-rotate, rotate-on-hover, stop-rotate-on-hover) and customizable colors, speed, border width, and radius. Built with CSS custom properties for easy theming, creating a polished, premium feel suitable for modern SaaS and e-commerce interfaces.",
+  "_classifiedAt": "2026-04-23T16:36:47.257Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

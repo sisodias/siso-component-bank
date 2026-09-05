@@ -1,0 +1,26 @@
+{
+  "id": "extend-hq__xlsx-viewer",
+  "author": "extend-hq",
+  "slug": "xlsx-viewer",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@extend-hq/components/xlsx-viewer",
+  "fetchedAt": "2026-08-29T04:47:12.826Z",
+  "completedAt": "2026-08-29T04:47:15.186Z",
+  "versionedFilename": "code.1782170246311.tsx",
+  "codeReference": "r2://components-code-private/larsen66/xlsx-viewer/code.1782170246311.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/xlsx-viewer/code.1782170246311.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 51709,
+  "sha256": "4e5acdc3749ee5368c7655c62970ac48f733a69c80715d07a66f23ed77ecfc92",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

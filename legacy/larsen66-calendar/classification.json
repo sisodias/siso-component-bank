@@ -1,0 +1,36 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "calendar-date-picker",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Scheduling appointments or meetings in SaaS and healthcare applications",
+    "Selecting check-in and check-out dates for hotel or rental bookings",
+    "Picking delivery or shipment dates in e-commerce checkout flows",
+    "Browsing and selecting dates for event registration or class enrollment",
+    "Filtering data by date ranges in analytics or reporting dashboards"
+  ],
+  "ai_summary": "A React Aria-based calendar component featuring both single-date and range selection modes. Built with react-aria-components for full accessibility support including keyboard navigation and screen reader compatibility. Uses Tailwind CSS for clean, minimalist styling with hover states and smooth transitions. Includes navigation controls with Radix UI icons and follows a composite architecture with separated header and grid components.",
+  "_classifiedAt": "2026-04-23T16:50:06.577Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

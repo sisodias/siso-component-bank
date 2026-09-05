@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "select-dropdown",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting a single option from a predefined list of values in forms",
+    "Framework or technology selection in project setup interfaces",
+    "Filtering data by category in dashboard or admin interfaces",
+    "Form data collection for user preferences or settings",
+    "Dropping down to choose from options in any data-entry scenario"
+  ],
+  "ai_summary": "A select dropdown component built with Ark UI featuring dark mode support and portal-based dropdown positioning. The component renders a styled trigger button with chevron indicator and displays selectable items in a positioned content overlay with group labels. Designed for single-option selection in forms with clean flat styling and accessibility features.",
+  "_classifiedAt": "2026-04-23T01:36:10.035Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

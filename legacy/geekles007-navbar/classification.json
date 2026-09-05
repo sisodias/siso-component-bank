@@ -1,0 +1,35 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "navbar with dropdown",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Main site navigation with dropdown menus for hierarchical content",
+    "Application header navigation with hover-activated dropdowns",
+    "E-commerce site navigation with product category dropdowns",
+    "Dashboard or admin interface navigation with animated cursor indicator"
+  ],
+  "ai_summary": "A React navbar component featuring hover-activated dropdown menus with smooth Framer Motion animations. Includes a cursor line indicator that animates between navigation items and dropdown menus that slide in on hover. Built with Next.js Link components and TypeScript for type-safe menu configurations.",
+  "_classifiedAt": "2026-04-23T16:40:51.788Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

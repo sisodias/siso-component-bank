@@ -1,0 +1,26 @@
+{
+  "id": "ziegfiroyt__feature144",
+  "author": "ziegfiroyt",
+  "slug": "feature144",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ziegfiroyt/components/feature144",
+  "fetchedAt": "2026-08-29T08:02:42.585Z",
+  "completedAt": "2026-08-29T08:02:44.788Z",
+  "versionedFilename": "code.1785100103955-bf719b76-79a4-4c1c-9266-8045486c79ea.tsx",
+  "codeReference": "r2://components-code-private/ziegfiroyt/feature144/code.1785100103955-bf719b76-79a4-4c1c-9266-8045486c79ea.tsx",
+  "codeUrl": "https://cdn.21st.dev/ziegfiroyt/feature144/code.1785100103955-bf719b76-79a4-4c1c-9266-8045486c79ea.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "circular-angle-slider",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "drag",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "media",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting rotation angles in design and creative tools",
+    "Setting directional values in mapping or navigation interfaces",
+    "Configuring time values in clock-based or schedule pickers",
+    "Choosing positions in video or image editing software",
+    "Setting angular values in data visualization or chart configurations"
+  ],
+  "ai_summary": "A circular angle slider component built on Ark UI that allows users to select angle values by dragging a knob around a ring track. Features gradient styling with blue-to-purple coloring, SVG-based track and progress circles, and dark mode support. The slider uses CSS custom properties for smooth value-based rendering and includes accessibility features through the Ark UI library.",
+  "_classifiedAt": "2026-04-23T01:35:47.377Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "3D particle sphere with custom GLSL shaders",
+  "visual_style": [
+    "gradient",
+    "3d"
+  ],
+  "interactions": [
+    "mouse-follow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero section background with cosmic visual effect",
+    "Landing page decorative animation",
+    "Portfolio or creative showcase visual element",
+    "Interactive ambient background for web applications",
+    "Loading or transition state visualization"
+  ],
+  "ai_summary": "A Three.js-based 3D celestial sphere visualization with custom GLSL shaders, particle effects, and mouse-reactive animation. Creates an immersive cosmic atmosphere with configurable hue, speed, zoom, and particle size parameters using fractional Brownian motion and noise functions for organic movement.",
+  "_classifiedAt": "2026-04-23T01:38:30.277Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

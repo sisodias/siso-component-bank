@@ -1,0 +1,29 @@
+{
+  "category": "feedback",
+  "subcategory": "alert-banner",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying success, warning, or error messages to users in web applications",
+    "Dismissible notification banners for system alerts or user confirmations",
+    "Status updates with optional action buttons for user engagement",
+    "Inline alerts in dashboards, forms, or settings pages",
+    "Confirmation messages for completed user actions"
+  ],
+  "ai_summary": "A reusable alert banner component with multiple variants (success, destructive, warning, default) featuring built-in status icons, dismiss functionality, and optional primary/secondary action buttons. Built with Tailwind CSS and Framer Motion, following shadcn design patterns for a clean, accessible notification system.",
+  "_classifiedAt": "2026-04-23T01:42:22.775Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

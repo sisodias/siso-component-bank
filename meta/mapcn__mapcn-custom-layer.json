@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@mapcn/components/mapcn-custom-layer",
+  "author": "mapcn",
+  "slug": "mapcn-custom-layer",
+  "name": "mapcn-custom-layer",
+  "description": "A MapLibre custom layer control that toggles interactive GeoJSON park polygons over a themed map.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/mapcn/mapcn-custom-layer?api_key=$API_KEY_21ST\"",
+  "id": "mapcn__mapcn-custom-layer",
+  "bundleUrl": "https://cdn.21st.dev/mapcn/mapcn-custom-layer/default/bundle.1785543751361-38c9d7a4-e5ca-4465-a94b-8f3cfda35b0c.html",
+  "previewUrl": "https://cdn.21st.dev/mapcn/mapcn-custom-layer/default/preview.1785543751361-38c9d7a4-e5ca-4465-a94b-8f3cfda35b0c.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

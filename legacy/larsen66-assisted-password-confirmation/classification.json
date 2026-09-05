@@ -1,0 +1,30 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "password-confirmation-with-visual-feedback",
+  "visual_style": [],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Password confirmation during account registration with real-time character matching feedback",
+    "Secure form validation with visual shake feedback when exceeding expected length",
+    "Authentication flows requiring password verification with animated match confirmation"
+  ],
+  "ai_summary": "An assisted password confirmation input component that provides real-time visual feedback by highlighting matching characters in green and mismatches in red. Features shake animation when users attempt to exceed the password length and border color transitions to green upon successful match. Uses Framer Motion for smooth state-based animations including bounce and scale effects.",
+  "_classifiedAt": "2026-04-23T16:49:56.923Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

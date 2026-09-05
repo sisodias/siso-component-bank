@@ -1,0 +1,25 @@
+{
+  "category": "input",
+  "subcategory": "action-button",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Triggering actions like submitting forms or dialogs",
+    "Navigation triggers for multi-step flows",
+    "Call-to-action buttons in marketing pages",
+    "Icon-only buttons for compact toolbars",
+    "Variant-based button styling for different contexts like destructive or ghost actions"
+  ],
+  "ai_summary": "A reusable Radix UI Button component with CVA-powered variant system supporting multiple styles (default, destructive, outline, secondary, ghost, link) and sizes. Features subtle shadows, smooth hover transitions, and accessibility focus states. Highly composable via Radix Slot for asChild pattern. Clean, minimalist design suitable for SaaS dashboards, forms, and general web applications requiring consistent button interactions.",
+  "_classifiedAt": "2026-04-23T01:50:08.040Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

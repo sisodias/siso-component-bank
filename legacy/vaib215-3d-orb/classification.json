@@ -1,0 +1,35 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "3D interactive globe/orb with starfield",
+  "visual_style": [
+    "3d",
+    "glass-morphism",
+    "gradient"
+  ],
+  "interactions": [
+    "drag",
+    "parallax",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive hero section element for SaaS landing pages",
+    "Decorative 3D background for media and entertainment websites",
+    "Data visualization globe for geographic or global metrics display",
+    "Ambient visual element for creative portfolio sites",
+    "Engaging product showcase centerpiece for tech companies"
+  ],
+  "ai_summary": "An interactive 3D globe/orb component built with Three.js featuring a particle starfield background and custom atmospheric glow shader. The component uses OrbitControls for drag-based rotation and perspective camera for depth. Includes responsive sizing with window dimensions and device pixel ratio optimization. Best suited for hero sections, landing pages, or as a decorative interactive element in SaaS, media, and creative applications.",
+  "_classifiedAt": "2026-04-23T17:40:49.583Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

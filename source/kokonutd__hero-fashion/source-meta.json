@@ -1,0 +1,33 @@
+{
+  "id": "kokonutd__hero-fashion",
+  "author": "kokonutd",
+  "slug": "hero-fashion",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@kokonutd/components/hero-fashion",
+  "fetchedAt": "2026-08-29T05:18:19.432Z",
+  "completedAt": "2026-08-29T05:18:20.466Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/kokonutd__hero-fashion/code.tsx",
+    "bytes": 4023,
+    "sha256": "36dca01f5be00c77bed417e5bd0216eb53833e287f3cee790a429decf6fa642d",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

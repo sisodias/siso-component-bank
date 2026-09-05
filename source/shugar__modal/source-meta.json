@@ -1,0 +1,26 @@
+{
+  "id": "shugar__modal",
+  "author": "shugar",
+  "slug": "modal",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/modal",
+  "fetchedAt": "2026-08-29T07:19:42.315Z",
+  "completedAt": "2026-08-29T07:19:45.036Z",
+  "versionedFilename": "code.1752056470428.tsx",
+  "codeReference": "r2://components-code-private/shugar/modal/code.1752056470428.tsx",
+  "codeUrl": "https://cdn.21st.dev/shugar/modal/code.1752056470428.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5191,
+  "sha256": "ff16d79f5869e77014a70272a4e7b5fbd52cf40414bb4b2149b0ccf9bbc04caa",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

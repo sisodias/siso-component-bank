@@ -1,0 +1,26 @@
+{
+  "id": "sakibx2821__electric-card",
+  "author": "sakibx2821",
+  "slug": "electric-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sakibx2821/components/electric-card",
+  "fetchedAt": "2026-08-29T06:52:52.330Z",
+  "completedAt": "2026-08-29T06:52:55.180Z",
+  "versionedFilename": "code.1761045115722.tsx",
+  "codeReference": "r2://components-code-private/sakibx2821/electric-card/code.1761045115722.tsx",
+  "codeUrl": "https://cdn.21st.dev/sakibx2821/electric-card/code.1761045115722.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4998,
+  "sha256": "3f4fa2f59b7f63902960076f3d7596a710611aee31d2e9dacde2ad6cdb9ac701",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

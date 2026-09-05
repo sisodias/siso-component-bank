@@ -1,0 +1,28 @@
+{
+  "category": "other",
+  "subcategory": "mouse-following-wand-animation",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive hero sections with animated cursor-tracking wand effect for landing pages",
+    "Creative tool demos requiring dynamic visual feedback and polish",
+    "SaaS product showcases with premium motion design elements",
+    "Interactive backgrounds with spring-physics cursor effects",
+    "Portfolio or media sites needing engaging micro-interactions"
+  ],
+  "ai_summary": "A mouse-following animated wand component with spring physics that tracks cursor movement and calculates rotation based on position. Built with Framer Motion, React Context for state sharing, and supports custom styling via props. Ideal for creating premium interactive effects in SaaS landing pages, creative tool demos, and media applications.",
+  "_classifiedAt": "2026-04-23T17:42:46.485Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,39 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-action-trigger",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Triggers form submissions and data processing actions",
+    "Opens or closes modal dialogs and overlays",
+    "Navigates users to different pages or sections",
+    "Initiates confirmation workflows like delete or save actions",
+    "Provides accessible action buttons for empty states and placeholder content"
+  ],
+  "ai_summary": "A versatile, accessible button component with multiple style variants (default, destructive, outline, secondary, ghost, link) and size options. Built on Radix UI primitives with full TypeScript support, featuring proper focus management, keyboard navigation, and ARIA attributes out of the box. The component uses Tailwind CSS for styling with consistent design token references and supports composition via the asChild prop for advanced use cases.",
+  "_classifiedAt": "2026-04-23T01:54:36.633Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

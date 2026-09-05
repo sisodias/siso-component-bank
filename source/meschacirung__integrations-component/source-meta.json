@@ -1,0 +1,26 @@
+{
+  "id": "meschacirung__integrations-component",
+  "author": "meschacirung",
+  "slug": "integrations-component",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@meschacirung/components/integrations-component",
+  "fetchedAt": "2026-08-29T05:41:24.014Z",
+  "completedAt": "2026-08-29T05:41:26.543Z",
+  "versionedFilename": "code.1753817938664.tsx",
+  "codeReference": "r2://components-code-private/larsen66/integrations-component/code.1753817938664.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/integrations-component/code.1753817938664.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5147,
+  "sha256": "a9c66238368902fc0ffcc56b8f2e2fc97eed841939866eacc99f85cfb2f363a2",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

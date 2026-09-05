@@ -1,0 +1,33 @@
+{
+  "category": "input",
+  "subcategory": "checkbox-button, toggle-button",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action triggers in forms and dashboards",
+    "Toggle checklist items with visual feedback",
+    "Navigation and link-triggering buttons",
+    "Secondary action buttons in UI compositions",
+    "Icon or text-based interactive controls"
+  ],
+  "ai_summary": "A flexible button component built with Radix UI's Slot for composition and Tailwind CSS with CVA styling. Features multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Supports disabled states, focus rings, and asChild prop for composition. Designed as an atomic, reusable input component for triggering actions across any industry application.",
+  "_classifiedAt": "2026-04-23T01:49:04.473Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

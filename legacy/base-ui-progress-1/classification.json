@@ -1,0 +1,31 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "progress-indicator",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying file upload or download progress in web applications",
+    "Showing multi-step form completion status",
+    "Indicating data export or sync progress",
+    "Visualizing task or goal completion percentage",
+    "Providing loading state feedback for async operations"
+  ],
+  "ai_summary": "A progress indicator component from Base UI that displays task completion status with a label, numeric value percentage, and animated progress bar. Built with Tailwind CSS for minimal styling, it features a rounded track with an inset shadow and a transitioning indicator that smoothly animates between values. Designed for showing loading or completion states in web applications like file exports or data processing.",
+  "_classifiedAt": "2026-04-23T11:32:25.846Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

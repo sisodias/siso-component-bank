@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@theorcdev/components/8bit-xp-bar",
+  "author": "theorcdev",
+  "slug": "8bit-xp-bar",
+  "name": "8bit-xp-bar",
+  "description": "Pixel-art XP / experience bar from 8bitcn.com — chunky pixel borders, retro fill. Wraps Radix Progress; default and retro variants; flashing 'LEVEL UP!' animation at 100%.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/theorcdev/8bit-xp-bar?api_key=$API_KEY_21ST\"",
+  "id": "theorcdev__8bit-xp-bar",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/8bit-xp-bar/default/bundle.1779996077095.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/8bit-xp-bar/default/preview.1779996077095.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "category": "data-display",
+  "subcategory": "location-coordinates-card",
+  "visual_style": [],
+  "interactions": [
+    "parallax",
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying user or business locations with interactive 3D tilting effects",
+    "Showing contact or event coordinates with expandable details",
+    "Adding animated location cards to landing pages or profiles",
+    "Creating interactive map placeholder components with hover responsiveness"
+  ],
+  "ai_summary": "A 3D interactive location display card that shows geographic coordinates with perspective tilt effects. Features smooth mouse-tracking parallax animations using spring physics, hover glow states, and click-to-expand functionality. Renders location text and coordinates in a bordered, rounded container with background styling.",
+  "_classifiedAt": "2026-04-22T09:05:20.349Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

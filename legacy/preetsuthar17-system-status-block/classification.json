@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "system-status-indicator",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying real-time system health or service status in dashboards",
+    "Showing server uptime/downtime indicators for DevOps monitoring",
+    "Presenting API health status in developer tools interfaces",
+    "Visualizing deployment pipeline status in CI/CD dashboards",
+    "Indicating application connectivity states in hybrid environments"
+  ],
+  "ai_summary": "A system status block component for displaying health indicators and service states in monitoring dashboards. Provides visual feedback for system uptime, server connectivity, or API health status. Designed for integration into SaaS platforms and developer tools interfaces requiring real-time status visualization.",
+  "_classifiedAt": "2026-04-23T17:09:44.070Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

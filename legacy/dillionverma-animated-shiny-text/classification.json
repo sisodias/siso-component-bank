@@ -1,0 +1,29 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "shimmer-text",
+  "visual_style": [
+    "gradient"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display text with a premium animated shimmer effect that draws attention",
+    "Use in hero sections or feature highlights to create visual interest",
+    "Apply to key value propositions and headings to make them stand out"
+  ],
+  "ai_summary": "AnimatedShinyText is a lightweight React component that applies a continuous horizontal shine/sweep effect to text using CSS animations. It accepts children for content, customizable className for styling, and shimmerWidth to control the width of the light sweep. The component uses Tailwind CSS gradients and a custom keyframe animation to simulate light passing across text, creating a premium, eye-catching visual effect suitable for hero sections, feature highlights, and key marketing copy.",
+  "_classifiedAt": "2026-04-23T16:35:33.150Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

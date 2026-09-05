@@ -1,0 +1,33 @@
+{
+  "category": "media",
+  "subcategory": "animated gradient border effect",
+  "visual_style": [
+    "gradient",
+    "glass-morphism"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Adding animated glowing borders to card components for visual emphasis",
+    "Creating dynamic hover effects on interactive containers and buttons",
+    "Enhancing hero sections with moving light beam borders",
+    "Adding premium animated aesthetics to pricing or feature cards",
+    "Decorating overlay and modal containers with gradient lighting"
+  ],
+  "ai_summary": "An animated border beam effect component that creates a sweeping light gradient along container borders. Built with Framer Motion, it supports customizable light width, duration, color, and border thickness. The component uses CSS mask properties and offset-path animations to create a smooth moving beam effect that works with any rounded container.",
+  "_classifiedAt": "2026-04-23T11:31:40.640Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

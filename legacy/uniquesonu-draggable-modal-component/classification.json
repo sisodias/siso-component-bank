@@ -1,0 +1,28 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "drag-to-close-drawer",
+  "visual_style": [],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Modal or drawer overlays that close via downward drag gesture",
+    "Mobile-first interfaces requiring gesture-based dismissals",
+    "Clean modal dialogs with smooth open/close animations",
+    "Content-heavy overlays in SaaS dashboards",
+    "E-commerce or app interfaces needing intuitive touch interactions"
+  ],
+  "ai_summary": "A draggable modal/drawer component that allows users to close the overlay by dragging the handle downward past a threshold. Built with Framer Motion for smooth physics-based animations and React state management. Features a clean flat design with Tailwind CSS styling, an open button trigger, and drag-to-close functionality as the primary interaction pattern.",
+  "_classifiedAt": "2026-04-23T01:54:33.329Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

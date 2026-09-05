@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__dock",
+  "author": "ruixen.ui",
+  "slug": "dock",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/dock",
+  "fetchedAt": "2026-08-29T06:41:07.240Z",
+  "completedAt": "2026-08-29T06:41:09.910Z",
+  "versionedFilename": "code.1758168874244.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/dock/code.1758168874244.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/dock/code.1758168874244.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3703,
+  "sha256": "f8749aaac0a8bb753de8d2ce3375cf501c2f660f0bd0e279be7f6ff486928a13",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

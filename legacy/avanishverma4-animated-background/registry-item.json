@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "avanishverma4-animated-background",
+  "type": "registry:ui",
+  "title": "Avanishverma4 Animated Background",
+  "description": "Installed from https://21st.dev/r/avanishverma4/animated-background",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "avanishverma4-animated-background"
+  ],
+  "files": [
+    {
+      "path": "animated-background.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/avanishverma4/animated-background",
+    "fetchedAt": "2026-04-23T01:18:20.728Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

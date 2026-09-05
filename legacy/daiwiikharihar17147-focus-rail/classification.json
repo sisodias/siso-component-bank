@@ -1,0 +1,35 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "carousel-slider with focus mode",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "click-reveal",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "media",
+    "e-commerce",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Showcasing featured products or portfolio items with immersive focus effect",
+    "Displaying image galleries with smooth spatial transitions on scroll",
+    "Presenting content cards with interactive hover and tap feedback",
+    "Creating product carousels for e-commerce with looping navigation",
+    "Building media galleries with auto-play and manual scroll control"
+  ],
+  "ai_summary": "A spatial focus carousel component featuring a center-focused item with surrounding cards that respond to scroll/wheel navigation. Uses spring physics for smooth scale and position transitions, creating an immersive depth effect. Supports loop navigation, auto-play, and responsive layouts for both desktop and mobile platforms. Ideal for showcasing featured content, products, or portfolio items with interactive hover states and tap feedback animations.",
+  "_classifiedAt": "2026-04-22T08:55:12.118Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

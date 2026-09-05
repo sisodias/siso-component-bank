@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input",
+    "data-display"
+  ],
+  "subcategory": "animated-numeric-counter",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying real-time statistics or metrics on dashboards with animated feedback",
+    "Showing vote counts, likes, or engagement metrics with smooth transitions",
+    "Interactive inventory or stock quantity controls in e-commerce interfaces",
+    "Progress steppers or count indicators in multi-step onboarding flows",
+    "Live analytics counters that update with satisfying spring-based animations"
+  ],
+  "ai_summary": "A dynamic animated counter component that smoothly transitions between numeric values using spring physics from Framer Motion. Features color-transforming backgrounds and text that shift based on the counter value, with subtle scale and rotation animations triggered on each increment or decrement. Includes proper negative number handling and digit-by-digit animation with padded formatting.",
+  "_classifiedAt": "2026-04-23T16:36:17.156Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

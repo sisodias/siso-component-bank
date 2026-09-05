@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@jolbol1/components/slider",
+  "author": "jolbol1",
+  "slug": "slider",
+  "name": "slider",
+  "description": "A slider allows a user to select one or more values within a range.\n\nThe <input type=\"range\"> HTML element can be used to build a slider, however it is very difficult to style cross browser. Slider helps achieve accessible sliders that can be styled as needed.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/jolbol1/slider?api_key=$API_KEY_21ST\"",
+  "id": "jolbol1__slider",
+  "bundleUrl": "https://cdn.21st.dev/bundled/827.html",
+  "previewUrl": "https://cdn.21st.dev/user_jolbol1/slider.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 26,
+  "demo_id": 827,
+  "video_url": "https://cdn.21st.dev/user_jolbol1/slider/827/video.mp4"
+}

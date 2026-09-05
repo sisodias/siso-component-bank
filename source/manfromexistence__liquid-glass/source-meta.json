@@ -1,0 +1,33 @@
+{
+  "id": "manfromexistence__liquid-glass",
+  "author": "manfromexistence",
+  "slug": "liquid-glass",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@manfromexistence/components/liquid-glass",
+  "fetchedAt": "2026-08-29T05:35:32.265Z",
+  "completedAt": "2026-08-29T05:35:34.074Z",
+  "versionedFilename": "code.1785458546925-4d2b94f6-e56e-441d-b3c0-eba5b38f275b.tsx",
+  "codeReference": "r2://components-code-private/manfromexistence/liquid-glass/code.1785458546925-4d2b94f6-e56e-441d-b3c0-eba5b38f275b.tsx",
+  "codeUrl": "https://cdn.21st.dev/manfromexistence/liquid-glass/code.1785458546925-4d2b94f6-e56e-441d-b3c0-eba5b38f275b.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/manfromexistence__liquid-glass/code.tsx",
+    "bytes": 1369,
+    "sha256": "d052b26ac05cf2ee71b86e1863d586f72a0d5bd9fa31426d081bbf5a5eb97510",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "designali-in__bouncing-balls",
+  "author": "designali-in",
+  "slug": "bouncing-balls",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/bouncing-balls",
+  "fetchedAt": "2026-08-29T04:17:04.751Z",
+  "completedAt": "2026-08-29T04:17:06.650Z",
+  "versionedFilename": "code.1785470972076-bef690b0-8068-40c3-977b-b1dc68484c4c.tsx",
+  "codeReference": "r2://components-code-private/designali-in/bouncing-balls/code.1785470972076-bef690b0-8068-40c3-977b-b1dc68484c4c.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/bouncing-balls/code.1785470972076-bef690b0-8068-40c3-977b-b1dc68484c4c.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/designali-in__bouncing-balls/code.tsx",
+    "bytes": 5419,
+    "sha256": "04174ef1c46594968c4d891b6997dbde6b76ee2f73d1dbd0c379fa1d7547e660",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

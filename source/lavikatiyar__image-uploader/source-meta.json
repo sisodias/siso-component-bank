@@ -1,0 +1,26 @@
+{
+  "id": "lavikatiyar__image-uploader",
+  "author": "lavikatiyar",
+  "slug": "image-uploader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@lavikatiyar/components/image-uploader",
+  "fetchedAt": "2026-08-29T05:25:12.150Z",
+  "completedAt": "2026-08-29T05:25:14.033Z",
+  "versionedFilename": "code.1759904867355.tsx",
+  "codeReference": "r2://components-code-private/lavikatiyar/image-uploader/code.1759904867355.tsx",
+  "codeUrl": "https://cdn.21st.dev/lavikatiyar/image-uploader/code.1759904867355.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5903,
+  "sha256": "93878ac79b44ee4f9d528af857462e180147d36b657e70357517ead354aa759d",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

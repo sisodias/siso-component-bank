@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "expandable-play-button",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Video playback controls on media streaming platforms",
+    "Expandable play button for video-first applications and landing pages",
+    "Interactive button that morphs to reveal additional controls on click",
+    "Sleek play button interface for premium SaaS product demos",
+    "Animated button component for mobile and desktop media applications"
+  ],
+  "ai_summary": "A morphing Apple-style play button component that animates from a compact 60px circle to an expanded 330px pill shape when clicked. Built with Framer Motion for smooth spring animations and layout transitions, featuring a minimalist design with subtle opacity and scale effects. Ideal for media platforms, streaming services, and premium SaaS applications requiring elegant interactive controls.",
+  "_classifiedAt": "2026-04-23T01:48:26.851Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

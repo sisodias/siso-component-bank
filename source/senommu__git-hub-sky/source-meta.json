@@ -1,0 +1,26 @@
+{
+  "id": "senommu__git-hub-sky",
+  "author": "senommu",
+  "slug": "git-hub-sky",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@senommu/components/git-hub-sky",
+  "fetchedAt": "2026-08-29T07:00:30.990Z",
+  "completedAt": "2026-08-29T07:00:33.188Z",
+  "versionedFilename": "code.1785312664752-1c43a5f1-a110-4a44-a339-0874c7117dc1.tsx",
+  "codeReference": "r2://components-code-private/senommu/git-hub-sky/code.1785312664752-1c43a5f1-a110-4a44-a339-0874c7117dc1.tsx",
+  "codeUrl": "https://cdn.21st.dev/senommu/git-hub-sky/code.1785312664752-1c43a5f1-a110-4a44-a339-0874c7117dc1.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

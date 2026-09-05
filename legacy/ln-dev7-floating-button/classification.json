@@ -1,0 +1,30 @@
+{
+  "category": "overlay",
+  "subcategory": "expandable floating action menu",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Floating quick-action menu in SaaS dashboards or productivity apps",
+    "Expandable media gallery with blur-to-focus reveal animation",
+    "Floating navigation trigger for mobile-first interfaces",
+    "Creative tool palette for design or editing applications",
+    "E-commerce quick-view floating action for product browsing"
+  ],
+  "ai_summary": "A floating action button component with spring-based animations that expands to reveal a row of circular images. The button rotates 45 degrees when active, while surrounding images transition from blurred and scaled-down to focused and enlarged. Features smooth physics-based transitions and responsive sizing for both mobile and desktop platforms.",
+  "_classifiedAt": "2026-04-23T16:51:58.046Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

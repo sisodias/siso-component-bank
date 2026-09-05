@@ -1,0 +1,34 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "SVG text mask effect with dynamic fill",
+  "visual_style": [
+    "gradient",
+    "colorful"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero sections with custom SVG-filled typography",
+    "Landing pages requiring distinctive text styling",
+    "Marketing sites with animated or gradient text effects",
+    "Creative portfolios showcasing typography experiments",
+    "E-commerce product headers with branded text treatment"
+  ],
+  "ai_summary": "A React component that renders text with an SVG background fill effect using SVG masking techniques. The component measures text dimensions dynamically with ResizeObserver and applies the SVG as a mask behind the text content, creating unique typography effects suitable for hero sections, landing pages, and creative design showcases.",
+  "_classifiedAt": "2026-04-23T17:24:35.767Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

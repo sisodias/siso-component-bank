@@ -1,0 +1,38 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "Button with CVA variants",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Primary call-to-action buttons in forms and pages",
+    "Destructive actions like delete or remove operations",
+    "Secondary actions alongside primary buttons",
+    "Icon-only buttons for compact toolbars and interfaces",
+    "Navigation triggers linking to different routes or sections"
+  ],
+  "ai_summary": "A reusable React button component built with Radix UI Slot and class-variance-authority, offering 6 variants (default, destructive, outline, secondary, ghost, link) and 4 sizes. Features accessible focus states with ring outlines, shadow styling, and full disabled state support. The component uses forwardRef for proper ref handling and supports composition via asChild prop.",
+  "_classifiedAt": "2026-04-23T17:20:57.962Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

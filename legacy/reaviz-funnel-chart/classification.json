@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "funnel-chart",
+  "visual_style": [
+    "gradient",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Visualizing conversion rates across sales pipeline stages",
+    "Tracking customer journey drop-off points in funnels",
+    "Displaying incident response workflow reduction metrics",
+    "Monitoring analytics event funnel progression",
+    "Analyzing user engagement stages from acquisition to resolution"
+  ],
+  "ai_summary": "A dark-to-light purple gradient funnel chart component for visualizing conversion or reduction flows across sequential stages. Built on the Reaviz library with custom styling including glow effects and rounded container design. Displays metrics like event-to-resolution pipelines with interactive tooltips on hover, commonly used in SaaS dashboards for tracking user journeys or incident response workflows.",
+  "_classifiedAt": "2026-04-23T17:14:28.669Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

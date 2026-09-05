@@ -1,0 +1,26 @@
+{
+  "id": "pbracker__brackerparqueinstalado",
+  "author": "pbracker",
+  "slug": "brackerparqueinstalado",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@pbracker/components/brackerparqueinstalado",
+  "fetchedAt": "2026-08-29T06:08:29.451Z",
+  "completedAt": "2026-08-29T06:08:31.748Z",
+  "versionedFilename": "code.1780607701665.tsx",
+  "codeReference": "r2://components-code-private/pbracker/brackerparqueinstalado/code.1780607701665.tsx",
+  "codeUrl": "https://cdn.21st.dev/pbracker/brackerparqueinstalado/code.1780607701665.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 305,
+  "sha256": "6e1b650d277731721e0cbf759feb46e17c0ce9221551850a25294eb4cf607e21",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "action-button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Triggering form submissions in authentication flows",
+    "Navigating between pages or sections via call-to-action buttons",
+    "Performing destructive actions like deletion with variant styling",
+    "Creating ghost-style navigation links within content",
+    "Building icon-only buttons for compact toolbars"
+  ],
+  "ai_summary": "A foundational button component from shadcn/ui with 6 variant options (default, destructive, outline, secondary, ghost, link) and 4 size variants. Built on Radix UI Slot for composition flexibility and uses class-variance-authority for type-safe variant management. Provides accessible focus states and ring styling out of the box.",
+  "_classifiedAt": "2026-04-23T17:27:48.051Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

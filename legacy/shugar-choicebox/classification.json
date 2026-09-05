@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "radio-checkbox-group",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting a single option from a list of choices in a form",
+    "Enabling multiple selections with checkbox behavior",
+    "Building settings or preference interfaces",
+    "Creating survey or quiz selection interfaces",
+    "Displaying selectable plan or feature options"
+  ],
+  "ai_summary": "A reusable Choicebox component that functions as a selection group supporting both radio (single-select) and checkbox (multi-select) behaviors. Each choice item displays a title and description with visual state changes between selected and unselected states using blue accent colors for active states and gray for inactive states. Built with Tailwind CSS for flexible layout direction (row/column) and basic transition animations on state changes.",
+  "_classifiedAt": "2026-04-23T17:29:40.900Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

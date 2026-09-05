@@ -1,0 +1,26 @@
+{
+  "id": "intentui__loader",
+  "author": "intentui",
+  "slug": "loader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@intentui/components/loader",
+  "fetchedAt": "2026-08-29T05:01:05.143Z",
+  "completedAt": "2026-08-29T05:01:07.592Z",
+  "versionedFilename": "code.1756737633134.tsx",
+  "codeReference": "r2://components-code-private/larsen66/loader/code.1756737633134.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/loader/code.1756737633134.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6313,
+  "sha256": "2b6134af5947e5f58ff7b65a8d09a5357eb62c6c5c80a134beeebbf3a969396e",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

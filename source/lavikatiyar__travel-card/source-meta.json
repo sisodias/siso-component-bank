@@ -1,0 +1,26 @@
+{
+  "id": "lavikatiyar__travel-card",
+  "author": "lavikatiyar",
+  "slug": "travel-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@lavikatiyar/components/travel-card",
+  "fetchedAt": "2026-08-29T05:26:00.834Z",
+  "completedAt": "2026-08-29T05:26:03.282Z",
+  "versionedFilename": "code.1758802188072.tsx",
+  "codeReference": "r2://components-code-private/lavikatiyar/travel-card/code.1758802188072.tsx",
+  "codeUrl": "https://cdn.21st.dev/lavikatiyar/travel-card/code.1758802188072.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4005,
+  "sha256": "1d29b7048fdefd4a7a48251d1b0ea9b5a024a8b4f62d02022d02f1d4e4dc3dac",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

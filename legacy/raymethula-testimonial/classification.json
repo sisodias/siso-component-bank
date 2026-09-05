@@ -1,0 +1,30 @@
+{
+  "category": "card",
+  "subcategory": "testimonial-card",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display customer quotes with author attribution on landing pages to build credibility",
+    "Showcase social proof with company logos and author credentials",
+    "Highlight key phrases within testimonials using text emphasis",
+    "Present user feedback in product or service showcase sections",
+    "Build trust through testimonial sections on marketing websites"
+  ],
+  "ai_summary": "A minimalist testimonial component that displays customer quotes with optional company logo, author image, name, position, and highlighted text support. Features responsive design with centered layout, clean typography hierarchy using muted foreground colors, and image optimization via Next.js Image component. Designed for credibility-building sections on landing pages, product pages, or marketing sites across various industries.",
+  "_classifiedAt": "2026-04-23T17:13:58.094Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

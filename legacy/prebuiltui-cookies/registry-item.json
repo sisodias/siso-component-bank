@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "prebuiltui-cookies",
+  "type": "registry:ui",
+  "title": "Prebuiltui Cookies",
+  "description": "Installed from https://21st.dev/r/prebuiltui/cookies",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "prebuiltui-cookies"
+  ],
+  "files": [
+    {
+      "path": "cookies.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/prebuiltui/cookies",
+    "fetchedAt": "2026-04-23T01:17:41.884Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

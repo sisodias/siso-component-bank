@@ -1,0 +1,28 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Triggering form submissions and actions in web applications",
+    "Providing clickable CTAs with multiple visual styles",
+    "Enabling accessible button interactions with focus states",
+    "Using variant props for contextual button styling"
+  ],
+  "ai_summary": "A flexible button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, small, large, icon). Built with Radix UI Slot for composition, CVA for variant management, and includes accessibility features like focus-visible outlines and disabled states. Supports shadow effects and hover transitions for polished interactive experiences.",
+  "_classifiedAt": "2026-04-23T17:32:18.651Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

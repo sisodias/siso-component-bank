@@ -1,0 +1,26 @@
+{
+  "id": "theorcdev__8bit-cta1",
+  "author": "theorcdev",
+  "slug": "8bit-cta1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theorcdev/components/8bit-cta1",
+  "fetchedAt": "2026-08-29T07:32:24.593Z",
+  "completedAt": "2026-08-29T07:32:27.311Z",
+  "versionedFilename": "code.1780283999649.tsx",
+  "codeReference": "r2://components-code-private/larsen66/8bit-cta1/code.1780283999649.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/8bit-cta1/code.1780283999649.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2801,
+  "sha256": "e6c9cf116ee912a2e487ab3ca55baf26c196bf33a4098ecb4078d0ac7c5dc65e",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,30 @@
+{
+  "category": "hero",
+  "subcategory": "floating-image-collage",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero sections with visual product or portfolio showcase",
+    "Company homepage headers with statistics and imagery",
+    "Product launch pages featuring floating image galleries",
+    "Creative agency or portfolio landing pages with animated elements",
+    "E-commerce category pages with featured product imagery"
+  ],
+  "ai_summary": "A modern hero section component featuring a floating image collage with CSS-based animation effects. The component accepts a title, subtitle, statistics array, and image gallery, rendering them in a responsive layout optimized for landing pages. The floating animation creates subtle depth through translation and shadow changes, making it suitable for product showcases, portfolios, and SaaS landing pages requiring visual emphasis.",
+  "_classifiedAt": "2026-04-23T17:12:54.512Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

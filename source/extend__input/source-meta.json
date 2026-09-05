@@ -1,0 +1,26 @@
+{
+  "id": "extend__input",
+  "author": "extend",
+  "slug": "input",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@extend/components/input",
+  "fetchedAt": "2026-08-29T04:46:32.329Z",
+  "completedAt": "2026-08-29T04:46:34.487Z",
+  "versionedFilename": "code.1782164832296.tsx",
+  "codeReference": "r2://components-code-private/larsen66/input/code.1782164832296.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/input/code.1782164832296.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2975,
+  "sha256": "577122306b605feaa54539d32d9fe93fc8615adfa8e2ba58aa770678b2c1f534",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

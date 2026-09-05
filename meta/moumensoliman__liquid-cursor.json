@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@moumensoliman/components/liquid-cursor",
+  "author": "moumensoliman",
+  "slug": "liquid-cursor",
+  "name": "liquid-cursor",
+  "description": "Pointer-following liquid cursor effect: a fixed full-screen canvas overlay paints colored particles along the mouse path and runs them through an SVG gooey filter for a smooth, blob-like trail.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/moumensoliman/liquid-cursor?api_key=$API_KEY_21ST\"",
+  "id": "moumensoliman__liquid-cursor",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/liquid-cursor/default/bundle.1778274194439.html",
+  "previewUrl": "https://cdn.21st.dev/reapollo/liquid-cursor/default/preview.1777655406113.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

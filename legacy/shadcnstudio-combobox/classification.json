@@ -1,0 +1,37 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "media",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying user profile pictures in navigation headers and sidebars",
+    "Showing user avatars in comment sections or review threads",
+    "Displaying profile pictures in user cards or member lists",
+    "User identification in chat, messaging, or collaboration interfaces",
+    "Avatar display in social media feeds and activity logs"
+  ],
+  "ai_summary": "A minimalist avatar component built with Radix UI primitives that displays user profile images in a circular container with automatic fallback to a muted background when images fail to load. Provides Avatar, AvatarImage, and AvatarFallback subcomponents for flexible composition and graceful degradation.",
+  "_classifiedAt": "2026-04-22T09:16:00.814Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

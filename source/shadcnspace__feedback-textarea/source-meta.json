@@ -1,0 +1,26 @@
+{
+  "id": "shadcnspace__feedback-textarea",
+  "author": "shadcnspace",
+  "slug": "feedback-textarea",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcnspace/components/feedback-textarea",
+  "fetchedAt": "2026-08-29T07:11:27.647Z",
+  "completedAt": "2026-08-29T07:11:30.248Z",
+  "versionedFilename": "code.1772710050698.tsx",
+  "codeReference": "r2://components-code-private/larsen66/feedback-textarea/code.1772710050698.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/feedback-textarea/code.1772710050698.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1068,
+  "sha256": "b0e076220583d37e2a42142329254915e1d973389e26c643d0e62f3a43b1130b",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

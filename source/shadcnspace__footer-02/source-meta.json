@@ -1,0 +1,26 @@
+{
+  "id": "shadcnspace__footer-02",
+  "author": "shadcnspace",
+  "slug": "footer-02",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcnspace/components/footer-02",
+  "fetchedAt": "2026-08-29T07:11:34.254Z",
+  "completedAt": "2026-08-29T07:11:36.464Z",
+  "versionedFilename": "code.1784817129749-5e7d1f30-5e38-4e39-abe5-477372660855.tsx",
+  "codeReference": "r2://components-code-private/shadcnspace/footer-02/code.1784817129749-5e7d1f30-5e38-4e39-abe5-477372660855.tsx",
+  "codeUrl": "https://cdn.21st.dev/shadcnspace/footer-02/code.1784817129749-5e7d1f30-5e38-4e39-abe5-477372660855.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

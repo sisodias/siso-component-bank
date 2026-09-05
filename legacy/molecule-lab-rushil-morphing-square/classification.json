@@ -1,0 +1,31 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "morphing loading spinner",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display a continuous loading animation while waiting for async operations",
+    "Indicate processing state during form submissions",
+    "Show progress indicator for data fetching in dashboards",
+    "Provide visual feedback during page transitions",
+    "Use as a loading state for any UI component awaiting data"
+  ],
+  "ai_summary": "A lightweight morphing loading spinner component that displays an animated square continuously morphing its shape between rounded and circular states while rotating. Built with Framer Motion for smooth CSS animations, it supports flexible message placement around the spinner for contextual loading labels.",
+  "_classifiedAt": "2026-04-23T17:00:59.385Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

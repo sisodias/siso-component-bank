@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "text-input",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Text entry fields in web forms and applications",
+    "Search input with clean UX patterns",
+    "File upload input with styled button",
+    "Login and authentication forms",
+    "Contact and feedback forms"
+  ],
+  "ai_summary": "A reusable styled input component with search and file type support, following shadcn/ui conventions. Features focus ring accessibility, disabled states, and clean shadow effects. Designed as a foundational form component for building larger input systems in SaaS, fintech, and dev-tool applications.",
+  "_classifiedAt": "2026-04-23T01:51:25.749Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

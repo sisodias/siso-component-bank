@@ -1,0 +1,26 @@
+{
+  "id": "ivlev.danich__profile-card",
+  "author": "ivlev.danich",
+  "slug": "profile-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ivlev.danich/components/profile-card",
+  "fetchedAt": "2026-08-29T05:04:59.081Z",
+  "completedAt": "2026-08-29T05:05:01.255Z",
+  "versionedFilename": "code.1768848888137.tsx",
+  "codeReference": "r2://components-code-private/ivlev.danich/profile-card/code.1768848888137.tsx",
+  "codeUrl": "https://cdn.21st.dev/ivlev.danich/profile-card/code.1768848888137.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5591,
+  "sha256": "c2d236d0c1e363275804551b90d7f1000603884b4dc8d10f460565bb745b8307",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

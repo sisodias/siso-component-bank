@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "singla2125ji-futuristic-file-uploader",
+  "type": "registry:ui",
+  "title": "Singla2125ji Futuristic File Uploader",
+  "description": "Installed from https://21st.dev/r/singla2125ji/futuristic-file-uploader",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "singla2125ji-futuristic-file-uploader"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "futuristic-file-uploader.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/singla2125ji/futuristic-file-uploader",
+    "fetchedAt": "2026-04-23T03:04:49.391Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

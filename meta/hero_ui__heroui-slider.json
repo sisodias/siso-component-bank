@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@hero_ui/components/heroui-slider",
+  "author": "hero_ui",
+  "slug": "heroui-slider",
+  "name": "heroui-slider",
+  "description": "Accessible slider from HeroUI v3 for selecting one or more values within a range. Compound API (Slider.Track / Slider.Fill / Slider.Thumb / Slider.Output) with single-value, range, vertical and disabled variants, currency and custom value formatting, full keyboard and screen-reader support. Built on React Aria.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/hero_ui/heroui-slider?api_key=$API_KEY_21ST\"",
+  "id": "hero_ui__heroui-slider",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/heroui-slider/default/bundle.1782131832827.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/heroui-slider/default/preview.1782131832827.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "category": "data-display",
+  "subcategory": "live-clock",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying real-time current time with date in glass-morphism styled dashboards",
+    "Providing a live clock widget for SaaS application interfaces",
+    "Showing local time with timezone information for global teams",
+    "Adding a minimalist time display element to landing pages",
+    "Integrating as a live clock card in digital signage or kiosk interfaces"
+  ],
+  "ai_summary": "A glass-morphism styled real-time clock card that displays current time and date with optional seconds and timezone support. Features frosted glass aesthetic with backdrop blur, semi-transparent backgrounds, and subtle white borders. Updates every second using React hooks with timezone detection via Intl API. Ideal for modern SaaS dashboards and fintech interfaces requiring elegant time display elements.",
+  "_classifiedAt": "2026-04-23T17:03:40.255Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

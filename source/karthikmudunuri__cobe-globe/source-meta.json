@@ -1,0 +1,26 @@
+{
+  "id": "karthikmudunuri__cobe-globe",
+  "author": "karthikmudunuri",
+  "slug": "cobe-globe",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@karthikmudunuri/components/cobe-globe",
+  "fetchedAt": "2026-08-29T05:13:40.649Z",
+  "completedAt": "2026-08-29T05:13:43.082Z",
+  "versionedFilename": "code.1762087312224.tsx",
+  "codeReference": "r2://components-code-private/karthikmudunuri/cobe-globe/code.1762087312224.tsx",
+  "codeUrl": "https://cdn.21st.dev/karthikmudunuri/cobe-globe/code.1762087312224.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 13974,
+  "sha256": "dfaf47ebdc297937abab18d5410cb31e136de4c0a51fef22d3f006567842b8c1",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

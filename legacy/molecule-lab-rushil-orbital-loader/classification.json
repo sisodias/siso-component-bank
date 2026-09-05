@@ -1,0 +1,31 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "orbital-spinner",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Indicating loading states during data fetching operations",
+    "Showing progress feedback during form submissions",
+    "Displaying loading during page or route transitions",
+    "Signaling ongoing API or backend requests",
+    "Providing visual feedback during asynchronous tasks"
+  ],
+  "ai_summary": "A minimalist orbital loader component featuring three concentric spinning rings that rotate in opposite directions at varying speeds. Built with Framer Motion for smooth continuous animation and supports optional message placement around the spinner.",
+  "_classifiedAt": "2026-04-23T17:01:11.422Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

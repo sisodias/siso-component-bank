@@ -1,0 +1,26 @@
+{
+  "category": "input",
+  "subcategory": "counter-stepper",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Numeric value selection with increment/decrement buttons",
+    "Simple counter UI for tracking quantities",
+    "Stepper control for form inputs",
+    "Interactive number display for demos and prototypes",
+    "Basic state management example component"
+  ],
+  "ai_summary": "A minimalist counter component featuring increment and decrement buttons that update a displayed numeric value. Built with React hooks for simple state management, it demonstrates basic click-based interactions and serves as a foundation for more complex input controls like steppers or quantity selectors.",
+  "_classifiedAt": "2026-04-22T09:05:55.002Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

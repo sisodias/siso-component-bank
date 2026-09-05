@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "pate1kiran-code-pen-home-skeuomorphism-in-the-dark-button",
+  "type": "registry:ui",
+  "title": "Pate1kiran Code Pen Home Skeuomorphism In The Dark Button",
+  "description": "Installed from https://21st.dev/r/pate1kiran/code-pen-home-skeuomorphism-in-the-dark-button",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "pate1kiran-code-pen-home-skeuomorphism-in-the-dark-button"
+  ],
+  "files": [
+    {
+      "path": "code-pen-home-skeuomorphism-in-the-dark-button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/pate1kiran/code-pen-home-skeuomorphism-in-the-dark-button",
+    "fetchedAt": "2026-04-23T02:30:01.005Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

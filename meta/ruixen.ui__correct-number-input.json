@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/correct-number-input",
+  "author": "ruixen.ui",
+  "slug": "correct-number-input",
+  "name": "correct-number-input",
+  "description": "This is a sleek, minimal number input with custom chevron buttons and a floating label. It hides the browser’s default arrows, keeps the label clean, and ensures 0 doesn’t overlap, working seamlessly in both light and dark themes.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/correct-number-input?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__correct-number-input",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/correct-number-input/default/bundle.1755965925490.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/correct-number-input/default/preview.1755965925490.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

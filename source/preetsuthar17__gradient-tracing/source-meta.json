@@ -1,0 +1,33 @@
+{
+  "id": "preetsuthar17__gradient-tracing",
+  "author": "preetsuthar17",
+  "slug": "gradient-tracing",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@preetsuthar17/components/gradient-tracing",
+  "fetchedAt": "2026-08-29T06:13:21.245Z",
+  "completedAt": "2026-08-29T06:13:22.445Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/preetsuthar17__gradient-tracing/code.tsx",
+    "bytes": 1796,
+    "sha256": "ce3ea355f0aec5216c2562541203aea23bb4535a5ded256da4fe07092ffdd4f0",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

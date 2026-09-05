@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/voice-message-bubble",
+  "author": "ruixen.ui",
+  "slug": "voice-message-bubble",
+  "name": "voice-message-bubble",
+  "description": "The Voice Message Bubble component is a sleek, chat-style audio player designed for messaging apps. It features a compact bubble layout with a play/pause button using lucide-react icons, a minimalist black-and-white waveform visualization, and a real-time progress overlay. Users can click on the waveform to seek through the audio, and the component accepts configurable props for bubble color, waveform color, audio source, and duration. Designed with Shadcn UI principles, it ensures a clean, modern, and theme-aware interface that integrates seamlessly into both light and dark layouts. This makes it ideal for voice notes, notifications, or short audio messages in any chat or social application.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/voice-message-bubble?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__voice-message-bubble",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/voice-message-bubble/default/bundle.1758700533572.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/voice-message-bubble/default/preview.1758700533572.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 36,
+  "demo_id": 7983,
+  "video_url": null
+}

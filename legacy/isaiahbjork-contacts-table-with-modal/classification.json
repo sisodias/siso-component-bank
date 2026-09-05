@@ -1,0 +1,28 @@
+{
+  "category": "data-display",
+  "subcategory": "contacts-table",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying and managing a searchable list of professional contacts with connection strength indicators",
+    "Showing detailed contact information in an animated modal overlay on click",
+    "Filtering contacts by connection strength and sorting by Twitter followers",
+    "Providing dark/light theme support for contacts management interfaces",
+    "Enabling contact selection callbacks for CRM or networking applications"
+  ],
+  "ai_summary": "A sophisticated contacts table component with modal detail view, featuring connection strength visualization, sorting capabilities, and smooth Framer Motion animations. Supports dark/light theme modes and includes export functionality. Ideal for SaaS platforms, CRM systems, or networking applications requiring contact management with relationship tracking.",
+  "_classifiedAt": "2026-04-22T08:59:56.802Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

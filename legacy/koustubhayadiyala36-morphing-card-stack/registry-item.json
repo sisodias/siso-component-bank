@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "koustubhayadiyala36-morphing-card-stack",
+  "type": "registry:ui",
+  "title": "Koustubhayadiyala36 Morphing Card Stack",
+  "description": "Installed from https://21st.dev/r/koustubhayadiyala36/morphing-card-stack",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "koustubhayadiyala36-morphing-card-stack"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "morphing-card-stack.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/koustubhayadiyala36/morphing-card-stack",
+    "fetchedAt": "2026-04-22T06:42:54.335Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

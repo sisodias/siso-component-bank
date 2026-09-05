@@ -1,0 +1,26 @@
+{
+  "id": "coss.com__coss-badge",
+  "author": "coss.com",
+  "slug": "coss-badge",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@coss.com/components/coss-badge",
+  "fetchedAt": "2026-08-29T04:02:17.021Z",
+  "completedAt": "2026-08-29T04:02:18.657Z",
+  "versionedFilename": "code.1773932296418.tsx",
+  "codeReference": "r2://components-code-private/coss.com/coss-badge/code.1773932296418.tsx",
+  "codeUrl": "https://cdn.21st.dev/coss.com/coss-badge/code.1773932296418.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2802,
+  "sha256": "3df6b1b0365270227afd7a45440ac81a8d3b64af4cb39071371717871a0eb3b3",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

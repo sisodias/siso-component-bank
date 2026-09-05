@@ -1,0 +1,26 @@
+{
+  "id": "daiwiikharihar__matrix-text",
+  "author": "daiwiikharihar",
+  "slug": "matrix-text",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@daiwiikharihar/components/matrix-text",
+  "fetchedAt": "2026-08-29T04:06:10.770Z",
+  "completedAt": "2026-08-29T04:06:12.720Z",
+  "versionedFilename": "code.1785649070562-be9a1eaf-aec0-4a58-b746-5d312c3becf5.tsx",
+  "codeReference": "r2://components-code-private/daiwiikharihar/matrix-text/code.1785649070562-be9a1eaf-aec0-4a58-b746-5d312c3becf5.tsx",
+  "codeUrl": "https://cdn.21st.dev/daiwiikharihar/matrix-text/code.1785649070562-be9a1eaf-aec0-4a58-b746-5d312c3becf5.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

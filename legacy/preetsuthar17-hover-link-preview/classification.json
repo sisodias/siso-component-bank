@@ -1,0 +1,28 @@
+{
+  "category": "overlay",
+  "subcategory": "link-preview-tooltip",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Previewing article thumbnails or link destinations before clicking",
+    "Showing product images on hover for e-commerce link listings",
+    "Displaying rich link previews in documentation or wikis",
+    "Enhancing blog posts or news sites with hover-based content previews",
+    "Adding interactive link previews to dashboard navigation menus"
+  ],
+  "ai_summary": "A hover-based link preview component that displays a floating image preview above links with smooth spring animations. The preview follows the cursor position and applies a subtle rotation effect based on horizontal mouse movement for a dynamic, interactive feel. Built with framer-motion for natural motion physics.",
+  "_classifiedAt": "2026-04-23T17:08:10.457Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

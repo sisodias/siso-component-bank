@@ -1,0 +1,33 @@
+{
+  "category": [
+    "overlay",
+    "feedback"
+  ],
+  "subcategory": "notification-bell-dropdown",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display user notifications with avatars in a dropdown popover",
+    "Show notification count status with animated ping indicator",
+    "Allow users to clear individual or all notifications",
+    "Provide timestamp context for notification items",
+    "Serve as a notification center in navigation headers"
+  ],
+  "ai_summary": "A notification bell component with a dropdown popover that displays notification items with user avatars, messages, and timestamps. Features a blinking status indicator, clear all functionality, and scrollable notification list. Built as a composite component using Avatar, Button, and Popover primitives.",
+  "_classifiedAt": "2026-04-23T01:48:58.184Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

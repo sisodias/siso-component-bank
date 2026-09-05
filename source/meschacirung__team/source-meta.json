@@ -1,0 +1,26 @@
+{
+  "id": "meschacirung__team",
+  "author": "meschacirung",
+  "slug": "team",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@meschacirung/components/team",
+  "fetchedAt": "2026-08-29T05:41:53.973Z",
+  "completedAt": "2026-08-29T05:41:56.354Z",
+  "versionedFilename": "code.1753820574078.tsx",
+  "codeReference": "r2://components-code-private/larsen66/team/code.1753820574078.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/team/code.1753820574078.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3789,
+  "sha256": "9983b5294ce011dcb93ccd7a54b27b652c93f224c75705fb250401216e1e69da",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

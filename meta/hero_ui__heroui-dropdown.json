@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@hero_ui/components/heroui-dropdown",
+  "author": "hero_ui",
+  "slug": "heroui-dropdown",
+  "name": "heroui-dropdown",
+  "description": "Accessible dropdown menu built on React Aria, from HeroUI v3. A trigger-anchored popover menu supporting plain actions, leading icons, descriptions, keyboard shortcuts (Kbd), grouped sections with headers and separators, disabled items, single and multiple selection with check indicators, a controlled selected state, a danger/destructive variant, and a custom avatar trigger. Full keyboard navigation, typeahead, and focus management. Compound API: Dropdown / Dropdown.Trigger / Dropdown.Popover / Dropdown.Menu / Dropdown.Item / Dropdown.Section / Dropdown.ItemIndicator + Label / Header / Description / Separator / Kbd / Avatar.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/hero_ui/heroui-dropdown?api_key=$API_KEY_21ST\"",
+  "id": "hero_ui__heroui-dropdown",
+  "bundleUrl": "https://cdn.21st.dev/hero_ui/heroui-dropdown/default/bundle.1782324392000.html",
+  "previewUrl": "https://cdn.21st.dev/hero_ui/heroui-dropdown/default/preview.1782324392000.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 7,
+  "demo_id": 14338,
+  "video_url": "https://cdn.21st.dev/hero_ui/heroui-dropdown/with-sections/video.1782324392000.mp4"
+}

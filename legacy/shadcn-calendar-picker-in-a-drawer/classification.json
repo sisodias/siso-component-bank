@@ -1,0 +1,35 @@
+{
+  "category": [
+    "overlay",
+    "input"
+  ],
+  "subcategory": "calendar-picker-drawer",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting dates for appointment scheduling in a modal overlay",
+    "Choosing delivery or booking dates in e-commerce checkout flows",
+    "Picking date ranges for analytics filters in dashboards",
+    "Setting event dates in calendar-based productivity tools",
+    "Scheduling resource bookings in project management apps"
+  ],
+  "ai_summary": "A shadcn/ui calendar picker component that opens within a drawer overlay for date selection. Features minimalist flat styling with click-to-reveal drawer interaction and hover states on calendar cells. Suitable for SaaS, e-commerce, and healthcare applications requiring inline date picking without navigating to a separate page.",
+  "_classifiedAt": "2026-04-23T17:26:03.518Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

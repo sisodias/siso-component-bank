@@ -1,0 +1,36 @@
+{
+  "category": [
+    "form"
+  ],
+  "subcategory": "scheduling-booking",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "healthcare",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Scheduling meetings with clients or team members",
+    "Booking appointments for consultations or services",
+    "Setting up product demos or sales calls",
+    "Organizing calendar events and time slots",
+    "Arranging video calls with integrated time picker"
+  ],
+  "ai_summary": "A Meeting Scheduler component featuring a clean, functional interface for selecting dates and times to book meetings. Built with shadcn/ui Button primitives and Radix UI Slot for composability. Designed for professional scheduling workflows with a minimalist aesthetic that works across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-22T09:02:29.980Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

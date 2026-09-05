@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "profile-card-testimonial-carousel",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying client testimonials in an auto-rotating or user-controlled carousel format",
+    "Showcasing team member profiles with social media links for credibility",
+    "Building trust through social proof on landing pages or portfolio sections",
+    "Featuring professional endorsements on business or product marketing sites",
+    "Presenting rotating success stories with smooth animated transitions"
+  ],
+  "ai_summary": "A profile card testimonial carousel component that displays professional testimonials in a sliding card format with smooth Framer Motion animations. Each card features a profile image, name, title, description, and social media links. Navigation is handled via ChevronLeft/ChevronRight buttons with AnimatePresence for seamless transitions. Ideal for SaaS landing pages, portfolio sections, and product marketing sites to build credibility through rotating client endorsements.",
+  "_classifiedAt": "2026-04-23T11:31:12.172Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

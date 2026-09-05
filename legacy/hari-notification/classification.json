@@ -1,0 +1,34 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "notification-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying user notifications with animated entrance effects and staggered reveals",
+    "Showing AI-generated updates or alerts with timeline-style visual hierarchy",
+    "Presenting earnings summaries or financial notifications with professional styling",
+    "Delivering multi-step information reveals with smooth Framer Motion transitions",
+    "Providing accessible alerts using ARIA role='alert' and aria-live attributes"
+  ],
+  "ai_summary": "An animated notification card component featuring smooth entrance animations with staggered reveals using Framer Motion. The component displays AI assistant information with a timeline-style visual structure, earnings data, and customizable props. Includes accessibility support with proper ARIA attributes for screen readers, making it suitable for SaaS dashboards, fintech applications, and notification systems requiring visual polish and smooth micro-interactions.",
+  "_classifiedAt": "2026-04-23T16:41:45.681Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

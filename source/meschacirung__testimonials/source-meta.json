@@ -1,0 +1,26 @@
+{
+  "id": "meschacirung__testimonials",
+  "author": "meschacirung",
+  "slug": "testimonials",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@meschacirung/components/testimonials",
+  "fetchedAt": "2026-08-29T05:41:56.369Z",
+  "completedAt": "2026-08-29T05:41:58.435Z",
+  "versionedFilename": "code.1753820942759.tsx",
+  "codeReference": "r2://components-code-private/larsen66/testimonials/code.1753820942759.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/testimonials/code.1753820942759.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7662,
+  "sha256": "b2ccbd7a46910a2e27303d68f4bc863ad9a36ee33b712a4f30e53af1e4a64928",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,18 @@
+{
+  "url": "https://21st.dev/@tr.aitbaha/components/barcodescaninput",
+  "author": "tr.aitbaha",
+  "slug": "barcodescaninput",
+  "name": "barcodescaninput",
+  "description": "Auto-focusing barcode input for hardware scanners (keyboard-wedge): captures the scanned code on Enter and fires onScan, refocusing for rapid back-to-back scans. Works for manual entry too.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/tr.aitbaha/barcodescaninput?api_key=$API_KEY_21ST\"",
+  "id": "tr.aitbaha__barcodescaninput",
+  "bundleUrl": "https://cdn.21st.dev/tr.aitbaha/barcodescaninput/default/bundle.1782425852474.html",
+  "previewUrl": null,
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "preview": "preview.png",
+  "previewVia": "ogCard"
+}

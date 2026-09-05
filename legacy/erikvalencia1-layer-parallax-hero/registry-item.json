@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "erikvalencia1-layer-parallax-hero",
+  "type": "registry:ui",
+  "title": "Erikvalencia1 Layer Parallax Hero",
+  "description": "Installed from https://21st.dev/r/erikvalencia1/layer-parallax-hero",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "erikvalencia1-layer-parallax-hero"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "layer-parallax-hero.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/erikvalencia1/layer-parallax-hero",
+    "fetchedAt": "2026-04-22T06:44:56.883Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

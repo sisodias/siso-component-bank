@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "abhinavcdev-interactive-portfolio-terminal-component",
+  "type": "registry:ui",
+  "title": "Abhinavcdev Interactive Portfolio Terminal Component",
+  "description": "Installed from https://21st.dev/r/abhinavcdev/interactive-portfolio-terminal-component",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "abhinavcdev-interactive-portfolio-terminal-component"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "interactive-portfolio-terminal-component.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/abhinavcdev/interactive-portfolio-terminal-component",
+    "fetchedAt": "2026-04-23T02:28:54.362Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

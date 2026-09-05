@@ -1,0 +1,26 @@
+{
+  "id": "lavikatiyar__hero-section",
+  "author": "lavikatiyar",
+  "slug": "hero-section",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@lavikatiyar/components/hero-section",
+  "fetchedAt": "2026-08-29T05:25:09.611Z",
+  "completedAt": "2026-08-29T05:25:12.136Z",
+  "versionedFilename": "code.1760260924812.tsx",
+  "codeReference": "r2://components-code-private/lavikatiyar/hero-section/code.1760260924812.tsx",
+  "codeUrl": "https://cdn.21st.dev/lavikatiyar/hero-section/code.1760260924812.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4161,
+  "sha256": "bb22d5b73dea74550738b0c476003185728ec7613ced84ec079080add3d0f0d7",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

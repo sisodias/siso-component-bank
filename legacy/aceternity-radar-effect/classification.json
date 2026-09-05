@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "radar-visualization",
+  "visual_style": [
+    "gradient",
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Dashboard metrics visualization for monitoring active users or system status",
+    "Scanning interface for location-based services or device detection",
+    "Network status indicators showing connection strength or coverage area",
+    "Security monitoring displays for threat detection interfaces",
+    "Survey or polling visualizations showing response distribution"
+  ],
+  "ai_summary": "A radar effect visualization component featuring a rotating sweep line with gradient styling and concentric circles that animate outward from the center. Built with Framer Motion for smooth entrance animations and CSS keyframes for the continuous radar sweep. The component is commonly used in SaaS dashboards and dev-tools interfaces to represent scanning, monitoring, or location-based data in a visually engaging way.",
+  "_classifiedAt": "2026-04-22T08:51:05.281Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

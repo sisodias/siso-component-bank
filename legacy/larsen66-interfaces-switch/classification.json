@@ -1,0 +1,38 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "toggle-switch",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Toggle settings and preferences on or off in user dashboards",
+    "Enable or disable features like notifications, dark mode, or auto-save",
+    "Collect binary yes/no selections in forms and settings panels",
+    "Use as a modern alternative to checkboxes for boolean states",
+    "Control app state in settings pages and configuration interfaces"
+  ],
+  "ai_summary": "A lightweight toggle switch component built on Radix UI primitives with accessible focus states and keyboard navigation support. Features state-based styling through Tailwind data attributes for checked/unchecked states, with built-in dark mode support via semantic color tokens. Designed as a reusable atomic component for boolean input in forms, settings, and configuration UIs.",
+  "_classifiedAt": "2026-04-22T09:04:03.385Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

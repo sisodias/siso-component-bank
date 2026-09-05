@@ -1,0 +1,33 @@
+{
+  "id": "preetsuthar17__animated-underline",
+  "author": "preetsuthar17",
+  "slug": "animated-underline",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@preetsuthar17/components/animated-underline",
+  "fetchedAt": "2026-08-29T06:12:10.563Z",
+  "completedAt": "2026-08-29T06:12:11.780Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/preetsuthar17__animated-underline/code.tsx",
+    "bytes": 422,
+    "sha256": "a614458b68581955b98f2f29d81217049943f701b86787f2448056fa95ac83ed",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

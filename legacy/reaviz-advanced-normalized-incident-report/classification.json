@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "incident-analytics-dashboard",
+  "visual_style": [
+    "gradient",
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Monitoring and visualizing incident metrics across different time periods with normalized stacked area charts",
+    "Comparing incident trends and percentage changes with animated CountUp statistics and trend indicators",
+    "Displaying multi-series incident data with interactive time period filtering for operational analytics",
+    "Dashboard analytics for DevOps and SRE teams tracking system reliability metrics",
+    "Real-time incident reporting with visual trend analysis for SaaS operations teams"
+  ],
+  "ai_summary": "An advanced incident reporting dashboard featuring a stacked normalized area chart from the reaviz library, paired with animated statistics and trend indicators. Includes time period filtering, legend controls, and detailed metric breakdowns with CountUp animations. Designed for monitoring operational incidents and system reliability metrics in SaaS and DevOps environments.",
+  "_classifiedAt": "2026-04-23T17:14:01.680Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

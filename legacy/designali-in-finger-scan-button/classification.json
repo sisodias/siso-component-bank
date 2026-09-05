@@ -1,0 +1,28 @@
+{
+  "category": "input",
+  "subcategory": "biometric-button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "healthcare",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Biometric user authentication in login flows",
+    "Secure identity verification for healthcare portals",
+    "Two-factor authentication buttons for security-conscious apps",
+    "Fingerprint scanning UI for access control systems"
+  ],
+  "ai_summary": "A fingerprint scanning button component with animated visual feedback during biometric capture. Features a pulsing fingerprint icon, ping border animation, and loading dots to indicate active scanning state. Designed for biometric authentication interfaces requiring secure user identity verification.",
+  "_classifiedAt": "2026-04-23T16:30:53.456Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

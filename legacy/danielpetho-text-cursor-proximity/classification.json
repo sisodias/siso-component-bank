@@ -1,0 +1,32 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "cursor-proximity-text",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive text effects on landing pages where letters animate based on cursor proximity",
+    "Proximity-based typography highlights for creative portfolio sites",
+    "Cursor-following text transformations in hero sections",
+    "Visual feedback for interactive headings or call-to-action text",
+    "Engaging text animations for marketing or presentation materials"
+  ],
+  "ai_summary": "TextCursorProximity is an interactive React component that animates individual letters of text based on mouse cursor proximity. Each letter dynamically changes CSS properties like color, scale, or opacity as the cursor approaches, with configurable falloff algorithms (linear, exponential, gaussian) and a customizable radius. The component uses motion/react for smooth animations and integrates with a custom mouse position hook for real-time tracking.",
+  "_classifiedAt": "2026-04-23T16:29:17.896Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

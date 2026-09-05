@@ -1,0 +1,26 @@
+{
+  "id": "user_xn1cklas__weather-card",
+  "author": "user_xn1cklas",
+  "slug": "weather-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@user_xn1cklas/components/weather-card",
+  "fetchedAt": "2026-08-29T07:53:03.394Z",
+  "completedAt": "2026-08-29T07:53:05.592Z",
+  "versionedFilename": "code.1757008325438.tsx",
+  "codeReference": "r2://components-code-private/larsen66/weather-card/code.1757008325438.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/weather-card/code.1757008325438.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2314,
+  "sha256": "53a678b96394353f50ffd9f476ec175789d14d9499d9f6cac5f350c0a7aa9253",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

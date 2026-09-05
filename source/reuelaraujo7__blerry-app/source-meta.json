@@ -1,0 +1,26 @@
+{
+  "id": "reuelaraujo7__blerry-app",
+  "author": "reuelaraujo7",
+  "slug": "blerry-app",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@reuelaraujo7/components/blerry-app",
+  "fetchedAt": "2026-08-29T06:34:57.373Z",
+  "completedAt": "2026-08-29T06:34:59.271Z",
+  "versionedFilename": "code.1786472746129-057472cb-a95e-4dee-b2a4-2aa78efc415a.tsx",
+  "codeReference": "r2://components-code-private/reuelaraujo7/blerry-app/code.1786472746129-057472cb-a95e-4dee-b2a4-2aa78efc415a.tsx",
+  "codeUrl": "https://cdn.21st.dev/reuelaraujo7/blerry-app/code.1786472746129-057472cb-a95e-4dee-b2a4-2aa78efc415a.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

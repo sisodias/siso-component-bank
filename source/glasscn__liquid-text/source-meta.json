@@ -1,0 +1,26 @@
+{
+  "id": "glasscn__liquid-text",
+  "author": "glasscn",
+  "slug": "liquid-text",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@glasscn/components/liquid-text",
+  "fetchedAt": "2026-08-29T04:51:59.132Z",
+  "completedAt": "2026-08-29T04:52:01.088Z",
+  "versionedFilename": "code.1784681126981-7ab001c6-f5fd-4378-a767-b74231b78e25.tsx",
+  "codeReference": "r2://components-code-private/glasscn/liquid-text/code.1784681126981-7ab001c6-f5fd-4378-a767-b74231b78e25.tsx",
+  "codeUrl": "https://cdn.21st.dev/glasscn/liquid-text/code.1784681126981-7ab001c6-f5fd-4378-a767-b74231b78e25.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "extend__bounding-box-citations",
+  "author": "extend",
+  "slug": "bounding-box-citations",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@extend/components/bounding-box-citations",
+  "fetchedAt": "2026-08-29T04:46:25.779Z",
+  "completedAt": "2026-08-29T04:46:27.440Z",
+  "versionedFilename": "code.1782172557619.tsx",
+  "codeReference": "r2://components-code-private/larsen66/bounding-box-citations/code.1782172557619.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/bounding-box-citations/code.1782172557619.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 66663,
+  "sha256": "77965731d471d1176077176b56bc2efffde8e873ce737d38bd829e4313b89b77",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "datetime-picker",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Date and time selection in booking or scheduling forms",
+    "Birthday or anniversary date entry in user profiles",
+    "Event scheduling and appointment booking interfaces",
+    "Time tracking and logging in productivity applications",
+    "Form validation for date-related user inputs"
+  ],
+  "ai_summary": "A composite datetime input component featuring segment-based navigation with keyboard support and focus management. Uses React context for coordinating multiple date/time segments (day, month, year, hour, minute), enabling seamless tab navigation and intuitive date/time entry. Designed for integration into forms across various web applications.",
+  "_classifiedAt": "2026-04-23T16:42:27.630Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

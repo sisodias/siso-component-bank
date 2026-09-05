@@ -1,0 +1,26 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "numeric-stepper-counter",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "A simple counter with increment and decrement buttons for numerical input control",
+    "State management demo showing React useState hook with button interactions",
+    "Interactive number picker for forms or settings interfaces"
+  ],
+  "ai_summary": "A minimalist counter component featuring increment and decrement buttons that modify a numeric state value. Built with React useState hook, it demonstrates basic interactive button behavior with plain Tailwind styling. The component serves as a foundation for numeric input controls in forms or as a standalone UI element for stepper functionality.",
+  "_classifiedAt": "2026-04-22T08:53:35.220Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

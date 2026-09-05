@@ -1,0 +1,35 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action triggers like form submissions or navigation events",
+    "Destructive actions requiring visual warning styling",
+    "Secondary outline-styled actions for alternative workflows",
+    "Ghost button styling for tertiary actions within content",
+    "Icon-only compact buttons for toolbar or navigation contexts"
+  ],
+  "ai_summary": "A versatile button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes. Supports loading states, left/right icon slots, and asChild composition via Radix UI. Built with class-variance-authority for clean variant management and full accessibility support.",
+  "_classifiedAt": "2026-04-23T17:07:30.255Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

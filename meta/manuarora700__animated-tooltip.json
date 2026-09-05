@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@manuarora700/components/animated-tooltip",
+  "author": "manuarora700",
+  "slug": "animated-tooltip",
+  "name": "animated-tooltip",
+  "description": "A cool tooltip that reveals on hover, follows mouse pointer\n\nFeatures:  \n-  Mouse Following: The tooltip moves and rotates with your cursor.  \n-  Spring Animation: Enjoy smooth, springy animations for a natural feel.  \n-  Hover Effects: Tooltips pop up with fade and scale effects when you hover.  \n-  Avatar Display: Circular profile pics with a stylish border.  \n-  Gradient Accents: Cool gradient lines add flair to the tooltip.  \n-  Group Layout: Stack avatars for a neat overlapping look.  \n-  Responsive Images: Next.js Image takes care of loading and optimizing images.  \n\nExample Use Cases:  \n-  Team Member Display: Show team info when you hover.  \n-  User Lists: Highlight user details in social features.  \n-  Contributor Sections: Feature project contributors.  \n-  Member Grids: Showcase community or organization members.  \n\nProps:  \n-  id: A unique identifier.  \n-  name: The display name.  \n-  designation: The role or title.  \n-  image: The avatar image URL.  ",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/manuarora700/animated-tooltip?api_key=$API_KEY_21ST\"",
+  "id": "manuarora700__animated-tooltip",
+  "bundleUrl": "https://cdn.21st.dev/bundled/791.html",
+  "previewUrl": "https://cdn.21st.dev/user_aceternity/animated-tooltip.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 640,
+  "demo_id": 791,
+  "video_url": "https://cdn.21st.dev/user_aceternity/animated-tooltip/791/video.mp4"
+}

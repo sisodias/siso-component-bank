@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "financial-area-chart",
+  "visual_style": [
+    "dark",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "saas",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying stock price trends over time with smooth area chart visualization",
+    "Financial dashboard metric tracking with interactive hover tooltips",
+    "Revenue or growth data visualization for business analytics",
+    "Portfolio performance tracking with date-based filtering",
+    "Market data comparison and historical trend analysis"
+  ],
+  "ai_summary": "A financial area chart component that visualizes stock market data (Apple stock prices) using smooth curves and interactive tooltips. Built with visx/shape and visx/scale for performant SVG-based rendering, it displays time-series data with gradient fills and dark theme styling. Features hover-based tooltips showing precise values and dates, making it ideal for fintech dashboards and financial data analysis applications.",
+  "_classifiedAt": "2026-04-23T11:29:41.466Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

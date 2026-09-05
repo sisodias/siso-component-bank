@@ -1,0 +1,26 @@
+{
+  "id": "theutkarshmail__multi-choice",
+  "author": "theutkarshmail",
+  "slug": "multi-choice",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theutkarshmail/components/multi-choice",
+  "fetchedAt": "2026-08-29T07:37:15.626Z",
+  "completedAt": "2026-08-29T07:37:17.486Z",
+  "versionedFilename": "code.1755205855105.tsx",
+  "codeReference": "r2://components-code-private/theutkarshmail/multi-choice/code.1755205855105.tsx",
+  "codeUrl": "https://cdn.21st.dev/theutkarshmail/multi-choice/code.1755205855105.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 428,
+  "sha256": "2f6965d2d711f9d1f2a2e6b091e73b98c534cbe74564674d64c2cf4179618d2d",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

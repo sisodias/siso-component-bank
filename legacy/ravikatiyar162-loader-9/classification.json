@@ -1,0 +1,27 @@
+{
+  "category": "feedback",
+  "subcategory": "3d-cube-loader",
+  "visual_style": [
+    "3d",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display loading states while fetching data or content",
+    "Indicate processing time for user actions in progress",
+    "Add visual feedback during page transitions or content loading"
+  ],
+  "ai_summary": "A minimalist 3D cube loader component that displays four interconnected animated cubes creating a dynamic loading indicator. Built with pure CSS animations and no external dependencies. Ideal for adding visual feedback during data fetching or content loading operations across web applications.",
+  "_classifiedAt": "2026-04-23T17:12:43.970Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

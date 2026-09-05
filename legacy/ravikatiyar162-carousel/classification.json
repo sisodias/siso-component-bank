@@ -1,0 +1,28 @@
+{
+  "category": "media",
+  "subcategory": "horizontal-scroll-carousel",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying shareholder reports and quarterly financial results in a horizontally scrollable carousel",
+    "Presenting image-based corporate communications with navigation controls",
+    "Showcasing sequential content like annual reports or investor presentations",
+    "Creating interactive report galleries for financial or corporate websites",
+    "Building scrollable media galleries with arrow-based navigation"
+  ],
+  "ai_summary": "A horizontal scrolling carousel component designed for displaying shareholder reports and corporate communications. Features smooth scroll behavior with left/right navigation arrows that dynamically show/hide based on scroll position. Includes support for report metadata (quarter, period), optional new indicators, and custom title/subtitle text. Built with React forwardRef pattern and Tailwind CSS for flexible styling integration.",
+  "_classifiedAt": "2026-04-22T09:08:54.616Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

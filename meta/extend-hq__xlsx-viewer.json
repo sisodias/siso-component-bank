@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@extend-hq/components/xlsx-viewer",
+  "author": "extend-hq",
+  "slug": "xlsx-viewer",
+  "name": "xlsx-viewer",
+  "description": "A spreadsheet viewer that renders XLSX workbooks with multiple sheets, frozen headers, formulas, toolbar, zoom, upload and download. Powered by @extend-ai/react-xlsx.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/extend-hq/xlsx-viewer?api_key=$API_KEY_21ST\"",
+  "id": "extend-hq__xlsx-viewer",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/xlsx-viewer/default/bundle.1782170246311.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/xlsx-viewer/default/preview.1782170991579.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

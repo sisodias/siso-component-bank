@@ -1,0 +1,26 @@
+{
+  "id": "dhileepkumargm__electric-card",
+  "author": "dhileepkumargm",
+  "slug": "electric-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dhileepkumargm/components/electric-card",
+  "fetchedAt": "2026-08-29T04:28:24.601Z",
+  "completedAt": "2026-08-29T04:28:26.021Z",
+  "versionedFilename": "code.1759032420742.tsx",
+  "codeReference": "r2://components-code-private/dhileepkumargm/electric-card/code.1759032420742.tsx",
+  "codeUrl": "https://cdn.21st.dev/dhileepkumargm/electric-card/code.1759032420742.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 857,
+  "sha256": "1173a75e9fa79cfef7691ecffe32c3c55e23dd98d3205badebe6227f9051faa1",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

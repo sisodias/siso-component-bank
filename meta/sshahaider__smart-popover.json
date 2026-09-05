@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@sshahaider/components/smart-popover",
+  "author": "sshahaider",
+  "slug": "smart-popover",
+  "name": "smart-popover",
+  "description": "This SmartPopover gives you a mobile-first popover/drawer combo that auto-adapts based on screen size. It wraps Radix Popover and Vaul Drawer with a shared context, so you write it once and it just works—perfect for menus, filters, or actions on both mobile and desktop.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/sshahaider/smart-popover?api_key=$API_KEY_21ST\"",
+  "id": "sshahaider__smart-popover",
+  "bundleUrl": "https://cdn.21st.dev/sshahaider/smart-popover/default/bundle.1753818428321.html",
+  "previewUrl": "https://cdn.21st.dev/sshahaider/smart-popover/default/preview.1753442006344.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

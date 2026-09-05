@@ -1,0 +1,45 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "0xurvish-bucket",
+  "type": "registry:ui",
+  "title": "0xurvish Bucket",
+  "description": "Installed from https://21st.dev/r/0xUrvish/bucket",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "0xurvish-bucket"
+  ],
+  "files": [
+    {
+      "path": "bucket.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@hugeicons/core-free-icons",
+    "@hugeicons/react",
+    "lucide-react",
+    "motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "imports unresolvable path (@/hooks/use-mobile)"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/0xUrvish/bucket",
+    "fetchedAt": "2026-04-22T06:32:01.333Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

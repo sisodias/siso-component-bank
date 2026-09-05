@@ -1,0 +1,30 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "action-trigger-button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action triggers in forms and dialogs",
+    "Navigation and routing controls",
+    "Confirmation buttons in overlays",
+    "Call-to-action elements in marketing pages",
+    "Interactive controls in tool interfaces"
+  ],
+  "ai_summary": "A versatile, reusable Button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes. Built on Radix UI Slot for composition, using CVA for variant management. Provides accessible focus states and disabled states with smooth transitions. Serves as a foundational building block for any UI requiring action triggers.",
+  "_classifiedAt": "2026-04-23T01:53:23.594Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,36 @@
+{
+  "category": [
+    "card",
+    "media"
+  ],
+  "subcategory": "music-player-card",
+  "visual_style": [
+    "dark",
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "drag",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display currently playing track with album artwork, song title, and artist information",
+    "Interactive music player with play/pause, skip controls, and progress bar seeking",
+    "Volume control with drag-to-adjust functionality and mute toggle",
+    "Song interaction features including liking tracks and accessing context menus",
+    "Real-time playback progress animation with drag-to-seek capability"
+  ],
+  "ai_summary": "A feature-rich Spotify-style music player card component that displays album art, track metadata, and provides full playback controls including play/pause, skip, volume adjustment, and progress seeking. Built with React state management using drag-based interactions for volume and progress bars, hover animations, and a context menu for additional song options. Features include like functionality, mute toggle, and multi-song playlist support with dynamic current track indexing.",
+  "_classifiedAt": "2026-04-23T16:47:32.162Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

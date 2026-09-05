@@ -1,0 +1,38 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Primary call-to-action buttons in forms and landing pages",
+    "Destructive action buttons for delete or warning confirmations",
+    "Icon-only buttons for compact toolbar interfaces",
+    "Secondary navigation and link-style buttons",
+    "Form submission and interactive UI controls"
+  ],
+  "ai_summary": "A flexible, accessible button component built with Radix UI Slot and class-variance-authority for scalable variant management. Supports multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes (default, small, large, icon). Includes focus-visible ring styling and disabled states for proper accessibility compliance.",
+  "_classifiedAt": "2026-04-23T01:36:27.079Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

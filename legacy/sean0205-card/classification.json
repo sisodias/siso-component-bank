@@ -1,0 +1,31 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display user profile pictures in dashboards and user management interfaces",
+    "Show user avatars with online/offline status indicators in chat applications",
+    "Provide fallback initials or text when avatar images fail to load",
+    "Render user identity elements in social and collaboration platforms",
+    "Display reviewer or author information in content-heavy applications"
+  ],
+  "ai_summary": "A shadcn/radix-based avatar component system with image, fallback, indicator, and status sub-components. Features status variants (online, offline, busy, away) with colored indicators. Built on Radix UI primitives with Tailwind CSS styling, providing a flexible and accessible user identity display for dashboards, chat apps, and social platforms.",
+  "_classifiedAt": "2026-04-23T17:22:17.286Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

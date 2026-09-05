@@ -1,0 +1,31 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "dropdown-menu",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary site navigation with expandable dropdown menus for organizing nested pages",
+    "Hover-triggered navigation menus for quick access to subcategories",
+    "Responsive navigation bars for SaaS and web applications"
+  ],
+  "ai_summary": "A dropdown navigation component featuring smooth Framer Motion animations with a pill-shaped hover background effect. The component renders a horizontal navigation bar with expandable dropdown menus triggered on hover, displaying a rotating chevron indicator and smooth entrance animations for submenu content. Designed for clean, modern web interfaces requiring accessible navigation hierarchies.",
+  "_classifiedAt": "2026-04-23T16:51:44.134Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

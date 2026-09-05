@@ -1,0 +1,26 @@
+{
+  "id": "charith1283p__new1",
+  "author": "charith1283p",
+  "slug": "new1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@charith1283p/components/new1",
+  "fetchedAt": "2026-08-29T03:53:37.550Z",
+  "completedAt": "2026-08-29T03:53:39.747Z",
+  "versionedFilename": "code.1784146896194-aa279885-5dd7-4092-96bb-2cec815c5a56.tsx",
+  "codeReference": "r2://components-code-private/charith1283p/new1/code.1784146896194-aa279885-5dd7-4092-96bb-2cec815c5a56.tsx",
+  "codeUrl": "https://cdn.21st.dev/charith1283p/new1/code.1784146896194-aa279885-5dd7-4092-96bb-2cec815c5a56.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons for forms and dialogs with multiple visual variants",
+    "Destructive action buttons for delete or warning operations",
+    "Ghost and outline buttons for secondary actions in toolbars or cards",
+    "Icon-only buttons for compact UI elements like toolbars or navigation",
+    "Link-styled buttons for inline navigation within text content"
+  ],
+  "ai_summary": "A versatile Button component built on Radix UI Slot and class-variance-authority for flexible styling. Supports 6 variants (default, destructive, outline, secondary, ghost, link) and 4 sizes (default, sm, lg, icon) with standard accessibility features like focus-visible rings and disabled states. Industry-agnostic atomic component suitable for any UI requiring interactive buttons.",
+  "_classifiedAt": "2026-04-23T17:17:48.421Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

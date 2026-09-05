@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ssicevs/components/market-watchlist",
+  "author": "ssicevs",
+  "slug": "market-watchlist",
+  "name": "market-watchlist",
+  "description": "Sortable market watchlist: per-row sparkline trend, sort by symbol or change with direction toggle, and row selection marked by an accent rail. Light and dark via theme tokens.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ssicevs/market-watchlist?api_key=$API_KEY_21ST\"",
+  "id": "ssicevs__market-watchlist",
+  "bundleUrl": "https://cdn.21st.dev/ssicevs/market-watchlist/default/bundle.1785373558052-497985ac-b94a-4f8f-875a-e1ebd87e8236.html",
+  "previewUrl": "https://cdn.21st.dev/ssicevs/market-watchlist/default/preview.1785373558052-497985ac-b94a-4f8f-875a-e1ebd87e8236.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

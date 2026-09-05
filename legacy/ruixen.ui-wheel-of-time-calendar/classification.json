@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "healthcare",
+    "education",
+    "real-estate",
+    "creator-tools",
+    "dev-tools",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Triggering form submissions with customizable variants for different action priorities",
+    "Creating navigation CTAs with ghost and link variants for subtle interactions",
+    "Building icon-only buttons for toolbars and compact UI areas",
+    "Implementing destructive actions with the destructive variant styling",
+    "Creating outlined secondary actions that don't compete with primary CTAs"
+  ],
+  "ai_summary": "A flexible, accessible Button component built with Radix UI Slot and class-variance-authority. Supports 6 visual variants (default, destructive, outline, secondary, ghost, link) and 4 sizes with proper focus-visible states, disabled handling, and shadow effects. Uses Tailwind CSS for styling and supports composition via asChild prop for integrating with other Radix primitives.",
+  "_classifiedAt": "2026-04-23T01:52:08.459Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

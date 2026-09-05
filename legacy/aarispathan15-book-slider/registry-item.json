@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "aarispathan15-book-slider",
+  "type": "registry:ui",
+  "title": "Aarispathan15 Book Slider",
+  "description": "Installed from https://21st.dev/r/aarispathan15/book-slider",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "aarispathan15-book-slider"
+  ],
+  "files": [
+    {
+      "path": "book-slider.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "react-pageflip"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/aarispathan15/book-slider",
+    "fetchedAt": "2026-04-23T02:28:54.550Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

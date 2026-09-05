@@ -1,0 +1,25 @@
+{
+  "category": "feedback",
+  "subcategory": "cookie-consent",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display cookie consent notification on website load with accept/decline options",
+    "Persist user cookie preferences in localStorage for GDPR compliance",
+    "Animate banner entrance/exit based on top or bottom positioning",
+    "Integrate into any React/Next.js website requiring cookie consent"
+  ],
+  "ai_summary": "A lightweight cookie consent banner component that slides in from the top or bottom of the viewport, presenting users with accept and decline options. The component persists consent choices to localStorage, includes fade and slide animations for smooth entrance and exit, and automatically hides if consent has already been given. Styled with standard Tailwind card utilities for a clean, flat appearance that adapts to both desktop and mobile viewports.",
+  "_classifiedAt": "2026-04-23T11:31:01.856Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

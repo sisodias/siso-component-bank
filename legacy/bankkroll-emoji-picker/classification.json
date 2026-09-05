@@ -1,0 +1,42 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button component with variants and sizes",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Triggering actions in forms and interfaces",
+    "Navigation and link-style buttons",
+    "Icon-only buttons for compact UI",
+    "Primary and secondary action differentiation",
+    "Accessible button interactions with focus states"
+  ],
+  "ai_summary": "A reusable Button component built with Radix UI Slot and class-variance-authority for flexible styling. Supports multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon) with proper accessibility attributes including focus-visible states, disabled handling, and asChild prop for polymorphic composition.",
+  "_classifiedAt": "2026-04-23T11:31:58.348Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,31 @@
+{
+  "category": "feedback",
+  "subcategory": "error-message-display",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying form validation errors in applications",
+    "Showing error messages for failed API calls or operations",
+    "Presenting user-friendly error states in UI components",
+    "Rendering inline validation feedback in forms",
+    "Displaying error details with optional action links"
+  ],
+  "ai_summary": "A lightweight error display component from the shugar design system that renders error messages with an icon, customizable text, and optional action links. Supports three sizes (small, medium, large) and can display error objects with message, action, and link properties. Built with Tailwind CSS using red color theming for clear error indication.",
+  "_classifiedAt": "2026-04-23T17:30:01.960Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

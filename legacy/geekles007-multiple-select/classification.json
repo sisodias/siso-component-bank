@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "tag-selector",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting multiple tags or categories in content management systems",
+    "Filtering products by multiple attributes in e-commerce catalogs",
+    "Assigning labels to tasks or items in productivity applications",
+    "Multi-select filtering in data dashboards and analytics tools",
+    "Content tagging for blogs, videos, or digital asset libraries"
+  ],
+  "ai_summary": "A multi-select tag input component with smooth scroll behavior and layout animations using framer-motion. Supports custom tag rendering, selection/deselection of multiple items, and auto-scroll to newly added tags. Styled with flat, minimal aesthetics using Tailwind CSS with border and shadow accents for tag chips.",
+  "_classifiedAt": "2026-04-23T16:40:51.189Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

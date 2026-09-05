@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "theme-toggle-buttons",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Allow users to switch between light and dark mode themes in application headers or settings panels",
+    "Provide visual theme switching with animated layout transitions using framer-motion",
+    "Offer multiple button variants for consistent theme toggling across different UI contexts",
+    "Enable dynamic layout adjustments with scale, gap, and flex direction options"
+  ],
+  "ai_summary": "A collection of five theme toggle button variants from the Reuno UI library designed for switching between light and dark modes. Built with Framer Motion for smooth layout animations including scale, gap, and direction transitions. Features a minimalist flat design aesthetic with optional layout configuration controls. The component includes multiple button styles (1-5) that can be used interchangeably across an application for consistent theme switching behavior.",
+  "_classifiedAt": "2026-04-23T01:48:43.166Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

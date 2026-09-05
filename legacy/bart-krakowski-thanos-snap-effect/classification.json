@@ -1,0 +1,31 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "disintegration-dissolve-animation",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "media",
+    "creator-tools",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Dramatic delete/remove actions with visual impact similar to movie effects",
+    "Creative portfolio showcases requiring memorable interaction moments",
+    "Entertainment or gaming-themed interfaces wanting superhero-style animations",
+    "Confirmation dialogs or error states with cinematic flair",
+    "Loading completion animations for creative applications"
+  ],
+  "ai_summary": "A dramatic disintegration effect component inspired by the Thanos snap from Avengers: Infinity War. Uses SVG feTurbulence and feDisplacementMap filters combined with Framer Motion animations to create a particle-like dissolution effect when the wrapped content is clicked. The animation scales up slightly, then dissolves into particles before resetting, providing a memorable visual feedback mechanism for destructive or completion actions.",
+  "_classifiedAt": "2026-04-23T11:32:09.036Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

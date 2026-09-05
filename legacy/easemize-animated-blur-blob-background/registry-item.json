@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "easemize-animated-blur-blob-background",
+  "type": "registry:ui",
+  "title": "Easemize Animated Blur Blob Background",
+  "description": "Installed from https://21st.dev/r/easemize/animated-blur-blob-background",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "easemize-animated-blur-blob-background"
+  ],
+  "files": [
+    {
+      "path": "animated-blur-blob-background.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/easemize/animated-blur-blob-background",
+    "fetchedAt": "2026-04-23T03:04:39.375Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

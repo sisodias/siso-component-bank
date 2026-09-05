@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "animated-toggle-button",
+  "visual_style": [
+    "minimalist",
+    "3d"
+  ],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Toggle between two text states with a smooth 3D flip animation",
+    "Interactive button with hover and tap feedback effects",
+    "State-switching UI element for settings or mode toggles",
+    "Animated call-to-action button with visual state changes"
+  ],
+  "ai_summary": "A sleek flip button component that toggles between two text states using a 3D rotateX animation with spring physics. Features hover scaling, tap feedback, and smooth state transitions. The pill-shaped button uses color inversion between states (blue/white to gray/black) for clear visual distinction.",
+  "_classifiedAt": "2026-04-23T16:51:51.637Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

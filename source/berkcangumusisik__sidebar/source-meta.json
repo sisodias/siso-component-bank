@@ -1,0 +1,26 @@
+{
+  "id": "berkcangumusisik__sidebar",
+  "author": "berkcangumusisik",
+  "slug": "sidebar",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@berkcangumusisik/components/sidebar",
+  "fetchedAt": "2026-08-29T03:50:04.893Z",
+  "completedAt": "2026-08-29T03:50:07.268Z",
+  "versionedFilename": "code.1750611537659.tsx",
+  "codeReference": "r2://components-code-private/berkcangumusisik/sidebar/code.1750611537659.tsx",
+  "codeUrl": "https://cdn.21st.dev/berkcangumusisik/sidebar/code.1750611537659.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5553,
+  "sha256": "e02e39b14a1fe5a012a6f52bdf9c8a397d97edcd789321abc66e110f736c72f0",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

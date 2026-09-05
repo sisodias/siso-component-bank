@@ -1,0 +1,31 @@
+{
+  "category": [
+    "form"
+  ],
+  "subcategory": "option-selector",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "travel",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting baggage allowances during flight booking checkout",
+    "Choosing add-on services in product configurators",
+    "Picking subscription tiers in pricing flows",
+    "Selecting delivery or shipping options at checkout"
+  ],
+  "ai_summary": "A minimalist radio-group style option selector component with icon, label, and price display for each option. Built with framer-motion animations and shadcn/ui styling patterns, commonly used in travel and e-commerce checkout flows for selecting add-on services like extra baggage, seat selection, or insurance upgrades.",
+  "_classifiedAt": "2026-04-23T01:46:04.891Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

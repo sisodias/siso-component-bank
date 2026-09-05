@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@bankkroll/components/code-editor-sheet",
+  "author": "bankkroll",
+  "slug": "code-editor-sheet",
+  "name": "code-editor-sheet",
+  "description": "A sleek, accessible code editor sheet powered by shadcn/ui, Ace Editor, and Radix UI supporting multiple languages with syntax highlighting and theme switching. Easily integrate customizable, interactive code editing into your web applications.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/bankkroll/code-editor-sheet?api_key=$API_KEY_21ST\"",
+  "id": "bankkroll__code-editor-sheet",
+  "bundleUrl": "https://cdn.21st.dev/bankkroll/code-editor-sheet/default/bundle.1749408348908.html",
+  "previewUrl": "https://cdn.21st.dev/bankkroll/code-editor-sheet/default/preview.1749408348908.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

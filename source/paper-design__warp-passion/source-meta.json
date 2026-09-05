@@ -1,0 +1,26 @@
+{
+  "id": "paper-design__warp-passion",
+  "author": "paper-design",
+  "slug": "warp-passion",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@paper-design/components/warp-passion",
+  "fetchedAt": "2026-08-29T06:06:59.617Z",
+  "completedAt": "2026-08-29T06:07:01.782Z",
+  "versionedFilename": "code.1784835316177-2f663bef-9768-4376-af36-161dc3f448d7.tsx",
+  "codeReference": "r2://components-code-private/paper-design/warp-passion/code.1784835316177-2f663bef-9768-4376-af36-161dc3f448d7.tsx",
+  "codeUrl": "https://cdn.21st.dev/paper-design/warp-passion/code.1784835316177-2f663bef-9768-4376-af36-161dc3f448d7.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

@@ -1,0 +1,24 @@
+{
+  "category": "input",
+  "subcategory": "button-component",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Form submission buttons for web applications",
+    "Navigation action triggers in user interfaces",
+    "Interactive UI elements with multiple visual variants",
+    "Accessible button component with focus-visible ring states",
+    "Customizable button styling via variant and size props"
+  ],
+  "ai_summary": "A reusable atomic button component with multiple style variants (default, destructive, outline, secondary, ghost, link) and size options. Built with Radix UI Slot for composition flexibility, using class-variance-authority for type-safe variant handling. Provides focus-visible states, disabled states, and hover transitions for accessibility and user feedback.",
+  "_classifiedAt": "2026-04-23T11:29:20.184Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

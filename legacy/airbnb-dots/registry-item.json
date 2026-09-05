@@ -1,0 +1,47 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "airbnb-dots",
+  "type": "registry:ui",
+  "title": "Airbnb Dots",
+  "description": "Installed from https://21st.dev/r/airbnb/dots",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "airbnb-dots"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "dots.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@visx/event",
+    "@visx/gradient",
+    "@visx/group",
+    "@visx/mock-data",
+    "@visx/scale",
+    "@visx/shape",
+    "@visx/tooltip",
+    "@visx/voronoi"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/airbnb/dots",
+    "fetchedAt": "2026-04-23T03:04:42.663Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

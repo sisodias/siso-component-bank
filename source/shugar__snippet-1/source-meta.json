@@ -1,0 +1,26 @@
+{
+  "id": "shugar__snippet-1",
+  "author": "shugar",
+  "slug": "snippet-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/snippet-1",
+  "fetchedAt": "2026-08-29T07:20:23.726Z",
+  "completedAt": "2026-08-29T07:20:25.714Z",
+  "versionedFilename": "code.1752151859953.tsx",
+  "codeReference": "r2://components-code-private/shugar/snippet-1/code.1752151859953.tsx",
+  "codeUrl": "https://cdn.21st.dev/shugar/snippet-1/code.1752151859953.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4210,
+  "sha256": "f3c5571bc64d02bd0a397988eaa58475168283ba89b12b776d074e24ba89eac4",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

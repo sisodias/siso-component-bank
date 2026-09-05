@@ -1,0 +1,30 @@
+{
+  "category": "data-display",
+  "subcategory": "interactive-globe-weather-visualization",
+  "visual_style": [],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display weather conditions across global locations on an interactive rotating globe",
+    "Showcase location-based data points with custom emoji markers in a visually engaging way",
+    "Create interactive weather dashboards for travel or climate monitoring applications",
+    "Enhance landing pages with animated globe visualizations for global product launches",
+    "Build location-aware analytics interfaces with draggable geographic data exploration"
+  ],
+  "ai_summary": "An interactive 3D globe component powered by the Cobe WebGL library, displaying weather conditions across the world using customizable emoji markers. Users can drag to rotate the globe, which also supports auto-rotation with configurable speed. The component accepts custom marker positions with lat/long coordinates and emoji labels, making it ideal for weather dashboards, travel applications, or any interface needing geographic data visualization with engaging user interaction.",
+  "_classifiedAt": "2026-04-22T09:17:02.581Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

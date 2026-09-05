@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/glow-tree",
+  "author": "ruixen.ui",
+  "slug": "glow-tree",
+  "name": "glow-tree",
+  "description": "The Glow Tree component is a visually engaging and interactive file explorer built with Shadcn UI styling utilities and lucide-react icons. It displays hierarchical data, such as files and folders, with smooth expand and collapse animations using Framer Motion. Each node can optionally have a glowing effect, creating a pulsating highlight that draws attention to important files or folders. The component supports selection, updating the styling of the currently selected node for both light and dark themes. It is fully client-side, lightweight, and designed to provide a futuristic, dynamic experience while remaining easy to integrate and customize.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/glow-tree?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__glow-tree",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/glow-tree/default/bundle.1757478901062.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/glow-tree/default/preview.1757436683099.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 8,
+  "demo_id": 7119,
+  "video_url": null
+}

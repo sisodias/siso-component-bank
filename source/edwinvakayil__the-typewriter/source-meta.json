@@ -1,0 +1,26 @@
+{
+  "id": "edwinvakayil__the-typewriter",
+  "author": "edwinvakayil",
+  "slug": "the-typewriter",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@edwinvakayil/components/the-typewriter",
+  "fetchedAt": "2026-08-29T04:42:44.453Z",
+  "completedAt": "2026-08-29T04:42:46.741Z",
+  "versionedFilename": "code.1780686619791.tsx",
+  "codeReference": "r2://components-code-private/lyanchouss/the-typewriter/code.1780686619791.tsx",
+  "codeUrl": "https://cdn.21st.dev/lyanchouss/the-typewriter/code.1780686619791.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4440,
+  "sha256": "e77a5e058130a39f329f75eb3041292a938024334c3804d1119d97eb7188278d",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "shader-visualization",
+  "visual_style": [
+    "3d",
+    "gradient",
+    "dark"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero section animated background with shield/energy field effect",
+    "Loading screen or transition animation with procedural graphics",
+    "Decorative visual element for tech-forward landing pages",
+    "Showcase demo for shader programming capabilities"
+  ],
+  "ai_summary": "A WebGL shader component using custom GLSL that renders an animated shield/energy field effect with hexagonal patterns and spherical distortion. Built with React Three Fiber, it continuously animates based on time uniforms and renders to a fullscreen quad. Ideal for immersive hero sections, interactive demos, and tech-focused visual displays.",
+  "_classifiedAt": "2026-04-23T01:55:41.228Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

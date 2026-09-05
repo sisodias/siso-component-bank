@@ -1,0 +1,26 @@
+{
+  "id": "meschacirung__veil-pricing-1",
+  "author": "meschacirung",
+  "slug": "veil-pricing-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@meschacirung/components/veil-pricing-1",
+  "fetchedAt": "2026-08-29T05:42:00.376Z",
+  "completedAt": "2026-08-29T05:42:02.577Z",
+  "versionedFilename": "code.1784692366609-70f79fae-8086-4007-b6ab-877ea6049fd7.tsx",
+  "codeReference": "r2://components-code-private/meschacirung/veil-pricing-1/code.1784692366609-70f79fae-8086-4007-b6ab-877ea6049fd7.tsx",
+  "codeUrl": "https://cdn.21st.dev/meschacirung/veil-pricing-1/code.1784692366609-70f79fae-8086-4007-b6ab-877ea6049fd7.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

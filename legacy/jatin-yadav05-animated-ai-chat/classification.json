@@ -1,0 +1,30 @@
+{
+  "category": "form",
+  "subcategory": "ai-chat-interface",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "AI assistant chat interfaces for SaaS applications requiring user input",
+    "Developer tools with integrated AI chat for code assistance and debugging",
+    "Content creation platforms with AI-powered chat for brainstorming and drafting",
+    "Customer support systems with animated, engaging AI bot interactions",
+    "Educational platforms with AI tutors providing interactive learning experiences"
+  ],
+  "ai_summary": "An animated AI chat interface component featuring auto-resizing textarea input, smooth motion animations using Framer Motion, and a polished gradient visual style. The component supports command suggestions, file attachments, and various media inputs through Lucide icons. Designed for seamless integration in SaaS and dev-tool applications requiring modern, engaging AI conversational interfaces.",
+  "_classifiedAt": "2026-04-23T16:45:51.972Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

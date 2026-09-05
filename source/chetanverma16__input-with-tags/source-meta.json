@@ -1,0 +1,33 @@
+{
+  "id": "chetanverma16__input-with-tags",
+  "author": "chetanverma16",
+  "slug": "input-with-tags",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@chetanverma16/components/input-with-tags",
+  "fetchedAt": "2026-08-29T03:54:00.967Z",
+  "completedAt": "2026-08-29T03:54:02.136Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/chetanverma16__input-with-tags/code.tsx",
+    "bytes": 3024,
+    "sha256": "f8fe0184528cbe5dbd37ba53d574fae447db9094e5faacb1465372f19a15051f",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

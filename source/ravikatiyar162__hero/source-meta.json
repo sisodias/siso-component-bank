@@ -1,0 +1,26 @@
+{
+  "id": "ravikatiyar162__hero",
+  "author": "ravikatiyar162",
+  "slug": "hero",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ravikatiyar162/components/hero",
+  "fetchedAt": "2026-08-29T06:24:44.901Z",
+  "completedAt": "2026-08-29T06:24:46.986Z",
+  "versionedFilename": "code.1756022758263.tsx",
+  "codeReference": "r2://components-code-private/ravikatiyar162/hero/code.1756022758263.tsx",
+  "codeUrl": "https://cdn.21st.dev/ravikatiyar162/hero/code.1756022758263.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 8816,
+  "sha256": "e136c6ce506bb027f0a92a61d1fff5991b676fc2e9932703225723cb83b5d067",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

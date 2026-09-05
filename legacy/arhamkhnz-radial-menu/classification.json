@@ -1,0 +1,34 @@
+{
+  "category": "navigation",
+  "subcategory": "radial-context-menu",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Context menu for quick actions like copy, cut, paste arranged in a space-efficient circular layout",
+    "Floating action menus that appear on right-click to provide immediate access to operations",
+    "Navigation hubs for tools and applications requiring radial organization of options",
+    "Alternative to traditional dropdown menus where screen real estate is limited",
+    "E-commerce or SaaS interfaces needing premium, animated menu interactions"
+  ],
+  "ai_summary": "A radial menu component that displays interactive menu items arranged in a circular wedge pattern, triggered via context menu. Features spring-physics animations via motion/react, custom SVG path generation for slice geometry, and Lucide icon integration. Provides a visually compact alternative to traditional dropdown menus with smooth hover and selection animations.",
+  "_classifiedAt": "2026-04-22T08:52:26.829Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

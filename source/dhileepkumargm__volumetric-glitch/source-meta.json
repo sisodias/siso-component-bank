@@ -1,0 +1,26 @@
+{
+  "id": "dhileepkumargm__volumetric-glitch",
+  "author": "dhileepkumargm",
+  "slug": "volumetric-glitch",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dhileepkumargm/components/volumetric-glitch",
+  "fetchedAt": "2026-08-29T04:33:59.147Z",
+  "completedAt": "2026-08-29T04:34:03.737Z",
+  "versionedFilename": "code.1759931945823.tsx",
+  "codeReference": "r2://components-code-private/dhileepkumargm/volumetric-glitch/code.1759931945823.tsx",
+  "codeUrl": "https://cdn.21st.dev/dhileepkumargm/volumetric-glitch/code.1759931945823.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7972,
+  "sha256": "046a8338f0c914c06d5d5601bff68eb55a8d4f0738fd4edb20df8280fff411f9",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

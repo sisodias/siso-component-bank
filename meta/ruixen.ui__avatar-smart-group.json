@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/avatar-smart-group",
+  "author": "ruixen.ui",
+  "slug": "avatar-smart-group",
+  "name": "avatar-smart-group",
+  "description": "The Avatar Smart Group component is a versatile and reusable UI element designed to elegantly display a group of user profile images with interactive tooltips. It supports two layout variants — uniform, where all avatars are equal in size, and centered, where the middle avatar is highlighted to draw focus. Each avatar includes hover animations, smooth scaling effects, and customizable features such as size, overlap spacing, ring color, tooltip background, and hover scale intensity. Built with React and Tailwind CSS, it maintains a clean aesthetic while remaining highly configurable for any project — from team displays and contributor sections to community dashboards or collaboration tools. The component ensures a visually engaging and professional way to showcase team members or user groups.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/avatar-smart-group?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__avatar-smart-group",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/avatar-smart-group/default/bundle.1760544505620.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/avatar-smart-group/default/preview.1760544505620.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 30,
+  "demo_id": 9043,
+  "video_url": "https://cdn.21st.dev/user_2y5Wd5l713ZIFYjX19aZXSyXd6b/avatar-smart-group/default/video.1786468361835.mp4"
+}

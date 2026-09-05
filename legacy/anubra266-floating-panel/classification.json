@@ -1,0 +1,33 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "draggable-floating-panel",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "drag",
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Floating tool windows in creative or productivity applications",
+    "Minimizable and maximizable panels for dashboard configurations",
+    "Draggable widget containers for customizable interfaces",
+    "Secondary window-like panels for settings or details views"
+  ],
+  "ai_summary": "A draggable floating panel component from Ark UI featuring window-like controls including minimize, maximize, and close actions. The panel supports drag positioning via a header grip handle, multiple stage states, and renders within a portal for proper z-index layering. Built with a minimalist flat aesthetic using Tailwind CSS, suitable for SaaS dashboards and tool-based applications.",
+  "_classifiedAt": "2026-04-23T01:35:53.489Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

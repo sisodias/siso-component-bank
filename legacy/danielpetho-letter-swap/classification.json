@@ -1,0 +1,29 @@
+{
+  "category": "other",
+  "subcategory": "text-animation",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creating hover-triggered letter swap animations on navigation menu items",
+    "Adding interactive text reveal effects to call-to-action buttons",
+    "Building animated headings that respond to user hover interactions",
+    "Implementing decorative text animations in hero sections",
+    "Enhancing interactive labels with smooth spring-based transitions"
+  ],
+  "ai_summary": "LetterSwapForward is a Framer Motion-powered text animation component that creates a smooth letter-swapping effect on hover. Letters slide out vertically while secondary letters slide in to replace them, using configurable spring physics and stagger timing for organic motion. The component supports bidirectional animation, custom transition settings, and is ideal for interactive navigation items, buttons, or decorative text elements in modern web interfaces.",
+  "_classifiedAt": "2026-04-23T16:29:05.455Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

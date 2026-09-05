@@ -1,0 +1,31 @@
+{
+  "category": "data-display",
+  "subcategory": "badge",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying status indicators and labels in application interfaces",
+    "Showing category tags or topic labels in content management systems",
+    "Indicating notification counts or alerts in dashboard layouts",
+    "Marking user roles or account types in settings pages"
+  ],
+  "ai_summary": "A reusable Badge component with variant support for different visual states (default, secondary, destructive, outline). Built with class-variance-authority for flexible theming and includes hover color transitions and focus ring accessibility features. A foundational atomic UI element commonly used for status indicators, tags, and labels across various interface contexts.",
+  "_classifiedAt": "2026-04-23T17:16:19.979Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

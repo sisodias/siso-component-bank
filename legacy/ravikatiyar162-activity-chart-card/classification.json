@@ -1,0 +1,30 @@
+{
+  "category": "data-display",
+  "subcategory": "activity-bar-chart-card",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "education",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display activity metrics on dashboards for SaaS and analytics platforms",
+    "Track and visualize user engagement trends over weekly, monthly, or yearly periods",
+    "Monitor productivity and usage patterns in team collaboration tools",
+    "Show performance metrics in fintech and e-commerce analytics",
+    "Present engagement data in educational or content platforms"
+  ],
+  "ai_summary": "A responsive activity chart card component that renders activity data as an animated bar chart with staggered Framer Motion animations. Built on shadcn/ui components including Card, DropdownMenu, and Button with theming support. Features normalized bar heights based on maximum values and a dropdown selector for filtering time ranges. Designed for dashboards and analytics use cases across SaaS, fintech, and media platforms.",
+  "_classifiedAt": "2026-04-23T01:45:59.593Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

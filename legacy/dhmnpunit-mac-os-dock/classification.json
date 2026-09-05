@@ -1,0 +1,31 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "macos-dock",
+  "visual_style": [
+    "glass-morphism",
+    "minimalist",
+    "dark"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Desktop-style application navigation for web-based OS interfaces",
+    "Quick-launch app launcher for productivity and developer tools",
+    "Familiar macOS-inspired dock for user interface consistency in SaaS products"
+  ],
+  "ai_summary": "A macOS-style dock navigation component featuring glass-morphism styling with translucent backgrounds and smooth hover magnification effects. Icons dynamically scale based on mouse position using parabolic distance calculations, creating the signature macOS dock magnification effect. Fully responsive with optimized configurations for mobile, tablet, and desktop viewports, and supports click interactions for app launching.",
+  "_classifiedAt": "2026-04-23T16:35:19.938Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

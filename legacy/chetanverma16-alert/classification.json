@@ -1,0 +1,28 @@
+{
+  "category": "feedback",
+  "subcategory": "notification-alert",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "fintech",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying success confirmations after form submissions or completed actions",
+    "Showing error messages for validation failures or system errors",
+    "Presenting warning notifications for important user attention items",
+    "Delivering informational alerts for system updates or tips",
+    "Providing dismissible status messages within application dashboards"
+  ],
+  "ai_summary": "A lightweight animated alert component for displaying contextual feedback messages with color-coded types (success, error, warning, info). Features subtle entrance animations and interactive hover/tap effects using Framer Motion. Designed for universal use across SaaS, e-commerce, and healthcare applications requiring user notifications.",
+  "_classifiedAt": "2026-04-23T11:33:41.133Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

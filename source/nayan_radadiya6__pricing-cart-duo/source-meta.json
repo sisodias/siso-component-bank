@@ -1,0 +1,33 @@
+{
+  "id": "nayan_radadiya6__pricing-cart-duo",
+  "author": "nayan_radadiya6",
+  "slug": "pricing-cart-duo",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@nayan_radadiya6/components/pricing-cart-duo",
+  "fetchedAt": "2026-08-29T05:56:41.465Z",
+  "completedAt": "2026-08-29T05:56:42.322Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "page-soft404",
+  "failureClass": "soft-404",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/nayan_radadiya6__pricing-cart-duo/code.tsx",
+    "bytes": 9333,
+    "sha256": "bd6cb23546d5c0b6024e4e3858100fd94cd00a185907a69e38cc91ae43624619",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is page-soft404/soft-404."
+  }
+}

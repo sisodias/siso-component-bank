@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "FAQ accordion with expandable content sections",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "education",
+    "healthcare",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "FAQ sections for websites to display frequently asked questions in a space-efficient collapsible format",
+    "Terms and conditions or policy sections where users can expand detailed information",
+    "Help documentation pages with categorized expandable questions and answers",
+    "Product feature explanations with nested details users can reveal on demand"
+  ],
+  "ai_summary": "A minimalist FAQ accordion component built with shadcn/ui that displays collapsible question-answer pairs in a clean, responsive container. Uses standard click-to-expand interaction for revealing answers, with optional external links. The component maps over an array of FAQ items and renders them with consistent styling and spacing suitable for documentation, support, or informational pages across various industries.",
+  "_classifiedAt": "2026-04-22T08:53:38.478Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

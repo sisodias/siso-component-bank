@@ -1,0 +1,26 @@
+{
+  "category": "layout",
+  "subcategory": "view-mode-switcher",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Toggle between list and grid views in product catalogs",
+    "Switch content display density in dashboards",
+    "Change card layouts for browsing vs. scanning modes",
+    "Adapt item display for different screen sizes",
+    "Control layout mode for responsive content grids"
+  ],
+  "ai_summary": "An animated layout container component that enables users to toggle between list view, 2-column grid, and 4-column grid layouts with smooth motion/react animations. Features staggered child element animations and hover effects on cards. Ideal for e-commerce product grids, SaaS dashboards, and media content browsers where users need flexible visual density controls. Responsive design adapts from mobile to desktop with optimized column configurations.",
+  "_classifiedAt": "2026-04-23T17:44:45.575Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

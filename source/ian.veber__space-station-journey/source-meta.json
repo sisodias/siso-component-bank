@@ -1,0 +1,26 @@
+{
+  "id": "ian.veber__space-station-journey",
+  "author": "ian.veber",
+  "slug": "space-station-journey",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ian.veber/components/space-station-journey",
+  "fetchedAt": "2026-08-29T04:59:25.013Z",
+  "completedAt": "2026-08-29T04:59:27.197Z",
+  "versionedFilename": "code.1779904560119.tsx",
+  "codeReference": "r2://components-code-private/ian.veber/space-station-journey/code.1779904560119.tsx",
+  "codeUrl": "https://cdn.21st.dev/ian.veber/space-station-journey/code.1779904560119.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 15170,
+  "sha256": "7870caf3f263107fa1b65bdf225710f8df29cedd82a8a08e0e678f202fdb9732",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

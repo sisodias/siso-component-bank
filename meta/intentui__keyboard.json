@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@intentui/components/keyboard",
+  "author": "intentui",
+  "slug": "keyboard",
+  "name": "keyboard",
+  "description": "A keyboard shortcut label that renders inline hint keys (like ⌘K) next to menu items, commands, and actions.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/intentui/keyboard?api_key=$API_KEY_21ST\"",
+  "id": "intentui__keyboard",
+  "bundleUrl": "https://cdn.21st.dev/intentui/keyboard/default/bundle.1784753867817-6a69448f-f2b1-46e7-8299-f1d4fb6f2a46.html",
+  "previewUrl": "https://cdn.21st.dev/intentui/keyboard/default/preview.1784753867817-6a69448f-f2b1-46e7-8299-f1d4fb6f2a46.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

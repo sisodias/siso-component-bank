@@ -1,0 +1,33 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading-spinner",
+  "visual_style": [
+    "glass-morphism",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display loading state during data fetching operations in web applications",
+    "Show processing feedback during async operations like API calls",
+    "Indicate initialization state while applications are bootstrapping",
+    "Provide visual feedback during sync or data synchronization processes",
+    "Indicate optimization or background processing status to users"
+  ],
+  "ai_summary": "A multi-layered animated loading spinner component featuring concentric rotating rings with glowing effects and dynamic status text that cycles through various loading states. The component supports both light and dark modes with emerald/cyan color schemes, using CSS animations for smooth continuous motion. Built as a reusable React component with Tailwind CSS, it's designed to provide elegant visual feedback during data fetching, initialization, and processing operations.",
+  "_classifiedAt": "2026-04-22T09:04:55.100Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

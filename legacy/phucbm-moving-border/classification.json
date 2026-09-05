@@ -1,0 +1,30 @@
+{
+  "category": "card",
+  "subcategory": "animated-gradient-border-wrapper",
+  "visual_style": [],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Wrap card components with an animated moving gradient border effect for premium visual appeal",
+    "Create eye-catching call-to-action sections with dynamic border animations",
+    "Enhance product feature cards with continuous gradient motion effects",
+    "Add visual emphasis to pricing or subscription tier cards",
+    "Provide interactive-looking containers that draw user attention to key content"
+  ],
+  "ai_summary": "A React component that wraps any content with an animated moving gradient border effect using GSAP. The border continuously animates along the container's path with configurable colors, duration, radius, and optional circular mode. Perfect for creating premium, eye-catching card designs, CTAs, and feature highlights with smooth morphing gradient animations.",
+  "_classifiedAt": "2026-04-22T09:07:52.235Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

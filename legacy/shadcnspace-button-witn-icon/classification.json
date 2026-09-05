@@ -1,0 +1,33 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Call-to-action button for collaboration or contact pages with animated icon feedback",
+    "Interactive button that expands on hover to reveal additional space for the icon element",
+    "Engaging CTA button with rotating arrow icon that draws attention during hover"
+  ],
+  "ai_summary": "A minimalist button component featuring an integrated arrow icon that animates on hover—shifting position, rotating 45 degrees, and expanding the button's padding to create a smooth, interactive call-to-action effect. Built with Tailwind CSS transitions for a polished micro-interaction suitable for any SaaS, e-commerce, or landing page.",
+  "_classifiedAt": "2026-04-22T09:14:54.226Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

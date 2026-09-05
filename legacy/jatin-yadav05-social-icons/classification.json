@@ -1,0 +1,28 @@
+{
+  "category": "navigation",
+  "subcategory": "social-links",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "media",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Footer section displaying social media profile links",
+    "Contact page social icon navigation",
+    "Profile or author bio section with social links",
+    "Landing page social proof section"
+  ],
+  "ai_summary": "A minimalist social media icons component displaying GitHub, X (Twitter), LinkedIn, and Dribbble links with inline SVG icons. The component renders icons in a flex container using Tailwind CSS sizing utilities and currentColor for theming flexibility. Ideal for footers, profile pages, or contact sections needing quick access to social profiles.",
+  "_classifiedAt": "2026-04-22T09:00:59.677Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

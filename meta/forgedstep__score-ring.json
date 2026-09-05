@@ -1,0 +1,18 @@
+{
+  "url": "https://21st.dev/@forgedstep/components/score-ring",
+  "author": "forgedstep",
+  "slug": "score-ring",
+  "name": "score-ring",
+  "description": "Animated score ring (0-100) that draws its arc and counts the number up on mount, with easing. Respects prefers-reduced-motion by showing the final value instantly. Themeable via CSS variables with sensible fallbacks.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/forgedstep/score-ring?api_key=$API_KEY_21ST\"",
+  "id": "forgedstep__score-ring",
+  "bundleUrl": "https://cdn.21st.dev/forgedstep/score-ring/default/bundle.1782972360203.html",
+  "previewUrl": null,
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "preview": "preview.png",
+  "previewVia": "ogCard"
+}

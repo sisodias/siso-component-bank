@@ -1,0 +1,28 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "user-avatar",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying user profile pictures in SaaS applications",
+    "Showing avatar fallbacks when images fail to load",
+    "User identification in comment sections and dashboards",
+    "Avatar display in messaging and notification interfaces",
+    "Profile picture rendering in social and collaboration tools"
+  ],
+  "ai_summary": "A minimal Avatar component built with Radix UI primitives for displaying user profile pictures with automatic fallback to initials when images fail to load. Provides three sub-components: Avatar container, AvatarImage, and AvatarFallback for flexible composition.",
+  "_classifiedAt": "2026-04-23T17:42:17.899Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

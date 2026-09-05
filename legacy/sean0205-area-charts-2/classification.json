@@ -1,0 +1,31 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "area-chart",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying time-series data trends and patterns for analytics dashboards",
+    "Visualizing financial metrics and KPIs in SaaS applications",
+    "Showing comparative data across multiple categories over time",
+    "Rendering user engagement metrics for product analytics",
+    "Displaying sales or revenue trends for business reporting"
+  ],
+  "ai_summary": "A responsive area chart component built on Recharts with theming support for light and dark modes. Uses a context-based configuration system for flexible chart customization and styling through CSS selectors. Designed for embedding in dashboards and analytics interfaces to display time-series or comparative data trends.",
+  "_classifiedAt": "2026-04-23T17:21:57.988Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

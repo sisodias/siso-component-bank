@@ -1,0 +1,36 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying user profile pictures in navigation headers and user lists",
+    "Showing avatar placeholders with initials when images fail to load",
+    "Representing users in comment sections, chat interfaces, and activity feeds",
+    "Creating consistent user identity visuals across social and community platforms"
+  ],
+  "ai_summary": "A lightweight Avatar component built on Radix UI primitives that displays user profile images with automatic fallback to initials when images fail to load. Supports customizable sizing, rounded styling, and background theming. Part of a prediction market card collection from the 21st.dev marketplace, commonly used for displaying trader or user identities in financial prediction interfaces.",
+  "_classifiedAt": "2026-04-23T16:44:31.516Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

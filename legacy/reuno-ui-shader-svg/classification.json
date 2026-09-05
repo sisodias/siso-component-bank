@@ -1,0 +1,35 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "shader-animated-svg",
+  "visual_style": [
+    "gradient",
+    "3d"
+  ],
+  "interactions": [
+    "mouse-tracking"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Interactive hero section with responsive shader effects that follow cursor movement",
+    "Animated decorative element for landing pages and marketing sites",
+    "Visually engaging loading state or transition component",
+    "Creative background accent for digital products and portfolios",
+    "Atmospheric visual element for immersive web experiences"
+  ],
+  "ai_summary": "An interactive shader-based SVG component featuring animated mesh gradients with mouse-tracking responsiveness. The component combines framer-motion floating animations with real-time cursor position analysis to create depth and parallax-like effects. Uses @paper-design/shaders-react for GPU-accelerated gradient rendering, resulting in a soft, ethereal 3D-like visual suitable for creative and SaaS applications.",
+  "_classifiedAt": "2026-04-23T17:16:41.018Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

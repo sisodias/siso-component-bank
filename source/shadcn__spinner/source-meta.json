@@ -1,0 +1,26 @@
+{
+  "id": "shadcn__spinner",
+  "author": "shadcn",
+  "slug": "spinner",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcn/components/spinner",
+  "fetchedAt": "2026-08-29T07:09:13.725Z",
+  "completedAt": "2026-08-29T07:09:15.794Z",
+  "versionedFilename": "code.1760079693918.tsx",
+  "codeReference": "r2://components-code-private/larsen66/spinner/code.1760079693918.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/spinner/code.1760079693918.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 331,
+  "sha256": "3e6e6e8d37fb4069f8e43e55318f8db06fbc36e6c8be0096da3c9337c1c798b9",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "category": "overlay",
+  "subcategory": "wallet-connection-modal",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Web3 application wallet authentication flow",
+    "Cryptocurrency exchange onboarding",
+    "NFT marketplace login",
+    "DeFi platform connection"
+  ],
+  "ai_summary": "A modal overlay component for connecting cryptocurrency wallets in Web3 applications. Features multiple wallet options and a clean, accessible interface built with Radix UI primitives and Tailwind CSS. Supports multiple wallet providers and includes standard button variants for different actions within the modal.",
+  "_classifiedAt": "2026-04-22T09:08:59.326Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "theutkarshmail__map",
+  "author": "theutkarshmail",
+  "slug": "map",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theutkarshmail/components/map",
+  "fetchedAt": "2026-08-29T07:37:10.930Z",
+  "completedAt": "2026-08-29T07:37:13.138Z",
+  "versionedFilename": "code.1755539753582.tsx",
+  "codeReference": "r2://components-code-private/theutkarshmail/map/code.1755539753582.tsx",
+  "codeUrl": "https://cdn.21st.dev/theutkarshmail/map/code.1755539753582.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2332,
+  "sha256": "61421ba109efd2d0dae95eb5b8e81141e2f672a18eee92f952242ac11ac7fe01",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

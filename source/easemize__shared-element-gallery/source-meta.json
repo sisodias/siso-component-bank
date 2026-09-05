@@ -1,0 +1,26 @@
+{
+  "id": "easemize__shared-element-gallery",
+  "author": "easemize",
+  "slug": "shared-element-gallery",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@easemize/components/shared-element-gallery",
+  "fetchedAt": "2026-08-29T04:39:02.389Z",
+  "completedAt": "2026-08-29T04:39:04.572Z",
+  "versionedFilename": "code.1775741701044.tsx",
+  "codeReference": "r2://components-code-private/easemize/shared-element-gallery/code.1775741701044.tsx",
+  "codeUrl": "https://cdn.21st.dev/easemize/shared-element-gallery/code.1775741701044.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5592,
+  "sha256": "83cf16e633fc268f8e7232d9406cd74497262002384ce897050eaa5fdf631976",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

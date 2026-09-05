@@ -1,0 +1,26 @@
+{
+  "id": "danielpetho__text-highlighter",
+  "author": "danielpetho",
+  "slug": "text-highlighter",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@danielpetho/components/text-highlighter",
+  "fetchedAt": "2026-08-29T04:08:05.087Z",
+  "completedAt": "2026-08-29T04:08:07.516Z",
+  "versionedFilename": "code.1783613439407.tsx",
+  "codeReference": "r2://components-code-private/danielpetho/text-highlighter/code.1783613439407.tsx",
+  "codeUrl": "https://cdn.21st.dev/danielpetho/text-highlighter/code.1783613439407.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5351,
+  "sha256": "5c37e234ce1b07dcdf516d4cf6bb7924cb2e56348d0d4596187ace1d3811f438",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

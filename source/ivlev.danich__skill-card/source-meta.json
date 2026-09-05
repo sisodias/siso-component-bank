@@ -1,0 +1,26 @@
+{
+  "id": "ivlev.danich__skill-card",
+  "author": "ivlev.danich",
+  "slug": "skill-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ivlev.danich/components/skill-card",
+  "fetchedAt": "2026-08-29T05:05:03.447Z",
+  "completedAt": "2026-08-29T05:05:05.847Z",
+  "versionedFilename": "code.1768849987740.tsx",
+  "codeReference": "r2://components-code-private/ivlev.danich/skill-card/code.1768849987740.tsx",
+  "codeUrl": "https://cdn.21st.dev/ivlev.danich/skill-card/code.1768849987740.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3916,
+  "sha256": "327d587aedce754f1d835708efac727af22960db2b64494cb08478f8adcf448e",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

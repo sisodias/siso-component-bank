@@ -1,0 +1,26 @@
+{
+  "id": "designali-in__vercel-hero",
+  "author": "designali-in",
+  "slug": "vercel-hero",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/vercel-hero",
+  "fetchedAt": "2026-08-29T04:22:11.277Z",
+  "completedAt": "2026-08-29T04:22:13.827Z",
+  "versionedFilename": "code.1760627331464.tsx",
+  "codeReference": "r2://components-code-private/designali-in/vercel-hero/code.1760627331464.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/vercel-hero/code.1760627331464.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4999,
+  "sha256": "1c545752b987dcebe1726100b7d594f30f199b5c84892841105cfa40f89955e1",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

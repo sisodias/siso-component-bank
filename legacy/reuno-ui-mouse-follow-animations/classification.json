@@ -1,0 +1,26 @@
+{
+  "category": "other",
+  "subcategory": "mouse-follow-animation, cursor-effect, spring-physics",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Creating interactive cursor effects that follow user mouse movement with smooth spring physics",
+    "Adding visual feedback through animated elements that respond to pointer events",
+    "Building engaging hero sections with dynamic cursor-following elements",
+    "Enhancing user experience with subtle, playful motion effects",
+    "Creating custom cursor overlays for branded website experiences"
+  ],
+  "ai_summary": "A mouse follow animation component built with Framer Motion that tracks cursor position using spring physics for smooth, natural movement. The collection includes two variants: SimpleMouseFollow with basic position tracking, and SpringMouseFollow with additional scale and opacity animations. Both components respond to pointer events to show/hide the follower element with elegant spring-based transitions.",
+  "_classifiedAt": "2026-04-23T01:48:31.565Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

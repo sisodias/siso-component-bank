@@ -1,0 +1,26 @@
+{
+  "id": "theutkarshmail__pattern-loader",
+  "author": "theutkarshmail",
+  "slug": "pattern-loader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theutkarshmail/components/pattern-loader",
+  "fetchedAt": "2026-08-29T07:37:26.301Z",
+  "completedAt": "2026-08-29T07:37:28.599Z",
+  "versionedFilename": "code.1755117635354.tsx",
+  "codeReference": "r2://components-code-private/theutkarshmail/pattern-loader/code.1755117635354.tsx",
+  "codeUrl": "https://cdn.21st.dev/theutkarshmail/pattern-loader/code.1755117635354.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1301,
+  "sha256": "3f5a4b422762d7fa1a532a403c50e8b09c5c95a79f0d92321581b5cae65bf485",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "category": "card",
+  "subcategory": "Product feature showcase",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying individual product features on a SaaS landing page",
+    "Showcasing service offerings in a grid layout",
+    "Highlighting key benefits in marketing sections",
+    "Presenting product highlights with call-to-action links",
+    "Creating animated feature sections on product pages"
+  ],
+  "ai_summary": "A product feature card component that displays an image, title, description, and call-to-action link. Built with Framer Motion for scroll-triggered animations with smooth spring-based transitions. Features hover effects including elevation and shadow changes. Highly customizable through props and CSS class overrides, making it suitable for SaaS landing pages, e-commerce product showcases, and feature demonstration sections.",
+  "_classifiedAt": "2026-04-22T09:02:27.638Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

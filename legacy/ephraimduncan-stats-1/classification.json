@@ -1,0 +1,27 @@
+{
+  "category": "card",
+  "subcategory": "stats-card",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying individual metrics or KPIs on a dashboard",
+    "Showing key statistics in a card-based layout",
+    "Presenting comparative data with titles and descriptions",
+    "Grouping related data points in a visually contained unit",
+    "Building dashboard interfaces with multiple metric cards"
+  ],
+  "ai_summary": "A minimalist card component designed for displaying statistics and metrics on dashboards. Built with Tailwind CSS, it provides a clean container with Card, CardHeader, CardTitle, and CardDescription subcomponents for structured data presentation. The component uses standard card patterns with subtle shadows and borders, making it suitable for SaaS dashboards, analytics interfaces, and any data-driven application requiring metric display cards.",
+  "_classifiedAt": "2026-04-23T16:39:34.123Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

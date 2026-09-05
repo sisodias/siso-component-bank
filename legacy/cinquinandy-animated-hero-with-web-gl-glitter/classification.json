@@ -1,0 +1,36 @@
+{
+  "category": [
+    "hero",
+    "media"
+  ],
+  "subcategory": "WebGL animated hero with particle glitter effect",
+  "visual_style": [
+    "3d",
+    "gradient",
+    "colorful"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing pages requiring visually striking hero sections to capture user attention",
+    "Marketing sites for SaaS products or creative platforms wanting premium visual appeal",
+    "E-commerce product showcases needing dynamic visual effects",
+    "Portfolio or creative agency websites showcasing technical prowess",
+    "Entertainment or media platforms requiring immersive visual experiences"
+  ],
+  "ai_summary": "A sophisticated WebGL-powered hero component using React Three Fiber with custom GLSL shaders to create an animated glitter particle effect. The effect uses layered noise textures and power functions to generate sharp, defined sparkles that animate over time. This is a high-impact visual component ideal for landing pages or marketing sites where capturing user attention immediately is crucial.",
+  "_classifiedAt": "2026-04-22T08:53:48.899Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

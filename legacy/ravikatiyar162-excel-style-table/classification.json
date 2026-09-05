@@ -1,0 +1,36 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "spreadsheet-table",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav",
+    "drag"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "education",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying and editing tabular data in a spreadsheet-like interface with familiar Excel interactions",
+    "Performing range selections with shift+click for bulk data operations",
+    "Editing individual cells via double-click with inline input editing",
+    "Drag-to-fill cells to quickly populate data across rows or columns",
+    "Integrating into data-heavy dashboards or admin interfaces requiring tabular data management"
+  ],
+  "ai_summary": "An interactive Excel-style table component with spreadsheet-like functionality including cell selection, range selection via shift+click, inline cell editing on double-click, and drag-to-fill behavior. Built with React and framer-motion for smooth animations, supporting both editable and read-only modes with toast notifications for user feedback. Ideal for SaaS applications, data dashboards, or any interface requiring spreadsheet-style data manipulation and display.",
+  "_classifiedAt": "2026-04-22T09:09:16.787Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

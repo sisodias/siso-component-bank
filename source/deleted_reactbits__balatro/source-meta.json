@@ -1,0 +1,26 @@
+{
+  "id": "deleted_reactbits__balatro",
+  "author": "deleted_reactbits",
+  "slug": "balatro",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@deleted_reactbits/components/balatro",
+  "fetchedAt": "2026-08-29T04:12:42.343Z",
+  "completedAt": "2026-08-29T04:12:44.472Z",
+  "versionedFilename": "code.1747800671378.tsx",
+  "codeReference": "r2://components-code-private/larsen66/balatro/code.1747800671378.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/balatro/code.1747800671378.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 8403,
+  "sha256": "69bb08db287da94ca2822ab551532ea8022c81f02dbb9385cb905eef96a9e904",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    "form",
+    "input"
+  ],
+  "subcategory": "calendar-booking",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "healthcare",
+    "e-commerce",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying a calendar with unavailable/booked dates grayed out for scheduling interfaces",
+    "Allowing users to select available appointment slots in booking systems",
+    "Showing reservation calendars for hotels, rentals, or event venues",
+    "Enabling users to pick dates for scheduling sessions or consultations",
+    "Integrating into multi-step booking flows for service platforms"
+  ],
+  "ai_summary": "A shadcn-style calendar component that visualizes booked or unavailable days, making it ideal for appointment scheduling, reservation systems, and booking interfaces. The component highlights unavailable dates while allowing users to select from available time slots. Built with Radix UI primitives and Tailwind CSS following shadcn/ui design patterns for seamless integration into React applications.",
+  "_classifiedAt": "2026-04-23T17:26:10.542Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

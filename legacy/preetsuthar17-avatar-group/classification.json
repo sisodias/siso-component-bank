@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar-group",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display team members or collaborators in a project workspace",
+    "Show users in a chat group or notification thread",
+    "Display followers or connections on a user profile",
+    "Show participants in an event or meeting",
+    "Display assignees or reviewers on tasks and issues"
+  ],
+  "ai_summary": "A clean, lightweight avatar group component that displays multiple user avatars in an overlapping stack formation. Features smooth hover animations that lift individual avatars with z-index changes for emphasis. Configurable props allow customization of avatar size, overlap amount, and maximum visible count with extra member indicators. Built with Tailwind CSS and React, suitable for any application needing to display user collections like team members, followers, or conversation participants.",
+  "_classifiedAt": "2026-04-23T17:06:51.612Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

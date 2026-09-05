@@ -1,0 +1,43 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "animated-card-diagram",
+  "type": "registry:ui",
+  "title": "AnimatedCardDiagram",
+  "description": "Multi-layered animated card with SVG donut chart, floating tech badges, and hover-triggered layer transitions",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "card",
+    "diagram",
+    "animation",
+    "donut-chart",
+    "hover",
+    "layers"
+  ],
+  "files": [
+    {
+      "path": "animated-card-diagram.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "clsx",
+    "tailwind-merge"
+  ],
+  "registryDependencies": [
+    "animated-card-diagram"
+  ],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "curationTags": []
+  }
+}

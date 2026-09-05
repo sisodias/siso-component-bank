@@ -1,0 +1,26 @@
+{
+  "id": "designali-in__particle-hero",
+  "author": "designali-in",
+  "slug": "particle-hero",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/particle-hero",
+  "fetchedAt": "2026-08-29T04:20:28.301Z",
+  "completedAt": "2026-08-29T04:20:30.489Z",
+  "versionedFilename": "code.1755358594259.tsx",
+  "codeReference": "r2://components-code-private/designali-in/particle-hero/code.1755358594259.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/particle-hero/code.1755358594259.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 16197,
+  "sha256": "8211c222c6b53ec96a46cb59add981a5a8d8e14f611e00a0968b2183a840d0a1",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "youcefbnm-cta-section-with-gallery",
+  "type": "registry:ui",
+  "title": "Youcefbnm Cta Section With Gallery",
+  "description": "Installed from https://21st.dev/r/youcefbnm/cta-section-with-gallery",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "youcefbnm-cta-section-with-gallery"
+  ],
+  "files": [
+    {
+      "path": "cta-section-with-gallery.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/youcefbnm/cta-section-with-gallery",
+    "fetchedAt": "2026-04-23T03:04:53.960Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

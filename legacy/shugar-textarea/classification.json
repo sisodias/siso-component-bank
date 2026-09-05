@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "textarea-with-error-handling",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "User text input in web forms with validation error display",
+    "Comment or message composition with inline error feedback",
+    "Contact forms requiring text input with error state management",
+    "Description or notes fields with error messaging support",
+    "Any form requiring multi-line text input with built-in error handling"
+  ],
+  "ai_summary": "A Shugar design system textarea component with optional error state handling. Features size variants (small, medium, large), error message display with icon and action link support, and clean Tailwind CSS styling with red accent colors for error states. Part of the shugar component library on 21st.dev, designed for integration into forms requiring text input with validation feedback.",
+  "_classifiedAt": "2026-04-23T17:31:57.041Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

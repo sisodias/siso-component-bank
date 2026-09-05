@@ -1,0 +1,33 @@
+{
+  "id": "designali-in__floating-particles",
+  "author": "designali-in",
+  "slug": "floating-particles",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/floating-particles",
+  "fetchedAt": "2026-08-29T04:18:10.324Z",
+  "completedAt": "2026-08-29T04:18:12.518Z",
+  "versionedFilename": "code.1785304296920-635d56a7-7e83-455b-b275-f71123f92f61.tsx",
+  "codeReference": "r2://components-code-private/designali-in/floating-particles/code.1785304296920-635d56a7-7e83-455b-b275-f71123f92f61.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/floating-particles/code.1785304296920-635d56a7-7e83-455b-b275-f71123f92f61.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/designali-in__floating-particles/code.tsx",
+    "bytes": 9578,
+    "sha256": "103ee7501c7df9ea22ab4d8236947786597e23e0460147ae6a3a535699c271e2",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

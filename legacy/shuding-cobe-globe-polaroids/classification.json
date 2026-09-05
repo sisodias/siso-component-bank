@@ -1,0 +1,35 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "3d-globe-visualization",
+  "visual_style": [
+    "3d",
+    "minimalist"
+  ],
+  "interactions": [
+    "drag",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Displaying travel photography or destination highlights with geographic context",
+    "Showcasing portfolio locations or case studies across different cities",
+    "Creating engaging hero sections for travel, tourism, or lifestyle websites",
+    "Visualizing geographic data points with associated imagery for presentations",
+    "Adding interactive globe elements to storytelling or editorial content"
+  ],
+  "ai_summary": "An interactive 3D globe component with polaroid-style markers displaying images at geographic locations. Features smooth rotation controls via drag interaction and displays location captions with varied rotation angles for a casual, photo-album aesthetic. Built with the cobe-globe library for performant WebGL rendering.",
+  "_classifiedAt": "2026-04-22T09:16:55.085Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

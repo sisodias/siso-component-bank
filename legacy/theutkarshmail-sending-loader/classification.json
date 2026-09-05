@@ -1,0 +1,35 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "terminal-status-loader",
+  "visual_style": [
+    "dark",
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display sending or processing status during form submission",
+    "Show loading state for messaging or notification systems",
+    "Indicate background operation progress in terminal-style interfaces",
+    "Provide status feedback for API or data submission workflows"
+  ],
+  "ai_summary": "A terminal-style loading indicator styled as a macOS window with customizable status text. Features a dark gray background, green monospace text, and typical window controls (close, minimize, maximize). Designed to communicate sending or processing states during user actions like form submissions or API calls.",
+  "_classifiedAt": "2026-04-23T17:35:47.282Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

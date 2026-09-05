@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "Statistical distribution chart",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying statistical distributions with quartile ranges and median values",
+    "Comparing multiple data distributions side-by-side",
+    "Visualizing outliers and data spread for analytics dashboards",
+    "Showing population or sample statistics in research reports",
+    "Rendering financial or scientific data distributions with interactive tooltips"
+  ],
+  "ai_summary": "A hybrid box plot and violin plot visualization component built with Airbnb's Visx library. Combines statistical distribution display with interactive tooltips showing min, max, median, and quartile values. Supports custom data input, margins, and renders scalable visualizations for data analysis use cases.",
+  "_classifiedAt": "2026-04-23T11:29:27.058Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

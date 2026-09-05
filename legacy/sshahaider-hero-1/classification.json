@@ -1,0 +1,41 @@
+{
+  "category": [
+    "hero"
+  ],
+  "subcategory": "landing-page-hero-with-cta",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Main landing page section for SaaS and product websites to showcase value proposition",
+    "Marketing site header with prominent call-to-action buttons",
+    "Portfolio or personal site hero section with gradient background treatment",
+    "Product launch page with multiple CTA variants and accessibility focus",
+    "App homepage introducing key features with visual hierarchy"
+  ],
+  "ai_summary": "A hero section component designed for landing pages and marketing websites, featuring a clean minimalist design with gradient accents. The component integrates a flexible button system with multiple variants (default, destructive, outline, secondary, ghost, link) using Radix UI primitives for accessibility. Includes ring-based focus states, smooth transitions, and responsive sizing options for desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-22T09:17:21.914Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

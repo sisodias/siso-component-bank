@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@originui/components/newsletter-section",
+  "author": "originui",
+  "slug": "newsletter-section",
+  "name": "newsletter-section",
+  "description": "A customizable newsletter subscription section with a modern design, loading states, and background effects.\n\nFeatures\n- Customizable title and styling\n- Built-in form handling and error states\n- Loading indicators\n- Animated background effect (optional)\n- Accessible form inputs\n- Dark mode support\n- Responsive design",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/originui/newsletter-section?api_key=$API_KEY_21ST\"",
+  "id": "originui__newsletter-section",
+  "bundleUrl": "https://cdn.21st.dev/bundled/992.html",
+  "previewUrl": "https://cdn.21st.dev/user_originui/newsletter-section.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 45,
+  "demo_id": 992,
+  "video_url": "https://cdn.21st.dev/user_originui/newsletter-section/992/video.mp4"
+}

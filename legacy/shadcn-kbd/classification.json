@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "keyboard-key-display",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying keyboard shortcuts in documentation and help sections",
+    "Showing keyboard combinations in UI tutorials and tooltips",
+    "Representing keyboard input in form fields and search interfaces",
+    "Visual keyboard indicators in accessible interfaces",
+    "Shortcuts display in software applications and command palettes"
+  ],
+  "ai_summary": "A keyboard key display component from shadcn/ui that renders keyboard keys and key combinations with consistent styling. Uses Radix UI's Slot for composition flexibility and Tailwind for styling. Part of shadcn's design system with clean, minimal aesthetics suitable for documentation, tutorials, and UI overlays.",
+  "_classifiedAt": "2026-04-22T09:14:26.213Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

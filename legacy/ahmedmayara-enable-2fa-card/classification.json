@@ -1,0 +1,32 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "base-container",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "A container component for displaying grouped content sections",
+    "Building card-based layouts and dashboard interfaces",
+    "Organizing related information in a contained visual unit",
+    "Creating consistent card structures across web applications",
+    "Displaying contextual information with headers, content, and footers"
+  ],
+  "ai_summary": "A foundational UI component from shadcn/ui that provides a versatile card container with distinct sections for headers, titles, descriptions, content, and footers. It uses minimal styling with a subtle shadow and border for a clean, flat aesthetic suitable for various interfaces.",
+  "_classifiedAt": "2026-04-23T11:29:17.149Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

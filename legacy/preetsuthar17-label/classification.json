@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "form-text-input",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "User authentication forms with email/password fields and visibility toggles",
+    "Search interfaces with icon integration on either side of the input",
+    "Data entry forms requiring validation with destructive error states",
+    "Contact forms needing clearable inputs for quick reset functionality",
+    "Settings panels with ghost-style inputs for secondary actions"
+  ],
+  "ai_summary": "A versatile React input component with comprehensive variant support including default, destructive, and ghost styles. Features include optional left/right icons, clearable functionality, password visibility toggle, and multiple size options. Built with class-variance-authority for consistent styling across variants and includes proper accessibility with focus ring states.",
+  "_classifiedAt": "2026-04-23T17:08:24.267Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

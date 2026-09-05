@@ -1,0 +1,27 @@
+{
+  "category": "media",
+  "subcategory": "text-marquee",
+  "visual_style": [],
+  "interactions": [
+    "parallax",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Eye-catching hero section text for landing pages with continuous scrolling animation",
+    "Attention-grabbing call-to-action banner that follows cursor position",
+    "Visual brand statement display with interactive hover tooltips"
+  ],
+  "ai_summary": "An infinite text marquee component with cursor-reactive rotation and a following tooltip that appears on hover. Features smooth continuous scrolling animation powered by motion/react, with customizable text, speed, colors, and font size. Designed to create eye-catching visual impact on hero sections and landing pages.",
+  "_classifiedAt": "2026-04-23T17:08:14.862Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,32 @@
+{
+  "category": [
+    "card",
+    "input"
+  ],
+  "subcategory": "hotel-accommodation-card-with-action-button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Interactive hotel booking cards with call-to-action buttons for reservations",
+    "Accommodation listing components with action triggers for user engagement",
+    "Property showcase interfaces requiring clear selection or booking CTAs"
+  ],
+  "ai_summary": "A reusable button component with Radix UI integration and class-variance-authority for consistent styling across variants and sizes. Features accessibility-focused focus rings, keyboard navigation support, and multiple visual variants including default, destructive, outline, secondary, ghost, and link styles. Designed as part of a hotel card UI system for accommodation booking interfaces.",
+  "_classifiedAt": "2026-04-23T01:54:37.626Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "atomic-button with variant system",
+  "visual_style": [
+    "flat",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in forms and landing pages",
+    "Destructive action buttons with visual warning styling",
+    "Icon-only buttons for compact toolbars and navigation",
+    "Loading states for async operations with disabled interaction",
+    "Shimmer and glow variants for premium hero sections"
+  ],
+  "ai_summary": "A versatile atomic button component with 8 variants including default, destructive, outline, secondary, ghost, link, shimmer, and glow styles. Built on shadcn/ui patterns with CVA (Class Variance Authority) for type-safe variant composition. Features loading state, left/right icon slots, and responsive sizing options for desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T16:47:44.606Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

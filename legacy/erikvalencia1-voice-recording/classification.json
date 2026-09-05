@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input",
+    "media"
+  ],
+  "subcategory": "voice-recorder",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "education",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Voice note capture in productivity and collaboration apps",
+    "Audio message recording in messaging and communication platforms",
+    "Voice memo creation for personal task management",
+    "Voice command initiation in AI assistant interfaces",
+    "Quick audio feedback collection in surveys or forms"
+  ],
+  "ai_summary": "A PulseVoiceRecorder component featuring an animated microphone button with pulsing ring visualizations during active recording. Includes a duration timer display and toggle functionality for starting/stopping voice capture. Built with React hooks for state management and CSS animations for smooth visual feedback. The component uses a minimalist flat design with blue accent colors and transparent overlay effects, making it suitable for integration into various SaaS and communication applications requiring voice input capabilities.",
+  "_classifiedAt": "2026-04-22T08:59:07.760Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

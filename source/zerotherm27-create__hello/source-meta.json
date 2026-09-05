@@ -1,0 +1,26 @@
+{
+  "id": "zerotherm27-create__hello",
+  "author": "zerotherm27-create",
+  "slug": "hello",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@zerotherm27-create/components/hello",
+  "fetchedAt": "2026-08-29T08:02:15.281Z",
+  "completedAt": "2026-08-29T08:02:17.727Z",
+  "versionedFilename": "code.1783440043536.tsx",
+  "codeReference": "r2://components-code-private/zerotherm27-create/hello/code.1783440043536.tsx",
+  "codeUrl": "https://cdn.21st.dev/zerotherm27-create/hello/code.1783440043536.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 63,
+  "sha256": "6b09d79c74e46b9777e3ccf8807e3b0464e77bff6cff6a455a284a6969e6b577",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

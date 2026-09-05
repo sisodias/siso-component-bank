@@ -1,0 +1,28 @@
+{
+  "category": "form",
+  "subcategory": "button-group",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Grouping related action buttons with automatic dividers in web applications",
+    "Creating consistent button hierarchies with variant and size options",
+    "Building toolbar-style interfaces with hover and focus states",
+    "Implementing form action buttons with disabled state handling",
+    "Creating icon-only buttons for compact UI elements"
+  ],
+  "ai_summary": "A flexible button group component using class-variance-authority for variant management, featuring multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes. The component wraps multiple buttons with optional dividers using React context, providing consistent styling, hover states, and disabled state handling across grouped actions. Built with Tailwind CSS for minimalist, shadow-based styling that follows shadcn/ui design patterns.",
+  "_classifiedAt": "2026-04-23T16:40:40.665Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

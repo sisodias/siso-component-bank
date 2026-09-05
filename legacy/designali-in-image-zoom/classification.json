@@ -1,0 +1,24 @@
+{
+  "category": "media",
+  "subcategory": "image-zoom",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "e-commerce",
+    "media",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "E-commerce product detail pages where users need to inspect images closely",
+    "Portfolio or gallery websites for viewing high-resolution images",
+    "Any application requiring zoomable image content with decorative branding elements"
+  ],
+  "ai_summary": "A stylized image zoom component featuring a Next.js Image with react-medium-image-zoom functionality. The component displays decorative yellow Plus icons in corners and a gradient text overlay with the displayed name. Designed for desktop and mobile platforms with responsive sizing, making it suitable for product showcases, portfolios, or any image-focused interface where zoom inspection is needed.",
+  "_classifiedAt": "2026-04-23T16:31:34.284Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

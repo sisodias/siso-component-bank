@@ -1,0 +1,33 @@
+{
+  "id": "dubinc__banner",
+  "author": "dubinc",
+  "slug": "banner",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dubinc/components/banner",
+  "fetchedAt": "2026-08-29T04:37:02.684Z",
+  "completedAt": "2026-08-29T04:37:03.739Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/dubinc__banner/code.tsx",
+    "bytes": 3151,
+    "sha256": "782c80219a3b9f0bc80f67379af93254c00d466ec482103abb7c812d1a989639",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

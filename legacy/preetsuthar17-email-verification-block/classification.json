@@ -1,0 +1,35 @@
+{
+  "category": [
+    "form",
+    "input",
+    "feedback"
+  ],
+  "subcategory": "email-verification",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Account registration email verification for SaaS applications",
+    "User onboarding email confirmation flow",
+    "Secure login verification via email code entry",
+    "Newsletter subscription confirmation process",
+    "Password reset email verification trigger"
+  ],
+  "ai_summary": "A composable email verification block component featuring a dual-icon button system with multiple variants and states including loading support. Built with Radix UI Slot for composition and CVA for variant management. Provides a clean, accessible form element for email verification flows in authentication-heavy applications.",
+  "_classifiedAt": "2026-04-23T01:45:39.835Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,19 @@
+{
+ "id": "youcefbnm__process-timeline",
+ "outcome": "retrieved",
+ "retrievalMethod": "local-legacy-store-copy",
+ "provenanceNote": "Copied from the pre-existing local legacy 21st store; NOT fetched from 21st.dev by this lane.",
+ "legacySourcePath": "legacy/youcefbnm-process-timeline/process-timeline.tsx",
+ "legacySourceFile": "process-timeline.tsx",
+ "legacyDependencies": [
+  "@uidotdev/usehooks",
+  "class-variance-authority",
+  "motion"
+ ],
+ "upstreamUrl": "https://21st.dev/@youcefbnm/components/process-timeline",
+ "httpStatus": null,
+ "sha256": "34996334d5f4be9652748c21154594c4631cb780e9010ea4f47e1e5c1c4a8db2",
+ "bytes": 3514,
+ "completedAt": "2026-08-29T03:43:54.197Z",
+ "seededBy": "CENA-directive-2026-08-29-skip-legacy"
+}

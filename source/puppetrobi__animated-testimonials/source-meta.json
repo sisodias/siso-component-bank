@@ -1,0 +1,26 @@
+{
+  "id": "puppetrobi__animated-testimonials",
+  "author": "puppetrobi",
+  "slug": "animated-testimonials",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@puppetrobi/components/animated-testimonials",
+  "fetchedAt": "2026-08-29T06:16:41.296Z",
+  "completedAt": "2026-08-29T06:16:43.183Z",
+  "versionedFilename": "code.1754308982501.tsx",
+  "codeReference": "r2://components-code-private/puppetrobi/animated-testimonials/code.1754308982501.tsx",
+  "codeUrl": "https://cdn.21st.dev/puppetrobi/animated-testimonials/code.1754308982501.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6000,
+  "sha256": "03038e2d65ec379d18e94dfdf8e138a5d1008635cf78e4d12027b8be661de0b9",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

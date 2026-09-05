@@ -1,0 +1,26 @@
+{
+  "id": "uilayout.contact__growth-plans",
+  "author": "uilayout.contact",
+  "slug": "growth-plans",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uilayout.contact/components/growth-plans",
+  "fetchedAt": "2026-08-29T07:43:54.057Z",
+  "completedAt": "2026-08-29T07:43:56.039Z",
+  "versionedFilename": "code.1784693416850-f4504338-0199-4332-be39-6e14d73ea490.tsx",
+  "codeReference": "r2://components-code-private/uilayout.contact/growth-plans/code.1784693416850-f4504338-0199-4332-be39-6e14d73ea490.tsx",
+  "codeUrl": "https://cdn.21st.dev/uilayout.contact/growth-plans/code.1784693416850-f4504338-0199-4332-be39-6e14d73ea490.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

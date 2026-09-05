@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@lavikatiyar/components/pricing",
+  "author": "lavikatiyar",
+  "slug": "pricing",
+  "name": "pricing",
+  "description": "Pricing Plan Selection UI that helps users compare subscription tiers. It presents two options — Basic for individuals and small teams with limited features, and Pro for growing teams with advanced tools. Each plan shows price, features, and a user slider that adjusts cost per user, making pricing transparent. The design highlights the Pro plan with a “Popular” tag and a bold CTA button, guiding users toward the upgrade. It’s ideal for SaaS apps offering tiered subscriptions.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/lavikatiyar/pricing?api_key=$API_KEY_21ST\"",
+  "id": "lavikatiyar__pricing",
+  "bundleUrl": "https://cdn.21st.dev/lavikatiyar/pricing/default/bundle.1758082169205.html",
+  "previewUrl": "https://cdn.21st.dev/lavikatiyar/pricing/default/preview.1758082169204.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 20,
+  "demo_id": 7642,
+  "video_url": "https://cdn.21st.dev/lavikatiyar/pricing/default/video.1758082169204.mp4"
+}

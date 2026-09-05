@@ -1,0 +1,32 @@
+{
+  "category": "data-display",
+  "subcategory": "animated-chart-card",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying animated metric cards with integrated chart visualizations",
+    "Dashboard widget for real-time data updates with hover interactions",
+    "Product analytics visualization with expandable chart details",
+    "KPI display cards with gradient accents and dark mode support",
+    "Interactive sales or performance metrics cards with smooth animations"
+  ],
+  "ai_summary": "An animated card component designed for displaying chart data with interactive hover states. Features a composite structure with CardBody, CardTitle, CardDescription, and CardVisual subcomponents. Supports dark mode and uses Tailwind CSS for styling with gradient border effects on hover. Ideal for dashboard implementations requiring metric visualizations with smooth entrance animations and hover-triggered reveals.",
+  "_classifiedAt": "2026-04-23T11:31:29.964Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

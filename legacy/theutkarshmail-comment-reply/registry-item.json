@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "theutkarshmail-comment-reply",
+  "type": "registry:ui",
+  "title": "Theutkarshmail Comment Reply",
+  "description": "Installed from https://21st.dev/r/theutkarshmail/comment-reply",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "theutkarshmail-comment-reply"
+  ],
+  "files": [
+    {
+      "path": "comment-reply.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/theutkarshmail/comment-reply",
+    "fetchedAt": "2026-04-23T02:28:50.949Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

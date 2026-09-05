@@ -1,0 +1,30 @@
+{
+  "category": "feedback",
+  "subcategory": "dismissible-announcement-bar",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying version announcements or product updates at the top of a page",
+    "Showing promotional messages or special offers to website visitors",
+    "Conveying important system notifications like maintenance windows",
+    "Announcing new features or changelog information to users",
+    "Communicating time-sensitive information that can be dismissed after reading"
+  ],
+  "ai_summary": "A minimalist dismissible announcement banner component for displaying important messages at the top of a page. Features a title, description with link, and close button with smooth visibility toggle. Built with Tailwind CSS and shadcn/ui design system for seamless integration into web applications.",
+  "_classifiedAt": "2026-04-23T17:27:12.008Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

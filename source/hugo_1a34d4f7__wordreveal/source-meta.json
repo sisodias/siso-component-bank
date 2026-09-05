@@ -1,0 +1,26 @@
+{
+  "id": "hugo_1a34d4f7__wordreveal",
+  "author": "hugo_1a34d4f7",
+  "slug": "wordreveal",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@hugo_1a34d4f7/components/wordreveal",
+  "fetchedAt": "2026-08-29T04:58:54.140Z",
+  "completedAt": "2026-08-29T04:58:56.300Z",
+  "versionedFilename": "code.1782398550790.tsx",
+  "codeReference": "r2://components-code-private/hugo_1a34d4f7/wordreveal/code.1782398550790.tsx",
+  "codeUrl": "https://cdn.21st.dev/hugo_1a34d4f7/wordreveal/code.1782398550790.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3625,
+  "sha256": "ac13119a0cfa0bb24ef833b14e025e9947dd088330353c414eb8b1e7f6452500",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

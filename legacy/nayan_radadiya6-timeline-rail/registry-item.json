@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "nayan_radadiya6-timeline-rail",
+  "type": "registry:ui",
+  "title": "Nayan_radadiya6 Timeline Rail",
+  "description": "Installed from https://21st.dev/r/nayan_radadiya6/timeline-rail",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "nayan_radadiya6-timeline-rail"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "timeline-rail.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/nayan_radadiya6/timeline-rail",
+    "fetchedAt": "2026-04-23T01:18:28.527Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

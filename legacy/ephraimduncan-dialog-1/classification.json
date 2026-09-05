@@ -1,0 +1,39 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "modal dialog",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Confirmation dialogs for destructive actions like deletions or data loss",
+    "Form overlays for user input requiring focused attention",
+    "Settings or preferences panels displayed as modals",
+    "Alert or warning messages that require user acknowledgment",
+    "Content previews or details displayed in an overlay"
+  ],
+  "ai_summary": "A modal dialog component built on Radix UI primitives with Tailwind CSS styling. Features multiple button variants (default, destructive, outline, secondary, ghost, link) and full dark mode support. Includes a close button with X icon and supports accessibility-focused patterns with proper focus management and aria attributes.",
+  "_classifiedAt": "2026-04-23T16:38:56.853Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

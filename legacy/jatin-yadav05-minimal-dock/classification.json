@@ -1,0 +1,36 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "icon-dock bar",
+  "visual_style": [
+    "glass-morphism",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary navigation dock for web applications mimicking macOS-style taskbar",
+    "Quick-access icon menu for frequently used app features",
+    "Floating navigation bar with glass-morphism aesthetic",
+    "Desktop-style dock for navigation on hybrid platforms",
+    "Minimal icon launcher for app sections or pages"
+  ],
+  "ai_summary": "A minimal glass-morphism dock navigation component featuring macOS-style icon buttons with hover animations including scale, lift, and glow effects. Uses backdrop blur and semi-transparent styling for a modern frosted glass aesthetic. Supports custom icons via Lucide React icons library with mouse hover state management.",
+  "_classifiedAt": "2026-04-23T16:47:05.622Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

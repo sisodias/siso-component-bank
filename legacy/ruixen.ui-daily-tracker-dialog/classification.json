@@ -1,0 +1,38 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button, action-trigger",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "fintech",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Form submission and action triggering in web applications",
+    "Primary and secondary action buttons in dialogs and modals",
+    "Navigation and link-based interactions with asChild pattern",
+    "Destructive action confirmations with dedicated variant",
+    "Icon-only buttons for compact UI toolbars"
+  ],
+  "ai_summary": "A foundational button component with multiple visual variants (default, destructive, outline, secondary, ghost, link) and size options. Built with class-variance-authority for flexible theming, Radix UI Slot for composition patterns, and standard accessibility features including focus-visible rings and disabled states. Forms the basic action trigger element in UI systems.",
+  "_classifiedAt": "2026-04-23T17:17:36.417Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

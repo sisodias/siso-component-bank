@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "fintech",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Trigger form submissions and primary actions in web interfaces",
+    "Provide clickable navigation and call-to-action elements",
+    "Enable user interactions with different visual states for destructive, secondary, and default actions",
+    "Serve as a composable primitive via asChild prop for compound components"
+  ],
+  "ai_summary": "A versatile Radix UI-based button component with comprehensive variant system supporting default, destructive, outline, secondary, ghost, and link styles. Features multiple size options, shadow effects, focus-visible accessibility states, and composition support via the asChild pattern. Built with class-variance-authority for type-safe variant management and Radix Slot for render flexibility.",
+  "_classifiedAt": "2026-04-23T01:51:53.992Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

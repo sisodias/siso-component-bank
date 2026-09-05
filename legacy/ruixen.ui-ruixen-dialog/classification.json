@@ -1,0 +1,30 @@
+{
+  "category": "media",
+  "subcategory": "avatar",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display user profile pictures in navigation headers and dropdown menus",
+    "Show user avatars in comment sections and discussion threads",
+    "Display participant avatars in team member lists and cards",
+    "Show profile images in user cards and account settings interfaces",
+    "Display author avatars in article metadata and blog posts"
+  ],
+  "ai_summary": "A Radix UI-based Avatar component that displays user profile images with automatic fallback to initials when no image is available. Built as a minimal, accessible primitive that supports circular styling and integrates seamlessly into various UI contexts like cards, headers, comments, and team member displays across SaaS and content platforms.",
+  "_classifiedAt": "2026-04-23T17:20:15.040Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

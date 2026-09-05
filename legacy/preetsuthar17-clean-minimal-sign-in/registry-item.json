@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "preetsuthar17-clean-minimal-sign-in",
+  "type": "registry:ui",
+  "title": "Preetsuthar17 Clean Minimal Sign In",
+  "description": "Installed from https://21st.dev/r/preetsuthar17/clean-minimal-sign-in",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "preetsuthar17-clean-minimal-sign-in"
+  ],
+  "files": [
+    {
+      "path": "clean-minimal-sign-in.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/preetsuthar17/clean-minimal-sign-in",
+    "fetchedAt": "2026-04-23T03:04:49.880Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

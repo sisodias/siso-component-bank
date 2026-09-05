@@ -1,0 +1,26 @@
+{
+  "id": "sshahaider__lazy-image",
+  "author": "sshahaider",
+  "slug": "lazy-image",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sshahaider/components/lazy-image",
+  "fetchedAt": "2026-08-29T07:26:31.712Z",
+  "completedAt": "2026-08-29T07:26:34.950Z",
+  "versionedFilename": "code.1757314888189.tsx",
+  "codeReference": "r2://components-code-private/sshahaider/lazy-image/code.1757314888189.tsx",
+  "codeUrl": "https://cdn.21st.dev/sshahaider/lazy-image/code.1757314888189.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2264,
+  "sha256": "97daec36c586e769c55925bf64d96c2e8c826779875ab04580318e4dd4f7d8b4",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

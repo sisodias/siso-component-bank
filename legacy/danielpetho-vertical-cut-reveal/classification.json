@@ -1,0 +1,30 @@
+{
+  "category": "media",
+  "subcategory": "text-reveal-animation",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Animate headlines and hero text with staggered vertical cut reveals on page load or scroll",
+    "Create engaging entrance animations for emphasized text content in landing pages",
+    "Add interactive text reveal effects triggered by user clicks in portfolios and presentations",
+    "Display animated testimonials or quotes with character-level staggered effects",
+    "Build scroll-triggered text animations for storytelling and narrative content sections"
+  ],
+  "ai_summary": "A Framer Motion-based text animation component that reveals content through a vertical cut effect with configurable splitting by words, characters, or lines. Supports staggered timing, spring-based physics animations, click/scroll triggers, and exposed refs for programmatic control. Designed as a reusable utility for creating engaging text entrance animations in hero sections, landing pages, and storytelling layouts.",
+  "_classifiedAt": "2026-04-23T16:29:24.949Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

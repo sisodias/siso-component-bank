@@ -1,0 +1,26 @@
+{
+  "id": "shadcnspace__sonner-05",
+  "author": "shadcnspace",
+  "slug": "sonner-05",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcnspace/components/sonner-05",
+  "fetchedAt": "2026-08-29T07:12:42.900Z",
+  "completedAt": "2026-08-29T07:12:44.902Z",
+  "versionedFilename": "code.1783695087058.tsx",
+  "codeReference": "r2://components-code-private/shadcnspace/sonner-05/code.1783695087058.tsx",
+  "codeUrl": "https://cdn.21st.dev/shadcnspace/sonner-05/code.1783695087058.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2617,
+  "sha256": "c7d1ec108e2a5e2c4f67247d8436b01e751d6bfc9d4c01be468dfa93291ca216",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

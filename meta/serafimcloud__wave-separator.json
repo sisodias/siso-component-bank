@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@serafimcloud/components/wave-separator",
+  "author": "serafimcloud",
+  "slug": "wave-separator",
+  "name": "wave-separator",
+  "description": "A zig-zag divider drawn by masking a solid color with a repeating inline SVG, so it inherits currentColor in light and dark mode and costs no image request. Inspired by Colin Lienard's personal site (colinlienard.com), rebuilt for React from scratch.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/serafimcloud/wave-separator?api_key=$API_KEY_21ST\"",
+  "id": "serafimcloud__wave-separator",
+  "bundleUrl": "https://cdn.21st.dev/serafimcloud/wave-separator/default/bundle.1785365373146-6a6bcccc-75de-4523-9025-2f0576a96d49.html",
+  "previewUrl": "https://cdn.21st.dev/serafimcloud/wave-separator/default/preview.1785365373146-6a6bcccc-75de-4523-9025-2f0576a96d49.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

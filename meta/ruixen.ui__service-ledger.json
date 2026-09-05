@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/service-ledger",
+  "author": "ruixen.ui",
+  "slug": "service-ledger",
+  "name": "service-ledger",
+  "description": "A scroll-spy services section. A sticky tab strip at the top tracks the active entry while the reader scrolls through long-form panels with deliverables, optional preview videos, and inline CTAs.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/service-ledger?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__service-ledger",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/service-ledger/default/bundle.1779950114153.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/service-ledger/default/preview.1779949996024.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

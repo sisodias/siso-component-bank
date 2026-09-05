@@ -1,0 +1,39 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "futuristic-file-uploader",
+  "type": "registry:ui",
+  "title": "FuturisticFileUploader",
+  "description": "Cyberpunk-themed file uploader with drag-and-drop, progress tracking, and image previews",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "file-upload",
+    "drag-drop",
+    "form",
+    "cyberpunk",
+    "progress"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "futuristic-file-uploader.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "curationTags": []
+  }
+}

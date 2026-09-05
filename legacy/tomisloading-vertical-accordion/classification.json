@@ -1,0 +1,30 @@
+{
+  "category": "navigation",
+  "subcategory": "expandable-panels",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display FAQs with expandable answers in a space-efficient vertical layout",
+    "Showcase product features with rich media content that users can explore",
+    "Organize documentation sections with progressive disclosure patterns",
+    "Create navigation menus with nested content sections",
+    "Present pricing tiers or plan comparisons in an interactive format"
+  ],
+  "ai_summary": "A vertical accordion component that displays expandable panels in a single-column layout on mobile and transforms to a horizontal row layout on larger screens. Each panel contains an icon, title, image, and description that expands on click. The component uses framer-motion for smooth open/close animations and includes light/dark mode theming support.",
+  "_classifiedAt": "2026-04-23T17:36:13.849Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

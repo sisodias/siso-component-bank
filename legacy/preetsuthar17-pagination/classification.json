@@ -1,0 +1,35 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "pagination-controls",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Navigate through pages of data in tables or lists within SaaS dashboards",
+    "Browse product listings in e-commerce applications with multiple result pages",
+    "Paginate through log entries or search results in developer tools",
+    "Navigate content sections in media or documentation sites",
+    "Switch between pages of results in any data-driven application"
+  ],
+  "ai_summary": "A flexible, variant-driven pagination component built with class-variance-authority for theming flexibility. Supports multiple visual styles (default, outline, ghost), sizes (sm, default, lg), and variants (default, compact), with built-in accessibility via focus-visible rings and disabled states. Includes chevron navigation buttons and ellipsis support for navigating between page ranges.",
+  "_classifiedAt": "2026-04-23T17:08:43.701Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

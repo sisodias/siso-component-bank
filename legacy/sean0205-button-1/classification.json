@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "versatile-button-with-variants",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Primary call-to-action buttons in SaaS dashboards and web applications",
+    "Form submission and action triggers with multiple visual variants",
+    "Navigation and menu controls with state-based styling",
+    "Accessible interactive elements with keyboard focus support",
+    "Themed button system supporting destructive, secondary, and ghost styles"
+  ],
+  "ai_summary": "A versatile React button component with 9 style variants using class-variance-authority for consistent theming. Supports multiple states including hover, focus-visible, disabled, and open (toggle) states. Built with Radix UI Slot for flexibility and Lucide React icons support. Ideal for SaaS products and developer tools requiring accessible, well-structured button systems across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T17:22:16.434Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

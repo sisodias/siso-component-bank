@@ -1,0 +1,18 @@
+{
+  "url": "https://21st.dev/@moorejp/components/school-selector-panel",
+  "author": "moorejp",
+  "slug": "school-selector-panel",
+  "name": "school-selector-panel",
+  "description": "Floating panel for selecting a university from a list. Renders institution rows with logo, name, tagline, left-border hover accent, and animated arrow. Includes an AI-live badge footer. Accepts a schools array with optional logoUrl and primaryColor per school.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/moorejp/school-selector-panel?api_key=$API_KEY_21ST\"",
+  "id": "moorejp__school-selector-panel",
+  "bundleUrl": "https://cdn.21st.dev/moorejp/school-selector-panel/default/bundle.1782776915212.html",
+  "previewUrl": null,
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "preview": "preview.png",
+  "previewVia": "ogCard"
+}

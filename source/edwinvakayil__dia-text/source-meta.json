@@ -1,0 +1,26 @@
+{
+  "id": "edwinvakayil__dia-text",
+  "author": "edwinvakayil",
+  "slug": "dia-text",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@edwinvakayil/components/dia-text",
+  "fetchedAt": "2026-08-29T04:41:48.893Z",
+  "completedAt": "2026-08-29T04:41:51.180Z",
+  "versionedFilename": "code.1780688852649.tsx",
+  "codeReference": "r2://components-code-private/lyanchouss/dia-text/code.1780688852649.tsx",
+  "codeUrl": "https://cdn.21st.dev/lyanchouss/dia-text/code.1780688852649.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 12078,
+  "sha256": "aac3b778a27e01fdc4a3d2a9fd5b08a5c17c4a6f76e5529b00953c2ed384e720",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

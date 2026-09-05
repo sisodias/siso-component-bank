@@ -1,0 +1,26 @@
+{
+  "id": "designali-in__iphone-16-pro",
+  "author": "designali-in",
+  "slug": "iphone-16-pro",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/iphone-16-pro",
+  "fetchedAt": "2026-08-29T04:19:22.761Z",
+  "completedAt": "2026-08-29T04:19:24.554Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null
+}

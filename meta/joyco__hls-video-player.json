@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@joyco/components/hls-video-player",
+  "author": "joyco",
+  "slug": "hls-video-player",
+  "name": "hls-video-player",
+  "description": "A headless HLS video player with native HLS detection, adaptive resolution control, and error handling.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/joyco/hls-video-player?api_key=$API_KEY_21ST\"",
+  "id": "joyco__hls-video-player",
+  "bundleUrl": "https://cdn.21st.dev/joyco/hls-video-player/default/bundle.1783728078394.html",
+  "previewUrl": "https://cdn.21st.dev/joyco/hls-video-player/default/preview.1783728078394.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "category": "overlay",
+  "subcategory": "animated-dialog",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying confirmation dialogs for user actions like delete or submit",
+    "Showing forms, images, or detailed content in an overlay without page navigation",
+    "Revealing contextual information triggered by button clicks",
+    "Creating animated modal experiences for better user engagement",
+    "Displaying privacy policies, terms of service, or legal information"
+  ],
+  "ai_summary": "An animated modal overlay component built with Radix UI Dialog and Framer Motion, featuring smooth open/close transitions with fade effects. The component captures the trigger button's position for potential origin-based animations and provides a backdrop overlay with click-to-close functionality. Styled with Tailwind CSS using an indigo color scheme, it's a reusable modal solution for displaying content, forms, or confirmations as an overlay on top of page content.",
+  "_classifiedAt": "2026-04-23T17:00:33.702Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

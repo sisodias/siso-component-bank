@@ -1,0 +1,26 @@
+{
+  "id": "coss.com__menu",
+  "author": "coss.com",
+  "slug": "menu",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@coss.com/components/menu",
+  "fetchedAt": "2026-08-29T04:02:34.155Z",
+  "completedAt": "2026-08-29T04:02:36.246Z",
+  "versionedFilename": "code.1774267955508.tsx",
+  "codeReference": "r2://components-code-private/coss.com/menu/code.1774267955508.tsx",
+  "codeUrl": "https://cdn.21st.dev/coss.com/menu/code.1774267955508.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/typescript",
+  "bytes": 9973,
+  "sha256": "3a601064bf381bded114e93f3032a0c01a1ae89dd99de49b1cd84d1b4b484853",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

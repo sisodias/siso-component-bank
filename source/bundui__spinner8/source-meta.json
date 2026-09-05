@@ -1,0 +1,26 @@
+{
+  "id": "bundui__spinner8",
+  "author": "bundui",
+  "slug": "spinner8",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@bundui/components/spinner8",
+  "fetchedAt": "2026-08-29T03:52:33.945Z",
+  "completedAt": "2026-08-29T03:52:35.860Z",
+  "versionedFilename": "code.1785101804289-bdda2ab5-235d-4e16-bca3-e201c6a95b49.tsx",
+  "codeReference": "r2://components-code-private/bundui/spinner8/code.1785101804289-bdda2ab5-235d-4e16-bca3-e201c6a95b49.tsx",
+  "codeUrl": "https://cdn.21st.dev/bundui/spinner8/code.1785101804289-bdda2ab5-235d-4e16-bca3-e201c6a95b49.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

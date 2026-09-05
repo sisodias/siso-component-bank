@@ -1,0 +1,33 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "particle-system-canvas-animation",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creative-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero section background with animated particle effects",
+    "Landing page visual enhancement with interactive-looking particles",
+    "Decorative element for modern web applications",
+    "Loading state or transitional visual element",
+    "Brand presentation backgrounds with animated depth"
+  ],
+  "ai_summary": "A dynamic particle animation component that renders 1000-2000 particles using p5.js and animates them with GSAP. Particles cycle through shrink and grow phases over 16 seconds, using a teal and dark gray color theme. Responsive to screen size, reducing particle count on mobile. Creates an elegant, modern visual effect suitable for hero sections or decorative backgrounds in SaaS and media applications.",
+  "_classifiedAt": "2026-04-23T16:32:17.471Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

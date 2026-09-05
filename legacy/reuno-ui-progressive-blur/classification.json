@@ -1,0 +1,27 @@
+{
+  "category": "overlay",
+  "subcategory": "gradient-blur-fade",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Create smooth edge transitions at the top or bottom of scrollable content areas",
+    "Add visual depth with frosted glass-like fading effects in hero sections",
+    "Implement decorative overlays in card or modal designs",
+    "Enhance page layouts with subtle gradient blur transitions between sections",
+    "Apply clean fade effects to image galleries or media containers"
+  ],
+  "ai_summary": "A lightweight atomic component that renders a progressive blur and gradient fade overlay positioned at the top or bottom of its container. Uses CSS backdrop-filter blur with gradient masking to create a smooth glass-morphism style transition effect. Configurable via props for position, color, height, and blur intensity. Non-interactive decorative utility for enhancing visual polish in scrollable interfaces.",
+  "_classifiedAt": "2026-04-23T01:48:34.578Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

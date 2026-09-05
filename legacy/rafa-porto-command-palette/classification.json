@@ -1,0 +1,35 @@
+{
+  "category": [
+    "overlay",
+    "navigation"
+  ],
+  "subcategory": "command-palette-search",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Quick navigation to app sections via keyboard shortcuts (Cmd+K)",
+    "Executing system commands like theme toggling and settings access",
+    "Searching and filtering through available commands and features",
+    "Accessing recently used commands with history persistence",
+    "AI-assisted command prompting and execution"
+  ],
+  "ai_summary": "A keyboard-driven command palette component with search, category filtering, and command history tracking. Features Framer Motion animations, localStorage persistence for recent commands, and AI prompt integration. Opens via Cmd+K shortcut and supports keyboard navigation for quick app navigation and command execution in modern SaaS and productivity applications.",
+  "_classifiedAt": "2026-04-23T17:10:39.078Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

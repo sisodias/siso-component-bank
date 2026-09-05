@@ -1,0 +1,24 @@
+{
+  "category": "input",
+  "subcategory": "checkbox-group",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Grouping multiple related checkbox options in forms and settings interfaces",
+    "Enabling multi-select functionality for user preferences",
+    "Organizing selection options with accessible labeling and keyboard navigation",
+    "Providing a reusable checkbox container component for any application UI"
+  ],
+  "ai_summary": "A lightweight CheckboxGroup component that wraps Base UI's checkbox primitive with Tailwind CSS styling. Renders a flex column layout container for organizing multiple checkbox inputs with proper spacing. Designed for use in forms, settings panels, and multi-selection interfaces across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-22T08:54:28.955Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

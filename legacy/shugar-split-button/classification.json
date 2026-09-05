@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "split-button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Primary action triggers with secondary dropdown options in toolbars and action menus",
+    "Form submission buttons with loading states for async operations",
+    "Context-sensitive action buttons with multiple variant types and sizes",
+    "Navigation and workflow step triggers with disabled states"
+  ],
+  "ai_summary": "A versatile split-button component with multiple visual variants (primary, secondary, tertiary, error, warning), sizes (tiny to large), and shapes (square, circle, rounded). Features loading and disabled states, customizable prefix/suffix slots, and shadow options. The split-button pattern provides a primary action trigger alongside a secondary dropdown/chevron area for additional options, commonly used in action toolbars, form controls, and context menus across SaaS and web applications.",
+  "_classifiedAt": "2026-04-23T17:31:37.341Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

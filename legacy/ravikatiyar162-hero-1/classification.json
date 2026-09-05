@@ -1,0 +1,32 @@
+{
+  "category": "hero",
+  "subcategory": "glow-text-hero",
+  "visual_style": [
+    "gradient",
+    "glass-morphism",
+    "colorful"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero sections requiring bold, eye-catching typography to make a strong first impression.",
+    "Product showcases and feature announcements where the main headline needs visual impact.",
+    "Main page headers for SaaS and tech products aiming for a modern, premium aesthetic.",
+    "Portfolio or creative agency websites needing animated hero text elements."
+  ],
+  "ai_summary": "A hero section component featuring animated gradient text with a neon glow effect. Uses multi-layer CSS pseudo-elements to create a blur/brightness glow behind gradient-filled text, with a continuous 12-second gradient shift animation. Ideal for landing pages and product presentations requiring bold, attention-grabbing typography with a modern tech aesthetic.",
+  "_classifiedAt": "2026-04-23T17:11:47.202Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

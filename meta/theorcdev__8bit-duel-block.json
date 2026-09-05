@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@theorcdev/components/8bit-duel-block",
+  "author": "theorcdev",
+  "slug": "8bit-duel-block",
+  "name": "8bit-duel-block",
+  "description": "An interactive 8-bit arena duel between two fighters with retro HP health bars, turn-based hit mechanics, randomized damage and battle messages, a winner state with rematch, all wrapped in pixel-art alert and badge primitives.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/theorcdev/8bit-duel-block?api_key=$API_KEY_21ST\"",
+  "id": "theorcdev__8bit-duel-block",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/8bit-duel-block/default/bundle.1780525077714.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/8bit-duel-block/default/preview.1780525077714.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "shailendrakumar19999-animated-shape",
+  "type": "registry:ui",
+  "title": "Shailendrakumar19999 Animated Shape",
+  "description": "Installed from https://21st.dev/r/shailendrakumar19999/animated-shape",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "shailendrakumar19999-animated-shape"
+  ],
+  "files": [
+    {
+      "path": "animated-shape.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "animejs"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/shailendrakumar19999/animated-shape",
+    "fetchedAt": "2026-04-23T02:28:09.316Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

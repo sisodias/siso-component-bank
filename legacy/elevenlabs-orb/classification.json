@@ -1,0 +1,36 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "animated-orb-indicator",
+  "visual_style": [
+    "glass-morphism",
+    "gradient",
+    "3d"
+  ],
+  "interactions": [
+    "morph",
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "ai-ml",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display as an animated speaking indicator for AI voice interfaces",
+    "Use as a pulsing loading state during audio generation or transcription",
+    "Show as a responsive orb that reacts to audio input levels",
+    "Serve as a visual indicator for recording or voice capture status",
+    "Display as a creative hero element for AI-powered applications"
+  ],
+  "ai_summary": "Elevenlabs Orb is an animated, pulsing circular indicator designed for voice AI and audio interfaces. It features glass-morphism styling with gradient fills and 3D depth, providing visual feedback for AI processing, speaking states, or audio activity. The component is ideal for SaaS applications and developer tools that incorporate voice AI, streaming audio, or interactive voice interfaces.",
+  "_classifiedAt": "2026-04-22T08:58:46.211Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

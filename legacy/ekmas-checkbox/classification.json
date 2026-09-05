@@ -1,0 +1,37 @@
+{
+  "category": "input",
+  "subcategory": "checkbox-primitive",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools",
+    "healthcare",
+    "education",
+    "real-estate",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Binary yes/no selections in forms and surveys",
+    "Multi-select checkboxes for filtering or categorization",
+    "Terms of service and privacy policy agreements",
+    "Feature toggles within settings panels",
+    "Survey and questionnaire answer selection"
+  ],
+  "ai_summary": "A minimalist checkbox component built on Radix UI primitives with Tailwind CSS styling. Provides accessible checked, unchecked, and disabled states with keyboard navigation support and focus ring indicators. Fully customizable via className prop for integration into any form or selection interface.",
+  "_classifiedAt": "2026-04-23T16:38:34.635Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

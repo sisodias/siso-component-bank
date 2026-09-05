@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "flip-button, hover-animation",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Interactive buttons that reveal secondary information on hover",
+    "CTA buttons with flip animation effects for engagement",
+    "Buttons that toggle between two states on user interaction",
+    "Form submit buttons with confirmation reveal animations",
+    "Product action buttons with animated state transitions"
+  ],
+  "ai_summary": "A flip button component using CSS 3D transforms and Framer Motion library. Features configurable flip directions (top, bottom, left, right) with spring physics animation. Provides hover-activated flip reveal for secondary text with tap scaling feedback. Supports customizable front/back text and styling classes for flexible integration.",
+  "_classifiedAt": "2026-04-23T17:32:31.206Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

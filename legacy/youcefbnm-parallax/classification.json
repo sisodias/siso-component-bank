@@ -1,0 +1,38 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons for forms and key interactions",
+    "Secondary actions with outline or ghost variants",
+    "Destructive actions requiring visual warning styling",
+    "Icon-only buttons for compact toolbars and interfaces",
+    "Accessible button with keyboard navigation and screen reader support"
+  ],
+  "ai_summary": "A flexible, reusable button component with multiple visual variants (default, destructive, outline, secondary, ghost, link) and size options (default, sm, lg, icon). Built on Radix UI Slot for composition patterns, supporting asChild prop for polymorphic rendering. Includes disabled states, focus rings for accessibility, and smooth hover transitions. Uses Tailwind CSS for styling with configurable ring-offset and background theming.",
+  "_classifiedAt": "2026-04-23T17:45:11.990Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "jolbol1__menu-1",
+  "author": "jolbol1",
+  "slug": "menu-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@jolbol1/components/menu-1",
+  "fetchedAt": "2026-08-29T05:10:41.546Z",
+  "completedAt": "2026-08-29T05:10:43.193Z",
+  "versionedFilename": "code.1754518042079.tsx",
+  "codeReference": "r2://components-code-private/larsen66/menu-1/code.1754518042079.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/menu-1/code.1754518042079.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4454,
+  "sha256": "cee1a0e1843f7f7c12119623ca4bd143982ed288513026ebf989c16c85f1ba05",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,30 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "radial-line-chart",
+  "visual_style": [
+    "gradient",
+    "colorful"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying stock market data in a radial/spider chart format for financial dashboards",
+    "Visualizing cyclical or periodic data patterns using polar coordinates",
+    "Monitoring time-series metrics with animated transitions in analytics platforms",
+    "Creating data-rich hero sections for fintech landing pages"
+  ],
+  "ai_summary": "A radial line chart component using @visx for rendering time-series stock data in polar coordinates. Features spring-based animations via @react-spring, gradient fills, and grid overlays. Designed for financial dashboards and analytics platforms needing elegant data visualization with smooth animated transitions between data states.",
+  "_classifiedAt": "2026-04-23T11:29:55.997Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,31 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "neon-text-loading-indicator",
+  "visual_style": [
+    "neon",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying loading states during async operations",
+    "Indicating page transitions or data fetching",
+    "Showing progress indicators in waiting scenarios",
+    "Branding loading screens with stylized neon effects"
+  ],
+  "ai_summary": "A minimalist neon-styled text loader component that displays 'Loading' with a glowing visual effect. The component uses CSS classes for neon container and text styling, making it suitable for adding visual flair to loading states in web applications. Simple atomic component designed for easy integration into any loading scenario.",
+  "_classifiedAt": "2026-04-23T01:39:23.694Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

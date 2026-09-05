@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@suraj-xd/components/google-drive-uploader-toast",
+  "author": "suraj-xd",
+  "slug": "google-drive-uploader-toast",
+  "name": "google-drive-uploader-toast",
+  "description": "Displays a minimalistic toast in the corner of the UI that shows real-time upload progress for multiple files. Features include file type detection, expandable/collapsible list, progress tracking, success/error states, and the ability to cancel uploads.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/suraj-xd/google-drive-uploader-toast?api_key=$API_KEY_21ST\"",
+  "id": "suraj-xd__google-drive-uploader-toast",
+  "bundleUrl": "https://cdn.21st.dev/suraj-xd/google-drive-uploader-toast/default/bundle.1748798259398.html",
+  "previewUrl": "https://cdn.21st.dev/suraj-xd/google-drive-uploader-toast/default/preview.1748798259397.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

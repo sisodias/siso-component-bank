@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Form submission triggers in SaaS applications",
+    "Interactive navigation elements in dashboards",
+    "Action buttons in e-commerce checkout flows",
+    "Call-to-action buttons in marketing pages",
+    "Primary and secondary action triggers in admin interfaces"
+  ],
+  "ai_summary": "A versatile, production-ready button component built with Radix Slot and class-variance-authority. Features multiple variants (default, destructive, outline, secondary, ghost, link) and sizes with subtle shadow styling. Includes proper accessibility support with focus-visible outlines and disabled states. Designed for mixed platform use with responsive sizing.",
+  "_classifiedAt": "2026-04-22T09:12:05.847Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "muhammad-binsalman-boxy-app-icons",
+  "type": "registry:ui",
+  "title": "Muhammad Binsalman Boxy App Icons",
+  "description": "Installed from https://21st.dev/r/muhammad-binsalman/boxy-app-icons",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "muhammad-binsalman-boxy-app-icons"
+  ],
+  "files": [
+    {
+      "path": "boxy-app-icons.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/muhammad-binsalman/boxy-app-icons",
+    "fetchedAt": "2026-04-23T01:18:10.040Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

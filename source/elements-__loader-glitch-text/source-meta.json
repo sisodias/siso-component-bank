@@ -1,0 +1,26 @@
+{
+  "id": "elements-__loader-glitch-text",
+  "author": "elements-",
+  "slug": "loader-glitch-text",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@elements-/components/loader-glitch-text",
+  "fetchedAt": "2026-08-29T04:43:14.104Z",
+  "completedAt": "2026-08-29T04:43:16.310Z",
+  "versionedFilename": "code.1784365049395-b6731912-5b32-437d-a859-952275ddaff1.tsx",
+  "codeReference": "r2://components-code-private/elements-/loader-glitch-text/code.1784365049395-b6731912-5b32-437d-a859-952275ddaff1.tsx",
+  "codeUrl": "https://cdn.21st.dev/elements-/loader-glitch-text/code.1784365049395-b6731912-5b32-437d-a859-952275ddaff1.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

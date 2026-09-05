@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@theshanelevine/components/filter-table",
+  "author": "theshanelevine",
+  "slug": "filter-table",
+  "name": "filter-table",
+  "description": "A task table with status filter chips that reorganize live data — clicking All, To do, In Progress, or Completed smoothly expands and collapses the matching rows.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/theshanelevine/filter-table?api_key=$API_KEY_21ST\"",
+  "id": "theshanelevine__filter-table",
+  "bundleUrl": "https://cdn.21st.dev/theshanelevine/filter-table/default/bundle.1785484924778-f1a9a690-fe62-4ef0-babf-562c9e5bf485.html",
+  "previewUrl": "https://cdn.21st.dev/theshanelevine/filter-table/default/preview.1785484924778-f1a9a690-fe62-4ef0-babf-562c9e5bf485.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

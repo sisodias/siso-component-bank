@@ -1,0 +1,37 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "shadcn-card-system",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying user profile information and summaries in dashboard interfaces",
+    "Presenting product or service details with structured headers and descriptions",
+    "Creating dashboard widgets with consistent visual styling and layout",
+    "Organizing form sections with clear visual hierarchy using CardHeader, CardContent, and CardFooter",
+    "Building data visualization containers that group related metrics and information"
+  ],
+  "ai_summary": "A shadcn/ui-style composable card component system with six sub-components (Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter) for building structured content containers. Features minimalist styling with rounded corners, subtle borders, and shadow effects. Designed for dashboard interfaces and data-display layouts across various industries, providing flexible composition for headers, titles, descriptions, main content areas, and footers.",
+  "_classifiedAt": "2026-04-23T01:46:46.546Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

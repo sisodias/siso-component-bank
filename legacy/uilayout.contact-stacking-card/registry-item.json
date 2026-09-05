@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "uilayout.contact-stacking-card",
+  "type": "registry:ui",
+  "title": "Uilayout.Contact Stacking Card",
+  "description": "Installed from https://21st.dev/r/uilayout.contact/stacking-card",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "uilayout.contact-stacking-card"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "stacking-card.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "lenis",
+    "motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/uilayout.contact/stacking-card",
+    "fetchedAt": "2026-04-23T03:04:09.587Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

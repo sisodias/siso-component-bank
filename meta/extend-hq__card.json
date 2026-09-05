@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@extend-hq/components/card",
+  "author": "extend-hq",
+  "slug": "card",
+  "name": "card",
+  "description": "Displays a card with header, content, and footer. Groups related content and actions into a bordered surface, with polymorphic sub-parts (header, title, description, action, panel, footer).",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/extend-hq/card?api_key=$API_KEY_21ST\"",
+  "id": "extend-hq__card",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/card/default/bundle.1782206966256.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/card/default/preview.1782172262218.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

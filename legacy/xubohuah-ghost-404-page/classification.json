@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "animated-button",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons on landing pages and marketing sites",
+    "Navigation triggers with directional arrow affordance",
+    "Interactive form submission buttons with visual feedback",
+    "404 page navigation returning users to valid pages",
+    "Reusable button component in component systems and design tokens"
+  ],
+  "ai_summary": "A minimalist ghost-style button component featuring smooth hover animations where a circular background expands from center, arrows slide in/out, and text repositions. The component uses sophisticated cubic-bezier easing for fluid motion, with an active state scale effect. Designed as a versatile interactive element commonly paired with 404 pages and landing page CTAs.",
+  "_classifiedAt": "2026-04-23T17:43:43.535Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

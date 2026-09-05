@@ -1,0 +1,32 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "avatar",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying user profile pictures in freelance marketplace interfaces",
+    "Showing avatar with automatic fallback to initials when image fails to load",
+    "Building user profile components with consistent avatar presentation"
+  ],
+  "ai_summary": "A set of reusable Avatar components built on Radix UI primitives for displaying user profile images. Supports image display with automatic fallback to a styled placeholder when images fail to load. Part of a freelancer profile card design system, commonly used in SaaS platforms and creator marketplaces to represent user identities with clean, circular avatar presentation.",
+  "_classifiedAt": "2026-04-22T09:04:29.497Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

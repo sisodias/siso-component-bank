@@ -1,0 +1,31 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "dropdown-menu-with-viewport",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "system",
+  "use_cases": [
+    "Primary website navigation with dropdown submenus for hierarchical content organization",
+    "Application navigation bars with hover-triggered dropdown menus and keyboard accessibility",
+    "Responsive navigation systems that adapt between desktop and mobile interfaces"
+  ],
+  "ai_summary": "A Radix UI-based navigation menu system with dropdown viewport support, providing accessible keyboard navigation and hover-triggered submenus. Built with Tailwind CSS and class-variance-authority for consistent styling across interactive states including hover, focus, active, and open states. Includes child components for list, items, triggers, links, content, and viewport indicators.",
+  "_classifiedAt": "2026-04-23T01:52:34.849Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "aghasisahakyan1-quick-links-card",
+  "type": "registry:ui",
+  "title": "Aghasisahakyan1 Quick Links Card",
+  "description": "Installed from https://21st.dev/r/aghasisahakyan1/quick-links-card",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "aghasisahakyan1-quick-links-card"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "quick-links-card.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "next"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/aghasisahakyan1/quick-links-card",
+    "fetchedAt": "2026-04-23T01:17:48.334Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

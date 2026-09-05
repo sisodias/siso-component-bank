@@ -1,0 +1,33 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "text-reveal-scroll-animation",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Animated text reveals on landing page hero sections",
+    "Scroll-triggered content sections for storytelling layouts",
+    "Progressive text disclosure for feature highlights and testimonials",
+    "Portfolio or case study presentations with dramatic text reveals"
+  ],
+  "ai_summary": "A GSAP-powered text block animation component that uses SplitText and ScrollTrigger to reveal text content line-by-line with a sliding color block effect. The animation is triggered on scroll and fully customizable via props including color, timing, and delay. Ideal for creating engaging, animated typography experiences on any content-heavy web pages.",
+  "_classifiedAt": "2026-04-22T08:55:34.077Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

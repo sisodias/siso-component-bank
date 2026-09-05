@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__pricing-module",
+  "author": "ruixen.ui",
+  "slug": "pricing-module",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/pricing-module",
+  "fetchedAt": "2026-08-29T06:46:43.372Z",
+  "completedAt": "2026-08-29T06:46:45.524Z",
+  "versionedFilename": "code.1760809381335.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/pricing-module/code.1760809381335.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/pricing-module/code.1760809381335.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4708,
+  "sha256": "e7e6a0565dc06b8b3bbf26abacfee505598958ead8c928f2a764348bc2e58856",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

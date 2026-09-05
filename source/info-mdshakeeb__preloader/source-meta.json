@@ -1,0 +1,26 @@
+{
+  "id": "info-mdshakeeb__preloader",
+  "author": "info-mdshakeeb",
+  "slug": "preloader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@info-mdshakeeb/components/preloader",
+  "fetchedAt": "2026-08-29T05:00:45.568Z",
+  "completedAt": "2026-08-29T05:00:48.033Z",
+  "versionedFilename": "code.1749015323253.tsx",
+  "codeReference": "r2://components-code-private/info-mdshakeeb/preloader/code.1749015323253.tsx",
+  "codeUrl": "https://cdn.21st.dev/info-mdshakeeb/preloader/code.1749015323253.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2824,
+  "sha256": "5cc12a17cc69a8cf5ff8e686074311272026aa88c3bb9f07159365fa557a9735",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

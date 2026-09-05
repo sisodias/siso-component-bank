@@ -1,0 +1,27 @@
+{
+  "category": "media",
+  "subcategory": "logo-carousel",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display client or partner logos in a continuous scrolling animation on a homepage or about page.",
+    "Showcase brand logos as social proof to build trust with potential customers.",
+    "Highlight supported technologies or integrations in a visually engaging way.",
+    "Create a testimonial or collaboration section with partner branding."
+  ],
+  "ai_summary": "A responsive marquee component that infinitely scrolls logos horizontally with customizable speed controls and hover-to-pause functionality. Built with shadcn/ui theming, it features a header section with title and description, and displays logos with gradient color schemes in a seamless loop animation. Designed for showcasing client logos, partner brands, or technology integrations as social proof on any landing page or dashboard section.",
+  "_classifiedAt": "2026-04-23T17:12:46.875Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

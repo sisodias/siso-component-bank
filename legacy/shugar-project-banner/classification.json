@@ -1,0 +1,25 @@
+{
+  "category": "feedback",
+  "subcategory": "status-banner",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying project status messages with variant-based color coding (success, warning, error)",
+    "Showing system notifications or alerts at the top of a page",
+    "Communicating important announcements with optional call-to-action links",
+    "Providing visual feedback for user actions or system states",
+    "Replacing browser alerts with styled inline banners"
+  ],
+  "ai_summary": "A lightweight status banner component that displays contextual messages using color-coded variants (success, warning, error). Features an optional icon, label text, and call-to-action link for user engagement. Designed with accessibility in mind using semantic HTML (aside element) and responsive layout that adapts between mobile and desktop viewports.",
+  "_classifiedAt": "2026-04-23T17:30:44.584Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

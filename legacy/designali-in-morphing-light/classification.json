@@ -1,0 +1,32 @@
+{
+  "category": "media",
+  "subcategory": "shader-effect-animated-light",
+  "visual_style": [
+    "gradient",
+    "colorful"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Hero section animated background with morphing light effects",
+    "Landing page visual decoration with rotating gradient patterns",
+    "Loading state visual with color-shifting effects",
+    "Full-screen immersive background for marketing sites",
+    "Decorative canvas element for creative portfolios"
+  ],
+  "ai_summary": "A morphing light effect component using Three.js with custom GLSL shaders to create animated gradient color transitions. The effect generates a rotating, color-shifting pattern by combining distance-based light calculations with time-animated hue mixing, producing a vibrant cyan-to-magenta gradient that morphs continuously. Ideal for hero backgrounds, decorative sections, and immersive visual effects on SaaS and media platforms.",
+  "_classifiedAt": "2026-04-23T16:32:07.301Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

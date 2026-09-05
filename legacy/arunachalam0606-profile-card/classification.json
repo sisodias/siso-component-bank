@@ -1,0 +1,35 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "profile-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "media",
+    "creator-tools",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying developer profiles on team or about pages",
+    "Creating author bylines for blog posts and articles",
+    "Building speaker or presenter cards for events",
+    "Showing team member information on company websites",
+    "Creating social media influencer or content creator profiles"
+  ],
+  "ai_summary": "A responsive profile card component featuring a large square image, personal information, and social media links. Built with Next.js, Framer Motion, and Lucide icons, this card supports customizable name, title, description, image, and social media URLs. Designed with dark mode support and hover interactions on social icons, making it ideal for team pages, author bylines, and developer profile showcases.",
+  "_classifiedAt": "2026-04-23T11:31:05.817Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

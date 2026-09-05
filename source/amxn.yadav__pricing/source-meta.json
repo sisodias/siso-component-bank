@@ -1,0 +1,26 @@
+{
+  "id": "amxn.yadav__pricing",
+  "author": "amxn.yadav",
+  "slug": "pricing",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@amxn.yadav/components/pricing",
+  "fetchedAt": "2026-08-29T03:33:30.688Z",
+  "completedAt": "2026-08-29T03:33:32.917Z",
+  "versionedFilename": "code.1763832145079.tsx",
+  "codeReference": "r2://components-code-private/amxn.yadav/pricing/code.1763832145079.tsx",
+  "codeUrl": "https://cdn.21st.dev/amxn.yadav/pricing/code.1763832145079.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10904,
+  "sha256": "8ae01ca6484e4f3a700444ecc51bcd9779b62d47347f08454d5aa9dd7312df99",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

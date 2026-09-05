@@ -1,0 +1,46 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "danielpetho-text-cursor-proximity",
+  "type": "registry:ui",
+  "title": "Danielpetho Text Cursor Proximity",
+  "description": "Installed from https://21st.dev/r/danielpetho/text-cursor-proximity",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "danielpetho-text-cursor-proximity"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "text-cursor-proximity.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "use-mouse-position-ref.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "imports unresolvable path (@/hooks/use-mouse-position-ref)"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/danielpetho/text-cursor-proximity",
+    "fetchedAt": "2026-04-23T03:05:44.971Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "avatar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying user profile pictures in navigation headers and sidebars",
+    "Showing avatar placeholders in comment sections and discussion threads",
+    "Representing users in dashboard user listings and admin panels",
+    "User identification in card components and list views",
+    "Profile image display in settings and account management pages"
+  ],
+  "ai_summary": "A lightweight Avatar component using base-ui primitives for displaying user profile images with automatic fallback support. The component exports Avatar, AvatarImage, and AvatarFallback subcomponents with full Tailwind styling flexibility. Designed as a foundational atomic component suitable for composing into navigation bars, user cards, comment systems, and profile sections across any application requiring user representation.",
+  "_classifiedAt": "2026-04-22T08:54:35.905Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

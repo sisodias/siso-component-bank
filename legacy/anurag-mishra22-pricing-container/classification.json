@@ -1,0 +1,33 @@
+{
+  "category": [
+    "pricing"
+  ],
+  "subcategory": "animated pricing plan display with billing toggle",
+  "visual_style": [
+    "neobrutalism",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display multiple pricing plans with animated counters showing price changes on toggle",
+    "Provide monthly/yearly billing toggle with visual feedback",
+    "Showcase pricing tiers with featured/highlighted plan options",
+    "Attract customers with animated header and hover interactions on pricing cards",
+    "Create pricing sections for SaaS products, digital products, or subscription services"
+  ],
+  "ai_summary": "A neobrutalist-style pricing container component with animated counters, billing period toggle, and motion effects. Features bold black borders, hard offset shadows, and gradient backgrounds. The header animates on load while plan prices count up/down smoothly when switching between monthly and yearly billing. Hover interactions add subtle movement to enhance user engagement. Built with Framer Motion for fluid animations and fully responsive across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T11:30:35.789Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

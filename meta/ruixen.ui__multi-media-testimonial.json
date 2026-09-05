@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/multi-media-testimonial",
+  "author": "ruixen.ui",
+  "slug": "multi-media-testimonial",
+  "name": "multi-media-testimonial",
+  "description": "The TestimonialCard component is a responsive, theme-adaptive UI element built with shadcn/ui that elegantly displays client testimonials. It supports text, images, and videos within a unified card layout featuring smooth transitions and dark/light mode compatibility. Each card includes a header, scrollable content area, and profile section, while video testimonials open inside a modal dialog with auto-play and reset controls. Designed for scalability, every card manages its own state independently—preventing global re-renders or hydration issues—making it ideal for showcasing multiple user reviews or success stories in modern web applications.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/multi-media-testimonial?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__multi-media-testimonial",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/multi-media-testimonial/default/bundle.1762672030904.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/multi-media-testimonial/default/preview.1762672030904.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 44,
+  "demo_id": 9491,
+  "video_url": "https://cdn.21st.dev/user_2y5Wd5l713ZIFYjX19aZXSyXd6b/multi-media-testimonial/default/video.1786464326667.mp4"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "bundui__geometric",
+  "author": "bundui",
+  "slug": "geometric",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@bundui/components/geometric",
+  "fetchedAt": "2026-08-29T03:52:08.444Z",
+  "completedAt": "2026-08-29T03:52:10.842Z",
+  "versionedFilename": "code.1747856871044.tsx",
+  "codeReference": "r2://components-code-private/larsen66/geometric/code.1747856871044.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/geometric/code.1747856871044.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3363,
+  "sha256": "152a69a4bdabbf10f402d2d4b1549d82828b71297f41cebeb7c82812ca8bf2eb",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

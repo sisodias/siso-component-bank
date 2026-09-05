@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@reshaped/components/reshaped-text-area",
+  "author": "reshaped",
+  "slug": "reshaped-text-area",
+  "name": "reshaped-text-area",
+  "description": "Multiline text input taking a name and optional onChange, in controlled or uncontrolled mode. Comes in three sizes aligned with other inputs, faded and headless variants, error and disabled states, a resize property (auto-grow or fixed), FormControl integration and a TextArea.Aligner for headless layouts.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/reshaped/reshaped-text-area?api_key=$API_KEY_21ST\"",
+  "id": "reshaped__reshaped-text-area",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/reshaped-text-area/default/bundle.1783527783090.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/reshaped-text-area/default/preview.1783527783090.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

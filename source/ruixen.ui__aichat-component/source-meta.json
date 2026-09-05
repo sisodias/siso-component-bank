@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__aichat-component",
+  "author": "ruixen.ui",
+  "slug": "aichat-component",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/aichat-component",
+  "fetchedAt": "2026-08-29T06:38:45.210Z",
+  "completedAt": "2026-08-29T06:38:47.372Z",
+  "versionedFilename": "code.1757871067145.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/aichat-component/code.1757871067145.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/aichat-component/code.1757871067145.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3928,
+  "sha256": "69f9e1c9bf1d373b57ccb335f704c3d16c5c6c8da451632b41912bb8431002eb",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

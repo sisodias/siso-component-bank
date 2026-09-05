@@ -1,0 +1,33 @@
+{
+  "id": "kokonutd__button-colorful",
+  "author": "kokonutd",
+  "slug": "button-colorful",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@kokonutd/components/button-colorful",
+  "fetchedAt": "2026-08-29T05:18:05.462Z",
+  "completedAt": "2026-08-29T05:18:06.563Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/kokonutd__button-colorful/code.tsx",
+    "bytes": 1369,
+    "sha256": "d052b26ac05cf2ee71b86e1863d586f72a0d5bd9fa31426d081bbf5a5eb97510",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

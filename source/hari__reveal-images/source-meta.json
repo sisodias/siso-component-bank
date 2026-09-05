@@ -1,0 +1,33 @@
+{
+  "id": "hari__reveal-images",
+  "author": "hari",
+  "slug": "reveal-images",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@hari/components/reveal-images",
+  "fetchedAt": "2026-08-29T04:54:36.041Z",
+  "completedAt": "2026-08-29T04:54:37.302Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/hari__reveal-images/code.tsx",
+    "bytes": 3068,
+    "sha256": "861fdf1e7274ad6b356d5a17d76a1e8418dfaa0ad86b1c1fc7b1a3fec68ec688",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

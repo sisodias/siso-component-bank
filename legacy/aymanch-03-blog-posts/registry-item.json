@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "aymanch-03-blog-posts",
+  "type": "registry:ui",
+  "title": "Aymanch 03 Blog Posts",
+  "description": "Installed from https://21st.dev/r/aymanch-03/blog-posts",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "aymanch-03-blog-posts"
+  ],
+  "files": [
+    {
+      "path": "blog-posts.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/aymanch-03/blog-posts",
+    "fetchedAt": "2026-04-23T02:28:34.085Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

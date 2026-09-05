@@ -1,0 +1,32 @@
+{
+  "category": "card",
+  "subcategory": "stats-display-glowing",
+  "visual_style": [
+    "gradient",
+    "3d",
+    "colorful"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying social media view counts with decorative flair",
+    "Showcasing engagement metrics in dashboards",
+    "Highlighting subscriber or follower counts",
+    "Presenting achievement badges or milestone numbers",
+    "Adding visual interest to analytics summaries"
+  ],
+  "ai_summary": "A decorative card component featuring glowing rays, dots, and border lines that displays a metrics value (750k views). The component uses layered div elements with CSS classes to create a radiant, eye-catching effect suitable for highlighting social proof, analytics data, or achievement statistics in dashboards and landing pages.",
+  "_classifiedAt": "2026-04-23T17:11:40.880Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

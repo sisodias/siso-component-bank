@@ -1,0 +1,34 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "tab-bar",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Switching between different content sections within a single view without page navigation",
+    "Creating organized tabbed interfaces for managing dashboard sections and settings",
+    "Building navigation menus with clear active state indicators and disabled states",
+    "Organizing form content or multi-step workflows into categorized tabs",
+    "Displaying categorized data views with selectable tab filters"
+  ],
+  "ai_summary": "A lightweight, dual-variant tab navigation component with primary (underline border style) and secondary (pill/rounded style) modes. Supports disabled states, icons, and tooltips with smooth hover and click interactions. Built with minimal styling using utility-first classes for easy customization across SaaS, fintech, and general web applications.",
+  "_classifiedAt": "2026-04-23T17:31:47.763Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Primary action trigger in forms and dialogs",
+    "Navigation actions within web applications",
+    "Destructive action confirmation buttons",
+    "Icon-only buttons for compact UI layouts",
+    "Varianted button states for visual hierarchy"
+  ],
+  "ai_summary": "A flexible button component with 6 style variants (default, destructive, outline, secondary, ghost, link) and 4 size options (default, sm, lg, icon). Built with Radix UI Slot for composition and class-variance-authority for consistent styling. Supports disabled states, focus rings, and asChild prop for polymorphic rendering. Suitable as a core UI building block in SaaS, fintech, and e-commerce applications.",
+  "_classifiedAt": "2026-04-23T17:36:00.665Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

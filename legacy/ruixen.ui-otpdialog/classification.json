@@ -1,0 +1,32 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "otp-verification",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Two-factor authentication verification via one-time password entry",
+    "Secure login confirmation for financial transactions",
+    "Phone or email verification during user onboarding",
+    "Account recovery verification flow",
+    "Payment authorization confirmation"
+  ],
+  "ai_summary": "A modal dialog component for one-time password (OTP) input and verification, commonly used in authentication flows. Typically renders numeric input fields for entering verification codes sent via SMS or email. Built with Radix UI primitives for accessibility and supports keyboard navigation.",
+  "_classifiedAt": "2026-04-23T17:19:34.204Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

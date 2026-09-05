@@ -1,0 +1,33 @@
+{
+  "id": "ctate__grid-background",
+  "author": "ctate",
+  "slug": "grid-background",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ctate/components/grid-background",
+  "fetchedAt": "2026-08-29T04:03:05.200Z",
+  "completedAt": "2026-08-29T04:03:07.014Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/ctate__grid-background/code.tsx",
+    "bytes": 608,
+    "sha256": "305c2488628bf6548a22a1475a971248d5c556c166a4cda2c8e8419ee0de13ac",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "bruno_0cd2e1b7__stats",
+  "author": "bruno_0cd2e1b7",
+  "slug": "stats",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@bruno_0cd2e1b7/components/stats",
+  "fetchedAt": "2026-08-29T03:51:20.403Z",
+  "completedAt": "2026-08-29T03:51:22.928Z",
+  "versionedFilename": "code.1769059881058.tsx",
+  "codeReference": "r2://components-code-private/bruno_0cd2e1b7/stats/code.1769059881058.tsx",
+  "codeUrl": "https://cdn.21st.dev/bruno_0cd2e1b7/stats/code.1769059881058.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4395,
+  "sha256": "f5861bc27dacca0fe7e6b858ebf12c719436d77c554119a2393c3e0e9bcabca2",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

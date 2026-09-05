@@ -1,0 +1,24 @@
+{
+  "category": "input",
+  "subcategory": "star-rating-filter",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "e-commerce",
+    "saas",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Filtering product reviews by star ratings on e-commerce platforms",
+    "Displaying rating distribution with visual progress bars in review sections",
+    "Enabling users to narrow down reviews by specific star levels for purchase decisions"
+  ],
+  "ai_summary": "A review filter component featuring star rating selection with integrated progress bars. Built on Radix UI RadioGroup, it displays 5-star ratings with percentage-based progress visualization and review counts. Designed for review-heavy interfaces where users need to filter content by quality ratings.",
+  "_classifiedAt": "2026-04-22T09:13:13.732Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

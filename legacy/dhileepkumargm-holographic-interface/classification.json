@@ -1,0 +1,27 @@
+{
+  "category": "card",
+  "subcategory": "bento-grid-item",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Dashboard grid layouts with interactive 3D card effects",
+    "Showcase sections with spotlight hover interactions",
+    "Product feature cards with depth and perspective",
+    "Interactive gallery items with mouse-tracking effects",
+    "Pricing or feature comparison cards with premium feel"
+  ],
+  "ai_summary": "A holographic BentoItem component featuring 3D tilt effects and spotlight animations that follow the cursor, creating an immersive glass-morphism aesthetic. The component uses CSS perspective transforms and JavaScript mouse tracking to deliver dynamic depth effects on hover. Ideal for modern SaaS dashboards and developer tool interfaces seeking a premium, interactive card experience.",
+  "_classifiedAt": "2026-04-23T01:38:53.179Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

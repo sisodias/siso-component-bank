@@ -1,0 +1,37 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "avatar",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display user profile pictures with fallback initials in dashboard interfaces",
+    "Show user online/offline/busy/away status indicators in collaboration tools",
+    "Represent team members or customers in card-based layouts",
+    "Avatar with indicator badges for notification counts or role markers",
+    "User identification in chat, comment, or activity feed components"
+  ],
+  "ai_summary": "A versatile Avatar component built on Radix UI primitives with image, fallback, indicator, and status subcomponents. Features four status variants (online, offline, busy, away) using CVA for type-safe prop handling. Provides accessible, rounded avatar display with border styling and absolute-positioned overlay support for badges or indicators.",
+  "_classifiedAt": "2026-04-23T17:22:56.367Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

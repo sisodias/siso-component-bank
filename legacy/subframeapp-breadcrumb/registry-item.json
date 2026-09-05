@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "subframeapp-breadcrumb",
+  "type": "registry:ui",
+  "title": "Subframeapp Breadcrumb",
+  "description": "Installed from https://21st.dev/r/SubframeApp/breadcrumb",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "subframeapp-breadcrumb"
+  ],
+  "files": [
+    {
+      "path": "breadcrumb.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@subframe/core"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/SubframeApp/breadcrumb",
+    "fetchedAt": "2026-04-23T01:18:49.868Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

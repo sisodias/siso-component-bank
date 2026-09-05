@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@reshaped/components/reshaped-popover",
+  "author": "reshaped",
+  "slug": "reshaped-popover",
+  "name": "reshaped-popover",
+  "description": "Overlay attached to any interactive trigger element via passed attributes, opening on click or hover. Automatically repositions within the viewport with controllable fallback positions, supports custom content padding, a Dismissible close button, custom or trigger-aligned width, controlled state and focus trapping.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/reshaped/reshaped-popover?api_key=$API_KEY_21ST\"",
+  "id": "reshaped__reshaped-popover",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/reshaped-popover/default/bundle.1783440144139.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/reshaped-popover/default/preview.1783440144139.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

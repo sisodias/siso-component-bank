@@ -1,0 +1,26 @@
+{
+  "id": "edwinvakayil__one-avatar",
+  "author": "edwinvakayil",
+  "slug": "one-avatar",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@edwinvakayil/components/one-avatar",
+  "fetchedAt": "2026-08-29T04:42:22.541Z",
+  "completedAt": "2026-08-29T04:42:24.663Z",
+  "versionedFilename": "code.1780082344033.tsx",
+  "codeReference": "r2://components-code-private/lyanchouss/one-avatar/code.1780082344033.tsx",
+  "codeUrl": "https://cdn.21st.dev/lyanchouss/one-avatar/code.1780082344033.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10077,
+  "sha256": "8b5530c0167acae43c4ddb1b2633fd74c507ceab5a99bcd1055acee9c15e9820",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

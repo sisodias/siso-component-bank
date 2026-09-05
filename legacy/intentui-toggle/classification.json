@@ -1,0 +1,39 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "toggle-button-group",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education",
+    "media",
+    "creator-tools",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting a single option from a group of choices in forms and settings panels",
+    "Switching between view modes or display options in dashboards",
+    "Toggling filter states in data tables or e-commerce product listings",
+    "Changing display density or layout preferences in applications",
+    "Creating segmented navigation controls with active state indicators"
+  ],
+  "ai_summary": "A flexible toggle button group component from Intentui that allows users to select one or multiple options from a connected set of buttons. Supports horizontal and vertical orientations, multiple sizes, and different visual intents (plain, outline, solid). Built on react-aria-components for accessibility and styled with Tailwind CSS for easy customization.",
+  "_classifiedAt": "2026-04-23T16:43:25.366Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,35 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "user-context-menu",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying user profile avatars in navigation headers and application layouts",
+    "Building user selection dropdowns and context menus for multi-user workflows",
+    "Creating user identification components in comment sections and activity feeds",
+    "Implementing user avatars in data tables and list views for multi-user dashboards",
+    "Adding profile pictures to user settings and account management interfaces"
+  ],
+  "ai_summary": "A Radix UI-based avatar component system providing Avatar, AvatarImage, and AvatarFallback primitives for displaying user profile pictures with automatic fallback to initials when images fail to load. These atomic components serve as the visual foundation for user context menus and profile displays across SaaS, social, and enterprise applications requiring user identification.",
+  "_classifiedAt": "2026-04-22T09:13:36.066Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

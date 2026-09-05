@@ -1,0 +1,26 @@
+{
+  "id": "theutkarshmail__google-assistant-loader",
+  "author": "theutkarshmail",
+  "slug": "google-assistant-loader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theutkarshmail/components/google-assistant-loader",
+  "fetchedAt": "2026-08-29T07:36:46.482Z",
+  "completedAt": "2026-08-29T07:36:48.702Z",
+  "versionedFilename": "code.1755118209213.tsx",
+  "codeReference": "r2://components-code-private/theutkarshmail/google-assistant-loader/code.1755118209213.tsx",
+  "codeUrl": "https://cdn.21st.dev/theutkarshmail/google-assistant-loader/code.1755118209213.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 948,
+  "sha256": "ea22568ff23f4001b0618a158c1be94f0a2353c0c69f3c8251be39da347cfc65",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@cnippet.dev/components/cnippet-button",
+  "author": "cnippet.dev",
+  "slug": "cnippet-button",
+  "name": "cnippet-button",
+  "description": "A polymorphic button built on Base UI's useRender. Ships 8 visual variants (default, secondary, outline, ghost, link, destructive, destructive-outline) and a full set of sizes including icon sizes (xs–xl). Has a built-in loading state that overlays an inline spinner and hides the label, a render prop for rendering as any element or as a child, and focus-visible / pressed styling out of the box.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/cnippet.dev/cnippet-button?api_key=$API_KEY_21ST\"",
+  "id": "cnippet.dev__cnippet-button",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/cnippet-button/default/bundle.1783605523635.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/cnippet-button/default/preview.1783605523635.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 29,
+  "demo_id": 18672,
+  "video_url": "https://cdn.21st.dev/larsen66/cnippet-button/sliding/video.1783605523635.mp4"
+}

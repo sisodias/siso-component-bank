@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@limeplay/components/media-provider",
+  "author": "limeplay",
+  "slug": "media-provider",
+  "name": "media-provider",
+  "description": "Headless media player provider that creates a per-instance Zustand store, typed event emitter, and feature setup for building custom video and audio player UIs.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/limeplay/media-provider?api_key=$API_KEY_21ST\"",
+  "id": "limeplay__media-provider",
+  "bundleUrl": "https://cdn.21st.dev/limeplay/media-provider/default/bundle.1783728300379.html",
+  "previewUrl": "https://cdn.21st.dev/limeplay/media-provider/default/preview.1783728300379.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

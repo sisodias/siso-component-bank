@@ -1,0 +1,51 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ibelick-morphing-popover",
+  "type": "registry:ui",
+  "title": "Ibelick Morphing Popover",
+  "description": "Installed from https://21st.dev/r/ibelick/morphing-popover",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ibelick-morphing-popover"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "morphing-popover.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "use-click-outside.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "imports unresolvable path (@/hooks/use-click-outside)"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ibelick/morphing-popover",
+    "fetchedAt": "2026-04-23T03:05:10.325Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": [],
+    "canonicalOf": {
+      "source": "motion-primitives",
+      "slug": "morphing-popover"
+    },
+    "duplicateSignalScore": 0.75
+  }
+}

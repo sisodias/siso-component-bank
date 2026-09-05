@@ -1,0 +1,26 @@
+{
+  "id": "ncdai__theme-switcher-1",
+  "author": "ncdai",
+  "slug": "theme-switcher-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ncdai/components/theme-switcher-1",
+  "fetchedAt": "2026-08-29T05:57:16.103Z",
+  "completedAt": "2026-08-29T05:57:18.539Z",
+  "versionedFilename": "code.1756728823828.tsx",
+  "codeReference": "r2://components-code-private/larsen66/theme-switcher-1/code.1756728823828.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/theme-switcher-1/code.1756728823828.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2285,
+  "sha256": "e1774094b4bd8db81d16dabc549fc14faaad6f6cf7a3e5155902a950bcfe5076",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

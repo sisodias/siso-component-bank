@@ -1,0 +1,26 @@
+{
+  "id": "berlix__input",
+  "author": "berlix",
+  "slug": "input",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@berlix/components/input",
+  "fetchedAt": "2026-08-29T03:50:09.297Z",
+  "completedAt": "2026-08-29T03:50:11.480Z",
+  "versionedFilename": "code.1750174930537.tsx",
+  "codeReference": "r2://components-code-private/larsen66/input/code.1750174930537.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/input/code.1750174930537.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1807,
+  "sha256": "1d197bd2705c7c3769c62aa1a75d5c40ce18f11dd6566f909d96a98c24f5954f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

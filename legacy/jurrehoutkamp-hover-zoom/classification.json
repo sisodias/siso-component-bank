@@ -1,0 +1,29 @@
+{
+  "category": "media",
+  "subcategory": "hover-zoom-image",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Product image zoom on hover for e-commerce product detail pages",
+    "Interactive image galleries with zoom-on-hover functionality",
+    "Photo preview zoom for media-heavy applications",
+    "Image detail inspection in documentation or educational content",
+    "Interactive media cards with immersive zoom effects"
+  ],
+  "ai_summary": "ZoomImageUI is a hover-activated image zoom component that scales an image based on mouse cursor position. The zoom origin dynamically tracks where the user hovers, creating an immersive magnification effect. Built with Framer Motion for smooth transitions, it supports customizable zoom scale, transition timing, background color, and border radius through props.",
+  "_classifiedAt": "2026-04-23T16:47:54.432Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

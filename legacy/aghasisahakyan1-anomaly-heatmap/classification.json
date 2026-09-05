@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "heatmap",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Security teams monitoring anomaly detection and suspicious activity across time periods",
+    "DevOps teams visualizing system health and performance anomalies in monitoring dashboards",
+    "Data analysts exploring time-series anomaly intensity patterns in analytics platforms",
+    "Fraud detection systems displaying suspicious transaction heatmaps over time windows",
+    "Network operations centers monitoring security event intensity across time ranges"
+  ],
+  "ai_summary": "An anomaly heatmap visualization component displaying intensity levels of suspicious signals across time windows. Features animated cells with cyan color intensity mapping, hover interactions with scale and glow effects, and a clean card layout for integration into monitoring and analytics dashboards.",
+  "_classifiedAt": "2026-04-23T01:34:59.526Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

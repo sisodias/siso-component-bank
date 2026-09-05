@@ -1,0 +1,26 @@
+{
+  "id": "intentui__file-trigger-13",
+  "author": "intentui",
+  "slug": "file-trigger-13",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@intentui/components/file-trigger-13",
+  "fetchedAt": "2026-08-29T05:00:59.012Z",
+  "completedAt": "2026-08-29T05:01:01.121Z",
+  "versionedFilename": "code.1756779279663.tsx",
+  "codeReference": "r2://components-code-private/larsen66/file-trigger-13/code.1756779279663.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/file-trigger-13/code.1756779279663.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7076,
+  "sha256": "893064e082556a2aac6bbd22566ce41c8fb1811b2c61e021cd7d16c64eebe091",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

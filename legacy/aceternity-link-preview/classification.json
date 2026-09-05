@@ -1,0 +1,30 @@
+{
+  "category": "overlay",
+  "subcategory": "link preview hover card",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Previewing external URLs before navigating to enhance user confidence",
+    "Displaying link metadata and screenshots in documentation sites",
+    "Creating interactive product or service link cards in e-commerce",
+    "Building rich article or blog post link previews with thumbnails",
+    "Adding link previews to social platforms or messaging interfaces"
+  ],
+  "ai_summary": "A hover-triggered link preview component built with Radix UI primitives and Framer Motion that displays URL screenshots and metadata in an animated floating card. Features spring-based mouse tracking for subtle parallax effects and supports both dynamic URL fetching via microlink API and static image sources.",
+  "_classifiedAt": "2026-04-23T11:28:39.823Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

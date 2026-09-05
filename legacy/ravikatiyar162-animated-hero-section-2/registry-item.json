@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ravikatiyar162-animated-hero-section-2",
+  "type": "registry:ui",
+  "title": "Ravikatiyar162 Animated Hero Section 2",
+  "description": "Installed from https://21st.dev/r/ravikatiyar162/animated-hero-section-2",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ravikatiyar162-animated-hero-section-2"
+  ],
+  "files": [
+    {
+      "path": "animated-hero-section-2.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ravikatiyar162/animated-hero-section-2",
+    "fetchedAt": "2026-04-23T01:16:19.994Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

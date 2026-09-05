@@ -1,0 +1,31 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "notifications-popover",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying notification menus triggered by bell icon buttons",
+    "Showing contextual information in floating panels above trigger elements",
+    "Providing accessible popover dialogs with arrow indicators",
+    "Implementing dismissible tooltip-style content with smooth transitions",
+    "Creating notification center UIs with title and description content"
+  ],
+  "ai_summary": "A clean, minimalist popover component from Base UI that displays notifications in a floating panel with smooth scale/opacity entry and exit animations. Features an arrow indicator, dark mode support, and accessible keyboard focus states. The composite component includes trigger, popup, arrow, title, and description sub-components for building notification dropdowns and contextual menus.",
+  "_classifiedAt": "2026-04-23T11:32:24.703Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

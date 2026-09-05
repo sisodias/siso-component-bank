@@ -1,0 +1,34 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "parallax-scrolling-text",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "parallax",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Hero sections with scroll-driven text animation that creates depth and visual interest",
+    "Quote or testimonial displays with skew and horizontal motion effects on scroll",
+    "Landing page typography that responds to user scroll velocity with physics-based animation",
+    "Long-form content sections with parallax text effects to engage readers",
+    "Portfolio or creative showcase pages with dynamic text reveals"
+  ],
+  "ai_summary": "A scroll-driven parallax text component that transforms typography based on scroll position and velocity. Uses Framer Motion's useScroll, useVelocity, and useTransform hooks to create a horizontal movement effect with skew transformation that responds to scroll speed. The component features physics-based spring animations for smooth, organic motion with configurable mass, stiffness, and damping values. Ideal for creating immersive reading experiences with animated quotes or hero text on landing pages.",
+  "_classifiedAt": "2026-04-23T01:54:42.137Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

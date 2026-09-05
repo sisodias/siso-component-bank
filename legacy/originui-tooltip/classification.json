@@ -1,0 +1,35 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "tooltip-popover",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying additional context or help text on hover",
+    "Showing keyboard shortcuts or feature explanations",
+    "Providing tooltips for form field labels and icons",
+    "Revealing truncated text or overflow content",
+    "Quick information display for interactive elements"
+  ],
+  "ai_summary": "A lightweight tooltip component built on Radix UI primitives that displays contextual information on hover with smooth fade and zoom animations. Features customizable positioning, optional arrow indicator, and clean popover styling with subtle slide-in effects for different positions.",
+  "_classifiedAt": "2026-04-23T17:05:04.261Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

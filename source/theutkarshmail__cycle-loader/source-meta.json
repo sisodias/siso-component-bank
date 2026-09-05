@@ -1,0 +1,26 @@
+{
+  "id": "theutkarshmail__cycle-loader",
+  "author": "theutkarshmail",
+  "slug": "cycle-loader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theutkarshmail/components/cycle-loader",
+  "fetchedAt": "2026-08-29T07:36:37.741Z",
+  "completedAt": "2026-08-29T07:36:39.783Z",
+  "versionedFilename": "code.1755211780289.tsx",
+  "codeReference": "r2://components-code-private/theutkarshmail/cycle-loader/code.1755211780289.tsx",
+  "codeUrl": "https://cdn.21st.dev/theutkarshmail/cycle-loader/code.1755211780289.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1831,
+  "sha256": "f89604e70b0417076f0eb2b3c4c24d04bd6d65ef408e5f29756fe699b43f8640",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

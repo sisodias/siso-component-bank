@@ -1,0 +1,33 @@
+{
+  "category": "form",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Form submission and action triggers in web applications",
+    "Navigation and routing interaction elements",
+    "Call-to-action buttons for user conversion flows",
+    "Interactive controls in dashboards and admin panels",
+    "Standardized button styling across a design system"
+  ],
+  "ai_summary": "A foundational shadcn/ui Button component with comprehensive variant support including default, destructive, outline, secondary, ghost, and link styles. Built with Radix UI Slot for composition and class-variance-authority for variant management, it provides consistent button styling across SaaS and web applications with standard, small, large, and icon size options.",
+  "_classifiedAt": "2026-04-22T09:14:57.296Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

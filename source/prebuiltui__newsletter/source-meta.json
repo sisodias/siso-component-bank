@@ -1,0 +1,26 @@
+{
+  "id": "prebuiltui__newsletter",
+  "author": "prebuiltui",
+  "slug": "newsletter",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@prebuiltui/components/newsletter",
+  "fetchedAt": "2026-08-29T06:11:29.570Z",
+  "completedAt": "2026-08-29T06:11:31.713Z",
+  "versionedFilename": "code.1757656203434.tsx",
+  "codeReference": "r2://components-code-private/larsen66/newsletter/code.1757656203434.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/newsletter/code.1757656203434.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1439,
+  "sha256": "02da10888a074fe2bc5bf61cad540d447f89f33989184a22cc46b705012f2bca",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

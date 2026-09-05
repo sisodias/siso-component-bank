@@ -1,0 +1,26 @@
+{
+  "id": "sshahaider__dialog",
+  "author": "sshahaider",
+  "slug": "dialog",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sshahaider/components/dialog",
+  "fetchedAt": "2026-08-29T07:24:59.255Z",
+  "completedAt": "2026-08-29T07:25:01.791Z",
+  "versionedFilename": "code.1753272896584.tsx",
+  "codeReference": "r2://components-code-private/sshahaider/dialog/code.1753272896584.tsx",
+  "codeUrl": "https://cdn.21st.dev/sshahaider/dialog/code.1753272896584.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4072,
+  "sha256": "b5c4664ecf700f9b171541e541d26b923b21983e6fe183761bfe2ddcf2bdf3a6",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

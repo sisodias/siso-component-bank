@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@thegridcn/components/video-player",
+  "author": "thegridcn",
+  "slug": "video-player",
+  "name": "video-player",
+  "description": "A retro sci-fi HUD-style video player frame with bracket corners, scanline overlay, transport controls, and an elapsed-time readout.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/thegridcn/video-player?api_key=$API_KEY_21ST\"",
+  "id": "thegridcn__video-player",
+  "bundleUrl": "https://cdn.21st.dev/thegridcn/video-player/default/bundle.1783720055206.html",
+  "previewUrl": "https://cdn.21st.dev/thegridcn/video-player/default/preview.1783720055206.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

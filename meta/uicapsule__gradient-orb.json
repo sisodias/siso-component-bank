@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@uicapsule/components/gradient-orb",
+  "author": "uicapsule",
+  "slug": "gradient-orb",
+  "name": "gradient-orb",
+  "description": "An animated glowing gradient orb rendered on the GPU with a WebGL shader, featuring noise-based color mixing, hue rotation, and a breathing pulse.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/uicapsule/gradient-orb?api_key=$API_KEY_21ST\"",
+  "id": "uicapsule__gradient-orb",
+  "bundleUrl": "https://cdn.21st.dev/uicapsule/gradient-orb/default/bundle.1783537599954.html",
+  "previewUrl": "https://cdn.21st.dev/uicapsule/gradient-orb/default/preview.1783580138147.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dhileepkumargm__core-features",
+  "author": "dhileepkumargm",
+  "slug": "core-features",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dhileepkumargm/components/core-features",
+  "fetchedAt": "2026-08-29T04:27:19.354Z",
+  "completedAt": "2026-08-29T04:27:21.228Z",
+  "versionedFilename": "code.1785272295178-5fa4e469-b7a3-4b7e-996a-1bb0a39f4a61.tsx",
+  "codeReference": "r2://components-code-private/dhileepkumargm/core-features/code.1785272295178-5fa4e469-b7a3-4b7e-996a-1bb0a39f4a61.tsx",
+  "codeUrl": "https://cdn.21st.dev/dhileepkumargm/core-features/code.1785272295178-5fa4e469-b7a3-4b7e-996a-1bb0a39f4a61.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/dhileepkumargm__core-features/code.tsx",
+    "bytes": 1735,
+    "sha256": "21f09574b81a38dd2546a06e29ac406ce2429179650826df323dd166b3308c14",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

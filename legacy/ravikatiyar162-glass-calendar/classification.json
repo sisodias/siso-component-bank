@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "calendar date-picker",
+  "visual_style": [
+    "glass-morphism",
+    "gradient"
+  ],
+  "interactions": [
+    "click-reveal",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "healthcare",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive calendar for selecting dates in appointment booking systems",
+    "Monthly date navigation with today indicator and selection highlighting",
+    "Scheduling interface for SaaS platforms with glass morphism aesthetic",
+    "Date picker component for healthcare appointment management systems"
+  ],
+  "ai_summary": "A glass morphism calendar component featuring month navigation, date selection with today highlighting, and smooth transitions. Built with Framer Motion for animations and date-fns for date handling. The component displays a full month grid with interactive day cells that support click-to-select functionality, making it ideal for booking interfaces and scheduling applications in SaaS, healthcare, or educational platforms.",
+  "_classifiedAt": "2026-04-23T17:11:33.456Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

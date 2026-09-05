@@ -1,0 +1,26 @@
+{
+  "id": "shugar__theme-switcher-1",
+  "author": "shugar",
+  "slug": "theme-switcher-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/theme-switcher-1",
+  "fetchedAt": "2026-08-29T07:20:51.769Z",
+  "completedAt": "2026-08-29T07:20:53.492Z",
+  "versionedFilename": "code.1751391109968.tsx",
+  "codeReference": "r2://components-code-private/shugar/theme-switcher-1/code.1751391109968.tsx",
+  "codeUrl": "https://cdn.21st.dev/shugar/theme-switcher-1/code.1751391109968.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6053,
+  "sha256": "3e6c9df67abf1c5c0d15e45c78fcd01eb767647c9bf388189ca112afa974861d",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

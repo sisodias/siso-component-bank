@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "reaviz-interpolation-chart",
+  "type": "registry:ui",
+  "title": "Reaviz Interpolation Chart",
+  "description": "Installed from https://21st.dev/r/reaviz/interpolation-chart",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "reaviz-interpolation-chart"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "interpolation-chart.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "reaviz"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/reaviz/interpolation-chart",
+    "fetchedAt": "2026-04-23T03:04:35.701Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

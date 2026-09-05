@@ -1,0 +1,29 @@
+{
+  "category": "media",
+  "subcategory": "carousel-wave",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying rotating product showcases with smooth wave-like GSAP animations",
+    "Creating interactive feature galleries for SaaS landing pages",
+    "Building portfolio carousels with badge overlays and hover effects",
+    "Showcasing multiple content items with animated transitions in a single component",
+    "Implementing engaging testimonial or project showcases for startup sites"
+  ],
+  "ai_summary": "A GSAP-powered carousel component featuring wave-style animations with card-based content displays, navigation arrows, and colorful badge variants. The component showcases interactive cards with images, titles, subtitles, and links, delivering smooth morphing transitions ideal for modern SaaS, developer tools, and creator platforms. Designed for both desktop and mobile with responsive behavior.",
+  "_classifiedAt": "2026-04-23T17:20:11.261Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

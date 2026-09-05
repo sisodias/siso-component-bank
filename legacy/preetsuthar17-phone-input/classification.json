@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "phone-input",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Collecting phone numbers in contact forms during user registration or onboarding flows",
+    "Phone number input in checkout and shipping forms for e-commerce orders",
+    "Contact information capture in healthcare appointment booking systems",
+    "Phone input in customer support ticketing or inquiry forms",
+    "Two-factor authentication or SMS verification input fields"
+  ],
+  "ai_summary": "A specialized phone input component with customizable variants (default, destructive, ghost) and sizes (sm, default, lg, xl). Features optional left/right icons, clearable functionality, password visibility toggle, and error state handling. Built with Tailwind CSS and class-variance-authority for consistent theming across applications requiring phone number collection.",
+  "_classifiedAt": "2026-04-23T17:08:52.220Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

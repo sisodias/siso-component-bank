@@ -1,0 +1,26 @@
+{
+  "id": "preetsuthar17__avatar",
+  "author": "preetsuthar17",
+  "slug": "avatar",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@preetsuthar17/components/avatar",
+  "fetchedAt": "2026-08-29T06:12:20.345Z",
+  "completedAt": "2026-08-29T06:12:22.556Z",
+  "versionedFilename": "code.1753354554529.tsx",
+  "codeReference": "r2://components-code-private/preetsuthar17/avatar/code.1753354554529.tsx",
+  "codeUrl": "https://cdn.21st.dev/preetsuthar17/avatar/code.1753354554529.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4161,
+  "sha256": "2f717ff7478b28a8a10f82d3b19491e96ffccdbf1660961301f74882756f7aab",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

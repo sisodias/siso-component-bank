@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@thegridcn/components/data-stream",
+  "author": "thegridcn",
+  "slug": "data-stream",
+  "name": "data-stream",
+  "description": "An animated terminal-style log feed that reveals timestamped entries one by one with type-colored status dots for streaming data or activity monitors.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/thegridcn/data-stream?api_key=$API_KEY_21ST\"",
+  "id": "thegridcn__data-stream",
+  "bundleUrl": "https://cdn.21st.dev/thegridcn/data-stream/default/bundle.1783530308868.html",
+  "previewUrl": "https://cdn.21st.dev/thegridcn/data-stream/default/preview.1783581577520.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

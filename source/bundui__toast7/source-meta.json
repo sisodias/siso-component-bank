@@ -1,0 +1,26 @@
+{
+  "id": "bundui__toast7",
+  "author": "bundui",
+  "slug": "toast7",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@bundui/components/toast7",
+  "fetchedAt": "2026-08-29T03:52:54.587Z",
+  "completedAt": "2026-08-29T03:52:56.777Z",
+  "versionedFilename": "code.1784670295779-0a4f7e9e-cfb8-4d7c-b940-ca153852062b.tsx",
+  "codeReference": "r2://components-code-private/bundui/toast7/code.1784670295779-0a4f7e9e-cfb8-4d7c-b940-ca153852062b.tsx",
+  "codeUrl": "https://cdn.21st.dev/bundui/toast7/code.1784670295779-0a4f7e9e-cfb8-4d7c-b940-ca153852062b.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

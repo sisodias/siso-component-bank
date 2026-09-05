@@ -1,0 +1,33 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "badge tabs with animated pill indicator",
+  "visual_style": [
+    "minimalist",
+    "glass-morphism"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Navigating between content sections while displaying notification counts",
+    "Creating dashboard or settings interfaces with tabbed navigation",
+    "Building messaging or inbox views with unread counts on each section",
+    "Organizing content into categories with animated tab switching",
+    "Implementing notification panels or alert management interfaces"
+  ],
+  "ai_summary": "A badge tabs component featuring animated tab switching with a morphing pill indicator that smoothly transitions between tab items. Each tab can display a count badge, making it ideal for notification-based navigation in dashboards, messaging apps, or settings interfaces. Uses Framer Motion for fluid animations and supports hover effects with scale transforms.",
+  "_classifiedAt": "2026-04-23T01:49:02.461Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

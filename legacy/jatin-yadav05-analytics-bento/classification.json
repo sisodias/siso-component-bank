@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display",
+    "card"
+  ],
+  "subcategory": "analytics-bento-chart",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Displaying weekly budget or spending data with interactive hover states in analytics dashboards",
+    "Visualizing daily metrics with smooth curved charts and area fills in SaaS platforms",
+    "Tracking financial trends in fintech applications with hover-reveal data points",
+    "Building bento-style analytics grid layouts for dashboard components",
+    "Monitoring KPI trends with smooth bezier curve visualizations"
+  ],
+  "ai_summary": "An interactive analytics bento card featuring an SVG-based weekly chart with smooth bezier curved lines, gradient area fills, and hover interactions. The component displays daily values (Sunday through Saturday) with dynamic tooltip-style highlighting on hover. Designed for building modern bento-style dashboard layouts in SaaS, fintech, and e-commerce analytics platforms.",
+  "_classifiedAt": "2026-04-22T09:00:13.391Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "Swipe verification button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "drag",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "e-commerce",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Payment confirmation requiring users to swipe to complete a transaction",
+    "Account verification flows where users drag to confirm identity",
+    "Terms of service acceptance gates on signup forms",
+    "Age verification gates for restricted content",
+    "Two-factor authentication confirmation steps"
+  ],
+  "ai_summary": "A swipe-to-verify button component that requires users to drag a thumb or indicator across a track to confirm an action. The component features drag-based interaction with visual feedback states including idle, swiping, validated, and reset. Commonly used for payment verification, consent confirmation, or action verification in fintech, e-commerce, and SaaS applications. Supports customizable text, gap spacing, and validation duration.",
+  "_classifiedAt": "2026-04-23T11:31:49.781Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mapcn__map",
+  "author": "mapcn",
+  "slug": "map",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@mapcn/components/map",
+  "fetchedAt": "2026-08-29T05:37:46.409Z",
+  "completedAt": "2026-08-29T05:37:49.446Z",
+  "versionedFilename": "code.1767616254277.tsx",
+  "codeReference": "r2://components-code-private/larsen66/map/code.1767616254277.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/map/code.1767616254277.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 24312,
+  "sha256": "3af8ff741417abca12fa3162428c782679588b62a3329292b7c1c032b7b8da6f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "globe-analytics-visualization",
+  "visual_style": [
+    "3d",
+    "gradient"
+  ],
+  "interactions": [
+    "drag",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying global visitor analytics with geographic distribution on an interactive 3D globe",
+    "Showing real-time visitor counts and trend data for different world regions",
+    "Providing an engaging way to explore analytics data through globe rotation and dragging",
+    "Enhancing analytics dashboards with immersive geospatial visualization",
+    "Tracking and visualizing user activity across different continents in real-time"
+  ],
+  "ai_summary": "An interactive 3D globe component that visualizes analytics data with geographic markers showing visitor counts and trends for different locations worldwide. Features drag-to-rotate interaction, automatic rotation, and real-time data updates. Built with the Cobe WebGL library for smooth globe rendering. Ideal for SaaS dashboards and analytics platforms that want to present global user engagement data in an engaging, interactive format.",
+  "_classifiedAt": "2026-04-22T09:16:44.392Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

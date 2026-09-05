@@ -1,0 +1,64 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "shugar-feedback",
+  "type": "registry:ui",
+  "title": "Shugar Feedback",
+  "description": "Installed from https://21st.dev/r/shugar/feedback",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "shugar-feedback"
+  ],
+  "files": [
+    {
+      "path": "button-1.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "error.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "feedback.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "material-1.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "spinner-1.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "textarea.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "use-click-outside.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "clsx"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/shugar/feedback",
+    "fetchedAt": "2026-04-23T03:03:25.738Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

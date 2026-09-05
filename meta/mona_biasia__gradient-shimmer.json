@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@mona_biasia/components/gradient-shimmer",
+  "author": "mona_biasia",
+  "slug": "gradient-shimmer",
+  "name": "gradient-shimmer",
+  "description": "A zero-dependency React text shimmer that sweeps a multi-stop gradient highlight across your text. Web-Animations-API driven — no CSS import, no Tailwind, no runtime deps. The gradient is background-clipped to the glyphs and swept with the WAAPI at a constant px/s regardless of font size, so every shimmer on the page runs at the same frequency. Ships 8 rich multi-stop presets (sunrise, bubble, peach, tonic, mint, spring, twilight, bay) plus fully custom stops, three easing curves (smooth, gentle, snappy), and tunable duration, spread, angle and pause. Automatically pauses while off-screen, while the tab is hidden, or while the page scrolls, and degrades to a static gradient under prefers-reduced-motion. Great for signalling a running / loading task inline in text.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/mona_biasia/gradient-shimmer?api_key=$API_KEY_21ST\"",
+  "id": "mona_biasia__gradient-shimmer",
+  "bundleUrl": "https://cdn.21st.dev/mona_biasia/gradient-shimmer/default/bundle.1785452352383-aeab1551-501d-4582-a37a-af4d23ca2d8f.html",
+  "previewUrl": "https://cdn.21st.dev/mona_biasia/gradient-shimmer/default/preview.1785452352383-aeab1551-501d-4582-a37a-af4d23ca2d8f.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 4,
+  "demo_id": 16788,
+  "video_url": "https://cdn.21st.dev/mona_biasia/gradient-shimmer/default/video.1785452352383-aeab1551-501d-4582-a37a-af4d23ca2d8f.mp4"
+}

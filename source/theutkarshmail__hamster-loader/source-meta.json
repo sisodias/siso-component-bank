@@ -1,0 +1,26 @@
+{
+  "id": "theutkarshmail__hamster-loader",
+  "author": "theutkarshmail",
+  "slug": "hamster-loader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theutkarshmail/components/hamster-loader",
+  "fetchedAt": "2026-08-29T07:36:48.706Z",
+  "completedAt": "2026-08-29T07:36:50.998Z",
+  "versionedFilename": "code.1755116712638.tsx",
+  "codeReference": "r2://components-code-private/theutkarshmail/hamster-loader/code.1755116712638.tsx",
+  "codeUrl": "https://cdn.21st.dev/theutkarshmail/hamster-loader/code.1755116712638.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 809,
+  "sha256": "9678149534dca5b66fd0939d9979dac43b695d50cfb25cf74aafcccb6e8ffbe7",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

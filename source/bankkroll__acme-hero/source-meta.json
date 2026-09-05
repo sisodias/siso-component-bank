@@ -1,0 +1,26 @@
+{
+  "id": "bankkroll__acme-hero",
+  "author": "bankkroll",
+  "slug": "acme-hero",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@bankkroll/components/acme-hero",
+  "fetchedAt": "2026-08-29T03:47:48.411Z",
+  "completedAt": "2026-08-29T03:47:50.952Z",
+  "versionedFilename": "code.1754170765259.tsx",
+  "codeReference": "r2://components-code-private/bankkroll/acme-hero/code.1754170765259.tsx",
+  "codeUrl": "https://cdn.21st.dev/bankkroll/acme-hero/code.1754170765259.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 9295,
+  "sha256": "9338324a5d846235ec0f9bafc027c5e7fbafbc50ddbbd1752ee96b19cffc8117",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

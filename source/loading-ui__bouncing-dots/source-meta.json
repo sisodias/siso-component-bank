@@ -1,0 +1,26 @@
+{
+  "id": "loading-ui__bouncing-dots",
+  "author": "loading-ui",
+  "slug": "bouncing-dots",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@loading-ui/components/bouncing-dots",
+  "fetchedAt": "2026-08-29T05:28:40.489Z",
+  "completedAt": "2026-08-29T05:28:42.699Z",
+  "versionedFilename": "code.1784375827049-cac43718-d119-4f56-8909-140a5ac59618.tsx",
+  "codeReference": "r2://components-code-private/loading-ui/bouncing-dots/code.1784375827049-cac43718-d119-4f56-8909-140a5ac59618.tsx",
+  "codeUrl": "https://cdn.21st.dev/loading-ui/bouncing-dots/code.1784375827049-cac43718-d119-4f56-8909-140a5ac59618.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

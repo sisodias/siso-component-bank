@@ -1,0 +1,33 @@
+{
+  "category": [
+    "overlay",
+    "media"
+  ],
+  "subcategory": "magnifying-lens-zoom-effect",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Product image magnification on e-commerce product detail pages",
+    "Zoomable image viewer for media galleries and portfolios",
+    "Accessibility tool for magnifying small text or details",
+    "Document inspection tool for viewing fine print or diagrams",
+    "Interactive product customizer with zoomed detail previews"
+  ],
+  "ai_summary": "A magnifying lens component that creates a circular zoom effect on child content, following the mouse cursor with smooth Framer Motion animations. Features configurable zoom factor and lens size with CSS radial gradient masking for the magnification effect. Supports both static positioning and dynamic mouse tracking modes for flexible implementation across e-commerce and media applications.",
+  "_classifiedAt": "2026-04-23T11:32:05.910Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

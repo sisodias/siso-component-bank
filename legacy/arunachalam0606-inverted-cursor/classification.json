@@ -1,0 +1,32 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "custom-cursor",
+  "visual_style": [
+    "minimalist",
+    "glass-morphism"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "creator-tools",
+    "media",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creative portfolios and design agency websites seeking distinctive cursor effects",
+    "Premium product landing pages wanting interactive mouse interactions",
+    "Interactive storytelling experiences with custom cursor feedback",
+    "Creative tool interfaces needing distinctive pointer styling",
+    "Minimalist web experiences requiring sleek custom cursor replacement"
+  ],
+  "ai_summary": "A custom cursor component that replaces the native browser cursor with a large, smooth-following circular element using color inversion effects. Built with React hooks and requestAnimationFrame for buttery-smooth lerped animations, supporting visibility toggling on mouse enter/leave and configurable sizing via props. Creates an immersive, premium feel by hiding the default cursor and providing fluid mouse tracking with configurable dimensions.",
+  "_classifiedAt": "2026-04-22T08:52:34.188Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

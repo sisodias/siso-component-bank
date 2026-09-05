@@ -1,0 +1,26 @@
+{
+  "id": "admin_a46d2fee__gauge",
+  "author": "admin_a46d2fee",
+  "slug": "gauge",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@admin_a46d2fee/components/gauge",
+  "fetchedAt": "2026-08-29T03:27:36.866Z",
+  "completedAt": "2026-08-29T03:27:39.084Z",
+  "versionedFilename": "code.1776416751183.tsx",
+  "codeReference": "r2://components-code-private/admin_a46d2fee/gauge/code.1776416751183.tsx",
+  "codeUrl": "https://cdn.21st.dev/admin_a46d2fee/gauge/code.1776416751183.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10501,
+  "sha256": "c20b4a5d1fe4a421c42d224af8ca15a497d399de38cc88dff38091d8cb7d5f64",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

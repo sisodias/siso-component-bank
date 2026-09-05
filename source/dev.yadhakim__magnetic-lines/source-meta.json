@@ -1,0 +1,26 @@
+{
+  "id": "dev.yadhakim__magnetic-lines",
+  "author": "dev.yadhakim",
+  "slug": "magnetic-lines",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dev.yadhakim/components/magnetic-lines",
+  "fetchedAt": "2026-08-29T04:23:54.922Z",
+  "completedAt": "2026-08-29T04:23:57.097Z",
+  "versionedFilename": "code.1772035604805.tsx",
+  "codeReference": "r2://components-code-private/dev.yadhakim/magnetic-lines/code.1772035604805.tsx",
+  "codeUrl": "https://cdn.21st.dev/dev.yadhakim/magnetic-lines/code.1772035604805.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5500,
+  "sha256": "afe6fbed53d8fc700ae0c992999c8c0fd0d758e3c10d1de948a80d073ea37ba7",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "karthikmudunuri__orbit-rotation",
+  "author": "karthikmudunuri",
+  "slug": "orbit-rotation",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@karthikmudunuri/components/orbit-rotation",
+  "fetchedAt": "2026-08-29T05:13:52.010Z",
+  "completedAt": "2026-08-29T05:13:54.164Z",
+  "versionedFilename": "code.1783460468379.tsx",
+  "codeReference": "r2://components-code-private/eldoraui/orbit-rotation/code.1783460468379.tsx",
+  "codeUrl": "https://cdn.21st.dev/eldoraui/orbit-rotation/code.1783460468379.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3946,
+  "sha256": "4b4653ae92a1d1851d016fb5753d25b3065899b81e4b8d39bb6c43be6e71bcf1",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

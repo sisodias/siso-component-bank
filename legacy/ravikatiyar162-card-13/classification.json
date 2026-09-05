@@ -1,0 +1,31 @@
+{
+  "category": "card",
+  "subcategory": "availability-slot-picker",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "healthcare",
+    "education",
+    "real-estate",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display available appointment or meeting slots in a responsive grid layout with staggered entrance animations",
+    "Allow users to select time slots for booking appointments in healthcare or service scheduling contexts",
+    "Present time-based availability for scheduling demos, consultations, or property viewings",
+    "Provide a selectable slot interface for class registration or event booking systems",
+    "Enable users to browse and pick from available time windows with visual feedback on selection"
+  ],
+  "ai_summary": "A scheduling card component that displays available time slots in a responsive grid with staggered Framer Motion animations. Built with Tailwind and shadcn/ui patterns, it supports themed styling and manages selection state with click interactions. Ideal for appointment booking, demo scheduling, and availability selection across healthcare, education, and service-based applications.",
+  "_classifiedAt": "2026-04-23T01:46:16.870Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

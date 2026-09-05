@@ -1,0 +1,26 @@
+{
+  "id": "uniquesonu__liquid-glass",
+  "author": "uniquesonu",
+  "slug": "liquid-glass",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uniquesonu/components/liquid-glass",
+  "fetchedAt": "2026-08-29T07:49:03.154Z",
+  "completedAt": "2026-08-29T07:49:05.114Z",
+  "versionedFilename": "code.1761931957415.tsx",
+  "codeReference": "r2://components-code-private/uniquesonu/liquid-glass/code.1761931957415.tsx",
+  "codeUrl": "https://cdn.21st.dev/uniquesonu/liquid-glass/code.1761931957415.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 12364,
+  "sha256": "15b30fdf66a34279a6db371b60ab3de710dd62134462c67dc35877c3960eb1c6",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

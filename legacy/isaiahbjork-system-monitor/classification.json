@@ -1,0 +1,38 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "badge, status indicator",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "education",
+    "healthcare",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display product categories or status labels in e-commerce interfaces",
+    "Show system status indicators in dashboards and monitoring tools",
+    "Present tag clouds for content organization in CMS platforms",
+    "Indicate feature availability or subscription tiers in SaaS applications",
+    "Mark notification counts or priority levels in messaging interfaces"
+  ],
+  "ai_summary": "A lightweight badge component with four style variants (default, secondary, destructive, outline) for displaying status indicators, tags, and category labels across various interfaces. Built with class-variance-authority for consistent variant management and Tailwind CSS for styling.",
+  "_classifiedAt": "2026-04-23T16:44:50.123Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

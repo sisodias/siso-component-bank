@@ -1,0 +1,30 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "AI chat textarea with auto-resize and animated placeholder",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "AI chatbot message composition with auto-expanding textarea",
+    "Search interface with animated contextual placeholder",
+    "Text input with attachment and send actions for AI assistants"
+  ],
+  "ai_summary": "An auto-resizing AI input component with animated placeholder that transitions between 'Ask Skiper Ai...' and 'Search the web...' states. Features a custom useAutoResizeTextarea hook, Framer Motion animations, and action buttons for attachments and sending messages. Supports dark mode with Tailwind classes and includes keyboard-friendly textarea integration.",
+  "_classifiedAt": "2026-04-23T17:15:57.482Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

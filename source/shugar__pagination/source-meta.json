@@ -1,0 +1,33 @@
+{
+  "id": "shugar__pagination",
+  "author": "shugar",
+  "slug": "pagination",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/pagination",
+  "fetchedAt": "2026-08-29T07:19:46.940Z",
+  "completedAt": "2026-08-29T07:19:48.438Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/shugar__pagination/code.tsx",
+    "bytes": 2463,
+    "sha256": "e675d946e7818687a34e74a16893214d68968db0feab8c3cf772ab80145f4946",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

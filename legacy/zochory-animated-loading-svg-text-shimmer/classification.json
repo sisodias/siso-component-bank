@@ -1,0 +1,33 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading-indicator",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display loading states during data fetching operations",
+    "Show progress indication for async workflows",
+    "Skeleton placeholder for content-heavy pages",
+    "Loading feedback for navigation transitions",
+    "Breadcrumb loading animation during page transitions"
+  ],
+  "ai_summary": "A minimalist loading indicator component featuring an animated SVG path with stroke-dashoffset animation that creates a text drawing/shimmer effect. The component renders a breadcrumb-style loader with smooth stroke animations, suitable for displaying loading states across various SaaS, e-commerce, and fintech applications.",
+  "_classifiedAt": "2026-04-22T09:19:20.651Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

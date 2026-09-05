@@ -1,0 +1,30 @@
+{
+  "category": "data-display",
+  "subcategory": "stacked-bar-chart",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Visualize categorical data with multiple stacked segments across time periods",
+    "Compare distribution of values across different categories",
+    "Display parts-to-whole relationships in business metrics",
+    "Track multi-series data trends over sequential intervals",
+    "Present comparative analytics in dashboards and reports"
+  ],
+  "ai_summary": "A Reaviz-based stacked bar chart component that visualizes categorical data with multiple stacked segments. Built with LinearXAxis and LinearYAxis components, it renders comparison metrics across categories using StackedBarSeries. Ideal for SaaS dashboards, analytics platforms, and business intelligence tools requiring data distribution visualization.",
+  "_classifiedAt": "2026-04-23T17:15:42.857Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "filter-badge, selection-indicator, tag",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displays active filter selections with optional remove functionality",
+    "Shows selected filter criteria with label-value pairs in data tables",
+    "Indicates current filtering state in dashboards and search interfaces",
+    "Provides quick removal of applied filters with close button interaction",
+    "Supports avatar variant for user-based or entity-based filtering contexts"
+  ],
+  "ai_summary": "A minimalist filter badge component for displaying active filter selections in data-driven interfaces. Supports three variants (default, pill, avatar) with Tremor design system styling and built-in remove functionality. Designed for SaaS dashboards, e-commerce filtering, and any application requiring clear filter state indication with quick removal capability.",
+  "_classifiedAt": "2026-04-23T17:25:23.606Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

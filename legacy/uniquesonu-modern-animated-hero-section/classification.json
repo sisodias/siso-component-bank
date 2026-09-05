@@ -1,0 +1,34 @@
+{
+  "category": "hero",
+  "subcategory": "text-scramble-animated-hero",
+  "visual_style": [
+    "gradient",
+    "minimalist",
+    "modern"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "dev-tools",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page entry point with engaging animated text reveal",
+    "Portfolio or personal website hero section",
+    "Product launch or marketing page header",
+    "SaaS application homepage banner"
+  ],
+  "ai_summary": "A modern animated hero section featuring a custom TextScramble effect that reveals text character-by-character with randomized symbols transitioning into final words. Built with React hooks and a TextScramble class using requestAnimationFrame for smooth 60fps animation. Functions as a visually engaging landing page header suitable for SaaS products, portfolios, or marketing campaigns.",
+  "_classifiedAt": "2026-04-23T17:39:53.253Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

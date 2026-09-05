@@ -1,0 +1,30 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "menu-item",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying restaurant menu items with images, prices, and vegetarian indicators",
+    "Food delivery app product listings with add-to-cart functionality",
+    "E-commerce product cards with hover animations and discount pricing display"
+  ],
+  "ai_summary": "A restaurant menu item card component featuring food imagery with gradient overlay, pricing with savings display, vegetarian indicator with animated icon, prep time, and an add-to-cart button. Built with Framer Motion for smooth hover scale animations and tap feedback, styled with Tailwind CSS using a flat minimalist aesthetic with rounded corners and subtle shadows. Perfect for food delivery apps and restaurant ordering interfaces.",
+  "_classifiedAt": "2026-04-23T01:47:34.935Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "shugar__note",
+  "author": "shugar",
+  "slug": "note",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/note",
+  "fetchedAt": "2026-08-29T07:19:45.039Z",
+  "completedAt": "2026-08-29T07:19:46.938Z",
+  "versionedFilename": "code.1752227724911.tsx",
+  "codeReference": "r2://components-code-private/shugar/note/code.1752227724911.tsx",
+  "codeUrl": "https://cdn.21st.dev/shugar/note/code.1752227724911.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6876,
+  "sha256": "38c8119d213b52002a839bef9b452245e398b5ec68cab94b668d73b58266c66f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

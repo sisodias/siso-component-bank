@@ -1,0 +1,26 @@
+{
+  "id": "ravikatiyar162__redeem",
+  "author": "ravikatiyar162",
+  "slug": "redeem",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ravikatiyar162/components/redeem",
+  "fetchedAt": "2026-08-29T06:29:04.414Z",
+  "completedAt": "2026-08-29T06:29:06.501Z",
+  "versionedFilename": "code.1758206241560.tsx",
+  "codeReference": "r2://components-code-private/ravikatiyar162/redeem/code.1758206241560.tsx",
+  "codeUrl": "https://cdn.21st.dev/ravikatiyar162/redeem/code.1758206241560.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3859,
+  "sha256": "cb4431b6946e8da9d387cc0fef7ecdc91c8de03bf384421b200e36506085ad63",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

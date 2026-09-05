@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "toggle-button",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "saas",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "E-commerce product wishlist or favorite toggle",
+    "Bookmarking articles or content items",
+    "Rating or star-based feedback systems",
+    "Save for later functionality in shopping apps",
+    "Favoriting items in media or content platforms"
+  ],
+  "ai_summary": "A compact wishlist/star toggle button with an animated fill transition and dramatic hover effect on the star icon. The button uses a checkbox input wrapped in a styled label, featuring a smooth color transition between outlined and filled states. Ideal for e-commerce wishlists, content bookmarking, or any favorite/star functionality.",
+  "_classifiedAt": "2026-04-23T17:02:25.363Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "action-button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "healthcare",
+    "education",
+    "real-estate",
+    "dev-tools",
+    "creator-tools",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Trigger form submissions with styled primary or destructive buttons",
+    "Navigate users through multi-step workflows with ghost or outline button variants",
+    "Provide icon-only action buttons for compact UI toolbars",
+    "Create accessible interactive controls with built-in keyboard navigation support",
+    "Compose complex buttons using the asChild prop with Radix Slot"
+  ],
+  "ai_summary": "A versatile, accessible button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Built on Radix UI primitives with Tailwind CSS styling, featuring focus-visible ring states, disabled handling, and composition support via the asChild prop. Suitable for any industry requiring standard interactive button controls.",
+  "_classifiedAt": "2026-04-22T09:14:58.419Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

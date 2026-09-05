@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@molecule-lab-rushil/components/discussion",
+  "author": "molecule-lab-rushil",
+  "slug": "discussion",
+  "name": "discussion",
+  "description": "A component for displaying nested discussions or comment threads.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/molecule-lab-rushil/discussion?api_key=$API_KEY_21ST\"",
+  "id": "molecule-lab-rushil__discussion",
+  "bundleUrl": "https://cdn.21st.dev/molecule-lab-rushil/discussion/default/bundle.1753106672080.html",
+  "previewUrl": "https://cdn.21st.dev/molecule-lab-rushil/discussion/default/preview.1753106672080.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

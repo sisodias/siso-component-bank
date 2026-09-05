@@ -1,0 +1,37 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "segmented-progress-indicator",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Visualizing project completion or task progress in dashboards",
+    "Displaying skill levels or expertise percentages in profiles",
+    "Showing goal achievement metrics in gamified applications",
+    "Representing loading or upload progress in media-heavy interfaces",
+    "Indicating budget utilization or spending limits in finance apps"
+  ],
+  "ai_summary": "A segmented progress bar component with smooth cubic-eased animations and interactive hover states on individual segments. Supports customizable segment count, label display, and percentage indicators. The component animates on mount and value changes, providing visual feedback through scale and color transitions on segment hover. Ideal for dashboards, project trackers, and data visualization interfaces requiring granular progress representation.",
+  "_classifiedAt": "2026-04-22T09:00:48.720Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

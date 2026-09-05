@@ -1,0 +1,28 @@
+{
+  "category": "card",
+  "subcategory": "comment-thread-reveal",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display user comments in a discussion feed with animated skeleton loading states",
+    "Show interactive comment-reply conversations with hover reveal mechanism",
+    "Create social media-style comment threads with smooth transitions",
+    "Build chat or messaging interfaces with expandable reply sections",
+    "Add discussion cards to content platforms with dynamic reveal interactions"
+  ],
+  "ai_summary": "A comment card component featuring a commenter section with animated skeleton loading states and an interactive hover-reveal mechanism that displays reply content from a second user. The card uses a clean white minimalist design with subtle shadows and neutral color palette, transitioning smoothly on hover with translation and opacity effects. Ideal for discussion threads, social feeds, and content platforms requiring collapsible comment-reply interactions.",
+  "_classifiedAt": "2026-04-23T16:41:48.179Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

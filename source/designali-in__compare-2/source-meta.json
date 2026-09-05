@@ -1,0 +1,26 @@
+{
+  "id": "designali-in__compare-2",
+  "author": "designali-in",
+  "slug": "compare-2",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/compare-2",
+  "fetchedAt": "2026-08-29T04:17:41.645Z",
+  "completedAt": "2026-08-29T04:17:43.635Z",
+  "versionedFilename": "code.1760503048365.tsx",
+  "codeReference": "r2://components-code-private/designali-in/compare-2/code.1760503048365.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/compare-2/code.1760503048365.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7434,
+  "sha256": "45adb074c5b5e32cead97c6a222bf4f41132568c2252e62e42fca154920e2e01",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

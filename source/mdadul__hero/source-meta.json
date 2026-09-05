@@ -1,0 +1,26 @@
+{
+  "id": "mdadul__hero",
+  "author": "mdadul",
+  "slug": "hero",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@mdadul/components/hero",
+  "fetchedAt": "2026-08-29T05:39:26.933Z",
+  "completedAt": "2026-08-29T05:39:29.146Z",
+  "versionedFilename": "code.1748063446944.tsx",
+  "codeReference": "r2://components-code-private/mdadul/hero/code.1748063446944.tsx",
+  "codeUrl": "https://cdn.21st.dev/mdadul/hero/code.1748063446944.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6634,
+  "sha256": "a7ac8ad5845919bcce9c493d6d9fa666dacb01715b2b31c74e623349b2700188",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

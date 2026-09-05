@@ -1,0 +1,31 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "tab-control",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Organizing content into switchable sections within a single view",
+    "Creating multi-step forms or wizards with distinct steps",
+    "Building settings panels with categorized options",
+    "Implementing product detail pages with Description, Reviews, and Shipping info",
+    "Creating dashboard views with different data visualizations"
+  ],
+  "ai_summary": "A flexible tab navigation component with three visual variants (default, ghost, underline) and three size options. Built with class-variance-authority for consistent styling, motion/react for smooth transitions, and proper accessibility support with focus states. Designed for organizing content into switchable sections with clean, minimal aesthetics suitable for SaaS and developer tool interfaces.",
+  "_classifiedAt": "2026-04-23T17:09:49.425Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "reaviz__heat-map-xl",
+  "author": "reaviz",
+  "slug": "heat-map-xl",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@reaviz/components/heat-map-xl",
+  "fetchedAt": "2026-08-29T06:32:38.605Z",
+  "completedAt": "2026-08-29T06:32:41.027Z",
+  "versionedFilename": "code.1748121478471.tsx",
+  "codeReference": "r2://components-code-private/larsen66/heat-map-xl/code.1748121478471.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/heat-map-xl/code.1748121478471.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 17368,
+  "sha256": "e31198857f42c3281ccd986e2d997a9e1a94d7454c8e59535784cecd3770e80b",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

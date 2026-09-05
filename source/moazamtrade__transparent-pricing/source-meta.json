@@ -1,0 +1,26 @@
+{
+  "id": "moazamtrade__transparent-pricing",
+  "author": "moazamtrade",
+  "slug": "transparent-pricing",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@moazamtrade/components/transparent-pricing",
+  "fetchedAt": "2026-08-29T05:48:07.726Z",
+  "completedAt": "2026-08-29T05:48:10.412Z",
+  "versionedFilename": "code.1765272062642.tsx",
+  "codeReference": "r2://components-code-private/moazamtrade/transparent-pricing/code.1765272062642.tsx",
+  "codeUrl": "https://cdn.21st.dev/moazamtrade/transparent-pricing/code.1765272062642.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3327,
+  "sha256": "0159863072cac927ff0583a0a17f225dd3e18ed5d10f9401e2cdbe448a1474dd",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

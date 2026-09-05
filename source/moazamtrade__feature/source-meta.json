@@ -1,0 +1,26 @@
+{
+  "id": "moazamtrade__feature",
+  "author": "moazamtrade",
+  "slug": "feature",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@moazamtrade/components/feature",
+  "fetchedAt": "2026-08-29T05:47:08.298Z",
+  "completedAt": "2026-08-29T05:47:10.507Z",
+  "versionedFilename": "code.1765049516168.tsx",
+  "codeReference": "r2://components-code-private/moazamtrade/feature/code.1765049516168.tsx",
+  "codeUrl": "https://cdn.21st.dev/moazamtrade/feature/code.1765049516168.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5106,
+  "sha256": "98ef2b42b23efb2414d8e23e2f6aefbfd2134de0a12aeba027c9523d6fe3c1c5",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "category": "card",
+  "subcategory": "product showcase card with 3D bounce animation",
+  "visual_style": [],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "saas",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying product images with eye-catching floating animation on e-commerce sites",
+    "Showcasing featured products with subtle 3D effects on landing pages",
+    "Creating animated product catalogs with continuous motion effects",
+    "Adding visual interest to product grids with bouncing card elements",
+    "Highlighting premium products with depth and shadow effects"
+  ],
+  "ai_summary": "A lightweight product card component featuring continuous 3D bounce animation using Framer Motion. The component displays a product image that floats up and down with subtle rotateY transformation, paired with a realistic bottom shadow for depth. Designed for product showcases, e-commerce displays, and landing pages where visual attention is key.",
+  "_classifiedAt": "2026-04-22T09:12:47.273Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

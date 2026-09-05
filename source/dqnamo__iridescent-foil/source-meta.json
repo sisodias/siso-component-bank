@@ -1,0 +1,26 @@
+{
+  "id": "dqnamo__iridescent-foil",
+  "author": "dqnamo",
+  "slug": "iridescent-foil",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dqnamo/components/iridescent-foil",
+  "fetchedAt": "2026-08-29T04:36:48.147Z",
+  "completedAt": "2026-08-29T04:36:50.053Z",
+  "versionedFilename": "code.1783008573904.tsx",
+  "codeReference": "r2://components-code-private/larsen66/iridescent-foil/code.1783008573904.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/iridescent-foil/code.1783008573904.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 11439,
+  "sha256": "34372781c1e61e1ddcc821b47a33edc4d18095eba1b37cf7b6bebd272ccc88cb",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

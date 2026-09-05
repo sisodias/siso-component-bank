@@ -1,0 +1,34 @@
+{
+  "category": [
+    "form"
+  ],
+  "subcategory": "authentication",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "User authentication and login for web applications",
+    "Secure credential entry with password visibility toggle",
+    "Social login integration with Google OAuth",
+    "Account access screens for SaaS and digital platforms",
+    "Entry point for multi-step onboarding or checkout flows"
+  ],
+  "ai_summary": "A complete sign-in page component featuring email and password input fields with a password visibility toggle, Google OAuth social login button, and a clean card-based layout. The component uses Lucide React icons for visual indicators and implements proper form handling with state management. Designed for SaaS and web applications requiring user authentication, with responsive behavior across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T16:45:41.821Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

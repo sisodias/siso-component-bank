@@ -1,0 +1,28 @@
+{
+  "category": "data-display",
+  "subcategory": "bar-chart-activity-metrics",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying user login frequency metrics in admin dashboards",
+    "Tracking successful sign-in patterns across regions for security monitoring",
+    "Visualizing recent user activity in SaaS platform analytics sections",
+    "Showing login trends in developer console or user management interfaces",
+    "Monitoring user engagement metrics in fintech security dashboards"
+  ],
+  "ai_summary": "A login activity visualization component that displays recent successful sign-ins as an animated bar chart with 10 data points. The card features gradient-colored bars that animate on mount with staggered delays, and a subtle glow effect activates on hover. Supports both light and dark themes with clean typography, making it ideal for security dashboards, admin panels, and user analytics sections in SaaS applications.",
+  "_classifiedAt": "2026-04-23T01:35:11.031Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

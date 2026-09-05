@@ -1,0 +1,24 @@
+{
+  "category": "feedback",
+  "subcategory": "loader-animation",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display animated loading indicators during data fetching",
+    "Show visual feedback during async operations and page transitions",
+    "Add decorative loading animations to splash screens or onboarding flows",
+    "Provide progress indication during file uploads or processing"
+  ],
+  "ai_summary": "A lightweight floating icons loader component that renders customizable icon components with continuous scale, rotation, translate, and opacity animations creating a blooming flower-like floating effect. Configurable via props for icon count, size, color, and custom icon component, making it suitable for generic loading states across various SaaS and application contexts.",
+  "_classifiedAt": "2026-04-22T09:12:28.225Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

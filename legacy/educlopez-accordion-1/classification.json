@@ -1,0 +1,31 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "accordion",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "FAQ sections on websites where users can expand/collapse questions",
+    "Documentation pages to organize content into collapsible sections",
+    "Settings panels to group related options that can be expanded",
+    "Product feature listings with expandable details",
+    "Educational content organization with hierarchical information"
+  ],
+  "ai_summary": "A clean, minimalist accordion component that allows users to expand and collapse content sections. Supports single or multiple item expansion with smooth motion animations and a rotating chevron indicator. Built with motion/react for fluid transitions and fully accessible with aria-expanded attributes.",
+  "_classifiedAt": "2026-04-23T01:39:51.244Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "siri-orb",
+  "type": "registry:ui",
+  "title": "SiriOrb",
+  "description": "Apple Siri-style animated orb with CSS @property conic gradients, blur/contrast filters, and interactive size/speed controls",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "siri",
+    "orb",
+    "animation",
+    "gradient",
+    "css",
+    "ai",
+    "avatar"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "siri-orb.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "lucide-react"
+  ],
+  "registryDependencies": [
+    "siri-orb"
+  ],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "curationTags": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "serafimcloud__dotted-dialog",
+  "author": "serafimcloud",
+  "slug": "dotted-dialog",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@serafimcloud/components/dotted-dialog",
+  "fetchedAt": "2026-08-29T07:02:12.249Z",
+  "completedAt": "2026-08-29T07:02:14.312Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "forgedstep__score-ring",
+  "author": "forgedstep",
+  "slug": "score-ring",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@forgedstep/components/score-ring",
+  "fetchedAt": "2026-08-29T04:50:54.717Z",
+  "completedAt": "2026-08-29T04:50:56.832Z",
+  "versionedFilename": "code.1782972360203.tsx",
+  "codeReference": "r2://components-code-private/forgedstep/score-ring/code.1782972360203.tsx",
+  "codeUrl": "https://cdn.21st.dev/forgedstep/score-ring/code.1782972360203.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2244,
+  "sha256": "d6e773865d34e3f09665f1ecc3614088cd82295d93b9e7ece0daee6aab75bbd1",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

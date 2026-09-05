@@ -1,0 +1,26 @@
+{
+  "id": "moorejp__course-compass-logo",
+  "author": "moorejp",
+  "slug": "course-compass-logo",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@moorejp/components/course-compass-logo",
+  "fetchedAt": "2026-08-29T05:49:28.538Z",
+  "completedAt": "2026-08-29T05:49:30.542Z",
+  "versionedFilename": "code.1782776835788.tsx",
+  "codeReference": "r2://components-code-private/moorejp/course-compass-logo/code.1782776835788.tsx",
+  "codeUrl": "https://cdn.21st.dev/moorejp/course-compass-logo/code.1782776835788.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2572,
+  "sha256": "8d6e17c3adc7936c34d8649b0ee27a96fc7a5b3c68c8ce1a71c58feb92b7471b",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

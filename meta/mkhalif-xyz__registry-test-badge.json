@@ -1,0 +1,18 @@
+{
+  "url": "https://21st.dev/@mkhalif-xyz/components/registry-test-badge",
+  "author": "mkhalif-xyz",
+  "slug": "registry-test-badge",
+  "name": "registry-test-badge",
+  "description": "A tiny dependency-free badge used to verify that publishing to the 21st.dev registry works end to end.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/mkhalif-xyz/registry-test-badge?api_key=$API_KEY_21ST\"",
+  "id": "mkhalif-xyz__registry-test-badge",
+  "bundleUrl": "https://cdn.21st.dev/mkhalif-xyz/registry-test-badge/default/bundle.1780120791928.html",
+  "previewUrl": null,
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "preview": "preview.png",
+  "previewVia": "ogCard"
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "pricing"
+  ],
+  "subcategory": "pricing-cta-button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Call-to-action button for pricing plan selection",
+    "Subscribe or upgrade button on pricing cards",
+    "Navigation button within pricing tables",
+    "Cancel or downgrade action button"
+  ],
+  "ai_summary": "A highly versatile Button component with 6 visual variants (default, destructive, outline, secondary, ghost, link) and 4 size options. Built with Radix UI Slot for composition and CVA for variant handling. Features shadow effects and focus states for accessibility. Typically used as CTA buttons within pricing card components to drive subscription actions.",
+  "_classifiedAt": "2026-04-23T17:17:04.429Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

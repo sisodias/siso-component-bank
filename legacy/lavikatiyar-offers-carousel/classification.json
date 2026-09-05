@@ -1,0 +1,40 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "action-button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Triggering form submissions with customizable variants and sizes",
+    "Creating navigation buttons with link variant styling",
+    "Building accessible action triggers with keyboard navigation support",
+    "Implementing destructive action buttons with destructive variant"
+  ],
+  "ai_summary": "A reusable shadcn/ui-style button component built with Radix UI Slot and class-variance-authority. Provides multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon) for flexible action triggering. Supports asChild prop for polymorphic rendering and maintains accessibility with proper focus-visible ring styling.",
+  "_classifiedAt": "2026-04-23T01:42:58.639Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

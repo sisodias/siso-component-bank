@@ -1,0 +1,29 @@
+{
+  "category": "card",
+  "subcategory": "event-display",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "education",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display event details in a calendar or scheduling interface",
+    "Show upcoming events in a dashboard or landing page",
+    "List scheduled activities in an education or media platform",
+    "Present meeting or webinar information in a SaaS application",
+    "Highlight recurring events with frequency and timing information"
+  ],
+  "ai_summary": "A reusable event card component with smooth entrance animations and interactive hover effects. Displays event icon, title, date/time, and location in a clean card layout with primary color accents. Built with Framer Motion for animations and Tailwind CSS for styling, supporting custom className overrides for theming flexibility.",
+  "_classifiedAt": "2026-04-22T09:09:14.894Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

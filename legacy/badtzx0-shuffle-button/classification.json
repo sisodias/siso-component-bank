@@ -1,0 +1,28 @@
+{
+  "category": "input",
+  "subcategory": "text-shuffle-hover-button",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creative navigation buttons with animated hover text reveal effects",
+    "Engaging CTAs for SaaS landing pages and feature showcases",
+    "Interactive menu items and call-to-action buttons",
+    "Playful hover interactions for buttons, links, and key UI actions",
+    "Eye-catching feedback elements for loading and completion states"
+  ],
+  "ai_summary": "A hover-animated button component that shuffles text through random characters on hover before revealing the original message. Features staggered animation timing based on character count and duration props, with automatic cleanup of animation intervals and timeouts. Customizable via standard button HTML attributes and Tailwind CSS classes for seamless integration into any design system.",
+  "_classifiedAt": "2026-04-23T11:31:51.771Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

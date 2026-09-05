@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "fintech",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in forms and dialogs",
+    "Navigation and menu item triggers throughout applications",
+    "Destructive action confirmation buttons with warning styling",
+    "Secondary actions alongside primary CTAs",
+    "Icon-only buttons for compact toolbar interfaces"
+  ],
+  "ai_summary": "A versatile, accessible button component built with Radix UI Slot and class-variance-authority for flexible styling. Supports multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, small, large, icon) with focus-visible ring states for keyboard navigation. Part of a shadcn/ui-style component library, designed for composability in React applications.",
+  "_classifiedAt": "2026-04-23T01:50:04.981Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

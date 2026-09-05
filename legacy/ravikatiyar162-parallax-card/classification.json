@@ -1,0 +1,38 @@
+{
+  "category": [
+    "card",
+    "media"
+  ],
+  "subcategory": "3d parallax tilt card with spring animations",
+  "visual_style": [
+    "gradient",
+    "3d",
+    "minimalist"
+  ],
+  "interactions": [
+    "parallax",
+    "hover-glow",
+    "mouse-tracked"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive product showcase cards with depth effects",
+    "Feature highlight sections with 3D mouse-following animations",
+    "E-commerce product cards with premium feel",
+    "Portfolio or gallery items with engaging hover interactions",
+    "Landing page sections that draw attention through motion"
+  ],
+  "ai_summary": "A 3D parallax tilt card component featuring smooth spring-based animations that track mouse movement. The card rotates and applies depth effects to inner elements based on cursor position, creating an immersive interactive experience. Uses Framer Motion for physics-based animations with configurable stiffness and damping.",
+  "_classifiedAt": "2026-04-23T01:47:39.593Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

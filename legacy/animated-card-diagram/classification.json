@@ -1,0 +1,30 @@
+{
+  "category": "card",
+  "subcategory": "animated-data-card-with-diagram",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display analytics metrics and data visualizations in dashboard interfaces",
+    "Showcase product features with animated visual summaries",
+    "Create interactive widget cards for SaaS applications",
+    "Present statistical data with engaging hover-triggered animations",
+    "Build multi-layered content cards for e-commerce product highlights"
+  ],
+  "ai_summary": "A multi-layered animated card component featuring an SVG donut chart, floating tech badges, and hover-triggered layer transitions. Built with composable sub-components including CardVisual, CardBody, CardTitle, and CardDescription. Supports dark mode and includes smooth animations for data visualization presentations in SaaS and dashboard applications.",
+  "_classifiedAt": "2026-04-22T08:51:30.012Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,30 @@
+{
+  "category": "navigation",
+  "subcategory": "sliding tab navigation with animated cursor",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Switching between sections in web app dashboards",
+    "Navigating between pages in documentation sites",
+    "Selecting categories in e-commerce filter menus",
+    "Switching views in SaaS product interfaces",
+    "Creating animated navigation menus for media sites"
+  ],
+  "ai_summary": "A sliding tab navigation component featuring an animated cursor that smoothly follows hover and selection states. Built with Framer Motion for fluid animations and styled with Tailwind CSS supporting dark mode. The cursor automatically positions itself based on tab dimensions and maintains the selected state when the mouse leaves the container.",
+  "_classifiedAt": "2026-04-23T01:43:43.221Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__event-path-calendar",
+  "author": "ruixen.ui",
+  "slug": "event-path-calendar",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/event-path-calendar",
+  "fetchedAt": "2026-08-29T06:41:43.919Z",
+  "completedAt": "2026-08-29T06:41:46.798Z",
+  "versionedFilename": "code.1758806639386.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/event-path-calendar/code.1758806639386.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/event-path-calendar/code.1758806639386.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5530,
+  "sha256": "2cae17a11c5a1b6079ae13eb9091ecb25330b5c38332b9d85a9208d639e17bfa",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

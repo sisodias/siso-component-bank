@@ -1,0 +1,26 @@
+{
+  "id": "joyco__infinite-list",
+  "author": "joyco",
+  "slug": "infinite-list",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@joyco/components/infinite-list",
+  "fetchedAt": "2026-08-29T05:11:50.437Z",
+  "completedAt": "2026-08-29T05:11:52.639Z",
+  "versionedFilename": "code.1783712547465.tsx",
+  "codeReference": "r2://components-code-private/joyco/infinite-list/code.1783712547465.tsx",
+  "codeUrl": "https://cdn.21st.dev/joyco/infinite-list/code.1783712547465.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1288,
+  "sha256": "41d3dd810a43bdce037f7884d9b2bed7273cea2fd5b90b4f27a4f373bdef76eb",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

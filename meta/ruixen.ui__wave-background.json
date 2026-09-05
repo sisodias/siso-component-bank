@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/wave-background",
+  "author": "ruixen.ui",
+  "slug": "wave-background",
+  "name": "wave-background",
+  "description": "The WaveBackground component is a dynamic WebGL-powered background built using the OGL library. It generates smooth, flowing wave patterns that are ideal for enhancing Hero sections or full-screen layouts without distracting from the main content. The shader logic creates layered sine and cosine waves that move over time, giving the appearance of continuous motion similar to ocean waves or liquid flow. The component supports both dark and light themes, automatically adjusting its color palette to blend seamlessly with different UI designs. It is fully responsive, scales to the parent container, and leverages GPU rendering for high performance, making it a modern, visually appealing background solution for landing pages, dashboards, or product showcases.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/wave-background?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__wave-background",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/wave-background/default/bundle.1758047493621.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/wave-background/default/preview.1758047493621.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 42,
+  "demo_id": 7625,
+  "video_url": "https://cdn.21st.dev/ruixen.ui/wave-background/default/video.1758047493621.mp4"
+}

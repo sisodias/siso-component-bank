@@ -1,0 +1,26 @@
+{
+  "id": "xubohuah__hand-drawn",
+  "author": "xubohuah",
+  "slug": "hand-drawn",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@xubohuah/components/hand-drawn",
+  "fetchedAt": "2026-08-29T07:58:43.776Z",
+  "completedAt": "2026-08-29T07:58:46.725Z",
+  "versionedFilename": "code.1758784279630.tsx",
+  "codeReference": "r2://components-code-private/xubohuah/hand-drawn/code.1758784279630.tsx",
+  "codeUrl": "https://cdn.21st.dev/xubohuah/hand-drawn/code.1758784279630.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 8830,
+  "sha256": "121359cb158b087e758f1c67ffcdfe5d62da8fa7b6bc30e6e409559994b05efc",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

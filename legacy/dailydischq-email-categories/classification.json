@@ -1,0 +1,32 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "email-folder-sidebar",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Email client sidebar for navigating between inbox, sent, drafts, trash, spam, starred, and archive folders",
+    "Displaying unread counts per email category for quick inbox overview",
+    "Gmail integration via system label IDs for email organization",
+    "Click-based folder selection to trigger email view changes"
+  ],
+  "ai_summary": "A navigation sidebar component for email clients that displays system folders (Inbox, Sent, Drafts, Trash, Spam, Starred, Archive) with icons and unread counts. Built with Lucide icons and integrates with Gmail system labels. Features click-to-select interaction for folder navigation and supports custom unread count mappings via props.",
+  "_classifiedAt": "2026-04-23T01:37:20.266Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

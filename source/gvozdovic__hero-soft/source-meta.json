@@ -1,0 +1,26 @@
+{
+  "id": "gvozdovic__hero-soft",
+  "author": "gvozdovic",
+  "slug": "hero-soft",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@gvozdovic/components/hero-soft",
+  "fetchedAt": "2026-08-29T04:53:21.358Z",
+  "completedAt": "2026-08-29T04:53:23.468Z",
+  "versionedFilename": "code.1781626253054.tsx",
+  "codeReference": "r2://components-code-private/dzekuza/hero-soft/code.1781626253054.tsx",
+  "codeUrl": "https://cdn.21st.dev/dzekuza/hero-soft/code.1781626253054.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3579,
+  "sha256": "8412f12dc8c352f9a7e42c06fc07a8ee2d1bb26cdd3d6ca15ad69c522db01d2c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

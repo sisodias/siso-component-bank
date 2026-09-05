@@ -1,0 +1,24 @@
+{
+  "category": "form",
+  "subcategory": "payment-method-selector",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting a payment method during e-commerce checkout flows",
+    "Choosing payment options for subscription billing in SaaS applications",
+    "Managing payment preferences in fintech account settings"
+  ],
+  "ai_summary": "A payment method selector component with animated entrance effects using Framer Motion, featuring a card-based layout for choosing between different payment options. The component supports custom payment methods with icons, descriptions, and handles selection state with callbacks. Designed for checkout and payment flows in e-commerce, SaaS, and fintech applications.",
+  "_classifiedAt": "2026-04-23T01:47:48.143Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

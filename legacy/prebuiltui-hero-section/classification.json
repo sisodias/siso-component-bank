@@ -1,0 +1,32 @@
+{
+  "category": "hero",
+  "subcategory": "landing-page-header-with-mobile-menu",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page header for web applications and marketing sites",
+    "Product showcase hero section with integrated navigation",
+    "Mobile-responsive app introduction area with hamburger menu",
+    "SaaS or fintech landing page entry point with CTA buttons"
+  ],
+  "ai_summary": "A comprehensive hero section component featuring an integrated navigation bar with mobile hamburger menu overlay. Includes keyboard navigation support (ESC to close), click-outside detection for dismissing menus, and responsive design with Poppins typography. Uses a grid background pattern and supports desktop and mobile viewing with smooth state management for menu toggling.",
+  "_classifiedAt": "2026-04-23T01:45:30.438Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:34:43.866Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

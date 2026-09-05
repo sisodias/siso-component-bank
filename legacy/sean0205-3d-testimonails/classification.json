@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "marquee-ticker",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying rotating customer testimonials in a continuous scrolling banner",
+    "Showcasing brand logos or partner logos in a marquee format",
+    "Creating a dynamic testimonial carousel with auto-scrolling animation",
+    "Building a vertical scrolling ticker for news or announcements",
+    "Adding visual interest to landing pages with animated content blocks"
+  ],
+  "ai_summary": "A flexible marquee/ticker component for displaying testimonials or content in a continuous scrolling animation. Supports horizontal and vertical directions, configurable animation speed and repetition, with options to pause on hover. Built with Tailwind CSS using a flat, minimalist visual approach suitable for various industries including SaaS, e-commerce, and media platforms. Fully responsive and accessible with ARIA support.",
+  "_classifiedAt": "2026-04-23T17:21:42.554Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

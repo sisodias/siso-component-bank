@@ -1,0 +1,28 @@
+{
+  "category": "media",
+  "subcategory": "interactive-canvas-grid",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero background with interactive mouse-responsive dot grid",
+    "Portfolio or creative site background with animated visual effects",
+    "SaaS product hero section with engaging visual element",
+    "Interactive loading screen or splash page background",
+    "Product demo or showcase background with dynamic visual interest"
+  ],
+  "ai_summary": "An interactive canvas-based dot grid component that responds to mouse proximity by illuminating dots and drawing connection lines between nearby dots. Features dynamic hue shifting over time, creating a colorful, engaging visual effect suitable for hero sections, backgrounds, or landing pages. The dots use HSL color values with configurable brightness based on distance from the cursor.",
+  "_classifiedAt": "2026-04-22T08:56:35.631Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,29 @@
+{
+  "category": "navigation",
+  "subcategory": "tab-switcher",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Switching between different content sections in a single page layout",
+    "Creating multi-step forms or wizards with discrete navigation",
+    "Organizing dashboard views into separate tabbed sections",
+    "Filtering content by category in product catalogs",
+    "Navigating between settings or configuration panels"
+  ],
+  "ai_summary": "Animated tab navigation component with discrete styling, featuring smooth transitions between content sections using framer-motion. The component supports multiple tab states and provides visual feedback through motion effects, making it ideal for organizing content in web applications.",
+  "_classifiedAt": "2026-04-22T08:50:22.549Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

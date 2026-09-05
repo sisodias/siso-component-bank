@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/time-with-icon",
+  "author": "ruixen.ui",
+  "slug": "time-with-icon",
+  "name": "time-with-icon",
+  "description": "This component is a dynamic time input designed for modern, intuitive forms. It features a left-aligned icon that visually represents the time of day: a sun for daytime hours, a moon for nighttime, and a clock as a default when no time is set. The icon updates automatically as the user selects a time, providing immediate visual feedback. Built with shadcn/ui’s Input and Label, it maintains clean spacing and alignment.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/time-with-icon?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__time-with-icon",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/time-with-icon/default/bundle.1757012596108.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/time-with-icon/default/preview.1757012458864.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 8,
+  "demo_id": 6842,
+  "video_url": "https://cdn.21st.dev/ruixen.ui/time-with-icon/default/video.1757012458864.mp4"
+}

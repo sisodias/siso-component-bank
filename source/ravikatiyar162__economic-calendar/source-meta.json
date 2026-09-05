@@ -1,0 +1,26 @@
+{
+  "id": "ravikatiyar162__economic-calendar",
+  "author": "ravikatiyar162",
+  "slug": "economic-calendar",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ravikatiyar162/components/economic-calendar",
+  "fetchedAt": "2026-08-29T06:22:53.616Z",
+  "completedAt": "2026-08-29T06:22:55.856Z",
+  "versionedFilename": "code.1759420787048.tsx",
+  "codeReference": "r2://components-code-private/ravikatiyar162/economic-calendar/code.1759420787048.tsx",
+  "codeUrl": "https://cdn.21st.dev/ravikatiyar162/economic-calendar/code.1759420787048.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7265,
+  "sha256": "ec77fe2d678c04b5b60072be7ff6468d7100fa21afe6853297890e55c7a6cf73",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

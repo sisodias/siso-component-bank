@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-action",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Trigger form submissions with primary action styling",
+    "Navigate between pages or views with link variant",
+    "Execute destructive operations with destructive variant styling",
+    "Provide secondary action options alongside primary buttons",
+    "Toggle interactive states with ghost and outline variants"
+  ],
+  "ai_summary": "A reusable Button component with class-variance-authority supporting multiple variants (default, destructive, outline, secondary, ghost, link) and sizes. Built on Radix UI Slot for composition, it provides accessible focus states and disabled handling. Designed for the meschacirung design system with Tailwind CSS styling, suitable for any SaaS, fintech, or general web application requiring form actions, navigation triggers, or interactive UI controls.",
+  "_classifiedAt": "2026-04-23T16:57:23.674Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

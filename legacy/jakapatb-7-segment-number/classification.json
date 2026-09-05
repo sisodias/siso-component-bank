@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "numeric-digit-display",
+  "visual_style": [
+    "flat",
+    "minimalist",
+    "mono"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying single digits in digital clock or timer interfaces with a retro seven-segment aesthetic",
+    "Rendering numeric values in monitoring dashboards and status indicators",
+    "Creating vintage-style price or score displays in e-commerce and gaming applications",
+    "Showing countdown and timer values in process-heavy applications"
+  ],
+  "ai_summary": "A minimalist SVG-based seven-segment numeric display component that renders digits 0-9 in classic LED/LCD digital clock style. Supports customizable on/off colors for creating retro-styled numeric displays in dashboards, timers, counters, and vintage-themed interfaces.",
+  "_classifiedAt": "2026-04-23T16:45:55.369Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

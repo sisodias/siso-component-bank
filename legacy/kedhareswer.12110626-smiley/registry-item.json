@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "kedhareswer.12110626-smiley",
+  "type": "registry:ui",
+  "title": "Kedhareswer.12110626 Smiley",
+  "description": "Installed from https://21st.dev/r/kedhareswer.12110626/smiley",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "kedhareswer.12110626-smiley"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "smiley.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/kedhareswer.12110626/smiley",
+    "fetchedAt": "2026-04-23T01:16:44.660Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

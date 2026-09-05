@@ -1,0 +1,37 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "scroll-triggered text reveal animation",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Hero section headline with sequential word-by-word reveal on scroll",
+    "Landing page section titles that fade in as users scroll",
+    "Feature descriptions with staggered text appearance effects",
+    "Portfolio or project showcase text with animated visibility",
+    "Testimonial or quote text that emerges smoothly on scroll"
+  ],
+  "ai_summary": "A lightweight text animation component that reveals words sequentially with configurable delay, duration, and directional movement. Built with GSAP and ScrollTrigger for smooth scroll-triggered fade-in effects. Ideal for creating engaging typographic reveals in hero sections, landing pages, and content sections without imposing specific visual styling.",
+  "_classifiedAt": "2026-04-23T16:48:54.054Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

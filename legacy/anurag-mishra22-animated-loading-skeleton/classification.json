@@ -1,0 +1,34 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "skeleton-loader",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Displaying placeholder content while data is being fetched to improve perceived loading performance",
+    "Providing visual feedback during async operations in content grids",
+    "Maintaining layout stability during page transitions or data loading"
+  ],
+  "ai_summary": "An animated loading skeleton component that displays a responsive grid of placeholder cards with continuous shimmer-style animations. Uses Framer Motion for smooth, organic movement and includes dynamic grid configuration that adapts column counts based on viewport width. Best used as a loading state placeholder to improve user experience during data fetching operations.",
+  "_classifiedAt": "2026-04-23T11:30:22.764Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "bottom-nav-bar",
+  "visual_style": [
+    "glass-morphism",
+    "dark",
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Primary app navigation with visual feedback for active state",
+    "Tab switching interface with spotlight effect for contextual highlighting",
+    "Mobile-friendly bottom navigation bar with adjacent item glow"
+  ],
+  "ai_summary": "A dark-themed navigation bar component featuring a dynamic spotlight effect that illuminates the active tab and fades to adjacent navigation items. Uses glass-morphism styling with backdrop blur and smooth CSS transitions. The spotlight opacity calculation creates a cascading glow effect based on distance from the selected item, making it visually distinctive for app navigation.",
+  "_classifiedAt": "2026-04-23T17:43:11.691Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

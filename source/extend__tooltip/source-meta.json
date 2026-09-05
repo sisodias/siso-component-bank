@@ -1,0 +1,26 @@
+{
+  "id": "extend__tooltip",
+  "author": "extend",
+  "slug": "tooltip",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@extend/components/tooltip",
+  "fetchedAt": "2026-08-29T04:46:45.596Z",
+  "completedAt": "2026-08-29T04:46:47.768Z",
+  "versionedFilename": "code.1782165079342.tsx",
+  "codeReference": "r2://components-code-private/larsen66/tooltip/code.1782165079342.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/tooltip/code.1782165079342.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3841,
+  "sha256": "b627aaf9ca355144bcce25314326e84b166f40fa917113a9a065edc42a5092d1",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

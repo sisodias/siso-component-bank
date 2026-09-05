@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@uicapsule/components/ascii-renderer",
+  "author": "uicapsule",
+  "slug": "ascii-renderer",
+  "name": "ascii-renderer",
+  "description": "A 3D scene rendered as live ASCII art using Three.js, with an animated rotating torus knot and orbit controls.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/uicapsule/ascii-renderer?api_key=$API_KEY_21ST\"",
+  "id": "uicapsule__ascii-renderer",
+  "bundleUrl": "https://cdn.21st.dev/uicapsule/ascii-renderer/default/bundle.1783537633754.html",
+  "previewUrl": "https://cdn.21st.dev/uicapsule/ascii-renderer/default/preview.1783578375977.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

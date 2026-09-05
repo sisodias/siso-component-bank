@@ -1,0 +1,40 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading-indicator",
+  "visual_style": [
+    "glass-morphism",
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "media",
+    "healthcare",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying loading states during async operations in SaaS applications",
+    "Indicating data fetching or processing in dashboards",
+    "Providing visual feedback during form submissions",
+    "Showing processing status in e-commerce checkout flows",
+    "Indicating background operations in dev-tools interfaces"
+  ],
+  "ai_summary": "A loading ripple animation component featuring concentric pulsing circles with glass-morphism styling, backdrop blur, and gradient fills. Displays a radial ripple effect with staggered timing across five nested circular elements. Supports dark mode and provides visual feedback during async operations, data fetching, or processing states across various application types.",
+  "_classifiedAt": "2026-04-22T09:12:35.200Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

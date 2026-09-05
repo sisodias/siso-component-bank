@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons for forms, dialogs, and page actions",
+    "Destructive action buttons for delete or warning operations",
+    "Icon-only buttons for compact toolbars and navigation",
+    "Secondary/ghost buttons for less prominent actions in UI workflows",
+    "Loading state indicators for async operations like form submissions"
+  ],
+  "ai_summary": "A versatile button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (sm, default, lg, xl, icon). Built with Radix UI Slot for composition and CVA for variant management. Supports loading states and icon slots for flexible icon placement. Standard focus and hover accessibility states included.",
+  "_classifiedAt": "2026-04-23T17:07:05.178Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

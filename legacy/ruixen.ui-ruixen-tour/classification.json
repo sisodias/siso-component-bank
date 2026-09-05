@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons for forms and page actions",
+    "Secondary actions with outline or ghost variants",
+    "Icon-only buttons for compact UI spaces",
+    "Destructive action buttons with warning styling",
+    "Accessible link-style buttons for inline navigation"
+  ],
+  "ai_summary": "A versatile Button component built with Radix UI Slot and class variance authority, featuring multiple variants (default, destructive, outline, secondary, ghost, link) and sizes. Includes shadow effects, focus-visible outlines for accessibility, disabled states, and supports composition via the asChild prop. Designed as a reusable primitive for any UI system.",
+  "_classifiedAt": "2026-04-23T17:20:52.222Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

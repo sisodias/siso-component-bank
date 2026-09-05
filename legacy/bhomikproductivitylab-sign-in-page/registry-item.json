@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "bhomikproductivitylab-sign-in-page",
+  "type": "registry:ui",
+  "title": "Bhomikproductivitylab Sign In Page",
+  "description": "Installed from https://21st.dev/r/bhomikproductivitylab/sign-in-page",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "bhomikproductivitylab-sign-in-page"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "sign-in-page.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "lucide-react",
+    "react-router-dom"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/bhomikproductivitylab/sign-in-page",
+    "fetchedAt": "2026-04-22T06:45:08.573Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

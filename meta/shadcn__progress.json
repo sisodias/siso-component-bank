@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@shadcn/components/progress",
+  "author": "shadcn",
+  "slug": "progress",
+  "name": "progress",
+  "description": "Displays an indicator showing the completion progress of a task, typically displayed as a progress bar.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/shadcn/progress?api_key=$API_KEY_21ST\"",
+  "id": "shadcn__progress",
+  "bundleUrl": "https://cdn.21st.dev/bundled/826.html",
+  "previewUrl": "https://cdn.21st.dev/user_shadcn/progress.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

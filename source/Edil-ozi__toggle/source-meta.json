@@ -1,0 +1,26 @@
+{
+  "id": "Edil-ozi__toggle",
+  "author": "Edil-ozi",
+  "slug": "toggle",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@Edil-ozi/components/toggle",
+  "fetchedAt": "2026-08-29T04:39:32.538Z",
+  "completedAt": "2026-08-29T04:39:33.441Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null
+}

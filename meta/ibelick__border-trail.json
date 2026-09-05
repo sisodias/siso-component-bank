@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ibelick/components/border-trail",
+  "author": "ibelick",
+  "slug": "border-trail",
+  "name": "border-trail",
+  "description": "Animated border effect that moves along the edges of its parent container.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ibelick/border-trail?api_key=$API_KEY_21ST\"",
+  "id": "ibelick__border-trail",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1135.html",
+  "previewUrl": "https://cdn.21st.dev/user_motion_primitives/border-trail.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

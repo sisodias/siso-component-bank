@@ -1,0 +1,26 @@
+{
+  "id": "0xUrvish__bento-card",
+  "author": "0xUrvish",
+  "slug": "bento-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@0xUrvish/components/bento-card",
+  "fetchedAt": "2026-08-29T03:24:09.860Z",
+  "completedAt": "2026-08-29T03:24:11.432Z",
+  "versionedFilename": "code.1773272534643.tsx",
+  "codeReference": "r2://components-code-private/larsen66/bento-card/code.1773272534643.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/bento-card/code.1773272534643.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 17552,
+  "sha256": "f54ac0ad544e35c3a5b2d1efd53ad0f60e5ef4b433e173a179d73532699ae459",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

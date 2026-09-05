@@ -1,0 +1,26 @@
+{
+  "id": "cinquinandy__lightning-split",
+  "author": "cinquinandy",
+  "slug": "lightning-split",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@cinquinandy/components/lightning-split",
+  "fetchedAt": "2026-08-29T03:54:49.157Z",
+  "completedAt": "2026-08-29T03:54:51.357Z",
+  "versionedFilename": "code.1760802027158.tsx",
+  "codeReference": "r2://components-code-private/cinquinandy/lightning-split/code.1760802027158.tsx",
+  "codeUrl": "https://cdn.21st.dev/cinquinandy/lightning-split/code.1760802027158.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 16137,
+  "sha256": "6f8abe0c1d0777558af843ea190a2826076eb93f89992ce94cc740879bcf6e1b",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

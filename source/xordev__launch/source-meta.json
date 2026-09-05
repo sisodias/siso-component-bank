@@ -1,0 +1,26 @@
+{
+  "id": "xordev__launch",
+  "author": "xordev",
+  "slug": "launch",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@xordev/components/launch",
+  "fetchedAt": "2026-08-29T07:57:51.931Z",
+  "completedAt": "2026-08-29T07:57:54.454Z",
+  "versionedFilename": "code.1756888001068.tsx",
+  "codeReference": "r2://components-code-private/larsen66/launch/code.1756888001068.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/launch/code.1756888001068.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 8803,
+  "sha256": "1704013c37b55bde95d704e5b3d615efc5d6e75cbe1baac2bffd3883276ed31f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

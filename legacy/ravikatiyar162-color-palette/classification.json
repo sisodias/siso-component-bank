@@ -1,0 +1,31 @@
+{
+  "category": "card",
+  "subcategory": "color-palette-branding-card",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display brand color palettes in design system documentation",
+    "Showcase color swatches for product customization interfaces",
+    "Present theme colors in marketing or landing pages",
+    "Visualize color collections in creative/design tool dashboards",
+    "Display palette information in e-commerce product customization"
+  ],
+  "ai_summary": "A Framer Motion-powered card component for displaying color palettes and branding elements. Features animated swatch reveals, hover lift effects, and staggered children animations. Built with shadcn-style Tailwind classes for consistent design system integration.",
+  "_classifiedAt": "2026-04-23T01:46:46.191Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

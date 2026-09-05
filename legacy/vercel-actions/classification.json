@@ -1,0 +1,24 @@
+{
+  "category": "navigation",
+  "subcategory": "action-bar-icon-button-group",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Grouping icon buttons with tooltips for dashboard action bars",
+    "Creating compact table row action controls with hover descriptions",
+    "Building header or toolbar action menus for SaaS interfaces",
+    "Implementing user action controls with contextual tooltip guidance"
+  ],
+  "ai_summary": "A lightweight action bar component that wraps icon buttons with optional tooltip support. Provides a clean, accessible way to group action controls in dashboards and tool UIs, featuring ghost-style buttons with hover state transitions and screen reader labels for accessibility.",
+  "_classifiedAt": "2026-04-23T17:41:58.054Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

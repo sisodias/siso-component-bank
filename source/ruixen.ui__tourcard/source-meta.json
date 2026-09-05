@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__tourcard",
+  "author": "ruixen.ui",
+  "slug": "tourcard",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/tourcard",
+  "fetchedAt": "2026-08-29T06:51:51.543Z",
+  "completedAt": "2026-08-29T06:51:53.755Z",
+  "versionedFilename": "code.1753439949997.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/tourcard/code.1753439949997.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/tourcard/code.1753439949997.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3970,
+  "sha256": "331698d256754d086cff640623467f962c39d6a0ed344f67255c4165477fdf55",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

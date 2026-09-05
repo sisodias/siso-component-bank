@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/tour-popover",
+  "author": "ruixen.ui",
+  "slug": "tour-popover",
+  "name": "tour-popover",
+  "description": "This Tour Popover component delivers a professional, guided onboarding flow using shadcn/ui’s Popover, Button, Progress, and Separator components. Each step is presented inside a compact popover with a clear icon, title, and description, making the information easy to follow without overwhelming the user. A progress bar at the bottom visually tracks how far along the tour the user is, while navigation controls (Back, Next, Restart) provide a smooth and intuitive way to move through the steps. By using professional Lucide icons like Home, Settings, HelpCircle, and Keyboard, the tour feels polished and business-ready, making it ideal for SaaS dashboards, admin panels, or any app where structured onboarding and contextual guidance are important.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/tour-popover?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__tour-popover",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/tour-popover/default/bundle.1758996484192.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/tour-popover/default/preview.1758996484192.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 15,
+  "demo_id": 8244,
+  "video_url": null
+}

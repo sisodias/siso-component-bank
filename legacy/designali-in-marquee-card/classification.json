@@ -1,0 +1,28 @@
+{
+  "category": "data-display",
+  "subcategory": "badge-pill",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying tags and category labels on content items",
+    "Showing status indicators like active/inactive or new/popular",
+    "Indicating counts or numerical metadata in compact format",
+    "Marking user roles or permissions in interfaces",
+    "Highlighting product features or pricing tiers"
+  ],
+  "ai_summary": "A flexible badge/pill component with multiple style variants including default, secondary, destructive, and outline options. Built with class-variance-authority for type-safe variant management and Tailwind CSS for responsive styling. Features hover and focus states with smooth transitions, making it ideal for displaying tags, status indicators, and metadata across SaaS dashboards, e-commerce platforms, and content management systems.",
+  "_classifiedAt": "2026-04-23T16:32:01.428Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

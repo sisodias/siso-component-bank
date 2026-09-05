@@ -1,0 +1,33 @@
+{
+  "category": "data-display",
+  "subcategory": "tabular-data-table",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "real-estate",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying structured tabular data with columns and rows in dashboards or admin panels",
+    "Filtering and searching large datasets across multiple columns",
+    "Sorting data by clicking column headers in ascending or descending order",
+    "Paginating through large data sets with customizable items per page",
+    "Handling user interactions like row clicks for navigation or detail views"
+  ],
+  "ai_summary": "A versatile data table component with built-in search, sorting, column filtering, and pagination capabilities. Supports customizable styling through props like striped rows, borders, hover states, and compact mode. Designed for displaying and managing structured data efficiently in dashboards, admin interfaces, and data-heavy applications across various industries.",
+  "_classifiedAt": "2026-04-23T17:06:55.245Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

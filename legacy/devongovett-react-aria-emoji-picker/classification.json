@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input",
+    "overlay"
+  ],
+  "subcategory": "emoji-picker-popover",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting emojis for messaging and social interactions",
+    "Adding emoji reactions to content in collaboration tools",
+    "Emoji input in content creation and note-taking applications",
+    "Symbol selection in design and productivity tools",
+    "Expressing sentiment in feedback and survey forms"
+  ],
+  "ai_summary": "A React-based popover primitive component built with Radix UI, designed to serve as the container for an emoji picker interface. Features smooth entrance/exit animations, keyboard navigation support, and accessible positioning. The component provides the overlay foundation for interactive emoji selection workflows in messaging, social, and productivity applications.",
+  "_classifiedAt": "2026-04-23T16:33:49.117Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

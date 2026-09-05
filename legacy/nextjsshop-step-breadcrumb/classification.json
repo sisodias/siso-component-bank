@@ -1,0 +1,25 @@
+{
+  "category": "navigation",
+  "subcategory": "multi-step progress indicator",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "e-commerce",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying checkout flow progress in e-commerce applications from cart to confirmation",
+    "Showing multi-step form navigation in onboarding or wizard interfaces",
+    "Indicating order processing stages for customers",
+    "Tracking application submission progress in SaaS workflows",
+    "Visualizing survey or questionnaire completion status"
+  ],
+  "ai_summary": "A responsive step breadcrumb component designed for multi-step processes like checkout flows. Displays progress through complete, current, and upcoming states with visual connector lines between steps. Adapts layout from horizontal row on desktop to vertical stack on mobile screens for optimal readability across devices.",
+  "_classifiedAt": "2026-04-23T01:45:02.892Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

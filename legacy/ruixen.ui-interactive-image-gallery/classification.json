@@ -1,0 +1,35 @@
+{
+  "category": [
+    "card",
+    "media"
+  ],
+  "subcategory": "Image gallery card system",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "e-commerce",
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying collections of images in an interactive grid layout",
+    "Showcasing portfolio or product images with click-to-expand functionality",
+    "Creating media-rich content cards with titles, descriptions, and actions",
+    "Building responsive image galleries for websites and applications",
+    "Organizing visual content with consistent card-based UI patterns"
+  ],
+  "ai_summary": "A set of reusable Card components (Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter) styled with Tailwind CSS for building interactive image galleries. These components follow a clean, flat design with rounded corners, subtle borders, and shadow styling. Part of a larger interactive image gallery system from Ruixen.UI, designed for displaying media content in organized, accessible card layouts across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-22T09:12:37.047Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/calendar-scheduler",
+  "author": "ruixen.ui",
+  "slug": "calendar-scheduler",
+  "name": "calendar-scheduler",
+  "description": "The CalendarScheduler component is a streamlined scheduling interface that combines a calendar view with a scrollable list of interactive time slots in a single, card-based layout. Built entirely with shadcn/ui, it provides users with an intuitive way to select both date and time without relying on traditional input fields. The left panel offers a familiar calendar for date selection, while the right panel displays customizable, clickable time options, making scheduling faster and more user-friendly. With built-in Reset and Confirm actions, flexible configuration of available slots, and a clean responsive design, CalendarScheduler is ideal for appointment booking, meeting planners, and reservation systems where clarity and ease of use are essential.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/calendar-scheduler?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__calendar-scheduler",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/calendar-scheduler/default/bundle.1758973993751.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/calendar-scheduler/default/preview.1758973993751.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 78,
+  "demo_id": 8228,
+  "video_url": null
+}

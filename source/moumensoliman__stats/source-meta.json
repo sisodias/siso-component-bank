@@ -1,0 +1,26 @@
+{
+  "id": "moumensoliman__stats",
+  "author": "moumensoliman",
+  "slug": "stats",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@moumensoliman/components/stats",
+  "fetchedAt": "2026-08-29T05:51:11.344Z",
+  "completedAt": "2026-08-29T05:51:13.511Z",
+  "versionedFilename": "code.1779993300626.tsx",
+  "codeReference": "r2://components-code-private/larsen66/stats/code.1779993300626.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/stats/code.1779993300626.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1827,
+  "sha256": "7e4001be67636747ee3f895718627977b3694bf92525b9be5f13b188ff1e9cee",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

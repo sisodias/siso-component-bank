@@ -1,0 +1,26 @@
+{
+  "category": "form",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action triggers for forms and interactive elements",
+    "Destructive actions requiring confirmation workflows",
+    "Navigation links styled as clickable buttons",
+    "Ghost-style buttons for secondary interface actions",
+    "Icon-only buttons for compact toolbar interactions"
+  ],
+  "ai_summary": "A reusable Button component with Radix UI Slot composition support and CVA-powered variant system. Supports multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Designed as a foundational form control for any React application needing accessible, composable button interactions.",
+  "_classifiedAt": "2026-04-23T01:40:18.768Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

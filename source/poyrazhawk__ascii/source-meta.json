@@ -1,0 +1,26 @@
+{
+  "id": "poyrazhawk__ascii",
+  "author": "poyrazhawk",
+  "slug": "ascii",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@poyrazhawk/components/ascii",
+  "fetchedAt": "2026-08-29T06:10:20.725Z",
+  "completedAt": "2026-08-29T06:10:23.263Z",
+  "versionedFilename": "code.1785865839248-c56bbe0f-a484-4283-bd1c-a65618157f34.tsx",
+  "codeReference": "r2://components-code-private/poyrazhawk/ascii/code.1785865839248-c56bbe0f-a484-4283-bd1c-a65618157f34.tsx",
+  "codeUrl": "https://cdn.21st.dev/poyrazhawk/ascii/code.1785865839248-c56bbe0f-a484-4283-bd1c-a65618157f34.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

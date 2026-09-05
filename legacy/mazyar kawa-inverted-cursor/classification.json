@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "custom-cursor",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "media",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Replacing the default browser cursor with a smooth, animated custom cursor for enhanced UX",
+    "Creating a distinctive brand experience on portfolio and showcase websites",
+    "Adding interactive cursor effects to creative landing pages and product demos",
+    "Implementing cursor-based visual feedback with visibility toggle on mouse enter/leave",
+    "Providing smooth cursor tracking with eased interpolation for polished interactions"
+  ],
+  "ai_summary": "A smooth-animated custom cursor component that replaces the default browser pointer with a fluid, eased tracking effect. The cursor follows mouse movement with a 0.2 interpolation factor creating a soft, lagging motion. It features visibility toggling on mouse enter/leave events within its container. This is a lightweight, self-contained cursor solution ideal for creative portfolios, SaaS landing pages, and any website looking to add a unique interactive touch without heavy dependencies.",
+  "_classifiedAt": "2026-04-22T09:05:17.831Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

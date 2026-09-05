@@ -1,0 +1,34 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "scroll-triggered reveal animation",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "education",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Reveals timeline content sequentially as users scroll through the page",
+    "Creates cinematic blur-to-clear and fade-in effects for content sections",
+    "Builds animated feature showcases or product timelines",
+    "Provides scroll-driven storytelling for portfolio or case study pages",
+    "Enables staggered content reveals with configurable delay timing"
+  ],
+  "ai_summary": "A reusable timeline animation component that triggers blur-to-clear and fade-in effects when content scrolls into view using Framer Motion's useInView hook. Supports configurable animation delays, custom variants, and flexible HTML element rendering for building scroll-driven storytelling interfaces and sequential content reveals.",
+  "_classifiedAt": "2026-04-23T01:36:13.536Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

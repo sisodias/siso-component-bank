@@ -1,0 +1,26 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Form submission triggers with customizable variants for primary, secondary, and destructive actions",
+    "Navigation CTAs with link variant styling",
+    "Icon-only buttons for compact UI elements",
+    "Accessible interactive elements with focus-visible outlines and disabled states"
+  ],
+  "ai_summary": "A reusable Radix-based button component with CVA variants for styling. Supports multiple visual styles including default, outline, ghost, secondary, destructive, and link variants. Features shadow effects, hover transitions, and accessibility-compliant focus states. Designed as an atomic component for composing larger UI systems.",
+  "_classifiedAt": "2026-04-22T09:11:52.229Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

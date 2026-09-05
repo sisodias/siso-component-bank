@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "cnippet.dev-blogs",
+  "type": "registry:ui",
+  "title": "Cnippet.Dev Blogs",
+  "description": "Installed from https://21st.dev/r/cnippet.dev/blogs",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "cnippet.dev-blogs"
+  ],
+  "files": [
+    {
+      "path": "blogs.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "lucide-react",
+    "next"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/cnippet.dev/blogs",
+    "fetchedAt": "2026-04-22T06:32:18.556Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

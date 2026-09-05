@@ -1,0 +1,34 @@
+{
+  "category": [
+    "hero",
+    "data-display"
+  ],
+  "subcategory": "scroll-animated hero section with coordinated section transitions",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero sections with immersive scroll-driven animations",
+    "Product showcases with smooth scale and rotation transitions on scroll",
+    "Storytelling or scrollytelling pages with coordinated multi-section effects",
+    "Creative agency or portfolio landing pages requiring modern interactions",
+    "SaaS landing pages seeking engaging scroll-based visual transitions"
+  ],
+  "ai_summary": "A scroll-animated hero section component featuring two coordinated sections that transform on scroll using Framer Motion's useScroll and useTransform hooks. The component implements scale (1 to 0.8/0.8 to 1) and rotation (0 to -5/5 to 0 degrees) animations tied to scroll progress. Features gradient backgrounds transitioning from light to dark, grid pattern overlays with radial masks, and clean typography. Designed for creating immersive landing page experiences with modern scroll-driven interactions.",
+  "_classifiedAt": "2026-04-23T17:37:39.809Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,31 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "weather-display",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display current weather conditions with temperature, location, and weather icons in a clean card layout",
+    "Present weather forecasts in dashboard applications with multiple card instances",
+    "Show weather alerts or warnings with customizable header and content sections",
+    "Create weather comparison views by stacking multiple weather cards",
+    "Embed weather widgets in mobile apps or websites with consistent styling"
+  ],
+  "ai_summary": "A composite card component system designed for weather display applications, featuring modular sub-components (CardHeader, CardTitle, CardDescription, CardContent, CardFooter) that enable flexible weather information layouts. Built with shadcn/ui styling patterns for seamless integration into dashboards, mobile apps, or media applications requiring weather data presentation.",
+  "_classifiedAt": "2026-04-23T01:55:06.942Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

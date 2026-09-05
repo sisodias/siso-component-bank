@@ -1,0 +1,39 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "user-avatar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying user profile pictures in dashboard navigation headers",
+    "Showing user avatars in comment sections or discussion threads",
+    "Representing users in notification or activity feeds",
+    "Providing fallback initials when user images fail to load",
+    "Displaying team member avatars in collaboration interfaces"
+  ],
+  "ai_summary": "A Radix UI-based Avatar component with three sub-components (Avatar, AvatarImage, AvatarFallback) for displaying user profile images with graceful fallbacks. Features accessible design using Radix primitives, rounded-full styling, and shrink-0 behavior for consistent layout integration. Supports custom styling via className prop while maintaining consistent dimensions.",
+  "_classifiedAt": "2026-04-23T01:46:46.778Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

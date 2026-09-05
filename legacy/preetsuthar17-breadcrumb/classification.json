@@ -1,0 +1,31 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "breadcrumb",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Website navigation to display user location within site hierarchy",
+    "E-commerce product pages to show category and subcategory paths",
+    "Admin dashboards to indicate current section and allow quick navigation upward",
+    "Documentation sites to show article hierarchy and nesting levels",
+    "File managers to display current directory path with clickable segments"
+  ],
+  "ai_summary": "A clean, accessible breadcrumb navigation component built with Radix UI and Tailwind CSS following shadcn/ui patterns. Features configurable sizes (sm/default/lg), multiple page variants (default/highlighted/muted), and customizable separators. Supports composition via asChild prop for advanced use cases like integrating with routing libraries.",
+  "_classifiedAt": "2026-04-23T17:07:01.300Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

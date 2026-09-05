@@ -1,0 +1,30 @@
+{
+  "category": "data-display",
+  "subcategory": "badge-label-status",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "fintech",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying status indicators like active, pending, or archived states",
+    "Showing category or tag labels in filterable data tables",
+    "Rendering notification counts or badge numbers",
+    "Indicating variant-specific information like plan tiers or user roles",
+    "Presenting selectable filter options in search interfaces"
+  ],
+  "ai_summary": "A versatile badge component with multiple style variants (default, secondary, destructive, outline) commonly used in data tables and filter interfaces. This atomic component displays status indicators, labels, and counts with accessible hover states. Designed for dashboard and SaaS applications requiring clear visual categorization of data elements.",
+  "_classifiedAt": "2026-04-23T01:49:43.225Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

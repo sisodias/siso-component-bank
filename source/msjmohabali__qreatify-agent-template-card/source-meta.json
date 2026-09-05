@@ -1,0 +1,26 @@
+{
+  "id": "msjmohabali__qreatify-agent-template-card",
+  "author": "msjmohabali",
+  "slug": "qreatify-agent-template-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@msjmohabali/components/qreatify-agent-template-card",
+  "fetchedAt": "2026-08-29T05:51:59.372Z",
+  "completedAt": "2026-08-29T05:52:01.541Z",
+  "versionedFilename": "code.1781561915079.tsx",
+  "codeReference": "r2://components-code-private/msjmohabali/qreatify-agent-template-card/code.1781561915079.tsx",
+  "codeUrl": "https://cdn.21st.dev/msjmohabali/qreatify-agent-template-card/code.1781561915079.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1912,
+  "sha256": "7e43a5e353102464463503cd4506dea774602d30368829bd02c64bc7ef9a1c23",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

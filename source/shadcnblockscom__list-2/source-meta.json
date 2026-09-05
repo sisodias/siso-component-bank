@@ -1,0 +1,26 @@
+{
+  "id": "shadcnblockscom__list-2",
+  "author": "shadcnblockscom",
+  "slug": "list-2",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcnblockscom/components/list-2",
+  "fetchedAt": "2026-08-29T07:10:04.244Z",
+  "completedAt": "2026-08-29T07:10:06.432Z",
+  "versionedFilename": "code.1747809112290.tsx",
+  "codeReference": "r2://components-code-private/shadcnblockscom/list-2/code.1747809112290.tsx",
+  "codeUrl": "https://cdn.21st.dev/shadcnblockscom/list-2/code.1747809112290.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3215,
+  "sha256": "264c520bf1fd49485bd23e260ffa288fc577e751e78feaa777028c796fef8307",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

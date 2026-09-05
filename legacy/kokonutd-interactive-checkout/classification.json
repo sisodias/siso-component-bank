@@ -1,0 +1,34 @@
+{
+  "category": [
+    "form",
+    "data-display"
+  ],
+  "subcategory": "checkout-flow",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Users can browse and select products to add to their shopping cart",
+    "Quantity adjustments with animated number transitions using +/- controls",
+    "Real-time cart total calculation with visual feedback",
+    "Streamlined checkout initiation with credit card payment entry",
+    "Removing items from cart with smooth animations"
+  ],
+  "ai_summary": "An interactive shopping cart and checkout component featuring product selection, quantity management, and animated price displays. Built with Framer Motion for smooth transitions and includes real-time cart totals with a minimalist e-commerce interface suitable for desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T16:49:29.387Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

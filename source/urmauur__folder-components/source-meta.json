@@ -1,0 +1,26 @@
+{
+  "id": "urmauur__folder-components",
+  "author": "urmauur",
+  "slug": "folder-components",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@urmauur/components/folder-components",
+  "fetchedAt": "2026-08-29T07:52:45.541Z",
+  "completedAt": "2026-08-29T07:52:47.266Z",
+  "versionedFilename": "code.1776437886107.tsx",
+  "codeReference": "r2://components-code-private/urmauur/folder-components/code.1776437886107.tsx",
+  "codeUrl": "https://cdn.21st.dev/urmauur/folder-components/code.1776437886107.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6914,
+  "sha256": "148d6eb1d5339603635943bd54f4b77357a205e80b81a1fe3d2b2fe67dab9bab",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

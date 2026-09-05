@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "copy-to-clipboard",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Copy installation commands like npm install in documentation",
+    "Copy code snippets or API keys in settings pages",
+    "Copy shareable links or referral codes",
+    "Quick copy functionality for any text that users need to paste elsewhere",
+    "Copy resource identifiers in developer dashboards"
+  ],
+  "ai_summary": "A minimalist inline copy input component that displays text with a one-click copy-to-clipboard button. Features emerald color feedback on successful copy with automatic reset, dark mode support, and rounded border styling. Designed for displaying copyable content like installation commands, code snippets, or identifiers in documentation and settings interfaces.",
+  "_classifiedAt": "2026-04-23T17:18:53.566Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

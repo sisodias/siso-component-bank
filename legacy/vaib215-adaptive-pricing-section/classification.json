@@ -1,0 +1,33 @@
+{
+  "category": [
+    "pricing"
+  ],
+  "subcategory": "pricing-section",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Display subscription pricing tiers for SaaS products with feature comparisons",
+    "Show membership or service plan options with included/excluded features",
+    "Highlight a recommended pricing tier with visual emphasis and scaling",
+    "Provide comparison table layout for subscription-based business models"
+  ],
+  "ai_summary": "A multi-tier pricing section component that displays pricing cards with title, subtitle, price information, feature lists with check/X icons for included/excluded features, optional badges, customizable buttons, and footer links. Supports a highlighted tier with gradient styling and subtle scaling for emphasis. Responsive grid layout adapts from single column on mobile to three-column grid on desktop with smooth hover transitions.",
+  "_classifiedAt": "2026-04-23T01:55:12.990Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

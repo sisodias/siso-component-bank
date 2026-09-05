@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action triggers for forms and confirmations",
+    "Destructive action buttons with visual warning states",
+    "Navigation links and call-to-action elements",
+    "Icon-only buttons for compact toolbars and controls",
+    "Loading state indicators for async operations"
+  ],
+  "ai_summary": "A shadcn/ui-style button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (sm, default, lg, xl, icon). Features Radix UI's asChild pattern for slot composition, loading state support, and left/right icon slots. Designed for universal use across SaaS, fintech, and e-commerce platforms as a core UI building block.",
+  "_classifiedAt": "2026-04-23T17:10:15.155Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

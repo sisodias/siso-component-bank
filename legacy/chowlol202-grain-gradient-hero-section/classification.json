@@ -1,0 +1,30 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Form submission triggers within hero sections or landing pages",
+    "Primary call-to-action buttons for user conversion flows",
+    "Navigation action triggers in marketing and SaaS interfaces"
+  ],
+  "ai_summary": "A reusable button component with multiple style variants (default, destructive, outline, secondary, ghost, link) and size options, built with class-variance-authority for flexible theming and Radix UI Slot for composition patterns. Designed as an atomic input element for web interfaces.",
+  "_classifiedAt": "2026-04-23T16:27:21.478Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

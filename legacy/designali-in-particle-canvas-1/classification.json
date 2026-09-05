@@ -1,0 +1,32 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "WebGL particle canvas with shader-based rainbow gradient animation",
+  "visual_style": [
+    "gradient",
+    "colorful"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Animated background for landing pages and hero sections",
+    "Visual effect component for creative portfolios and tech demos",
+    "Engaging animated background for SaaS product pages",
+    "Interactive visual element for creative agency websites",
+    "Dynamic canvas animation for portfolio or showcase pages"
+  ],
+  "ai_summary": "A WebGL-powered particle canvas component that renders animated particles using custom vertex and fragment shaders. The fragment shader creates a dynamic rainbow gradient effect by cycling through hues based on particle position and animation tick. Particles move continuously across the canvas with configurable speed, size range, and maximum count. This component serves as an engaging visual backdrop commonly used in landing pages, hero sections, and creative tech demos.",
+  "_classifiedAt": "2026-04-23T01:37:51.264Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

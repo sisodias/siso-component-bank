@@ -1,0 +1,26 @@
+{
+  "id": "shugar__checkbox-1",
+  "author": "shugar",
+  "slug": "checkbox-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/checkbox-1",
+  "fetchedAt": "2026-08-29T07:18:47.714Z",
+  "completedAt": "2026-08-29T07:18:50.150Z",
+  "versionedFilename": "code.1751439287290.tsx",
+  "codeReference": "r2://components-code-private/shugar/checkbox-1/code.1751439287290.tsx",
+  "codeUrl": "https://cdn.21st.dev/shugar/checkbox-1/code.1751439287290.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2590,
+  "sha256": "0c507944c6c28646387fa0780c7d92a601514973ad2010b71653ae198c3731f1",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

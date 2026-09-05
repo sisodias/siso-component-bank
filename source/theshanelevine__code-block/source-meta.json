@@ -1,0 +1,26 @@
+{
+  "id": "theshanelevine__code-block",
+  "author": "theshanelevine",
+  "slug": "code-block",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theshanelevine/components/code-block",
+  "fetchedAt": "2026-08-29T07:35:43.538Z",
+  "completedAt": "2026-08-29T07:35:45.751Z",
+  "versionedFilename": "code.1785485820796-1f638759-f9e4-40e4-aa63-003e102dd86f.tsx",
+  "codeReference": "r2://components-code-private/theshanelevine/code-block/code.1785485820796-1f638759-f9e4-40e4-aa63-003e102dd86f.tsx",
+  "codeUrl": "https://cdn.21st.dev/theshanelevine/code-block/code.1785485820796-1f638759-f9e4-40e4-aa63-003e102dd86f.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

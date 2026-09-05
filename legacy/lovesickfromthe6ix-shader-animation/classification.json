@@ -1,0 +1,28 @@
+{
+  "category": "media",
+  "subcategory": "webgl-gradient-animation",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero section background with animated gradient visuals",
+    "Interactive landing page element responding to mouse movement",
+    "Visual effect component for creative portfolios",
+    "Full-screen canvas animation for immersive web experiences",
+    "Decorative background with continuous animated patterns"
+  ],
+  "ai_summary": "A WebGL-powered shader animation component that renders continuous animated gradient patterns using fragment shaders. Features mouse interactivity where cursor movement influences the visual effect, creating dynamic color transitions and flowing animations. The component uses time-based animation loops and palette functions for smooth color cycling effects.",
+  "_classifiedAt": "2026-04-23T16:53:34.117Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

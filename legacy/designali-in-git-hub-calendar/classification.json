@@ -1,0 +1,29 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "contribution-calendar",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying developer contribution history like GitHub's activity graph",
+    "Visualizing project engagement metrics over a 52-week period",
+    "Showing portfolio activity in developer profiles",
+    "Tracking team contribution patterns in analytics dashboards"
+  ],
+  "ai_summary": "A GitHub-inspired contribution calendar component that displays activity data over 364 days using a heatmap-style grid. Each cell represents a day colored by contribution intensity using a 5-level green color scale. The component processes contribution data and renders it in a week-by-week layout with Sunday start dates, providing developers and teams with a familiar visualization for tracking activity patterns and engagement over time.",
+  "_classifiedAt": "2026-04-23T01:37:43.263Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

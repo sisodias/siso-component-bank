@@ -1,0 +1,30 @@
+{
+  "category": "input",
+  "subcategory": "animated-button shatter-effect particle-interaction",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Standalone call-to-action buttons that need to grab user attention",
+    "Interactive buttons for creative apps or games with satisfying click feedback",
+    "Landing page CTA buttons with premium animated effects",
+    "Engagement-triggering buttons in marketing campaigns",
+    "E-commerce product page buttons with memorable interactions"
+  ],
+  "ai_summary": "An interactive button component featuring a visually striking shatter/particle explosion animation triggered on click. Uses Framer Motion for smooth fragment dispersal effects with customizable colors and shard counts. Includes hover scaling and tap feedback for a polished user experience. Ideal for creating memorable, high-engagement call-to-action buttons in modern web applications.",
+  "_classifiedAt": "2026-04-22T09:03:01.066Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,38 @@
+{
+  "category": [
+    "overlay",
+    "feedback"
+  ],
+  "subcategory": "custom-cursor-pointer",
+  "visual_style": [
+    "minimalist",
+    "flat",
+    "gradient"
+  ],
+  "interactions": [
+    "parallax",
+    "click-reveal",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creative portfolio websites requiring interactive cursor effects",
+    "Modern SaaS landing pages wanting polished user experience",
+    "Gaming and entertainment sites with custom navigation",
+    "Premium brand experiences with attention to micro-interactions",
+    "E-commerce sites wanting distinctive brand identity"
+  ],
+  "ai_summary": "A customizable cursor replacement component offering 6 distinct styles including arrow pointer, big circle, ring with dot, combined circle-dot, glitch effect, and motion blur. Built with hover state detection to identify interactive elements, smooth position interpolation creating trailing effects, and optional SVG filter effects for glitch animations. Delivered as a lightweight React component with configuration props for cursor type, color, size, and glitch color customization.",
+  "_classifiedAt": "2026-04-23T16:30:41.631Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

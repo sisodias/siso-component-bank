@@ -1,0 +1,29 @@
+{
+  "category": "data-display",
+  "subcategory": "collapsible-accordion",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying FAQ sections with collapsible answers to reduce visual clutter",
+    "Organizing product details or feature explanations in e-commerce listings",
+    "Creating documentation sections with expandable code snippets or explanations",
+    "Building settings panels with grouped collapsible options",
+    "Creating navigation menus with expandable sub-sections"
+  ],
+  "ai_summary": "A flexible accordion component built on Radix UI primitives with multiple visual variants (default, outline, solid) and indicator options (arrow, plus, none). Features smooth open/close animations, accessibility support, and Tailwind CSS integration with CVA for variant management. Designed for general-purpose use in SaaS applications, documentation sites, and e-commerce platforms where space-efficient content organization is needed.",
+  "_classifiedAt": "2026-04-23T17:21:48.130Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

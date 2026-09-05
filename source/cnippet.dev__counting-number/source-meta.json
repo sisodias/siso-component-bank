@@ -1,0 +1,26 @@
+{
+  "id": "cnippet.dev__counting-number",
+  "author": "cnippet.dev",
+  "slug": "counting-number",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@cnippet.dev/components/counting-number",
+  "fetchedAt": "2026-08-29T03:56:03.439Z",
+  "completedAt": "2026-08-29T03:56:05.638Z",
+  "versionedFilename": "code.1784452151245-255b9986-1760-43bc-83ba-876db6a9384c.tsx",
+  "codeReference": "r2://components-code-private/cnippet.dev/counting-number/code.1784452151245-255b9986-1760-43bc-83ba-876db6a9384c.tsx",
+  "codeUrl": "https://cdn.21st.dev/cnippet.dev/counting-number/code.1784452151245-255b9986-1760-43bc-83ba-876db6a9384c.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

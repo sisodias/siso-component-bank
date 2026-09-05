@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@danielpetho/components/vertical-cut-reveal",
+  "author": "danielpetho",
+  "slug": "vertical-cut-reveal",
+  "name": "vertical-cut-reveal",
+  "description": "A text component that reveals the text with a cut reveal effect.\n\nFirst, the text gets split into smaller chunks based on the splitBy prop:\n\t•\twords: Splits into individual words (e.g., \"Hello world\" → [\"Hello\", \"world\"])\n\t•\tcharacters: Splits into individual characters (e.g., \"Hi\" → [\"H\", \"i\"])\n\t•\tlines: Splits by newline characters (\\n)\n\t•\tstring: Splits by any custom string delimiter\nEach text piece is wrapped in two <span> elements:\n\t•\tAn outer <span> acts as a container, set to position: relative and overflow: hidden.\n\t•\tAn inner <span> holds the actual text, initially positioned off-screen using y: 100 (or -100 if reverse is true).\nWhen the animation kicks off:\n\t•\tThe inner <span> elements smoothly transition from their off-screen position (y: 100) to their final position (y: 0).\n\t•\tThis creates a \"cutting\" or \"revealing\" effect as each text piece slides into view.\nYou can stagger the animation from different directions (first, last, center, or random) using the staggerFrom prop.\nA key detail is that the component always keeps word boundaries, even when splitting by characters. Here are two reasons why:\n\t1.\tWhen dealing with multi-line text, each line starts its own reveal animation. So, if you have text that spans multiple lines, each line animates independently from its own baseline, instead of all elements animating from one point (like the bottom of the entire paragraph).\n\t2.\tIn characters mode, characters from the same word stick together in a word container. This stops unwanted line breaks in the middle of words. If a word needs to wrap to the next line, it wraps as a complete unit, keeping some characters from one line and others from the next. This keeps the text flowing and readable while still allowing character-by-character animation within each word.\n\n",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/danielpetho/vertical-cut-reveal?api_key=$API_KEY_21ST\"",
+  "id": "danielpetho__vertical-cut-reveal",
+  "bundleUrl": "https://cdn.21st.dev/bundled/884.html",
+  "previewUrl": "https://cdn.21st.dev/user_danielpetho/vertical-cut-reveal.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 1141,
+  "demo_id": 884,
+  "video_url": "https://cdn.21st.dev/user_danielpetho/vertical-cut-reveal/884/video.mp4"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tommyjepsen__stats-section-with-text",
+  "author": "tommyjepsen",
+  "slug": "stats-section-with-text",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@tommyjepsen/components/stats-section-with-text",
+  "fetchedAt": "2026-08-29T07:39:45.620Z",
+  "completedAt": "2026-08-29T07:39:46.694Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null
+}

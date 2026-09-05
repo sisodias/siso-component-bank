@@ -1,0 +1,36 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "timestamp-formatter",
+  "visual_style": [
+    "minimalist",
+    "dark",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display video timestamps in media players and video platforms",
+    "Show elapsed time in timers, stopwatches, and session trackers",
+    "Format video duration for content management systems",
+    "Display time-based metrics in dashboards and analytics tools",
+    "Show timestamps in live streaming interfaces"
+  ],
+  "ai_summary": "A lightweight timestamp formatting component that converts seconds into readable time (HH:MM:SS or MM:SS format). Built with a dark, minimalist design using neutral-950 background and white text, ideal for embedding in video players, media platforms, or analytics dashboards where time visualization is needed.",
+  "_classifiedAt": "2026-04-23T17:03:48.834Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

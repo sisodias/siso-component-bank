@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "maxim.bort.devel-simple-code-block",
+  "type": "registry:ui",
+  "title": "Maxim.Bort.Devel Simple Code Block",
+  "description": "Installed from https://21st.dev/r/maxim.bort.devel/simple-code-block",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "maxim.bort.devel-simple-code-block"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "simple-code-block.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/maxim.bort.devel/simple-code-block",
+    "fetchedAt": "2026-04-23T03:04:08.556Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

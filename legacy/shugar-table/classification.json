@@ -1,0 +1,26 @@
+{
+  "category": "data-display",
+  "subcategory": "table",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying structured tabular data in web applications",
+    "Presenting pricing information in a clear, organized format",
+    "Showing dataset rows with optional striping for readability",
+    "Creating sortable data tables with header and body sections",
+    "Building data grids with optional hover interactivity"
+  ],
+  "ai_summary": "A composite table component from the Shugar design system featuring modular subcomponents for headers, body, rows, cells, and footers. Supports striped rows for alternating row colors and basic hover interactivity. Designed with minimalist styling including rounded corners, subtle borders, and a clean typography system using the sans font family. Fully responsive with horizontal scroll support for mobile platforms.",
+  "_classifiedAt": "2026-04-23T17:31:44.463Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

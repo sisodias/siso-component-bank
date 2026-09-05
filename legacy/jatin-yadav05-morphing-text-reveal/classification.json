@@ -1,0 +1,30 @@
+{
+  "category": "hero",
+  "subcategory": "text-morph-animation",
+  "visual_style": [],
+  "interactions": [
+    "morph",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero section headline that cycles through value propositions with glitch animation",
+    "Animated landing page title that morphs between feature highlights",
+    "Portfolio website tagline with typewriter-like character morphing effect",
+    "SaaS product hero with rotating messaging or tagline animation",
+    "Interactive headline for creative agency websites"
+  ],
+  "ai_summary": "A React text animation component that morphs between an array of strings with a glitchy character-by-character transition effect. Features configurable intervals, hover-triggered glitch effects, and smooth state management. Used as a dynamic hero headline component for landing pages and marketing sites seeking animated, attention-grabbing typography.",
+  "_classifiedAt": "2026-04-23T01:40:59.014Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

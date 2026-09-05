@@ -1,0 +1,26 @@
+{
+  "id": "coss.com__coss-autocomplete",
+  "author": "coss.com",
+  "slug": "coss-autocomplete",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@coss.com/components/coss-autocomplete",
+  "fetchedAt": "2026-08-29T04:02:11.921Z",
+  "completedAt": "2026-08-29T04:02:14.176Z",
+  "versionedFilename": "code.1773923213360.tsx",
+  "codeReference": "r2://components-code-private/larsen66/coss-autocomplete/code.1773923213360.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/coss-autocomplete/code.1773923213360.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 16505,
+  "sha256": "c33e419e7fcf3db65c19d4faa09753bf7b459d21b22fd45a13b7ce244e6ae81d",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

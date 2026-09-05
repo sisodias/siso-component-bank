@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "kristen17-course-design-cards",
+  "type": "registry:ui",
+  "title": "Kristen17 Course Design Cards",
+  "description": "Installed from https://21st.dev/r/kristen17/course-design-cards",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "kristen17-course-design-cards"
+  ],
+  "files": [
+    {
+      "path": "course-design-cards.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/kristen17/course-design-cards",
+    "fetchedAt": "2026-04-23T02:29:51.071Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

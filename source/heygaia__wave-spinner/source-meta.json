@@ -1,0 +1,26 @@
+{
+  "id": "heygaia__wave-spinner",
+  "author": "heygaia",
+  "slug": "wave-spinner",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@heygaia/components/wave-spinner",
+  "fetchedAt": "2026-08-29T04:58:15.255Z",
+  "completedAt": "2026-08-29T04:58:17.500Z",
+  "versionedFilename": "code.1784671634765-1aae4ba2-5f1b-4c94-b189-428a84624a3e.tsx",
+  "codeReference": "r2://components-code-private/heygaia/wave-spinner/code.1784671634765-1aae4ba2-5f1b-4c94-b189-428a84624a3e.tsx",
+  "codeUrl": "https://cdn.21st.dev/heygaia/wave-spinner/code.1784671634765-1aae4ba2-5f1b-4c94-b189-428a84624a3e.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "tooltip",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display contextual information on hover for UI elements",
+    "Show additional details or tooltips for complex interface elements",
+    "Provide help text or explanations for form fields",
+    "Reveal supplementary content without cluttering the main interface",
+    "Offer quick-reference information for data-dense applications"
+  ],
+  "ai_summary": "A lightweight tooltip component that displays contextual information when triggered by hover or anchor selection. Features configurable placement in four directions, dark mode support via CSS variables, and uses react-tooltip for robust tooltip behavior. The component wraps any child element with a generated ID to anchor the tooltip overlay, making it suitable for adding contextual hints or supplementary information throughout any application interface.",
+  "_classifiedAt": "2026-04-23T17:29:53.874Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

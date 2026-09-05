@@ -1,0 +1,27 @@
+{
+  "category": "input",
+  "subcategory": "toggle-switch",
+  "visual_style": [],
+  "interactions": [
+    "drag",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Toggle feature flags or settings in application dashboards",
+    "Control power states or mode switches in industrial control interfaces",
+    "Enable/disable functionality in developer tools and admin panels"
+  ],
+  "ai_summary": "A physics-based industrial toggle switch component with spring animations, LED color indicators (red/green), and draggable handle interaction. Features skeuomorphic styling with gradient backgrounds and glow effects. Smooth transitions between states with configurable initial value and toggle callback.",
+  "_classifiedAt": "2026-04-22T08:55:32.157Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

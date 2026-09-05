@@ -1,0 +1,38 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "A clickable button for form submission and user actions",
+    "A navigation trigger for multi-step workflows",
+    "An action trigger for API calls or state changes",
+    "A styled CTA button for calls-to-action",
+    "A disabled or loading state button for async operations"
+  ],
+  "ai_summary": "A reusable Button component built with Radix UI Slot and class-variance-authority (CVA) for flexible variant-based styling. Supports multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Includes accessibility features like focus-visible rings, disabled states, and asChild prop for composition with other components.",
+  "_classifiedAt": "2026-04-23T16:47:05.956Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

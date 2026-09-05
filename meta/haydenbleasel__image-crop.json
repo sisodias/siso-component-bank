@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@haydenbleasel/components/image-crop",
+  "author": "haydenbleasel",
+  "slug": "image-crop",
+  "name": "image-crop",
+  "description": "An interactive image cropper with customizable aspect ratios, circular crop mode, and apply/reset controls that returns the cropped result as a PNG data URL.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/haydenbleasel/image-crop?api_key=$API_KEY_21ST\"",
+  "id": "haydenbleasel__image-crop",
+  "bundleUrl": "https://cdn.21st.dev/haydenbleasel/image-crop/default/bundle.1784719349941-00a5e0fb-88f3-4c44-b895-12a580c8ab1e.html",
+  "previewUrl": "https://cdn.21st.dev/haydenbleasel/image-crop/default/preview.1784719349941-00a5e0fb-88f3-4c44-b895-12a580c8ab1e.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ibelick__cursor",
+  "author": "ibelick",
+  "slug": "cursor",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ibelick/components/cursor",
+  "fetchedAt": "2026-08-29T04:59:38.622Z",
+  "completedAt": "2026-08-29T04:59:39.662Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null
+}

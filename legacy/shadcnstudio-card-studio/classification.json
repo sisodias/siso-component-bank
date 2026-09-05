@@ -1,0 +1,35 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "avatar-profile",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display user profile images with automatic fallback to initials",
+    "Show team member avatars in organizational charts",
+    "Render author bylines for blog posts and articles",
+    "Create notification badges with user avatars",
+    "Build testimonial cards with speaker profile images"
+  ],
+  "ai_summary": "A composite Avatar component system built on Radix UI primitives for displaying user profile images with graceful fallback to initials or text. Part of a card studio collection, this component provides accessible, keyboard-navigable avatar functionality with customizable styling via Tailwind CSS.",
+  "_classifiedAt": "2026-04-22T09:16:02.020Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

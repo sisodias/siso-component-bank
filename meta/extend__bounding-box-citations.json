@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@extend/components/bounding-box-citations",
+  "author": "extend",
+  "slug": "bounding-box-citations",
+  "name": "bounding-box-citations",
+  "description": "An extraction citation panel connected to source bounding boxes and editable values. Review extracted fields in a form or JSON diff view, hover to highlight source locations, and edit values inline.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/extend/bounding-box-citations?api_key=$API_KEY_21ST\"",
+  "id": "extend__bounding-box-citations",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/bounding-box-citations/default/bundle.1782172557619.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/bounding-box-citations/default/preview.1782207358554.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "arunachalam0606-bottom-nav-bar",
+  "type": "registry:ui",
+  "title": "Arunachalam0606 Bottom Nav Bar",
+  "description": "Installed from https://21st.dev/r/arunachalam0606/bottom-nav-bar",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "arunachalam0606-bottom-nav-bar"
+  ],
+  "files": [
+    {
+      "path": "bottom-nav-bar.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/arunachalam0606/bottom-nav-bar",
+    "fetchedAt": "2026-04-22T06:45:08.301Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

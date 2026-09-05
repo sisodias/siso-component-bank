@@ -1,0 +1,29 @@
+{
+  "category": "data-display",
+  "subcategory": "area-chart",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying time-series data trends and patterns in dashboards",
+    "Visualizing metrics or KPIs over time periods",
+    "Comparing multiple data series with stacked area charts",
+    "Financial data visualization for analytics platforms",
+    "User engagement or growth metrics tracking"
+  ],
+  "ai_summary": "A reusable area chart component built on Recharts with built-in responsive behavior and theme support for light and dark modes. The component provides a ChartContainer wrapper with context-based configuration, allowing customizable color schemes and labels through ChartConfig. It integrates seamlessly with Tailwind CSS using CSS variable theming.",
+  "_classifiedAt": "2026-04-23T16:51:00.361Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

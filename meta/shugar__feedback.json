@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@shugar/components/feedback",
+  "author": "shugar",
+  "slug": "feedback",
+  "name": "feedback",
+  "description": "Gather text feedback with an associated emotion.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/shugar/feedback?api_key=$API_KEY_21ST\"",
+  "id": "shugar__feedback",
+  "bundleUrl": "https://cdn.21st.dev/shugar/feedback/default/bundle.1752233278910.html",
+  "previewUrl": "https://cdn.21st.dev/shugar/feedback/default/preview.1752233278910.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

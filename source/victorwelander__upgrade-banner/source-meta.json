@@ -1,0 +1,33 @@
+{
+  "id": "victorwelander__upgrade-banner",
+  "author": "victorwelander",
+  "slug": "upgrade-banner",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@victorwelander/components/upgrade-banner",
+  "fetchedAt": "2026-08-29T07:55:32.297Z",
+  "completedAt": "2026-08-29T07:55:33.383Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/victorwelander__upgrade-banner/code.tsx",
+    "bytes": 5468,
+    "sha256": "8bd2f1ef3c52beec2d25c94f3b77be61a30b4e01413968c286907ac90a7c36a2",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

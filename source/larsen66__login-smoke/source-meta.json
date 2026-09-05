@@ -1,0 +1,26 @@
+{
+  "id": "larsen66__login-smoke",
+  "author": "larsen66",
+  "slug": "login-smoke",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@larsen66/components/login-smoke",
+  "fetchedAt": "2026-08-29T05:22:20.377Z",
+  "completedAt": "2026-08-29T05:22:22.476Z",
+  "versionedFilename": "code.1747385674242.tsx",
+  "codeReference": "r2://components-code-private/larsen66/login-smoke/code.1747385674242.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/login-smoke/code.1747385674242.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 19833,
+  "sha256": "85d22fa3605adc88127e7533c0f1e3cc4386d8c21c3d49af2b9c5f1dcb2de16b",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

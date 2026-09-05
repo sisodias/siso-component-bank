@@ -1,0 +1,30 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "animated-text-rotator",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display rotating hero taglines or headlines with smooth text transitions",
+    "Showcase cycling testimonials or quotes in marketing pages",
+    "Create animated text carousels for portfolio or landing pages",
+    "Implement dynamic text announcements with staggered character animations",
+    "Build interactive text displays with imperative next/previous/jump controls"
+  ],
+  "ai_summary": "A customizable animated text rotation component that cycles through an array of strings with configurable split-by options (characters, words, or lines). Built with motion/react for smooth spring-based animations, it exposes imperative controls via ref (next, previous, jumpTo, reset) and supports auto-play with interval timing, staggered animations, and presence modes for sophisticated text transitions.",
+  "_classifiedAt": "2026-04-23T16:29:19.949Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

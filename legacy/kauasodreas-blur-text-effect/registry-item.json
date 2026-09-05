@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "kauasodreas-blur-text-effect",
+  "type": "registry:ui",
+  "title": "Kauasodreas Blur Text Effect",
+  "description": "Installed from https://21st.dev/r/kauasodreas/blur-text-effect",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "kauasodreas-blur-text-effect"
+  ],
+  "files": [
+    {
+      "path": "blur-text-effect.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/kauasodreas/blur-text-effect",
+    "fetchedAt": "2026-04-23T03:03:50.028Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

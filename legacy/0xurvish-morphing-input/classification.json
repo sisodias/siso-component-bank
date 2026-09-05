@@ -1,0 +1,28 @@
+{
+  "category": "input",
+  "subcategory": "morphing-text-input",
+  "visual_style": [],
+  "interactions": [
+    "morph",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Dynamic search input with animated cycling placeholders",
+    "Interactive form input with letter-by-letter morph animation",
+    "Creative input field for AI or generator tools with multiple prompt options",
+    "Engaging user input component with visual feedback through icon toggle"
+  ],
+  "ai_summary": "A creative input component featuring animated placeholder text that morphs letter-by-letter with spring physics. The input cycles through predefined placeholder options via an interactive icon, creating an engaging typing animation effect. Includes hover glow effects and smooth transitions perfect for modern SaaS applications and AI-powered tools.",
+  "_classifiedAt": "2026-04-22T08:50:36.499Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

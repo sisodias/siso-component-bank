@@ -1,0 +1,28 @@
+{
+  "category": "input",
+  "subcategory": "Smart Select with Behavioral History",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Smart form inputs that remember and prioritize frequently selected options",
+    "Reducing user friction by surfacing previously chosen selections first",
+    "Tracking user preferences across sessions via localStorage persistence",
+    "Enhancing dropdown UX with frequency and recency-based sorting",
+    "Creating personalized selection experiences in web applications"
+  ],
+  "ai_summary": "A smart select dropdown component that tracks user selection history in localStorage, automatically prioritizing frequently and recently selected options. Built on top of a base Select component, it supports customizable history limits, persistent storage, and sorting by selection frequency and recency. Designed to reduce friction in repeated form interactions by learning from user behavior.",
+  "_classifiedAt": "2026-04-22T09:11:39.680Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/auth-dialog",
+  "author": "ruixen.ui",
+  "slug": "auth-dialog",
+  "name": "auth-dialog",
+  "description": "This component is a combined Sign Up and Login modal built with ShadCN UI and React. It allows users to toggle between signing up and logging in without opening separate dialogs, providing a seamless authentication experience. The form dynamically adjusts its fields based on the mode, showing the Full Name input only during Sign Up. The password field includes a show/hide toggle using Lucide Eye and EyeOff icons for better usability. Additional features include a Google sign-in button, responsive layout, and a terms acknowledgment for Sign Up.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/auth-dialog?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__auth-dialog",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/auth-dialog/default/bundle.1755716755877.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/auth-dialog/default/preview.1755716755877.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 34,
+  "demo_id": 5741,
+  "video_url": "https://cdn.21st.dev/ruixen.ui/auth-dialog/default/video.1755715094374.mp4"
+}

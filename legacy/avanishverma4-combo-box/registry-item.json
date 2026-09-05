@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "avanishverma4-combo-box",
+  "type": "registry:ui",
+  "title": "Avanishverma4 Combo Box",
+  "description": "Installed from https://21st.dev/r/avanishverma4/combo-box",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "avanishverma4-combo-box"
+  ],
+  "files": [
+    {
+      "path": "combo-box.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/avanishverma4/combo-box",
+    "fetchedAt": "2026-04-23T01:17:35.499Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

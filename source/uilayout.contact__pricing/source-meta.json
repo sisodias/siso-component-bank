@@ -1,0 +1,26 @@
+{
+  "id": "uilayout.contact__pricing",
+  "author": "uilayout.contact",
+  "slug": "pricing",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uilayout.contact/components/pricing",
+  "fetchedAt": "2026-08-29T07:44:59.884Z",
+  "completedAt": "2026-08-29T07:45:02.384Z",
+  "versionedFilename": "code.1756283334257.tsx",
+  "codeReference": "r2://components-code-private/uilayout.contact/pricing/code.1756283334257.tsx",
+  "codeUrl": "https://cdn.21st.dev/uilayout.contact/pricing/code.1756283334257.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10656,
+  "sha256": "227059d34e96a640d993ccb70dabbf1b013cb763e9d4b95a79f45e26acfeb586",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

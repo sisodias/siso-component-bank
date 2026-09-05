@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__prism-flux",
+  "author": "ruixen.ui",
+  "slug": "prism-flux",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/prism-flux",
+  "fetchedAt": "2026-08-29T06:46:56.970Z",
+  "completedAt": "2026-08-29T06:46:58.944Z",
+  "versionedFilename": "code.1758048422528.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/prism-flux/code.1758048422528.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/prism-flux/code.1758048422528.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3458,
+  "sha256": "bcee09c52aeff46fac54991c4620f048e27a87547fb8df6655f47ff165088c98",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

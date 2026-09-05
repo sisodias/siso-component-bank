@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in web application interfaces",
+    "Form submission triggers with multiple visual states",
+    "Interactive navigation and menu action buttons",
+    "Destructive action buttons with hover and focus feedback",
+    "Secondary and ghost-style buttons for layered UI hierarchies"
+  ],
+  "ai_summary": "DepthButton is a versatile atomic button component with multiple variants including default, outline, ghost, secondary, tertiary, destructive, and link styles. Built with Radix UI Slot and class-variance-authority for flexible composition, it features subtle shine effects, shadow styling, and comprehensive state management including hover glow interactions and focus-visible accessibility rings.",
+  "_classifiedAt": "2026-04-22T08:57:30.421Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

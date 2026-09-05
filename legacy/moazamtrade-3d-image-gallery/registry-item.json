@@ -1,0 +1,43 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "moazamtrade-3d-image-gallery",
+  "type": "registry:ui",
+  "title": "Moazamtrade 3d Image Gallery",
+  "description": "Installed from https://21st.dev/r/moazamtrade/3d-image-gallery",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "moazamtrade-3d-image-gallery"
+  ],
+  "files": [
+    {
+      "path": "3d-image-gallery.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@react-three/drei",
+    "@react-three/fiber",
+    "lucide-react",
+    "three"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/moazamtrade/3d-image-gallery",
+    "fetchedAt": "2026-04-23T01:18:27.882Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

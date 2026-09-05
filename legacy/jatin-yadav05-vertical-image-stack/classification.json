@@ -1,0 +1,26 @@
+{
+  "category": "media",
+  "subcategory": "image-carousel",
+  "visual_style": [],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "media",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Product image galleries on e-commerce sites for browsing shoe or fashion collections",
+    "Portfolio showcases where users swipe through visual work samples",
+    "Mobile-friendly image stacks for product detail pages requiring vertical exploration"
+  ],
+  "ai_summary": "A vertical image stack carousel component with drag/swipe navigation for browsing through stacked images. Uses framer-motion for smooth transitions and includes navigation cooldown logic to prevent rapid interactions. Ideal for displaying sequential product images in e-commerce applications or visual galleries where users need to swipe through content vertically.",
+  "_classifiedAt": "2026-04-22T09:01:18.517Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

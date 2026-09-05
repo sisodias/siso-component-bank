@@ -1,0 +1,26 @@
+{
+  "id": "minhxthanh__page-not-found",
+  "author": "minhxthanh",
+  "slug": "page-not-found",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@minhxthanh/components/page-not-found",
+  "fetchedAt": "2026-08-29T05:45:20.880Z",
+  "completedAt": "2026-08-29T05:45:23.050Z",
+  "versionedFilename": "code.1747655878436.tsx",
+  "codeReference": "r2://components-code-private/minhxthanh/page-not-found/code.1747655878436.tsx",
+  "codeUrl": "https://cdn.21st.dev/minhxthanh/page-not-found/code.1747655878436.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10205,
+  "sha256": "f5aa83fed971a65c6d36e615ec2b72b796b5b287da69869aef504d82571c2a79",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

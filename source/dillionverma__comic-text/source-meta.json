@@ -1,0 +1,26 @@
+{
+  "id": "dillionverma__comic-text",
+  "author": "dillionverma",
+  "slug": "comic-text",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dillionverma/components/comic-text",
+  "fetchedAt": "2026-08-29T04:35:08.817Z",
+  "completedAt": "2026-08-29T04:35:10.921Z",
+  "versionedFilename": "code.1752958700856.tsx",
+  "codeReference": "r2://components-code-private/larsen66/comic-text/code.1752958700856.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/comic-text/code.1752958700856.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1599,
+  "sha256": "fd0c7e52822e2564885309336842092f4065f73e1170fdc25b1bfbe3b6a13cb6",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

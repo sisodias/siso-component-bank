@@ -1,0 +1,26 @@
+{
+  "id": "uilayout.contact__buyme-acoffee",
+  "author": "uilayout.contact",
+  "slug": "buyme-acoffee",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uilayout.contact/components/buyme-acoffee",
+  "fetchedAt": "2026-08-29T07:42:38.615Z",
+  "completedAt": "2026-08-29T07:42:40.587Z",
+  "versionedFilename": "code.1783494417016.tsx",
+  "codeReference": "r2://components-code-private/uilayout.contact/buyme-acoffee/code.1783494417016.tsx",
+  "codeUrl": "https://cdn.21st.dev/uilayout.contact/buyme-acoffee/code.1783494417016.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 236070,
+  "sha256": "ae2c8954d0ac8493481770b2ada9be9291688ef155c429ae5868249e0696353e",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

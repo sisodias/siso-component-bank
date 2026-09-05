@@ -1,0 +1,56 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "originui-numbered-pagination",
+  "type": "registry:ui",
+  "title": "Originui Numbered Pagination",
+  "description": "Installed from https://21st.dev/r/originui/numbered-pagination",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "originui-numbered-pagination"
+  ],
+  "files": [
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "numbered-pagination.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "pagination.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "use-pagination.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-icons",
+    "@radix-ui/react-slot",
+    "class-variance-authority"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "imports unresolvable path (@/components/hooks/use-pagination)"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/originui/numbered-pagination",
+    "fetchedAt": "2026-04-23T03:05:40.685Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

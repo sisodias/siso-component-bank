@@ -1,0 +1,26 @@
+{
+  "id": "uilayout.contact__customer-experience",
+  "author": "uilayout.contact",
+  "slug": "customer-experience",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uilayout.contact/components/customer-experience",
+  "fetchedAt": "2026-08-29T07:43:02.776Z",
+  "completedAt": "2026-08-29T07:43:04.747Z",
+  "versionedFilename": "code.1784694452129-54d156ff-3613-46a0-8fe3-62774acc1ded.tsx",
+  "codeReference": "r2://components-code-private/uilayout.contact/customer-experience/code.1784694452129-54d156ff-3613-46a0-8fe3-62774acc1ded.tsx",
+  "codeUrl": "https://cdn.21st.dev/uilayout.contact/customer-experience/code.1784694452129-54d156ff-3613-46a0-8fe3-62774acc1ded.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

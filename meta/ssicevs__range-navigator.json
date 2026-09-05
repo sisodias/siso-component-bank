@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ssicevs/components/range-navigator",
+  "author": "ssicevs",
+  "slug": "range-navigator",
+  "name": "range-navigator",
+  "description": "Focus + context price history: a detail chart sits over a compressed mini-map of the whole series. Drag the brush window to pan, pull an edge to zoom, and hover the plot for a dashed crosshair whose card reads that point's price and date. Axis ticks and end labels are derived from the current window. Light and dark via shadcn theme tokens; respects reduced motion.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ssicevs/range-navigator?api_key=$API_KEY_21ST\"",
+  "id": "ssicevs__range-navigator",
+  "bundleUrl": "https://cdn.21st.dev/ssicevs/range-navigator/default/bundle.1785623851724-a51364bc-b446-4382-8a41-aed3ee69e152.html",
+  "previewUrl": "https://cdn.21st.dev/ssicevs/range-navigator/default/preview.1785623851724-a51364bc-b446-4382-8a41-aed3ee69e152.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

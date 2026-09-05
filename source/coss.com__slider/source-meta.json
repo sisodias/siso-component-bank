@@ -1,0 +1,26 @@
+{
+  "id": "coss.com__slider",
+  "author": "coss.com",
+  "slug": "slider",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@coss.com/components/slider",
+  "fetchedAt": "2026-08-29T04:02:38.491Z",
+  "completedAt": "2026-08-29T04:02:40.682Z",
+  "versionedFilename": "code.1774363254975.tsx",
+  "codeReference": "r2://components-code-private/coss.com/slider/code.1774363254975.tsx",
+  "codeUrl": "https://cdn.21st.dev/coss.com/slider/code.1774363254975.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/typescript",
+  "bytes": 3055,
+  "sha256": "0ba8cae48bdc7e3f7a7bc9af249f7c12717518cde860eb6ee3a5ff2d116fedfd",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

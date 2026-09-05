@@ -1,0 +1,33 @@
+{
+  "id": "bklitai__area-chart",
+  "author": "bklitai",
+  "slug": "area-chart",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@bklitai/components/area-chart",
+  "fetchedAt": "2026-08-29T03:50:42.365Z",
+  "completedAt": "2026-08-29T03:50:44.416Z",
+  "versionedFilename": "code.1785309273855-6fae08e5-ac3a-4650-b752-7eb7a41fd523.tsx",
+  "codeReference": "r2://components-code-private/bklitai/area-chart/code.1785309273855-6fae08e5-ac3a-4650-b752-7eb7a41fd523.tsx",
+  "codeUrl": "https://cdn.21st.dev/bklitai/area-chart/code.1785309273855-6fae08e5-ac3a-4650-b752-7eb7a41fd523.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/bklitai__area-chart/code.tsx",
+    "bytes": 59950,
+    "sha256": "59122bcbb277b70f1bfbc2bd86519f036fca78c6ffeb5d8e81f3a9d6025cb501",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

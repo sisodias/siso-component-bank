@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@m.kumailalirajpoot/components/unique-pricing-chart-modal",
+  "author": "m.kumailalirajpoot",
+  "slug": "unique-pricing-chart-modal",
+  "name": "unique-pricing-chart-modal",
+  "description": "A reusable step-style line chart component built with Recharts and ShadCN UI, used to visualize monthly data trends. It accepts an array of { month, value } objects and dynamically renders a smooth step line with customizable color and tooltips.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/m.kumailalirajpoot/unique-pricing-chart-modal?api_key=$API_KEY_21ST\"",
+  "id": "m.kumailalirajpoot__unique-pricing-chart-modal",
+  "bundleUrl": "https://cdn.21st.dev/m.kumailalirajpoot/unique-pricing-chart-modal/default/bundle.1762623538088.html",
+  "previewUrl": "https://cdn.21st.dev/m.kumailalirajpoot/unique-pricing-chart-modal/default/preview.1762623538088.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

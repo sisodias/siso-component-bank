@@ -1,0 +1,26 @@
+{
+  "category": "data-display",
+  "subcategory": "network-graph",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying network connections and relationships between nodes",
+    "Visualizing graph topology for social or collaboration networks",
+    "Representing data relationships in analytics dashboards",
+    "Mapping connections between entities in mapping applications",
+    "Showing organizational structures or hierarchies visually"
+  ],
+  "ai_summary": "A network graph visualization component that renders nodes and weighted links on a dark background using SVG. Displays interconnected data structures with customizable colors and dashed/solid line styles for links. Commonly used for representing relationships, connections, and network topology in analytics, social platforms, and data visualization tools.",
+  "_classifiedAt": "2026-04-23T11:29:47.020Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

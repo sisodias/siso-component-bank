@@ -1,0 +1,32 @@
+{
+  "category": "input",
+  "subcategory": "copy button with cross-fade animation",
+  "visual_style": [
+    "dark",
+    "flat"
+  ],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Copying code snippets in documentation or IDE-like interfaces",
+    "Copying share links or URLs for easy distribution",
+    "Copying text content like API keys or credentials",
+    "Copying product links or referral codes in e-commerce",
+    "Copying configuration values or environment variables"
+  ],
+  "ai_summary": "A compact copy button component featuring a smooth cross-fade animation between copy and check icons. The button uses a dark theme (#3f3f46) with rounded corners and automatic state reset after 2 seconds, providing clear visual feedback when content is successfully copied to clipboard.",
+  "_classifiedAt": "2026-04-22T09:19:21.930Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

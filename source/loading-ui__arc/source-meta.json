@@ -1,0 +1,26 @@
+{
+  "id": "loading-ui__arc",
+  "author": "loading-ui",
+  "slug": "arc",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@loading-ui/components/arc",
+  "fetchedAt": "2026-08-29T05:28:33.912Z",
+  "completedAt": "2026-08-29T05:28:36.089Z",
+  "versionedFilename": "code.1784219393674-a2a36e85-8f94-4a1a-a803-bc2ce271e187.tsx",
+  "codeReference": "r2://components-code-private/loading-ui/arc/code.1784219393674-a2a36e85-8f94-4a1a-a803-bc2ce271e187.tsx",
+  "codeUrl": "https://cdn.21st.dev/loading-ui/arc/code.1784219393674-a2a36e85-8f94-4a1a-a803-bc2ce271e187.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

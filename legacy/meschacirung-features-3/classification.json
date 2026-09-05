@@ -1,0 +1,37 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "feature-showcase-grid",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "creator-tools",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying product or service features in a clean card-based grid layout",
+    "Presenting benefits and capabilities with structured card components",
+    "Building feature sections for landing pages and marketing sites",
+    "Organizing informational content with consistent card styling",
+    "Creating reusable feature blocks that can be customized with different content"
+  ],
+  "ai_summary": "A set of modular Card UI components (Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter) from the shadcn/ui design system, exported for composable use. These atomic card elements are typically combined to create feature showcase sections that display product benefits, capabilities, or service offerings in a structured, visually consistent grid or list layout. The components use Tailwind CSS for styling with standard shadow-sm and border treatments for a clean, professional appearance.",
+  "_classifiedAt": "2026-04-23T16:56:10.820Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

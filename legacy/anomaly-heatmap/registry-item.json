@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "anomaly-heatmap",
+  "type": "registry:ui",
+  "title": "AnomalyHeatmap",
+  "description": "Data visualization card with intensity-based heatmap grid and hover-reactive cell scaling",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "heatmap",
+    "chart",
+    "anomaly",
+    "visualization",
+    "security",
+    "motion"
+  ],
+  "files": [
+    {
+      "path": "anomaly-heatmap.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "motion"
+  ],
+  "registryDependencies": [
+    "anomaly-heatmap"
+  ],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "curationTags": []
+  }
+}

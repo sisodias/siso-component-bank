@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "cnippet.dev-collapsible",
+  "type": "registry:ui",
+  "title": "Cnippet.Dev Collapsible",
+  "description": "Installed from https://21st.dev/r/cnippet.dev/collapsible",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "cnippet.dev-collapsible"
+  ],
+  "files": [
+    {
+      "path": "collapsible.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@base-ui/react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/cnippet.dev/collapsible",
+    "fetchedAt": "2026-04-22T06:32:20.683Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

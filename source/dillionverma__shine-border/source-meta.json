@@ -1,0 +1,33 @@
+{
+  "id": "dillionverma__shine-border",
+  "author": "dillionverma",
+  "slug": "shine-border",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dillionverma/components/shine-border",
+  "fetchedAt": "2026-08-29T04:36:01.430Z",
+  "completedAt": "2026-08-29T04:36:02.299Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/dillionverma__shine-border/code.tsx",
+    "bytes": 2278,
+    "sha256": "ed25397928859a42a61279c689cc97ead62174b4f2c4576961849e951d8c0e30",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

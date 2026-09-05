@@ -1,0 +1,33 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "feedback-collection",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Collecting user feedback on web applications and websites",
+    "Gathering feature requests and bug reports from users",
+    "Enabling quick feedback submission without leaving the current page",
+    "Improving user experience through direct communication channels"
+  ],
+  "ai_summary": "A user feedback widget component designed for collecting ratings, comments, or bug reports directly from users. Typically appears as a floating button or modal that opens to reveal a feedback form. Built with Radix UI and Tailwind CSS for accessibility and styling flexibility. The widget enables businesses to gather actionable user insights without disrupting the user experience.",
+  "_classifiedAt": "2026-04-22T09:09:28.203Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

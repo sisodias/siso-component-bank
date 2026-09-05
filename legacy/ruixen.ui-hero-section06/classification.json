@@ -1,0 +1,40 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Form submission triggers and user interactions across any application interface",
+    "Call-to-action buttons in landing pages, dashboards, and marketing sites",
+    "Navigation actions like save, cancel, submit, or delete operations",
+    "Accessible button component supporting keyboard navigation and focus states"
+  ],
+  "ai_summary": "A versatile, reusable Button component built with Radix UI Slot and class-variance-authority for flexible styling. Supports multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Features hover states, focus-visible outlines, disabled states, and shadow styling for depth. Designed as an atomic building block for any React application's UI system.",
+  "_classifiedAt": "2026-04-23T17:18:43.089Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

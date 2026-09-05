@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-with-variants",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in pricing tables and forms",
+    "Secondary action buttons with destructive, outline, and ghost variants",
+    "Accessible button component with focus-visible ring and disabled states",
+    "Reusable button with size and variant props via class-variance-authority"
+  ],
+  "ai_summary": "A minimal, flat-styled button component built with Radix UI Slot and class-variance-authority, providing five visual variants (default, destructive, outline, secondary, ghost) and three size options. Features standard accessibility patterns with focus-visible rings, disabled states, and ring-offset support. Designed as an atomic, reusable component typically embedded within pricing tables, forms, or navigation elements in SaaS and e-commerce applications.",
+  "_classifiedAt": "2026-04-22T09:19:04.946Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

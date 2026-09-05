@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@sshahaider/components/drawer",
+  "author": "sshahaider",
+  "slug": "drawer",
+  "name": "drawer",
+  "description": "A flexible and beautifully styled Drawer component built using Vaul (Radix-based) primitives. It supports all drawer directions (top, bottom, left, right) with smooth animations, backdrop blur, and slots like header, body, and footer—making it ideal for responsive menus, sidebars, or modal-like panels in modern React apps.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/sshahaider/drawer?api_key=$API_KEY_21ST\"",
+  "id": "sshahaider__drawer",
+  "bundleUrl": "https://cdn.21st.dev/sshahaider/drawer/default/bundle.1753379971063.html",
+  "previewUrl": "https://cdn.21st.dev/sshahaider/drawer/default/preview.1753379971063.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

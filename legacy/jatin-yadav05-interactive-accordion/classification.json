@@ -1,0 +1,30 @@
+{
+  "category": "data-display",
+  "subcategory": "accordion-disclosure",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Expanding FAQ sections with smooth animated reveals",
+    "Organizing service or feature descriptions in collapsible panels",
+    "Creating numbered content sections with hover feedback",
+    "Building interactive help documentation with expand/collapse behavior"
+  ],
+  "ai_summary": "An animated accordion component featuring smooth framer-motion transitions, numbered indicators, and click-to-expand functionality. Supports hover states with visual feedback and maintains keyboard accessibility. Designed as a flexible disclosure pattern for organizing hierarchical content on desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-22T09:00:33.256Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

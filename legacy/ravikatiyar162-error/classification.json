@@ -1,0 +1,24 @@
+{
+  "category": "feedback",
+  "subcategory": "toast-notification",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying success confirmations after form submissions or account creation",
+    "Showing error messages when operations fail",
+    "Providing status updates for background processes",
+    "Notifying users of system alerts or important announcements",
+    "Confirming successful actions like saves, deletes, or updates"
+  ],
+  "ai_summary": "A toast notification component built with Ark UI that displays temporary feedback messages at the bottom-end of the screen. Features smooth entrance animations, dismissible toasts with close button, and portal-based rendering. Minimalist design with clean typography and subtle shadows suitable for any application requiring user feedback notifications.",
+  "_classifiedAt": "2026-04-23T01:46:50.390Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

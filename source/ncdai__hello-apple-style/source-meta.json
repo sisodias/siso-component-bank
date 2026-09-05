@@ -1,0 +1,26 @@
+{
+  "id": "ncdai__hello-apple-style",
+  "author": "ncdai",
+  "slug": "hello-apple-style",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ncdai/components/hello-apple-style",
+  "fetchedAt": "2026-08-29T05:56:58.501Z",
+  "completedAt": "2026-08-29T05:57:01.011Z",
+  "versionedFilename": "code.1756729064355.tsx",
+  "codeReference": "r2://components-code-private/larsen66/hello-apple-style/code.1756729064355.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/hello-apple-style/code.1756729064355.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 9767,
+  "sha256": "883d540d41af3cef18c16f69a48a961f18df68d51eb9607c0615ce3269f9caa6",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

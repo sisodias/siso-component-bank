@@ -1,0 +1,33 @@
+{
+  "id": "designali-in__fluid-dynamics",
+  "author": "designali-in",
+  "slug": "fluid-dynamics",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/fluid-dynamics",
+  "fetchedAt": "2026-08-29T04:18:14.970Z",
+  "completedAt": "2026-08-29T04:18:16.932Z",
+  "versionedFilename": "code.1785304890005-7bc12acb-4c11-40f7-afbe-c44d03c46d3b.tsx",
+  "codeReference": "r2://components-code-private/designali-in/fluid-dynamics/code.1785304890005-7bc12acb-4c11-40f7-afbe-c44d03c46d3b.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/fluid-dynamics/code.1785304890005-7bc12acb-4c11-40f7-afbe-c44d03c46d3b.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/designali-in__fluid-dynamics/code.tsx",
+    "bytes": 15437,
+    "sha256": "9a9ba8bc07f62e9da6f906f27478483ed186ca11267adab9397d4c1ee418284d",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

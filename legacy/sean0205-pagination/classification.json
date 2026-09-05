@@ -1,0 +1,36 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "pagination",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Navigate through paginated content in web applications",
+    "Browse large datasets split across multiple pages",
+    "Navigate multi-step forms or wizards",
+    "Access different sections of documentation or articles",
+    "Switch between search result pages in e-commerce"
+  ],
+  "ai_summary": "A versatile pagination component with multiple button variant styles including primary, outline, ghost, and mono themes. Built on Radix UI primitives with Tailwind CSS, it provides accessible page navigation with proper keyboard support and focus states. Features customizable button appearances with hover effects suitable for data-heavy applications like SaaS dashboards, e-commerce catalogs, and content management systems.",
+  "_classifiedAt": "2026-04-23T17:23:22.459Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

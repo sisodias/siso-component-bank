@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "filipz-explorations-with-gsap-and-scroll-trigger",
+  "type": "registry:ui",
+  "title": "Filipz Explorations With Gsap And Scroll Trigger",
+  "description": "Installed from https://21st.dev/r/filipz/explorations-with-gsap-and-scroll-trigger",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "filipz-explorations-with-gsap-and-scroll-trigger"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "explorations-with-gsap-and-scroll-trigger.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "gsap",
+    "three"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/filipz/explorations-with-gsap-and-scroll-trigger",
+    "fetchedAt": "2026-04-23T02:29:51.218Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

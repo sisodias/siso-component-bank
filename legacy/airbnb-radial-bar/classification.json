@@ -1,0 +1,27 @@
+{
+  "category": "data-display",
+  "subcategory": "radial-bar-chart",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display categorical data comparisons in a circular/radial layout for visual impact",
+    "Show percentage-based metrics with customizable gradient bar colors and inner radius",
+    "Enable interactive data exploration with sorting and rotation controls",
+    "Visualize business metrics across multiple categories in a space-efficient format",
+    "Create engaging data dashboards with animated radial chart presentations"
+  ],
+  "ai_summary": "A radial bar chart component from Airbnb that renders categorical data in a circular visualization format using visx primitives. Features customizable gradient fills, rotation controls, and sorting options for interactive data exploration. Adapts to any width/height dimensions with configurable margins and inner radius ratios for flexible layout integration.",
+  "_classifiedAt": "2026-04-23T11:29:57.001Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

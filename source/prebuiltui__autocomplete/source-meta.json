@@ -1,0 +1,26 @@
+{
+  "id": "prebuiltui__autocomplete",
+  "author": "prebuiltui",
+  "slug": "autocomplete",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@prebuiltui/components/autocomplete",
+  "fetchedAt": "2026-08-29T06:10:50.659Z",
+  "completedAt": "2026-08-29T06:10:53.055Z",
+  "versionedFilename": "code.1757050973257.tsx",
+  "codeReference": "r2://components-code-private/larsen66/autocomplete/code.1757050973257.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/autocomplete/code.1757050973257.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4259,
+  "sha256": "56ef5c0f9d3b4557977770d26e35172af08561ccc8cd2d19dbe1f3c08d03760e",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

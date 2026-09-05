@@ -1,0 +1,26 @@
+{
+  "id": "mikolajdobrucki__pricing",
+  "author": "mikolajdobrucki",
+  "slug": "pricing",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@mikolajdobrucki/components/pricing",
+  "fetchedAt": "2026-08-29T05:42:49.605Z",
+  "completedAt": "2026-08-29T05:42:51.706Z",
+  "versionedFilename": "code.1783659498998.tsx",
+  "codeReference": "r2://components-code-private/mikolajdobrucki/pricing/code.1783659498998.tsx",
+  "codeUrl": "https://cdn.21st.dev/mikolajdobrucki/pricing/code.1783659498998.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3664,
+  "sha256": "fee4732c0c2172b00799b8eaecfc2cf13e368b7704d5506fa5d58fc4682bae15",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

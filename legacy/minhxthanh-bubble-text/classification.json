@@ -1,0 +1,24 @@
+{
+  "category": "media",
+  "subcategory": "interactive-typography",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Hero sections requiring interactive typography that responds to user hover",
+    "Landing pages needing engaging text animations to capture attention",
+    "Portfolio or creative websites featuring distinctive character-level hover effects"
+  ],
+  "ai_summary": "BubbleText is an interactive typography component that creates a cascading hover effect across individual characters. When hovering over a letter, that character and its neighbors animate with changing font weights and colors based on distance from the hovered index, creating a ripple-like visual effect. Built with React hooks for state management and Tailwind CSS for styling.",
+  "_classifiedAt": "2026-04-23T01:43:28.847Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

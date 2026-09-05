@@ -1,0 +1,34 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading-spinner",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display loading states during async operations like data fetching or file uploads",
+    "Indicate progress when waiting for page transitions or component hydration",
+    "Show processing feedback during form submissions or API calls",
+    "Use as a placeholder while content is being loaded dynamically",
+    "Add visual feedback to interactive elements during user-triggered operations"
+  ],
+  "ai_summary": "A minimalist SVG-based loading spinner inspired by Vercel's design language. The component renders geometric line segments with varying opacity levels to create a subtle gradient-like visual effect. It supports customizable size through props and integrates seamlessly as an inline-flex element within any layout.",
+  "_classifiedAt": "2026-04-23T17:42:11.958Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

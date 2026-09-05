@@ -1,0 +1,26 @@
+{
+  "id": "designali-in__hero-shader",
+  "author": "designali-in",
+  "slug": "hero-shader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/hero-shader",
+  "fetchedAt": "2026-08-29T04:19:01.599Z",
+  "completedAt": "2026-08-29T04:19:03.994Z",
+  "versionedFilename": "code.1755669782511.tsx",
+  "codeReference": "r2://components-code-private/designali-in/hero-shader/code.1755669782511.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/hero-shader/code.1755669782511.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2609,
+  "sha256": "e8736085c8527e53abbabf29eda14ffbbafa13a0645ac13fab188ed135a4914d",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

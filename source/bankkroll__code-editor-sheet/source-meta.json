@@ -1,0 +1,26 @@
+{
+  "id": "bankkroll__code-editor-sheet",
+  "author": "bankkroll",
+  "slug": "code-editor-sheet",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@bankkroll/components/code-editor-sheet",
+  "fetchedAt": "2026-08-29T03:47:53.087Z",
+  "completedAt": "2026-08-29T03:47:55.547Z",
+  "versionedFilename": "code.1749408348906.tsx",
+  "codeReference": "r2://components-code-private/bankkroll/code-editor-sheet/code.1749408348906.tsx",
+  "codeUrl": "https://cdn.21st.dev/bankkroll/code-editor-sheet/code.1749408348906.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 12212,
+  "sha256": "ca72b6d56f0a89a168195ab8fd198b739d0c5f0399b409a0c0e9285e39c46b18",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

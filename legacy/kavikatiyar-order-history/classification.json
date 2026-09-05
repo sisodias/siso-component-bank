@@ -1,0 +1,30 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "order-tracking-timeline",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying order delivery progress with animated timeline visualization for e-commerce",
+    "Tracking shipping milestones with status indicators (completed, in-progress, pending)",
+    "Showing multi-step order completion status to customers",
+    "Visualizing logistics or fulfillment pipeline progress",
+    "Providing real-time order status updates in dashboards"
+  ],
+  "ai_summary": "A minimalist tracking timeline component designed for displaying order history and delivery progress. Features animated entrance effects using Framer Motion with staggered transitions, status-specific icons (Check, CircleDot, Circle), and a clean vertical timeline layout with subtle border styling. Primary use case is e-commerce order tracking interfaces.",
+  "_classifiedAt": "2026-04-23T01:41:38.473Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

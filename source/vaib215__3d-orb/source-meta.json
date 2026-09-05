@@ -1,0 +1,26 @@
+{
+  "id": "vaib215__3d-orb",
+  "author": "vaib215",
+  "slug": "3d-orb",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@vaib215/components/3d-orb",
+  "fetchedAt": "2026-08-29T07:53:21.082Z",
+  "completedAt": "2026-08-29T07:53:23.259Z",
+  "versionedFilename": "code.1753136166718.tsx",
+  "codeReference": "r2://components-code-private/vaib215/3d-orb/code.1753136166718.tsx",
+  "codeUrl": "https://cdn.21st.dev/vaib215/3d-orb/code.1753136166718.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7945,
+  "sha256": "34bae6ef1637a73ed316de0557fd6cd14fea662deb85d80d3f240f32cce522f3",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

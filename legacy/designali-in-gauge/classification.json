@@ -1,0 +1,29 @@
+{
+  "category": "data-display",
+  "subcategory": "circular-gauge",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "healthcare",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display progress metrics and completion percentages in dashboards",
+    "Visualize scores, ratings, or performance indicators",
+    "Show health metrics or vital signs in healthcare applications",
+    "Render analytics data with threshold-based color changes",
+    "Provide animated gauge visualizations for monitoring dashboards"
+  ],
+  "ai_summary": "A circular SVG gauge component for visualizing progress metrics, percentages, and performance indicators. Supports threshold-based color transitions, configurable stroke styling, and optional value display. Designed for dashboard integration across SaaS, fintech, and healthcare applications where metric visualization is needed.",
+  "_classifiedAt": "2026-04-23T16:31:08.624Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

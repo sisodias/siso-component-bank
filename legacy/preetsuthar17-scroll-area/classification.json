@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "scrollable-container",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display overflow content in sidebars and navigation panels with custom scrollbars",
+    "Contain long lists or dense data in dashboard cards and tables",
+    "Provide scrollable content areas in modal overlays and popovers",
+    "Enable horizontal or vertical scrolling for media galleries and image carousels",
+    "Wrap form sections with excessive content without breaking page layout"
+  ],
+  "ai_summary": "A Radix UI-based scrollable container component with customizable orientation (vertical, horizontal, or both) and scrollbar visibility modes. Built with Tailwind CSS and class-variance-authority for flexible theming. Features smooth scrollbar show/hide behavior with configurable delay, supporting auto, always, scroll, and hover display types. A foundational composite component for containing overflow content in dashboards, sidebars, and data-rich interfaces.",
+  "_classifiedAt": "2026-04-23T17:09:17.097Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

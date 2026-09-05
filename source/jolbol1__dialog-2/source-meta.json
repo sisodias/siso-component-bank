@@ -1,0 +1,26 @@
+{
+  "id": "jolbol1__dialog-2",
+  "author": "jolbol1",
+  "slug": "dialog-2",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@jolbol1/components/dialog-2",
+  "fetchedAt": "2026-08-29T05:10:23.350Z",
+  "completedAt": "2026-08-29T05:10:25.666Z",
+  "versionedFilename": "code.1754525512557.tsx",
+  "codeReference": "r2://components-code-private/larsen66/dialog-2/code.1754525512557.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/dialog-2/code.1754525512557.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5007,
+  "sha256": "743d25577d9495647020507407b5dca5d8b9b9582bf6d3cbbecd4a1ea1aba9f7",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

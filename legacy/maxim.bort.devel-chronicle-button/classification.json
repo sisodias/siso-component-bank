@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "3d-flip-button",
+  "visual_style": [
+    "minimalist",
+    "3d"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in landing pages and marketing sites",
+    "Interactive navigation elements with animated text transitions",
+    "Modern UI buttons requiring smooth hover feedback with 3D depth effects"
+  ],
+  "ai_summary": "Chronicle Button is an animated button component featuring a distinctive 3D flip text transition effect on hover, implemented with CSS perspective transforms and cubic-bezier easing. The button uses CSS custom properties for flexible theming and supports outlined variants, making it suitable for modern SaaS, e-commerce, and dev-tool interfaces requiring engaging interactive elements.",
+  "_classifiedAt": "2026-04-23T16:54:35.698Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

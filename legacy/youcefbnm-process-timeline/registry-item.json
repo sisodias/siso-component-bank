@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "youcefbnm-process-timeline",
+  "type": "registry:ui",
+  "title": "Youcefbnm Process Timeline",
+  "description": "Installed from https://21st.dev/r/youcefbnm/process-timeline",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "youcefbnm-process-timeline"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "process-timeline.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@uidotdev/usehooks",
+    "class-variance-authority",
+    "motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/youcefbnm/process-timeline",
+    "fetchedAt": "2026-04-23T03:04:55.834Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

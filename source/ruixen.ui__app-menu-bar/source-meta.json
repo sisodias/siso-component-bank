@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__app-menu-bar",
+  "author": "ruixen.ui",
+  "slug": "app-menu-bar",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/app-menu-bar",
+  "fetchedAt": "2026-08-29T06:39:00.598Z",
+  "completedAt": "2026-08-29T06:39:02.854Z",
+  "versionedFilename": "code.1760588175494.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/app-menu-bar/code.1760588175494.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/app-menu-bar/code.1760588175494.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4203,
+  "sha256": "e5c19e660eed4d25e48628cc7689e836d54a9668b1354315ed6c0eac1bfe9e78",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

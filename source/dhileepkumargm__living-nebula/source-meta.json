@@ -1,0 +1,26 @@
+{
+  "id": "dhileepkumargm__living-nebula",
+  "author": "dhileepkumargm",
+  "slug": "living-nebula",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dhileepkumargm/components/living-nebula",
+  "fetchedAt": "2026-08-29T04:30:56.736Z",
+  "completedAt": "2026-08-29T04:31:03.166Z",
+  "versionedFilename": "code.1756053855268.tsx",
+  "codeReference": "r2://components-code-private/dhileepkumargm/living-nebula/code.1756053855268.tsx",
+  "codeUrl": "https://cdn.21st.dev/dhileepkumargm/living-nebula/code.1756053855268.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5223,
+  "sha256": "3d95352533ec9d1d1b0db2f2ac08e7167e07fb5cba2d1607c6a82c0b88a943ab",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

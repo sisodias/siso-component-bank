@@ -1,0 +1,33 @@
+{
+  "category": [
+    "form"
+  ],
+  "subcategory": "authentication-signup",
+  "visual_style": [
+    "glass-morphism",
+    "gradient",
+    "dark"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "User registration for web applications requiring email and password authentication",
+    "Account creation flows with inline validation feedback",
+    "Full-screen signup overlays for SaaS onboarding",
+    "Secure login forms with visual feedback on submission",
+    "Newsletter or membership signup with credential storage"
+  ],
+  "ai_summary": "A full-screen signup form component featuring email and password input fields with client-side validation, displaying error messages for invalid entries. The design employs glass-morphism styling with backdrop blur effects, linear gradients creating a dark atmospheric background with semi-transparent overlays, and includes a decorative sunburst icon element. Built as a self-contained form with submission handling and reset functionality.",
+  "_classifiedAt": "2026-04-23T17:07:57.170Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

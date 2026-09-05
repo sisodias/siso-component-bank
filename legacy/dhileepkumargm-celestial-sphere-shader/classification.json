@@ -1,0 +1,35 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "3D WebGL celestial sphere with animated nebula shader",
+  "visual_style": [
+    "gradient",
+    "3d",
+    "colorful"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Hero section background with animated cosmic visualization",
+    "Landing page ambient visual effect for space or tech products",
+    "Interactive art installation or digital experience backdrop",
+    "Background element for creative portfolio or media websites",
+    "Atmospheric visual for gaming or entertainment platforms"
+  ],
+  "ai_summary": "A dynamic Three.js WebGL celestial sphere component rendering an animated nebula effect using custom GLSL fragment shaders with FBM noise. Features configurable primary and secondary nebula colors, cloud density control, glow intensity, and rotation speed. Creates an immersive cosmic atmosphere through Fresnel rim glow and layered noise-based cloud generation, suitable as a visually striking background or hero element.",
+  "_classifiedAt": "2026-04-23T01:38:33.287Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

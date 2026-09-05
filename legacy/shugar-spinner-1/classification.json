@@ -1,0 +1,31 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading-spinner",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Indicating loading state during data fetching operations",
+    "Providing feedback during form submissions",
+    "Showing progress during async API calls",
+    "Enhancing button states during action processing",
+    "Displaying page or section transition states"
+  ],
+  "ai_summary": "A lightweight, customizable circular loading spinner component featuring 12 animated bars arranged radially. The component uses CSS animations for a smooth, continuous rotation effect and accepts size and color props for easy theming. It's a universal feedback component suitable for any industry or platform requiring loading state indication, from SaaS dashboards to e-commerce checkout flows.",
+  "_classifiedAt": "2026-04-23T17:31:31.251Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "range-selector",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Selecting price ranges in e-commerce filtering interfaces",
+    "Adjusting volume, brightness, or other continuous settings in settings panels",
+    "Setting numerical values in forms like budget limits or time durations",
+    "Filtering data ranges in analytics dashboards",
+    "Configuring sensitivity settings in developer tools"
+  ],
+  "ai_summary": "A versatile range slider component built on Base UI that supports both horizontal and vertical orientations with touch and drag interactions. Features clean flat styling with proper accessibility support, making it suitable for forms, settings panels, and data filtering interfaces across web applications.",
+  "_classifiedAt": "2026-04-22T08:54:44.614Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

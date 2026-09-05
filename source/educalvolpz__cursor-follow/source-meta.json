@@ -1,0 +1,26 @@
+{
+  "id": "educalvolpz__cursor-follow",
+  "author": "educalvolpz",
+  "slug": "cursor-follow",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@educalvolpz/components/cursor-follow",
+  "fetchedAt": "2026-08-29T04:40:33.536Z",
+  "completedAt": "2026-08-29T04:40:35.949Z",
+  "versionedFilename": "code.1753165363077.tsx",
+  "codeReference": "r2://components-code-private/educlopez/cursor-follow/code.1753165363077.tsx",
+  "codeUrl": "https://cdn.21st.dev/educlopez/cursor-follow/code.1753165363077.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5422,
+  "sha256": "b4ca21e242dc6c5a48fc3f5a26d6457f46e5ec53b87dfb48592d901a903b3a7e",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,32 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "avatar-display",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "healthcare",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display user profile avatars in health monitoring dashboards and stat cards",
+    "Show patient or user profile pictures in healthcare management interfaces",
+    "Provide user identification avatars with automatic fallback for missing images",
+    "Support user representation across various medical and wellness applications"
+  ],
+  "ai_summary": "Radix UI-based Avatar component with image, fallback, and circular styling capabilities. Designed for integration into health stat card interfaces, providing consistent user profile picture display with graceful degradation when images are unavailable. Minimal styling approach using Tailwind CSS for easy customization in healthcare and wellness applications.",
+  "_classifiedAt": "2026-04-22T09:11:20.905Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

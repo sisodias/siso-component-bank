@@ -1,0 +1,25 @@
+{
+  "category": "other",
+  "subcategory": "glow-effect",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Add visual glow effects to section backgrounds for emphasis",
+    "Create brand-colored radial gradients for hero or card sections",
+    "Provide decorative lighting effects behind content",
+    "Add atmospheric depth to landing page sections",
+    "Enhance UI with subtle ambient lighting effects"
+  ],
+  "ai_summary": "The Glow component by Mikolajdobrucki is a lightweight decorative utility that renders positioned radial gradient effects using CSS custom properties for brand colors. It supports five position variants (top, above, bottom, below, center) and uses responsive height scaling. The component creates layered ellipses with varying opacity to achieve a soft ambient glow effect suitable for hero sections, cards, or background accents in modern SaaS interfaces.",
+  "_classifiedAt": "2026-04-23T16:57:41.111Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "people-list",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying user avatars in a messaging interface or contact list",
+    "Creating contact lists with profile pictures in chat applications",
+    "Building user profile display components with fallback initials",
+    "Implementing message recipient selection or conversation lists",
+    "Adding avatar components to social or collaboration platform UIs"
+  ],
+  "ai_summary": "A set of reusable Avatar components built on Radix UI primitives for displaying user profile images with automatic fallback to initials when images fail to load. Provides Avatar, AvatarImage, and AvatarFallback subcomponents with customizable styling through Tailwind CSS. Suitable for building messaging interfaces, contact lists, and user profile displays in various applications.",
+  "_classifiedAt": "2026-04-22T09:08:19.455Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

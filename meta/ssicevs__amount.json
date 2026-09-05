@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ssicevs/components/amount",
+  "author": "ssicevs",
+  "slug": "amount",
+  "name": "amount",
+  "description": "Money-formatting suite: Fiat, Crypto and Percent amount components that agree on symbol placement, precision, K/M/B/T abbreviation and sign coloring. Tabular numerals, light and dark via shadcn theme tokens.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ssicevs/amount?api_key=$API_KEY_21ST\"",
+  "id": "ssicevs__amount",
+  "bundleUrl": "https://cdn.21st.dev/ssicevs/amount/default/bundle.1785446097239-12eb379e-378d-4b79-8670-c766b122ae52.html",
+  "previewUrl": "https://cdn.21st.dev/ssicevs/amount/default/preview.1785446097239-12eb379e-378d-4b79-8670-c766b122ae52.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

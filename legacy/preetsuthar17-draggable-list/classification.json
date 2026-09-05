@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "draggable-list-reorder",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "drag",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Reordering tasks in a project management to-do list",
+    "Organizing playlist items in a media application",
+    "Sorting data table rows by drag-and-drop",
+    "Managing navigation menu item order",
+    "Reordering form fields or survey questions"
+  ],
+  "ai_summary": "A draggable list component that enables users to reorder items through intuitive drag-and-drop interactions with smooth Framer Motion animations. Built with React hooks for state management, supporting custom item rendering and change callbacks for seamless integration into task managers, playlists, or any ordered list interface.",
+  "_classifiedAt": "2026-04-23T17:07:37.806Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

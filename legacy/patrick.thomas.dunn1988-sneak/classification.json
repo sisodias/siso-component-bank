@@ -1,0 +1,29 @@
+{
+  "category": "media",
+  "subcategory": "3d-text-reveal",
+  "visual_style": [],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Animated 3D text reveal for hero sections and landing pages",
+    "Brand name presentations with a 'sneaking' entrance effect",
+    "Creative typography showcase for portfolios and agencies",
+    "Dark/light theme-aware text animations for modern web apps",
+    "Cinematic intro sequences for digital products"
+  ],
+  "ai_summary": "A Three.js-powered 3D text animation component that renders animated text with a 'sneak' reveal effect. Features automatic dark/light theme detection for SVG text textures, orthographic camera setup for clean 2D-style 3D rendering, and WebGL antialiasing for smooth visuals. Designed for hero sections, brand reveals, and creative presentations where text needs to animate in with a distinctive sneaking/morphing effect.",
+  "_classifiedAt": "2026-04-23T17:06:25.589Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

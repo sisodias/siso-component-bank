@@ -1,0 +1,26 @@
+{
+  "id": "moazamtrade__3d-orbit-gallery",
+  "author": "moazamtrade",
+  "slug": "3d-orbit-gallery",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@moazamtrade/components/3d-orbit-gallery",
+  "fetchedAt": "2026-08-29T05:46:28.916Z",
+  "completedAt": "2026-08-29T05:46:31.498Z",
+  "versionedFilename": "code.1759011846744.tsx",
+  "codeReference": "r2://components-code-private/moazamtrade/3d-orbit-gallery/code.1759011846744.tsx",
+  "codeUrl": "https://cdn.21st.dev/moazamtrade/3d-orbit-gallery/code.1759011846744.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7977,
+  "sha256": "75b12ebc6286eef33c09fc63c8f1feb524e3ed7178a9aca29b1cbfdb5557b633",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

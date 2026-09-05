@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@jolbol1/components/button",
+  "author": "jolbol1",
+  "slug": "button",
+  "name": "button",
+  "description": "A button allows a user to perform an action, with mouse, touch, and keyboard interactions.\n\nOn the surface, building a custom styled button seems simple. However, there are many cross browser inconsistencies in interactions and accessibility features to consider. Button handles all of these interactions for you, so you can focus on the styling.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/jolbol1/button?api_key=$API_KEY_21ST\"",
+  "id": "jolbol1__button",
+  "bundleUrl": "https://cdn.21st.dev/bundled/815.html",
+  "previewUrl": "https://cdn.21st.dev/user_jolbol1/button.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 279,
+  "demo_id": 815,
+  "video_url": null
+}

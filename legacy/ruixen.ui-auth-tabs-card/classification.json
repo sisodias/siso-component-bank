@@ -1,0 +1,37 @@
+{
+  "category": [
+    "form",
+    "card"
+  ],
+  "subcategory": "authentication-with-tabs",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "User sign-in and sign-up authentication flows",
+    "Social login options via Google, GitHub, and LinkedIn",
+    "Toggle between sign-in and sign-up modes within a single card",
+    "Email and password credential input for traditional auth",
+    "Dark mode supported authentication interface"
+  ],
+  "ai_summary": "A card-wrapped authentication component featuring tabbed navigation between sign-in and sign-up modes, with integrated social login buttons for Google, GitHub, and LinkedIn, plus standard email/password form fields. Styled with a clean, minimalist aesthetic supporting dark mode, making it suitable for SaaS applications and any platform requiring user authentication.",
+  "_classifiedAt": "2026-04-23T01:49:10.679Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

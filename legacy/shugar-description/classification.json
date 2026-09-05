@@ -1,0 +1,26 @@
+{
+  "category": "data-display",
+  "subcategory": "label-value",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying key-value information pairs in settings or configuration pages",
+    "Showing product feature descriptions with optional contextual tooltips",
+    "Adding documentation to form fields or data entries",
+    "Creating metadata display panels with title-content structure"
+  ],
+  "ai_summary": "A lightweight description component that renders a title with optional tooltip icon and content text. Built with semantic HTML definition list elements, it provides a clean way to display labeled information with contextual help. Supports optional tooltips for supplementary information without cluttering the main layout.",
+  "_classifiedAt": "2026-04-23T17:29:58.570Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

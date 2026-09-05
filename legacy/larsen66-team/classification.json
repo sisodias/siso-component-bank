@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display team member profiles on company about pages",
+    "Show user avatars in comments, reviews, or forum threads",
+    "Render user profile pictures in navigation headers or dashboards",
+    "Display contact avatars in messaging or collaboration apps",
+    "Show speaker or presenter photos in event/conference contexts"
+  ],
+  "ai_summary": "A lightweight, accessible avatar component built on Radix UI primitives for displaying user profile images with graceful fallbacks. Features circular avatars with image support and muted background fallbacks for missing photos. Commonly used in team sections, user profiles, comments, and navigation elements across SaaS, e-commerce, and collaboration platforms.",
+  "_classifiedAt": "2026-04-23T16:50:57.266Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

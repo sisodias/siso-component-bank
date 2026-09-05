@@ -1,0 +1,33 @@
+{
+  "category": "card",
+  "subcategory": "3d-glass-chart-card",
+  "visual_style": [
+    "glass-morphism",
+    "3d",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying analytics data with animated bar charts in a modern glass-morphism card layout",
+    "Creating interactive dashboard widgets with hover-reveal tooltips",
+    "Showcasing statistics or metrics with layered 3D visual effects",
+    "Building modern SaaS product analytics interfaces",
+    "Presenting data in visually engaging card components with gradient overlays"
+  ],
+  "ai_summary": "A layered 3D glass-morphism card component featuring animated bar charts, gradient overlays, and interactive hover tooltip panels. The composite card structure includes specialized sub-components for body content, titles, descriptions, and visual displays. Supports dark mode with refined border and background styling for modern data visualization interfaces.",
+  "_classifiedAt": "2026-04-22T08:51:27.073Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

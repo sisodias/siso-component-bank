@@ -1,0 +1,31 @@
+{
+  "category": [
+    "pricing"
+  ],
+  "subcategory": "pricing-card-grid",
+  "visual_style": [
+    "gradient",
+    "dark"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying subscription plan options with pricing tiers",
+    "Comparing feature sets across Basic, Startup, and Enterprise plans",
+    "Highlighting the most popular pricing tier with visual badge"
+  ],
+  "ai_summary": "A responsive pricing section component featuring three pricing tiers (Basic, Startup, Enterprise) displayed in a grid layout. The component includes a radial gradient background with indigo tones and gradient text effects for the header. Each pricing card displays the plan name, description, price, and a list of features. The 'most popular' plan is indicated via a prop flag, suitable for SaaS and subscription-based applications requiring plan comparison interfaces.",
+  "_classifiedAt": "2026-04-23T01:42:19.544Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

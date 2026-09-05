@@ -1,0 +1,35 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "image-carousel-thumbnail-gallery",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Displaying a scrollable gallery of image thumbnails with smooth animated transitions",
+    "Showcasing nature or photography portfolios on creative platforms",
+    "Presenting product image carousels in e-commerce product pages",
+    "Creating visual content galleries for media and publishing websites",
+    "Building image browsing interfaces for portfolio or showcase applications"
+  ],
+  "ai_summary": "A Framer Motion-powered thumbnail carousel component that displays a horizontal scrollable gallery of images with smooth animated transitions. Features nature photography from Unsplash with titles for each image. The component uses sophisticated animation techniques including useMotionValue, useSpring, and AnimatePresence for fluid interactions. Designed as a reusable media gallery component suitable for portfolio sites, product carousels, or content showcases across various industries.",
+  "_classifiedAt": "2026-04-22T09:18:36.156Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

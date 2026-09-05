@@ -1,0 +1,32 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "profile-identity",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display user profile information with avatar and bio in SaaS dashboards",
+    "Create animated identity cards for creator profiles and portfolios",
+    "Build social profile sections with customizable social links and theming",
+    "Showcase team member cards with GSAP-powered entrance animations",
+    "Implement user identity displays with dark/light theme support"
+  ],
+  "ai_summary": "An animated profile card component featuring GSAP-powered entrance animations, theme-aware styling with CSS variables for accent colors, and customizable social links. Supports avatar display, identity information, and both plain and accented visual schemes. Built with compound component pattern using Radix UI primitives for accessibility.",
+  "_classifiedAt": "2026-04-22T08:51:11.311Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

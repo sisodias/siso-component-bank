@@ -1,0 +1,33 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "WebGL ray-marched shader animation",
+  "visual_style": [
+    "3d",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "system"
+  ],
+  "use_cases": [
+    "Hero section background with animated glowing lantern visuals",
+    "Splash page or loading screen with GPU-rendered ambient animation",
+    "Creative website decoration using procedural shader graphics",
+    "Landing page visual enhancement with ray-marched 3D effects"
+  ],
+  "ai_summary": "Xordev Lanterns is a WebGL shader component that renders animated floating lantern-like lights using ray marching. The fragment shader accumulates glow by marching through 3D space, producing soft glowing orbs with warm-to-cool color gradients. Time-based animation creates smooth floating motion, making it suitable for hero sections, splash pages, or ambient background visuals in SaaS and media applications.",
+  "_classifiedAt": "2026-04-23T01:55:33.988Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

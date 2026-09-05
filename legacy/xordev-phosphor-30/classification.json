@@ -1,0 +1,33 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "webgl-ray-marched-shader",
+  "visual_style": [
+    "colorful",
+    "3d",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero background with animated 3D visuals",
+    "Fullscreen visual overlay for streaming or media applications",
+    "Creative portfolio showcase with dynamic shader art",
+    "Ambient background effect for dashboard or app loading states",
+    "Branded visual experience for product launches or events"
+  ],
+  "ai_summary": "A WebGL2 fullscreen shader component rendering a dynamic 3D ray-marched visualization with colorful glowing effects. Uses a custom fragment shader with time-based animation, producing cosmic-looking abstract geometry with oscillating color gradients. Includes vertex shader for fullscreen triangle rendering and WebGL utility functions for shader compilation and linking. Responds to resolution and time uniforms for smooth animation across devices.",
+  "_classifiedAt": "2026-04-23T01:55:41.740Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

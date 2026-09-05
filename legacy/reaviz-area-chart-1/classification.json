@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "area-chart",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying time-series data such as revenue, users, or conversions over a time period",
+    "Visualizing stock prices, market trends, or financial metrics in fintech applications",
+    "Tracking website traffic, page views, or engagement metrics for analytics dashboards",
+    "Monitoring application performance metrics like response times or error rates",
+    "Showing sales trends, inventory levels, or customer growth over defined periods"
+  ],
+  "ai_summary": "A Reaviz-based area chart component for visualizing time-series or sequential data with gradient-filled areas, interactive hover tooltips, and smooth animations. Built as a composite data visualization element that integrates axes, gridlines, and gradient styling. Commonly used in SaaS dashboards, fintech applications, and e-commerce analytics to display metrics like revenue trends, user growth, or traffic patterns.",
+  "_classifiedAt": "2026-04-23T17:14:05.275Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

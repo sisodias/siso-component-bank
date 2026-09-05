@@ -1,0 +1,26 @@
+{
+  "id": "sean0205__calendar-1",
+  "author": "sean0205",
+  "slug": "calendar-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sean0205/components/calendar-1",
+  "fetchedAt": "2026-08-29T06:57:08.503Z",
+  "completedAt": "2026-08-29T06:57:10.708Z",
+  "versionedFilename": "code.1753166295525.tsx",
+  "codeReference": "r2://components-code-private/sean0205/calendar-1/code.1753166295525.tsx",
+  "codeUrl": "https://cdn.21st.dev/sean0205/calendar-1/code.1753166295525.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3301,
+  "sha256": "179405773128117c1dd73479efe760710bd814c1535af356a68a6aab7e9e067d",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

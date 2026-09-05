@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@joyco/components/file-dropzone",
+  "author": "joyco",
+  "slug": "file-dropzone",
+  "name": "file-dropzone",
+  "description": "A drag-and-drop file upload area with image preview, file-type and size validation, single or multiple file support, and error handling.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/joyco/file-dropzone?api_key=$API_KEY_21ST\"",
+  "id": "joyco__file-dropzone",
+  "bundleUrl": "https://cdn.21st.dev/joyco/file-dropzone/default/bundle.1783712252441.html",
+  "previewUrl": "https://cdn.21st.dev/joyco/file-dropzone/default/preview.1783712252441.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

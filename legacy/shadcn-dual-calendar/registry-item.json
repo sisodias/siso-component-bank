@@ -1,0 +1,58 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "shadcn-dual-calendar",
+  "type": "registry:ui",
+  "title": "Shadcn Dual Calendar",
+  "description": "Installed from https://21st.dev/r/shadcn/dual-calendar",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "shadcn-dual-calendar"
+  ],
+  "files": [
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "calendar-rac.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "calendar.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "dual-calendar.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@internationalized/date",
+    "@radix-ui/react-icons",
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "lucide-react",
+    "react-aria-components",
+    "react-day-picker"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/shadcn/dual-calendar",
+    "fetchedAt": "2026-04-23T03:04:27.479Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

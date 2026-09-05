@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "textarea",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Text input fields in forms requiring multi-line user input",
+    "Comment sections and message input areas",
+    "Description fields for content creation interfaces",
+    "Feedback forms with text-heavy user responses",
+    "Contact forms and support ticket creation"
+  ],
+  "ai_summary": "A versatile textarea component with multiple size variants (default, sm, lg, xl, fixed) and visual variants (default, destructive, ghost). Features built-in clearable functionality with an X button, custom scrollbar styling, and proper accessibility with focus states. Uses class-variance-authority for variant management and React hooks for state management.",
+  "_classifiedAt": "2026-04-23T17:09:54.891Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

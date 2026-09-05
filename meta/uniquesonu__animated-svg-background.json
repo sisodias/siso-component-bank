@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@uniquesonu/components/animated-svg-background",
+  "author": "uniquesonu",
+  "slug": "animated-svg-background",
+  "name": "animated-svg-background",
+  "description": "This React component generates an animated background using multiple SVG paths with varying colors and animations.  The animation involves a dash offset effect creating the illusion of lines drawing and fading.  It uses the `motion` library for smooth animations and accepts optional props to customize the animation duration.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/uniquesonu/animated-svg-background?api_key=$API_KEY_21ST\"",
+  "id": "uniquesonu__animated-svg-background",
+  "bundleUrl": "https://cdn.21st.dev/uniquesonu/animated-svg-background/default/bundle.1755790980443.html",
+  "previewUrl": "https://cdn.21st.dev/uniquesonu/animated-svg-background/default/preview.1755790980440.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "user_xn1cklas__news-search",
+  "author": "user_xn1cklas",
+  "slug": "news-search",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@user_xn1cklas/components/news-search",
+  "fetchedAt": "2026-08-29T07:52:56.847Z",
+  "completedAt": "2026-08-29T07:52:58.731Z",
+  "versionedFilename": "code.1757008470030.tsx",
+  "codeReference": "r2://components-code-private/larsen66/news-search/code.1757008470030.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/news-search/code.1757008470030.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2996,
+  "sha256": "f39e1e358c9b907f03a92bf89a4c7ca674f93a9564cd4819083d7d7dbc70029e",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,33 @@
+{
+  "id": "flower0wine__multi-select",
+  "author": "flower0wine",
+  "slug": "multi-select",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@flower0wine/components/multi-select",
+  "fetchedAt": "2026-08-29T04:50:53.463Z",
+  "completedAt": "2026-08-29T04:50:54.710Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "page-soft404",
+  "failureClass": "soft-404",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/flower0wine__multi-select/code.tsx",
+    "bytes": 2518,
+    "sha256": "040faf766aa2d52c3290260214d9b72c22812c4921a3e769d7d147ce76455128",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is page-soft404/soft-404."
+  }
+}

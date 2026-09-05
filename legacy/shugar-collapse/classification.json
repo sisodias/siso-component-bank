@@ -1,0 +1,27 @@
+{
+  "category": "data-display",
+  "subcategory": "accordion-collapse",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Collapsible content sections for FAQ pages",
+    "Accordion-style navigation menus with expandable items",
+    "Step-by-step wizards showing one section at a time",
+    "Organizing long-form content into digestible sections",
+    "Collapsible sidebar sections for dashboard interfaces"
+  ],
+  "ai_summary": "A lightweight accordion/collapse component that reveals or hides content on click. Features a smooth arrow rotation animation, configurable size variants (small/large), controlled and uncontrolled modes, and clean borders. Designed for organizing dense content like FAQs, documentation sections, or settings panels with minimal visual noise.",
+  "_classifiedAt": "2026-04-23T17:29:45.693Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

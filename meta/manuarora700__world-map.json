@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@manuarora700/components/world-map",
+  "author": "manuarora700",
+  "slug": "world-map",
+  "name": "world-map",
+  "description": "A world map with animated lines and dots, programatically generated.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/manuarora700/world-map?api_key=$API_KEY_21ST\"",
+  "id": "manuarora700__world-map",
+  "bundleUrl": "https://cdn.21st.dev/bundled/999.html",
+  "previewUrl": "https://cdn.21st.dev/user_aceternity/world-map.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

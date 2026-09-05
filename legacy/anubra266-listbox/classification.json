@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "dropdown-select",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Framework or technology selection in developer tools and project setup forms",
+    "Category or filter selection in e-commerce product browsing",
+    "Country or region selection in registration and checkout forms",
+    "Settings configuration where users pick from predefined options"
+  ],
+  "ai_summary": "An accessible listbox component built on Ark UI that provides a dropdown selection interface with keyboard navigation support, check indicators for selected items, and dark mode compatibility. Designed for forms and settings interfaces requiring selection from a predefined list of options.",
+  "_classifiedAt": "2026-04-22T08:52:03.853Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

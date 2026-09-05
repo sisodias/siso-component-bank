@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "patrick-xin-onboarding-dialog",
+  "type": "registry:ui",
+  "title": "Patrick Xin Onboarding Dialog",
+  "description": "Installed from https://21st.dev/r/patrick-xin/onboarding-dialog",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "patrick-xin-onboarding-dialog"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "onboarding-dialog.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "embla-carousel-react",
+    "motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/patrick-xin/onboarding-dialog",
+    "fetchedAt": "2026-04-22T06:31:56.709Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

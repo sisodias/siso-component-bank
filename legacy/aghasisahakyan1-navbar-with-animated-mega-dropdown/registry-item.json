@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "aghasisahakyan1-navbar-with-animated-mega-dropdown",
+  "type": "registry:ui",
+  "title": "Aghasisahakyan1 Navbar With Animated Mega Dropdown",
+  "description": "Installed from https://21st.dev/r/aghasisahakyan1/navbar-with-animated-mega-dropdown",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "aghasisahakyan1-navbar-with-animated-mega-dropdown"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "navbar-with-animated-mega-dropdown.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/aghasisahakyan1/navbar-with-animated-mega-dropdown",
+    "fetchedAt": "2026-04-23T03:04:54.040Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

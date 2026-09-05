@@ -1,0 +1,33 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "animated-image-tiles",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying image galleries with staggered spring-based entrance animations",
+    "Creating interactive portfolio showcases with hoverable stacked image cards",
+    "Building hero sections with layered image compositions that respond to hover",
+    "Showcasing product images with perspective rotation effects",
+    "Adding dynamic visual interest to landing pages with animated image reveals"
+  ],
+  "ai_summary": "An animated image tiles component that displays three images in a stacked, offset arrangement with spring physics-based entrance animations and hover interactions. Each image rotates and moves into position on load, with individual hover states that subtly adjust rotation and position for an interactive feel. Built with Framer Motion for smooth transitions and ideal for gallery displays, portfolio sections, or hero imagery.",
+  "_classifiedAt": "2026-04-23T01:53:59.541Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

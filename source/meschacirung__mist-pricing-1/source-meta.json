@@ -1,0 +1,26 @@
+{
+  "id": "meschacirung__mist-pricing-1",
+  "author": "meschacirung",
+  "slug": "mist-pricing-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@meschacirung/components/mist-pricing-1",
+  "fetchedAt": "2026-08-29T05:41:38.359Z",
+  "completedAt": "2026-08-29T05:41:40.534Z",
+  "versionedFilename": "code.1784657560888-011bd380-ffe4-47d5-b823-98f05c6154fe.tsx",
+  "codeReference": "r2://components-code-private/meschacirung/mist-pricing-1/code.1784657560888-011bd380-ffe4-47d5-b823-98f05c6154fe.tsx",
+  "codeUrl": "https://cdn.21st.dev/meschacirung/mist-pricing-1/code.1784657560888-011bd380-ffe4-47d5-b823-98f05c6154fe.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

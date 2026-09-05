@@ -1,0 +1,26 @@
+{
+  "id": "phucbm__magnetic",
+  "author": "phucbm",
+  "slug": "magnetic",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@phucbm/components/magnetic",
+  "fetchedAt": "2026-08-29T06:08:46.114Z",
+  "completedAt": "2026-08-29T06:08:48.260Z",
+  "versionedFilename": "code.1762228960172.tsx",
+  "codeReference": "r2://components-code-private/phucbm/magnetic/code.1762228960172.tsx",
+  "codeUrl": "https://cdn.21st.dev/phucbm/magnetic/code.1762228960172.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4373,
+  "sha256": "baebc679cf460736dc326c20a276d4d23b7158c30e9a962e98465a6f2998c760",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

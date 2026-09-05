@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "live-feed-notification",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Displaying real-time notification updates in a notification center",
+    "Live activity feeds for dashboards showing system events",
+    "Auto-scrolling notification streams that users can pause on hover",
+    "Activity monitoring for dev-tools like Sentry, Linear, and Slack integrations",
+    "Real-time payment and transaction alerts for fintech applications"
+  ],
+  "ai_summary": "A live notification feed component featuring auto-scrolling updates that cycle every 1.6 seconds with hover-to-pause functionality. Displays timestamped feed items like payments, issues, and alerts with smooth motion animations. Supports dark mode and includes default examples from common integrations like Stripe, Linear, Slack, and Sentry for immediate demonstration.",
+  "_classifiedAt": "2026-04-23T01:35:18.195Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,38 @@
+{
+  "category": [
+    "form",
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "fintech",
+    "creator-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary action triggers in forms and dashboards",
+    "Navigation actions within web applications",
+    "Interactive controls in UI components like calendars and modals",
+    "Call-to-action buttons in marketing pages",
+    "State-based interactions with disabled and loading states"
+  ],
+  "ai_summary": "A reusable Button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes, built with Radix UI Slot for composition. Features standard hover, focus, and disabled states with subtle shadow effects. Designed for versatile use across SaaS, fintech, and dev-tools applications as a fundamental UI building block.",
+  "_classifiedAt": "2026-04-22T09:16:02.861Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

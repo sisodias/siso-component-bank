@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "lovesickfromthe6ix-calculator",
+  "type": "registry:ui",
+  "title": "Lovesickfromthe6ix Calculator",
+  "description": "Installed from https://21st.dev/r/lovesickfromthe6ix/calculator",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "lovesickfromthe6ix-calculator"
+  ],
+  "files": [
+    {
+      "path": "calculator.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/lovesickfromthe6ix/calculator",
+    "fetchedAt": "2026-04-23T03:04:02.787Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

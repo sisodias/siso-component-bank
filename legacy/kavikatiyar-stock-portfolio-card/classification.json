@@ -1,0 +1,27 @@
+{
+  "category": "card",
+  "subcategory": "financial-portfolio-display",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying individual investor's stock portfolio holdings and performance metrics",
+    "Financial dashboard widget showing portfolio overview with gains and losses",
+    "Tracking investment positions with real-time price changes and news",
+    "Mobile-responsive portfolio summary for on-the-go investors",
+    "Integrating portfolio data with related financial news feed"
+  ],
+  "ai_summary": "A stock portfolio card component that displays individual investor holdings with ticker symbols, share counts, current prices, and gain/loss indicators. Features a clean minimalist design with financial news integration, color-coded performance indicators (green for gains, red for losses), and uses Framer Motion for subtle animations. Suitable for fintech dashboards, investment tracking applications, and personal finance mobile apps.",
+  "_classifiedAt": "2026-04-22T09:02:35.214Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

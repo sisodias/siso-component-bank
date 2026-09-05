@@ -1,0 +1,26 @@
+{
+  "id": "david-greenfieldlp__d60-hero",
+  "author": "david-greenfieldlp",
+  "slug": "d60-hero",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@david-greenfieldlp/components/d60-hero",
+  "fetchedAt": "2026-08-29T04:10:21.361Z",
+  "completedAt": "2026-08-29T04:10:23.595Z",
+  "versionedFilename": "code.1784143291696-cf169a08-10e7-48ce-9643-e8115dcb7eeb.tsx",
+  "codeReference": "r2://components-code-private/david-greenfieldlp/d60-hero/code.1784143291696-cf169a08-10e7-48ce-9643-e8115dcb7eeb.tsx",
+  "codeUrl": "https://cdn.21st.dev/david-greenfieldlp/d60-hero/code.1784143291696-cf169a08-10e7-48ce-9643-e8115dcb7eeb.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

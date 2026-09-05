@@ -1,0 +1,35 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "menu-toggle-animation",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "morph",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Animated hamburger menu toggle button that morphs between open and closed states",
+    "Add visual feedback to navigation menu controls with smooth GSAP transitions",
+    "Enhance mobile-first navigation with text, plus, and circle-based morphing animations",
+    "Replace static menu icons with animated dots-grid or circle-pulse variants"
+  ],
+  "ai_summary": "A collection of interactive menu button animations using GSAP featuring multiple animation types: dots-grid, text-morph (MENU/CLOSE), plus-morph, and circle-pulse effects. These are composite navigation UI components designed as hamburger menu toggles that smoothly morph between states with custom easing curves. Built with React hooks and positioned as reusable overlay/menu trigger controls for modern web interfaces.",
+  "_classifiedAt": "2026-04-23T16:40:10.235Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

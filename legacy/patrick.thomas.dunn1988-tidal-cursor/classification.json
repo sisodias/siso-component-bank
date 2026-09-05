@@ -1,0 +1,30 @@
+{
+  "category": "overlay",
+  "subcategory": "cursor-trail ripple effect",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Adds animated ripple effects following mouse movement across the viewport",
+    "Creates visual feedback on user interaction for enhanced engagement",
+    "Provides adaptive cursor visualization with dark/light mode color variants",
+    "Serves as a decorative overlay to enhance page aesthetics",
+    "Works as a full-screen canvas layer that doesn't interfere with underlying content"
+  ],
+  "ai_summary": "A canvas-based animated cursor overlay that generates expanding ripple circles following mouse movement. The effect adapts colors based on dark/light mode (cyan aqua for dark mode, blue for light mode), with each ripple fading out as it expands. Designed as a decorative full-screen overlay with pointer-events disabled to allow interaction with underlying content.",
+  "_classifiedAt": "2026-04-23T01:45:11.165Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

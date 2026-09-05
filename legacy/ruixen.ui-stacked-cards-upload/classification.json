@@ -1,0 +1,38 @@
+{
+  "category": [
+    "card",
+    "input",
+    "form"
+  ],
+  "subcategory": "stacked-cards-upload",
+  "visual_style": [
+    "minimalist",
+    "flat",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Drag-and-drop file upload with visual card stacking interface",
+    "Multi-file upload preview with stacked card representation",
+    "Media library management with upload functionality",
+    "Document upload for SaaS applications and dashboards",
+    "Creative asset upload for creator tools platforms"
+  ],
+  "ai_summary": "StackedCardsUpload is a React component providing a visually appealing stacked card interface for file uploads. Built with Radix UI and class-variance-authority for consistent button styling, it offers a modern minimalist aesthetic with shadow effects and smooth hover transitions. The component is suitable for SaaS applications, media platforms, and e-commerce sites requiring drag-and-drop or click-to-upload functionality with visual feedback.",
+  "_classifiedAt": "2026-04-23T01:51:36.484Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

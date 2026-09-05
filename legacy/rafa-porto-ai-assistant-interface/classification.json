@@ -1,0 +1,37 @@
+{
+  "category": [
+    "form",
+    "input"
+  ],
+  "subcategory": "ai-conversation-input",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "education",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Users input queries to interact with an AI assistant for answers and explanations",
+    "Toggle research modes (search, deep research, reasoning) to customize AI responses",
+    "Upload documents for AI analysis and context-aware responses",
+    "Select from categorized command suggestions (learn, code, write) for quick prompts",
+    "Engage with a visually animated chat interface on web and mobile platforms"
+  ],
+  "ai_summary": "A comprehensive AI chat input interface featuring a text input field with toggleable research modes (search, deep research, reasoning), file upload capability with animation, and categorized command suggestions for learn, code, and write tasks. Built with framer-motion animations and lucide-react icons for a modern, interactive user experience across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T17:10:31.117Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "uilayout.contact__infinity-brand",
+  "author": "uilayout.contact",
+  "slug": "infinity-brand",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uilayout.contact/components/infinity-brand",
+  "fetchedAt": "2026-08-29T07:44:22.800Z",
+  "completedAt": "2026-08-29T07:44:24.935Z",
+  "versionedFilename": "code.1750164556628.tsx",
+  "codeReference": "r2://components-code-private/larsen66/infinity-brand/code.1750164556628.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/infinity-brand/code.1750164556628.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 21769,
+  "sha256": "0997ae0357696cf156de0a75fa6f5c20982443218fb0c074d9aea2445b044b6e",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

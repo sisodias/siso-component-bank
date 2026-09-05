@@ -1,0 +1,26 @@
+{
+  "id": "quentin.hoarau193__qweqw",
+  "author": "quentin.hoarau193",
+  "slug": "qweqw",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@quentin.hoarau193/components/qweqw",
+  "fetchedAt": "2026-08-29T06:16:54.885Z",
+  "completedAt": "2026-08-29T06:16:56.775Z",
+  "versionedFilename": "code.1786315812136-e8b21bb9-c22c-4343-934b-418051d9e7d3.tsx",
+  "codeReference": "r2://components-code-private/quentin.hoarau193/qweqw/code.1786315812136-e8b21bb9-c22c-4343-934b-418051d9e7d3.tsx",
+  "codeUrl": "https://cdn.21st.dev/quentin.hoarau193/qweqw/code.1786315812136-e8b21bb9-c22c-4343-934b-418051d9e7d3.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

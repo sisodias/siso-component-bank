@@ -1,0 +1,30 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "expandable-button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Triggering expandable content sections in UI",
+    "Navigation and action triggers in web applications",
+    "Form submission and confirmation actions",
+    "Generic interactive button with multiple visual variants"
+  ],
+  "ai_summary": "A versatile Radix-based button component with CVA-powered variants for styling (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Supports composition via asChild prop with Slot for rendering flexibility. Includes accessible focus states, hover transitions, and disabled states. Designed for triggering expandable content or general interactive actions across SaaS and web applications.",
+  "_classifiedAt": "2026-04-23T01:49:38.823Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

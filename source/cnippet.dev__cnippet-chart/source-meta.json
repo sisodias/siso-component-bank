@@ -1,0 +1,26 @@
+{
+  "id": "cnippet.dev__cnippet-chart",
+  "author": "cnippet.dev",
+  "slug": "cnippet-chart",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@cnippet.dev/components/cnippet-chart",
+  "fetchedAt": "2026-08-29T03:55:42.749Z",
+  "completedAt": "2026-08-29T03:55:45.140Z",
+  "versionedFilename": "code.1783962689603.tsx",
+  "codeReference": "r2://components-code-private/larsen66/cnippet-chart/code.1783962689603.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/cnippet-chart/code.1783962689603.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 11650,
+  "sha256": "930879e97e150e43bde2a7876ca72d1206b5a00fe52bac3adc77bd3e541e839c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,42 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "select-dropdown",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools",
+    "healthcare",
+    "education",
+    "real-estate",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Form input for selecting options from a predefined list of choices",
+    "Dropdown selection for filtering data in tables or dashboards",
+    "Settings configuration panels where users choose preferences",
+    "E-commerce product filtering by category, size, or price range",
+    "Navigation menu selections in nested hierarchical structures"
+  ],
+  "ai_summary": "A customizable select dropdown component built on Radix UI with support for custom indicators, keyboard navigation, and visual states including focus, disabled, and error validation. Features context-based indicator positioning control and integrates smooth transitions with chevron and check icons for open/selected states. Designed for accessibility with full ARIA support and focus ring styling.",
+  "_classifiedAt": "2026-04-23T17:23:49.006Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

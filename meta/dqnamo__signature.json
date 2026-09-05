@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@dqnamo/components/signature",
+  "author": "dqnamo",
+  "slug": "signature",
+  "name": "signature",
+  "description": "A reusable SVG path component for drawing handwritten marks and signatures. It self-draws any path with a stroke-dashoffset reveal — configurable path, viewBox, size, stroke width, duration, delay, and easing — and respects reduced-motion preferences. Dependency-free; color follows currentColor.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/dqnamo/signature?api_key=$API_KEY_21ST\"",
+  "id": "dqnamo__signature",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/signature/default/bundle.1783004657368.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/signature/default/preview.1783004657368.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

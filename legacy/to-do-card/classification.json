@@ -1,0 +1,28 @@
+{
+  "category": "card",
+  "subcategory": "task-list",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying and managing a list of tasks with completion status in a card interface",
+    "Tracking personal or team productivity goals with real-time date/time display",
+    "Showing celebratory feedback when all tasks are completed with confetti animation",
+    "Resetting a task list to its initial state after completion",
+    "Adding checkbox-style interaction for marking items as done or pending"
+  ],
+  "ai_summary": "A TodoCard component that displays a list of tasks with toggle functionality, real-time date and time display, and a confetti celebration animation when all items are completed. Built with React hooks for state management, it provides a complete task management UI within a single card container, suitable for productivity apps and project tracking interfaces.",
+  "_classifiedAt": "2026-04-22T09:17:55.058Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

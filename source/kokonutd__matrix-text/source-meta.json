@@ -1,0 +1,33 @@
+{
+  "id": "kokonutd__matrix-text",
+  "author": "kokonutd",
+  "slug": "matrix-text",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@kokonutd/components/matrix-text",
+  "fetchedAt": "2026-08-29T05:18:24.901Z",
+  "completedAt": "2026-08-29T05:18:25.951Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/kokonutd__matrix-text/code.tsx",
+    "bytes": 4393,
+    "sha256": "6d8591fdd924d0276427d03d9c95c06701cebbc1cc00241bf23d26178f1e540a",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

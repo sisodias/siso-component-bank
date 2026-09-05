@@ -1,0 +1,31 @@
+{
+  "category": "other",
+  "subcategory": "terminal-emulator-portfolio",
+  "visual_style": [
+    "dark",
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display a developer portfolio as an interactive command-line interface where visitors type commands to learn about skills and projects",
+    "Create an engaging personal landing page with a retro terminal aesthetic",
+    "Serve as a creative resume format for technical professionals showcasing their work history and expertise",
+    "Provide a unique navigation experience for portfolio websites that differentiates from traditional scrolling layouts"
+  ],
+  "ai_summary": "Interactive terminal-style portfolio component that simulates a command-line interface for showcasing developer profiles. Users type commands like help, about, projects, skills, and contact to reveal portfolio information. Features ASCII art displays, command history navigation with arrow keys, and a dark-themed terminal aesthetic. Ideal for developer portfolios, technical resumes, and creative personal websites looking for an engaging terminal-based experience.",
+  "_classifiedAt": "2026-04-23T11:28:12.032Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

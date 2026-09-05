@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary action triggers in forms and interfaces",
+    "Navigation actions with different visual weight variants",
+    "Icon-only buttons for compact UI toolbar actions"
+  ],
+  "ai_summary": "A shadcn-inspired atomic Button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes. Built with Radix UI Slot for composition and class-variance-authority for type-safe styling. Uses standard ring-based focus states and disabled opacity, following minimalist flat design patterns suitable for SaaS dashboards and dev tools interfaces.",
+  "_classifiedAt": "2026-04-23T16:50:43.099Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

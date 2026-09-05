@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "bg.ibelick-background-snippets",
+  "type": "registry:ui",
+  "title": "Bg.Ibelick Background Snippets",
+  "description": "Installed from https://21st.dev/r/bg.ibelick/background-snippets",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "bg.ibelick-background-snippets"
+  ],
+  "files": [
+    {
+      "path": "background-snippets.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/bg.ibelick/background-snippets",
+    "fetchedAt": "2026-04-23T01:18:18.630Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

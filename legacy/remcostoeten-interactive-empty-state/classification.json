@@ -1,0 +1,36 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "Animated empty state with floating icons",
+  "visual_style": [
+    "minimalist",
+    "gradient-border"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Displaying when lists, searches, or tables have no results to show",
+    "Serving as a first-time user onboarding placeholder in dashboards",
+    "Indicating an empty shopping cart or wishlist state",
+    "Showing when folders or file collections contain no items",
+    "Acting as a placeholder for async data loading or error recovery states"
+  ],
+  "ai_summary": "An interactive empty state component featuring three animated floating icons with hover-reactive behaviors including directional movement, scaling, and rotation. Supports dark, neutral, and light themes with entrance animations using Framer Motion. Designed to engage users when content areas are empty, providing visual feedback with a polished, minimal aesthetic.",
+  "_classifiedAt": "2026-04-23T17:15:59.027Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

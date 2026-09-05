@@ -1,0 +1,26 @@
+{
+  "id": "shadcnui-blocks__not-found-04",
+  "author": "shadcnui-blocks",
+  "slug": "not-found-04",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcnui-blocks/components/not-found-04",
+  "fetchedAt": "2026-08-29T07:15:01.699Z",
+  "completedAt": "2026-08-29T07:15:03.694Z",
+  "versionedFilename": "code.1785099212513-81d53280-7ef3-4a57-a6d6-11dc0b7538ae.tsx",
+  "codeReference": "r2://components-code-private/shadcnui-blocks/not-found-04/code.1785099212513-81d53280-7ef3-4a57-a6d6-11dc0b7538ae.tsx",
+  "codeUrl": "https://cdn.21st.dev/shadcnui-blocks/not-found-04/code.1785099212513-81d53280-7ef3-4a57-a6d6-11dc0b7538ae.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

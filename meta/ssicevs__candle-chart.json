@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ssicevs/components/candle-chart",
+  "author": "ssicevs",
+  "slug": "candle-chart",
+  "name": "candle-chart",
+  "description": "Trading terminal price panel: OHLC candles with a volume strip, a crosshair that reads the exact bar into the header, and a gliding-thumb timeframe switch. Light and dark via shadcn theme tokens.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ssicevs/candle-chart?api_key=$API_KEY_21ST\"",
+  "id": "ssicevs__candle-chart",
+  "bundleUrl": "https://cdn.21st.dev/ssicevs/candle-chart/default/bundle.1786799129057-2dfd925e-ac6c-4736-96ea-91d0cd5b0f86.html",
+  "previewUrl": "https://cdn.21st.dev/ssicevs/candle-chart/default/preview.1786799129057-2dfd925e-ac6c-4736-96ea-91d0cd5b0f86.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

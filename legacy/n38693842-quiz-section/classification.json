@@ -1,0 +1,28 @@
+{
+  "category": "feedback",
+  "subcategory": "interactive-quiz",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "education",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive knowledge assessments for educational platforms and online courses",
+    "Product onboarding quizzes to test user understanding of features",
+    "Training module assessments with real-time feedback on answers",
+    "Gamified learning experiences with star ratings and trophy rewards",
+    "Workplace compliance training with progress tracking indicators"
+  ],
+  "ai_summary": "An interactive quiz component with state management for tracking user answers and displaying real-time visual feedback. Features correct/incorrect answer indicators (check circles and X circles), a completion trophy, and star rating system. Built with Tailwind CSS for clean, flat visual styling, managing quiz flow through React useState hooks for an engaging assessment experience.",
+  "_classifiedAt": "2026-04-23T01:44:35.425Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

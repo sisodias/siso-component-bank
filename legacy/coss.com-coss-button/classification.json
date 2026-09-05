@@ -1,0 +1,37 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "action-button",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Primary action trigger in forms and application interfaces with multiple visual variants",
+    "Icon-only buttons for compact toolbar and navigation contexts",
+    "Destructive action confirmation with distinct warning styling",
+    "Loading state presentation with integrated spinner animation",
+    "Responsive button sizing across mobile and desktop breakpoints"
+  ],
+  "ai_summary": "A versatile button component built on Radix UI Slot with CVA-driven variant system supporting multiple visual styles, sizes, and states. Features responsive design with mobile/desktop variants, built-in focus ring accessibility, loading spinner integration via Lucide icons, and disabled state handling. Includes default, destructive, and outline variants with icon size accommodations and rounded-lg aesthetic.",
+  "_classifiedAt": "2026-04-22T08:54:32.845Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

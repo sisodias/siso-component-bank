@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "m.umairwaheedansari-image-cursor-trail",
+  "type": "registry:ui",
+  "title": "M.Umairwaheedansari Image Cursor Trail",
+  "description": "Installed from https://21st.dev/r/m.umairwaheedansari/image-cursor-trail",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "m.umairwaheedansari-image-cursor-trail"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "image-cursor-trail.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/m.umairwaheedansari/image-cursor-trail",
+    "fetchedAt": "2026-04-23T02:28:33.144Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

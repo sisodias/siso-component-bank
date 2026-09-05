@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@cnippet.dev/components/text-morph",
+  "author": "cnippet.dev",
+  "slug": "text-morph",
+  "name": "text-morph",
+  "description": "Shared-layout character morphing between two strings — individual letters animate to their new positions with spring physics.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/cnippet.dev/text-morph?api_key=$API_KEY_21ST\"",
+  "id": "cnippet.dev__text-morph",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/text-morph/default/bundle.1784051121489.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/text-morph/default/preview.1784051121489.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

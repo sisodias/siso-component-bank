@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ddoemonn/components/tooltip-group",
+  "author": "ddoemonn",
+  "slug": "tooltip-group",
+  "name": "tooltip-group",
+  "description": "A shared-delay tooltip group where the first tooltip waits before opening and every neighbour after it appears instantly, with a single label that morphs and glides between triggers.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ddoemonn/tooltip-group?api_key=$API_KEY_21ST\"",
+  "id": "ddoemonn__tooltip-group",
+  "bundleUrl": "https://cdn.21st.dev/ddoemonn/tooltip-group/default/bundle.1785481040512-2fe35d72-a275-445c-b949-36550b9d611d.html",
+  "previewUrl": "https://cdn.21st.dev/ddoemonn/tooltip-group/default/preview.1785481040512-2fe35d72-a275-445c-b949-36550b9d611d.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

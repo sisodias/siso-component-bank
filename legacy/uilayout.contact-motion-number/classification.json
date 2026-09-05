@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "counter-stepper",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying and adjusting numeric values with increment/decrement controls",
+    "Quantity selector for e-commerce product pages or shopping carts",
+    "Simple numeric input interface for forms requiring stepper-style input",
+    "Counter for tracking simple metrics or statistics",
+    "Basic numeric input for settings panels or configuration interfaces"
+  ],
+  "ai_summary": "A minimalist atomic counter component with increment and decrement buttons for manipulating numeric values. Features React useState for simple local state management, displaying the current count in a clean centered layout. Uses flat visual styling with basic Tailwind classes for a lightweight, dependency-free implementation suitable for any platform.",
+  "_classifiedAt": "2026-04-23T17:38:07.275Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

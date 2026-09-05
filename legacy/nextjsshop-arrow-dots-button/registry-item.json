@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "nextjsshop-arrow-dots-button",
+  "type": "registry:ui",
+  "title": "Nextjsshop Arrow Dots Button",
+  "description": "Installed from https://21st.dev/r/nextjsshop/arrow-dots-button",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "nextjsshop-arrow-dots-button"
+  ],
+  "files": [
+    {
+      "path": "arrow-dots-button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/nextjsshop/arrow-dots-button",
+    "fetchedAt": "2026-04-23T01:18:20.202Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

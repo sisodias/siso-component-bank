@@ -1,0 +1,36 @@
+{
+  "category": [
+    "pricing"
+  ],
+  "subcategory": "pricing-card-with-features",
+  "visual_style": [
+    "gradient",
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display subscription pricing tiers with feature lists for SaaS products",
+    "Show multiple pricing plans side-by-side for comparison",
+    "Present feature highlights with call-to-action buttons",
+    "Enable users to select pricing plans with visual hierarchy",
+    "Show pricing value propositions with organized feature categories"
+  ],
+  "ai_summary": "A pricing card component designed for displaying subscription tiers and feature comparisons. Typically includes plan names, pricing amounts, feature lists with checkmarks, and CTA buttons. Built with Tailwind CSS, Radix UI, and class-variance-authority for consistent styling. Supports hover interactions and likely includes multiple plan variations. Commonly used in SaaS landing pages and product sites to present pricing options with clear value differentiation.",
+  "_classifiedAt": "2026-04-22T08:59:08.929Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

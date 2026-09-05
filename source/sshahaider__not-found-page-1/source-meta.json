@@ -1,0 +1,26 @@
+{
+  "id": "sshahaider__not-found-page-1",
+  "author": "sshahaider",
+  "slug": "not-found-page-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sshahaider/components/not-found-page-1",
+  "fetchedAt": "2026-08-29T07:27:01.098Z",
+  "completedAt": "2026-08-29T07:27:03.370Z",
+  "versionedFilename": "code.1760383367320.tsx",
+  "codeReference": "r2://components-code-private/sshahaider/not-found-page-1/code.1760383367320.tsx",
+  "codeUrl": "https://cdn.21st.dev/sshahaider/not-found-page-1/code.1760383367320.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1407,
+  "sha256": "38e65089cc7cddc31546ceddd3c5b2d78d37db8a1af2725004c54890469aab32",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

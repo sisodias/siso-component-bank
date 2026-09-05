@@ -1,0 +1,26 @@
+{
+  "id": "paper-design__fluted-glass",
+  "author": "paper-design",
+  "slug": "fluted-glass",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@paper-design/components/fluted-glass",
+  "fetchedAt": "2026-08-29T06:03:21.886Z",
+  "completedAt": "2026-08-29T06:03:24.086Z",
+  "versionedFilename": "code.1784835542106-5c53f8f2-2578-40e9-af3c-389e92f139d5.tsx",
+  "codeReference": "r2://components-code-private/paper-design/fluted-glass/code.1784835542106-5c53f8f2-2578-40e9-af3c-389e92f139d5.tsx",
+  "codeUrl": "https://cdn.21st.dev/paper-design/fluted-glass/code.1784835542106-5c53f8f2-2578-40e9-af3c-389e92f139d5.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

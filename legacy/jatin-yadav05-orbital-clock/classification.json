@@ -1,0 +1,35 @@
+{
+  "category": "data-display",
+  "subcategory": "animated-clock-timepiece",
+  "visual_style": [
+    "gradient",
+    "minimalist",
+    "dark"
+  ],
+  "interactions": [
+    "hover-glow",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying real-time clock in dashboard or landing page headers",
+    "Adding interactive time display to productivity and task management apps",
+    "Creating decorative time elements for creative portfolios and portfolios",
+    "Implementing orbital-themed clock widgets in SaaS applications",
+    "Showing live time with smooth second hand animation in media sites"
+  ],
+  "ai_summary": "An elegant orbital clock component featuring smooth real-time animation with a three-hand clock face displaying hours, minutes, and seconds. The component includes interactive mouse-tracking parallax effects, supports both light and dark themes via CSS custom properties, and displays the current date. Built with React hooks for efficient time updates every 50ms, it offers a sophisticated blue-accented design with orbital hour markers suitable for modern web applications.",
+  "_classifiedAt": "2026-04-22T09:00:58.038Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

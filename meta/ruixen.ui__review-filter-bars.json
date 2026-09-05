@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/review-filter-bars",
+  "author": "ruixen.ui",
+  "slug": "review-filter-bars",
+  "name": "review-filter-bars",
+  "description": "This Review Filter Bars component offers a clear and interactive way to filter reviews by rating. Instead of simple text or star lists, each option is displayed as a horizontal bar that combines a star rating, a progress bar showing the proportion of reviews, and the total count for that rating. This makes it easy for users to quickly gauge distribution and choose the category they care about. The active selection is highlighted with accent styling and a glowing green dot for instant feedback, while hover states add interactivity. This design is especially effective on e-commerce sites, SaaS dashboards, or product review pages, where presenting both the numbers and their visual weight helps users make informed filtering decisions.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/review-filter-bars?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__review-filter-bars",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/review-filter-bars/default/bundle.1758995495392.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/review-filter-bars/default/preview.1758995495392.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 15,
+  "demo_id": 8243,
+  "video_url": "https://cdn.21st.dev/user_2y5Wd5l713ZIFYjX19aZXSyXd6b/review-filter-bars/default/video.1786632951234.mp4"
+}

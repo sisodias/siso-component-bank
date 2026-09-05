@@ -1,0 +1,26 @@
+{
+  "category": "media",
+  "subcategory": "image-loader",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying a grid-based loading animation while images load in web applications",
+    "Creating visually engaging image placeholder transitions for media-heavy platforms",
+    "Adding polished loading states to image galleries in SaaS and e-commerce applications"
+  ],
+  "ai_summary": "A grid-based image loader component that displays animated cells (circles or squares) during the loading state, then transitions to reveal the loaded image with fade effects. Features configurable grid size, cell shapes, colors, blink speeds, and transition durations. Ideal for enhancing user experience during image loading in media, e-commerce, and SaaS platforms.",
+  "_classifiedAt": "2026-04-22T09:18:36.772Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

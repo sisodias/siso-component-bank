@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "daiwiikharihar17147-kinetic-team-hybrid",
+  "type": "registry:ui",
+  "title": "Daiwiikharihar17147 Kinetic Team Hybrid",
+  "description": "Installed from https://21st.dev/r/daiwiikharihar17147/kinetic-team-hybrid",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "daiwiikharihar17147-kinetic-team-hybrid"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "kinetic-team-hybrid.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "lucide-react",
+    "next"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/daiwiikharihar17147/kinetic-team-hybrid",
+    "fetchedAt": "2026-04-22T06:32:22.399Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

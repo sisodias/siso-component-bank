@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ruhith369-loader-progressive-bar",
+  "type": "registry:ui",
+  "title": "Ruhith369 Loader Progressive Bar",
+  "description": "Installed from https://21st.dev/r/ruhith369/loader-progressive-bar",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ruhith369-loader-progressive-bar"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "loader-progressive-bar.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "syntax error in source (malformed content from registry)"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ruhith369/loader-progressive-bar",
+    "fetchedAt": "2026-04-22T06:45:03.776Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

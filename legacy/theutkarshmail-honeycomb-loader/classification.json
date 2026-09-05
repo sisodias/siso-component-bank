@@ -1,0 +1,26 @@
+{
+  "category": "feedback",
+  "subcategory": "honeycomb-loading-animation",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display loading state during data fetching operations",
+    "Show progress during async content loading",
+    "Indicate processing during form submissions",
+    "Provide visual feedback during page transitions",
+    "Enhance user experience during API call waits"
+  ],
+  "ai_summary": "A honeycomb-patterned loading animation component featuring a geometric hex-grid design. This atomic feedback element displays a visually engaging loading indicator that can be used during data fetching, page transitions, or any async operation. The clean flat design makes it suitable for various interface contexts while maintaining visual interest through its honeycomb arrangement.",
+  "_classifiedAt": "2026-04-23T17:35:44.178Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "prebuiltui__pricing-cards",
+  "author": "prebuiltui",
+  "slug": "pricing-cards",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@prebuiltui/components/pricing-cards",
+  "fetchedAt": "2026-08-29T06:11:31.715Z",
+  "completedAt": "2026-08-29T06:11:33.700Z",
+  "versionedFilename": "code.1757656709228.tsx",
+  "codeReference": "r2://components-code-private/larsen66/pricing-cards/code.1757656709228.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/pricing-cards/code.1757656709228.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10183,
+  "sha256": "8f9a4330ed82ef8124dfab4e82b196dbc2ee7a9186a54147d0540028a7a02023",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

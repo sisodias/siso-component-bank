@@ -1,0 +1,26 @@
+{
+  "id": "coss.com__input-otp",
+  "author": "coss.com",
+  "slug": "input-otp",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@coss.com/components/input-otp",
+  "fetchedAt": "2026-08-29T04:02:31.961Z",
+  "completedAt": "2026-08-29T04:02:34.154Z",
+  "versionedFilename": "code.1774442590421.tsx",
+  "codeReference": "r2://components-code-private/coss.com/input-otp/code.1774442590421.tsx",
+  "codeUrl": "https://cdn.21st.dev/coss.com/input-otp/code.1774442590421.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3346,
+  "sha256": "c292249455cb2ab074c62d8f4569ac0d91dbe314b17b3983bdb8ab2068fd57b4",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

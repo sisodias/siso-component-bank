@@ -1,0 +1,33 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading-animation",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Display dynamic loading status with animated text transitions",
+    "Show assembly or processing feedback during async operations",
+    "Engage users with kinetic typography during wait times",
+    "Provide status indication for content loading or data fetching",
+    "Add visual interest to loading screens in web applications"
+  ],
+  "ai_summary": "A kinetic typography loading animation that cycles through words like 'LOADING', 'ASSEMBLING', and 'FINALIZING'. Characters fly in from random 3D positions and exit to new random coordinates, creating an engaging dynamic effect using CSS keyframe animations with translate3d and rotateX/rotateY transforms. Ideal for SaaS dashboards, media sites, or any application needing polished loading feedback.",
+  "_classifiedAt": "2026-04-23T16:34:42.654Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

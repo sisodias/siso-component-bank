@@ -1,0 +1,30 @@
+{
+  "category": "overlay",
+  "subcategory": "help-trigger-button",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Provides a persistent help trigger button for SaaS applications to access documentation or support overlays",
+    "Functions as a reusable action button with multiple variants for primary, secondary, and ghost styling",
+    "Enables keyboard-accessible help interactions with built-in focus-visible outlines",
+    "Serves as an icon button for compact UI placement in toolbars or floating positions",
+    "Composes with child elements via Radix Slot for flexible content rendering in help triggers"
+  ],
+  "ai_summary": "A Radix UI-powered button component with class-variance-authority variants designed as a help trigger button for overlay systems. Features multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes, with built-in focus states, hover effects, and disabled handling. Uses composition pattern via Slot for flexible rendering of child elements, making it ideal for triggering help modals, tooltips, or documentation overlays in web applications.",
+  "_classifiedAt": "2026-04-23T16:52:04.602Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

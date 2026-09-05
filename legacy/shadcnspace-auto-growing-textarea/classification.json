@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "auto-growing-textarea",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "User feedback collection with dynamic height adjustment as content grows",
+    "Comment or message composition that expands automatically with user input",
+    "Description fields in forms that adjust height based on content length",
+    "Contact forms where users can write varying lengths of text without scrolling"
+  ],
+  "ai_summary": "A shadcnspace auto-growing textarea component that dynamically adjusts its height based on content using CSS field-sizing-content. This minimalist input component from 21st.dev provides a clean user experience for feedback forms, comments, and message composition by eliminating the need for manual resize handles or scroll containers.",
+  "_classifiedAt": "2026-04-22T09:14:36.535Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

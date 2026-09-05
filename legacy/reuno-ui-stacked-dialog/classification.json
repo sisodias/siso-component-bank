@@ -1,0 +1,36 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying user profile pictures in navigation headers and user menus",
+    "Showing author avatars in comments, forums, and social feeds",
+    "Representing users in data tables, lists, and card layouts",
+    "Providing fallback initials when user images fail to load",
+    "Creating consistent avatar styling across an application"
+  ],
+  "ai_summary": "A Radix UI-based Avatar component providing accessible user profile picture display with built-in image loading, fallback initials support, and customizable styling through Tailwind CSS. Features rounded profile images with automatic fallback to background-colored initials, ideal for user identification across dashboards, comments, and social interfaces.",
+  "_classifiedAt": "2026-04-23T17:16:50.726Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

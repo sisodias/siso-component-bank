@@ -1,0 +1,38 @@
+{
+  "category": "input",
+  "subcategory": "theme-toggle-switch",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Dark/light mode toggle with smooth directional wipe transition animation",
+    "Interactive theme switching control using View Transitions API",
+    "Visual feedback component for theme state changes with clip-path animation"
+  ],
+  "ai_summary": "A vertical theme wipe toggle component that switches between dark and light modes with a smooth directional clip-path animation. Uses Framer Motion for animations, View Transitions API for performant theme transitions, and MutationObserver to sync with document theme state. The wipe effect can animate from top-to-bottom or bottom-to-top for a visually distinctive theme switching experience.",
+  "_classifiedAt": "2026-04-22T08:52:39.308Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:32:06.107Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

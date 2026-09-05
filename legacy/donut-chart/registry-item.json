@@ -1,0 +1,45 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "donut-chart",
+  "type": "registry:ui",
+  "title": "DonutChart",
+  "description": "Animated SVG donut chart with staggered segment animations, hover highlighting with drop-shadow, and configurable center content",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "chart",
+    "donut",
+    "svg",
+    "animation",
+    "data-visualization",
+    "hover"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "donut-chart.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "card",
+    "framer-motion",
+    "lucide-react"
+  ],
+  "registryDependencies": [
+    "card",
+    "donut-chart"
+  ],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "curationTags": []
+  }
+}

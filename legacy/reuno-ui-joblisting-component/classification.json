@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "job-listings-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying job listings on a company careers page",
+    "Building a job board or recruitment platform",
+    "Creating a searchable job search interface",
+    "Showing job recommendations in a dashboard",
+    "Building a talent acquisition management system"
+  ],
+  "ai_summary": "A professional job listing card component with integrated company logos, job metadata display, and click interactions. Features Framer Motion animations for smooth transitions and hover effects. Supports custom job data through a flexible props interface with company info, salary, location, and remote/hybrid indicators. Ideal for building modern careers pages, job boards, or recruitment dashboards.",
+  "_classifiedAt": "2026-04-23T17:16:34.160Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

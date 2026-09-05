@@ -1,0 +1,30 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "interactive-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display content in a contained card layout with consistent styling",
+    "Create interactive hover effects with lift and shadow animation",
+    "Build card-based layouts and grids for content organization",
+    "Present hierarchical content with headers, titles, descriptions, and footers",
+    "Use as a base component for more specialized card variants"
+  ],
+  "ai_summary": "A reusable card component system with hover animations built using Framer Motion. The card lifts 5 pixels on hover with a smooth shadow transition, creating an interactive feel. Includes sub-components for CardHeader, CardTitle, CardDescription, CardContent, and CardFooter for structured content layout. Designed as a foundational UI component suitable for various applications and industries.",
+  "_classifiedAt": "2026-04-23T01:46:22.588Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

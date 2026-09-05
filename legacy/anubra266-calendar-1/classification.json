@@ -1,0 +1,37 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "date-picker",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting dates for form submissions like booking appointments or scheduling events",
+    "Picking date ranges for filtering data in dashboards or reports",
+    "Choosing dates for e-commerce checkout processes like delivery scheduling",
+    "Navigating calendar views in productivity or scheduling applications",
+    "Inputting dates in healthcare appointment booking or patient record systems"
+  ],
+  "ai_summary": "A minimalist date picker component built with @ark-ui/react featuring inline calendar display with month navigation controls, day selection grid, and dark mode support. Uses Tailwind CSS for styling with smooth hover transitions and keyboard accessibility. Designed for selecting dates in forms, booking systems, and scheduling applications across various industries.",
+  "_classifiedAt": "2026-04-22T08:51:51.159Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

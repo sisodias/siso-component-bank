@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "sleep-tracker-card",
+  "type": "registry:ui",
+  "title": "SleepTrackerCard",
+  "description": "Sleep tracking card with animated bar graph showing Awake, REM, Core, Deep stages, quality metrics, and legend",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "sleep",
+    "health",
+    "card",
+    "chart",
+    "animation",
+    "wellness",
+    "framer-motion"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "sleep-tracker-card.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "curationTags": []
+  }
+}

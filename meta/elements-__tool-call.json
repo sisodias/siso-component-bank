@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@elements-/components/tool-call",
+  "author": "elements-",
+  "slug": "tool-call",
+  "name": "tool-call",
+  "description": "Compound component for displaying AI tool and function invocations with status badges, JSON input/output, and a collapsible interface for MCP and function-calling workflows.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/elements-/tool-call?api_key=$API_KEY_21ST\"",
+  "id": "elements-__tool-call",
+  "bundleUrl": "https://cdn.21st.dev/elements-/tool-call/default/bundle.1784287390993-d8ef5295-9ec9-4823-9bb8-fb0c183b59e2.html",
+  "previewUrl": "https://cdn.21st.dev/elements-/tool-call/default/preview.1784287390993-d8ef5295-9ec9-4823-9bb8-fb0c183b59e2.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

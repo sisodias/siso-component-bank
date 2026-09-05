@@ -1,0 +1,26 @@
+{
+  "id": "kaif-ui__macbook-keyboard",
+  "author": "kaif-ui",
+  "slug": "macbook-keyboard",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@kaif-ui/components/macbook-keyboard",
+  "fetchedAt": "2026-08-29T05:13:07.241Z",
+  "completedAt": "2026-08-29T05:13:09.743Z",
+  "versionedFilename": "code.1750168208997.tsx",
+  "codeReference": "r2://components-code-private/larsen66/macbook-keyboard/code.1750168208997.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/macbook-keyboard/code.1750168208997.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 100615,
+  "sha256": "cdf11cac2836b46aa5dc70acac87bba47abec91f058c21b1e0bff8a6ac5ba189",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

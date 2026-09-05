@@ -1,0 +1,38 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-atom",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Form submission and action triggers with multiple visual variants",
+    "Call-to-action buttons for conversion-focused interfaces",
+    "Navigation and routing interactions with ghost and link variants",
+    "Icon-based actions with circular icon buttons",
+    "Destructive action confirmation with red destructive variant"
+  ],
+  "ai_summary": "A reusable atomic button component with Radix UI Slot integration for composition, powered by class-variance-authority for flexible variant management. Features 6 variants (default, destructive, outline, secondary, ghost, link) and 4 sizes (default, sm, lg, icon), making it suitable for any UI requiring interactive button elements.",
+  "_classifiedAt": "2026-04-23T01:47:18.434Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rafa-porto__ai-assistant-interface",
+  "author": "rafa-porto",
+  "slug": "ai-assistant-interface",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@rafa-porto/components/ai-assistant-interface",
+  "fetchedAt": "2026-08-29T06:17:49.904Z",
+  "completedAt": "2026-08-29T06:17:51.415Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/rafa-porto__ai-assistant-interface/code.tsx",
+    "bytes": 18284,
+    "sha256": "a5f761356ba629ccd90d8a64fcc6978c4a1b1222f672e0015fb13eb1b6780a08",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

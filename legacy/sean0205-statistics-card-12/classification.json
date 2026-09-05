@@ -1,0 +1,39 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Display user profile images with fallback to initials or placeholder text",
+    "Show user online/offline/busy/away status indicators on profile elements",
+    "Display user avatars in navigation menus or header sections",
+    "Render avatar groups with multiple user profile pictures",
+    "Use as part of larger user cards or comment sections"
+  ],
+  "ai_summary": "A composite Avatar component system built on Radix UI primitives with Avatar, AvatarImage, AvatarFallback, AvatarIndicator, and AvatarStatus sub-components. Features status variants (online, offline, busy, away) managed via class-variance-authority. Uses Tailwind CSS with cn utility for class merging. Designed for universal use across SaaS, fintech, e-commerce, and other platforms where user identity and presence indicators are needed.",
+  "_classifiedAt": "2026-04-23T17:24:08.146Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@cult-ui/components/youtube-video-player",
+  "author": "cult-ui",
+  "slug": "youtube-video-player",
+  "name": "youtube-video-player",
+  "description": "An expandable YouTube video player that shows a thumbnail with a play button and opens into a full-screen modal iframe with smooth animations.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/cult-ui/youtube-video-player?api_key=$API_KEY_21ST\"",
+  "id": "cult-ui__youtube-video-player",
+  "bundleUrl": "https://cdn.21st.dev/cult-ui/youtube-video-player/default/bundle.1784712666590-480cb62a-40e0-4aea-8bc0-f22f76d9598b.html",
+  "previewUrl": "https://cdn.21st.dev/cult-ui/youtube-video-player/default/preview.1784712666590-480cb62a-40e0-4aea-8bc0-f22f76d9598b.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

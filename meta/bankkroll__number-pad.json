@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@bankkroll/components/number-pad",
+  "author": "bankkroll",
+  "slug": "number-pad",
+  "name": "number-pad",
+  "description": "A customizable number pad component for entering numeric values, supporting various formats like currency, phone, decimal, integer, percentage, pin, and time. Features both button-based and keyboard input with type-specific validation and formatting.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/bankkroll/number-pad?api_key=$API_KEY_21ST\"",
+  "id": "bankkroll__number-pad",
+  "bundleUrl": "https://cdn.21st.dev/bankkroll/number-pad/default/bundle.1751642013181.html",
+  "previewUrl": "https://cdn.21st.dev/bankkroll/number-pad/default/preview.1751642013181.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

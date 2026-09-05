@@ -1,0 +1,26 @@
+{
+  "id": "hari__scheduler",
+  "author": "hari",
+  "slug": "scheduler",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@hari/components/scheduler",
+  "fetchedAt": "2026-08-29T04:54:37.312Z",
+  "completedAt": "2026-08-29T04:54:39.218Z",
+  "versionedFilename": "code.1750178696015.tsx",
+  "codeReference": "r2://components-code-private/larsen66/scheduler/code.1750178696015.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/scheduler/code.1750178696015.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4950,
+  "sha256": "62b566e747a88fbee52cc53096f5426b7bc73a4c0134b4dd5669f82aa6913e90",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

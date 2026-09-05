@@ -1,0 +1,30 @@
+{
+  "category": "data-display",
+  "subcategory": "horizontal-scroll-timeline",
+  "visual_style": [
+    "glass-morphism",
+    "dark",
+    "gradient"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying multi-step processes or workflows in a horizontally scrollable timeline format",
+    "Visualizing project milestones or onboarding steps with animated transitions",
+    "Creating interactive process documentation that responds to user scroll behavior",
+    "Building step-by-step tutorials with visual card-based content display",
+    "Designing timeline-based landing page sections for software products"
+  ],
+  "ai_summary": "A scroll-animated horizontal process timeline component featuring glassmorphism styling with backdrop blur effects and gradient backgrounds. Uses framer-motion for smooth scroll-linked animations and transform effects. Supports multiple size variants (sm/md/lg/xl) and dual theme options (indigo dark/light). Includes Context API for scroll progress tracking and is designed to showcase sequential process steps or milestones with modern visual aesthetics.",
+  "_classifiedAt": "2026-04-23T17:45:16.497Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

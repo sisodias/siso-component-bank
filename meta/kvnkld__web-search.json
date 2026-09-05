@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@kvnkld/components/web-search",
+  "author": "kvnkld",
+  "slug": "web-search",
+  "name": "web-search",
+  "description": "An animated AI web-search state that streams a query, discovers source links one by one with a spinning globe, then marks each result done with a check.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/kvnkld/web-search?api_key=$API_KEY_21ST\"",
+  "id": "kvnkld__web-search",
+  "bundleUrl": "https://cdn.21st.dev/kvnkld/web-search/default/bundle.1785545131887-fa0f5120-b757-4583-8cfd-641f3a40607d.html",
+  "previewUrl": "https://cdn.21st.dev/kvnkld/web-search/default/preview.1785545131887-fa0f5120-b757-4583-8cfd-641f3a40607d.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "user-avatar-with-status-indicator",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display user profile pictures with fallback initials in dashboard interfaces",
+    "Show online/offline/busy/away status indicators for real-time user presence",
+    "Render user avatars in comment sections or review threads",
+    "Display profile thumbnails in user directories or contact lists",
+    "Use as profile images in messaging or chat interfaces"
+  ],
+  "ai_summary": "A composite Avatar component system built with Radix UI primitives featuring Avatar, AvatarImage, AvatarFallback, AvatarIndicator, and AvatarStatus sub-components. Supports four status variants (online, offline, busy, away) with color-coded indicators, includes graceful fallbacks for missing images, and uses Tailwind CSS for styling. Fully typed with TypeScript and accessible through Radix UI's built-in ARIA support.",
+  "_classifiedAt": "2026-04-23T17:24:22.095Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

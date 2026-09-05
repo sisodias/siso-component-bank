@@ -1,0 +1,33 @@
+{
+  "category": "form",
+  "subcategory": "authentication-form-button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "User authentication with login and signup forms",
+    "Standardized button actions in form submissions",
+    "Reusable button component across authentication flows",
+    "Accessible form interactions with keyboard navigation support"
+  ],
+  "ai_summary": "A minimalist, accessible button component built with Radix UI and Tailwind CSS using class variance authority for variant management. Features standard button variants (default, destructive, outline, secondary, ghost, link) and sizes for consistent styling across login and signup forms. Designed for integration in SaaS, fintech, and e-commerce authentication flows with proper focus-visible states and disabled state handling.",
+  "_classifiedAt": "2026-04-23T01:43:14.529Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:34:08.367Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

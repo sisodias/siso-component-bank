@@ -1,0 +1,33 @@
+{
+  "category": "input",
+  "subcategory": "action-button",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "healthcare",
+    "education",
+    "real-estate",
+    "creator-tools",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons for forms and landing pages",
+    "Secondary action buttons for cancel, back, or alternative workflows",
+    "Icon buttons for compact toolbars and navigation controls",
+    "Destructive action buttons for delete, remove, or warning confirmations",
+    "Ghost and link buttons for tertiary actions within content"
+  ],
+  "ai_summary": "A versatile, accessible button component built with Radix UI Slot and Tailwind CSS. Supports multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon) with standard hover, focus, and disabled states. Designed as a foundational UI primitive for triggering actions, submitting forms, and navigation across any web application.",
+  "_classifiedAt": "2026-04-23T01:46:49.365Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

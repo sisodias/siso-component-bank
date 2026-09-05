@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "atomic-action-button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons for forms and dialogs",
+    "Navigation triggers and link alternatives",
+    "Destructive action buttons with confirmation workflows",
+    "Secondary/tertiary actions in toolbars and cards",
+    "Icon-only buttons for compact interfaces"
+  ],
+  "ai_summary": "A reusable atomic button component built with Radix UI Slot, class-variance-authority, and Tailwind CSS. Supports 6 variants (default, destructive, outline, secondary, ghost, link) and 4 sizes (default, sm, lg, icon). Includes accessible focus-visible ring states, disabled states, and asChild prop for composition with other Radix primitives. Forms the foundation of any interactive UI system.",
+  "_classifiedAt": "2026-04-23T17:42:27.747Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

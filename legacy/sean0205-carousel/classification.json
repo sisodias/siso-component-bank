@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display user profile pictures in navigation bars or headers",
+    "Show team member avatars in organizational charts or member lists",
+    "Render user avatars with online/offline status indicators in chat or collaboration tools",
+    "Display commenter or author avatars in comment sections and feeds",
+    "Show user avatars with status badges in contact lists or member directories"
+  ],
+  "ai_summary": "A shadcn/ui-style avatar component system built on Radix UI primitives. Includes Avatar, AvatarImage, AvatarFallback, AvatarIndicator, and AvatarStatus sub-components with variants for online/offline/busy/away status indicators. Designed for user profile displays in any application requiring identity presentation.",
+  "_classifiedAt": "2026-04-22T09:14:02.217Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

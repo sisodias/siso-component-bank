@@ -1,0 +1,26 @@
+{
+  "id": "molecule-lab-rushil__orbital-loader",
+  "author": "molecule-lab-rushil",
+  "slug": "orbital-loader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@molecule-lab-rushil/components/orbital-loader",
+  "fetchedAt": "2026-08-29T05:48:55.047Z",
+  "completedAt": "2026-08-29T05:48:57.484Z",
+  "versionedFilename": "code.1753107292089.tsx",
+  "codeReference": "r2://components-code-private/molecule-lab-rushil/orbital-loader/code.1753107292089.tsx",
+  "codeUrl": "https://cdn.21st.dev/molecule-lab-rushil/orbital-loader/code.1753107292089.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1946,
+  "sha256": "1d6977800e9e8ef3b65115ecb6134717d5757db68726385bb19ff5986e472dab",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,27 @@
+{
+  "category": "card",
+  "subcategory": "spending migration selector with animated progress",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Multi-site spending migration selection for SaaS platforms",
+    "Aggregating subscription costs across multiple services",
+    "Tracking cumulative spend during service consolidation",
+    "Interactive card-based payment migration wizard"
+  ],
+  "ai_summary": "A spending migrator component that enables users to select multiple sites or services to migrate their spending, featuring an animated credit card preview, progress tracking via NumberFlow, and animated selection states. Built with framer-motion for smooth transitions, this composite component is ideal for fintech dashboards and SaaS billing migration flows.",
+  "_classifiedAt": "2026-04-23T16:52:28.887Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

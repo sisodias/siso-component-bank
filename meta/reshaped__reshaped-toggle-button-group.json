@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@reshaped/components/reshaped-toggle-button-group",
+  "author": "reshaped",
+  "slug": "reshaped-toggle-button-group",
+  "name": "reshaped-toggle-button-group",
+  "description": "Groups ToggleButton children with value props and manages their selection state, built on Button.Group. Supports single or multiple selection via selectionMode, controlled and uncontrolled modes through value/defaultValue, per-button disabled states and full keyboard navigation.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/reshaped/reshaped-toggle-button-group?api_key=$API_KEY_21ST\"",
+  "id": "reshaped__reshaped-toggle-button-group",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/reshaped-toggle-button-group/default/bundle.1783531004078.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/reshaped-toggle-button-group/default/preview.1783531004078.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

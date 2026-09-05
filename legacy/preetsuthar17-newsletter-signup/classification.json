@@ -1,0 +1,34 @@
+{
+  "category": [
+    "form"
+  ],
+  "subcategory": "newsletter-signup",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Email newsletter subscription for blogs and content platforms to build audience and engagement",
+    "Product update notifications signup for SaaS applications to keep users informed",
+    "Marketing lead capture on landing pages with celebratory success feedback",
+    "Community signup for creator platforms to grow subscriber base",
+    "Customer engagement opt-in for e-commerce stores to enable promotional outreach"
+  ],
+  "ai_summary": "A newsletter signup form component featuring email validation, animated transitions between form and success states, and a celebratory confetti effect on successful submission. Built with Framer Motion for smooth animations and designed with a clean, minimalist aesthetic using Tailwind CSS utility classes. Handles loading and error states gracefully while providing immediate visual feedback to users.",
+  "_classifiedAt": "2026-04-23T17:08:40.196Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gvozdovic__hero-luxury",
+  "author": "gvozdovic",
+  "slug": "hero-luxury",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@gvozdovic/components/hero-luxury",
+  "fetchedAt": "2026-08-29T04:53:10.548Z",
+  "completedAt": "2026-08-29T04:53:12.733Z",
+  "versionedFilename": "code.1781626125122.tsx",
+  "codeReference": "r2://components-code-private/dzekuza/hero-luxury/code.1781626125122.tsx",
+  "codeUrl": "https://cdn.21st.dev/dzekuza/hero-luxury/code.1781626125122.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3159,
+  "sha256": "bb151e2e0cfa7c7b3650e46c21aa7c404ada0fec3a0486523971d289972bcc13",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

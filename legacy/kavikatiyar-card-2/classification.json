@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "quick-links-action-grid",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying navigation shortcuts and quick actions in SaaS dashboards",
+    "Providing featured action buttons in e-commerce product pages",
+    "Serving as an admin panel utility component for common operations",
+    "Enabling user profile or settings quick-access menus",
+    "Acting as a reusable widget for launching various application features"
+  ],
+  "ai_summary": "A reusable quick links card component built on shadcn/ui that displays action buttons in a responsive 3-column grid layout. Features smooth Framer Motion animations with hover scale and tap press feedback for interactive buttons. Theme-adaptive design using CSS variables, making it suitable for various SaaS applications, admin dashboards, and e-commerce platforms requiring quick action navigation.",
+  "_classifiedAt": "2026-04-23T01:41:24.426Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

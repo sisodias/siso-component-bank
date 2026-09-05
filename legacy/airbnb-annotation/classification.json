@@ -1,0 +1,30 @@
+{
+  "category": "data-display",
+  "subcategory": "interactive annotation chart",
+  "visual_style": [],
+  "interactions": [
+    "drag",
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "saas",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Highlighting specific data points on time-series charts with draggable annotations",
+    "Interactive data exploration with nearest-point detection and anchor line display",
+    "Financial data visualization with customizable label and subject positioning",
+    "Creating tooltips and contextual annotations on SVG-based charts",
+    "Dashboard components requiring user-editable chart annotations"
+  ],
+  "ai_summary": "An interactive SVG-based annotation chart component for data visualization, built with @visx. Supports draggable annotation labels, configurable connector types (line, elbow, curve), and multiple subject markers (circle, vertical/horizontal lines). Features nearest-datum detection for hover interactions, adjustable anchor lines, and customizable positioning. Ideal for analytics dashboards, financial charts, and any data-rich interface requiring contextual annotations with user-editable positions.",
+  "_classifiedAt": "2026-04-23T11:29:26.238Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

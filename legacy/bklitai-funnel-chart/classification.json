@@ -1,0 +1,30 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "SVG pattern generator for funnel charts",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "analytics"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Creating reusable SVG line patterns for funnel chart visualizations",
+    "Generating diagonal, horizontal, or vertical pattern fills for chart styling",
+    "Providing decorative backgrounds for data visualization components"
+  ],
+  "ai_summary": "A minimal SVG pattern generator component that creates reusable line patterns (diagonal, horizontal, vertical) using CSS variables. Exports PatternLines for use in funnel chart visualizations, supporting customizable stroke colors, widths, and pattern orientations as a foundational decorative element.",
+  "_classifiedAt": "2026-04-22T08:53:36.816Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

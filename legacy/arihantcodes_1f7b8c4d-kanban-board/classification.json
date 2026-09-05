@@ -1,0 +1,30 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar-profile-image",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display user profile pictures in web applications",
+    "Represent users in comments, reviews, or chat interfaces",
+    "Show team member avatars in collaboration tools",
+    "Provide user identification in dashboards and settings",
+    "Offer fallback initials when user photos are unavailable"
+  ],
+  "ai_summary": "A reusable Avatar component built on Radix UI primitives with AvatarImage and AvatarFallback subcomponents. Features rounded-full design with proper aspect ratio handling and muted background fallback. Uses Tailwind CSS for styling and supports custom className props for easy theming and integration.",
+  "_classifiedAt": "2026-04-23T11:30:50.199Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "beratberkayg__product-card",
+  "author": "beratberkayg",
+  "slug": "product-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@beratberkayg/components/product-card",
+  "fetchedAt": "2026-08-29T03:49:27.882Z",
+  "completedAt": "2026-08-29T03:49:29.645Z",
+  "versionedFilename": "code.1752778650203.tsx",
+  "codeReference": "r2://components-code-private/beratberkayg/product-card/code.1752778650203.tsx",
+  "codeUrl": "https://cdn.21st.dev/beratberkayg/product-card/code.1752778650203.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 8607,
+  "sha256": "a044af3c501dfbe34746f29ef362e537814ffe91481d5ce32bb2263d0cea6b06",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

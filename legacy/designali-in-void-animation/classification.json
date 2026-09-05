@@ -1,0 +1,36 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "Interactive SVG Plasma Ball Animation",
+  "visual_style": [
+    "3d",
+    "gradient",
+    "glass-morphism"
+  ],
+  "interactions": [
+    "click-reveal",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive hero section background with user-triggered plasma ball effects",
+    "Decorative landing page animation responding to clicks",
+    "Abstract visual loading state with void ball morphing effects",
+    "Gaming-inspired interface element with plasma ball creation",
+    "Creative portfolio background with organic, interactive motion"
+  ],
+  "ai_summary": "A sophisticated SVG-based animation component featuring void and plasma ball effects with gooey-style SVG filters and blend modes. Users click anywhere to spawn plasma balls that animate toward random targets within a gooey circle radius. The animation uses requestAnimationFrame for smooth 60fps rendering and creates organic, morphing visual effects using feGaussianBlur and color blending techniques.",
+  "_classifiedAt": "2026-04-23T01:38:07.608Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

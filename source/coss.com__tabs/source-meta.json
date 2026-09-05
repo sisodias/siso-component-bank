@@ -1,0 +1,26 @@
+{
+  "id": "coss.com__tabs",
+  "author": "coss.com",
+  "slug": "tabs",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@coss.com/components/tabs",
+  "fetchedAt": "2026-08-29T04:02:47.337Z",
+  "completedAt": "2026-08-29T04:02:49.500Z",
+  "versionedFilename": "code.1774357976645.tsx",
+  "codeReference": "r2://components-code-private/coss.com/tabs/code.1774357976645.tsx",
+  "codeUrl": "https://cdn.21st.dev/coss.com/tabs/code.1774357976645.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/typescript",
+  "bytes": 3058,
+  "sha256": "229326ad07efe05af8a73d0c940ffa8ac935fe06fe8449fb9a8b73239f022c07",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "tab-switcher",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Switching between different content sections within a single page or section",
+    "Organizing dashboard content into navigable categories",
+    "Displaying product details with multiple information panels",
+    "Creating settings interfaces with grouped options",
+    "Implementing documentation with tabbed code examples and explanations"
+  ],
+  "ai_summary": "A tabbed navigation component built on Radix UI primitives, providing accessible keyboard navigation and ARIA-compliant tab switching. Features a clean, minimal design with smooth state transitions between active, hover, and focus states. Uses Tailwind CSS for styling with subtle shadows and rounded corners, making it suitable for dashboards, settings panels, and content organization across various web applications.",
+  "_classifiedAt": "2026-04-23T17:04:54.896Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

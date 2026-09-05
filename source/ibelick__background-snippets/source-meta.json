@@ -1,0 +1,26 @@
+{
+  "id": "ibelick__background-snippets",
+  "author": "ibelick",
+  "slug": "background-snippets",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ibelick/components/background-snippets",
+  "fetchedAt": "2026-08-29T04:59:33.110Z",
+  "completedAt": "2026-08-29T04:59:35.221Z",
+  "versionedFilename": "code.1756794179513.tsx",
+  "codeReference": "r2://components-code-private/larsen66/background-snippets/code.1756794179513.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/background-snippets/code.1756794179513.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 403,
+  "sha256": "e2c1a1eb59210b7326dba75a70f98358f397844c3a37bb2b247eb983e56d5730",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

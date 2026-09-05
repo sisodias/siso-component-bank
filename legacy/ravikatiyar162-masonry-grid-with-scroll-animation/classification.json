@@ -1,0 +1,33 @@
+{
+  "category": [
+    "layout",
+    "media"
+  ],
+  "subcategory": "masonry-grid",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "media",
+    "e-commerce",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying image galleries with scroll-triggered entry animations",
+    "Showcasing portfolio items in a dynamic masonry layout",
+    "Presenting product collections with staggered reveal effects",
+    "Creating visual-heavy content feeds with depth animation"
+  ],
+  "ai_summary": "A responsive masonry grid component with scroll-triggered animations featuring scale and rotation effects. Cards animate in from different transform origins based on their column position, creating a cascading reveal effect. Supports custom card data with images, content text, and optional links. Ideal for portfolio galleries, media showcases, and visual content collections.",
+  "_classifiedAt": "2026-04-23T01:47:27.724Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "chetanverma16__stacked-cards-interaction",
+  "author": "chetanverma16",
+  "slug": "stacked-cards-interaction",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@chetanverma16/components/stacked-cards-interaction",
+  "fetchedAt": "2026-08-29T03:54:02.137Z",
+  "completedAt": "2026-08-29T03:54:03.353Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/chetanverma16__stacked-cards-interaction/code.tsx",
+    "bytes": 2921,
+    "sha256": "11b55bb09bd00d990b7452425aabed15cd9da32d23ecabfa6562186b6462f239",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

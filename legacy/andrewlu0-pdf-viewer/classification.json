@@ -1,0 +1,36 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "pdf-viewer",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "healthcare",
+    "education",
+    "legal",
+    "real-estate",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Viewing and navigating PDF documents with zoom controls from 0.25x to 8x",
+    "Searching and highlighting text patterns across PDF pages",
+    "Rotating PDF pages for better viewing orientation",
+    "Browsing multi-page PDF documents with thumbnail navigation",
+    "Collapsible sidebar interface for focused document viewing"
+  ],
+  "ai_summary": "A comprehensive PDF viewer component built with react-pdf that provides zoom, rotation, page navigation, and text search capabilities. Features a collapsible sidebar layout with thumbnail previews, standard shadcn/ui controls, and supports document loading with progressive page rendering. Ideal for document-heavy applications requiring in-browser PDF viewing with basic annotation controls.",
+  "_classifiedAt": "2026-04-23T11:30:18.862Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

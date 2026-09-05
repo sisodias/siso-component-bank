@@ -1,0 +1,26 @@
+{
+  "id": "uilayout.contact__number-flow-trading",
+  "author": "uilayout.contact",
+  "slug": "number-flow-trading",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uilayout.contact/components/number-flow-trading",
+  "fetchedAt": "2026-08-29T07:44:46.969Z",
+  "completedAt": "2026-08-29T07:44:48.870Z",
+  "versionedFilename": "code.1784459397879-ce140e88-2b40-49ae-a356-613a3cfa813e.tsx",
+  "codeReference": "r2://components-code-private/uilayout.contact/number-flow-trading/code.1784459397879-ce140e88-2b40-49ae-a356-613a3cfa813e.tsx",
+  "codeUrl": "https://cdn.21st.dev/uilayout.contact/number-flow-trading/code.1784459397879-ce140e88-2b40-49ae-a356-613a3cfa813e.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

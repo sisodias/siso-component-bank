@@ -1,0 +1,33 @@
+{
+  "id": "danielpetho__text-cursor-proximity",
+  "author": "danielpetho",
+  "slug": "text-cursor-proximity",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@danielpetho/components/text-cursor-proximity",
+  "fetchedAt": "2026-08-29T04:08:03.487Z",
+  "completedAt": "2026-08-29T04:08:05.084Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/danielpetho__text-cursor-proximity/code.tsx",
+    "bytes": 4382,
+    "sha256": "69e8e43ad49bd31cf14d445652b7d3041dbd292169f39c081fa0ee4502f376bb",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

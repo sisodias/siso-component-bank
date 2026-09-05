@@ -1,0 +1,26 @@
+{
+  "id": "dhileepkumargm__aurora-hero",
+  "author": "dhileepkumargm",
+  "slug": "aurora-hero",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dhileepkumargm/components/aurora-hero",
+  "fetchedAt": "2026-08-29T04:26:22.736Z",
+  "completedAt": "2026-08-29T04:26:24.929Z",
+  "versionedFilename": "code.1785451301400-5a88515b-e9a4-4baa-8d5e-906cd1969be5.tsx",
+  "codeReference": "r2://components-code-private/dhileepkumargm/aurora-hero/code.1785451301400-5a88515b-e9a4-4baa-8d5e-906cd1969be5.tsx",
+  "codeUrl": "https://cdn.21st.dev/dhileepkumargm/aurora-hero/code.1785451301400-5a88515b-e9a4-4baa-8d5e-906cd1969be5.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

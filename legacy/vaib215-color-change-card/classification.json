@@ -1,0 +1,26 @@
+{
+  "category": "card",
+  "subcategory": "feature-cards-grid",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying feature highlights with images on landing pages",
+    "Showcasing service categories with hover-animated image cards",
+    "Creating interactive grid layouts for product or plan comparisons",
+    "Building image-based navigation sections with smooth hover transitions",
+    "Designing responsive card grids for portfolio or gallery sections"
+  ],
+  "ai_summary": "A four-card grid component showcasing features with images, headings, and descriptions. Each card features smooth hover animations using Framer Motion, including image scaling and saturation transitions. Built with a responsive grid layout and Tailwind CSS for clean, maintainable styling. Ideal for landing pages, feature showcases, and visual content sections requiring interactive hover effects.",
+  "_classifiedAt": "2026-04-23T17:41:02.808Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

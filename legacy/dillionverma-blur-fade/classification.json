@@ -1,0 +1,30 @@
+{
+  "category": "other",
+  "subcategory": "scroll-triggered-animation-utility",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Revealing text content with a smooth blur-to-clear effect as users scroll down a page",
+    "Animating card components into view with staggered delays for visual hierarchy",
+    "Adding scroll-triggered entrance animations to hero sections and landing pages",
+    "Creating subtle, professional animations on images and media content",
+    "Enhancing form sections with graceful fade-in animations on scroll"
+  ],
+  "ai_summary": "A Framer Motion-based utility component that creates a smooth blur-to-fade entrance animation when elements scroll into the viewport. Uses CSS blur filters and opacity transitions triggered by Intersection Observer. Configurable duration, delay, y-offset, and blur intensity make it suitable for adding polished scroll animations to any content.",
+  "_classifiedAt": "2026-04-23T16:35:38.802Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

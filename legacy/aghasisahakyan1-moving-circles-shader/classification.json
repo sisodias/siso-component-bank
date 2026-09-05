@@ -1,0 +1,33 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "WebGL shader visualization",
+  "visual_style": [
+    "3d",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Creating animated hero backgrounds with isometric 3D circle effects",
+    "Adding dynamic shader-based visuals to landing pages",
+    "Generating ambient animated backgrounds for media applications",
+    "Building immersive visual experiences in creative portfolios"
+  ],
+  "ai_summary": "A WebGL shader component that renders animated moving circles using an isometric projection technique. The shader uses Three.js with custom GLSL vertex and fragment shaders, animating based on elapsed time to create flowing circle patterns. The effect warps space in an isometric coordinate system, producing a mesmerizing 3D-like illusion suitable for decorative backgrounds and visual showcases.",
+  "_classifiedAt": "2026-04-23T01:35:10.869Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

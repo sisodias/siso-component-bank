@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "feature-showcase",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display product features on landing pages with scroll-triggered reveal animations",
+    "Showcase app capabilities in a responsive grid layout with hover interactions",
+    "Highlight service offerings with animated card scaling effects on user hover",
+    "Present feature comparisons in SaaS dashboards with spring-based animations",
+    "Create interactive product catalogs with viewport-triggered animated reveals"
+  ],
+  "ai_summary": "AnimatedFeatureCard is a reusable React card component designed to showcase product or service features with scroll-triggered and hover animations. Built with Framer Motion, it features spring-based entrance animations, viewport detection, and smooth scale effects on hover. The component is theme-adaptive using shadcn CSS variables, responsive with max-width constraints, and ideal for landing pages, feature grids, and product showcases across SaaS and general web applications.",
+  "_classifiedAt": "2026-04-22T09:08:39.050Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

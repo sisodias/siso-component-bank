@@ -1,0 +1,26 @@
+{
+  "id": "componentry__pixel-canvas",
+  "author": "componentry",
+  "slug": "pixel-canvas",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@componentry/components/pixel-canvas",
+  "fetchedAt": "2026-08-29T04:01:18.477Z",
+  "completedAt": "2026-08-29T04:01:20.722Z",
+  "versionedFilename": "code.1784430904160-4c08012f-c2fd-43b1-b80b-4969ee8ed883.tsx",
+  "codeReference": "r2://components-code-private/componentry/pixel-canvas/code.1784430904160-4c08012f-c2fd-43b1-b80b-4969ee8ed883.tsx",
+  "codeUrl": "https://cdn.21st.dev/componentry/pixel-canvas/code.1784430904160-4c08012f-c2fd-43b1-b80b-4969ee8ed883.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

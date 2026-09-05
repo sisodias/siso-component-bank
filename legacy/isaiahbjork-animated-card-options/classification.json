@@ -1,0 +1,28 @@
+{
+  "category": "card",
+  "subcategory": "selection-grid",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Grid-based option selection with animated entrance effects",
+    "Interactive selection UI where clicking one card fades out unselected options",
+    "Animated picker interface with hover scale effects and spring physics",
+    "Decision-making component with visual feedback on selection"
+  ],
+  "ai_summary": "An animated card selection grid component featuring staggered entrance animations, hover scale effects, and click-based selection that visually fades out unselected cards. Built with Framer Motion using spring physics for smooth, responsive transitions. Supports configurable column layouts and custom callback handling for selection events.",
+  "_classifiedAt": "2026-04-23T16:43:36.271Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

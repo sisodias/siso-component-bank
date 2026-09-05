@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display",
+    "card"
+  ],
+  "subcategory": "chart-container-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "saas",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Container for displaying stock market data visualizations in dashboards",
+    "Wrapper for financial charts and metrics in fintech applications",
+    "Card layout for organizing market analytics content"
+  ],
+  "ai_summary": "A minimalist card container component with header, title, description, content, and footer subcomponents. Designed for organizing and displaying financial data visualizations in dashboard layouts. Uses Tailwind CSS for styling with subtle shadows and borders for visual hierarchy.",
+  "_classifiedAt": "2026-04-23T11:29:19.607Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

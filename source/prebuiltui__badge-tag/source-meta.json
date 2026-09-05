@@ -1,0 +1,26 @@
+{
+  "id": "prebuiltui__badge-tag",
+  "author": "prebuiltui",
+  "slug": "badge-tag",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@prebuiltui/components/badge-tag",
+  "fetchedAt": "2026-08-29T06:10:55.111Z",
+  "completedAt": "2026-08-29T06:10:57.294Z",
+  "versionedFilename": "code.1757090304165.tsx",
+  "codeReference": "r2://components-code-private/larsen66/badge-tag/code.1757090304165.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/badge-tag/code.1757090304165.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 469,
+  "sha256": "304638c1edca5413040dc3cf929d8399a33e1b8b48709c72fe4cb4739da0c4f3",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

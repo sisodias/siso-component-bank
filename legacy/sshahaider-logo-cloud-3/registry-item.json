@@ -1,0 +1,45 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "sshahaider-logo-cloud-3",
+  "type": "registry:ui",
+  "title": "Sshahaider Logo Cloud 3",
+  "description": "Installed from https://21st.dev/r/sshahaider/logo-cloud-3",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "sshahaider-logo-cloud-3"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "infinite-slider.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "logo-cloud-3.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "react-use-measure"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/sshahaider/logo-cloud-3",
+    "fetchedAt": "2026-04-22T06:43:35.137Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

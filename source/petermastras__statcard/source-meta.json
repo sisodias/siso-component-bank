@@ -1,0 +1,26 @@
+{
+  "id": "petermastras__statcard",
+  "author": "petermastras",
+  "slug": "statcard",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@petermastras/components/statcard",
+  "fetchedAt": "2026-08-29T06:08:33.996Z",
+  "completedAt": "2026-08-29T06:08:36.250Z",
+  "versionedFilename": "code.1780848570822.tsx",
+  "codeReference": "r2://components-code-private/petermastras/statcard/code.1780848570822.tsx",
+  "codeUrl": "https://cdn.21st.dev/petermastras/statcard/code.1780848570822.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2411,
+  "sha256": "52906fbc8b69b71f5da46853de45e649339929ac51a960119ee27024a4ac6102",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

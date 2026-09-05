@@ -1,0 +1,28 @@
+{
+  "category": "data-display",
+  "subcategory": "status-indicator",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "gaming"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display system health or connection status in SaaS dashboards",
+    "Show active/inactive states in developer tool interfaces",
+    "Indicate service availability in monitoring applications",
+    "Display user online/offline status in real-time apps",
+    "Show processing states in gaming HUD interfaces"
+  ],
+  "ai_summary": "A compact status indicator badge with HUD-style glass-morphism design featuring gradient fills, glowing stroke effects, and theme-aware coloring. Supports multiple variants (primary, secondary, danger, warning) with custom color overrides. Uses Framer Motion for subtle animations and integrates with Next.js theme system for seamless dark/light mode switching.",
+  "_classifiedAt": "2026-04-23T16:44:21.088Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

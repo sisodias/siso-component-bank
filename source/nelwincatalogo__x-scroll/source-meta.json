@@ -1,0 +1,33 @@
+{
+  "id": "nelwincatalogo__x-scroll",
+  "author": "nelwincatalogo",
+  "slug": "x-scroll",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@nelwincatalogo/components/x-scroll",
+  "fetchedAt": "2026-08-29T05:57:24.927Z",
+  "completedAt": "2026-08-29T05:57:26.627Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/nelwincatalogo__x-scroll/code.tsx",
+    "bytes": 564,
+    "sha256": "06b8c759e5ab1b7f35e8707c190820af649b74abd198e06af35fe39c800d042b",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

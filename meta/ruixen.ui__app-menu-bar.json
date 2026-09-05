@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/app-menu-bar",
+  "author": "ruixen.ui",
+  "slug": "app-menu-bar",
+  "name": "app-menu-bar",
+  "description": "The AppMenuBar component is a versatile, fully-featured navigation menu designed for modern web applications. It combines a clean, horizontal menubar layout with intuitive nested menus, allowing users to easily access projects, teams, calendar events, notifications, and files. Each menu item is enhanced with clear Lucide icons, and nested submenus are implemented using MenubarSub, ensuring that hover interactions are smooth and the parent menu stays open when navigating into submenus. The component supports multiple levels of navigation without closing unexpectedly, maintains consistent spacing between icons and text, and leverages subtle hover effects for better visual feedback. Its modular structure makes it highly customizable, making it ideal for dashboards, admin panels, or collaborative tools where organized and accessible",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/app-menu-bar?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__app-menu-bar",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/app-menu-bar/default/bundle.1760588177198.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/app-menu-bar/default/preview.1760588177198.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 18,
+  "demo_id": 9093,
+  "video_url": "https://cdn.21st.dev/user_2y5Wd5l713ZIFYjX19aZXSyXd6b/app-menu-bar/default/video.1786567290572.mp4"
+}

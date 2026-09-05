@@ -1,0 +1,36 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "svg-text-mask-effect",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "creator-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Hero section headlines with cursor-reactive gradient reveal effects",
+    "Interactive navigation menu items with animated stroke and mask transitions",
+    "Landing page call-to-action text with engaging hover interactions",
+    "Portfolio or creative website headings with dynamic visual effects",
+    "Brand typography displays that respond to user cursor movement"
+  ],
+  "ai_summary": "An interactive SVG-based text component that creates a sophisticated hover effect by revealing stroke-animated text through a cursor-following gradient mask. Built with GSAP for smooth animations and supports both desktop mouse and mobile touch interactions. The effect combines stroke drawing animation on mount with dynamic mask positioning as users hover or touch across the text, creating an engaging visual experience for hero sections and prominent typography.",
+  "_classifiedAt": "2026-04-22T09:06:30.667Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "datetime-picker",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "healthcare",
+    "e-commerce",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Scheduling appointments in healthcare or service applications",
+    "Booking reservations in hospitality or restaurant platforms",
+    "Setting reminders or events in productivity tools",
+    "Collecting date of birth or temporal data in forms",
+    "Planning travel itineraries in booking applications"
+  ],
+  "ai_summary": "A React Aria-based calendar component with time picker functionality for selecting dates and times. Features accessible keyboard navigation, minimal flat styling with hover and focus states, and integrates seamlessly into shadcn/ui design systems. Ideal for any application requiring date/time input with proper accessibility support.",
+  "_classifiedAt": "2026-04-23T17:26:36.923Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

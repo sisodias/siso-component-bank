@@ -1,0 +1,34 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "breadcrumb",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying user location within a website hierarchy for easy navigation",
+    "E-commerce category and product page navigation paths",
+    "Admin dashboard and settings page breadcrumb trails",
+    "Document or knowledge base hierarchical navigation",
+    "Multi-step form or wizard progress indication"
+  ],
+  "ai_summary": "A composite breadcrumb navigation component built with Radix UI and Tailwind CSS, providing accessible hierarchical navigation with customizable sub-components for links, separators, and current page indicators. Follows shadcn/ui design patterns with minimal visual styling and standard hover interactions.",
+  "_classifiedAt": "2026-04-23T16:51:41.705Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

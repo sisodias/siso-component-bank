@@ -1,0 +1,29 @@
+{
+  "category": "card",
+  "subcategory": "hover-reveal-grid",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "media",
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Product catalog displays where hovering on one item highlights it while dimming others",
+    "Gallery views where users browse through image cards interactively",
+    "Feature or service showcases in a grid layout with emphasis on individual items",
+    "Team member or portfolio grids with visual focus on hover",
+    "Category navigation cards in e-commerce or content sites"
+  ],
+  "ai_summary": "An interactive card grid component featuring a hover-reveal effect where hovering or focusing on a card scales it up while dimming and blurring other cards in the grid. Built with Tailwind CSS utility classes and React, displaying items with background images, titles, and subtitles. Uses CSS group-hover states for smooth 500ms transitions and includes keyboard navigation support via tabIndex.",
+  "_classifiedAt": "2026-04-23T01:42:46.267Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

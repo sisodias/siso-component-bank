@@ -1,0 +1,26 @@
+{
+  "id": "designali-in__certificate",
+  "author": "designali-in",
+  "slug": "certificate",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/certificate",
+  "fetchedAt": "2026-08-29T04:17:32.711Z",
+  "completedAt": "2026-08-29T04:17:34.732Z",
+  "versionedFilename": "code.1751347308158.tsx",
+  "codeReference": "r2://components-code-private/designali-in/certificate/code.1751347308158.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/certificate/code.1751347308158.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 287,
+  "sha256": "3cb2f4df2b7427c8ec4e08bba501c761609af6317ae5c20c8fa547d564522724",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

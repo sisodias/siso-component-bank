@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Triggering form submissions with primary or secondary action styles",
+    "Navigation links styled as buttons with ghost or link variants",
+    "Destructive actions using the destructive variant with red styling",
+    "Icon-only buttons for compact UI spaces using the icon size variant",
+    "Polymorphic button rendering via asChild prop for flexible composition"
+  ],
+  "ai_summary": "A versatile button component built with Radix UI Slot and class-variance-authority, featuring 6 variants (default, destructive, outline, secondary, ghost, link) and 4 sizes. Supports polymorphic rendering via asChild prop and includes focus-visible accessibility states. Shadow effects add subtle depth while maintaining a clean, flat aesthetic suitable for any modern web application.",
+  "_classifiedAt": "2026-04-23T17:18:44.804Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

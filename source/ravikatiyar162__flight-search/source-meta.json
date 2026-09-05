@@ -1,0 +1,26 @@
+{
+  "id": "ravikatiyar162__flight-search",
+  "author": "ravikatiyar162",
+  "slug": "flight-search",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ravikatiyar162/components/flight-search",
+  "fetchedAt": "2026-08-29T06:24:07.362Z",
+  "completedAt": "2026-08-29T06:24:09.532Z",
+  "versionedFilename": "code.1758095837330.tsx",
+  "codeReference": "r2://components-code-private/ravikatiyar162/flight-search/code.1758095837330.tsx",
+  "codeUrl": "https://cdn.21st.dev/ravikatiyar162/flight-search/code.1758095837330.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4005,
+  "sha256": "158ab05a1d7db42b4e25ffed37f769f826c62ae079aa5aa66790ed11922ac3fa",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

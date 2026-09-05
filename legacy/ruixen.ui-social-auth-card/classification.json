@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card",
+    "form"
+  ],
+  "subcategory": "social-authentication-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Enable users to sign in with social media providers like Google, GitHub, or Apple",
+    "Provide a unified authentication entry point for web applications",
+    "Simplify registration by reducing form fields through social login",
+    "Support multiple authentication methods within a single UI component",
+    "Create branded login experiences for SaaS and e-commerce platforms"
+  ],
+  "ai_summary": "A social authentication card component featuring the Ruixen.Ui design system with a flexible Button component supporting multiple variants (default, destructive, outline, secondary, ghost, link) and sizes. Designed for implementing social login flows with providers like Google, GitHub, and Apple. Uses clean Tailwind styling with subtle shadows and rounded corners for a modern, accessible authentication experience.",
+  "_classifiedAt": "2026-04-23T01:51:26.317Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

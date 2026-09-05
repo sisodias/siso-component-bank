@@ -1,0 +1,26 @@
+{
+  "id": "ShadcnStudio__text-area",
+  "author": "ShadcnStudio",
+  "slug": "text-area",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ShadcnStudio/components/text-area",
+  "fetchedAt": "2026-08-29T07:14:06.932Z",
+  "completedAt": "2026-08-29T07:14:09.348Z",
+  "versionedFilename": "code.1760583375038.tsx",
+  "codeReference": "r2://components-code-private/larsen66/text-area/code.1760583375038.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/text-area/code.1760583375038.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 201,
+  "sha256": "fa7108eae3224be1a5a679bc3fe2c1545107bd09f9a8d4628b386e3c89d84a74",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

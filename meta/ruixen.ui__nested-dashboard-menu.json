@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/nested-dashboard-menu",
+  "author": "ruixen.ui",
+  "slug": "nested-dashboard-menu",
+  "name": "nested-dashboard-menu",
+  "description": "This component is a nested menubar designed for complex dashboards, where each top-level menu (like Dashboard, Projects, Team, Tasks, Reports, Settings) can have submenus for additional options. It allows users to quickly access detailed sections without leaving the main navigation, keeping the interface organized, compact, and user-friendly. By using submenus, it supports multi-level navigation in a clean and intuitive way, making it ideal for admin panels or productivity apps.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/nested-dashboard-menu?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__nested-dashboard-menu",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/nested-dashboard-menu/default/bundle.1756144290964.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/nested-dashboard-menu/default/preview.1756144290964.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 19,
+  "demo_id": 6047,
+  "video_url": null
+}

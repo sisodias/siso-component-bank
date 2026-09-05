@@ -1,0 +1,26 @@
+{
+  "id": "sshahaider__pricing-1",
+  "author": "sshahaider",
+  "slug": "pricing-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sshahaider/components/pricing-1",
+  "fetchedAt": "2026-08-29T07:27:14.341Z",
+  "completedAt": "2026-08-29T07:27:16.258Z",
+  "versionedFilename": "code.1784380445046-bc43c1df-d1a1-4993-9582-f33659cdec7f.tsx",
+  "codeReference": "r2://components-code-private/sshahaider/pricing-1/code.1784380445046-bc43c1df-d1a1-4993-9582-f33659cdec7f.tsx",
+  "codeUrl": "https://cdn.21st.dev/sshahaider/pricing-1/code.1784380445046-bc43c1df-d1a1-4993-9582-f33659cdec7f.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

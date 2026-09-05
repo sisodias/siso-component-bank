@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@campsite/components/system-theme",
+  "author": "campsite",
+  "slug": "system-theme",
+  "name": "system-theme",
+  "description": "Icon for system theme",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/campsite/system-theme?api_key=$API_KEY_21ST\"",
+  "id": "campsite__system-theme",
+  "bundleUrl": "https://cdn.21st.dev/bundled/551.html",
+  "previewUrl": "https://cdn.21st.dev/user_campsite/system-theme/default/preview.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

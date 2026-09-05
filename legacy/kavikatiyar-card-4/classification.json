@@ -1,0 +1,31 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "profile-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display user profile information with avatar, name, and bio in card format",
+    "Showcase team members or employee profiles in a directory layout",
+    "Present contact cards with customizable interest tags for networking",
+    "Create social media-style user cards with hover animations",
+    "Build member listings with role or skill-based categorization tags"
+  ],
+  "ai_summary": "A profile card component that displays user information including avatar, name, subtitle, description, and customizable tags. Features smooth entry animations and hover scale effects using Framer Motion. Supports dark mode and includes variant-based tag styling with blue and lime color schemes. Designed for displaying user profiles in directories, team pages, or contact cards.",
+  "_classifiedAt": "2026-04-23T01:41:22.913Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

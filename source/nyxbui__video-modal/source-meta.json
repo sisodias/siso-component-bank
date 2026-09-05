@@ -1,0 +1,26 @@
+{
+  "id": "nyxbui__video-modal",
+  "author": "nyxbui",
+  "slug": "video-modal",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@nyxbui/components/video-modal",
+  "fetchedAt": "2026-08-29T05:59:35.593Z",
+  "completedAt": "2026-08-29T05:59:36.654Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null
+}

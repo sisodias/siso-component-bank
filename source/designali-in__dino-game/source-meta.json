@@ -1,0 +1,26 @@
+{
+  "id": "designali-in__dino-game",
+  "author": "designali-in",
+  "slug": "dino-game",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/dino-game",
+  "fetchedAt": "2026-08-29T04:17:49.943Z",
+  "completedAt": "2026-08-29T04:17:52.483Z",
+  "versionedFilename": "code.1760167014015.tsx",
+  "codeReference": "r2://components-code-private/designali-in/dino-game/code.1760167014015.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/dino-game/code.1760167014015.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 9766,
+  "sha256": "58301d030d7f98f0712621e1ccb9a8f343586327a159cbbe91f04196332a1af5",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

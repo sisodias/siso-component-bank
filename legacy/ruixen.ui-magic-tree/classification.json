@@ -1,0 +1,36 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "composite-card-system",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "system"
+  ],
+  "use_cases": [
+    "Displaying grouped content with structured header, title, description, body, and footer sections",
+    "Creating dashboard widget containers with consistent styling across applications",
+    "Building product cards for e-commerce listings with hover states and shadows",
+    "Constructing modal-like content sections with semantic card structure",
+    "Developing data display panels with clear visual hierarchy"
+  ],
+  "ai_summary": "A comprehensive Card component system providing six composable sub-components (Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter) for building structured content containers. Built with React.forwardRef for proper ref handling and styled with Tailwind CSS using minimalist flat design with subtle shadows and borders. Ideal for creating consistent card-based layouts in SaaS dashboards, e-commerce product displays, and content-rich interfaces.",
+  "_classifiedAt": "2026-04-23T01:50:15.077Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

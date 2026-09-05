@@ -1,0 +1,26 @@
+{
+  "id": "serafimcloud__tool-group",
+  "author": "serafimcloud",
+  "slug": "tool-group",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@serafimcloud/components/tool-group",
+  "fetchedAt": "2026-08-29T07:05:52.742Z",
+  "completedAt": "2026-08-29T07:05:55.539Z",
+  "versionedFilename": "code.1777646191040.tsx",
+  "codeReference": "r2://components-code-private/21st.dev/tool-group/code.1777646191040.tsx",
+  "codeUrl": "https://cdn.21st.dev/21st.dev/tool-group/code.1777646191040.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10611,
+  "sha256": "1c0323b38a07d48b45f6c71d66d2ada6cfe7bb3e5af87b7d78e1daa38aae6a1a",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

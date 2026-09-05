@@ -1,0 +1,27 @@
+{
+  "category": "media",
+  "subcategory": "fluid-cursor-simulation",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Add premium, interactive smoke-like cursor trails to landing pages and portfolios",
+    "Create engaging visual feedback on creative tool interfaces and design platforms",
+    "Enhance e-commerce product pages with dynamic, fluid cursor effects",
+    "Build immersive, interactive experiences on SaaS dashboards and portfolio sites"
+  ],
+  "ai_summary": "A WebGL-based fluid simulation component that renders smoke-like cursor trails with real-time fluid dynamics. Uses multiple fragment shaders including advection, vorticity, and pressure solvers with WebGL framebuffers for realistic fluid behavior. Responds to cursor/touch input with color-shifting smoke particles on a dark transparent background.",
+  "_classifiedAt": "2026-04-23T17:40:35.130Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

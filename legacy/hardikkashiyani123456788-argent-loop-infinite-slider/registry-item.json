@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "hardikkashiyani123456788-argent-loop-infinite-slider",
+  "type": "registry:ui",
+  "title": "Hardikkashiyani123456788 Argent Loop Infinite Slider",
+  "description": "Installed from https://21st.dev/r/hardikkashiyani123456788/argent-loop-infinite-slider",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "hardikkashiyani123456788-argent-loop-infinite-slider"
+  ],
+  "files": [
+    {
+      "path": "argent-loop-infinite-slider.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/hardikkashiyani123456788/argent-loop-infinite-slider",
+    "fetchedAt": "2026-04-22T06:32:19.514Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

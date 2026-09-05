@@ -1,0 +1,29 @@
+{
+  "category": "navigation",
+  "subcategory": "accordion",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "FAQ sections where users need to expand/collapse answers",
+    "Organizing lengthy content like product descriptions or documentation",
+    "Settings panels with collapsible categories",
+    "Step-by-step wizards or guided workflows",
+    "Filtering or categorization of content lists"
+  ],
+  "ai_summary": "A versatile accordion component built on Radix UI with multiple visual variants (outline, solid, default) and configurable indicators (arrow, plus, none). Features smooth CSS animations for expand/collapse transitions and uses class-variance-authority for flexible styling. Ideal for SaaS applications, e-commerce sites, and educational platforms needing collapsible content sections for FAQs, documentation, or settings.",
+  "_classifiedAt": "2026-04-23T17:23:22.436Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

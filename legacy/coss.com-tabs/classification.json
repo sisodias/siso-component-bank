@@ -1,0 +1,31 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "tab-navigation",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Switching between content sections without page navigation",
+    "Organizing dashboard sections in SaaS applications",
+    "Categorizing products or filters in e-commerce interfaces",
+    "Creating step-by-step forms or wizard flows",
+    "Segmenting settings or configuration options in admin panels"
+  ],
+  "ai_summary": "A tabbed navigation component from Coss.Com featuring an animated sliding indicator that supports both horizontal and vertical orientations. Offers two variants: a default pill-style with background and an underline style for a more minimal approach. Built with Base UI primitives and styled with Tailwind, providing smooth transitions and hover states for an accessible, polished tab interface.",
+  "_classifiedAt": "2026-04-22T08:54:57.933Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

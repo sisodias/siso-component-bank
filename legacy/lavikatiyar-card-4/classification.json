@@ -1,0 +1,29 @@
+{
+  "category": "data-display",
+  "subcategory": "animated-stats-card",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display key performance metrics with animated count-up effects in dashboard interfaces",
+    "Show statistics with scroll-triggered animations on analytics and reporting pages",
+    "Present financial data with spring-based number animations for engaging visual feedback",
+    "Display user engagement or revenue metrics in SaaS product interfaces",
+    "Show marketing campaign performance data with hover interaction effects"
+  ],
+  "ai_summary": "AnimatedStatsCard is a reusable React card component that displays statistics with spring-based count-up animations triggered on scroll into view. Features a rounded design with dot pattern background, primary color scheme, shadow effects, and hover interactions. Built with Framer Motion for smooth number transitions and viewport detection, making it ideal for dashboards, analytics pages, and metrics-focused interfaces.",
+  "_classifiedAt": "2026-04-23T01:42:35.000Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

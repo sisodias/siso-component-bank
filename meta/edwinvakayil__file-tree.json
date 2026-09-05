@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@edwinvakayil/components/file-tree",
+  "author": "edwinvakayil",
+  "slug": "file-tree",
+  "name": "file-tree",
+  "description": "A compound file tree with nested folder rows, extension-aware icons, keyboard navigation, hover highlighting, and single or multi-select for browsing file structures.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/edwinvakayil/file-tree?api_key=$API_KEY_21ST\"",
+  "id": "edwinvakayil__file-tree",
+  "bundleUrl": "https://cdn.21st.dev/edwinvakayil/file-tree/default/bundle.1783695298489.html",
+  "previewUrl": "https://cdn.21st.dev/edwinvakayil/file-tree/default/preview.1783695298489.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

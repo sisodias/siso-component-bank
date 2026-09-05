@@ -1,0 +1,26 @@
+{
+  "id": "manuarora700__sticky-banner",
+  "author": "manuarora700",
+  "slug": "sticky-banner",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@manuarora700/components/sticky-banner",
+  "fetchedAt": "2026-08-29T05:37:16.424Z",
+  "completedAt": "2026-08-29T05:37:19.178Z",
+  "versionedFilename": "code.1750553599314.tsx",
+  "codeReference": "r2://components-code-private/larsen66/sticky-banner/code.1750553599314.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/sticky-banner/code.1750553599314.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1861,
+  "sha256": "9708595c9af677b09f9260d0b0be5d1a11a5a6108269ceecdfa5d07e5348bb70",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

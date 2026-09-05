@@ -1,0 +1,34 @@
+{
+  "category": [
+    "pricing"
+  ],
+  "subcategory": "fare option selector buttons",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Selecting fare or ticket options in transportation or travel applications",
+    "Choosing pricing tiers in subscription-based SaaS platforms",
+    "Confirming selections in e-commerce checkout flows",
+    "Interactive pricing display for service-based businesses",
+    "Quick action triggers in form-based interfaces"
+  ],
+  "ai_summary": "A reusable button component with variant support (default, destructive, outline, secondary, ghost, link) and size options, commonly used as interactive elements within fare selection UIs. Supports Radix UI slot pattern for composition and includes accessibility features like focus-visible ring styling.",
+  "_classifiedAt": "2026-04-23T01:47:00.003Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

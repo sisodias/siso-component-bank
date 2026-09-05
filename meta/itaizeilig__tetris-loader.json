@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@itaizeilig/components/tetris-loader",
+  "author": "itaizeilig",
+  "slug": "tetris-loader",
+  "name": "tetris-loader",
+  "description": "A minimalist, high-contrast Tetris-inspired loading animation built with React and TypeScript. This component delivers a clean, pure black-and-white aesthetic with full dark mode support, creating a striking visual loading experience.\nKey Features:\n\nPure Monochrome Design: Exclusively uses black and white colors - no grays or intermediate shades\nDark Mode Native: Seamlessly switches between black-on-white (light) and white-on-black (dark) themes\nAuthentic Tetris Mechanics: All 7 Tetriminos with proper rotation, stacking, and line clearing\nConfigurable Options:\n\nSize: Small (8×16), Medium (10×20), or Large (10×20 with bigger blocks)\nSpeed: Slow (150ms), Normal (80ms), or Fast (40ms) drop rates\nLoading Text: Customizable message or hide completely\n\n\nSmooth Performance: 60fps animations using requestAnimationFrame\nAuto-Reset: Intelligently clears the grid when pieces stack too high",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/itaizeilig/tetris-loader?api_key=$API_KEY_21ST\"",
+  "id": "itaizeilig__tetris-loader",
+  "bundleUrl": "https://cdn.21st.dev/itaizeilig/tetris-loader/default/bundle.1751903082913.html",
+  "previewUrl": "https://cdn.21st.dev/itaizeilig/tetris-loader/default/preview.1751903082913.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 187,
+  "demo_id": 3794,
+  "video_url": "https://cdn.21st.dev/user_2uRqyJd4wwXMMwsvJ2zHQwzZP8d/tetris-loader/default/video.1753183497562.mp4"
+}

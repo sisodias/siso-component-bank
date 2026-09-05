@@ -1,0 +1,26 @@
+{
+  "id": "larsen66__3d-text",
+  "author": "larsen66",
+  "slug": "3d-text",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@larsen66/components/3d-text",
+  "fetchedAt": "2026-08-29T05:21:37.586Z",
+  "completedAt": "2026-08-29T05:21:40.151Z",
+  "versionedFilename": "code.1750181194486.tsx",
+  "codeReference": "r2://components-code-private/larsen66/3d-text/code.1750181194486.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/3d-text/code.1750181194486.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1752,
+  "sha256": "b101e865b5771274da88f196717e2f3a843f34bd189a90a83d020f0956306c6a",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

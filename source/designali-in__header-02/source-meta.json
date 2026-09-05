@@ -1,0 +1,26 @@
+{
+  "id": "designali-in__header-02",
+  "author": "designali-in",
+  "slug": "header-02",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/header-02",
+  "fetchedAt": "2026-08-29T04:18:42.506Z",
+  "completedAt": "2026-08-29T04:18:44.842Z",
+  "versionedFilename": "code.1760030869794.tsx",
+  "codeReference": "r2://components-code-private/designali-in/header-02/code.1760030869794.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/header-02/code.1760030869794.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 12047,
+  "sha256": "da83f76170749a28ef25fd59c82ee1a442c10b44493da02a0ac4d237c80dd132",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

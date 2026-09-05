@@ -1,0 +1,26 @@
+{
+  "id": "shugar__grid",
+  "author": "shugar",
+  "slug": "grid",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/grid",
+  "fetchedAt": "2026-08-29T07:19:29.461Z",
+  "completedAt": "2026-08-29T07:19:31.665Z",
+  "versionedFilename": "code.1751972794034.tsx",
+  "codeReference": "r2://components-code-private/shugar/grid/code.1751972794034.tsx",
+  "codeUrl": "https://cdn.21st.dev/shugar/grid/code.1751972794034.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3644,
+  "sha256": "d9a073b9b9d48cc66bb914bd9fd0e239e2a5e45390ba1431cbd74a4ab9d135b2",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

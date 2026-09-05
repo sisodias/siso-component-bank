@@ -1,0 +1,33 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "scroll-animated sticky image cards",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Portfolio or project showcases with smooth scroll-driven card scaling effects",
+    "Product galleries that reveal items progressively as users scroll through a section",
+    "Creative agency or design studio showcases featuring image-heavy layouts",
+    "Case study pages with sticky image cards that expand during scroll",
+    "Interactive landing pages with parallax-style image reveals"
+  ],
+  "ai_summary": "A scroll-animated image gallery component that uses Framer Motion's useScroll and useTransform to create sticky card effects. Images scale up smoothly as the user scrolls through a container, with responsive sizing for mobile, tablet, and desktop. The component uses Lenis for smooth scrolling and displays a horizontal stack of project images that become fixed-positioned cards during scroll progress, making it ideal for portfolio showcases and creative presentations.",
+  "_classifiedAt": "2026-04-23T01:43:32.038Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

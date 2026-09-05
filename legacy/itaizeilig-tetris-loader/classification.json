@@ -1,0 +1,37 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loader",
+  "visual_style": [
+    "minimalist",
+    "mono",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "gaming",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Loading state indicator for web applications and dashboards",
+    "Page transition feedback during async data fetching",
+    "Initial app load screen animation",
+    "Progress indicator for gaming or entertainment platforms",
+    "Status feedback during background operations"
+  ],
+  "ai_summary": "A Tetris-themed animated loading spinner featuring falling block pieces rendered in a pure black and white aesthetic with dark mode support. The component offers customizable size and animation speed through props, using React hooks and requestAnimationFrame for smooth continuous animation. Perfect for adding playful visual feedback to loading states while maintaining a clean, minimalist interface.",
+  "_classifiedAt": "2026-04-23T16:45:13.443Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

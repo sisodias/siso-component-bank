@@ -1,0 +1,35 @@
+{
+  "category": "feedback",
+  "subcategory": "infinity-loader",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display loading states during async operations like API calls or data fetching",
+    "Indicate page transitions or navigation loading in single-page applications",
+    "Show progress during file uploads or form submissions",
+    "Provide visual feedback during background processing tasks",
+    "Enhance user experience by indicating system activity without blocking interaction"
+  ],
+  "ai_summary": "An infinity symbol SVG loader with a continuous stroke animation that creates a traveling dash effect. The component is fully self-contained with inline keyframes, accessible with proper ARIA attributes, and scales responsively via the size prop. It uses theme-aware colors (stroke-muted for track, primary for animated path) making it suitable for any design system.",
+  "_classifiedAt": "2026-04-23T01:47:27.891Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

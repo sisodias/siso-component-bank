@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "activity-list",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "e-commerce",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Displaying user transaction history with avatars, descriptions, and currency amounts in a fintech dashboard",
+    "Showing recent activity feeds in a SaaS application with animated list item reveals",
+    "Rendering e-commerce order activity with staggered spring animations for visual polish",
+    "Displaying notification or event logs with formatted currency and date information"
+  ],
+  "ai_summary": "A shadcn-style activity list component featuring Framer Motion animations for staggered list item reveals. Displays activity items with avatars, names, descriptions, formatted currency amounts, and dates. Uses spring-based animations with opacity and y-axis transitions. Ideal for fintech dashboards, e-commerce order tracking, or SaaS activity feeds. Styled with flat design principles using shadcn's card utilities and border styling.",
+  "_classifiedAt": "2026-04-23T01:42:50.038Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

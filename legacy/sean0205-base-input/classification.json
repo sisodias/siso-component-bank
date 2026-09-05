@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "dropdown-trigger-button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Serving as a trigger for dropdown menus or select components",
+    "Providing styled action buttons with multiple visual variants",
+    "Enabling dropdown selection with open/closed state handling",
+    "Supporting form submissions with disabled states"
+  ],
+  "ai_summary": "A button component with multiple style variants (primary, mono, destructive, outline, ghost, etc.) designed to serve as a trigger for dropdown or select menus. Features chevron icon support for indicating expandable state and uses CVA for variant management. Includes skeuomorphic styling with hover effects and state-based styling.",
+  "_classifiedAt": "2026-04-22T09:14:05.303Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

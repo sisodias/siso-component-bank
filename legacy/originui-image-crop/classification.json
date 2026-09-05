@@ -1,0 +1,31 @@
+{
+  "category": "input",
+  "subcategory": "action-button",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in forms and pages",
+    "Destructive action buttons with visual warning styling",
+    "Navigation and link-like button actions",
+    "Secondary or tertiary actions within UI compositions",
+    "Icon-only buttons for compact toolbars and controls"
+  ],
+  "ai_summary": "A React button component built with Radix UI Slot for composition and class-variance-authority for variant management. Supports multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Features standard accessibility states including focus-visible outlines, hover effects, and disabled states. Uses subtle shadow styling for depth and is designed as a reusable atomic component for any UI design system.",
+  "_classifiedAt": "2026-04-23T17:04:25.756Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

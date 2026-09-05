@@ -1,0 +1,29 @@
+{
+  "category": "form",
+  "subcategory": "authentication-login-form",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "User authentication and login for SaaS applications requiring email and password credentials",
+    "Secure account access for fintech platforms with password visibility toggle functionality",
+    "E-commerce checkout and account management login flows",
+    "Developer tools and dashboard authentication interfaces",
+    "Remember me functionality for returning user sessions"
+  ],
+  "ai_summary": "A polished authentication card component featuring a glassmorphism aesthetic with backdrop blur effects, a centered user avatar, email/password inputs, and a password visibility toggle. The component includes remember me functionality and uses Lucide and Remix icons for visual polish. Designed for desktop and mobile responsive layouts with clean, minimal styling suitable for SaaS, fintech, and e-commerce authentication flows.",
+  "_classifiedAt": "2026-04-23T11:29:18.483Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ruixen.ui__music-equalizer-upload",
+  "author": "ruixen.ui",
+  "slug": "music-equalizer-upload",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/music-equalizer-upload",
+  "fetchedAt": "2026-08-29T06:45:29.573Z",
+  "completedAt": "2026-08-29T06:45:30.454Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "page-soft404",
+  "failureClass": "soft-404",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/ruixen.ui__music-equalizer-upload/code.tsx",
+    "bytes": 1939,
+    "sha256": "a04ff0060fcb8b3fccd65ea15d14310e5e9f01e2ddfc8b989aa2c5414333557d",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is page-soft404/soft-404."
+  }
+}

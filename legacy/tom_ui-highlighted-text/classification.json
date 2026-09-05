@@ -1,0 +1,31 @@
+{
+  "category": "data-display",
+  "subcategory": "animated-text-highlighter",
+  "visual_style": [
+    "minimalist",
+    "dark"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Hero section headlines with animated reveal effects",
+    "Feature highlights that animate into view on scroll",
+    "Marketing copy with sliding highlight accents",
+    "Emphasis text with directional reveal animations",
+    "Interactive typography for landing pages"
+  ],
+  "ai_summary": "A typography component that creates a sliding highlight effect behind text, revealing content from any direction (left, right, top, bottom) with spring-based animations. Uses mix-blend-difference for a distinctive inverted color effect that works across light and dark themes. Perfect for creating animated text emphasis in hero sections and feature callouts.",
+  "_classifiedAt": "2026-04-22T09:18:14.763Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

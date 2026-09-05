@@ -1,0 +1,30 @@
+{
+  "category": "input",
+  "subcategory": "range-slider",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Allow users to select numeric values within a defined range for settings or filters",
+    "Collect percentage or intensity inputs in forms and dashboards",
+    "Enable continuous value selection in price filters for e-commerce",
+    "Adjust numeric parameters in configuration panels"
+  ],
+  "ai_summary": "A minimalist range slider component styled with Vercel's Geist design language. Supports automatic dark/light mode detection and provides a clean input interface for selecting numeric values between 1-100. Uses custom CSS for polished webkit and moz slider thumbs with subtle shadows and smooth hover transitions.",
+  "_classifiedAt": "2026-04-23T17:31:20.039Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

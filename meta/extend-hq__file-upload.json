@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@extend-hq/components/file-upload",
+  "author": "extend-hq",
+  "slug": "file-upload",
+  "name": "file-upload",
+  "description": "A drag-and-drop file upload surface with accepted file type icons and a compact file list. Validates accepted file types, shows an animated border beam while dragging, and renders queued files with thumbnails.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/extend-hq/file-upload?api_key=$API_KEY_21ST\"",
+  "id": "extend-hq__file-upload",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/file-upload/default/bundle.1782207976342.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/file-upload/default/preview.1782207976342.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

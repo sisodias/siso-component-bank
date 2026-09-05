@@ -1,0 +1,26 @@
+{
+  "id": "moazamtrade__pinky-news-letter",
+  "author": "moazamtrade",
+  "slug": "pinky-news-letter",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@moazamtrade/components/pinky-news-letter",
+  "fetchedAt": "2026-08-29T05:47:50.180Z",
+  "completedAt": "2026-08-29T05:47:52.326Z",
+  "versionedFilename": "code.1756713760108.tsx",
+  "codeReference": "r2://components-code-private/moazamtrade/pinky-news-letter/code.1756713760108.tsx",
+  "codeUrl": "https://cdn.21st.dev/moazamtrade/pinky-news-letter/code.1756713760108.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2350,
+  "sha256": "7612f0c1a98b024663cd5a953b58398cff276b14b8ffd1de9112aa6d7cd68477",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

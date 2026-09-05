@@ -1,0 +1,26 @@
+{
+  "id": "dqnamo__scramble-text",
+  "author": "dqnamo",
+  "slug": "scramble-text",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dqnamo/components/scramble-text",
+  "fetchedAt": "2026-08-29T04:36:54.661Z",
+  "completedAt": "2026-08-29T04:36:56.869Z",
+  "versionedFilename": "code.1782930162844.tsx",
+  "codeReference": "r2://components-code-private/larsen66/scramble-text/code.1782930162844.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/scramble-text/code.1782930162844.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3286,
+  "sha256": "11eee39c45454a2f325b48d82be3eb0a0dc6ca90574309e70871d898a7dae426",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

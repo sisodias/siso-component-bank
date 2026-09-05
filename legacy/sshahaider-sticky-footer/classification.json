@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons in forms and landing pages",
+    "Destructive action triggers with confirmation states",
+    "Navigation links styled as buttons with hover effects",
+    "Icon-only buttons for compact UI toolbars",
+    "Composable button components via asChild pattern"
+  ],
+  "ai_summary": "A reusable Button component built with Radix UI Slot and class-variance-authority for flexible variant and size options. Supports multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon), with built-in focus-visible keyboard navigation states and hover effects. Designed as a primitive atomic component suitable for composing into larger UI systems like sticky footers or card actions.",
+  "_classifiedAt": "2026-04-23T01:53:53.253Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

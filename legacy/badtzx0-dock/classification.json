@@ -1,0 +1,32 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "icon-dock",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Primary application navigation in macOS-style interfaces",
+    "Quick-launch panel for frequently accessed features or pages",
+    "Icon-based navigation bar for dashboards and admin panels",
+    "Taskbar-style navigation for web applications",
+    "Product category shortcuts in e-commerce platforms"
+  ],
+  "ai_summary": "A macOS-style dock navigation component featuring expanding icons on hover using CSS sibling selectors. The dock creates a cascading magnification effect where hovered icons and their adjacent icons scale up proportionally, while distant icons remain smaller. Commonly used as a primary navigation element or quick-access launcher in SaaS applications and modern web interfaces.",
+  "_classifiedAt": "2026-04-23T11:31:42.608Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

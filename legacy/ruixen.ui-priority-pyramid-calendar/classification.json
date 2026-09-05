@@ -1,0 +1,26 @@
+{
+  "category": "input",
+  "subcategory": "button-with-variants",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action trigger for forms and interactive elements",
+    "Destructive action confirmation buttons",
+    "Secondary actions alongside primary CTAs",
+    "Ghost-style navigation and menu items",
+    "Link-style inline text actions"
+  ],
+  "ai_summary": "A versatile button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes. Built with Radix UI Slot for composition and CVA for variant management. Includes hover states, focus indicators, disabled states, and subtle shadow effects. Designed for general-purpose use across desktop and mobile interfaces.",
+  "_classifiedAt": "2026-04-23T01:50:54.701Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

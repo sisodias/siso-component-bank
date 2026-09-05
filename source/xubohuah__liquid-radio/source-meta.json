@@ -1,0 +1,26 @@
+{
+  "id": "xubohuah__liquid-radio",
+  "author": "xubohuah",
+  "slug": "liquid-radio",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@xubohuah/components/liquid-radio",
+  "fetchedAt": "2026-08-29T07:58:50.701Z",
+  "completedAt": "2026-08-29T07:58:52.687Z",
+  "versionedFilename": "code.1750822155062.tsx",
+  "codeReference": "r2://components-code-private/xubohuah/liquid-radio/code.1750822155062.tsx",
+  "codeUrl": "https://cdn.21st.dev/xubohuah/liquid-radio/code.1750822155062.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 959,
+  "sha256": "9b4ff0e2568ebdb80209e3bf90e3c4cdc0e0ae619d09aa90b3f2c09bb94ebd75",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

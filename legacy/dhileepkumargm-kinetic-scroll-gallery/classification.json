@@ -1,0 +1,28 @@
+{
+  "category": "media",
+  "subcategory": "scroll-gallery kinetic-grid",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Photography portfolio showcasing with scroll-driven kinetic effects",
+    "Product gallery with dynamic skew animations based on scroll velocity",
+    "Creative agency landing pages with interactive image grids",
+    "Travel and lifestyle content presentation with physics-based scroll transforms"
+  ],
+  "ai_summary": "A kinetic scroll-driven image gallery that applies smooth skew transformations to images based on scroll velocity using Framer Motion's spring physics. Features a grid of images that dynamically respond to user scrolling with elastic, physics-based animations via useSpring and useTransform hooks.",
+  "_classifiedAt": "2026-04-23T01:39:07.537Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

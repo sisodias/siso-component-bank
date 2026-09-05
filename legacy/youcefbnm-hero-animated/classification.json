@@ -1,0 +1,38 @@
+{
+  "category": [
+    "hero"
+  ],
+  "subcategory": "animated-gradient-hero",
+  "visual_style": [
+    "gradient",
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "hover-glow",
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero sections with animated headline text and gradient backgrounds",
+    "Product or feature showcases with staggered text reveal animations",
+    "Portfolio and creative showcase pages with directional transform effects",
+    "SaaS landing pages with animated gradients and scroll-triggered content reveals",
+    "Marketing pages requiring visually engaging hero sections with motion effects"
+  ],
+  "ai_summary": "A highly animated hero component featuring gradient backgrounds (blue, black, and custom color options), staggered text animations, and directional transform effects. Built with Framer Motion for smooth transitions and scroll-triggered reveals. Supports multiple gradient positions, sizes, and color configurations with class-variance-authority for variant management. Ideal for creating visually striking landing page heroes with professional motion design.",
+  "_classifiedAt": "2026-04-23T17:45:02.504Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

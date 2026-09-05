@@ -1,0 +1,31 @@
+{
+  "category": "data-display",
+  "subcategory": "sliding-counter",
+  "visual_style": [],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying animated statistics and metrics with smooth number transitions",
+    "Creating price displays with sliding digit animations in e-commerce",
+    "Building dashboard counters with spring-physics-based number animations",
+    "Implementing rating or score displays with fluid digit morphing",
+    "Creating timer or countdown components with seamless sliding digit changes"
+  ],
+  "ai_summary": "A sliding number component that animates individual digits vertically with spring physics for smooth transitions. Uses motion/react with physics-based easing and layoutId for seamless morphing between digit states. Ideal for displaying counters, prices, and statistics in dashboards, e-commerce, and analytics interfaces with elegant animated number displays.",
+  "_classifiedAt": "2026-04-23T11:33:30.683Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "moazamtrade-hover-animation-button",
+  "type": "registry:ui",
+  "title": "Moazamtrade Hover Animation Button",
+  "description": "Installed from https://21st.dev/r/moazamtrade/hover-animation-button",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "moazamtrade-hover-animation-button"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "hover-animation-button.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "styled-components"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/moazamtrade/hover-animation-button",
+    "fetchedAt": "2026-04-23T01:18:30.585Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "category": "media",
+  "subcategory": "image-trail cursor-follow animation",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "parallax",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creating animated image trails that follow cursor movement for visual engagement",
+    "Building interactive galleries with images that spawn and animate on mouse movement",
+    "Adding playful image sequences to portfolio or creative showcase sites",
+    "Enhancing e-commerce product discovery with floating product image trails",
+    "Creating attention-grabbing visual effects for hero sections or landing pages"
+  ],
+  "ai_summary": "An interactive image trail component that spawns and animates child images in sequence following cursor movement. Features configurable rotation ranges, animation sequences, velocity-based spawning, and optional container ref targeting. Built with Framer Motion for smooth animations and uses a custom hook for mouse vector tracking. Ideal for creative portfolios, media sites, or any project seeking playful cursor-following visual effects.",
+  "_classifiedAt": "2026-04-23T16:28:55.974Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

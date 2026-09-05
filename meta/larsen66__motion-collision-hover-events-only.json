@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@larsen66/components/motion-collision-hover-events-only",
+  "author": "larsen66",
+  "slug": "motion-collision-hover-events-only",
+  "name": "motion-collision-hover-events-only",
+  "description": "The naive approach: lighting grid cells on pointerenter, which skips cells on a fast cursor. The counter-example to swept collision detection in Motion for React.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/larsen66/motion-collision-hover-events-only?api_key=$API_KEY_21ST\"",
+  "id": "larsen66__motion-collision-hover-events-only",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/motion-collision-hover-events-only/default/bundle.1786997689967-33ac2a71-e25f-4123-a535-2270a7c0c182.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/motion-collision-hover-events-only/default/preview.1786997689967-33ac2a71-e25f-4123-a535-2270a7c0c182.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

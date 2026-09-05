@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@dqnamo/components/scroll-fade-list",
+  "author": "dqnamo",
+  "slug": "scroll-fade-list",
+  "name": "scroll-fade-list",
+  "description": "A scrollable list with gradient fade edges that appear to signal there is more content above or below. The top and bottom fades grow and shrink based on scroll position (measured on scroll and via a ResizeObserver, batched with requestAnimationFrame), leaving a stable scrollbar gutter. It is fully generic over the item type via getKey/items/renderItem, with a configurable max fade height and a themeable background color. Dependency-free.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/dqnamo/scroll-fade-list?api_key=$API_KEY_21ST\"",
+  "id": "dqnamo__scroll-fade-list",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/scroll-fade-list/default/bundle.1782932573161.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/scroll-fade-list/default/preview.1782932573161.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 4,
+  "demo_id": 16685,
+  "video_url": "https://cdn.21st.dev/larsen66/scroll-fade-list/default/video.1782932573161.mp4"
+}

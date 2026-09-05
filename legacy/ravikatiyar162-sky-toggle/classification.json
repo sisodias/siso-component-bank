@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "theme-toggle-switch",
+  "visual_style": [
+    "illustration",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Toggle between light and dark mode themes",
+    "Enable/disable settings in a preferences panel",
+    "Switch features on or off in a configuration UI",
+    "Control visibility of content or features",
+    "Toggle boolean states in forms and settings"
+  ],
+  "ai_summary": "A themed toggle switch component featuring sky-themed decorative elements including clouds and stars rendered as inline SVG. Built with styled-components for theming implementation, this toggle provides a visually engaging way to switch between binary states like light/dark mode or enable/disable features. The component wraps a standard checkbox input with custom styling.",
+  "_classifiedAt": "2026-04-23T17:13:20.828Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

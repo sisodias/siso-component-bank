@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "financial-chart",
+  "visual_style": [
+    "flat",
+    "dark"
+  ],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display real-time cryptocurrency price data with candlestick, line, and area chart visualizations",
+    "Enable users to switch between different timeframes (1h, 1d, 1w, 1m) for market analysis",
+    "Show price changes and percentage changes for informed trading decisions",
+    "Provide interactive hover tooltips for detailed data point inspection",
+    "Integrate into fintech dashboards and crypto trading platforms for market monitoring"
+  ],
+  "ai_summary": "A dynamic cryptocurrency market chart component featuring candlestick, line, and area visualization modes rendered on canvas. Supports multiple timeframes (1h, 1d, 1w, 1m) with interactive hover tooltips displaying OHLCV data. Includes real-time price tracking with change percentages and a dark-themed flat design optimized for financial dashboards and trading interfaces.",
+  "_classifiedAt": "2026-04-23T17:03:11.537Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

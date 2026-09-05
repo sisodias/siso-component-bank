@@ -1,0 +1,39 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons in hero sections, pricing tables, and landing pages",
+    "Secondary navigation actions in forms, modals, and overlays",
+    "Destructive action buttons for delete, cancel, or warning states",
+    "Icon-only buttons for compact toolbars and mobile interfaces",
+    "Link-styled buttons for inline navigation within text content"
+  ],
+  "ai_summary": "A reusable Button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Built with Radix UI Slot for composition, class-variance-authority for consistent styling, and includes full keyboard accessibility. Supports asChild prop for polymorphic behavior and ring-based focus states.",
+  "_classifiedAt": "2026-04-23T16:42:04.003Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

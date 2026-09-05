@@ -1,0 +1,26 @@
+{
+  "id": "sh20raj__lingo-hero",
+  "author": "sh20raj",
+  "slug": "lingo-hero",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sh20raj/components/lingo-hero",
+  "fetchedAt": "2026-08-29T07:06:52.778Z",
+  "completedAt": "2026-08-29T07:06:55.067Z",
+  "versionedFilename": "code.1781707316439.tsx",
+  "codeReference": "r2://components-code-private/sh20raj/lingo-hero/code.1781707316439.tsx",
+  "codeUrl": "https://cdn.21st.dev/sh20raj/lingo-hero/code.1781707316439.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 34116,
+  "sha256": "ab8f9463d762060186f42b5b109ba9318a42c646b5cbe319d52e0f856a56615f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

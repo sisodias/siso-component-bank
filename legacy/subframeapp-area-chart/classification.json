@@ -1,0 +1,26 @@
+{
+  "category": "data-display",
+  "subcategory": "area-chart",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying trends and patterns across multiple data series over time periods",
+    "Comparing category performance side-by-side in a stacked or unstacked view",
+    "Visualizing data distributions for analytics dashboards in SaaS applications",
+    "Showing time-series data in dark-themed fintech and business intelligence tools",
+    "Rendering categorical comparisons with customizable color schemes"
+  ],
+  "ai_summary": "A dark-themed area chart component for visualizing time-series data across multiple categories. Supports stacked layouts, custom color palettes, and configurable data categories. Wraps SubframeCore's AreaChart with sensible defaults for psychology, business, and biology data series.",
+  "_classifiedAt": "2026-04-23T01:53:45.533Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

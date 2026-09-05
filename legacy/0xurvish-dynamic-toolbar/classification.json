@@ -1,0 +1,33 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "expandable-toolbar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Expandable action toolbar for productivity and creative applications",
+    "Dynamic tool palette with blur effects for secondary actions in editor interfaces",
+    "Collapsible navigation bar for space-efficient tool access in web apps",
+    "Interactive toolbar with hover states for inbox, messaging, or dashboard applications"
+  ],
+  "ai_summary": "A dynamic expandable toolbar component featuring motion animations and blur effects for secondary tools. Built with motion/react and Tailwind CSS, it provides a clean, interactive tool palette with hover states and click-to-expand functionality. Ideal for SaaS dashboards, creative tools, and productivity applications needing a space-efficient, animated toolbar interface.",
+  "_classifiedAt": "2026-04-22T08:50:21.847Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

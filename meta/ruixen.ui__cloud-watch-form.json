@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/cloud-watch-form",
+  "author": "ruixen.ui",
+  "slug": "cloud-watch-form",
+  "name": "cloud-watch-form",
+  "description": "This Interactive Cartoon Form component is a playful, engaging form built with Next.js, TypeScript, and Shadcn UI. It features a cartoon face whose eyes follow the user’s cursor, creating a sense of interactivity and liveliness. The eyes naturally blink periodically, enhancing the realistic feel of the animation. When the user focuses on the password field, the eyes “close” to mimic privacy, represented by a black line, and reopen once typing is done. The form itself uses Shadcn UI components for inputs, labels, and buttons, and is set against a stylish semi-transparent, blurred background, giving it a modern “glass” effect. This combination of animation and UI design makes filling out the form a fun, visually appealing experience while remaining fully functional.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/cloud-watch-form?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__cloud-watch-form",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/cloud-watch-form/default/bundle.1760080688856.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/cloud-watch-form/default/preview.1760080688855.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 50,
+  "demo_id": 8686,
+  "video_url": "https://cdn.21st.dev/ruixen.ui/cloud-watch-form/default/video.1760080688856.mp4"
+}

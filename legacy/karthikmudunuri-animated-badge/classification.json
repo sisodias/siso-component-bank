@@ -1,0 +1,28 @@
+{
+  "category": "data-display",
+  "subcategory": "badge",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Landing page feature announcement badges with eye-catching animations",
+    "Product or update labels in dashboards and marketing pages",
+    "Call-to-action indicators with optional redirect links",
+    "Status badges in content management systems or e-commerce listings",
+    "Highlighted feature chips in SaaS product documentation"
+  ],
+  "ai_summary": "Animated badge component with scroll-triggered fade and blur animations. Features customizable color theming via hex input, optional link redirect functionality, and elegant SVG gradient effects. Supports both light and dark modes with minimalist rounded styling. Uses Framer Motion for smooth entrance animations triggered on viewport entry, making it ideal for feature announcements, product labels, or status indicators in modern web applications.",
+  "_classifiedAt": "2026-04-22T09:02:11.869Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

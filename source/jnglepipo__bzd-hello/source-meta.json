@@ -1,0 +1,26 @@
+{
+  "id": "jnglepipo__bzd-hello",
+  "author": "jnglepipo",
+  "slug": "bzd-hello",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@jnglepipo/components/bzd-hello",
+  "fetchedAt": "2026-08-29T05:09:34.140Z",
+  "completedAt": "2026-08-29T05:09:36.318Z",
+  "versionedFilename": "code.1786051173552-5f5be700-a7ae-4a77-a4ee-6a11a02fcf7c.tsx",
+  "codeReference": "r2://components-code-private/jnglepipo/bzd-hello/code.1786051173552-5f5be700-a7ae-4a77-a4ee-6a11a02fcf7c.tsx",
+  "codeUrl": "https://cdn.21st.dev/jnglepipo/bzd-hello/code.1786051173552-5f5be700-a7ae-4a77-a4ee-6a11a02fcf7c.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

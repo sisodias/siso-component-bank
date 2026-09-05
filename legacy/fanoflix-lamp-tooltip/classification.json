@@ -1,0 +1,26 @@
+{
+  "category": "overlay",
+  "subcategory": "tooltip",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying contextual help text on hover for icons and buttons",
+    "Showing additional information for complex UI elements",
+    "Providing feature explanations in SaaS applications",
+    "Revealing truncated text content on user interaction",
+    "Offering navigation hints for interactive elements"
+  ],
+  "ai_summary": "A tooltip component built on Radix UI primitives with dark mode support, featuring slide and zoom animations with directional shadow effects for enhanced visual depth. Supports multiple placement positions (top, bottom, left, right) with smooth fade transitions.",
+  "_classifiedAt": "2026-04-23T16:39:56.291Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

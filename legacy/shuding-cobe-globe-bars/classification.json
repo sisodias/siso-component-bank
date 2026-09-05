@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "3D globe with bar chart markers",
+  "visual_style": [
+    "3d",
+    "gradient"
+  ],
+  "interactions": [
+    "drag",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying global analytics metrics across multiple geographic locations",
+    "Visualizing business metrics by city or region on an interactive 3D globe",
+    "Creating geographic data dashboards for SaaS analytics platforms",
+    "Showing location-based performance or sales data with animated bar markers",
+    "Building interactive data visualizations for monitoring tools and dev dashboards"
+  ],
+  "ai_summary": "An interactive 3D globe component built with the Cobe WebGL library, featuring animated bar chart markers at specific geographic coordinates. Users can drag to rotate the globe and view data values at locations like NYC, London, Tokyo, and Singapore. The component auto-rotates when idle and supports smooth pointer-based interactions for exploring global metrics.",
+  "_classifiedAt": "2026-04-22T09:16:41.608Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "kedhareswer.12110626-deer-logo",
+  "type": "registry:ui",
+  "title": "Kedhareswer.12110626 Deer Logo",
+  "description": "Installed from https://21st.dev/r/kedhareswer.12110626/deer-logo",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "kedhareswer.12110626-deer-logo"
+  ],
+  "files": [
+    {
+      "path": "deer-logo.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/kedhareswer.12110626/deer-logo",
+    "fetchedAt": "2026-04-23T01:16:17.718Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

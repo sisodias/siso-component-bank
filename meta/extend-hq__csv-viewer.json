@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@extend-hq/components/csv-viewer",
+  "author": "extend-hq",
+  "slug": "csv-viewer",
+  "name": "csv-viewer",
+  "description": "A CSV and TSV viewer with parsing, file upload, search, zoom, and theme-aware grid rendering powered by Glide Data Grid.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/extend-hq/csv-viewer?api_key=$API_KEY_21ST\"",
+  "id": "extend-hq__csv-viewer",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/csv-viewer/default/bundle.1782171888013.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/csv-viewer/default/preview.1782171888013.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

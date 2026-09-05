@@ -1,0 +1,26 @@
+{
+  "id": "sumedhalakmal95__hero",
+  "author": "sumedhalakmal95",
+  "slug": "hero",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sumedhalakmal95/components/hero",
+  "fetchedAt": "2026-08-29T07:29:45.830Z",
+  "completedAt": "2026-08-29T07:29:47.728Z",
+  "versionedFilename": "code.1782229543859.tsx",
+  "codeReference": "r2://components-code-private/sumedhalakmal95/hero/code.1782229543859.tsx",
+  "codeUrl": "https://cdn.21st.dev/sumedhalakmal95/hero/code.1782229543859.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 13201,
+  "sha256": "e6a1a12eef16d3354ceba99a7b78f90b57f35f96ed0833ee18e02b4c890cf887",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

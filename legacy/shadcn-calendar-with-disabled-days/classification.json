@@ -1,0 +1,27 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Form submissions and confirmations",
+    "Navigation triggers and links",
+    "Calls-to-action in UI workflows",
+    "Icon-only actions in toolbars",
+    "Primary and secondary action differentiation"
+  ],
+  "ai_summary": "A reusable shadcn/ui button component with multiple variants (default, destructive, outline, secondary, ghost, link) and size options. Built with CVA for type-safe variant management and Radix UI's Slot for composition flexibility. Supports disabled states, focus-visible indicators, and icon integration through shrink utilities.",
+  "_classifiedAt": "2026-04-23T17:26:10.175Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

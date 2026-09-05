@@ -1,0 +1,35 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "floating-3d-card",
+  "visual_style": [
+    "3d",
+    "gradient",
+    "dark"
+  ],
+  "interactions": [
+    "parallax",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive product showcase cards with mouse-tracking 3D rotation",
+    "Feature highlight sections on landing pages with depth effects",
+    "Premium card interfaces for SaaS dashboards requiring visual impact",
+    "E-commerce product cards with engaging hover interactions",
+    "Hero section components for modern web applications"
+  ],
+  "ai_summary": "A floating 3D card component featuring mouse-tracking rotation effects with perspective transforms. The card responds to cursor position by applying rotateX and rotateY transformations with smooth easing and scale transitions. Includes dark mode support, elevated shadows, and depth effects via translateZ for an immersive 3D experience suitable for premium product showcases.",
+  "_classifiedAt": "2026-04-22T09:07:20.201Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

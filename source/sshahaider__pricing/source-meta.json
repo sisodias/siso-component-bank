@@ -1,0 +1,26 @@
+{
+  "id": "sshahaider__pricing",
+  "author": "sshahaider",
+  "slug": "pricing",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sshahaider/components/pricing",
+  "fetchedAt": "2026-08-29T07:27:11.849Z",
+  "completedAt": "2026-08-29T07:27:14.339Z",
+  "versionedFilename": "code.1753313535763.tsx",
+  "codeReference": "r2://components-code-private/sshahaider/pricing/code.1753313535763.tsx",
+  "codeUrl": "https://cdn.21st.dev/sshahaider/pricing/code.1753313535763.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6701,
+  "sha256": "98851f22561507599c58b8e93fc276439d815b7b6057b9acda4f543bea2406f7",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

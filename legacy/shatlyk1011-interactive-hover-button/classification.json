@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "animated button with loading and success states",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Call-to-action button with interactive hover animations and expanding dot effect",
+    "Form submission button with loading spinner and success feedback states",
+    "Async operation button that provides visual feedback during processing"
+  ],
+  "ai_summary": "An interactive hover button component featuring smooth animations with a dot that expands into a glow effect on hover, supporting idle, loading, and success states with fluid framer-motion transitions. Built with Tailwind CSS and designed for use in forms, CTAs, and action triggers.",
+  "_classifiedAt": "2026-04-22T09:16:23.994Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

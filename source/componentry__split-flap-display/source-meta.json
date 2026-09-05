@@ -1,0 +1,26 @@
+{
+  "id": "componentry__split-flap-display",
+  "author": "componentry",
+  "slug": "split-flap-display",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@componentry/components/split-flap-display",
+  "fetchedAt": "2026-08-29T04:01:25.050Z",
+  "completedAt": "2026-08-29T04:01:27.447Z",
+  "versionedFilename": "code.1783715052566.tsx",
+  "codeReference": "r2://components-code-private/componentry/split-flap-display/code.1783715052566.tsx",
+  "codeUrl": "https://cdn.21st.dev/componentry/split-flap-display/code.1783715052566.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 12343,
+  "sha256": "96aa63be0a55836f8b65edf2a1cf1d07ef6f9dc22447985387d4666a62dbb179",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

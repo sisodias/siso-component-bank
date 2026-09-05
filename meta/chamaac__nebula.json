@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@chamaac/components/nebula",
+  "author": "chamaac",
+  "slug": "nebula",
+  "name": "nebula",
+  "description": "An animated deep-space nebula background using a WebGL fractal noise shader with customizable colors and speed.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/chamaac/nebula?api_key=$API_KEY_21ST\"",
+  "id": "chamaac__nebula",
+  "bundleUrl": "https://cdn.21st.dev/chamaac/nebula/default/bundle.1783532308946.html",
+  "previewUrl": "https://cdn.21st.dev/chamaac/nebula/default/preview.1783580735592.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

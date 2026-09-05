@@ -1,0 +1,40 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading-indicator",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display loading state during async operations like API calls or data fetching",
+    "Show progress indication while form submissions are processing",
+    "Provide visual feedback during background tasks without explicit progress percentages",
+    "Replace skeleton loaders for quick-loading scenarios where brief delays occur",
+    "Indicate ongoing activity in buttons, modals, or page sections during user interactions"
+  ],
+  "ai_summary": "An iOS-style loading spinner component featuring 12 animated blades that rotate in sequence to indicate ongoing activity. The component supports three size variants (sm, md, lg) and integrates seamlessly with Tailwind CSS utility classes for flexible styling. Designed as a lightweight, non-intrusive feedback element suitable for any loading state in web applications.",
+  "_classifiedAt": "2026-04-23T17:44:21.233Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

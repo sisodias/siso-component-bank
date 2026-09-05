@@ -1,0 +1,32 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "notification-stack",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Notification center for SaaS applications displaying stacked alerts",
+    "Activity feed showing real-time updates from integrated services",
+    "Alert management system with expandable notification cards",
+    "Dashboard widget for displaying multiple incoming notifications",
+    "Interactive notification stack with hover-reveal animations"
+  ],
+  "ai_summary": "A stacked notification component featuring animated hover interactions that reveal and spread out multiple alert cards in a staggered sequence. Uses spring physics for natural-feeling motion with subtle rotation and shadow changes. Ideal for notification centers in SaaS dashboards, activity feeds from integrated services like GitHub or Stripe, and alert management interfaces requiring a space-efficient yet interactive notification display.",
+  "_classifiedAt": "2026-04-23T01:35:17.831Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action triggers in forms and interfaces",
+    "Navigation actions within web applications",
+    "Destructive action confirmation buttons",
+    "Interactive elements with multiple visual variants",
+    "Accessible button component with keyboard navigation support"
+  ],
+  "ai_summary": "A versatile button component built with Radix UI Slot and class-variance-authority, offering multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Implements standard accessibility patterns with focus-visible rings and disabled states. Designed for Tailwind CSS integration with utility-first styling approach.",
+  "_classifiedAt": "2026-04-23T01:53:30.763Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

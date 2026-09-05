@@ -1,0 +1,33 @@
+{
+  "id": "originui__slider",
+  "author": "originui",
+  "slug": "slider",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@originui/components/slider",
+  "fetchedAt": "2026-08-29T06:01:25.852Z",
+  "completedAt": "2026-08-29T06:01:27.121Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/originui__slider/code.tsx",
+    "bytes": 3425,
+    "sha256": "08c2198914e7d5205c5a1ab12dc86446180d4f236101297c7000bc0a3b9e0d33",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

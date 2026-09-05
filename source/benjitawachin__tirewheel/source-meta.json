@@ -1,0 +1,26 @@
+{
+  "id": "benjitawachin__tirewheel",
+  "author": "benjitawachin",
+  "slug": "tirewheel",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@benjitawachin/components/tirewheel",
+  "fetchedAt": "2026-08-29T03:48:44.613Z",
+  "completedAt": "2026-08-29T03:48:46.772Z",
+  "versionedFilename": "code.1781058265020.tsx",
+  "codeReference": "r2://components-code-private/benjitawachin/tirewheel/code.1781058265020.tsx",
+  "codeUrl": "https://cdn.21st.dev/benjitawachin/tirewheel/code.1781058265020.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2110,
+  "sha256": "23d55cac28626a97e184d8236cd5c547c31fe9867547112d859a9c31eb3a42ca",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

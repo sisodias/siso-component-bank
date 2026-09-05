@@ -1,0 +1,29 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "command-palette",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "system",
+  "use_cases": [
+    "Quick command execution and navigation in productivity applications",
+    "Searching and filtering through large datasets or command lists",
+    "Providing keyboard-driven shortcuts for power users in SaaS dashboards"
+  ],
+  "ai_summary": "A command palette overlay component for quick command execution and navigation. Supports multiple visual variants (primary, secondary, destructive, success, info, warning, mono) with solid, outline, light, and stroke appearances. Features keyboard navigation, slot-based icon and close button support, and responsive sizing for both desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-22T09:14:01.821Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

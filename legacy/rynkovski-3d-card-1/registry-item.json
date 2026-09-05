@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "rynkovski-3d-card-1",
+  "type": "registry:ui",
+  "title": "Rynkovski 3d Card 1",
+  "description": "Installed from https://21st.dev/r/rynkovski/3d-card-1",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "rynkovski-3d-card-1"
+  ],
+  "files": [
+    {
+      "path": "3d-card-1.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/rynkovski/3d-card-1",
+    "fetchedAt": "2026-04-23T03:03:51.195Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

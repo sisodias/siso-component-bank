@@ -1,0 +1,24 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "A reusable button component with multiple style variants for form submissions and calls-to-action",
+    "Interactive UI element for triggering navigation, modals, or other interface events",
+    "Core atomic building block for constructing composite components like cards, dialogs, and menus"
+  ],
+  "ai_summary": "A foundational button component with multiple variants including default, destructive, outline, secondary, ghost, and link styles. Built with Radix UI Slot and CVA for flexible composition, supporting different sizes and states with subtle shadow effects, hover transitions, and focus-visible outlines. Designed as an atomic UI primitive suitable for building more complex interfaces across SaaS, dev tools, and general applications.",
+  "_classifiedAt": "2026-04-23T01:47:46.438Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

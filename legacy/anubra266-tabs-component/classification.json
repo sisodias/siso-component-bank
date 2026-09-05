@@ -1,0 +1,35 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "tabbed-section-navigation",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Organizing dashboard content into navigable sections like Dashboard, Analytics, and Settings",
+    "Creating tabbed interfaces for multi-step forms or wizards",
+    "Displaying product details with category-based content switching",
+    "Building settings panels with grouped configuration options",
+    "Implementing content organization in admin panels or user profiles"
+  ],
+  "ai_summary": "A clean, accessible tabbed navigation component built with Ark UI that organizes content into selectable sections. Features dark mode support, rounded pill styling with selected state highlighting, and smooth transitions. Designed for content-heavy interfaces where users need to switch between related information categories without page navigation.",
+  "_classifiedAt": "2026-04-23T01:36:16.974Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

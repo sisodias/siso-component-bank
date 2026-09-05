@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "oldkong88-light-pull-theme-switcher",
+  "type": "registry:ui",
+  "title": "Oldkong88 Light Pull Theme Switcher",
+  "description": "Installed from https://21st.dev/r/oldkong88/light-pull-theme-switcher",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "oldkong88-light-pull-theme-switcher"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "light-pull-theme-switcher.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/oldkong88/light-pull-theme-switcher",
+    "fetchedAt": "2026-04-23T03:05:01.635Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

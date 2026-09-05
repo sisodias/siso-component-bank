@@ -1,0 +1,26 @@
+{
+  "id": "hari__card-comment",
+  "author": "hari",
+  "slug": "card-comment",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@hari/components/card-comment",
+  "fetchedAt": "2026-08-29T04:54:31.632Z",
+  "completedAt": "2026-08-29T04:54:33.734Z",
+  "versionedFilename": "code.1750177691271.tsx",
+  "codeReference": "r2://components-code-private/larsen66/card-comment/code.1750177691271.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/card-comment/code.1750177691271.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1337,
+  "sha256": "fcf08683ee34881453b09b3735e436d5157193ffed0900f03b699f9a854a40e7",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

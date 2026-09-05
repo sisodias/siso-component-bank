@@ -1,0 +1,30 @@
+{
+  "category": "input",
+  "subcategory": "tag-input",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Users add multiple category tags to content in a content management system",
+    "Users assign descriptive labels to organize products in an e-commerce catalog",
+    "Users filter and sort datasets by entering custom tag criteria",
+    "Creators add topic or genre tags to categorize their content",
+    "Teams assign labels to items in project management or workflow tools"
+  ],
+  "ai_summary": "A clean, minimalist tag input component that allows users to add and remove tags via keyboard (Enter/Backspace) or click interactions. Features dark mode support, focus states with ring indicators, and hover effects on individual tags. Built as a self-contained atomic component with TypeScript interfaces for tags.",
+  "_classifiedAt": "2026-04-23T17:17:22.642Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

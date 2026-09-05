@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "article-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying blog posts or articles in a grid layout on content-heavy websites",
+    "News feed items in media and publishing applications",
+    "Event or feature highlights with location and date metadata",
+    "Portfolio and project showcases with animated hover effects",
+    "Content cards in SaaS marketing pages and documentation sites"
+  ],
+  "ai_summary": "A polished article card component with entrance animations and interactive hover effects featuring image scaling and elevation. The card displays article metadata including tag, date, title, description, and location in a clean minimalist layout. Built with Framer Motion for smooth animations and uses Lucide icons for visual accents, making it ideal for media sites, blogs, and content-driven platforms.",
+  "_classifiedAt": "2026-04-23T01:46:31.133Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

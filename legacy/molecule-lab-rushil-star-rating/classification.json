@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "star-rating",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Product review ratings in e-commerce storefronts",
+    "Customer satisfaction scoring in survey forms",
+    "Content quality ratings in media platforms",
+    "User feedback collection in SaaS dashboards",
+    "Service or provider evaluation in review systems"
+  ],
+  "ai_summary": "A lightweight, interactive star rating component built with lucide-react icons and Tailwind CSS. Supports three size variants, configurable rating scales, and both interactive and readonly modes with smooth hover scale transitions. Designed for collecting user ratings and feedback across e-commerce, SaaS, and media applications.",
+  "_classifiedAt": "2026-04-23T17:01:11.555Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

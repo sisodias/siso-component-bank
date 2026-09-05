@@ -1,0 +1,34 @@
+{
+  "category": "feedback",
+  "subcategory": "loading-indicator",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "media",
+    "education",
+    "real-estate",
+    "healthcare",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display a loading state while fetching data from an API",
+    "Show processing feedback during form submissions",
+    "Indicate page transitions or route changes",
+    "Provide visual feedback during async operations",
+    "Placeholder during image or media loading"
+  ],
+  "ai_summary": "A minimalist grid-based loading indicator component featuring a 3x3 layout of pulsing squares with staggered animation delays. Built with Tailwind CSS animation utilities, it supports three size variants (sm, md, lg) and automatically adjusts to dark/light modes. This atomic component serves as a lightweight alternative to traditional spinners, ideal for modern SaaS applications, dashboards, and e-commerce platforms requiring clean loading states.",
+  "_classifiedAt": "2026-04-23T16:46:36.960Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

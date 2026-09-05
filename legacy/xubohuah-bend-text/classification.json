@@ -1,0 +1,32 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "3d-text-effect",
+  "visual_style": [
+    "3d",
+    "gradient"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display animated 3D text effects on hero sections of landing pages",
+    "Create decorative curved or bent text for visual branding",
+    "Add dynamic typography with theme-aware coloring for dark/light modes",
+    "Implement high-quality text rendering using WebGL for performance",
+    "Enhance portfolio or creative website visuals with 3D typography"
+  ],
+  "ai_summary": "A Three.js-powered 3D text rendering component that creates bendable, high-resolution text with theme support. Uses WebGL with antialiasing and pixel ratio optimization for smooth performance. Renders text as textured planes in a 3D orthographic scene, supporting both dark and light themes through dynamic color detection. Designed for visual impact in hero sections and creative displays.",
+  "_classifiedAt": "2026-04-23T17:43:23.324Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

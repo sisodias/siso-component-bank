@@ -1,0 +1,26 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action triggers in forms and interfaces",
+    "Destructive actions like delete or remove operations",
+    "Outline-styled secondary actions for hierarchy",
+    "Ghost-style buttons for subtle UI patterns",
+    "Icon-only buttons for compact toolbars and navigation"
+  ],
+  "ai_summary": "A versatile, accessible button component built with Radix UI Slot for composition and class-variance-authority for flexible styling. Supports multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, small, large, icon) for consistent UI patterns across applications.",
+  "_classifiedAt": "2026-04-23T01:49:25.197Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

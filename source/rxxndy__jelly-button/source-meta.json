@@ -1,0 +1,26 @@
+{
+  "id": "rxxndy__jelly-button",
+  "author": "rxxndy",
+  "slug": "jelly-button",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@rxxndy/components/jelly-button",
+  "fetchedAt": "2026-08-29T06:52:26.782Z",
+  "completedAt": "2026-08-29T06:52:29.149Z",
+  "versionedFilename": "code.1767739801431.tsx",
+  "codeReference": "r2://components-code-private/rxxndy/jelly-button/code.1767739801431.tsx",
+  "codeUrl": "https://cdn.21st.dev/rxxndy/jelly-button/code.1767739801431.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 19340,
+  "sha256": "14d6dbd517ed351d269bec0cd9642b1ae72fa3471ee94a301fb10440eb431120",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

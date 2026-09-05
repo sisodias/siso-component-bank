@@ -1,0 +1,31 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "payment-summary-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying order payment summary during e-commerce checkout flow",
+    "Showing subscription billing details in SaaS application dashboards",
+    "Presenting invoice or receipt payment information to users",
+    "Rendering transaction summaries after successful purchase completion"
+  ],
+  "ai_summary": "A self-contained payment summary card component featuring animated list items that display payment method, itemized charges, and total amount. Built with Framer Motion for staggered mount animations and Tailwind CSS for responsive styling. Designed for checkout flows, billing pages, and transaction confirmation screens in e-commerce and SaaS platforms.",
+  "_classifiedAt": "2026-04-23T01:47:45.379Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

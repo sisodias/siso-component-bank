@@ -1,0 +1,31 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "3D dots loading spinner",
+  "visual_style": [
+    "3d"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying loading state during asynchronous data fetching operations",
+    "Indicating processing time during form submissions or API calls",
+    "Showing temporary wait states during page navigation or transitions",
+    "Visual feedback during file uploads or content loading",
+    "Placeholder feedback while dynamic content renders"
+  ],
+  "ai_summary": "A 3D-effect loading spinner composed of 12 animated dots arranged in a grid pattern with CSS 3D transforms. The component displays a 'Loading...' text indicator and uses continuous keyframe animations to create a dimensional pulse effect. Designed as a lightweight atomic feedback component for any application needing visual loading indicators.",
+  "_classifiedAt": "2026-04-23T17:35:22.140Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "category": "card",
+  "subcategory": "reusable-card-components",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying feature sections with title and description",
+    "Creating reusable card-based content containers",
+    "Building pricing or comparison card layouts",
+    "Structuring dashboard or data display widgets",
+    "Composing article or blog post previews"
+  ],
+  "ai_summary": "A set of reusable card UI components (Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter) built on shadcn/ui patterns. These atomic components use Tailwind CSS for styling with minimal visual treatment including basic shadows and rounded corners. Designed as foundational building blocks for creating feature sections, content cards, and data display layouts across various interface contexts.",
+  "_classifiedAt": "2026-04-23T16:56:05.624Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

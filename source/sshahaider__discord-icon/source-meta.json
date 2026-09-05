@@ -1,0 +1,26 @@
+{
+  "id": "sshahaider__discord-icon",
+  "author": "sshahaider",
+  "slug": "discord-icon",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sshahaider/components/discord-icon",
+  "fetchedAt": "2026-08-29T07:25:01.793Z",
+  "completedAt": "2026-08-29T07:25:03.654Z",
+  "versionedFilename": "code.1784706145467-ad8d18a5-1dfb-4617-b221-55e42275d00b.tsx",
+  "codeReference": "r2://components-code-private/sshahaider/discord-icon/code.1784706145467-ad8d18a5-1dfb-4617-b221-55e42275d00b.tsx",
+  "codeUrl": "https://cdn.21st.dev/sshahaider/discord-icon/code.1784706145467-ad8d18a5-1dfb-4617-b221-55e42275d00b.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

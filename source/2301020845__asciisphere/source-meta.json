@@ -1,0 +1,26 @@
+{
+  "id": "2301020845__asciisphere",
+  "author": "2301020845",
+  "slug": "asciisphere",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@2301020845/components/asciisphere",
+  "fetchedAt": "2026-08-29T03:25:01.286Z",
+  "completedAt": "2026-08-29T03:25:03.381Z",
+  "versionedFilename": "code.1783150861728.tsx",
+  "codeReference": "r2://components-code-private/2301020845/asciisphere/code.1783150861728.tsx",
+  "codeUrl": "https://cdn.21st.dev/2301020845/asciisphere/code.1783150861728.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5448,
+  "sha256": "eb95a99fa201be4f55eba2573581a2ad4d9ea17787486e0981bcefdf18ba81a6",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

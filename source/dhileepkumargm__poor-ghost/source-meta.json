@@ -1,0 +1,33 @@
+{
+  "id": "dhileepkumargm__poor-ghost",
+  "author": "dhileepkumargm",
+  "slug": "poor-ghost",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dhileepkumargm/components/poor-ghost",
+  "fetchedAt": "2026-08-29T04:32:06.611Z",
+  "completedAt": "2026-08-29T04:32:07.635Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "page-soft404",
+  "failureClass": "soft-404",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/dhileepkumargm__poor-ghost/code.tsx",
+    "bytes": 7019,
+    "sha256": "0628ef805fab49a8538133bf35b86335c143d7a87a9b5bdd7d2aa9619a17f8e8",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is page-soft404/soft-404."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "stats-metrics-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying key performance metrics and statistics in dashboard interfaces",
+    "Showing user engagement numbers in analytics platforms",
+    "Presenting financial KPIs in banking or fintech applications",
+    "Displaying e-commerce metrics like orders, revenue, or conversion rates"
+  ],
+  "ai_summary": "A stats card component built on shadcn/ui card primitives for displaying key metrics and statistics in dashboard interfaces. Uses minimalist flat styling with Tailwind CSS, featuring card subcomponents (CardHeader, CardTitle, CardDescription, CardContent, CardFooter) for structured metric presentation. Designed for responsive dashboards across various industries including SaaS, fintech, and e-commerce platforms.",
+  "_classifiedAt": "2026-04-22T09:10:41.010Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

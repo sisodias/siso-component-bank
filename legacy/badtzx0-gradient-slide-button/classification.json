@@ -1,0 +1,28 @@
+{
+  "category": "input",
+  "subcategory": "gradient-slide-button",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons with engaging visual feedback on hover",
+    "Interactive button elements for forms and navigation",
+    "Eye-catching buttons for marketing and landing pages",
+    "Brand-colored buttons with customizable gradient start and end colors",
+    "Modern web application buttons with micro-interactions"
+  ],
+  "ai_summary": "A reusable button component featuring a smooth gradient slide animation that transitions from left to right on hover, with the text color shifting to white during the interaction. The button includes a subtle scale animation on hover and accepts customizable color-from and color-to props for flexible brand theming.",
+  "_classifiedAt": "2026-04-23T11:31:47.721Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

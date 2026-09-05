@@ -1,0 +1,33 @@
+{
+  "id": "shugar__spinner",
+  "author": "shugar",
+  "slug": "spinner",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/spinner",
+  "fetchedAt": "2026-08-29T07:20:25.716Z",
+  "completedAt": "2026-08-29T07:20:27.072Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/shugar__spinner/code.tsx",
+    "bytes": 1910,
+    "sha256": "2548405b764409f6e3182a9d37058cb78e7d11a47108aba3753b14357aa0a95a",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

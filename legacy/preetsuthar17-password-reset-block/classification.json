@@ -1,0 +1,32 @@
+{
+  "category": "form",
+  "subcategory": "password-reset-authentication-form",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Password reset flow for user authentication systems",
+    "Account recovery in SaaS applications",
+    "Secure credential management interfaces"
+  ],
+  "ai_summary": "A password reset block component providing a clean, accessible form for users to reset forgotten passwords. Features customizable button variants with loading states, icon support, and keyboard navigation. Designed as part of a larger design system using CSS variables for theming consistency across applications.",
+  "_classifiedAt": "2026-04-23T01:45:41.756Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:34:47.515Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

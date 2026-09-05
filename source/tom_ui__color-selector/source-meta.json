@@ -1,0 +1,26 @@
+{
+  "id": "tom_ui__color-selector",
+  "author": "tom_ui",
+  "slug": "color-selector",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@tom_ui/components/color-selector",
+  "fetchedAt": "2026-08-29T07:38:19.980Z",
+  "completedAt": "2026-08-29T07:38:22.678Z",
+  "versionedFilename": "code.1773094901253.tsx",
+  "codeReference": "r2://components-code-private/larsen66/color-selector/code.1773094901253.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/color-selector/code.1773094901253.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2965,
+  "sha256": "392bc3c433bc959c8fd97a513a9e177311889d5ee5351276f1ace93a04135579",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

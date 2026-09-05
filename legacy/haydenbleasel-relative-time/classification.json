@@ -1,0 +1,36 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "time-formatter",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying live timestamps in social feeds or comment sections",
+    "Rendering formatted date/time in dashboards and admin panels",
+    "Showing relative time indicators like '2 hours ago' in content feeds",
+    "Providing auto-updating clock displays in applications",
+    "Formatting timestamps with customizable locale and time zone options"
+  ],
+  "ai_summary": "A time and date formatting component that renders relative or absolute timestamps with support for both controlled and uncontrolled modes. Uses native JavaScript Intl.DateTimeFormat API for localization and automatically updates every second in uncontrolled mode. Built on Radix UI primitives for reliable state management and accepts custom date/time formatting options.",
+  "_classifiedAt": "2026-04-23T16:42:13.119Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

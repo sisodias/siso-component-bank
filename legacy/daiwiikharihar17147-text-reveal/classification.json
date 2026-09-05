@@ -1,0 +1,34 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "text-animation, cinematic-reveal, character-split",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools",
+    "dev-tools",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero sections requiring attention-grabbing animated typography",
+    "Product announcements and marketing pages needing cinematic text reveal effects",
+    "Portfolio and creative agency websites showcasing animated headlines",
+    "SaaS landing pages for product launches with dramatic text animations",
+    "Interactive presentations and demos featuring character-by-character text reveals"
+  ],
+  "ai_summary": "A cinematic text reveal component that splits text into individual characters and animates them sequentially with a replay button. Features full light/dark mode support via CSS variables and clean, minimalist styling. Designed for landing pages and marketing content where visual impact and animated typography create engagement. Self-contained with no external dependencies beyond React.",
+  "_classifiedAt": "2026-04-22T08:55:33.968Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

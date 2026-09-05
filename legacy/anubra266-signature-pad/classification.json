@@ -1,0 +1,35 @@
+{
+  "category": "input",
+  "subcategory": "signature capture",
+  "visual_style": [
+    "flat",
+    "minimalist",
+    "dark"
+  ],
+  "interactions": [
+    "drag",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "healthcare",
+    "fintech",
+    "real-estate",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Capturing legally binding digital signatures on contracts and agreements",
+    "Collecting patient consent signatures for healthcare documentation",
+    "Authorizing financial transactions with hand-drawn signatures",
+    "Confirming delivery receipts with signature capture on e-commerce platforms",
+    "Adding signature fields to legal forms and real estate documents"
+  ],
+  "ai_summary": "A headless signature pad component from Ark UI that provides an interactive canvas area for capturing handwritten signatures. Features a drawing segment for signature input, a clear button for resetting the pad, and a dashed guide line for alignment. Includes built-in dark mode support with clean flat styling and is optimized for both desktop and mobile touch interactions.",
+  "_classifiedAt": "2026-04-23T01:36:07.448Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

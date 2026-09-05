@@ -1,0 +1,30 @@
+{
+  "category": "input",
+  "subcategory": "toggle-group segmented-control",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Text alignment selection in rich text editors and document tools",
+    "View mode toggling between different display options",
+    "Filter or category selection in toolbars and settings panels",
+    "Format style selection in content creation interfaces",
+    "Single or multi-select option groups in forms"
+  ],
+  "ai_summary": "A minimalist segmented toggle group component that provides a horizontal set of toggle buttons for single or multiple option selection. Built with accessibility in mind using ARIA labels and keyboard navigation support, featuring hover, focus, active, and pressed states. Commonly used in text editing toolbars, settings interfaces, and any interface requiring compact option selection.",
+  "_classifiedAt": "2026-04-23T11:32:35.941Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

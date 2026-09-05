@@ -1,0 +1,39 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "alert-notification",
+  "visual_style": [
+    "flat",
+    "minimalist",
+    "colorful"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Displaying success messages after form submissions or completed actions",
+    "Showing destructive or error alerts when operations fail",
+    "Presenting informational or warning notifications to guide user behavior",
+    "Providing dismissible inline alerts for validation messages",
+    "Creating toast-style notifications with close functionality"
+  ],
+  "ai_summary": "A versatile alert/toast notification component with multiple semantic variants (destructive, success, info, warning, primary, secondary) and appearance styles (solid, outline, light, stroke). Built with CVA for type-safe variant management, featuring three size options and a close button for dismissible notifications. Suitable for displaying user feedback, validation messages, and status updates across various SaaS, e-commerce, and application contexts.",
+  "_classifiedAt": "2026-04-23T17:21:53.164Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

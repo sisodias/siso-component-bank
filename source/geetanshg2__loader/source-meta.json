@@ -1,0 +1,26 @@
+{
+  "id": "geetanshg2__loader",
+  "author": "geetanshg2",
+  "slug": "loader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@geetanshg2/components/loader",
+  "fetchedAt": "2026-08-29T04:51:51.501Z",
+  "completedAt": "2026-08-29T04:51:53.374Z",
+  "versionedFilename": "code.1770656805467.tsx",
+  "codeReference": "r2://components-code-private/geetanshg2/loader/code.1770656805467.tsx",
+  "codeUrl": "https://cdn.21st.dev/geetanshg2/loader/code.1770656805467.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1962,
+  "sha256": "b0107c1853c80614d0ab32492e0524c6fe9adc3ef08447f77315a906a594e7f4",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

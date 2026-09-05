@@ -1,0 +1,26 @@
+{
+  "id": "hero_ui__heroui-dropdown",
+  "author": "hero_ui",
+  "slug": "heroui-dropdown",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@hero_ui/components/heroui-dropdown",
+  "fetchedAt": "2026-08-29T04:56:54.110Z",
+  "completedAt": "2026-08-29T04:56:56.230Z",
+  "versionedFilename": "code.1782324392000.tsx",
+  "codeReference": "r2://components-code-private/hero_ui/heroui-dropdown/code.1782324392000.tsx",
+  "codeUrl": "https://cdn.21st.dev/hero_ui/heroui-dropdown/code.1782324392000.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 386,
+  "sha256": "c9031237122f5003bdfb126eef2727f9a3c084feea932f1cba5a6294c1940f22",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

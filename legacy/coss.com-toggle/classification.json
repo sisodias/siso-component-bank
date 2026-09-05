@@ -1,0 +1,22 @@
+{
+  "category": "input",
+  "subcategory": "toggle-switch",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Toggle boolean settings in forms such as enabling dark mode, notifications, or feature flags",
+    "Replace traditional checkboxes with a more modern, touch-friendly interface for mobile users",
+    "Provide on/off control for individual features in settings panels and preferences interfaces"
+  ],
+  "ai_summary": "A reusable toggle switch component built on Base UI's Toggle primitive with CVA variants for sizes (default, lg, sm) and styles (default, outline). Includes built-in accessibility with focus rings, disabled states, and pressed feedback. Designed for mobile and desktop with responsive sizing, making it suitable for settings pages and preference controls across SaaS, e-commerce, and general web applications.",
+  "_classifiedAt": "2026-04-22T08:55:09.415Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

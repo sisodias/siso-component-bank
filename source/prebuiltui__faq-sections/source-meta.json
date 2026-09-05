@@ -1,0 +1,26 @@
+{
+  "id": "prebuiltui__faq-sections",
+  "author": "prebuiltui",
+  "slug": "faq-sections",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@prebuiltui/components/faq-sections",
+  "fetchedAt": "2026-08-29T06:11:13.817Z",
+  "completedAt": "2026-08-29T06:11:15.970Z",
+  "versionedFilename": "code.1757565915563.tsx",
+  "codeReference": "r2://components-code-private/larsen66/faq-sections/code.1757565915563.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/faq-sections/code.1757565915563.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3660,
+  "sha256": "63da2cb49255f64d6e3086d623bf10b21664979df4ab11c6ec889d6c7a609602",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

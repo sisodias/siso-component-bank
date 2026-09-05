@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "muhammad-binsalman-waitlist-landing-page-with-countdown-timer",
+  "type": "registry:ui",
+  "title": "Muhammad Binsalman Waitlist Landing Page With Countdown Timer",
+  "description": "Installed from https://21st.dev/r/muhammad-binsalman/waitlist-landing-page-with-countdown-timer",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "muhammad-binsalman-waitlist-landing-page-with-countdown-timer"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "waitlist-landing-page-with-countdown-timer.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "three"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "Syntax error in component source"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/muhammad-binsalman/waitlist-landing-page-with-countdown-timer",
+    "fetchedAt": "2026-04-23T01:17:33.899Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

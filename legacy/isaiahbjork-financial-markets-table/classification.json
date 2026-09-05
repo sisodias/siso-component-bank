@@ -1,0 +1,28 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "financial markets indices table",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display real-time financial market indices with prices and daily changes",
+    "Track stock market performance with embedded sparkline charts",
+    "Show YTD returns, dividend yields, and market cap for multiple indices",
+    "Compare financial performance across different market indices like S&P 500, Nasdaq, and Dow Jones"
+  ],
+  "ai_summary": "A financial markets data table component that displays stock market indices with mini sparkline charts, real-time prices, daily changes, and key financial metrics including YTD returns, dividend yields, and market capitalization. Built with Next.js, supports dark mode theming, and uses Framer Motion for smooth animations and visual polish.",
+  "_classifiedAt": "2026-04-22T08:59:53.731Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

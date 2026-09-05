@@ -1,0 +1,34 @@
+{
+  "category": "input",
+  "subcategory": "Animated rainbow border button",
+  "visual_style": [
+    "gradient-border",
+    "dark",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Call-to-action button for landing pages and marketing sites requiring visual emphasis",
+    "Accent button for creative portfolios and media applications",
+    "Interactive button for user engagement features in SaaS dashboards",
+    "Hero section button with eye-catching animated border effect",
+    "Fun, playful action button for consumer-facing applications"
+  ],
+  "ai_summary": "A vibrant animated button component featuring continuously cycling rainbow gradient borders with a soft glow blur effect. The button uses a dark background with white text and includes hover transitions for polished interactivity. Built with styled-jsx for encapsulated CSS animations that create the rainbow effect using linear gradients and keyframe animations.",
+  "_classifiedAt": "2026-04-23T17:02:12.203Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

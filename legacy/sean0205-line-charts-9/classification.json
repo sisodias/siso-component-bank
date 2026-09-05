@@ -1,0 +1,28 @@
+{
+  "category": "media",
+  "subcategory": "user-avatar",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "social"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying user profile pictures in dashboard layouts and sidebar navigation",
+    "Showing user avatars with status indicators in notification and message panels",
+    "Representing users in card components such as testimonials, reviews, or team member listings",
+    "Providing visual identification in comment sections and forum discussions",
+    "Displaying user avatars with online/offline/busy/away status in chat interfaces"
+  ],
+  "ai_summary": "A versatile user avatar component built with Radix UI primitives featuring image, fallback, indicator, and status sub-components. Supports four status variants (online, offline, busy, away) with small circular indicators. Uses Tailwind for minimalist flat styling with rounded-full design and border utilities. Designed for universal use across SaaS dashboards, e-commerce platforms, and social applications where user identity representation is needed.",
+  "_classifiedAt": "2026-04-23T17:23:16.755Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

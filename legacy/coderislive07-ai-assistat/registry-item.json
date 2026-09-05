@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "coderislive07-ai-assistat",
+  "type": "registry:ui",
+  "title": "Coderislive07 Ai Assistat",
+  "description": "Installed from https://21st.dev/r/coderislive07/ai-assistat",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "coderislive07-ai-assistat"
+  ],
+  "files": [
+    {
+      "path": "ai-assistat.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/coderislive07/ai-assistat",
+    "fetchedAt": "2026-04-23T03:04:53.308Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

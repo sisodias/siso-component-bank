@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "avatar-membership",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Displaying user identity and profile pictures in membership-based applications",
+    "Showing member avatars in dashboard layouts or user lists",
+    "Representing users in profile sections within SaaS platforms",
+    "Creating profile cards for e-commerce loyalty or rewards programs"
+  ],
+  "ai_summary": "A reusable Avatar component built on Radix UI primitives designed for membership card implementations. Features image display with automatic fallback handling for loading states or missing images. The component supports custom styling through Tailwind CSS classes and follows a minimalist flat design pattern suitable for modern SaaS and membership-based applications.",
+  "_classifiedAt": "2026-04-23T11:32:50.604Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

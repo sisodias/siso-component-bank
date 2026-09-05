@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@dillionverma/components/animated-gradient-text",
+  "author": "dillionverma",
+  "slug": "animated-gradient-text",
+  "name": "animated-gradient-text",
+  "description": "An animated gradient background which transitions between colors for text.\n\nAdd the following animations to your tailwind.config.js file:\n extend: {\n      animation: {\n        gradient: \"gradient 8s linear infinite\",\n      },\n      keyframes: {\n        gradient: {\n          to: {\n            backgroundPosition: \"var(--bg-size) 0\",\n          },\n        },\n      },",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/dillionverma/animated-gradient-text?api_key=$API_KEY_21ST\"",
+  "id": "dillionverma__animated-gradient-text",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1250.html",
+  "previewUrl": "https://cdn.21st.dev/user_magicui/animated-gradient-text.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 718,
+  "demo_id": 1250,
+  "video_url": "https://cdn.21st.dev/user_magicui/animated-gradient-text/default/video.mp4"
+}

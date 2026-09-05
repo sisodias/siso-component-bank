@@ -1,0 +1,37 @@
+{
+  "category": [
+    "form",
+    "input"
+  ],
+  "subcategory": "badge-status-indicator",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display form validation status with destructive variant",
+    "Show category or tag labels in form sections",
+    "Indicate user roles or permissions in admin forms",
+    "Mark items with secondary attributes in data entry forms",
+    "Create visual hierarchy with outlined badges for optional form fields"
+  ],
+  "ai_summary": "A reusable badge component with four style variants (default, secondary, destructive, outline) designed for form interfaces. Built with class-variance-authority for consistent styling and features hover transitions, focus ring states for keyboard navigation, and Tailwind CSS utility classes. Ideal for displaying status indicators, tags, and labels within forms and data-heavy applications.",
+  "_classifiedAt": "2026-04-23T16:39:14.830Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

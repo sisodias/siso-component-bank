@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/faqsection",
+  "author": "ruixen.ui",
+  "slug": "faqsection",
+  "name": "faqsection",
+  "description": "The FAQSection component is a fully responsive and configurable FAQ layout built with Shadcn UI and Tailwind CSS. It features a clean two-column grid with collapsible accordions, allowing users to explore answers to common questions without clutter. Each section is data-driven — meaning you can easily customize the titles, descriptions, and FAQ content using props. Designed for modern web apps, this component provides a smooth, consistent experience across devices while preventing layout shifts when expanding or collapsing items. Ideal for product pages, help centers, and support sections.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/faqsection?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__faqsection",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/faqsection/default/bundle.1760638768341.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/faqsection/default/preview.1760638768341.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 87,
+  "demo_id": 9126,
+  "video_url": null
+}

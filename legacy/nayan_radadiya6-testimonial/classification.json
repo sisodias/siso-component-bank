@@ -1,0 +1,40 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "testimonial carousel",
+  "visual_style": [
+    "glass-morphism",
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav",
+    "scroll-animate",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display rotating customer testimonials on landing pages to build social proof",
+    "Showcase user reviews and feedback in product showcase sections",
+    "Present client quotes in portfolio or agency websites",
+    "Feature endorsements in SaaS pricing or about pages",
+    "Create interactive testimonial walls with auto-play and manual navigation"
+  ],
+  "ai_summary": "A reusable testimonial carousel component featuring auto-play, looping navigation, keyboard support, and smooth animations via framer-motion. Supports customizable accent colors, avatar images, and two visual variants (card/minimal) with full accessibility compliance. Designed for flexible integration across landing pages, product showcases, and marketing sections.",
+  "_classifiedAt": "2026-04-23T01:44:46.104Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

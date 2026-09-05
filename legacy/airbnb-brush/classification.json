@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "interactive time-series area chart with brush selection",
+  "visual_style": [
+    "gradient",
+    "flat",
+    "colorful"
+  ],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "saas",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive time-series data exploration with zoom capabilities via brush selection",
+    "Stock market or financial analytics dashboards showing price movements over time",
+    "Range filtering for selecting subsets of temporal data for detailed analysis",
+    "Data exploration tools where users need to drill down into specific time periods",
+    "Analytics platforms requiring user-driven range selection for data filtering"
+  ],
+  "ai_summary": "An Airbnb-styled interactive area chart component featuring a draggable brush for selecting and zooming into time-series data ranges. Built with @visx/visx, it displays stock data with gradient-filled areas, pattern-based brush styling, and axis controls. The component supports both desktop and mobile platforms with a warm purple/pink color scheme typical of Airbnb's design language.",
+  "_classifiedAt": "2026-04-23T11:29:30.329Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

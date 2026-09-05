@@ -1,0 +1,31 @@
+{
+  "category": [
+    "layout"
+  ],
+  "subcategory": "scroll-container",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Creating scrollable content containers with custom styled scrollbars",
+    "Building scrollable sidebars, panels, or sidebars in dashboards",
+    "Implementing scrollable lists or feeds in content-heavy interfaces",
+    "Adding accessible scrolling to overflow content areas",
+    "Replacing browser-default scrollbars with themed alternatives"
+  ],
+  "ai_summary": "A foundational scroll area component built on Radix UI primitives, providing accessible and customizable scrolling functionality with a styled vertical and horizontal scrollbar. Used as a building block for creating scrollable containers, panels, and content areas in any UI design system.",
+  "_classifiedAt": "2026-04-22T09:13:52.141Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@yura/components/loader-tetris",
+  "author": "yura",
+  "slug": "loader-tetris",
+  "name": "loader-tetris",
+  "description": "An animated loading indicator that plays a looping game of Tetris — blocks fall, stack and clear rows in a compact grid. Use it for long waits like builds, deploys or uploads, where a plain spinner feels too dull. Columns, rows, cell size, gap and speed are props.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/yura/loader-tetris?api_key=$API_KEY_21ST\"",
+  "id": "yura__loader-tetris",
+  "bundleUrl": "https://cdn.21st.dev/yura/loader-tetris/default/bundle.1786055709164-d5489a7f-6cf3-4ed3-9390-8a7d21bb4402.html",
+  "previewUrl": "https://cdn.21st.dev/yura/loader-tetris/default/preview.1786055709164-d5489a7f-6cf3-4ed3-9390-8a7d21bb4402.webp",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

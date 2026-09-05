@@ -1,0 +1,26 @@
+{
+  "id": "jefatura.frontend__sbbutton",
+  "author": "jefatura.frontend",
+  "slug": "sbbutton",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@jefatura.frontend/components/sbbutton",
+  "fetchedAt": "2026-08-29T05:09:17.722Z",
+  "completedAt": "2026-08-29T05:09:19.574Z",
+  "versionedFilename": "code.1755631480727.tsx",
+  "codeReference": "r2://components-code-private/jefatura.frontend/sbbutton/code.1755631480727.tsx",
+  "codeUrl": "https://cdn.21st.dev/jefatura.frontend/sbbutton/code.1755631480727.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4128,
+  "sha256": "b64aceb2c3a30a658f9d5f122f3b0464d7cd34c1eb1df113715a1a4486dd9fc7",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,35 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "interactive-card-stack",
+  "visual_style": [
+    "dark",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Rotating showcase for testimonials, reviews, or portfolio items with click-to-cycle interaction",
+    "Interactive product feature highlights with smooth spring animations",
+    "Visual gallery component for creative portfolios or media collections",
+    "Dynamic team member cards that can be reordered on click",
+    "E-commerce product carousel with depth and layering effects"
+  ],
+  "ai_summary": "Interactive card stack component with stacked visual effect where clicking a card moves it to the bottom of the stack. Features smooth framer-motion spring animations, adjustable offset/scale/dimming for depth perception, and dark/light theme toggle. Cards have dynamic shadow effects based on their position in the stack, creating a polished 3D-like appearance suitable for showcasing rotating content like testimonials, portfolio items, or product highlights.",
+  "_classifiedAt": "2026-04-22T08:53:18.404Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

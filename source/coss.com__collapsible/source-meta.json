@@ -1,0 +1,26 @@
+{
+  "id": "coss.com__collapsible",
+  "author": "coss.com",
+  "slug": "collapsible",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@coss.com/components/collapsible",
+  "fetchedAt": "2026-08-29T04:02:05.365Z",
+  "completedAt": "2026-08-29T04:02:07.529Z",
+  "versionedFilename": "code.1773945009950.tsx",
+  "codeReference": "r2://components-code-private/coss.com/collapsible/code.1773945009950.tsx",
+  "codeUrl": "https://cdn.21st.dev/coss.com/collapsible/code.1773945009950.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/typescript",
+  "bytes": 1116,
+  "sha256": "681d851a65f69c5fc0a21f2baba866186a29533f62cbfcdca17e12bfde1eb2ef",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

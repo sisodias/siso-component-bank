@@ -1,0 +1,33 @@
+{
+  "id": "preetsuthar17__hero-1",
+  "author": "preetsuthar17",
+  "slug": "hero-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@preetsuthar17/components/hero-1",
+  "fetchedAt": "2026-08-29T06:13:22.446Z",
+  "completedAt": "2026-08-29T06:13:23.561Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/preetsuthar17__hero-1/code.tsx",
+    "bytes": 4628,
+    "sha256": "a7e9843484d04d5f6a57ee769b2ee1e24ca1a124b0ae86ae20c2bc32a0ff0ddc",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

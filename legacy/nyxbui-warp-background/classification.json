@@ -1,0 +1,31 @@
+{
+  "category": "card",
+  "subcategory": "composite-card-system",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "system",
+  "use_cases": [
+    "Displaying grouped content sections with consistent styling across applications",
+    "Creating pricing cards for subscription tiers in SaaS products",
+    "Building dashboard widgets and data summary panels",
+    "Organizing form layouts with clear visual hierarchy",
+    "Displaying product or service feature highlights with headers, descriptions, and actions"
+  ],
+  "ai_summary": "A flexible composite Card component system from the shadcn/ui design pattern, providing Header, Title, Description, Content, and Footer sub-components for organizing grouped content with consistent shadows, borders, and typography. Designed as a foundational UI building block for displaying information in a clean, structured manner across various interfaces.",
+  "_classifiedAt": "2026-04-23T17:03:26.184Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

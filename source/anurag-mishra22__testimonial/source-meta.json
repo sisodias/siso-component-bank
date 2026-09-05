@@ -1,0 +1,26 @@
+{
+  "id": "anurag-mishra22__testimonial",
+  "author": "anurag-mishra22",
+  "slug": "testimonial",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@anurag-mishra22/components/testimonial",
+  "fetchedAt": "2026-08-29T03:36:53.076Z",
+  "completedAt": "2026-08-29T03:36:54.346Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null
+}

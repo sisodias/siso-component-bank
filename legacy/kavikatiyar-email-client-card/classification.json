@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "email-inbox-item",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying individual email messages in an inbox view",
+    "Showing sender information with avatar fallback in email clients",
+    "Building email thread or conversation lists",
+    "Creating notification-style email previews",
+    "Composing email recipient display components"
+  ],
+  "ai_summary": "A minimalist email client card component featuring Avatar primitives for sender display with image and fallback states. Built with Radix UI Avatar components and Tailwind CSS for clean, flat styling. Ideal for SaaS applications, fintech platforms, or any business communication tool requiring inbox-style email message previews with sender avatars.",
+  "_classifiedAt": "2026-04-22T09:02:15.555Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@jolbol1/components/table",
+  "author": "jolbol1",
+  "slug": "table",
+  "name": "table",
+  "description": "A table displays data in rows and columns and enables a user to navigate its contents via directional navigation keys, and optionally supports row selection and sorting.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/jolbol1/table?api_key=$API_KEY_21ST\"",
+  "id": "jolbol1__table",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1408.html",
+  "previewUrl": "https://cdn.21st.dev/user_jolbol1/table.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

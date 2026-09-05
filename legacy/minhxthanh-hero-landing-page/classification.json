@@ -1,0 +1,27 @@
+{
+  "category": "hero",
+  "subcategory": "video-hero-landing",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "SaaS and AI/ML product landing pages needing immersive video backgrounds",
+    "Tech companies showcasing AGI or automation platforms with full-screen heroes",
+    "Modern dark-themed landing pages with mobile-responsive navigation overlays"
+  ],
+  "ai_summary": "A full-screen hero landing page featuring a video background with subtle blue gradient overlays, large typography, and mobile-responsive hamburger navigation. Implements keyboard escape handling and body scroll prevention for mobile menu states. Dark aesthetic with gradient accents suitable for SaaS, AI, and developer tool products.",
+  "_classifiedAt": "2026-04-23T16:59:03.359Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

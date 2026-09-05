@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "temperature-threshold-comparison-chart",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Comparing temperature trends between two cities over time",
+    "Displaying weather data with threshold zones between high and low values",
+    "Visualizing time-series data with filled threshold areas between two metrics",
+    "Dashboard data display for environmental or climate monitoring",
+    "Educational charts showing comparative datasets with clear visual boundaries"
+  ],
+  "ai_summary": "A threshold chart component from Airbnb's design system that visualizes comparative temperature data between New York and San Francisco over time. Uses @visx library to render SVG-based time-series visualization with dual axes, grid lines, and a filled threshold area between two data curves. Designed as a minimalist, flat data-display component suitable for dashboards and environmental monitoring interfaces.",
+  "_classifiedAt": "2026-04-23T11:29:59.886Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

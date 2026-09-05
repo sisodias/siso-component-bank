@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "text-animation",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "media",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creating staggered text reveal animations on page load or scroll",
+    "Building animated hero headings with blur, shake, scale, fade, or slide effects",
+    "Adding interactive typography that animates by word, character, or line",
+    "Enhancing landing page sections with motion-enhanced text displays",
+    "Creating typewriter-style text effects with configurable delays and triggers"
+  ],
+  "ai_summary": "A text animation utility component built with Framer Motion that creates staggered text reveals with multiple preset effects including blur, shake, scale, fade, and slide. Supports animation by word, character, or line segments with configurable delays and custom variants. Ideal for creating dynamic typography in hero sections, landing pages, and interactive content displays.",
+  "_classifiedAt": "2026-04-23T16:43:04.575Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary form submission trigger across web applications",
+    "Interactive button with multiple visual variants for diverse UI contexts",
+    "Icon or text button for toolbars and action areas",
+    "Accessible button with focus-visible states and keyboard navigation",
+    "Reusable button component supporting composition via Radix Slot"
+  ],
+  "ai_summary": "A reusable atomic Button component built with Radix UI Slot and class-variance-authority. Features 6 variants (default, destructive, outline, secondary, ghost, link) and 4 sizes (default, sm, lg, icon). Includes focus-visible ring styling, hover transitions, and disabled state handling. Supports composition pattern via asChild prop for integrating with other Radix primitives or custom components.",
+  "_classifiedAt": "2026-04-23T16:57:03.995Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

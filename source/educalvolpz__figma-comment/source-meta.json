@@ -1,0 +1,26 @@
+{
+  "id": "educalvolpz__figma-comment",
+  "author": "educalvolpz",
+  "slug": "figma-comment",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@educalvolpz/components/figma-comment",
+  "fetchedAt": "2026-08-29T04:40:44.543Z",
+  "completedAt": "2026-08-29T04:40:46.766Z",
+  "versionedFilename": "code.1785960143362-c4f98b7b-fb82-4fb5-a946-f675947f9e40.tsx",
+  "codeReference": "r2://components-code-private/educalvolpz/figma-comment/code.1785960143362-c4f98b7b-fb82-4fb5-a946-f675947f9e40.tsx",
+  "codeUrl": "https://cdn.21st.dev/educalvolpz/figma-comment/code.1785960143362-c4f98b7b-fb82-4fb5-a946-f675947f9e40.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "category": "feedback",
+  "subcategory": "dismissible announcement banner",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying version updates or new feature announcements in a SaaS application",
+    "Showing promotional messages or sales announcements in e-commerce storefronts",
+    "Communicating system status or maintenance windows to users",
+    "Delivering important notices or alerts that users can dismiss after reading",
+    "Prominently surfacing CTAs like documentation links within product interfaces"
+  ],
+  "ai_summary": "A dismissible announcement banner component with customizable title, description, and link text. Features a close button that removes the banner from view using React state management. Built with Tailwind CSS using muted background colors and hover effects on interactive link elements, making it suitable for inline placement in application layouts to surface important notifications or promotional content.",
+  "_classifiedAt": "2026-04-23T17:27:14.682Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

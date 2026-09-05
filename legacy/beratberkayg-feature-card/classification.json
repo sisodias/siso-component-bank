@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "feature-showcase",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying product or service features in a clean card layout",
+    "Highlighting key benefits with visual hierarchy",
+    "Showcasing capabilities in landing pages or marketing sections",
+    "Organizing feature comparisons in pricing or product pages",
+    "Creating scannable content sections with icons and descriptions"
+  ],
+  "ai_summary": "A minimalist feature card component for showcasing product features or benefits. Built with Radix UI primitives and Tailwind CSS for a clean, modern presentation. Includes support for icons, descriptions, and call-to-action buttons. Designed for SaaS landing pages, product showcases, and feature comparison sections.",
+  "_classifiedAt": "2026-04-23T11:32:48.866Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

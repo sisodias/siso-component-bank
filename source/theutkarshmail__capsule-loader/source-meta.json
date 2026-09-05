@@ -1,0 +1,26 @@
+{
+  "id": "theutkarshmail__capsule-loader",
+  "author": "theutkarshmail",
+  "slug": "capsule-loader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theutkarshmail/components/capsule-loader",
+  "fetchedAt": "2026-08-29T07:36:27.025Z",
+  "completedAt": "2026-08-29T07:36:29.109Z",
+  "versionedFilename": "code.1755210910514.tsx",
+  "codeReference": "r2://components-code-private/theutkarshmail/capsule-loader/code.1755210910514.tsx",
+  "codeUrl": "https://cdn.21st.dev/theutkarshmail/capsule-loader/code.1755210910514.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 495,
+  "sha256": "aba8198def0ef07a570149a4459f7e0d92c8186eebdbd04b1facd1d0f1970d29",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "vaib215__flip-links",
+  "author": "vaib215",
+  "slug": "flip-links",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@vaib215/components/flip-links",
+  "fetchedAt": "2026-08-29T07:54:03.953Z",
+  "completedAt": "2026-08-29T07:54:06.284Z",
+  "versionedFilename": "code.1749853959211.tsx",
+  "codeReference": "r2://components-code-private/vaib215/flip-links/code.1749853959211.tsx",
+  "codeUrl": "https://cdn.21st.dev/vaib215/flip-links/code.1749853959211.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1627,
+  "sha256": "31854dd654f2c4b8916301a8c2cea40318cecd3ba8d999e3c275ddeed9aed87d",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dillionverma__blur-fade",
+  "author": "dillionverma",
+  "slug": "blur-fade",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dillionverma/components/blur-fade",
+  "fetchedAt": "2026-08-29T04:35:03.322Z",
+  "completedAt": "2026-08-29T04:35:04.190Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/dillionverma__blur-fade/code.tsx",
+    "bytes": 1444,
+    "sha256": "469011a194079eb12fe90e25de03af551a57be9a241d16b747bdcd1af0fb3ad3",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "category": "data-display",
+  "subcategory": "code-snippet",
+  "visual_style": [
+    "dark",
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "education",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying code snippets with line numbers and filename labels in developer documentation",
+    "Rendering syntax-highlighted code with clickable URLs in technical blog posts",
+    "Presenting educational code examples with customizable dark theme styling",
+    "Showing API examples with monospace typography and hyperlink support",
+    "Embedding code blocks in developer tools and IDE documentation interfaces"
+  ],
+  "ai_summary": "A dark-themed code block component that renders syntax-highlighted code with line numbers, filename labels, and auto-detected clickable hyperlinks. Supports extensive styling customization through props including colors, fonts, spacing, and border radius. Designed for developer documentation, technical blogs, and educational platforms requiring clean, readable code presentation with embedded link detection.",
+  "_classifiedAt": "2026-04-23T16:55:19.156Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

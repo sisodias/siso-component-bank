@@ -1,0 +1,35 @@
+{
+  "category": "feedback",
+  "subcategory": "404-error-page",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying a user-friendly 404 error when a page is not found",
+    "Showing a branded error page for broken or deleted routes",
+    "Providing navigation options after encountering a missing page",
+    "Displaying user avatar in the error page context",
+    "Maintaining consistent branding during error states"
+  ],
+  "ai_summary": "A minimalist 404 error page component designed to display when requested content cannot be found. Features a clean, modern aesthetic suitable for any industry, with an embedded Avatar component using Radix UI primitives for user profile display. Responsive design works across desktop and mobile platforms with a straightforward, accessible implementation.",
+  "_classifiedAt": "2026-04-22T09:17:33.281Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

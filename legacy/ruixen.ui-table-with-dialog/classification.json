@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "table-with-dialog",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying structured data in a tabular format with row-level actions",
+    "Editing or viewing detailed information through modal dialogs",
+    "Showing status indicators using badge variants within table cells",
+    "Managing datasets with interactive row selection"
+  ],
+  "ai_summary": "A data table component with integrated dialog functionality for viewing and managing structured data. Includes a reusable Badge component with multiple style variants (default, secondary, destructive, outline) for displaying status indicators and categorical information within table rows. Designed for SaaS and business applications requiring data management interfaces.",
+  "_classifiedAt": "2026-04-23T01:51:42.320Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

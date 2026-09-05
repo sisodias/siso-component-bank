@@ -1,0 +1,43 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "hari-button-8",
+  "type": "registry:ui",
+  "title": "Hari Button 8",
+  "description": "Installed from https://21st.dev/r/hari/button-8",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "hari-button-8"
+  ],
+  "files": [
+    {
+      "path": "button-8.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@tsparticles/engine",
+    "@tsparticles/react",
+    "lucide-react",
+    "tsparticles"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/hari/button-8",
+    "fetchedAt": "2026-04-23T03:04:05.407Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

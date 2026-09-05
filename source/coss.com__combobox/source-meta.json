@@ -1,0 +1,26 @@
+{
+  "id": "coss.com__combobox",
+  "author": "coss.com",
+  "slug": "combobox",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@coss.com/components/combobox",
+  "fetchedAt": "2026-08-29T04:02:07.531Z",
+  "completedAt": "2026-08-29T04:02:09.720Z",
+  "versionedFilename": "code.1773945191243.tsx",
+  "codeReference": "r2://components-code-private/coss.com/combobox/code.1773945191243.tsx",
+  "codeUrl": "https://cdn.21st.dev/coss.com/combobox/code.1773945191243.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 20815,
+  "sha256": "65adf3f10a52655f5dce44a5686641960bb1aa5b4a28876030ddbfa841b6aeea",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

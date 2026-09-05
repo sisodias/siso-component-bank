@@ -1,0 +1,26 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Triggering form submissions and actions in web applications",
+    "Providing visual feedback for user interactions with multiple style variants",
+    "Creating consistent action buttons across SaaS and e-commerce interfaces",
+    "Enabling keyboard-accessible interactive elements with focus states",
+    "Serving as composable primitives for building complex UI components"
+  ],
+  "ai_summary": "A versatile, production-ready Button component built with Radix UI Slot and class-variance-authority. Features multiple visual variants (default, destructive, outline, secondary, ghost, link) and size options (default, small, large, icon). Supports composition via asChild prop, includes disabled and focus states with accessibility considerations. Designed as an atomic component suitable for use across SaaS, e-commerce, and general web applications.",
+  "_classifiedAt": "2026-04-22T09:11:45.729Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/chapter-scrubber",
+  "author": "ruixen.ui",
+  "slug": "chapter-scrubber",
+  "name": "chapter-scrubber",
+  "description": "A vertical rail of uniform ticks that magnify toward the cursor like a dock. The lines nearest the pointer rise on a spring-driven wave and a preview card describes the crest chapter — a minimap for a long task, transcript, or agent run.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/chapter-scrubber?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__chapter-scrubber",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/chapter-scrubber/default/bundle.1784122138999.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/chapter-scrubber/default/preview.1784122138999.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "bouncing-rotation-loader",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Indicating loading states during async operations",
+    "Displaying progress feedback during page transitions",
+    "Showing activity during data fetching in dashboards",
+    "Providing visual cues during form submissions",
+    "Enhancing user experience during API calls"
+  ],
+  "ai_summary": "A minimalist bouncing box loader component that features a single colored square performing a coordinated jump and rotation animation. The component uses custom CSS keyframe animations to create a dynamic 90-degree rotation while bouncing vertically, simulating a playful jumping motion. Designed as lightweight atomic feedback UI, it provides clear loading indication without distracting from content.",
+  "_classifiedAt": "2026-04-23T17:19:01.205Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

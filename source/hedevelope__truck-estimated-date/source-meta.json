@@ -1,0 +1,26 @@
+{
+  "id": "hedevelope__truck-estimated-date",
+  "author": "hedevelope",
+  "slug": "truck-estimated-date",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@hedevelope/components/truck-estimated-date",
+  "fetchedAt": "2026-08-29T04:55:47.572Z",
+  "completedAt": "2026-08-29T04:55:50.078Z",
+  "versionedFilename": "code.1765014400077.tsx",
+  "codeReference": "r2://components-code-private/hedevelope/truck-estimated-date/code.1765014400077.tsx",
+  "codeUrl": "https://cdn.21st.dev/hedevelope/truck-estimated-date/code.1765014400077.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2247,
+  "sha256": "ec6e2cff2157ab4c8eb756417c68deac539ae37c4fc641879439b89c5f237d97",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

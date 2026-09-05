@@ -1,0 +1,31 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "animated-background",
+  "visual_style": [
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Creating animated hero section backgrounds for landing pages",
+    "Adding dynamic visual atmosphere to page sections",
+    "Serving as a decorative background layer for any content container",
+    "Building immersive full-page gradient effects with customizable overlays",
+    "Providing a centered content wrapper with configurable visual styling"
+  ],
+  "ai_summary": "A reusable React component that creates an animated gradient background effect using framer-motion for smooth transitions between configurable gradient presets. Features customizable animation duration, delay, and optional dark overlay. Wraps children in a centered flex container, making it ideal for hero sections, page backgrounds, or creating visual atmosphere in landing pages and marketing sites.",
+  "_classifiedAt": "2026-04-23T17:33:38.315Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

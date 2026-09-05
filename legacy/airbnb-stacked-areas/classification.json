@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "stacked-area-chart",
+  "visual_style": [
+    "gradient",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Visualizing browser or market share trends over time with stacked proportional data",
+    "Displaying time-series analytics for SaaS product metrics",
+    "Showing traffic source breakdown in web analytics dashboards",
+    "Rendering categorical time-series data with gradient fills",
+    "Displaying user engagement or usage patterns across multiple categories"
+  ],
+  "ai_summary": "A stacked area chart component built with visx that renders time-series data with proportional stacked areas and gradient fills. The chart displays categorical breakdowns (like browser usage) over time with a coral background and rounded container. Designed for analytics dashboards and data visualization in SaaS, fintech, and media applications.",
+  "_classifiedAt": "2026-04-23T11:29:55.162Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

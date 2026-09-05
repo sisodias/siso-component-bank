@@ -1,0 +1,33 @@
+{
+  "category": [
+    "overlay",
+    "navigation"
+  ],
+  "subcategory": "activity notification dropdown",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Notification center for SaaS dashboards displaying user activities like messages, achievements, and reminders",
+    "Activity feed dropdown in web applications requiring user engagement tracking",
+    "Notification bell component for apps needing real-time activity updates",
+    "Task assignment alerts in project management tools",
+    "Event reminder dropdown for calendar or scheduling applications"
+  ],
+  "ai_summary": "A notification and activity dropdown component featuring smooth open/close animations with rounded corner morphing transitions from rounded-2xl to rounded-3xl. Supports light and dark mode with subtle shadow effects for depth. Displays categorized activities (messages, achievements, reminders, offers, tasks) with icons, timestamps, and descriptions in a compact, collapsible format ideal for notification centers, dashboards, or navigation bars in SaaS and productivity applications.",
+  "_classifiedAt": "2026-04-22T09:06:01.657Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

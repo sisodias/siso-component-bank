@@ -1,0 +1,27 @@
+{
+  "category": "input",
+  "subcategory": "magnetic-button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Call-to-action button with attention-grabbing magnetic hover effect",
+    "Interactive button for capturing user attention in landing pages",
+    "Navigation element with physics-based feedback for modern web interfaces"
+  ],
+  "ai_summary": "A magnetic hover button component using Framer Motion's spring physics that attracts toward the cursor when within 120px proximity. The button smoothly translates using useSpring with configurable stiffness and damping, creating a playful, physics-based interaction. Includes hover state color transition from green-600 to green-500. Self-contained component suitable for CTAs and interactive elements.",
+  "_classifiedAt": "2026-04-23T17:36:55.169Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,38 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "text-input-with-variants",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Collecting text input in forms for user registration, login, or settings",
+    "Implementing search fields with clean UI that removes default browser styling",
+    "Creating styled file upload inputs with proper accessibility",
+    "Building accessible form components with focus ring indicators for keyboard navigation"
+  ],
+  "ai_summary": "A versatile text input component supporting standard, search, and file input types. Features modern styling with rounded corners, subtle shadows, focus ring accessibility indicators, and proper disabled states. Built with React forwardRef pattern for flexible form integration.",
+  "_classifiedAt": "2026-04-23T01:51:52.356Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

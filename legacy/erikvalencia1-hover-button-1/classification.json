@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "hover-button",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Interactive button with sliding text reveal and arrow on hover for enhanced CTAs.",
+    "Navigation trigger that transforms on hover to indicate clickability.",
+    "Call-to-action element for dark-themed interfaces requiring subtle animations.",
+    "Feature button in marketing pages and landing sections.",
+    "Action trigger in toolbars and control panels with hover feedback."
+  ],
+  "ai_summary": "A dark-themed hover button featuring a sliding text animation where the label slides out while an arrow slides in. The component includes a color-morphing effect with a fuchsia circle that expands from the center on hover. Built with Tailwind CSS and Lucide icons, designed for interactive CTAs in dark-themed interfaces.",
+  "_classifiedAt": "2026-04-23T01:39:56.199Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

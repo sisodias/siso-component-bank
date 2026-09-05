@@ -1,0 +1,26 @@
+{
+  "category": "card",
+  "subcategory": "badge-tag",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying status labels and metadata on product or content cards",
+    "Showing category tags and labels within horizontal scrolling carousels",
+    "Indicating feature flags or version badges in dev-tool interfaces",
+    "Creating visual hierarchy with semantic color variants in card layouts",
+    "Adding compact metadata indicators to list and grid items"
+  ],
+  "ai_summary": "A lightweight badge component with variant support for semantic states (default, secondary, destructive, outline). Designed to be displayed within horizontal scrolling carousels and card layouts to convey status, categories, or metadata. Uses class-variance-authority for type-safe variant management and integrates seamlessly with shadcn/ui design systems.",
+  "_classifiedAt": "2026-04-23T17:45:28.147Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

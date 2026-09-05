@@ -1,0 +1,24 @@
+{
+  "category": "overlay",
+  "subcategory": "confirmation-dialog",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Confirming destructive actions like account or data deletion",
+    "Requiring explicit user acknowledgment before critical operations",
+    "Asking users to confirm permanent changes that cannot be undone"
+  ],
+  "ai_summary": "A confirmation dialog component with an icon header that prompts users to confirm or cancel a destructive action. Built using Radix UI primitives with an icon-enhanced title for visual emphasis. Suitable for any web application requiring user confirmation before permanent operations.",
+  "_classifiedAt": "2026-04-23T17:21:30.335Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,39 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "badge-chip-label",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display status labels like 'new', 'sale', or 'featured' on product cards",
+    "Show feature availability indicators in pricing or comparison tables",
+    "Mark notification states or read/unread status indicators",
+    "Display category tags or filtering labels in content management",
+    "Indicate feature flags or plan tiers in SaaS dashboards"
+  ],
+  "ai_summary": "A lightweight, reusable badge component with four style variants (default, secondary, destructive, outline) for displaying labels, status indicators, and categorical tags. Built with class-variance-authority for consistent styling and TypeScript support, commonly used in pricing cards and data display contexts to highlight metadata.",
+  "_classifiedAt": "2026-04-23T01:43:12.312Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

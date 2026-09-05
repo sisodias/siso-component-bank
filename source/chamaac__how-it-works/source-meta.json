@@ -1,0 +1,26 @@
+{
+  "id": "chamaac__how-it-works",
+  "author": "chamaac",
+  "slug": "how-it-works",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@chamaac/components/how-it-works",
+  "fetchedAt": "2026-08-29T03:53:17.745Z",
+  "completedAt": "2026-08-29T03:53:19.938Z",
+  "versionedFilename": "code.1784360686164-c9ef8bfe-dc43-4bca-9387-30df706ad4d2.tsx",
+  "codeReference": "r2://components-code-private/chamaac/how-it-works/code.1784360686164-c9ef8bfe-dc43-4bca-9387-30df706ad4d2.tsx",
+  "codeUrl": "https://cdn.21st.dev/chamaac/how-it-works/code.1784360686164-c9ef8bfe-dc43-4bca-9387-30df706ad4d2.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

@@ -1,0 +1,30 @@
+{
+  "category": "feedback",
+  "subcategory": "notification-banner",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying success, error, or warning messages after form submissions",
+    "Communicating important status updates or notifications to users",
+    "Showing validation feedback or inline error messages",
+    "Alerting users to system messages or important information",
+    "Providing contextual help or informational notices within interfaces"
+  ],
+  "ai_summary": "A flexible alert/notification component with multiple semantic variants (brand, neutral, error, success, warning) for displaying contextual messages to users. Features customizable icon, title, description, and action slots. Uses color-coded backgrounds and borders to communicate message type and severity. Designed for integration within various UI contexts to provide real-time feedback and status communication.",
+  "_classifiedAt": "2026-04-23T17:34:24.273Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

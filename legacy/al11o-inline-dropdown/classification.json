@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "inline-dropdown-select-menu",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Inline dropdown selection for compact UI contexts like settings panels or dashboards",
+    "Context action menus with click-to-reveal and hold-to-confirm interactions",
+    "Favoriting or quick-action toggles in list views and tables",
+    "Editable dropdown items with inline text input capabilities",
+    "Mobile-friendly action menus with touch-optimized hold interactions"
+  ],
+  "ai_summary": "An inline dropdown component featuring click-to-reveal options with hover states and hold-to-confirm progress animation. Supports multiple interactive states including favorite toggling, inline editing, and context actions. Built with Framer Motion for smooth animations, dark mode support via Tailwind dark: classes, and minimalist flat design with neutral color palette. Ideal for compact UI areas in SaaS dashboards and developer tools.",
+  "_classifiedAt": "2026-04-23T11:30:10.579Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

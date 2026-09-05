@@ -1,0 +1,26 @@
+{
+  "id": "limeplay__media-provider",
+  "author": "limeplay",
+  "slug": "media-provider",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@limeplay/components/media-provider",
+  "fetchedAt": "2026-08-29T05:26:29.395Z",
+  "completedAt": "2026-08-29T05:26:31.568Z",
+  "versionedFilename": "code.1783728300379.tsx",
+  "codeReference": "r2://components-code-private/limeplay/media-provider/code.1783728300379.tsx",
+  "codeUrl": "https://cdn.21st.dev/limeplay/media-provider/code.1783728300379.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 13530,
+  "sha256": "6138e72df020057b114ec1819b54a042bd4f7bc78af53befc747bf105bc77ac0",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

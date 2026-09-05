@@ -1,0 +1,27 @@
+{
+  "category": "hero",
+  "subcategory": "ascii-art-hero-section",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero with animated ASCII art for creative/tech brands",
+    "Developer-focused landing pages with retro computing aesthetic",
+    "Portfolio or personal site hero with unique animated visuals"
+  ],
+  "ai_summary": "A hero section component that embeds an animated ASCII art canvas from UnicornStudio. The component loads external rendering scripts and applies CSS overrides to manage branding visibility. Features a distinctive monospace ASCII art aesthetic with canvas-based animation, designed for creative, developer-focused, or tech-forward landing pages. The component disables pointer events on embedded content to prevent interaction conflicts.",
+  "_classifiedAt": "2026-04-22T09:03:46.523Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

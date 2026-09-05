@@ -1,0 +1,33 @@
+{
+  "id": "muhammad-binsalman__light-saas-hero-section",
+  "author": "muhammad-binsalman",
+  "slug": "light-saas-hero-section",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@muhammad-binsalman/components/light-saas-hero-section",
+  "fetchedAt": "2026-08-29T05:53:58.940Z",
+  "completedAt": "2026-08-29T05:53:59.834Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "page-soft404",
+  "failureClass": "soft-404",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/muhammad-binsalman__light-saas-hero-section/code.tsx",
+    "bytes": 17975,
+    "sha256": "f6b2eeae8a3c6bc298d5e7c2112e2412cf0dc9f644c11c392c484de7d58a49c7",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is page-soft404/soft-404."
+  }
+}

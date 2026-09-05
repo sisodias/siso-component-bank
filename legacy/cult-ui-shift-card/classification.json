@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "hover-reveal-expandable-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Feature cards that smoothly reveal additional content on hover with animated height transitions",
+    "Interactive product or service cards in e-commerce and SaaS interfaces",
+    "Expandable content sections with progressive disclosure patterns",
+    "Portfolio or showcase grids with hover-activated detail reveals",
+    "Dashboard widgets and info cards with animated content expansion"
+  ],
+  "ai_summary": "Cult UI Shift Card is an interactive card component that smoothly reveals hidden content when hovered or tapped. Built with framer-motion, it features animated height transitions and opacity changes for the middle content area. The component includes touch support and mouse event handlers, making it suitable for both desktop and mobile platforms. Ideal for SaaS and e-commerce interfaces requiring progressive disclosure patterns with polished micro-interactions.",
+  "_classifiedAt": "2026-04-23T16:28:41.869Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,28 @@
+{
+  "category": [
+    "other"
+  ],
+  "subcategory": "counter",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Interactive counter for incrementing and decrementing numeric values",
+    "Basic React useState hook demonstration component",
+    "Simple click-based UI interaction example for demos"
+  ],
+  "ai_summary": "A minimalist counter component featuring increment and decrement buttons with React useState management. Displays a centered numeric value with basic flexbox layout. Simple flat design with rounded corners, serving as a foundational interactive UI element for demos and learning React state patterns.",
+  "_classifiedAt": "2026-04-23T17:21:54.437Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

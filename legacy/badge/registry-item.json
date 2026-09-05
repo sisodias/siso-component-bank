@@ -1,0 +1,31 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "badge",
+  "type": "registry:ui",
+  "title": "Badge",
+  "description": "Shadcn/ui badge with variant styling via class-variance-authority",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "badge",
+    "label",
+    "tag",
+    "shadcn"
+  ],
+  "files": [
+    {
+      "path": "badge.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "class-variance-authority"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "renderable": false
+  },
+  "_provenance": {
+    "curationTags": []
+  }
+}

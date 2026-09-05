@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "radial-selector-knob",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Fan speed control in hardware or appliance UIs",
+    "Settings selection with discrete circular options",
+    "Temperature or brightness level selector",
+    "Mode or preset selection in control panels",
+    "Any radial menu or knob-based interface"
+  ],
+  "ai_summary": "A circular radial selector component that displays options around a knob-like interface with an indicator dot. Users can select from multiple values arranged in a circle, with visual depth created through layered shadows and concentric circles. Designed for control panel interfaces, settings selectors, or any scenario requiring discrete value selection through a knob metaphor.",
+  "_classifiedAt": "2026-04-23T17:11:09.860Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

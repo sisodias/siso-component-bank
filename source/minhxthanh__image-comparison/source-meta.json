@@ -1,0 +1,26 @@
+{
+  "id": "minhxthanh__image-comparison",
+  "author": "minhxthanh",
+  "slug": "image-comparison",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@minhxthanh/components/image-comparison",
+  "fetchedAt": "2026-08-29T05:44:36.872Z",
+  "completedAt": "2026-08-29T05:44:39.005Z",
+  "versionedFilename": "code.1760773091492.tsx",
+  "codeReference": "r2://components-code-private/minhxthanh/image-comparison/code.1760773091492.tsx",
+  "codeUrl": "https://cdn.21st.dev/minhxthanh/image-comparison/code.1760773091492.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6767,
+  "sha256": "3c2de30ec91b0b3d44ff25b84eae5f736d9b54f93420cacef3a5352bd698a1b4",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

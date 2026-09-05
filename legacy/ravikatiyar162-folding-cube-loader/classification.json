@@ -1,0 +1,33 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading-spinner",
+  "visual_style": [
+    "3d",
+    "minimalist"
+  ],
+  "interactions": [
+    "morph",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying loading states during async operations in web applications",
+    "Providing visual feedback while fetching data from APIs",
+    "Indicating progress during page transitions or content loading",
+    "Enhancing user experience with animated waiting indicators"
+  ],
+  "ai_summary": "A responsive folding cube loading indicator that displays four animated faces rotating and folding in sequence to indicate loading or processing states. Supports dark/light theme modes and multiple size variants. Uses CSS transforms with rotation and scale to create a 3D folding effect, making it visually engaging while remaining lightweight and performant for any loading scenario.",
+  "_classifiedAt": "2026-04-23T17:11:34.316Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

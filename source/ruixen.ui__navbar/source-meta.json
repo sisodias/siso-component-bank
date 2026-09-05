@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__navbar",
+  "author": "ruixen.ui",
+  "slug": "navbar",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/navbar",
+  "fetchedAt": "2026-08-29T06:45:30.457Z",
+  "completedAt": "2026-08-29T06:45:32.843Z",
+  "versionedFilename": "code.1755950224359.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/navbar/code.1755950224359.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/navbar/code.1755950224359.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 12109,
+  "sha256": "e9cbc8430a4330b8e1d2713c672be8b6a7fecd67222a65eb64581db537efc20e",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

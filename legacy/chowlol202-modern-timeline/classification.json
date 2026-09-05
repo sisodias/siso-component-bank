@@ -1,0 +1,41 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "badge",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying status labels like 'New', 'Featured', or 'Beta' on cards",
+    "Showing category tags and metadata on content cards",
+    "Indicating item states such as Active, Inactive, or Pending",
+    "Highlighting notification counts or alerts in navigation",
+    "Categorizing and labeling content items in grids or lists"
+  ],
+  "ai_summary": "A versatile badge component with four style variants (default, secondary, destructive, outline) built with class-variance-authority. Features inline-flex layout with rounded borders, hover state transitions, and focus ring accessibility. Part of the Shadcn UI component system, designed to display status labels, tags, and metadata within card layouts or as standalone inline indicators.",
+  "_classifiedAt": "2026-04-23T16:27:37.930Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

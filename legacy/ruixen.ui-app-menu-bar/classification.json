@@ -1,0 +1,31 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "horizontal-menu-bar-with-dropdown",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Main application navigation for SaaS products and project management tools",
+    "Organizing multi-level menu options for projects, teams, and settings",
+    "Desktop-first application navigation with nested submenu support",
+    "Providing quick access to common actions like creating projects or managing teams"
+  ],
+  "ai_summary": "A horizontal app menu bar component built with Radix UI primitives featuring dropdown menus with nested submenus for organizing projects and teams. Styled with Tailwind CSS in a clean minimalist aesthetic with subtle shadows and borders. Designed for desktop SaaS applications requiring organized navigation hierarchies with keyboard accessibility support.",
+  "_classifiedAt": "2026-04-22T09:11:36.512Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

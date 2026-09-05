@@ -1,0 +1,26 @@
+{
+  "category": "input",
+  "subcategory": "stepper",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Numeric input control for forms requiring quantity or count values",
+    "Step counter for inventory management interfaces",
+    "Quantity selector in e-commerce shopping cart or product pages",
+    "Page navigation control for pagination components",
+    "Simple counter for tracking numeric values in dashboards"
+  ],
+  "ai_summary": "A minimalist stepper component with increment and decrement buttons that controls a numeric count value. Provides direct user manipulation of numeric data through click interactions. Commonly used as a quantity selector in e-commerce, inventory controls in admin panels, or as a standalone counter in various UI contexts. Clean implementation with React useState for state management.",
+  "_classifiedAt": "2026-04-22T09:06:00.019Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Form submission and user interaction triggers",
+    "Navigation and call-to-action buttons",
+    "Standard interactive button with variant styling",
+    "Icon-only button for compact UI spaces",
+    "Polymorphic button component via asChild composition"
+  ],
+  "ai_summary": "A flexible, atomic button component built with Radix UI Slot for polymorphic composition and class-variance-authority for scalable variant management. Supports multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes for diverse UI contexts.",
+  "_classifiedAt": "2026-04-23T01:51:55.302Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

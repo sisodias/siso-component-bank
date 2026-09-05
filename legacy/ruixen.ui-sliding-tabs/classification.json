@@ -1,0 +1,30 @@
+{
+  "category": "navigation",
+  "subcategory": "sliding-tabs",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Horizontal tab navigation with smooth sliding indicator animation",
+    "Category filtering in dashboards and admin panels",
+    "Section switching in landing pages and marketing sites",
+    "Step-by-step wizards and onboarding flows",
+    "Mobile-friendly navigation menus with gesture support"
+  ],
+  "ai_summary": "A sliding tabs component with animated indicator that smoothly transitions between tab items. Built with Radix UI primitives and styled with Tailwind CSS using CVA for variant management. Features hover states, keyboard navigation support, and responsive design suitable for dashboard navigation, category filters, and step-based interfaces across web applications.",
+  "_classifiedAt": "2026-04-23T01:51:23.927Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

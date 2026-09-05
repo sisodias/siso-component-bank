@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@reshaped/components/reshaped-pagination",
+  "author": "reshaped",
+  "slug": "reshaped-pagination",
+  "name": "reshaped-pagination",
+  "description": "Renders the full range of pages from the total count, automatically truncating the display around the currently selected page. Requires aria-labels for the previous/next controls, supports per-page aria-labels, an onChange handler and both controlled and uncontrolled page state.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/reshaped/reshaped-pagination?api_key=$API_KEY_21ST\"",
+  "id": "reshaped__reshaped-pagination",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/reshaped-pagination/default/bundle.1783433226799.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/reshaped-pagination/default/preview.1783433226799.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

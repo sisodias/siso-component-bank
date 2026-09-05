@@ -1,0 +1,29 @@
+{
+  "category": "navigation",
+  "subcategory": "dropdown-menu",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Navigation dropdown menus for header navigation",
+    "Settings and preferences menus in application interfaces",
+    "Context menus for right-click or button-triggered actions",
+    "Action menus with icons for toolbars",
+    "Account/user menu dropdowns in dashboard interfaces"
+  ],
+  "ai_summary": "A lightweight dropdown menu component with trigger and menu item support. Features left/right alignment options, optional chevron indicator, dark mode styling, and proper ARIA accessibility attributes. The menu opens on click with a clean shadowed dropdown panel, suitable for navigation, settings, and action menus in various application contexts.",
+  "_classifiedAt": "2026-04-23T16:29:28.604Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

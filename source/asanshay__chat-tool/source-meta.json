@@ -1,0 +1,26 @@
+{
+  "id": "asanshay__chat-tool",
+  "author": "asanshay",
+  "slug": "chat-tool",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@asanshay/components/chat-tool",
+  "fetchedAt": "2026-08-29T03:40:26.890Z",
+  "completedAt": "2026-08-29T03:40:29.083Z",
+  "versionedFilename": "code.1784308624189-5ad37b23-7e71-4f9d-a315-f09de87131c9.tsx",
+  "codeReference": "r2://components-code-private/asanshay/chat-tool/code.1784308624189-5ad37b23-7e71-4f9d-a315-f09de87131c9.tsx",
+  "codeUrl": "https://cdn.21st.dev/asanshay/chat-tool/code.1784308624189-5ad37b23-7e71-4f9d-a315-f09de87131c9.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

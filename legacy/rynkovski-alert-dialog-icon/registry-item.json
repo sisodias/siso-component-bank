@@ -1,0 +1,51 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "rynkovski-alert-dialog-icon",
+  "type": "registry:ui",
+  "title": "Rynkovski Alert Dialog Icon",
+  "description": "Installed from https://21st.dev/r/rynkovski/alert-dialog-icon",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "rynkovski-alert-dialog-icon"
+  ],
+  "files": [
+    {
+      "path": "alert-dialog-icon.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "alert-dialog.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-alert-dialog",
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/rynkovski/alert-dialog-icon",
+    "fetchedAt": "2026-04-23T03:03:52.188Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

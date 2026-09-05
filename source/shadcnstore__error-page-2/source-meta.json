@@ -1,0 +1,26 @@
+{
+  "id": "shadcnstore__error-page-2",
+  "author": "shadcnstore",
+  "slug": "error-page-2",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcnstore/components/error-page-2",
+  "fetchedAt": "2026-08-29T07:13:26.865Z",
+  "completedAt": "2026-08-29T07:13:29.029Z",
+  "versionedFilename": "code.1783730695954.tsx",
+  "codeReference": "r2://components-code-private/shadcnstore/error-page-2/code.1783730695954.tsx",
+  "codeUrl": "https://cdn.21st.dev/shadcnstore/error-page-2/code.1783730695954.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6002,
+  "sha256": "d958cae6676b3b6cdd34fb2a614fdd7eca1506b9b0d89122784eabdeb2ef4666",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

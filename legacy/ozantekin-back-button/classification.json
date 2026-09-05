@@ -1,0 +1,40 @@
+{
+  "category": [
+    "navigation",
+    "input"
+  ],
+  "subcategory": "back-button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Navigate users back to the previous page or view in multi-step workflows",
+    "Provide intuitive navigation in dashboard and settings interfaces",
+    "Create smooth back navigation in e-commerce checkout flows",
+    "Enable hierarchical navigation in documentation and knowledge bases",
+    "Offer accessible back functionality in mobile-first applications"
+  ],
+  "ai_summary": "A sleek animated back button component featuring a hover interaction where the 'Back' text slides and fades while an arrow icon expands to fill the button width. Built with Tailwind CSS and Lucide icons, this minimalist navigation component provides smooth micro-interactions ideal for improving user experience in dashboards, e-commerce flows, and multi-page applications.",
+  "_classifiedAt": "2026-04-23T17:05:25.971Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

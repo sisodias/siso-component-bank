@@ -1,0 +1,26 @@
+{
+  "id": "maxim.bort.devel__product-card",
+  "author": "maxim.bort.devel",
+  "slug": "product-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@maxim.bort.devel/components/product-card",
+  "fetchedAt": "2026-08-29T05:38:57.972Z",
+  "completedAt": "2026-08-29T05:39:00.438Z",
+  "versionedFilename": "code.1749350029007.tsx",
+  "codeReference": "r2://components-code-private/maxim.bort.devel/product-card/code.1749350029007.tsx",
+  "codeUrl": "https://cdn.21st.dev/maxim.bort.devel/product-card/code.1749350029007.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 13776,
+  "sha256": "a3354a7a3f790cb467162cf619f0560dd8e788d430000c5afa13705c3991c6da",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

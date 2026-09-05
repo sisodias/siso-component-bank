@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@axai-kaizoku/components/use-window-size",
+  "author": "axai-kaizoku",
+  "slug": "use-window-size",
+  "name": "use-window-size",
+  "description": "useWindowSize is a custom React hook that tracks the current dimensions of the browser window (width and height) in real time. It listens for the resize event and updates whenever the window size changes. This is particularly useful for responsive UI adjustments, conditional rendering based on viewport width, or dynamic layout calculations.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/axai-kaizoku/use-window-size?api_key=$API_KEY_21ST\"",
+  "id": "axai-kaizoku__use-window-size",
+  "bundleUrl": "https://cdn.21st.dev/axai-kaizoku/use-window-size/default/bundle.1761378229484.html",
+  "previewUrl": "https://cdn.21st.dev/axai-kaizoku/use-window-size/default/preview.1761378229484.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

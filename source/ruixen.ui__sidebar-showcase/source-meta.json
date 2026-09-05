@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__sidebar-showcase",
+  "author": "ruixen.ui",
+  "slug": "sidebar-showcase",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/sidebar-showcase",
+  "fetchedAt": "2026-08-29T06:50:11.089Z",
+  "completedAt": "2026-08-29T06:50:13.288Z",
+  "versionedFilename": "code.1759034751135.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/sidebar-showcase/code.1759034751135.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/sidebar-showcase/code.1759034751135.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 12345,
+  "sha256": "98e46471810ef240fa5cd2385518d8961fc3cb86caf09df0db54cc64db074c8a",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,27 @@
+{
+  "category": "media",
+  "subcategory": "flipbook-slider, page-flip-carousel, interactive-book",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "media",
+    "e-commerce",
+    "education",
+    "creator-tools",
+    "gaming"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive product catalog with flip-through pages for e-commerce showcase",
+    "Digital portfolio or storybook with animated page transitions",
+    "Educational content presentation with chapter-based navigation",
+    "Collectible item display with card-like flip animations",
+    "Digital magazine or brochure viewer with cover page"
+  ],
+  "ai_summary": "An interactive flipbook component that displays content in a realistic book-like format with smooth page-flip animations, drop shadows, and a visible cover. Built with react-pageflip, it supports custom content per page including images and text descriptions. Commonly used for digital catalogs, portfolios, interactive storytelling, and game-related content like collectible cards or character showcases.",
+  "_classifiedAt": "2026-04-23T11:28:06.664Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

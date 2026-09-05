@@ -1,0 +1,26 @@
+{
+  "id": "theutkarshmail__coupon-checkout",
+  "author": "theutkarshmail",
+  "slug": "coupon-checkout",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theutkarshmail/components/coupon-checkout",
+  "fetchedAt": "2026-08-29T07:36:35.442Z",
+  "completedAt": "2026-08-29T07:36:37.739Z",
+  "versionedFilename": "code.1755113905635.tsx",
+  "codeReference": "r2://components-code-private/theutkarshmail/coupon-checkout/code.1755113905635.tsx",
+  "codeUrl": "https://cdn.21st.dev/theutkarshmail/coupon-checkout/code.1755113905635.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1461,
+  "sha256": "af5439cd3634cf933d57b63b16631319e891af6453d1978574bf42e86776c4e5",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

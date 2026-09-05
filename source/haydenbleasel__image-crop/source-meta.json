@@ -1,0 +1,26 @@
+{
+  "id": "haydenbleasel__image-crop",
+  "author": "haydenbleasel",
+  "slug": "image-crop",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@haydenbleasel/components/image-crop",
+  "fetchedAt": "2026-08-29T04:55:01.722Z",
+  "completedAt": "2026-08-29T04:55:03.496Z",
+  "versionedFilename": "code.1784719349941-00a5e0fb-88f3-4c44-b895-12a580c8ab1e.tsx",
+  "codeReference": "r2://components-code-private/haydenbleasel/image-crop/code.1784719349941-00a5e0fb-88f3-4c44-b895-12a580c8ab1e.tsx",
+  "codeUrl": "https://cdn.21st.dev/haydenbleasel/image-crop/code.1784719349941-00a5e0fb-88f3-4c44-b895-12a580c8ab1e.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

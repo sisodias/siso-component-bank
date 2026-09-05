@@ -1,0 +1,29 @@
+{
+  "category": "media",
+  "subcategory": "3d-globe-visualization",
+  "visual_style": [],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "media",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display global user distribution for SaaS dashboards",
+    "Show network coverage or server locations on interactive maps",
+    "Visualize market presence across different regions for businesses",
+    "Create interactive global analytics visualizations",
+    "Display real-time location tracking on a 3D world map"
+  ],
+  "ai_summary": "An interactive 3D globe visualization component with pulsing location markers. Features drag-based rotation controls and customizable markers for displaying geographic data. Built with cobe library for WebGL rendering, suitable for showcasing global presence, network topology, or location-based analytics in modern web applications.",
+  "_classifiedAt": "2026-04-22T09:16:49.556Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

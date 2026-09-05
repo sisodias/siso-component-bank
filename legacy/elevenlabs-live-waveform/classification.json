@@ -1,0 +1,29 @@
+{
+  "category": "media",
+  "subcategory": "audio-waveform",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "media",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Real-time audio input visualization for voice interfaces and AI assistants",
+    "Audio recording playback with visual waveform representation",
+    "Voice message display in messaging or communication applications",
+    "Podcast or audio content player waveform visualization",
+    "Speech-to-text interface with live audio feedback"
+  ],
+  "ai_summary": "A live waveform visualization component that renders real-time audio input as animated bars or waves. Part of ElevenLabs' voice AI interface toolkit, designed for displaying audio playback, voice messages, or live speech input with smooth continuous animations. Clean, minimalist visual style suitable for modern SaaS and AI product interfaces.",
+  "_classifiedAt": "2026-04-22T08:58:46.629Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

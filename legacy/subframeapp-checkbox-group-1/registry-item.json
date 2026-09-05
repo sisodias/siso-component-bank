@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "subframeapp-checkbox-group-1",
+  "type": "registry:ui",
+  "title": "Subframeapp Checkbox Group 1",
+  "description": "Installed from https://21st.dev/r/SubframeApp/checkbox-group-1",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "subframeapp-checkbox-group-1"
+  ],
+  "files": [
+    {
+      "path": "checkbox-group-1.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/SubframeApp/checkbox-group-1",
+    "fetchedAt": "2026-04-23T01:17:06.131Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

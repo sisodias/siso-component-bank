@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@hero_ui/components/heroui-meter",
+  "author": "hero_ui",
+  "slug": "heroui-meter",
+  "name": "heroui-meter",
+  "description": "A HeroUI meter for visualizing a value within a range — storage, usage, progress toward a goal. Built on react-aria with an accessible label and formatted output. Supports accent/success/warning/danger colors, sm/md/lg sizes, an optional label, custom min/max, currency and percent formatting, and threshold-driven colors.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/hero_ui/heroui-meter?api_key=$API_KEY_21ST\"",
+  "id": "hero_ui__heroui-meter",
+  "bundleUrl": "https://cdn.21st.dev/hero_ui/heroui-meter/default/bundle.1783958433914.html",
+  "previewUrl": "https://cdn.21st.dev/hero_ui/heroui-meter/default/preview.1783958433914.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

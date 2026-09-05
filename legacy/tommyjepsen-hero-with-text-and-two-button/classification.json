@@ -1,0 +1,27 @@
+{
+  "category": "hero",
+  "subcategory": "hero-section-with-dual-cta",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page main sections with primary and secondary call-to-action buttons",
+    "Marketing websites showcasing key value propositions",
+    "App entry points with multiple navigation options"
+  ],
+  "ai_summary": "A versatile hero section component featuring a headline area with two action buttons. Built with Radix UI Slot for composition flexibility and class-variance-authority for button variant theming. Supports multiple button styles including default, outline, secondary, ghost, and link variants with size options.",
+  "_classifiedAt": "2026-04-23T17:36:22.133Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

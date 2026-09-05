@@ -1,0 +1,26 @@
+{
+  "id": "reuelaraujo7__pedidosmenu-com",
+  "author": "reuelaraujo7",
+  "slug": "pedidosmenu-com",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@reuelaraujo7/components/pedidosmenu-com",
+  "fetchedAt": "2026-08-29T06:35:01.487Z",
+  "completedAt": "2026-08-29T06:35:03.691Z",
+  "versionedFilename": "code.1786470955789-5961be38-13ad-47f2-bd5c-20c90b4206ab.tsx",
+  "codeReference": "r2://components-code-private/reuelaraujo7/pedidosmenu-com/code.1786470955789-5961be38-13ad-47f2-bd5c-20c90b4206ab.tsx",
+  "codeUrl": "https://cdn.21st.dev/reuelaraujo7/pedidosmenu-com/code.1786470955789-5961be38-13ad-47f2-bd5c-20c90b4206ab.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

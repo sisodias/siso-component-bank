@@ -1,0 +1,28 @@
+{
+  "category": "media",
+  "subcategory": "expandable-gallery",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "media",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Image portfolio and gallery showcase with interactive hover expansion",
+    "Product gallery on e-commerce sites with click-to-expand lightbox",
+    "Interactive photo browsing experience with smooth transitions",
+    "Creative agency portfolio with animated image grid",
+    "Photography showcase with hover-driven layout dynamics"
+  ],
+  "ai_summary": "An expandable horizontal image gallery that animates flex values on hover, creating an interactive expansion effect where hovered images grow while others shrink. Features click-to-open lightbox functionality with previous/next navigation. Built with Framer Motion for smooth transitions and includes a semi-transparent overlay effect on images. Suitable for media portfolios, product galleries, and creative showcases requiring dynamic image presentation.",
+  "_classifiedAt": "2026-04-22T09:07:27.881Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

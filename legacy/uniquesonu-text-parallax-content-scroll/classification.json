@@ -1,0 +1,34 @@
+{
+  "category": [
+    "layout"
+  ],
+  "subcategory": "parallax-scroll-section",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero landing page sections with immersive scroll-driven storytelling",
+    "Product or feature showcases with parallax image scaling effects",
+    "Team and company about sections with scroll-synced imagery",
+    "Portfolio or media content sections with sticky image reveals",
+    "Narrative-driven content pages where images and text animate together"
+  ],
+  "ai_summary": "A parallax scrolling content component that creates immersive visual storytelling through scroll-linked animations using Framer Motion. Features sticky images that scale down and fade while users scroll, with text overlays that animate in sync. The component is built as a composite of multiple parts (TextParallaxContent, StickyImage, OverlayCopy) creating a modular system suitable for landing pages, portfolios, and content-heavy websites that need engaging scroll-based visual effects.",
+  "_classifiedAt": "2026-04-23T17:40:40.843Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

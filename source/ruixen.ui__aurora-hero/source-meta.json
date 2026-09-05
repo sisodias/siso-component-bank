@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__aurora-hero",
+  "author": "ruixen.ui",
+  "slug": "aurora-hero",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/aurora-hero",
+  "fetchedAt": "2026-08-29T06:39:16.173Z",
+  "completedAt": "2026-08-29T06:39:18.431Z",
+  "versionedFilename": "code.1753093921322.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/aurora-hero/code.1753093921322.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/aurora-hero/code.1753093921322.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 11937,
+  "sha256": "5ddcec5dcf037a42b681836cdd567fb5361bb57c5236d06bd82732f1ce1a1acb",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

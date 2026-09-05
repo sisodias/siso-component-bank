@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "globe-visualization",
+  "visual_style": [
+    "3d",
+    "dark"
+  ],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Visualizing global CDN infrastructure with node locations and traffic flow arcs",
+    "Displaying network latency and data distribution across geographic regions",
+    "Monitoring real-time traffic patterns between data centers on a 3D globe",
+    "Showing SaaS platform performance metrics overlaid on a world map",
+    "Presenting infrastructure topology for cloud services with interactive rotation"
+  ],
+  "ai_summary": "An interactive 3D globe component using the Cobe library to visualize global CDN infrastructure. Features clickable markers representing data center locations (IAD, SFO, CDG, HND, SYD, GRU, SIN, ARN, DUB, BOM) and animated arcs showing traffic flow between nodes. Supports drag-based rotation, configurable animation speed, and traffic intensity visualization. Built for dev-tools and SaaS dashboards needing geographic infrastructure representation.",
+  "_classifiedAt": "2026-04-22T09:03:23.242Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,35 @@
+{
+  "category": [
+    "card",
+    "navigation"
+  ],
+  "subcategory": "onboarding-progress-stepper",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Multi-step user onboarding flows for SaaS applications requiring setup completion",
+    "E-commerce checkout progress tracking showing shipping and payment stages",
+    "Wizard-style form completion tracking with visual progress indicators",
+    "Account setup workflows guiding users through configuration steps",
+    "Project initialization tracking for dev-tools with task completion status"
+  ],
+  "ai_summary": "A customizable onboarding progress stepper component that displays sequential stages with completion status, progress percentage, and themed color options. Built with Framer Motion for staggered entrance animations, it supports multiple variants (default, compact, expanded) and color themes (blue, purple, green, orange). The component is ideal for SaaS applications, e-commerce checkouts, and any multi-step wizard flow where visual progress tracking improves user experience.",
+  "_classifiedAt": "2026-04-23T16:44:35.585Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

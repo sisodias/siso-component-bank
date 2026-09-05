@@ -1,0 +1,34 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "WebGL image effect with mouse-reactive ripple distortion",
+  "visual_style": [
+    "3d",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Interactive hero section with mouse-reactive ripple distortion on images",
+    "Product showcase with fluid wave effects responding to cursor movement",
+    "Landing page visual enhancement with immersive 3D image distortion",
+    "Creative portfolio component with animated shader-based transitions",
+    "E-commerce product images with engaging hover-triggered ripple animations"
+  ],
+  "ai_summary": "A Three.js-based WebGL component that renders images with a real-time ripple distortion effect emanating from the mouse position. Uses custom GLSL shaders with sine wave calculations to create fluid, physics-inspired distortions that animate based on configurable frequency, amplitude, and speed parameters. The component initializes a WebGL renderer with antialiasing, sets up an orthographic camera, and manages a continuous animation loop for smooth rendering. Ideal for creating immersive, interactive visual experiences on landing pages, hero sections, or product showcases where dynamic motion effects enhance user engagement.",
+  "_classifiedAt": "2026-04-23T01:51:04.737Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,39 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "animated tabs with hover-activated background",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Navigation menus with animated visual feedback on hover or click",
+    "Category filtering interfaces with smooth background transitions",
+    "Tabbed content sections with spring-animated selection states",
+    "Interactive navigation bars for web applications and dashboards"
+  ],
+  "ai_summary": "A reusable animated tabs component that displays interactive navigation items with a smooth background highlight effect. Uses Framer Motion for spring-based animations when hovering or clicking tabs, updating a shared layoutId to create fluid background transitions. Supports both hoverable and click-based activation modes with CSS variable-driven theming.",
+  "_classifiedAt": "2026-04-22T08:58:50.389Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

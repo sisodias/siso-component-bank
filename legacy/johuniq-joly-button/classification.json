@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-with-variants",
+  "visual_style": [
+    "gradient",
+    "glass-morphism"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Call-to-action buttons for landing pages and marketing sites",
+    "Form submission and confirmation actions in web applications",
+    "Primary action triggers in dashboards and admin panels",
+    "Navigation action buttons with hover feedback effects",
+    "Interactive elements with animated state transitions"
+  ],
+  "ai_summary": "A premium button component with gradient variants (default, destructive, outline, secondary) featuring glass-morphism effects through backdrop blur, motion animations via motion/react library, and polished hover/active states with scale and shadow transitions. Includes Radix UI Slot for polymorphic behavior and CVA variant management.",
+  "_classifiedAt": "2026-04-22T09:01:22.307Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

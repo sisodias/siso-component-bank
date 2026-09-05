@@ -1,0 +1,24 @@
+{
+  "category": "input",
+  "subcategory": "action-button",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action trigger for forms and dialogs",
+    "Navigation and routing actions",
+    "Command and control operations",
+    "Toggle and state change interactions",
+    "Composite component building block via asChild pattern"
+  ],
+  "ai_summary": "A versatile, reusable button component with multiple visual variants (default, destructive, outline, secondary, ghost, link) and size options. Built with class-variance-authority for type-safe variant management and Radix UI Slot for composition patterns. Features standard focus states and disabled handling for accessibility compliance.",
+  "_classifiedAt": "2026-04-23T01:38:15.621Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

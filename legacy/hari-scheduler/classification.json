@@ -1,0 +1,24 @@
+{
+  "category": "form",
+  "subcategory": "scheduler-toggle",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Toggle recurring schedules with animated state transitions",
+    "Switch between single and repeating event modes with visual feedback",
+    "Display time interval options with smooth text animations"
+  ],
+  "ai_summary": "Hari Scheduler is an interactive scheduling component featuring a custom toggle switch for enabling/disabling repeating schedules with smooth color transitions. The component includes a SwapText subcomponent that animates between different states with timed transitions. Built with React and Tailwind CSS, it provides a polished toggle interface for scheduling UIs with green accent highlighting when active.",
+  "_classifiedAt": "2026-04-23T16:41:58.351Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

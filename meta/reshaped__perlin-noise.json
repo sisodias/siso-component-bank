@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@reshaped/components/perlin-noise",
+  "author": "reshaped",
+  "slug": "perlin-noise",
+  "name": "perlin-noise",
+  "description": "Classic animated 3D Perlin noise with exposed controls for octaves, persistence, lacunarity and more.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/reshaped/perlin-noise?api_key=$API_KEY_21ST\"",
+  "id": "reshaped__perlin-noise",
+  "bundleUrl": "https://cdn.21st.dev/reshaped/perlin-noise/default/bundle.1785454892908-c5281bc9-092a-45d5-b918-2107ec185639.html",
+  "previewUrl": "https://cdn.21st.dev/reshaped/perlin-noise/default/preview.1785454892908-c5281bc9-092a-45d5-b918-2107ec185639.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

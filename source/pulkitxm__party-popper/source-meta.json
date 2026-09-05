@@ -1,0 +1,26 @@
+{
+  "id": "pulkitxm__party-popper",
+  "author": "pulkitxm",
+  "slug": "party-popper",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@pulkitxm/components/party-popper",
+  "fetchedAt": "2026-08-29T06:16:19.041Z",
+  "completedAt": "2026-08-29T06:16:23.827Z",
+  "versionedFilename": "code.1785374583556-686161fc-e1f6-45ed-8144-18102d27ee2c.tsx",
+  "codeReference": "r2://components-code-private/pulkitxm/party-popper/code.1785374583556-686161fc-e1f6-45ed-8144-18102d27ee2c.tsx",
+  "codeUrl": "https://cdn.21st.dev/pulkitxm/party-popper/code.1785374583556-686161fc-e1f6-45ed-8144-18102d27ee2c.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

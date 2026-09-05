@@ -1,0 +1,24 @@
+{
+  "category": "data-display",
+  "subcategory": "badge",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying status labels on cards or list items",
+    "Showing category tags on content items",
+    "Indicating notification counts or feature badges",
+    "Highlighting feature flags or special status indicators",
+    "Labeling UI elements with metadata information"
+  ],
+  "ai_summary": "A lightweight Badge component with rounded pill styling and four color variants (default, secondary, destructive, outline) built with class-variance-authority. Designed for displaying labels, status indicators, and metadata across various interface contexts. Minimal, flat visual style suitable for any design system.",
+  "_classifiedAt": "2026-04-23T16:51:21.726Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

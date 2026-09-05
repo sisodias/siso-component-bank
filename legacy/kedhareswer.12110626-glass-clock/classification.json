@@ -1,0 +1,26 @@
+{
+  "category": "data-display",
+  "subcategory": "analog-clock-widget",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display real-time clock with glassmorphism aesthetic in dashboard interfaces",
+    "Show current time with smooth or tick-based second hand animation in modern web apps",
+    "Serve as decorative branded time display in landing pages or hero sections",
+    "Provide timezone-aware time display with customizable glass effects for enterprise applications",
+    "Render elegant date and time reference in scheduling or event management tools"
+  ],
+  "ai_summary": "A glassmorphism-style analog clock component featuring semi-transparent glass effects with realistic reflections, shadows, and glossy overlays. The clock displays hour, minute, and second hands that animate smoothly using requestAnimationFrame, supporting multiple second hand modes (smooth, tick1, tick2, highFreq). It renders both time and date information with customizable visual properties through CSS custom properties, making it suitable for modern dashboard interfaces, landing pages, or branded time displays.",
+  "_classifiedAt": "2026-04-23T01:42:07.251Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

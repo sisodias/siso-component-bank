@@ -1,0 +1,32 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "floating pill navbar with glass-morphism effect",
+  "visual_style": [
+    "glass-morphism",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Primary navigation for SaaS web applications with a modern aesthetic",
+    "Responsive bottom navbar for mobile and top-fixed navbar for desktop",
+    "Tab-based navigation with active state indicator and smooth transitions",
+    "Floating navigation with backdrop blur effect for overlay-style interfaces",
+    "Icon and text navigation items with hover effects and visual feedback"
+  ],
+  "ai_summary": "A floating glass-morphism navbar component featuring a pill-shaped container with backdrop blur and subtle borders. The navbar adapts responsively between desktop (top-fixed) and mobile (bottom-fixed) layouts, supporting icon and text navigation items with active state management and smooth color transitions. Uses framer-motion for animations and implements a modern SaaS-ready design with hover glow effects on the tube-light styled items.",
+  "_classifiedAt": "2026-04-23T17:42:52.634Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

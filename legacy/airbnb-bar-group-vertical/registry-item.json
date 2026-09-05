@@ -1,0 +1,45 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "airbnb-bar-group-vertical",
+  "type": "registry:ui",
+  "title": "Airbnb Bar Group Vertical",
+  "description": "Installed from https://21st.dev/r/airbnb/bar-group-vertical",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "airbnb-bar-group-vertical"
+  ],
+  "files": [
+    {
+      "path": "bar-group-vertical.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@visx/axis",
+    "@visx/group",
+    "@visx/mock-data",
+    "@visx/scale",
+    "@visx/shape",
+    "@visx/vendor"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/airbnb/bar-group-vertical",
+    "fetchedAt": "2026-04-23T03:04:42.193Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

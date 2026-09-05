@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@unlumen/components/glow",
+  "author": "unlumen",
+  "slug": "glow",
+  "name": "glow",
+  "description": "A button with an animated conic-gradient glow layer behind it, supporting rotate, pulse, breathe, color-shift, flow and static glow modes.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/unlumen/glow?api_key=$API_KEY_21ST\"",
+  "id": "unlumen__glow",
+  "bundleUrl": "https://cdn.21st.dev/unlumen/glow/default/bundle.1783539423458.html",
+  "previewUrl": "https://cdn.21st.dev/unlumen/glow/default/preview.1783582106897.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

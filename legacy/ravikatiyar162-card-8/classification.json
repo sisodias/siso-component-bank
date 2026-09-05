@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "article-preview-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying article previews with thumbnail, title, description, and author metadata in blog layouts",
+    "Creating animated card grids for news feeds or content discovery pages",
+    "Building responsive article listings with hover scale effects and entry animations",
+    "Showcasing content cards with share functionality in media or publishing platforms",
+    "Designing scannable content summaries for SaaS product blogs or documentation sites"
+  ],
+  "ai_summary": "An animated, responsive article card component featuring framer-motion hover effects (scale and shadow) and scroll-triggered entry animations. Displays article image, title, description, author info with avatar, and publication date in a clean, minimal layout. Uses shadcn-style utility classes for consistent styling and supports share functionality. Optimized for content-heavy layouts like blogs, news feeds, and media platforms.",
+  "_classifiedAt": "2026-04-23T01:46:39.844Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

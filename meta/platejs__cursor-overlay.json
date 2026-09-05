@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@platejs/components/cursor-overlay",
+  "author": "platejs",
+  "slug": "cursor-overlay",
+  "name": "cursor-overlay",
+  "description": "A visual overlay that renders cursor positions and selection highlights on top of a Plate rich-text editor, keeping selections visible during drag & drop and when the editor loses focus.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/platejs/cursor-overlay?api_key=$API_KEY_21ST\"",
+  "id": "platejs__cursor-overlay",
+  "bundleUrl": "https://cdn.21st.dev/platejs/cursor-overlay/default/bundle.1784355279224-7d2e254e-042e-4921-917d-cb32d49f327c.html",
+  "previewUrl": "https://cdn.21st.dev/platejs/cursor-overlay/default/preview.1784355279224-7d2e254e-042e-4921-917d-cb32d49f327c.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 9,
+  "demo_id": 20090,
+  "video_url": null
+}

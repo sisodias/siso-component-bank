@@ -1,0 +1,27 @@
+{
+  "category": "feedback",
+  "subcategory": "hover-preview-card",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying product image previews when hovering over item names in e-commerce listings",
+    "Showing project thumbnails when hovering over portfolio links in design tool interfaces",
+    "Revealing feature previews when hovering over service names in SaaS landing pages",
+    "Providing contextual image previews when hovering over tool names in documentation",
+    "Adding interactive preview capabilities to any text-based navigation or listing interface"
+  ],
+  "ai_summary": "A hover-triggered image preview component that displays floating cards following the cursor position. The component shows image, title, and subtitle information when users hover over associated link text, using smooth CSS transitions for show/hide animations. Designed as an interactive feedback element ideal for product showcases, tool previews, and portfolio displays in SaaS, e-commerce, and design tool applications.",
+  "_classifiedAt": "2026-04-22T08:53:13.911Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,30 @@
+{
+  "category": "input",
+  "subcategory": "tag-selector",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting and managing tags for categorizing content such as blog posts, articles, or products",
+    "Filtering data by multiple keyword criteria in dashboards or admin interfaces",
+    "Adding labels or taxonomy terms to items in content management systems",
+    "Building tag-based search and filtering in e-commerce or knowledge base applications",
+    "Enabling users to assign skills, interests, or topics in profile setup flows"
+  ],
+  "ai_summary": "A minimalist tag input component that displays available tags in a horizontally scrollable container and allows users to add or remove tags with smooth animations. Built with Framer Motion for layout transitions and Lucide icons for the remove action. Suitable for content categorization, filtering interfaces, and profile setup flows in SaaS applications.",
+  "_classifiedAt": "2026-04-23T16:52:43.486Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

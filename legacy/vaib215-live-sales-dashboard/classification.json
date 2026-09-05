@@ -1,0 +1,26 @@
+{
+  "category": "data-display",
+  "subcategory": "badge-status-label",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying status indicators such as 'new', 'sale', or 'popular' on product cards",
+    "Showing category labels or tags in dashboard views and data tables",
+    "Indicating notification counts or alert badges in navigation headers",
+    "Marking items as active, inactive, or pending in list views",
+    "Labeling dashboard metrics or sales performance indicators"
+  ],
+  "ai_summary": "A versatile badge component with multiple style variants including default, secondary, destructive, and outline modes. Designed for displaying status labels, category tags, or notification counts in live sales dashboards and data-driven interfaces. Features smooth hover state transitions for interactive feedback and integrates seamlessly with Tailwind CSS utility classes.",
+  "_classifiedAt": "2026-04-23T17:41:23.121Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

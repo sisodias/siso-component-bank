@@ -1,0 +1,36 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "badge-chip-label",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display status indicators with color-coded variants for user states or system conditions",
+    "Show category labels or tags for content organization and filtering",
+    "Present notification counts or numeric badges for badges of counts",
+    "Mark features or items with outline or filled styles in UI cards",
+    "Use as decorative labels with customizable styling via variant props"
+  ],
+  "ai_summary": "A reusable Badge component with multiple style variants (default, secondary, destructive, outline) using class-variance-authority for consistent styling. Supports focus states and hover transitions, making it suitable for displaying status labels, tags, and category markers across SaaS, e-commerce, and dashboard interfaces.",
+  "_classifiedAt": "2026-04-23T01:54:38.246Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

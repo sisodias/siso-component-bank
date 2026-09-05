@@ -1,0 +1,26 @@
+{
+  "id": "meschacirung__hero-section-1",
+  "author": "meschacirung",
+  "slug": "hero-section-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@meschacirung/components/hero-section-1",
+  "fetchedAt": "2026-08-29T05:40:56.861Z",
+  "completedAt": "2026-08-29T05:40:59.171Z",
+  "versionedFilename": "code.1745934908583.tsx",
+  "codeReference": "r2://components-code-private/user_2tUYFzCDCVfrMrVC3TfB9DUBAyx/hero-section-1/code.1745934908583.tsx",
+  "codeUrl": "https://cdn.21st.dev/user_2tUYFzCDCVfrMrVC3TfB9DUBAyx/hero-section-1/code.1745934908583.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 25316,
+  "sha256": "1b17718f92cebde0ef2a5766bac661d89996d0794d014e6ca1952d697511a466",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

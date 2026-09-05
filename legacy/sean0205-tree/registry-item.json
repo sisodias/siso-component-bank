@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "sean0205-tree",
+  "type": "registry:ui",
+  "title": "Sean0205 Tree",
+  "description": "Installed from https://21st.dev/r/sean0205/tree",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "sean0205-tree"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "tree.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@headless-tree/core",
+    "lucide-react",
+    "radix-ui"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/sean0205/tree",
+    "fetchedAt": "2026-04-23T03:02:51.152Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "chart-legend",
+  "visual_style": [
+    "flat",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying legend scales for data visualization charts",
+    "Showing categorical color scales in analytics dashboards",
+    "Rendering threshold-based legends for gradient data representations",
+    "Displaying size-based legends for bubble or scatter charts",
+    "Showing ordinal legends for categorical data groupings"
+  ],
+  "ai_summary": "A comprehensive legend component from Airbnb's design system that renders multiple legend types including linear, quantile, ordinal, threshold, and size scales. Built on the visx visualization library, it supports various color schemes with gradient transitions and custom shapes. Designed for data-heavy SaaS applications, dashboards, and analytics platforms requiring clear data scale representations.",
+  "_classifiedAt": "2026-04-23T11:29:43.488Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

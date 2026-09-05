@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@platejs/components/block-list",
+  "author": "platejs",
+  "slug": "block-list",
+  "name": "block-list",
+  "description": "Renders ordered and to-do list items with checkboxes inside a Plate rich-text editor.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/platejs/block-list?api_key=$API_KEY_21ST\"",
+  "id": "platejs__block-list",
+  "bundleUrl": "https://cdn.21st.dev/platejs/block-list/default/bundle.1786689075210-1e0d60ca-0f74-460b-8295-4f96cbf32338.html",
+  "previewUrl": "https://cdn.21st.dev/platejs/block-list/default/preview.1786689075210-1e0d60ca-0f74-460b-8295-4f96cbf32338.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary action trigger for forms and CTAs",
+    "Secondary navigation and user interaction points",
+    "Destructive actions requiring confirmation",
+    "Ghost-style navigation links within content",
+    "Icon-based action buttons for compact UI"
+  ],
+  "ai_summary": "A reusable button component with Radix UI Slot integration and class-variance-authority for flexible styling. Supports multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, small, large, icon). Implements standard accessibility patterns with focus-visible ring and disabled states. Ideal for any SaaS or web application requiring consistent button styling.",
+  "_classifiedAt": "2026-04-22T09:18:56.226Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

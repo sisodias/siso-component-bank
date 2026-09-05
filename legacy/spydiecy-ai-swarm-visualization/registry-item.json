@@ -1,0 +1,49 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "spydiecy-ai-swarm-visualization",
+  "type": "registry:ui",
+  "title": "Spydiecy Ai Swarm Visualization",
+  "description": "Installed from https://21st.dev/r/spydiecy/ai-swarm-visualization",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "spydiecy-ai-swarm-visualization"
+  ],
+  "files": [
+    {
+      "path": "ai-swarm-visualization.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "chart.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "icons.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "lucide-react",
+    "recharts"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/spydiecy/ai-swarm-visualization",
+    "fetchedAt": "2026-04-23T03:04:50.741Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

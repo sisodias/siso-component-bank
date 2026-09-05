@@ -1,0 +1,26 @@
+{
+  "id": "shugar__scroller-1",
+  "author": "shugar",
+  "slug": "scroller-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/scroller-1",
+  "fetchedAt": "2026-08-29T07:20:07.360Z",
+  "completedAt": "2026-08-29T07:20:09.534Z",
+  "versionedFilename": "code.1752153813563.tsx",
+  "codeReference": "r2://components-code-private/shugar/scroller-1/code.1752153813563.tsx",
+  "codeUrl": "https://cdn.21st.dev/shugar/scroller-1/code.1752153813563.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 8023,
+  "sha256": "478bb538ce3f2f14f3b007494b6226adc853396f955f5f8a32b9e429f8664f51",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

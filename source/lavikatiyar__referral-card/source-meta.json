@@ -1,0 +1,26 @@
+{
+  "id": "lavikatiyar__referral-card",
+  "author": "lavikatiyar",
+  "slug": "referral-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@lavikatiyar/components/referral-card",
+  "fetchedAt": "2026-08-29T05:25:42.840Z",
+  "completedAt": "2026-08-29T05:25:45.176Z",
+  "versionedFilename": "code.1758822559867.tsx",
+  "codeReference": "r2://components-code-private/lavikatiyar/referral-card/code.1758822559867.tsx",
+  "codeUrl": "https://cdn.21st.dev/lavikatiyar/referral-card/code.1758822559867.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5453,
+  "sha256": "20a1ca6a1eeb39c5aa320b257dd751fa5ac1f5566f7571df2ad8c78286a408f0",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

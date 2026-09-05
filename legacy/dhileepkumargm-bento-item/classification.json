@@ -1,0 +1,35 @@
+{
+  "category": "card",
+  "subcategory": "3D bento grid item with mouse-tracking rotation",
+  "visual_style": [
+    "3d",
+    "gradient",
+    "dark"
+  ],
+  "interactions": [
+    "morph",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Building dynamic bento grid layouts for modern web dashboards and landing pages",
+    "Creating interactive feature showcase sections with 3D depth effects",
+    "Designing portfolio or service display cards with premium hover interactions",
+    "Constructing portfolio project grids with spatial mouse-tracking effects",
+    "Developing creative agency landing pages with immersive card interactions"
+  ],
+  "ai_summary": "A 3D interactive bento grid item component that tracks mouse position to apply dynamic rotation and scale transforms, creating a premium spatial depth effect. The component uses CSS perspective transforms with smooth easing to respond to user cursor movement, making it ideal for modern SaaS dashboards, creative portfolios, and service showcases where visual engagement is paramount.",
+  "_classifiedAt": "2026-04-23T01:38:23.087Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:37:56.230Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

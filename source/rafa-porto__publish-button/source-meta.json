@@ -1,0 +1,26 @@
+{
+  "id": "rafa-porto__publish-button",
+  "author": "rafa-porto",
+  "slug": "publish-button",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@rafa-porto/components/publish-button",
+  "fetchedAt": "2026-08-29T06:17:55.436Z",
+  "completedAt": "2026-08-29T06:17:57.444Z",
+  "versionedFilename": "code.1761352395103.tsx",
+  "codeReference": "r2://components-code-private/rafa-porto/publish-button/code.1761352395103.tsx",
+  "codeUrl": "https://cdn.21st.dev/rafa-porto/publish-button/code.1761352395103.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4485,
+  "sha256": "ef26c2d94cbe3a155194b7141e073daa14db4cad2a6147356d338c9108d70c9a",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

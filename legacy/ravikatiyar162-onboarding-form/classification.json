@@ -1,0 +1,34 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "avatar",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying user profile pictures in navigation headers and user menus",
+    "Showing user avatars in comment sections and discussion threads",
+    "Rendering profile images in dashboard and settings interfaces",
+    "Displaying actor or user avatars in media and entertainment applications",
+    "Showing profile pictures in social features like chat and collaboration tools"
+  ],
+  "ai_summary": "A lightweight Avatar component built on Radix UI primitives that renders user profile images with a rounded circular design. Includes AvatarImage for the main image and AvatarFallback for graceful degradation when images fail to load. Uses clean Tailwind styling with muted background fallbacks, making it suitable for any application requiring user identification or profile display.",
+  "_classifiedAt": "2026-04-22T09:10:13.504Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

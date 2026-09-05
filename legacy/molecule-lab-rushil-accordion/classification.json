@@ -1,0 +1,28 @@
+{
+  "category": "navigation",
+  "subcategory": "collapsible content sections",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "FAQ sections on product or documentation pages",
+    "Expandable content sections for detailed information",
+    "Hierarchical content navigation in knowledge bases",
+    "Privacy policy or terms of service breakdowns",
+    "Product feature comparison or specification details"
+  ],
+  "ai_summary": "A smooth animated accordion component built on Radix UI primitives with motion/react animations. Features blur transition effects and a rotating chevron indicator, providing an elegant way to organize and reveal collapsible content sections. Uses standard design tokens for clean, consistent styling across applications.",
+  "_classifiedAt": "2026-04-23T17:00:42.239Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

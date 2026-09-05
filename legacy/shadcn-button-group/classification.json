@@ -1,0 +1,33 @@
+{
+  "category": "layout",
+  "subcategory": "button-group, segmented-control",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Grouping action buttons in toolbars with unified border styling",
+    "Creating segmented controls for filtering or view switching",
+    "Building toggle button groups for multi-select options",
+    "Organizing form actions with connected primary and secondary buttons",
+    "Creating tab-like navigation patterns with visual grouping"
+  ],
+  "ai_summary": "A Shadcn/ui button group component that clusters multiple buttons or interactive elements with intelligent shared borders, removing redundant borders between adjacent items to create a unified appearance. Supports horizontal and vertical orientations with CSS-driven border manipulation. Uses Radix UI Slot for composition flexibility and includes text and separator sub-components for versatile layouts.",
+  "_classifiedAt": "2026-04-22T09:14:24.144Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

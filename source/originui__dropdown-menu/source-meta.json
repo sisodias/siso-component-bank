@@ -1,0 +1,33 @@
+{
+  "id": "originui__dropdown-menu",
+  "author": "originui",
+  "slug": "dropdown-menu",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@originui/components/dropdown-menu",
+  "fetchedAt": "2026-08-29T06:00:58.212Z",
+  "completedAt": "2026-08-29T06:00:59.364Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/originui__dropdown-menu/code.tsx",
+    "bytes": 9093,
+    "sha256": "f5076c047238202c059524384e017ad7e548c309b4703739a0f10a1fa19c0084",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/image-cropper",
+  "author": "ruixen.ui",
+  "slug": "image-cropper",
+  "name": "image-cropper",
+  "description": "This Image Cropper component is a highly interactive and user-friendly tool built entirely with shadcn UI and React. It allows users to upload any image and crop it with precision using adjustable zoom and customizable aspect ratios, including square, 4:3, 16:9, or freeform cropping. The component provides a real-time preview of the cropped area and allows users to download the resulting image directly. Its interface leverages shadcn UI elements such as Card, Button, Select, and Slider, ensuring a clean, modern, and responsive design. This makes it ideal for applications requiring image editing features, such as profile picture selection, social media content creation, or visual content management, providing a seamless and professional user experience.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/image-cropper?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__image-cropper",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/image-cropper/default/bundle.1757761300922.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/image-cropper/default/preview.1757761300922.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 70,
+  "demo_id": 7319,
+  "video_url": null
+}

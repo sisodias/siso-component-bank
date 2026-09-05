@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@tonyzebastian/components/image-sphere",
+  "author": "tonyzebastian",
+  "slug": "image-sphere",
+  "name": "image-sphere",
+  "description": "A React TypeScript component that displays images arranged in a 3D sphere layout. Images are distributed using Fibonacci sphere distribution for optimal coverage. Supports drag-to-rotate, momentum physics, auto-rotation, and modal image viewing.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/tonyzebastian/image-sphere?api_key=$API_KEY_21ST\"",
+  "id": "tonyzebastian__image-sphere",
+  "bundleUrl": "https://cdn.21st.dev/tonyzebastian/img-sphere/default/bundle.1762353416350.html",
+  "previewUrl": "https://cdn.21st.dev/tonyzebastian/image-sphere/default/preview.1758824150622.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

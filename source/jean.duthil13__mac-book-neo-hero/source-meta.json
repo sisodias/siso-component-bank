@@ -1,0 +1,26 @@
+{
+  "id": "jean.duthil13__mac-book-neo-hero",
+  "author": "jean.duthil13",
+  "slug": "mac-book-neo-hero",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@jean.duthil13/components/mac-book-neo-hero",
+  "fetchedAt": "2026-08-29T05:09:11.026Z",
+  "completedAt": "2026-08-29T05:09:13.123Z",
+  "versionedFilename": "code.1777246516030.tsx",
+  "codeReference": "r2://components-code-private/jean.duthil13/mac-book-neo-hero/code.1777246516030.tsx",
+  "codeUrl": "https://cdn.21st.dev/jean.duthil13/mac-book-neo-hero/code.1777246516030.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 8117,
+  "sha256": "1048a20a1d814ca04644229a4229782986009dd25133f9ca91743593090c9ae3",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

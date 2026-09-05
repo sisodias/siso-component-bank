@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "cinquinandy-animated-hero-with-web-gl-glitter",
+  "type": "registry:ui",
+  "title": "Cinquinandy Animated Hero With Web Gl Glitter",
+  "description": "Installed from https://21st.dev/r/cinquinandy/animated-hero-with-web-gl-glitter",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "cinquinandy-animated-hero-with-web-gl-glitter"
+  ],
+  "files": [
+    {
+      "path": "animated-hero-with-web-gl-glitter.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@react-three/fiber",
+    "three"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/cinquinandy/animated-hero-with-web-gl-glitter",
+    "fetchedAt": "2026-04-22T06:43:03.667Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

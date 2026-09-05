@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "location-indicator-tag",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying real-time user or team member locations with live timezone information",
+    "Showing current local time for distributed team members in collaboration tools",
+    "Adding location context to user profiles in SaaS applications"
+  ],
+  "ai_summary": "A compact location tag component that displays city, country, and live local time with a pulsing green indicator. Features smooth slide-up animations on hover to reveal location details, subtle shadow effects, and a semi-transparent rounded pill design. The live time updates every second using React hooks, making it ideal for displaying team member timezones or location context in collaborative applications.",
+  "_classifiedAt": "2026-04-22T09:00:39.507Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

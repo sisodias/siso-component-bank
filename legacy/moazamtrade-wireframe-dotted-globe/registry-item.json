@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "moazamtrade-wireframe-dotted-globe",
+  "type": "registry:ui",
+  "title": "Moazamtrade Wireframe Dotted Globe",
+  "description": "Installed from https://21st.dev/r/moazamtrade/wireframe-dotted-globe",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "moazamtrade-wireframe-dotted-globe"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "wireframe-dotted-globe.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "d3"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/moazamtrade/wireframe-dotted-globe",
+    "fetchedAt": "2026-04-23T01:17:42.196Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

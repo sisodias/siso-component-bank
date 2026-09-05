@@ -1,0 +1,34 @@
+{
+  "category": [
+    "hero"
+  ],
+  "subcategory": "3D WebGL interactive hero with shader background",
+  "visual_style": [
+    "dark",
+    "minimalist",
+    "3d"
+  ],
+  "interactions": [
+    "hover-glow",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero sections for tech products with immersive 3D backgrounds",
+    "Portfolio or presentation pages requiring visual impact",
+    "Product showcases with interactive WebGL elements",
+    "SaaS landing pages seeking modern, animated hero sections"
+  ],
+  "ai_summary": "A WebGL-powered hero component featuring a shader-based liquid background that responds to mouse movement and a floating 3D icosahedron monolith with distortion effects. The dark-themed, minimalist design creates an immersive experience ideal for tech landing pages, featuring continuous animations and mouse-reactive elements built with React Three Fiber and custom GLSL shaders.",
+  "_classifiedAt": "2026-04-22T08:59:20.624Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "reshaped__reshaped-radio",
+  "author": "reshaped",
+  "slug": "reshaped-radio",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@reshaped/components/reshaped-radio",
+  "fetchedAt": "2026-08-29T06:34:31.090Z",
+  "completedAt": "2026-08-29T06:34:33.145Z",
+  "versionedFilename": "code.1783441236441.tsx",
+  "codeReference": "r2://components-code-private/larsen66/reshaped-radio/code.1783441236441.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/reshaped-radio/code.1783441236441.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 513,
+  "sha256": "a47395c9fb6108399e7ad0ab1011a3df65c629abeb2fd6dd7f220e1a38363843",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,27 @@
+{
+  "category": "data-display",
+  "subcategory": "activity-progress-ring",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "healthcare",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying fitness and health metrics like calories burned, exercise minutes, and standing hours",
+    "Creating wellness tracking dashboards for health apps and wearables",
+    "Visualizing progress toward daily activity goals in a gamified fitness interface",
+    "Building Apple Watch-style activity visualizations for mobile health applications",
+    "Monitoring personal wellness metrics in corporate wellness programs"
+  ],
+  "ai_summary": "A visually striking activity ring component inspired by Apple Watch's activity rings, displaying fitness metrics (Move, Exercise, Stand) as concentric circular progress indicators. Features smooth entrance animations, gradient-filled progress arcs, and a clean modern aesthetic. The component renders three layered SVG rings with real-time progress calculations, ideal for health tracking, fitness apps, and wellness monitoring dashboards. Supports customizable colors, sizes, and data values for flexible integration into various health and fitness platforms.",
+  "_classifiedAt": "2026-04-23T16:48:52.755Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

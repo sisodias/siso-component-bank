@@ -1,0 +1,26 @@
+{
+  "id": "dillionverma__dot-pattern",
+  "author": "dillionverma",
+  "slug": "dot-pattern",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dillionverma/components/dot-pattern",
+  "fetchedAt": "2026-08-29T04:35:15.788Z",
+  "completedAt": "2026-08-29T04:35:16.483Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null
+}

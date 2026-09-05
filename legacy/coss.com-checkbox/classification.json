@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "checkbox",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Boolean form input for accepting terms, conditions, or newsletter subscriptions",
+    "Multi-select checklist items in settings or filters",
+    "Task completion toggles in productivity applications",
+    "Selection controls in data tables for bulk actions"
+  ],
+  "ai_summary": "A checkbox component from Coss.com's design system built on Base UI. Features a polished, modern aesthetic with subtle shadows, border styling, and proper focus/hover states. Includes full accessibility support with aria-invalid states, disabled states, and dark mode variants. The component uses Tailwind CSS with CSS custom properties for theming and supports responsive sizing.",
+  "_classifiedAt": "2026-04-22T08:54:21.034Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,29 @@
+{
+  "category": "hero",
+  "subcategory": "animated marquee hero with infinite scroll images",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing pages needing dynamic product or brand showcase with animated visuals",
+    "Marketing sites requiring engaging hero sections with call-to-action buttons",
+    "Portfolio or creative websites showcasing visual content with marquee effects",
+    "E-commerce product pages highlighting multiple items in a looping animated display",
+    "SaaS landing pages wanting animated hero sections with taglines and CTAs"
+  ],
+  "ai_summary": "AnimatedMarqueeHero is a full-screen hero component featuring an infinite scrolling marquee of images combined with fade-in animated text content, tagline badge, and a prominent CTA button. Built with Framer Motion for smooth animations including hover scale effects and spring transitions. Uses backdrop blur and shadow styling for a modern, polished aesthetic suitable for landing pages and marketing sites.",
+  "_classifiedAt": "2026-04-23T01:47:13.392Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

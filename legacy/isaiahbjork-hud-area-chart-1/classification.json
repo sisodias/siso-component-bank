@@ -1,0 +1,28 @@
+{
+  "category": "data-display",
+  "subcategory": "area-chart",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display time-series metrics and analytics data in dashboards",
+    "Monitor system performance or business KPIs with real-time visualization",
+    "Visualize trends in fintech applications like portfolio tracking or market data",
+    "Create HUD-style data displays for gaming or control panel interfaces",
+    "Build analytics views for SaaS products and monitoring tools"
+  ],
+  "ai_summary": "A HUD-styled area chart component built with Recharts primitives, featuring dark mode support and interactive hover tooltips. Designed for displaying time-series data in dashboards and analytics views with a cyberpunk-inspired aesthetic. The component uses a flexible ChartConfig system for theming and supports responsive layouts across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T16:44:17.885Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

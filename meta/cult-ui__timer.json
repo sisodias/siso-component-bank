@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@cult-ui/components/timer",
+  "author": "cult-ui",
+  "slug": "timer",
+  "name": "timer",
+  "description": "A countdown/stopwatch timer component with customizable duration, variants, sizes, and compound parts for building custom timers.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/cult-ui/timer?api_key=$API_KEY_21ST\"",
+  "id": "cult-ui__timer",
+  "bundleUrl": "https://cdn.21st.dev/cult-ui/timer/default/bundle.1783695372432.html",
+  "previewUrl": "https://cdn.21st.dev/cult-ui/timer/default/preview.1783695372432.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

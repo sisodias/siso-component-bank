@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-with-variants",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action trigger in forms and interfaces",
+    "Navigation and routing actions",
+    "Confirmation dialogs and alerts",
+    "Toolbars and action bars",
+    "Accessible interactive controls with focus states"
+  ],
+  "ai_summary": "A flexible Button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Built with Radix UI Slot for composition, class-variance-authority for type-safe variants, and includes proper accessibility attributes. Features subtle shadow effects and smooth hover/focus transitions. Suitable for any interface requiring standard interactive controls.",
+  "_classifiedAt": "2026-04-23T01:50:34.119Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

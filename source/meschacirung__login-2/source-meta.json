@@ -1,0 +1,26 @@
+{
+  "id": "meschacirung__login-2",
+  "author": "meschacirung",
+  "slug": "login-2",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@meschacirung/components/login-2",
+  "fetchedAt": "2026-08-29T05:41:30.630Z",
+  "completedAt": "2026-08-29T05:41:32.830Z",
+  "versionedFilename": "code.1784385396773-fa588612-d76f-4af9-86bf-8a6d8ffd27cf.tsx",
+  "codeReference": "r2://components-code-private/meschacirung/login-2/code.1784385396773-fa588612-d76f-4af9-86bf-8a6d8ffd27cf.tsx",
+  "codeUrl": "https://cdn.21st.dev/meschacirung/login-2/code.1784385396773-fa588612-d76f-4af9-86bf-8a6d8ffd27cf.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

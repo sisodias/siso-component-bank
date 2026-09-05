@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "reaviz-funnel-chart",
+  "type": "registry:ui",
+  "title": "Reaviz Funnel Chart",
+  "description": "Installed from https://21st.dev/r/reaviz/funnel-chart",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "reaviz-funnel-chart"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "funnel-chart.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "reaviz"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/reaviz/funnel-chart",
+    "fetchedAt": "2026-04-23T03:04:37.490Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

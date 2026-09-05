@@ -1,0 +1,34 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "speed-lines-shader",
+  "visual_style": [
+    "gradient",
+    "3d"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "creator-tools",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Dynamic animated background for landing pages and hero sections",
+    "Speed/motion visual effect for loading screens and transitions",
+    "Creative portfolio backdrop for design agencies",
+    "Gaming-inspired visual accent for tech products",
+    "Atmospheric effect for media streaming applications"
+  ],
+  "ai_summary": "A WebGL-powered speed lines shader component built with React Three Fiber. Uses GLSL shaders with procedural noise functions and mirrored UV patterns to create flowing, animated speed line effects. Features time-based animation, resolution-aware rendering, and a fullscreen quad setup for seamless background integration. Ideal for adding dynamic motion graphics to creative portfolios, landing pages, or tech product aesthetics.",
+  "_classifiedAt": "2026-04-23T01:35:14.476Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

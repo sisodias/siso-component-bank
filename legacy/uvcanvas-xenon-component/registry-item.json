@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "uvcanvas-xenon-component",
+  "type": "registry:ui",
+  "title": "Uvcanvas Xenon Component",
+  "description": "Installed from https://21st.dev/r/uvcanvas/xenon-component",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "uvcanvas-xenon-component"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "xenon-component.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "uvcanvas"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/uvcanvas/xenon-component",
+    "fetchedAt": "2026-04-22T06:44:19.484Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

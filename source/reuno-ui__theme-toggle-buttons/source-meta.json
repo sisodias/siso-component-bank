@@ -1,0 +1,33 @@
+{
+  "id": "reuno-ui__theme-toggle-buttons",
+  "author": "reuno-ui",
+  "slug": "theme-toggle-buttons",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@reuno-ui/components/theme-toggle-buttons",
+  "fetchedAt": "2026-08-29T06:36:19.556Z",
+  "completedAt": "2026-08-29T06:36:21.439Z",
+  "versionedFilename": "code.1785470134267-a1c8c0a9-937c-471a-b17e-9566bcf98a57.tsx",
+  "codeReference": "r2://components-code-private/reuno-ui/theme-toggle-buttons/code.1785470134267-a1c8c0a9-937c-471a-b17e-9566bcf98a57.tsx",
+  "codeUrl": "https://cdn.21st.dev/reuno-ui/theme-toggle-buttons/code.1785470134267-a1c8c0a9-937c-471a-b17e-9566bcf98a57.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/reuno-ui__theme-toggle-buttons/code.tsx",
+    "bytes": 15124,
+    "sha256": "80869b6b9c2a729cde1853ce1766f128894dfdb5f333e91a074f9f7afca25110",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

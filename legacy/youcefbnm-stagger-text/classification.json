@@ -1,0 +1,29 @@
+{
+  "category": "media",
+  "subcategory": "animated-text-stagger",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Hero section headline text reveal on scroll",
+    "Landing page typography with staggered character animations",
+    "Animated section titles that trigger when entering viewport",
+    "Interactive text presentations with directional reveal effects",
+    "Brand messaging with scroll-triggered letter-by-letter animations"
+  ],
+  "ai_summary": "A typography animation component that reveals text character-by-character with staggered timing when scrolled into view. Uses Framer Motion to animate each letter from configurable directions (top, bottom, left, right, or scale) with customizable transitions. Perfect for creating engaging hero section text reveals and animated headlines that capture attention as users scroll through landing pages.",
+  "_classifiedAt": "2026-04-23T17:45:32.886Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

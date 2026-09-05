@@ -1,0 +1,25 @@
+{
+  "category": "input",
+  "subcategory": "textarea",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Multi-line text input for user-generated content in forms",
+    "Comment or feedback submission fields in applications",
+    "Long-form text entry for document creation interfaces",
+    "Message composition in chat or messaging applications"
+  ],
+  "ai_summary": "A lightweight, reusable textarea component with three size variants (sm, md, lg) featuring subtle shadow effects, focus ring animations, and comprehensive accessibility support including disabled states, readonly mode, and aria-invalid error styling. Includes dark mode support for error states. Designed as a drop-in form input for any React application requiring multi-line text entry.",
+  "_classifiedAt": "2026-04-23T17:24:46.282Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

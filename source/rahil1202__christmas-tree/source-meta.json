@@ -1,0 +1,26 @@
+{
+  "id": "rahil1202__christmas-tree",
+  "author": "rahil1202",
+  "slug": "christmas-tree",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@rahil1202/components/christmas-tree",
+  "fetchedAt": "2026-08-29T06:18:16.431Z",
+  "completedAt": "2026-08-29T06:18:19.214Z",
+  "versionedFilename": "code.1758805838559.tsx",
+  "codeReference": "r2://components-code-private/rahil1202/christmas-tree/code.1758805838559.tsx",
+  "codeUrl": "https://cdn.21st.dev/rahil1202/christmas-tree/code.1758805838559.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 25549,
+  "sha256": "aef9553393d7480631fb7e98b13cc609be45c13a3614a4230076b8769a7ea66d",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

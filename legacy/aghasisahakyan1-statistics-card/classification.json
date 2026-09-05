@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "statistics-comparison",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying competitor comparison metrics in dashboards",
+    "Showing product rankings or performance scores on landing pages",
+    "Presenting survey results with animated number counters",
+    "Visualizing market share or benchmark statistics",
+    "Displaying comparative analytics in business reports"
+  ],
+  "ai_summary": "A statistics comparison card component designed to display competitor or benchmark metrics with animated number counters and staggered entrance animations. Features a gradient background container, spring-based motion effects, and a clean minimalist design suitable for SaaS dashboards, landing pages, or analytics interfaces. The component uses NumberFlow for smooth numerical animations and Framer Motion for entrance orchestration.",
+  "_classifiedAt": "2026-04-22T08:51:15.623Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

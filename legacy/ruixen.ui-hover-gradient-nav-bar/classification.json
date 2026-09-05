@@ -1,0 +1,31 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "hover-gradient-horizontal-nav-bar",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Main navigation bar for SaaS dashboards with visual hover feedback",
+    "Application navigation with color-coded menu items by category",
+    "User profile and settings navigation with gradient accent effects"
+  ],
+  "ai_summary": "A horizontal navigation bar component featuring hover-activated radial gradient backgrounds and color-changing icons using Framer Motion. Each menu item displays a unique accent color on hover with smooth transitions. Supports dark mode variants and includes common app navigation items like Home, Notifications, Messages, Analytics, Settings, Profile, and Help.",
+  "_classifiedAt": "2026-04-23T17:18:45.296Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

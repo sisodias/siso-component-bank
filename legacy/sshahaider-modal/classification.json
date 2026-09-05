@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "action-button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Triggering form submissions with primary or destructive action variants",
+    "Creating ghost-style navigation buttons with minimal visual footprint",
+    "Building icon-only buttons for compact UI toolbar actions",
+    "Implementing accessible focus-visible button states for keyboard navigation",
+    "Composing buttons as child elements using Radix UI Slot for flexibility"
+  ],
+  "ai_summary": "A versatile atomic button component built with Radix UI and styled with Tailwind CSS, featuring multiple visual variants (default, destructive, outline, secondary, ghost, link) and size options. Uses the Slot component pattern for composition flexibility, includes shadow effects for subtle depth, and provides full accessibility support with focus-visible states and disabled handling. Suitable for any SaaS or web application requiring standard action buttons.",
+  "_classifiedAt": "2026-04-23T17:33:39.535Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

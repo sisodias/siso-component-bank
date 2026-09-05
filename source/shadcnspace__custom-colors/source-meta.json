@@ -1,0 +1,26 @@
+{
+  "id": "shadcnspace__custom-colors",
+  "author": "shadcnspace",
+  "slug": "custom-colors",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcnspace/components/custom-colors",
+  "fetchedAt": "2026-08-29T07:11:14.757Z",
+  "completedAt": "2026-08-29T07:11:16.989Z",
+  "versionedFilename": "code.1772718047347.tsx",
+  "codeReference": "r2://components-code-private/larsen66/custom-colors/code.1772718047347.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/custom-colors/code.1772718047347.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 422,
+  "sha256": "00882346802b80f4f0222ba5682de8c5beaa4fe46f63f316a303db6a149ffe08",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,39 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education",
+    "real-estate",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Trigger primary actions in forms and applications",
+    "Navigate between pages or views using the link variant",
+    "Execute destructive operations with the destructive variant",
+    "Create secondary actions alongside primary buttons",
+    "Integrate into pagination controls for page navigation"
+  ],
+  "ai_summary": "A versatile button component from Origin UI featuring multiple style variants (default, destructive, outline, secondary, ghost, link) with consistent rounded-lg styling, subtle shadows, and proper accessibility states. Built on Radix UI Slot for composition and CVA for variant management, making it suitable for any web application requiring interactive controls.",
+  "_classifiedAt": "2026-04-23T17:04:28.041Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

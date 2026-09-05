@@ -1,0 +1,28 @@
+{
+  "category": "media",
+  "subcategory": "dot-matrix-pixel-art-image",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools",
+    "media",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display images as interactive dot-matrix pixel art with configurable cell sizes and dot shapes",
+    "Add mouse proximity distortion effects to images for engaging user interactions",
+    "Create stylized product displays with customizable color tints and grayscale options",
+    "Build artistic image galleries with responsive layouts and performance optimization",
+    "Generate retro-style visualizations for creative and media applications"
+  ],
+  "ai_summary": "A pixelated canvas component that transforms images into dot-matrix or grid-based pixel art. Renders images as sampling dots in configurable cell sizes, supporting circles or squares with optional grayscale conversion. Features interactive mouse distortion with repel, attract, and swirl modes, plus jitter effects for organic movement. Offers tint coloring, responsive sizing, and performance controls via max FPS limiting. Ideal for creating stylized, interactive image displays in creative tools, e-commerce, and media applications.",
+  "_classifiedAt": "2026-04-23T01:54:47.341Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

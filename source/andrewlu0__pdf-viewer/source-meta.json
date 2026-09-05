@@ -1,0 +1,26 @@
+{
+  "id": "andrewlu0__pdf-viewer",
+  "author": "andrewlu0",
+  "slug": "pdf-viewer",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@andrewlu0/components/pdf-viewer",
+  "fetchedAt": "2026-08-29T03:33:37.338Z",
+  "completedAt": "2026-08-29T03:33:41.040Z",
+  "versionedFilename": "code.1747235833530.tsx",
+  "codeReference": "r2://components-code-private/andrewlu0/pdf-viewer/code.1747235833530.tsx",
+  "codeUrl": "https://cdn.21st.dev/andrewlu0/pdf-viewer/code.1747235833530.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 8765,
+  "sha256": "9f8db36fff4728aabcf91e6cd332b6ac839052c5b9e3fbf7123bf711f582cc09",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

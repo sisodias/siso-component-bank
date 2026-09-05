@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@cnippet.dev/components/logout-confirmation-dialog",
+  "author": "cnippet.dev",
+  "slug": "logout-confirmation-dialog",
+  "name": "logout-confirmation-dialog",
+  "description": "A centered alert dialog that asks the user to confirm before logging out, with an icon, message, and a split No / Yes, Logout button footer.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/cnippet.dev/logout-confirmation-dialog?api_key=$API_KEY_21ST\"",
+  "id": "cnippet.dev__logout-confirmation-dialog",
+  "bundleUrl": "https://cdn.21st.dev/cnippet.dev/logout-confirmation-dialog/default/bundle.1787102636895-1e709f5c-6bfb-4f91-9a46-73e1de09f0c6.html",
+  "previewUrl": "https://cdn.21st.dev/cnippet.dev/logout-confirmation-dialog/default/preview.1787102636895-1e709f5c-6bfb-4f91-9a46-73e1de09f0c6.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

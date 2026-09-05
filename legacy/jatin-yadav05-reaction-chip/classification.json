@@ -1,0 +1,31 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "emoji-reaction-chip",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "social",
+    "messaging",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Enable users to react to messages in chat or comment threads",
+    "Provide quick feedback on content without writing a reply",
+    "Add interactive emoji reactions to messaging interfaces"
+  ],
+  "ai_summary": "A lightweight reaction chip component that displays messages with emoji-based feedback options. Users can select one reaction at a time with a subtle scale bump animation. Includes accessibility features with ARIA labels. Ideal for chat interfaces, comments sections, or any messaging platform requiring quick user reactions.",
+  "_classifiedAt": "2026-04-23T01:41:07.886Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

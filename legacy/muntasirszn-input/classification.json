@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "animated-input",
+  "visual_style": [
+    "gradient",
+    "dark"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Login and registration forms with interactive hover spotlight effects",
+    "Search inputs requiring enhanced visual feedback on focus",
+    "Contact and feedback forms with polished micro-interactions",
+    "Any text input field needing a modern animated aesthetic",
+    "Dark-themed interfaces requiring subtle gradient enhancements"
+  ],
+  "ai_summary": "An animated input component featuring a radial gradient spotlight effect that follows the mouse cursor, built with GSAP for smooth transitions. The input displays a blue (#3b82f6) gradient on hover that expands from the cursor position with a 100px radius, providing enhanced visual feedback. Uses React hooks and refs for state management and integrates seamlessly into dark-themed interfaces for modern form styling.",
+  "_classifiedAt": "2026-04-23T17:02:41.508Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

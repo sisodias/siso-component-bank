@@ -1,0 +1,26 @@
+{
+  "id": "uilayout.contact__hero-section",
+  "author": "uilayout.contact",
+  "slug": "hero-section",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uilayout.contact/components/hero-section",
+  "fetchedAt": "2026-08-29T07:44:02.990Z",
+  "completedAt": "2026-08-29T07:44:05.044Z",
+  "versionedFilename": "code.1756285031989.tsx",
+  "codeReference": "r2://components-code-private/uilayout.contact/hero-section/code.1756285031989.tsx",
+  "codeUrl": "https://cdn.21st.dev/uilayout.contact/hero-section/code.1756285031989.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 18109,
+  "sha256": "34e4f49421b93e7df116035d2e8fa6b0d5691501af7197f4bee15f1c7212a92f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

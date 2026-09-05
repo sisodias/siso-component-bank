@@ -1,0 +1,26 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action buttons in forms and modals",
+    "Triggering workspace creation or navigation",
+    "Call-to-action elements in web interfaces",
+    "Interactive controls with multiple visual variants"
+  ],
+  "ai_summary": "A reusable button component with multiple style variants (default, destructive, outline, secondary, ghost, link) and sizes. Built with Radix UI Slot for composition and class-variance-authority for consistent styling across SaaS and web applications. Supports disabled states and focus-visible outlines for accessibility.",
+  "_classifiedAt": "2026-04-23T01:53:15.609Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

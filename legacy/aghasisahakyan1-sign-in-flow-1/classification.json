@@ -1,0 +1,34 @@
+{
+  "category": "form",
+  "subcategory": "authentication",
+  "visual_style": [
+    "3d",
+    "gradient",
+    "dark"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Secure user authentication with animated 3D canvas reveal effect for modern web applications",
+    "Onboarding flows with immersive visual experience using WebGL shader animations",
+    "Landing page sign-in sections with gradient overlays and smooth transitions",
+    "SaaS platform authentication with canvas-based decorative elements",
+    "E-commerce customer login with animated background effects"
+  ],
+  "ai_summary": "A modern sign-in flow component featuring an interactive 3D canvas reveal effect built with Three.js and WebGL shaders. The component uses a dot matrix animation with customizable colors, opacity levels, and animation speed to create immersive authentication experiences. Includes gradient overlays, smooth motion transitions via Framer Motion, and adapts to dark-themed interfaces with cyan accent colors.",
+  "_classifiedAt": "2026-04-23T11:29:10.024Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@kokonutd/components/color-input",
+  "author": "kokonutd",
+  "slug": "color-input",
+  "name": "color-input",
+  "description": "A sophisticated color input component with opacity control, color swatches, and clipboard integration.\n\nFeatures\n\n- Color Management\n  - HEX color input\n  - Visual color preview\n  - One-click copy to clipboard\n  - Color swatches for quick selection\n\n- Opacity Control\n  - Smooth slider control (0-100%)\n  - Visual gradient feedback\n  - Custom styled thumb matching selected color\n  - Real-time color preview",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/kokonutd/color-input?api_key=$API_KEY_21ST\"",
+  "id": "kokonutd__color-input",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1538.html",
+  "previewUrl": "https://cdn.21st.dev/user_2rQ1QHrJyxpmWMHhqhANzWMc64n/color-input.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 88,
+  "demo_id": 1538,
+  "video_url": "https://cdn.21st.dev/user_2rQ1QHrJyxpmWMHhqhANzWMc64n/color-input/default/video.mp4"
+}

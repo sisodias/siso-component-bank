@@ -1,0 +1,31 @@
+{
+  "category": "data-display",
+  "subcategory": "real-time line chart",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display streaming analytics data with animated line chart visualization",
+    "Monitor real-time metrics on dashboards with hover tooltips showing exact values",
+    "Show time-series data with gradient-filled area charts that update live",
+    "Visualize fluctuating metrics like CPU usage, stock prices, or user activity"
+  ],
+  "ai_summary": "A real-time analytics line chart component with animated data streaming. Features gradient-filled area visualization, hover tooltips displaying precise data point values, and smooth transitions as new points slide into view. Built with React hooks for live data updates, making it ideal for dashboards requiring continuous metric tracking.",
+  "_classifiedAt": "2026-04-22T09:02:56.622Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

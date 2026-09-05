@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ddoemonn/components/command-palette",
+  "author": "ddoemonn",
+  "slug": "command-palette",
+  "name": "command-palette",
+  "description": "A keyboard-driven command palette with fuzzy search, arrow-key navigation, and an animated overlay for triggering app actions.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ddoemonn/command-palette?api_key=$API_KEY_21ST\"",
+  "id": "ddoemonn__command-palette",
+  "bundleUrl": "https://cdn.21st.dev/ddoemonn/command-palette/default/bundle.1785470520515-5d235e21-9cd6-4a68-b0bf-675176102f96.html",
+  "previewUrl": "https://cdn.21st.dev/ddoemonn/command-palette/default/preview.1785470520515-5d235e21-9cd6-4a68-b0bf-675176102f96.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

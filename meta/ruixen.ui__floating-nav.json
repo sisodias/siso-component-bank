@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/floating-nav",
+  "author": "ruixen.ui",
+  "slug": "floating-nav",
+  "name": "floating-nav",
+  "description": "This is a responsive floating bottom navigation bar built with React and Framer Motion. It displays multiple menu items with icons and labels, adapting to screen size by showing icons only on small screens and icons with labels on larger screens. A sliding indicator smoothly animates under the active item, always staying aligned, providing clear visual feedback for the selected section. The design is modern, minimal, and works seamlessly in both light and dark themes.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/floating-nav?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__floating-nav",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/floating-nav/default/bundle.1755844780227.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/floating-nav/default/preview.1755842178208.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 68,
+  "demo_id": 5840,
+  "video_url": "https://cdn.21st.dev/ruixen.ui/floating-nav/default/video.1755842178208.mp4"
+}

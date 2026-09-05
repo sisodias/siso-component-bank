@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "badge, tag, status indicator",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying status labels such as 'active', 'pending', or 'completed'",
+    "Showing category tags for content classification",
+    "Indicating notification counts or feature highlights",
+    "Used within larger card components for metadata display",
+    "Providing visual badges for user roles or permissions"
+  ],
+  "ai_summary": "A reusable Badge component with four style variants (default, secondary, destructive, outline) built with class-variance-authority for consistent theming. Features hover color transitions and accessible focus rings for keyboard navigation. Designed as an atomic UI primitive that pairs well with card layouts to display status, tags, or metadata labels in a clean, flat visual style.",
+  "_classifiedAt": "2026-04-23T17:16:50.128Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

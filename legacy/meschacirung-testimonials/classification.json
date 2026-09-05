@@ -1,0 +1,28 @@
+{
+  "category": "data-display",
+  "subcategory": "Avatar",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying user profile avatars in testimonial sections",
+    "Showing author attribution in review cards",
+    "User identification in comment and feedback forms",
+    "Profile image display with fallback initials"
+  ],
+  "ai_summary": "A minimalist avatar component built on Radix UI primitives for displaying user profile images in testimonials and user review sections. Supports image display with graceful fallback to initials when images fail to load.",
+  "_classifiedAt": "2026-04-23T16:57:33.533Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

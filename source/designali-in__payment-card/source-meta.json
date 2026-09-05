@@ -1,0 +1,26 @@
+{
+  "id": "designali-in__payment-card",
+  "author": "designali-in",
+  "slug": "payment-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/payment-card",
+  "fetchedAt": "2026-08-29T04:20:33.058Z",
+  "completedAt": "2026-08-29T04:20:34.988Z",
+  "versionedFilename": "code.1755105119442.tsx",
+  "codeReference": "r2://components-code-private/designali-in/payment-card/code.1755105119442.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/payment-card/code.1755105119442.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 8304,
+  "sha256": "75462328de387ef94992e7b1ef8a54b55dcba38fa5a3e9870f6dfc3bd5f9a1d1",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

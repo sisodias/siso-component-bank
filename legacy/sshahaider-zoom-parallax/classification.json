@@ -1,0 +1,34 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "scroll-driven-parallax-zoom",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero sections for creative portfolios with immersive scroll-driven image reveals",
+    "Product showcases where items zoom out progressively as users scroll",
+    "Storytelling landing pages with layered parallax image sequences",
+    "Photography or design portfolios with cinematic reveal effects",
+    "SaaS landing pages requiring dynamic visual engagement"
+  ],
+  "ai_summary": "A scroll-driven parallax zoom component using Framer Motion that creates an immersive image reveal experience. Multiple images scale from 1x to 8x as the user scrolls through a tall container, with each image having unique positioning. The sticky viewport keeps images centered while they progressively zoom out, creating a dramatic zoom-out effect commonly used in creative portfolios, product showcases, and storytelling sections.",
+  "_classifiedAt": "2026-04-23T17:34:14.952Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

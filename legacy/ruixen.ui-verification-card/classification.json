@@ -1,0 +1,28 @@
+{
+  "category": "card",
+  "subcategory": "verification-identity",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "saas",
+    "healthcare"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying digital identity cards in user verification flows",
+    "Employee badge representation in HR management systems",
+    "Member identification in membership platforms",
+    "Patient ID cards in healthcare portals",
+    "Age verification cards for age-restricted services"
+  ],
+  "ai_summary": "A sleek verification card component displaying identity information with a customizable background image and dark overlay for text contrast. Uses framer-motion for smooth entrance animation and renders key fields including label, masked ID number, name, and validity date. Designed for fintech KYC flows, employee verification systems, and any identity documentation display use case.",
+  "_classifiedAt": "2026-04-22T09:13:32.914Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

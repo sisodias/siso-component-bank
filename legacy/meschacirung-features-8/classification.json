@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "reusable-card-system",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Creating structured content sections with headers, titles, descriptions, and footers",
+    "Building feature showcases and service listings with consistent styling",
+    "Displaying product cards, testimonials, or testimonial grids",
+    "Structuring dashboard widgets and data visualization containers",
+    "Creating modal dialogs and overlay content areas with matching design"
+  ],
+  "ai_summary": "A set of reusable card UI primitives including Card, CardHeader, CardTitle, CardDescription, CardContent, and CardFooter components. Built with Tailwind CSS for clean, flat design with subtle shadows and borders. Designed as atomic building blocks for creating feature sections, content grids, and structured information displays across web applications.",
+  "_classifiedAt": "2026-04-23T16:56:22.754Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

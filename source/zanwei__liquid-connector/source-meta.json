@@ -1,0 +1,26 @@
+{
+  "id": "zanwei__liquid-connector",
+  "author": "zanwei",
+  "slug": "liquid-connector",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@zanwei/components/liquid-connector",
+  "fetchedAt": "2026-08-29T08:02:02.065Z",
+  "completedAt": "2026-08-29T08:02:04.277Z",
+  "versionedFilename": "code.1785322787951-38a67edc-1dd0-49aa-9dd7-b98eb67c7f75.tsx",
+  "codeReference": "r2://components-code-private/larsen66/liquid-connector/code.1785322787951-38a67edc-1dd0-49aa-9dd7-b98eb67c7f75.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/liquid-connector/code.1785322787951-38a67edc-1dd0-49aa-9dd7-b98eb67c7f75.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

@@ -1,0 +1,24 @@
+{
+  "category": "input",
+  "subcategory": "toggle-switch",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Dark mode toggle for applications requiring light/dark theme switching",
+    "Feature flag controls to enable/disable product features dynamically",
+    "Settings panels for toggling boolean configuration options",
+    "Permission controls for enabling/disabling user capabilities"
+  ],
+  "ai_summary": "A cinematic dark-themed toggle switch component featuring emerald accent colors and spring-based animations. The switch uses Framer Motion for smooth thumb movement with tactile scale feedback on tap, set against a glass-morphism styled container with backdrop blur effects. Designed for settings interfaces, dark mode toggles, and feature flag controls in modern SaaS applications.",
+  "_classifiedAt": "2026-04-22T08:55:09.710Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

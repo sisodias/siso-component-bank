@@ -1,0 +1,31 @@
+{
+  "category": [
+    "form"
+  ],
+  "subcategory": "authentication-form",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "saas",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "User sign-in with email and password authentication flow",
+    "New user registration with terms agreement and validation",
+    "Password reset request and confirmation flow",
+    "Multi-view form with animated transitions between auth states",
+    "Form validation with real-time error feedback"
+  ],
+  "ai_summary": "A comprehensive authentication form component featuring sign-in, sign-up, and password reset workflows with animated view transitions. Built with React Hook Form, Zod validation, and Framer Motion for smooth state changes. Includes password visibility toggle, loading states, and error handling. Designed with a fintech aesthetic using clean, modern UI components.",
+  "_classifiedAt": "2026-04-23T11:31:54.203Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "paper-design__liquid-metal-stripes",
+  "author": "paper-design",
+  "slug": "liquid-metal-stripes",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@paper-design/components/liquid-metal-stripes",
+  "fetchedAt": "2026-08-29T06:04:43.069Z",
+  "completedAt": "2026-08-29T06:04:45.767Z",
+  "versionedFilename": "code.1784835495809-a20ad779-fde5-44aa-8a78-565e14b821b9.tsx",
+  "codeReference": "r2://components-code-private/paper-design/liquid-metal-stripes/code.1784835495809-a20ad779-fde5-44aa-8a78-565e14b821b9.tsx",
+  "codeUrl": "https://cdn.21st.dev/paper-design/liquid-metal-stripes/code.1784835495809-a20ad779-fde5-44aa-8a78-565e14b821b9.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

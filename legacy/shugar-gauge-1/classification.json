@@ -1,0 +1,27 @@
+{
+  "category": "data-display",
+  "subcategory": "circular-gauge-progress-indicator",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "healthcare",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying progress metrics or KPIs in analytics dashboards",
+    "Visualizing health measurements like blood pressure or glucose levels",
+    "Showing loading or processing status with indeterminate animation",
+    "Representing performance scores or skill levels in metrics interfaces",
+    "Indicating goal completion or target achievement in monitoring tools"
+  ],
+  "ai_summary": "A customizable circular SVG gauge component that displays numeric values as animated arc progress indicators. Supports multiple sizes, threshold-based color gradients, and indeterminate loading states. Perfect for dashboards, analytics tools, and metrics visualization in SaaS and healthcare applications.",
+  "_classifiedAt": "2026-04-23T17:30:15.004Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

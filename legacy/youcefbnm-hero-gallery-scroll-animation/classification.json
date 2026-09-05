@@ -1,0 +1,33 @@
+{
+  "category": [
+    "hero",
+    "media"
+  ],
+  "subcategory": "bento-grid-gallery-scroll-animation",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero sections with animated gallery grids",
+    "Portfolio showcases with scroll-triggered animations",
+    "Product galleries with responsive bento-style layouts",
+    "Interactive landing sections with container scroll progress"
+  ],
+  "ai_summary": "A scroll-animated hero gallery component featuring a responsive bento grid layout with multiple variant configurations. Uses Motion library for scroll-based transformations and includes a ContainerScroll context for tracking scroll progress across grid children. Designed for desktop and mobile platforms with mobile-first responsive breakpoints.",
+  "_classifiedAt": "2026-04-23T17:45:04.938Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "uniquesonu__news-letter",
+  "author": "uniquesonu",
+  "slug": "news-letter",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uniquesonu/components/news-letter",
+  "fetchedAt": "2026-08-29T07:49:45.409Z",
+  "completedAt": "2026-08-29T07:49:47.542Z",
+  "versionedFilename": "code.1753135714491.tsx",
+  "codeReference": "r2://components-code-private/uniquesonu/news-letter/code.1753135714491.tsx",
+  "codeUrl": "https://cdn.21st.dev/uniquesonu/news-letter/code.1753135714491.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3738,
+  "sha256": "5d5945670924f8473f64b36dd5247ff585f49206d841368e0a7cc71eed194741",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

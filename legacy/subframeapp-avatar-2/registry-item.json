@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "subframeapp-avatar-2",
+  "type": "registry:ui",
+  "title": "Subframeapp Avatar 2",
+  "description": "Installed from https://21st.dev/r/SubframeApp/avatar-2",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "subframeapp-avatar-2"
+  ],
+  "files": [
+    {
+      "path": "avatar-2.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/SubframeApp/avatar-2",
+    "fetchedAt": "2026-04-22T06:45:01.049Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

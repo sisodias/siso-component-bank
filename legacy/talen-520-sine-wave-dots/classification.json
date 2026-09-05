@@ -1,0 +1,35 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "animated-dot-grid",
+  "visual_style": [
+    "minimalist",
+    "mono"
+  ],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Decorative animated background for hero sections",
+    "Visual wave effect for landing pages",
+    "Ambient animation for SaaS dashboards",
+    "Creative section divider with mathematical motion",
+    "Loading state or transition visual enhancement"
+  ],
+  "ai_summary": "An animated SVG dot grid component that renders configurable circular dots in a responsive grid, with each dot animated along a sine wave path creating flowing wave patterns. Features include customizable dot color, radius, spacing, amplitude, frequency, and animation speed. Uses ResizeObserver for responsive behavior and requestAnimationFrame for smooth 60fps rendering.",
+  "_classifiedAt": "2026-04-23T17:35:09.905Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

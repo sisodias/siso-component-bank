@@ -1,0 +1,33 @@
+{
+  "id": "kokonutd__v0-ai-chat",
+  "author": "kokonutd",
+  "slug": "v0-ai-chat",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@kokonutd/components/v0-ai-chat",
+  "fetchedAt": "2026-08-29T05:18:53.824Z",
+  "completedAt": "2026-08-29T05:18:54.994Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/kokonutd__v0-ai-chat/code.tsx",
+    "bytes": 773,
+    "sha256": "ab0cb80e7904f2e922e7a0aed428f72181efc4c0619c970ad3731cb771360a5d",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

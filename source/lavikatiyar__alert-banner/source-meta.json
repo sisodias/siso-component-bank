@@ -1,0 +1,26 @@
+{
+  "id": "lavikatiyar__alert-banner",
+  "author": "lavikatiyar",
+  "slug": "alert-banner",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@lavikatiyar/components/alert-banner",
+  "fetchedAt": "2026-08-29T05:24:05.468Z",
+  "completedAt": "2026-08-29T05:24:07.587Z",
+  "versionedFilename": "code.1757929169375.tsx",
+  "codeReference": "r2://components-code-private/lavikatiyar/alert-banner/code.1757929169375.tsx",
+  "codeUrl": "https://cdn.21st.dev/lavikatiyar/alert-banner/code.1757929169375.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4302,
+  "sha256": "ea3a6730fea65b9979e47b8fa8e575a4524d67061652d22e564240b0d7944fe2",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

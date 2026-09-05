@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "rahil1202-credit-card-form",
+  "type": "registry:ui",
+  "title": "Rahil1202 Credit Card Form",
+  "description": "Installed from https://21st.dev/r/rahil1202/credit-card-form",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "rahil1202-credit-card-form"
+  ],
+  "files": [
+    {
+      "path": "credit-card-form.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/rahil1202/credit-card-form",
+    "fetchedAt": "2026-04-23T01:16:17.237Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

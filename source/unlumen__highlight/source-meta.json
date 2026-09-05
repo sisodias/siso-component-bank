@@ -1,0 +1,26 @@
+{
+  "id": "unlumen__highlight",
+  "author": "unlumen",
+  "slug": "highlight",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@unlumen/components/highlight",
+  "fetchedAt": "2026-08-29T07:51:39.086Z",
+  "completedAt": "2026-08-29T07:51:41.226Z",
+  "versionedFilename": "code.1783489253291.tsx",
+  "codeReference": "r2://components-code-private/unlumen/highlight/code.1783489253291.tsx",
+  "codeUrl": "https://cdn.21st.dev/unlumen/highlight/code.1783489253291.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 16519,
+  "sha256": "d49c3f5a358b2213ccbf3de901b26b2e28f6ac1c7d528f5f23789a38feea6e5f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

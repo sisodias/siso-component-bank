@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "calendar-widget",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying monthly calendar views for scheduling and planning interfaces",
+    "Allowing users to navigate between months and select specific dates",
+    "Enabling date range selection for booking systems or scheduling tools",
+    "Showing event dates and availability in appointment management applications"
+  ],
+  "ai_summary": "A minimalist calendar component that renders monthly views with navigation controls. Features month-to-month navigation via previous/next buttons, date selection capability, and range selection support. Built with clean Tailwind CSS styling and Subframe's core library, making it suitable for various web applications requiring date picking or scheduling functionality.",
+  "_classifiedAt": "2026-04-23T01:53:53.368Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

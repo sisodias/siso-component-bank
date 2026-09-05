@@ -1,0 +1,25 @@
+{
+  "category": "card",
+  "subcategory": "shadow-container",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Providing styled card containers with consistent shadow and border treatments",
+    "Creating modal and menu wrappers with predefined visual treatments",
+    "Building tooltip and small UI element containers",
+    "Adding depth and visual hierarchy to page sections",
+    "Consistent surface styling across UI components"
+  ],
+  "ai_summary": "A lightweight shadow and border utility component that provides multiple predefined container styles for creating consistent card-like surfaces, modal wrappers, menus, tooltips, and other UI containers. Features 8 style variants from subtle small shadows to large fullscreen containers.",
+  "_classifiedAt": "2026-04-23T17:30:31.837Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

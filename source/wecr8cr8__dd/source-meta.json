@@ -1,0 +1,26 @@
+{
+  "id": "wecr8cr8__dd",
+  "author": "wecr8cr8",
+  "slug": "dd",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@wecr8cr8/components/dd",
+  "fetchedAt": "2026-08-29T07:57:04.793Z",
+  "completedAt": "2026-08-29T07:57:06.435Z",
+  "versionedFilename": "code.1786449051088-91287a24-5839-4359-8d2e-0c83d32cf68e.tsx",
+  "codeReference": "r2://components-code-private/wecr8cr8/dd/code.1786449051088-91287a24-5839-4359-8d2e-0c83d32cf68e.tsx",
+  "codeUrl": "https://cdn.21st.dev/wecr8cr8/dd/code.1786449051088-91287a24-5839-4359-8d2e-0c83d32cf68e.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

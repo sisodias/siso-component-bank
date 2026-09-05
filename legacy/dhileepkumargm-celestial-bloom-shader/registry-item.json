@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "dhileepkumargm-celestial-bloom-shader",
+  "type": "registry:ui",
+  "title": "Dhileepkumargm Celestial Bloom Shader",
+  "description": "Installed from https://21st.dev/r/dhileepkumargm/celestial-bloom-shader",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "dhileepkumargm-celestial-bloom-shader"
+  ],
+  "files": [
+    {
+      "path": "celestial-bloom-shader.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "three"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/dhileepkumargm/celestial-bloom-shader",
+    "fetchedAt": "2026-04-23T02:28:02.844Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

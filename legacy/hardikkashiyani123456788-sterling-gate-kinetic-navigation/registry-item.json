@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "hardikkashiyani123456788-sterling-gate-kinetic-navigation",
+  "type": "registry:ui",
+  "title": "Hardikkashiyani123456788 Sterling Gate Kinetic Navigation",
+  "description": "Installed from https://21st.dev/r/hardikkashiyani123456788/sterling-gate-kinetic-navigation",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "hardikkashiyani123456788-sterling-gate-kinetic-navigation"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "sterling-gate-kinetic-navigation.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/hardikkashiyani123456788/sterling-gate-kinetic-navigation",
+    "fetchedAt": "2026-04-22T06:32:18.999Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

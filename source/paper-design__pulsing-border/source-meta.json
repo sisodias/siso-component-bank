@@ -1,0 +1,26 @@
+{
+  "id": "paper-design__pulsing-border",
+  "author": "paper-design",
+  "slug": "pulsing-border",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@paper-design/components/pulsing-border",
+  "fetchedAt": "2026-08-29T06:05:37.977Z",
+  "completedAt": "2026-08-29T06:05:40.168Z",
+  "versionedFilename": "code.1784835728404-a919dbd0-45b1-4eb2-9275-b5c7acafce24.tsx",
+  "codeReference": "r2://components-code-private/paper-design/pulsing-border/code.1784835728404-a919dbd0-45b1-4eb2-9275-b5c7acafce24.tsx",
+  "codeUrl": "https://cdn.21st.dev/paper-design/pulsing-border/code.1784835728404-a919dbd0-45b1-4eb2-9275-b5c7acafce24.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

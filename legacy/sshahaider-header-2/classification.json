@@ -1,0 +1,32 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "application-header",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Main navigation header for SaaS applications",
+    "Dashboard header with user menu and CTAs",
+    "Landing page top navigation bar",
+    "App-level navigation with brand logo",
+    "Multi-page website primary navigation"
+  ],
+  "ai_summary": "A navigation header component designed for SaaS and dev-tool applications, featuring a clean minimalist design with logo placement, navigation menu items, and call-to-action buttons. Uses standard Tailwind utility classes with focus-visible states for accessibility. Supports both desktop and mobile platforms with a mixed layout approach.",
+  "_classifiedAt": "2026-04-22T09:17:16.179Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

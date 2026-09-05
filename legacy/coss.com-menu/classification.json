@@ -1,0 +1,31 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "dropdown-menu",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Navigation menus for web applications requiring dropdown or contextual menu interactions",
+    "Settings panels and option selection interfaces within SaaS dashboards",
+    "Accessible menu systems with keyboard navigation support"
+  ],
+  "ai_summary": "A reusable dropdown menu component built on base-ui primitives, featuring styled popup positioning with border, shadow, and rounded corners. Supports multi-direction anchoring (top/bottom/left/right), customizable offsets, and keyboard navigation. Uses CSS custom properties for theming with light/dark mode support.",
+  "_classifiedAt": "2026-04-22T08:54:46.380Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

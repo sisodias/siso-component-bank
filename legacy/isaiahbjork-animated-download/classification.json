@@ -1,0 +1,38 @@
+{
+  "category": [
+    "feedback",
+    "input"
+  ],
+  "subcategory": "download-progress-button",
+  "visual_style": [
+    "flat",
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "morph",
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Software installation wizards where users need visual confirmation of download progress",
+    "File management dashboards displaying download status with time estimates",
+    "SaaS platforms offering downloadable digital assets or software packages",
+    "E-commerce sites with digital product delivery requiring progress feedback",
+    "Developer tools requiring SDK or CLI download functionality with status updates"
+  ],
+  "ai_summary": "Animated download button component with HyperText-style text morphing effect that transitions between READY and DOWNLOADING states. Features progress tracking, file count display, and estimated time remaining. Accessible with reduced motion support and smooth Framer Motion animations. Ideal for software downloads, file management interfaces, and digital product delivery systems where visual progress feedback enhances user experience.",
+  "_classifiedAt": "2026-04-23T16:43:40.171Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

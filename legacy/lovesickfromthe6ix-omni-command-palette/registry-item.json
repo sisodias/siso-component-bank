@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "lovesickfromthe6ix-omni-command-palette",
+  "type": "registry:ui",
+  "title": "Lovesickfromthe6ix Omni Command Palette",
+  "description": "Installed from https://21st.dev/r/lovesickfromthe6ix/omni-command-palette",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "lovesickfromthe6ix-omni-command-palette"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "omni-command-palette.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-dialog",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/lovesickfromthe6ix/omni-command-palette",
+    "fetchedAt": "2026-04-23T02:28:22.781Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

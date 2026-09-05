@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@dillionverma/components/dock",
+  "author": "dillionverma",
+  "slug": "dock",
+  "name": "dock",
+  "description": "An implementation of the MacOS dock using react + tailwindcss + framer motion",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/dillionverma/dock?api_key=$API_KEY_21ST\"",
+  "id": "dillionverma__dock",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1025.html",
+  "previewUrl": "https://cdn.21st.dev/user_magicui/dock.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

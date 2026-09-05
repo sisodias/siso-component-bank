@@ -1,0 +1,28 @@
+{
+  "category": "input",
+  "subcategory": "checkbox-toggle",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Multi-select form inputs where users can choose multiple options from a list",
+    "Toggle settings or preferences in application dashboards and configuration panels",
+    "Filter selection in e-commerce or data management interfaces",
+    "Terms acceptance and consent forms during onboarding flows",
+    "Indeterminate state for nested checkbox groups with partial selections"
+  ],
+  "ai_summary": "A lightweight, accessible checkbox component built with Radix UI primitives featuring three states (checked, unchecked, indeterminate) and three size variants. Implements proper focus-visible states, disabled handling, and dark mode support for inclusive form experiences across applications.",
+  "_classifiedAt": "2026-04-23T01:52:26.454Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

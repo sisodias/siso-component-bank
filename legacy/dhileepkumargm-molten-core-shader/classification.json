@@ -1,0 +1,32 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "webgl-shader-canvas",
+  "visual_style": [
+    "gradient",
+    "3d"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero section background with flowing molten visual effect",
+    "Portfolio or creative website artistic backdrop",
+    "Loading or transition screen with animated shader",
+    "Gaming or entertainment platform visual effects",
+    "Dark-themed landing page immersive background"
+  ],
+  "ai_summary": "A WebGL shader component using Three.js that renders a dynamic molten lava effect through FBM noise and time-based animation. The shader combines multiple noise layers for organic fluid motion with customizable theme support. Designed as an immersive visual backdrop for hero sections or creative portfolios.",
+  "_classifiedAt": "2026-04-23T16:34:43.071Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

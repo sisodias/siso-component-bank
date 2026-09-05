@@ -1,0 +1,38 @@
+{
+  "category": [
+    "form",
+    "input"
+  ],
+  "subcategory": "date-time-range-picker",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "healthcare",
+    "e-commerce",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting date and time ranges for appointment scheduling systems",
+    "Filtering data by date periods in analytics dashboards and reports",
+    "Booking hotel rooms, event tickets, or reservations with start/end times",
+    "Setting date ranges for recurring tasks or events in productivity tools",
+    "Configuring time-bound promotions or campaigns in e-commerce platforms"
+  ],
+  "ai_summary": "A shadcn-based calendar component for selecting date and time ranges, commonly used in forms and filters. Features a clean, accessible interface with keyboard navigation support and integrates seamlessly with Radix UI primitives for proper accessibility. Supports selecting both start and end dates along with corresponding time values for comprehensive scheduling and filtering needs.",
+  "_classifiedAt": "2026-04-23T17:25:47.046Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

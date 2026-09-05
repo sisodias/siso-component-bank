@@ -1,0 +1,35 @@
+{
+  "category": [
+    "overlay",
+    "media"
+  ],
+  "subcategory": "story-viewer-carousel",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "drag",
+    "click-reveal",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "social-media",
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Social media story viewing with swipe navigation between images and videos",
+    "E-commerce product showcases with sequential media presentations",
+    "Portfolio or project updates with timestamp-based content delivery",
+    "News or feed updates displayed in story format with progress tracking"
+  ],
+  "ai_summary": "A full-featured story viewer component inspired by Instagram/Snapchat stories, supporting both image and video media types with swipe navigation, circular progress segments indicating viewed content, timestamp display, and smooth enter/exit animations via Framer Motion. Includes playback controls for video stories and automatic advancement with configurable durations.",
+  "_classifiedAt": "2026-04-22T09:07:43.155Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

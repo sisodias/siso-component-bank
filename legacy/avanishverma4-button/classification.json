@@ -1,0 +1,28 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "3d-pressable-button",
+  "visual_style": [
+    "3d",
+    "skeuomorphic"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive 3D button with press animation effect for user actions",
+    "Primary call-to-action button with multiple color variants and responsive sizing",
+    "Accessible button component with focus rings and disabled state handling"
+  ],
+  "ai_summary": "A 3D pressable button component with multiple color variants (primary, secondary, success, danger, warning) and responsive sizing options (sm, md, lg). Features a realistic press animation with box shadow and scale effects using Framer Motion. The button has a skeuomorphic 3D depth effect created with thick bottom borders and dynamic shadows that change on hover and press.",
+  "_classifiedAt": "2026-04-23T01:36:32.021Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

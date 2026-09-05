@@ -1,0 +1,33 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "alert-toast-notification",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying system messages and notifications to users in web applications",
+    "Showing success, error, warning, or info states after user actions",
+    "Creating dismissible toast notifications with customizable icons and close buttons",
+    "Implementing inline contextual alerts within forms or content areas",
+    "Building multi-variant notification systems with solid, outline, light, and stroke styles"
+  ],
+  "ai_summary": "A versatile alert and toast notification component with multiple semantic variants (primary, secondary, destructive, success, info, warning, mono) and appearance styles (solid, outline, light, stroke). Supports three sizes (sm, md, lg) and includes slot-based architecture for customizable icons and dismissible close buttons. Built with class-variance-authority for type-safe variant management.",
+  "_classifiedAt": "2026-04-23T17:21:51.022Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

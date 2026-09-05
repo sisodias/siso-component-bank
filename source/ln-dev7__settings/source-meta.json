@@ -1,0 +1,26 @@
+{
+  "id": "ln-dev7__settings",
+  "author": "ln-dev7",
+  "slug": "settings",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ln-dev7/components/settings",
+  "fetchedAt": "2026-08-29T05:28:14.939Z",
+  "completedAt": "2026-08-29T05:28:17.394Z",
+  "versionedFilename": "code.1749299119929.tsx",
+  "codeReference": "r2://components-code-private/larsen66/settings/code.1749299119929.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/settings/code.1749299119929.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10944,
+  "sha256": "dfdd8d5857ef77325e990c028e96ffba68d2729d32d7f44ab5e6c87ea51f6646",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

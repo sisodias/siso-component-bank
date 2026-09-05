@@ -1,0 +1,35 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "scroll-triggered navbar with animated popup menu",
+  "visual_style": [
+    "glass-morphism",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Site-wide navigation on modern landing pages with scroll-triggered behavior",
+    "Single-page application navigation that appears on scroll with animated menu popup",
+    "Portfolio or personal website navigation with icon-based menu items",
+    "Dashboard or app navigation with smooth scroll detection and hamburger menu",
+    "Multi-section website navigation with hover effects on menu items"
+  ],
+  "ai_summary": "A scroll-triggered navigation bar component featuring smooth Framer Motion animations, an animated popup menu with staggered item reveals, and icon-based navigation items. The navbar responds to scroll position changes (appearing after 100px scroll) and includes a responsive hamburger menu toggle for mobile devices with hover state tracking on menu items.",
+  "_classifiedAt": "2026-04-23T17:32:54.266Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

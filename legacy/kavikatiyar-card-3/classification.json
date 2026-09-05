@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "payment-summary",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "saas",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying payment summaries with amount totals in financial dashboards",
+    "Showing financial metrics with interactive sub-sections for additional details",
+    "Presenting payment-related data with team member avatars and counts",
+    "Building fintech and payment management interfaces with clean card layouts",
+    "Creating interactive payment overview sections in SaaS billing pages"
+  ],
+  "ai_summary": "A PaymentSummaryCard component for displaying financial payment data with a prominent amount display, interactive sub-card section with avatars, and keyboard navigation support. Built with shadcn/ui design system variables for consistent theming. The card features a clean, minimalist aesthetic suitable for fintech and SaaS dashboards, with responsive design that works across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T01:41:24.347Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

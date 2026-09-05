@@ -1,0 +1,377 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SISO Component Catalog</title>
+<style>
+  :root{
+    --bg:#0b0c0e; --bg-1:#121317; --bg-2:#181a1f; --bg-3:#1f222a;
+    --fg:#e8eaed; --fg-2:#a7adb8; --fg-3:#6e7480;
+    --line:#262a33; --accent:#5b9cff; --accent-dim:#2b4a80;
+    --radius:9px;
+    --sidebar:264px;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{
+    background:var(--bg); color:var(--fg);
+    font:14px/1.5 ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,system-ui,sans-serif;
+    -webkit-font-smoothing:antialiased;
+    overflow:hidden;
+  }
+  button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
+  input{font:inherit}
+
+  /* ---------------------------------------------------------- shell */
+  .app{display:grid;grid-template-columns:var(--sidebar) minmax(0,1fr);height:100vh}
+
+  /* ---------------------------------------------------------- sidebar */
+  aside{
+    background:var(--bg-1);border-right:1px solid var(--line);
+    display:flex;flex-direction:column;min-height:0;
+  }
+  .brand{padding:16px 18px 12px;border-bottom:1px solid var(--line)}
+  .brand h1{margin:0;font-size:14px;font-weight:650;letter-spacing:-.01em}
+  .brand p{margin:3px 0 0;font-size:11.5px;color:var(--fg-3)}
+  .nav{flex:1;overflow-y:auto;padding:10px 8px 20px}
+  .nav::-webkit-scrollbar{width:8px}
+  .nav::-webkit-scrollbar-thumb{background:var(--bg-3);border-radius:4px}
+  .grp{margin:8px 0 2px;padding:0 10px;font-size:10.5px;font-weight:650;
+       letter-spacing:.07em;text-transform:uppercase;color:var(--fg-3)}
+  .tag{
+    display:flex;align-items:center;gap:8px;width:100%;
+    padding:5px 10px;border-radius:6px;text-align:left;
+    color:var(--fg-2);font-size:13px;
+  }
+  .tag:hover{background:var(--bg-2);color:var(--fg)}
+  .tag[aria-pressed="true"]{background:var(--accent-dim);color:#fff}
+  .tag .nm{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .tag .ct{font-size:11px;color:var(--fg-3);font-variant-numeric:tabular-nums}
+  .tag[aria-pressed="true"] .ct{color:#cddcff}
+
+  /* ---------------------------------------------------------- main */
+  main{display:flex;flex-direction:column;min-width:0;min-height:0}
+  .bar{
+    display:flex;align-items:center;gap:12px;padding:12px 18px;
+    border-bottom:1px solid var(--line);background:var(--bg-1);
+  }
+  .search{
+    flex:1;max-width:440px;background:var(--bg-2);border:1px solid var(--line);
+    border-radius:var(--radius);padding:7px 12px;color:var(--fg);outline:none;
+  }
+  .search:focus{border-color:var(--accent)}
+  .search::placeholder{color:var(--fg-3)}
+  .count{font-size:12.5px;color:var(--fg-3);font-variant-numeric:tabular-nums;white-space:nowrap}
+  .clear{
+    font-size:12px;color:var(--fg-2);padding:5px 10px;
+    border:1px solid var(--line);border-radius:6px;
+  }
+  .clear:hover{background:var(--bg-2);color:var(--fg)}
+
+  .chips{display:flex;flex-wrap:wrap;gap:6px;padding:0 18px;margin-top:10px}
+  .chips:empty{display:none}
+  .chip{
+    display:inline-flex;align-items:center;gap:6px;font-size:11.5px;
+    background:var(--accent-dim);color:#dce8ff;padding:3px 6px 3px 9px;border-radius:20px;
+  }
+  .chip b{font-weight:500}
+  .chip span{opacity:.65;font-size:13px;line-height:1}
+  .chip:hover span{opacity:1}
+
+  /* ---------------------------------------------------------- grid */
+  .scroll{flex:1;overflow-y:auto;padding:16px 18px 40px;min-height:0}
+  .scroll::-webkit-scrollbar{width:10px}
+  .scroll::-webkit-scrollbar-thumb{background:var(--bg-3);border-radius:5px}
+  .grid{
+    display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));
+    gap:14px;align-content:start;
+  }
+  .card{
+    background:var(--bg-1);border:1px solid var(--line);border-radius:var(--radius);
+    overflow:hidden;cursor:pointer;display:flex;flex-direction:column;
+    transition:border-color .12s,transform .12s;
+  }
+  .card:hover{border-color:var(--accent);transform:translateY(-2px)}
+  .thumb{
+    aspect-ratio:16/10;background:var(--bg-2);overflow:hidden;
+    display:flex;align-items:center;justify-content:center;
+  }
+  .thumb img{width:100%;height:100%;object-fit:cover;display:block}
+  .meta{padding:9px 11px 11px;min-width:0}
+  .meta .t{
+    font-size:12.5px;font-weight:550;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;
+  }
+  .meta .s{
+    display:flex;justify-content:space-between;gap:8px;margin-top:3px;
+    font-size:11px;color:var(--fg-3);
+  }
+  .meta .s em{font-style:normal;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .empty{padding:60px 20px;text-align:center;color:var(--fg-3)}
+  .sentinel{height:1px}
+
+  /* ---------------------------------------------------------- detail */
+  .overlay{
+    position:fixed;inset:0;background:rgba(0,0,0,.72);z-index:50;
+    display:none;align-items:center;justify-content:center;padding:28px;
+  }
+  .overlay.on{display:flex}
+  .panel{
+    background:var(--bg-1);border:1px solid var(--line);border-radius:14px;
+    width:min(940px,100%);max-height:100%;overflow-y:auto;
+  }
+  .panel::-webkit-scrollbar{width:10px}
+  .panel::-webkit-scrollbar-thumb{background:var(--bg-3);border-radius:5px}
+  .phead{
+    display:flex;align-items:flex-start;gap:16px;padding:18px 22px;
+    border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--bg-1);
+  }
+  .phead h2{margin:0;font-size:17px;font-weight:600;letter-spacing:-.01em}
+  .phead p{margin:4px 0 0;font-size:12.5px;color:var(--fg-3)}
+  .x{font-size:22px;line-height:1;color:var(--fg-3);padding:0 4px}
+  .x:hover{color:var(--fg)}
+  .pbody{padding:20px 22px 26px}
+  .big{
+    width:100%;border-radius:10px;border:1px solid var(--line);
+    background:var(--bg-2);display:block;margin-bottom:20px;
+  }
+  .desc{font-size:13.5px;color:var(--fg-2);margin:0 0 20px;line-height:1.6}
+  .ptags{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:20px}
+  .ptag{
+    font-size:11.5px;background:var(--bg-3);color:var(--fg-2);
+    padding:3px 9px;border-radius:20px;
+  }
+  dl{display:grid;grid-template-columns:132px minmax(0,1fr);gap:9px 16px;margin:0;font-size:12.5px}
+  dt{color:var(--fg-3)}
+  dd{margin:0;min-width:0;overflow-wrap:anywhere}
+  dd a{color:var(--accent);text-decoration:none}
+  dd a:hover{text-decoration:underline}
+  code{
+    font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11.5px;
+    background:var(--bg-3);padding:2px 6px;border-radius:4px;display:inline-block;
+    overflow-wrap:anywhere;
+  }
+  .note{
+    margin-top:20px;padding-top:14px;border-top:1px solid var(--line);
+    font-size:11.5px;color:var(--fg-3);line-height:1.6;
+  }
+  footer{
+    padding:9px 18px;border-top:1px solid var(--line);background:var(--bg-1);
+    font-size:11px;color:var(--fg-3);
+  }
+  @media (max-width:860px){
+    .app{grid-template-columns:1fr}
+    aside{display:none}
+  }
+</style>
+</head>
+<body>
+<div class="app">
+  <aside>
+    <div class="brand">
+      <h1>SISO Component Catalog</h1>
+      <p id="brandsub">loading…</p>
+    </div>
+    <nav class="nav" id="nav"></nav>
+  </aside>
+
+  <main>
+    <div class="bar">
+      <input class="search" id="q" type="search" placeholder="Search name, author, description…" autocomplete="off">
+      <button class="clear" id="clear">Clear</button>
+      <span class="count" id="count"></span>
+    </div>
+    <div class="chips" id="chips"></div>
+    <div class="scroll" id="scroll">
+      <div class="grid" id="grid"></div>
+      <div class="sentinel" id="sentinel"></div>
+      <div class="empty" id="empty" style="display:none">No components match those filters.</div>
+    </div>
+    <footer>Internal reference only — rights clearance pending. Previews harvested from 21st.dev; component source is not redistributed here.</footer>
+  </main>
+</div>
+
+<div class="overlay" id="overlay">
+  <div class="panel" id="panel"></div>
+</div>
+
+<script>
+(() => {
+  const $ = (id) => document.getElementById(id);
+  let DATA = null;
+  const active = new Set();     // selected tag indices
+  let query = '';
+  let filtered = [];
+  let shown = 0;
+  const PAGE = 60;
+
+  const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) =>
+    ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+
+  // ---------------------------------------------------------- load
+  fetch('index.json')
+    .then((r) => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+    .then((d) => { DATA = d; init(); })
+    .catch((e) => {
+      $('empty').style.display = 'block';
+      $('empty').textContent = 'Failed to load catalog index: ' + e.message;
+    });
+
+  function init() {
+    $('brandsub').textContent =
+      DATA.total.toLocaleString() + ' components · ' + DATA.taxonomy.length + ' tags';
+
+    // tag counts across the whole corpus
+    const counts = new Array(DATA.taxonomy.length).fill(0);
+    for (const c of DATA.components) for (const t of c.t) counts[t]++;
+
+    const nav = $('nav');
+    const frag = document.createDocumentFragment();
+    for (const [name, tags] of DATA.groups) {
+      const h = document.createElement('div');
+      h.className = 'grp';
+      h.textContent = name;
+      frag.appendChild(h);
+      for (const tag of tags) {
+        const i = DATA.taxonomy.indexOf(tag);
+        if (i < 0) continue;
+        const b = document.createElement('button');
+        b.className = 'tag';
+        b.setAttribute('aria-pressed', 'false');
+        b.dataset.i = i;
+        b.innerHTML = '<span class="nm">' + esc(tag) + '</span><span class="ct">' + counts[i] + '</span>';
+        b.onclick = () => {
+          active.has(i) ? active.delete(i) : active.add(i);
+          b.setAttribute('aria-pressed', active.has(i) ? 'true' : 'false');
+          apply();
+        };
+        frag.appendChild(b);
+      }
+    }
+    nav.appendChild(frag);
+
+    let t;
+    $('q').addEventListener('input', (e) => {
+      clearTimeout(t);
+      t = setTimeout(() => { query = e.target.value.trim().toLowerCase(); apply(); }, 130);
+    });
+    $('clear').onclick = () => {
+      active.clear(); query = ''; $('q').value = '';
+      for (const b of nav.querySelectorAll('.tag')) b.setAttribute('aria-pressed', 'false');
+      apply();
+    };
+
+    // infinite scroll
+    new IntersectionObserver((entries) => {
+      if (entries[0].isIntersecting && shown < filtered.length) render(false);
+    }, { root: $('scroll'), rootMargin: '600px' }).observe($('sentinel'));
+
+    $('overlay').onclick = (e) => { if (e.target === $('overlay')) close(); };
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape') close(); });
+
+    apply();
+  }
+
+  // ---------------------------------------------------------- filter
+  function apply() {
+    const tags = [...active];
+    filtered = DATA.components.filter((c) => {
+      // AND across selected tags
+      for (const t of tags) if (!c.t.includes(t)) return false;
+      if (query) {
+        const hay = (c.n + ' ' + c.a + ' ' + c.d).toLowerCase();
+        if (!hay.includes(query)) return false;
+      }
+      return true;
+    });
+
+    $('count').textContent =
+      filtered.length.toLocaleString() + ' of ' + DATA.total.toLocaleString();
+
+    const chips = $('chips');
+    chips.innerHTML = '';
+    for (const i of tags) {
+      const el = document.createElement('button');
+      el.className = 'chip';
+      el.innerHTML = '<b>' + esc(DATA.taxonomy[i]) + '</b><span>×</span>';
+      el.onclick = () => {
+        active.delete(i);
+        const b = document.querySelector('.tag[data-i="' + i + '"]');
+        if (b) b.setAttribute('aria-pressed', 'false');
+        apply();
+      };
+      chips.appendChild(el);
+    }
+
+    render(true);
+  }
+
+  // ---------------------------------------------------------- render
+  function render(reset) {
+    const grid = $('grid');
+    if (reset) { grid.innerHTML = ''; shown = 0; $('scroll').scrollTop = 0; }
+    $('empty').style.display = filtered.length ? 'none' : 'block';
+
+    const end = Math.min(shown + PAGE, filtered.length);
+    const frag = document.createDocumentFragment();
+    for (let k = shown; k < end; k++) {
+      const c = filtered[k];
+      const el = document.createElement('div');
+      el.className = 'card';
+      el.innerHTML =
+        '<div class="thumb"><img loading="lazy" decoding="async" src="p/' +
+          esc(c.i) + '.' + esc(c.e) + '" alt="' + esc(c.n) + '"></div>' +
+        '<div class="meta"><div class="t">' + esc(c.n) + '</div>' +
+        '<div class="s"><em>' + esc(c.a || '—') + '</em>' +
+        (c.c != null ? '<span>' + c.c.toLocaleString() + ' uses</span>' : '') +
+        '</div></div>';
+      el.onclick = () => open(c);
+      frag.appendChild(el);
+    }
+    grid.appendChild(frag);
+    shown = end;
+  }
+
+  // ---------------------------------------------------------- detail
+  function open(c) {
+    const tags = c.t.map((i) => '<span class="ptag">' + esc(DATA.taxonomy[i]) + '</span>').join('');
+    const path = DATA.corpusPath + '/' + c.i;
+    const rows = [];
+
+    rows.push('<dt>Author</dt><dd>' + esc(c.a || '—') + '</dd>');
+    if (c.u) rows.push('<dt>Upstream</dt><dd><a href="' + esc(c.u) +
+      '" target="_blank" rel="noopener noreferrer">' + esc(c.u) + '</a></dd>');
+    if (c.c != null) rows.push('<dt>Usage count</dt><dd>' + c.c.toLocaleString() + '</dd>');
+    if (c.m) rows.push('<dt>Install</dt><dd><code>' + esc(c.m) + '</code></dd>');
+    if (c.v) rows.push('<dt>Video</dt><dd><a href="' + esc(c.v) +
+      '" target="_blank" rel="noopener noreferrer">demo video</a></dd>');
+    rows.push('<dt>Corpus path</dt><dd><code>' + esc(path) + '</code></dd>');
+
+    const assets = [];
+    if (c.b) assets.push('bundle.html (compiled)');
+    if (c.s) assets.push('demo.tsx');
+    assets.push('preview.' + c.e);
+    rows.push('<dt>Local assets</dt><dd>' + esc(assets.join(', ')) + '</dd>');
+
+    $('panel').innerHTML =
+      '<div class="phead"><div style="flex:1;min-width:0">' +
+        '<h2>' + esc(c.n) + '</h2><p>' + esc(c.a || '—') + '</p>' +
+      '</div><button class="x" id="x">×</button></div>' +
+      '<div class="pbody">' +
+        '<img class="big" src="p/' + esc(c.i) + '.' + esc(c.e) + '" alt="' + esc(c.n) + '">' +
+        (c.d ? '<p class="desc">' + esc(c.d) + '</p>' : '') +
+        (tags ? '<div class="ptags">' + tags + '</div>' : '') +
+        '<dl>' + rows.join('') + '</dl>' +
+        '<div class="note">Bundles are compiled output and are not deployed with this catalog — ' +
+        'open the corpus path above to inspect them locally. Internal reference only; ' +
+        'rights clearance pending.</div>' +
+      '</div>';
+    $('x').onclick = close;
+    $('overlay').classList.add('on');
+  }
+
+  function close() { $('overlay').classList.remove('on'); }
+})();
+</script>
+</body>
+</html>

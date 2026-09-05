@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@theorcdev/components/8bit-main-menu",
+  "author": "theorcdev",
+  "slug": "8bit-main-menu",
+  "name": "8bit-main-menu",
+  "description": "An 8-bit styled game main menu block built on the retro card and button primitives. Renders a titled menu card (Main Menu / Retro 8-bit Quest) with a vertical stack of pixel-font action buttons: Start Game, Options, High Scores, Multiplayer, and Quit.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/theorcdev/8bit-main-menu?api_key=$API_KEY_21ST\"",
+  "id": "theorcdev__8bit-main-menu",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/8bit-main-menu/default/bundle.1780284111023.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/8bit-main-menu/default/preview.1780284111023.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

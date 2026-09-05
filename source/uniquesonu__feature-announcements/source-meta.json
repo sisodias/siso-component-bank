@@ -1,0 +1,26 @@
+{
+  "id": "uniquesonu__feature-announcements",
+  "author": "uniquesonu",
+  "slug": "feature-announcements",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uniquesonu/components/feature-announcements",
+  "fetchedAt": "2026-08-29T07:48:18.073Z",
+  "completedAt": "2026-08-29T07:48:19.955Z",
+  "versionedFilename": "code.1760092931834.tsx",
+  "codeReference": "r2://components-code-private/uniquesonu/feature-announcements/code.1760092931834.tsx",
+  "codeUrl": "https://cdn.21st.dev/uniquesonu/feature-announcements/code.1760092931834.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5194,
+  "sha256": "7d7ba9db9cb0c6f643fa24f69cbdca1eb681706e0e3a6d83f7549a6c8ec8da3b",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

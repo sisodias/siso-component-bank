@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "ai-prompt-input",
+  "visual_style": [
+    "dark",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "ai-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "AI chatbot interfaces where users type prompts and queries",
+    "Developer tools requiring natural language input for code generation",
+    "Content creation platforms with AI-assisted writing features"
+  ],
+  "ai_summary": "An AI prompt input box component with dark minimalist styling, featuring a resizable textarea, action tooltips for attachments, voice input, and stop generation controls. Built with Radix UI primitives, Framer Motion animations, and Lucide icons. Supports keyboard navigation with custom focus states and includes styled scrollbars for a polished developer experience.",
+  "_classifiedAt": "2026-04-23T16:36:33.891Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "star-rating",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display product or service ratings with partial star fill support",
+    "Show user review scores in e-commerce product listings",
+    "Render aggregate rating summaries in dashboards",
+    "Display feedback scores in review or rating components",
+    "Show author or content ratings in media applications"
+  ],
+  "ai_summary": "A lightweight React star rating icon component from the Untitled UI design system that supports partial star fills using SVG clipping and a progress prop. The component uses Tailwind CSS for styling with a warning-amber color scheme, rendering scalable star icons that can represent any rating value between 0-100%. Perfect for displaying product reviews, user feedback scores, or any star-based rating system in e-commerce platforms, SaaS dashboards, or media applications.",
+  "_classifiedAt": "2026-04-23T01:54:47.580Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

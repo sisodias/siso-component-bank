@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@jolbol1/components/datefield",
+  "author": "jolbol1",
+  "slug": "datefield",
+  "name": "datefield",
+  "description": "A date field allows users to enter and edit date and time values using a keyboard. Each part of a date value is displayed in an individually editable segment.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/jolbol1/datefield?api_key=$API_KEY_21ST\"",
+  "id": "jolbol1__datefield",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1027.html",
+  "previewUrl": "https://cdn.21st.dev/user_jolbol1/datefield.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@extend-hq/components/file-thumbnail",
+  "author": "extend-hq",
+  "slug": "file-thumbnail",
+  "name": "file-thumbnail",
+  "description": "A compact file preview thumbnail shell for externally generated images, loading states, and fallback states. Renders a square preview at any aspect ratio with a blur-in reveal on first image load.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/extend-hq/file-thumbnail?api_key=$API_KEY_21ST\"",
+  "id": "extend-hq__file-thumbnail",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/file-thumbnail/default/bundle.1782172496788.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/file-thumbnail/default/preview.1782172496788.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 9,
+  "demo_id": 15581,
+  "video_url": null
+}

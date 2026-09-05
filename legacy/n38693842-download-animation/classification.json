@@ -1,0 +1,32 @@
+{
+  "category": "input",
+  "subcategory": "download-button-with-morph-animation",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "morph",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Initiating file downloads with visual confirmation feedback",
+    "Providing animated download progress indication in web applications",
+    "Replacing static download buttons with engaging micro-interactions",
+    "Enhancing user experience during content retrieval operations",
+    "Serving as a template for similar state-based button transformations"
+  ],
+  "ai_summary": "A Framer Motion-powered download button component that morphs from a pill shape to a circular spinner during the download process. The button features smooth width transitions, a rotating inner circle animation, and scale pulsing effects to indicate active download state. Built with React hooks for state management and optimized for both desktop and mobile platforms with a clean, minimalist blue color scheme.",
+  "_classifiedAt": "2026-04-22T09:07:25.666Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

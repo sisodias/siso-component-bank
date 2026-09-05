@@ -1,0 +1,26 @@
+{
+  "id": "meschacirung__footer",
+  "author": "meschacirung",
+  "slug": "footer",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@meschacirung/components/footer",
+  "fetchedAt": "2026-08-29T05:40:52.515Z",
+  "completedAt": "2026-08-29T05:40:54.460Z",
+  "versionedFilename": "code.1753822145857.tsx",
+  "codeReference": "r2://components-code-private/larsen66/footer/code.1753822145857.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/footer/code.1753822145857.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4484,
+  "sha256": "8cceeefc1e12df581b357b7d8a1e1f666d01ac4c37fdf702c2a146cee2e57a73",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

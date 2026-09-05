@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-action",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools",
+    "healthcare",
+    "education",
+    "real-estate",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Primary action triggers in forms, modals, and application interfaces",
+    "Destructive action buttons for delete or remove operations with visual warning",
+    "Navigation and navigation-adjacent buttons with outline styling",
+    "Compact icon-only buttons for toolbars and action clusters",
+    "Loading state indicators during async operations"
+  ],
+  "ai_summary": "A versatile React button component built with Radix UI Slot and styled using class-variance-authority for flexible variant management. Supports multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes (sm, default, lg, xl, icon-only), with optional loading states, left/right icon slots, and asChild composition. Includes proper accessibility with focus-visible rings, disabled states, and keyboard navigation support.",
+  "_classifiedAt": "2026-04-23T17:07:44.586Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

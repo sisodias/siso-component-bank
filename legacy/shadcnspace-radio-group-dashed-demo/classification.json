@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "radio-selection",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting shipping options during e-commerce checkout",
+    "Choosing delivery speed preferences",
+    "Single-option selection from a list of choices",
+    "Form input for exclusive options",
+    "Plan or tier selection in pricing flows"
+  ],
+  "ai_summary": "A radio group component with dashed border styling for single-option selection, commonly used in e-commerce for shipping method selection. Built on Radix UI primitives with shadcn styling, this component provides accessible radio button functionality with a distinctive dashed visual treatment when options are selected.",
+  "_classifiedAt": "2026-04-22T09:15:08.894Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dhileepkumargm__digital-glitch",
+  "author": "dhileepkumargm",
+  "slug": "digital-glitch",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dhileepkumargm/components/digital-glitch",
+  "fetchedAt": "2026-08-29T04:28:08.657Z",
+  "completedAt": "2026-08-29T04:28:10.852Z",
+  "versionedFilename": "code.1785263081675-54cfb109-415c-40ea-8fcf-027d1d9f3035.tsx",
+  "codeReference": "r2://components-code-private/dhileepkumargm/digital-glitch/code.1785263081675-54cfb109-415c-40ea-8fcf-027d1d9f3035.tsx",
+  "codeUrl": "https://cdn.21st.dev/dhileepkumargm/digital-glitch/code.1785263081675-54cfb109-415c-40ea-8fcf-027d1d9f3035.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/dhileepkumargm__digital-glitch/code.tsx",
+    "bytes": 5294,
+    "sha256": "7f276ab4e03beae67ceabd0fdd371fb7888cab60414ad0ee49e143b15eb33981",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

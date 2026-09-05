@@ -1,0 +1,29 @@
+{
+  "category": "navigation",
+  "subcategory": "floating-bottom-nav",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Mobile-first bottom navigation with animated sliding indicator for tab switching",
+    "Floating pill-shaped navigation bar for quick-access app sections",
+    "Dark mode supported navigation for modern app interfaces",
+    "Responsive navigation component with smooth Framer Motion transitions",
+    "Central floating nav with auto-positioning indicator on resize"
+  ],
+  "ai_summary": "A floating bottom navigation bar featuring a smooth animated indicator that slides between active tab items using Framer Motion. The pill-shaped container is fixed at the bottom center of the viewport with shadow and border styling, supporting dark mode and responsive layouts. Includes hover states on navigation items and auto-recalculates indicator position on window resize for accurate positioning across breakpoints.",
+  "_classifiedAt": "2026-04-23T17:18:16.971Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

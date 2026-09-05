@@ -1,0 +1,25 @@
+{
+  "category": "media",
+  "subcategory": "text-animation",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Animated hero section tagline that types out words sequentially",
+    "Interactive loading state with typewriter-style text reveal",
+    "Terminal-style text animation for dev tools or command interfaces",
+    "Storytelling text reveal for marketing landing pages"
+  ],
+  "ai_summary": "A configurable React typewriter component that sequentially displays text with character-by-character typing animation and optional cursor blinking. Supports customizable typing speed, delay between words, and cursor character. Perfect for creating engaging text animations in hero sections, loading states, or terminal-style interfaces.",
+  "_classifiedAt": "2026-04-22T08:57:10.309Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

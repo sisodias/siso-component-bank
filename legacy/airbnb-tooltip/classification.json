@@ -1,0 +1,32 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "tooltip-with-boundary-detection",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display contextual information on hover or pointer interaction over chart elements",
+    "Show boundary-aware tooltips that adjust positioning to prevent clipping",
+    "Provide floating labels that follow cursor movement within a bounded container",
+    "Render tooltip content in a portal to handle overflow and z-index issues"
+  ],
+  "ai_summary": "A floating tooltip component built on Visx that displays contextual information on hover or pointer movement. Features boundary detection to prevent tooltip clipping within containers and supports portal rendering for proper z-index handling. The tooltip follows cursor position and adapts its visibility based on container constraints, making it ideal for data visualization interfaces, dashboards, and interactive charts where contextual data needs to be revealed without disrupting layout.",
+  "_classifiedAt": "2026-04-23T11:30:04.797Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,35 @@
+{
+  "category": [
+    "layout"
+  ],
+  "subcategory": "resizable-split-view",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "drag",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Split-pane code or text editors with user-adjustable panel sizes",
+    "Dashboard layouts with resizable sidebar and content sections",
+    "Email or project management interfaces with collapsible resizeable panes",
+    "File explorers or data grids requiring flexible column widths",
+    "Any application needing adaptive split-view layouts for different workflows"
+  ],
+  "ai_summary": "A composite resizable panel layout system built on react-resizable-panels that provides flexible split-view functionality. Features horizontal and vertical panel groups with draggable resize handles, optional grip indicators, and accessibility support via focus-visible states. Ideal for building IDE-style editors, dashboard layouts, and multi-pane interfaces where users need to dynamically adjust content area proportions.",
+  "_classifiedAt": "2026-04-23T01:52:39.957Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@dhileepkumargm/components/lissajous-nebula-shader",
+  "author": "dhileepkumargm",
+  "slug": "lissajous-nebula-shader",
+  "name": "lissajous-nebula-shader",
+  "description": "A full-screen, dynamic nebula background generated from Lissajous curves and radial swirls. Loads Three.js from CDN, and cycles through a custom color palette.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/dhileepkumargm/lissajous-nebula-shader?api_key=$API_KEY_21ST\"",
+  "id": "dhileepkumargm__lissajous-nebula-shader",
+  "bundleUrl": "https://cdn.21st.dev/dhileepkumargm/lissajous-nebula-shader/default/bundle.1785274204678-3503e530-e798-4260-8a7e-2c7fde974ecd.html",
+  "previewUrl": "https://cdn.21st.dev/dhileepkumargm/lissajous-nebula-shader/default/preview.1785274204678-3503e530-e798-4260-8a7e-2c7fde974ecd.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

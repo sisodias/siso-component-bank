@@ -1,0 +1,26 @@
+{
+  "id": "shadcnspace__avatar-one",
+  "author": "shadcnspace",
+  "slug": "avatar-one",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcnspace/components/avatar-one",
+  "fetchedAt": "2026-08-29T07:10:59.296Z",
+  "completedAt": "2026-08-29T07:11:01.750Z",
+  "versionedFilename": "code.1773067252790.tsx",
+  "codeReference": "r2://components-code-private/larsen66/avatar-one/code.1773067252790.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/avatar-one/code.1773067252790.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 570,
+  "sha256": "0aa685a85fad573648d20f767f5ecec6cbb4543bc50ca853801de843719ee010",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

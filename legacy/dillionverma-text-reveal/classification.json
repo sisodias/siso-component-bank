@@ -1,0 +1,32 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "scroll-text-reveal",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero section text that reveals dramatically as users scroll down",
+    "Landing page introductions with scroll-triggered word-by-word animation",
+    "Content sections where text gradually appears to maintain user attention",
+    "Storytelling sections that progressively reveal narrative text",
+    "Product feature reveals that build anticipation through controlled pacing"
+  ],
+  "ai_summary": "A scroll-triggered text reveal animation component that progressively fades in words as the user scrolls through a tall container. The component splits text into individual words and uses Framer Motion's useScroll and useTransform hooks to map scroll progress to opacity, creating a cinematic reveal effect. Features a dual-layer approach with ghost text at low opacity and animated text layers for visual depth and contrast.",
+  "_classifiedAt": "2026-04-23T16:36:19.842Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

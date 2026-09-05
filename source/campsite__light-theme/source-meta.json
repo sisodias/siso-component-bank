@@ -1,0 +1,33 @@
+{
+  "id": "campsite__light-theme",
+  "author": "campsite",
+  "slug": "light-theme",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@campsite/components/light-theme",
+  "fetchedAt": "2026-08-29T03:53:01.201Z",
+  "completedAt": "2026-08-29T03:53:02.966Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/campsite__light-theme/code.tsx",
+    "bytes": 4284,
+    "sha256": "9b9eab199661f6afd7dd1719447953791a0ec4f1042cb6479469c27e5a21bce8",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

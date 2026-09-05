@@ -1,0 +1,26 @@
+{
+  "id": "bundui__scroll-area2",
+  "author": "bundui",
+  "slug": "scroll-area2",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@bundui/components/scroll-area2",
+  "fetchedAt": "2026-08-29T03:52:21.564Z",
+  "completedAt": "2026-08-29T03:52:23.996Z",
+  "versionedFilename": "code.1783712813477.tsx",
+  "codeReference": "r2://components-code-private/bundui/scroll-area2/code.1783712813477.tsx",
+  "codeUrl": "https://cdn.21st.dev/bundui/scroll-area2/code.1783712813477.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5594,
+  "sha256": "331afdaddb2b93c187ca9926bf709b0a6a95d393f70ca643d961ca93c7722b7a",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

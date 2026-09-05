@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "volume-slider",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Audio volume control in media players and video players",
+    "Mute/unmute toggle for video conferencing applications",
+    "Volume adjustment in music streaming interfaces",
+    "Speaker settings in dashboard or settings panels",
+    "Accessibility controls for audio output levels"
+  ],
+  "ai_summary": "A vertical volume slider component with an integrated mute toggle button. Features a speaker SVG icon that changes between muted and unmuted states, with smooth hover transitions. Includes state management to remember previous volume levels when toggling mute, and automatically handles edge cases like volume reaching zero.",
+  "_classifiedAt": "2026-04-23T17:02:31.999Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "diriktv-music-artwork",
+  "type": "registry:ui",
+  "title": "Diriktv Music Artwork",
+  "description": "Installed from https://21st.dev/r/diriktv/music-artwork",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "diriktv-music-artwork"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "music-artwork.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "next"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/diriktv/music-artwork",
+    "fetchedAt": "2026-04-23T03:04:33.559Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

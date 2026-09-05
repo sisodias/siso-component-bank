@@ -1,0 +1,28 @@
+{
+  "category": "card",
+  "subcategory": "hotel-card",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "real-estate",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display hotel search results with images, ratings, and locations",
+    "Show accommodation listings in travel booking interfaces",
+    "Present featured properties in hospitality platforms",
+    "List room options with visual hover effects on booking sites",
+    "Display travel destination recommendations with review counts"
+  ],
+  "ai_summary": "A responsive hotel card component with framer-motion animations that lifts on hover and zooms the image smoothly. The card displays accommodation details including room type, hotel name, location with a map pin icon, star rating, and review count. It supports optional href for wrapping the entire card in a link and adapts from stacked layout on mobile to horizontal layout on desktop.",
+  "_classifiedAt": "2026-04-23T01:42:29.778Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

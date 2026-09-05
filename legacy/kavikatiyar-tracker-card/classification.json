@@ -1,0 +1,42 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action for forms and user interactions",
+    "Trigger actions like submission, confirmation, or navigation",
+    "Accessible button with keyboard navigation and screen reader support",
+    "Destructive actions with dedicated destructive variant",
+    "Ghost or outline styles for secondary actions"
+  ],
+  "ai_summary": "A shadcn/ui-style button component built with Radix UI and class-variance-authority. Supports multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Includes asChild pattern via Radix Slot for composition, proper TypeScript types, and focus-visible accessibility states. Designed as an atomic UI building block for any web application.",
+  "_classifiedAt": "2026-04-23T01:41:53.018Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

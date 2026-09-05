@@ -1,0 +1,33 @@
+{
+  "category": "media",
+  "subcategory": "shader-gradient-card",
+  "visual_style": [
+    "gradient",
+    "3d",
+    "colorful"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero sections with animated gradient backgrounds",
+    "Interactive product showcase cards in e-commerce",
+    "Creative portfolio landing pages with dynamic visuals",
+    "SaaS product feature cards with engaging animations",
+    "Media platform landing pages with animated gradients"
+  ],
+  "ai_summary": "A 3D shader-based gradient card component built with React Three Fiber that renders animated grainy gradient effects using sophisticated noise algorithms including simplex noise and domain warping. The component supports interactive ripple effects triggered by user clicks, creating organic flowing visual animations with customizable noise intensity, scale, and speed parameters.",
+  "_classifiedAt": "2026-04-23T01:37:27.759Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

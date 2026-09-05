@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@fuma-nama/components/banner",
+  "author": "fuma-nama",
+  "slug": "banner",
+  "name": "banner",
+  "description": "Place the element at the top of your root layout to display announcements.\nBy default, the banner uses a style tag to modify Fumadocs layouts, such as reducing the sidebar height. You can disable this feature with:\nTo enable users to close the banner, assign it an ID.\nThe state will be automatically saved.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/fuma-nama/banner?api_key=$API_KEY_21ST\"",
+  "id": "fuma-nama__banner",
+  "bundleUrl": "https://cdn.21st.dev/bundled/961.html",
+  "previewUrl": "https://cdn.21st.dev/user_fuma-nama/banner.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 84,
+  "demo_id": 961,
+  "video_url": "https://cdn.21st.dev/user_fuma-nama/banner/961/video.mp4"
+}

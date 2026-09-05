@@ -1,0 +1,26 @@
+{
+  "id": "kavikatiyar__tracker-card-1",
+  "author": "kavikatiyar",
+  "slug": "tracker-card-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@kavikatiyar/components/tracker-card-1",
+  "fetchedAt": "2026-08-29T05:16:18.446Z",
+  "completedAt": "2026-08-29T05:16:20.664Z",
+  "versionedFilename": "code.1758771244800.tsx",
+  "codeReference": "r2://components-code-private/kavikatiyar/tracker-card-1/code.1758771244800.tsx",
+  "codeUrl": "https://cdn.21st.dev/kavikatiyar/tracker-card-1/code.1758771244800.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5090,
+  "sha256": "a2f24e209434c8592a290b03b49a3965c8e82ff84a8a600360b5726008d8ad93",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

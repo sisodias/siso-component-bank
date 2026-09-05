@@ -1,0 +1,40 @@
+{
+  "category": [
+    "input",
+    "navigation"
+  ],
+  "subcategory": "toggle-button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Theme switching between light and dark modes in web applications",
+    "Primary action triggers in forms and dialogs",
+    "Navigation and routing controls within applications",
+    "State toggling for UI preferences and settings",
+    "Call-to-action buttons in marketing and landing pages"
+  ],
+  "ai_summary": "A reusable button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes, built on Radix UI Slot for composition flexibility. Implements standard accessibility features with focus-visible ring states and disabled state handling. Designed for theme switching and general-purpose UI interactions across web applications.",
+  "_classifiedAt": "2026-04-23T16:33:34.821Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

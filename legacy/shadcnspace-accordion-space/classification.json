@@ -1,0 +1,33 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "collapsible-panels",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Organizing content into expandable sections to reduce visual clutter",
+    "Displaying FAQs with accordion-style question-answer pairs",
+    "Creating settings panels where users can expand categories",
+    "Building documentation navigation with nested expandable sections",
+    "Structuring dashboard information into collapsible cards"
+  ],
+  "ai_summary": "A shadcnspace accordion component featuring expandable content panels with colored icons and subtle color accents. Each accordion item displays a title, subtitle, and icon (FileText, Folder, Settings, Users) with distinct text and background colors. The component uses clean Tailwind styling with a rounded border design and hover states, providing an organized way to present categorized content that expands on user interaction.",
+  "_classifiedAt": "2026-04-22T09:14:31.518Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

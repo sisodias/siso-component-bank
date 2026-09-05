@@ -1,0 +1,26 @@
+{
+  "id": "ephraimduncan__form-1",
+  "author": "ephraimduncan",
+  "slug": "form-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ephraimduncan/components/form-1",
+  "fetchedAt": "2026-08-29T04:44:36.459Z",
+  "completedAt": "2026-08-29T04:44:38.982Z",
+  "versionedFilename": "code.1748127309822.tsx",
+  "codeReference": "r2://components-code-private/larsen66/form-1/code.1748127309822.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/form-1/code.1748127309822.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 24402,
+  "sha256": "920b06f983a914fd6ff89b4d67016980f71e85379874e7f516b8d865c58dcb97",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

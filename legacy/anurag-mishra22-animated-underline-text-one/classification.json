@@ -1,0 +1,32 @@
+{
+  "category": "media",
+  "subcategory": "animated-text-decoration",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero section headings with animated SVG underlines for visual emphasis",
+    "Call-to-action text with decorative path morphing on hover",
+    "Section titles requiring elegant entrance animations and interactive underlines",
+    "Brand presentations needing sophisticated typography with motion effects",
+    "Landing page text elements that animate on mount and respond to user hover"
+  ],
+  "ai_summary": "An animated text component featuring an SVG-based wavy underline that animates on mount using Framer Motion's pathLength animation. The underline morphs dynamically on hover, transitioning between two configurable Bezier paths to create an elegant wave effect. The text itself also includes subtle entrance animation and hover scale transformation.",
+  "_classifiedAt": "2026-04-23T11:30:29.863Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,27 @@
+{
+  "category": "media",
+  "subcategory": "text-animation",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display animated hero text with layered shadow depth effects for landing pages",
+    "Create attention-grabbing typography for loading states and brand introductions",
+    "Add pulsing text animations to marketing pages and promotional banners",
+    "Use as animated headers or call-to-action text in web applications",
+    "Implement customizable animated text for creative portfolios and showcases"
+  ],
+  "ai_summary": "A layered text animation component that creates a depth effect through multiple shadow layers with smooth cubic-bezier easing. The animation pulses text between transparent and opaque states while offsetting the shadow layers for a 3D-like appearance. Fully customizable via props for text content, color, size, and animation duration. Designed for full-viewport display with responsive sizing using viewport-relative units. Ideal for hero sections, loading screens, and creating visual impact with bold animated typography.",
+  "_classifiedAt": "2026-04-23T01:38:10.746Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "deleted_reactbits__counter",
+  "author": "deleted_reactbits",
+  "slug": "counter",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@deleted_reactbits/components/counter",
+  "fetchedAt": "2026-08-29T04:13:12.207Z",
+  "completedAt": "2026-08-29T04:13:14.685Z",
+  "versionedFilename": "code.1747798289457.tsx",
+  "codeReference": "r2://components-code-private/larsen66/counter/code.1747798289457.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/counter/code.1747798289457.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6855,
+  "sha256": "743d2a11a29d3db8f80f49ab04377a303c594c81649fd2234ee1afde95f10e63",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

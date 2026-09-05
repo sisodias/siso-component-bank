@@ -1,0 +1,32 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "flight booking card",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "media",
+    "travel"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying flight search results with airline, times, and route details",
+    "Presenting travel packages or flight deals in a visually appealing card format",
+    "Mobile flight booking apps requiring compact, tappable flight information cards",
+    "Travel agency websites showing curated flight options to customers",
+    "Corporate travel dashboards displaying employee flight itineraries"
+  ],
+  "ai_summary": "A flight booking card component that displays comprehensive flight information including airline details, departure/arrival cities with codes and times, duration, and an airplane window image. Built with framer-motion for smooth entrance animations and hover scale effects. Uses shadcn/ui styling patterns with rounded corners, shadows, and border utilities. Optimized for travel and e-commerce platforms displaying flight search results or booking interfaces.",
+  "_classifiedAt": "2026-04-23T01:46:58.684Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

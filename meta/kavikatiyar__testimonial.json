@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@kavikatiyar/components/testimonial",
+  "author": "kavikatiyar",
+  "slug": "testimonial",
+  "name": "testimonial",
+  "description": "Testimonial Section\nThis component renders a title and a grid of testimonial cards. It's designed to be highly reusable, accepting an array of testimonial objects to dynamically generate the content. It supports two types of cards: a standard user testimonial with an avatar and a featured quote card.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/kavikatiyar/testimonial?api_key=$API_KEY_21ST\"",
+  "id": "kavikatiyar__testimonial",
+  "bundleUrl": "https://cdn.21st.dev/kavikatiyar/testimonial/default/bundle.1760507060170.html",
+  "previewUrl": "https://cdn.21st.dev/kavikatiyar/testimonial/default/preview.1760507060169.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 18,
+  "demo_id": 8973,
+  "video_url": "https://cdn.21st.dev/kavikatiyar/testimonial/default/video.1760507060169.mp4"
+}

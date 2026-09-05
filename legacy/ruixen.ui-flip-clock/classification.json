@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "clock",
+  "visual_style": [
+    "dark",
+    "flat",
+    "minimalist",
+    "mono"
+  ],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying live current time on dashboards or landing pages",
+    "Creating countdown or elapsed time visualizations",
+    "Adding time-sensitive visual elements to media applications",
+    "Enhancing dev-tools interfaces with live clock functionality"
+  ],
+  "ai_summary": "A minimalist flip clock component that displays hours, minutes, and seconds with smooth animated digit transitions using Framer Motion. The component features a dark theme with monospace typography, updating in real-time every second. Each digit animates with a slide transition effect, creating a subtle flip-like visual when values change.",
+  "_classifiedAt": "2026-04-23T17:18:05.859Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

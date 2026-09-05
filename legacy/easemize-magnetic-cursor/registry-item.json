@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "easemize-magnetic-cursor",
+  "type": "registry:ui",
+  "title": "Easemize Magnetic Cursor",
+  "description": "Installed from https://21st.dev/r/easemize/magnetic-cursor",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "easemize-magnetic-cursor"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "magnetic-cursor.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "gsap",
+    "vecteur"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/easemize/magnetic-cursor",
+    "fetchedAt": "2026-04-22T06:42:08.180Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

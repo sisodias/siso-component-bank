@@ -1,0 +1,35 @@
+{
+  "category": "input",
+  "subcategory": "button-with-variants",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Interactive button element with multiple style variants for form submissions",
+    "Action triggers for user interactions with hover and focus states",
+    "Versatile button component supporting primary, secondary, outline, ghost, destructive, and link variants",
+    "Accessible button with disabled states and keyboard focus indicators",
+    "Customizable sizing options for different UI contexts and density requirements"
+  ],
+  "ai_summary": "A versatile Radix UI-based Button component with comprehensive variant options including default, destructive, outline, secondary, ghost, and link styles. Built with CVA for type-safe variant management and supports multiple sizes for flexible UI composition. Features proper accessibility with focus-visible states, disabled states, and keyboard navigation support.",
+  "_classifiedAt": "2026-04-23T01:49:16.784Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

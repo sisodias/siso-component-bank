@@ -1,0 +1,30 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "animated button with 3D coin flip",
+  "visual_style": [
+    "3d",
+    "gradient"
+  ],
+  "interactions": [
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Random decision making UI element for gamification features",
+    "Interactive coin flip mechanic for prediction or betting applications",
+    "Fun reveal animations for raffle or giveaway implementations"
+  ],
+  "ai_summary": "An interactive button component featuring a realistic 3D coin flip animation triggered on click. The coin performs physics-based flipping with randomized rotation counts and landing outcomes, using CSS custom properties to animate position, scale, and rotation in 3D space. Includes shrink and tilt animations for tactile button feedback.",
+  "_classifiedAt": "2026-04-23T17:42:41.514Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

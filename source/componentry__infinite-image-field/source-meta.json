@@ -1,0 +1,26 @@
+{
+  "id": "componentry__infinite-image-field",
+  "author": "componentry",
+  "slug": "infinite-image-field",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@componentry/components/infinite-image-field",
+  "fetchedAt": "2026-08-29T04:01:09.898Z",
+  "completedAt": "2026-08-29T04:01:12.028Z",
+  "versionedFilename": "code.1783519532266.tsx",
+  "codeReference": "r2://components-code-private/componentry/infinite-image-field/code.1783519532266.tsx",
+  "codeUrl": "https://cdn.21st.dev/componentry/infinite-image-field/code.1783519532266.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7319,
+  "sha256": "8e2bbfbc8cf01db6e06450243629bc427d77e0c5abc91951ba7344445b214e32",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

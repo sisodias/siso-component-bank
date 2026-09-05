@@ -1,0 +1,29 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "card",
+  "type": "registry:ui",
+  "title": "Card",
+  "description": "Shadcn/ui card primitive with header, title, description, content, and footer slots",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "card",
+    "container",
+    "layout",
+    "shadcn"
+  ],
+  "files": [
+    {
+      "path": "card.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "renderable": false
+  },
+  "_provenance": {
+    "curationTags": []
+  }
+}

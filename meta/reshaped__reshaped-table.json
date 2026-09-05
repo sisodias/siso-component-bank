@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@reshaped/components/reshaped-table",
+  "author": "reshaped",
+  "slug": "reshaped-table",
+  "name": "reshaped-table",
+  "description": "Collection of compound components (Table.Row, Table.Cell, Table.Heading, Table.Head, Table.Body) for building tables from simple cells to headed layouts. Supports outer and column borders, row highlighting, colSpan/rowSpan, cell padding/width/alignment, card composition and interactive datasets like checkbox row selection.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/reshaped/reshaped-table?api_key=$API_KEY_21ST\"",
+  "id": "reshaped__reshaped-table",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/reshaped-table/default/bundle.1783521745438.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/reshaped-table/default/preview.1783521745438.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

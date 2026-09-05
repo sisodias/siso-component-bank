@@ -1,0 +1,42 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "select-dropdown",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools",
+    "healthcare",
+    "education",
+    "real-estate",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Filtering products or content by category in e-commerce dashboards",
+    "Selecting user roles or permissions in admin settings",
+    "Choosing date ranges or time periods in analytics tools",
+    "Selecting currency, language, or region preferences in international applications",
+    "Choosing status filters or sorting options in data tables"
+  ],
+  "ai_summary": "A minimalist select dropdown component built on Radix UI primitives with Tailwind CSS styling. Features clean bordered design with focus ring states, disabled states, and dark mode support. Includes two size variants (default/sm) and proper accessibility attributes via Radix. Supports placeholder text, icon integration, and validation states. Designed for universal use across SaaS, fintech, e-commerce, and dev-tools applications.",
+  "_classifiedAt": "2026-04-22T09:04:04.685Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dinovlazar2011__chat-bot",
+  "author": "dinovlazar2011",
+  "slug": "chat-bot",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dinovlazar2011/components/chat-bot",
+  "fetchedAt": "2026-08-29T04:36:15.638Z",
+  "completedAt": "2026-08-29T04:36:17.591Z",
+  "versionedFilename": "code.1773780090100.tsx",
+  "codeReference": "r2://components-code-private/dinovlazar2011/chat-bot/code.1773780090100.tsx",
+  "codeUrl": "https://cdn.21st.dev/dinovlazar2011/chat-bot/code.1773780090100.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 13850,
+  "sha256": "f5a7c9569c7c3d5260375502e0ce6b5f3fa7278feffe15f51bd2a131e6263b0e",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

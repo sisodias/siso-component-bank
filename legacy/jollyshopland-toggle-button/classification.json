@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "toggle-button",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Toggle a single boolean setting or feature on and off.",
+    "Select one option from a group of mutually exclusive choices in a form.",
+    "Switch between view modes or display options in an interface.",
+    "Filter or segment content selection in navigation or dashboards.",
+    "Enable or disable features in settings panels."
+  ],
+  "ai_summary": "A lightweight toggle button component built with react-aria-components for accessibility, supporting default and outline variants with three size options. Features standard interaction states including hover, selected, disabled, and focus-visible indicators using Tailwind CSS data attributes. Designed as a reusable atomic component that can function standalone or within a ToggleButtonGroup for multi-option selection scenarios.",
+  "_classifiedAt": "2026-04-23T01:41:06.379Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

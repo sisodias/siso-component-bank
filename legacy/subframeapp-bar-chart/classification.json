@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "bar-chart",
+  "visual_style": [
+    "dark"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying quantitative data with vertical bars for comparison across categories",
+    "Visualizing metrics and KPIs in dashboard interfaces",
+    "Showing trends and distributions in analytics applications",
+    "Comparing multiple data series with stacked bar options",
+    "Rendering business intelligence data in dark-themed UIs"
+  ],
+  "ai_summary": "A dark-themed bar chart component from Subframe with a teal/green color palette and optional stacking functionality. Wraps the SubframeCore BarChart with preset styling including custom colors and fixed dimensions. Designed for data visualization in analytics dashboards and business intelligence tools.",
+  "_classifiedAt": "2026-04-23T17:34:25.754Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

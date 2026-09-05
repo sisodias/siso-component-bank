@@ -1,0 +1,26 @@
+{
+  "id": "dqnamo__logo-trace-loader",
+  "author": "dqnamo",
+  "slug": "logo-trace-loader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dqnamo/components/logo-trace-loader",
+  "fetchedAt": "2026-08-29T04:36:50.087Z",
+  "completedAt": "2026-08-29T04:36:52.476Z",
+  "versionedFilename": "code.1783007404066.tsx",
+  "codeReference": "r2://components-code-private/larsen66/logo-trace-loader/code.1783007404066.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/logo-trace-loader/code.1783007404066.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5837,
+  "sha256": "4e34f3dcbed7bcbc47697a6c9e2d55c7e5190e15aba00bd1929b3fd17e99359c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,24 @@
+{
+  "category": "card",
+  "subcategory": "security-card",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "fintech",
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying user security verification status in authentication flows",
+    "Showing verified user identity in fintech dashboards",
+    "Presenting security confirmation in SaaS settings pages"
+  ],
+  "ai_summary": "A glass-morphism styled security card component that displays user identity information (name and email) with animated effects including an infinite scrambler and motion transitions. Supports dark mode with gradient backgrounds and shadow styling. The card auto-refreshes its animation at configurable intervals, making it suitable for security-conscious UI contexts like authentication flows or user verification dashboards.",
+  "_classifiedAt": "2026-04-23T01:35:46.743Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

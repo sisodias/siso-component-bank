@@ -1,0 +1,26 @@
+{
+  "id": "karthikmudunuri__terminal",
+  "author": "karthikmudunuri",
+  "slug": "terminal",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@karthikmudunuri/components/terminal",
+  "fetchedAt": "2026-08-29T05:13:54.184Z",
+  "completedAt": "2026-08-29T05:13:56.301Z",
+  "versionedFilename": "code.1762088291953.tsx",
+  "codeReference": "r2://components-code-private/karthikmudunuri/terminal/code.1762088291953.tsx",
+  "codeUrl": "https://cdn.21st.dev/karthikmudunuri/terminal/code.1762088291953.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3639,
+  "sha256": "5b6c4cf012b3db0346040fb013788fe25f03f3b00f00fbffe3b34db9900260b4",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

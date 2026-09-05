@@ -1,0 +1,33 @@
+{
+  "id": "uniquesonu__modern-hero-section",
+  "author": "uniquesonu",
+  "slug": "modern-hero-section",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uniquesonu/components/modern-hero-section",
+  "fetchedAt": "2026-08-29T07:49:39.109Z",
+  "completedAt": "2026-08-29T07:49:40.716Z",
+  "versionedFilename": "code.1785530021620-6aef38f7-ddae-45f9-ab41-49f822d6883f.tsx",
+  "codeReference": "r2://components-code-private/uniquesonu/modern-hero-section/code.1785530021620-6aef38f7-ddae-45f9-ab41-49f822d6883f.tsx",
+  "codeUrl": "https://cdn.21st.dev/uniquesonu/modern-hero-section/code.1785530021620-6aef38f7-ddae-45f9-ab41-49f822d6883f.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/uniquesonu__modern-hero-section/code.tsx",
+    "bytes": 5318,
+    "sha256": "11a1d234c5fb47f6fc512bfdc1ef57c82321aadacc0bb9fb40da393d4e4ec44d",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

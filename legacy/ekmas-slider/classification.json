@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "range-slider",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Selecting numeric values within a range in forms or settings",
+    "Filtering products by price range in e-commerce interfaces",
+    "Adjusting volume, brightness, or other continuous settings",
+    "Displaying progress or completion indicators in dashboards"
+  ],
+  "ai_summary": "A lightweight, accessible range slider component built on Radix UI primitives with minimalist styling. Features a rounded track with a filled range indicator and a draggable thumb with focus states. Supports touch, keyboard navigation, and disabled states. Designed for seamless integration into forms, settings panels, or any interface requiring range value selection.",
+  "_classifiedAt": "2026-04-23T16:38:49.190Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

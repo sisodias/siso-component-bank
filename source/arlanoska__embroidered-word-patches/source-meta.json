@@ -1,0 +1,26 @@
+{
+  "id": "arlanoska__embroidered-word-patches",
+  "author": "arlanoska",
+  "slug": "embroidered-word-patches",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@arlanoska/components/embroidered-word-patches",
+  "fetchedAt": "2026-08-29T03:38:42.501Z",
+  "completedAt": "2026-08-29T03:38:44.698Z",
+  "versionedFilename": "code.1785302153274-42082027-66fa-4ea1-b9c5-c413861e5b92.tsx",
+  "codeReference": "r2://components-code-private/localhost_serafim/embroidered-word-patches/code.1785302153274-42082027-66fa-4ea1-b9c5-c413861e5b92.tsx",
+  "codeUrl": "https://cdn.21st.dev/localhost_serafim/embroidered-word-patches/code.1785302153274-42082027-66fa-4ea1-b9c5-c413861e5b92.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

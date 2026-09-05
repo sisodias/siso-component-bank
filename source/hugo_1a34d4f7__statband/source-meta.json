@@ -1,0 +1,26 @@
+{
+  "id": "hugo_1a34d4f7__statband",
+  "author": "hugo_1a34d4f7",
+  "slug": "statband",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@hugo_1a34d4f7/components/statband",
+  "fetchedAt": "2026-08-29T04:58:51.979Z",
+  "completedAt": "2026-08-29T04:58:54.125Z",
+  "versionedFilename": "code.1782398250633.tsx",
+  "codeReference": "r2://components-code-private/hugo_1a34d4f7/statband/code.1782398250633.tsx",
+  "codeUrl": "https://cdn.21st.dev/hugo_1a34d4f7/statband/code.1782398250633.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4801,
+  "sha256": "586bc99d6c4561e542eb678c10d8ce39c14d4057a7e252a65d8b269dd39de147",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

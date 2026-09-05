@@ -1,0 +1,31 @@
+{
+  "category": "media",
+  "subcategory": "interactive-canvas-pattern",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creative-tools",
+    "portfolio",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive background for landing pages that responds to cursor movement",
+    "Decorative hero section element with click-triggered ripple effects",
+    "Ambient visual layer for web applications with subtle wave animations",
+    "Portfolio or creative website background with engaging mouse interaction",
+    "Engaging visual element for product demos or marketing sites"
+  ],
+  "ai_summary": "An interactive canvas-based dot pattern that creates a dynamic grid of dots responding to mouse movement with smooth displacement animations and ripple effects triggered on click. The component renders a warm minimalist background with gray dots that animate in wave-like patterns, providing an engaging interactive layer for landing pages, hero sections, or decorative backgrounds. Configurable through props for colors, spacing, and animation speed.",
+  "_classifiedAt": "2026-04-23T17:37:30.896Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

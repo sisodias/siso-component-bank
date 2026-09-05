@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "labeled-text-input",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "fintech",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "User authentication forms with email/password inputs",
+    "Contact forms and signup flows in SaaS applications",
+    "Data entry interfaces in fintech dashboards",
+    "Settings and profile forms in e-commerce platforms",
+    "Search inputs and filters in web applications"
+  ],
+  "ai_summary": "A flexible labeled input component featuring customizable focus ring colors, password visibility toggle, and dark mode support. Built with Tailwind CSS and React, it provides a polished user experience for text inputs across forms and authentication flows.",
+  "_classifiedAt": "2026-04-22T09:18:07.926Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

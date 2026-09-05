@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/comparison-table",
+  "author": "ruixen.ui",
+  "slug": "comparison-table",
+  "name": "comparison-table",
+  "description": "This component is a row comparison table with dynamic selection controls, designed using Shadcn UI. Each row in the table has a \"Compare\" button that toggles to \"Remove\" once selected, giving users a clear and intuitive way to pick rows for side-by-side comparison. The destructive variant is styled in bold red with white text, making removal actions highly visible and easy to distinguish, while the unselected rows maintain a subtle outline style for balance. This design works seamlessly across light and dark themes, ensuring consistent usability. The component is practical for scenarios like comparing user accounts, financial data, or product attributes, and its toggle-based interaction makes it both efficient and reusable for many applications.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/comparison-table?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__comparison-table",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/comparison-table/default/bundle.1757836218819.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/comparison-table/default/preview.1757836218819.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 53,
+  "demo_id": 7469,
+  "video_url": "https://cdn.21st.dev/user_2y5Wd5l713ZIFYjX19aZXSyXd6b/comparison-table/default/video.1786565468159.mp4"
+}

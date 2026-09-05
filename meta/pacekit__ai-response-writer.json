@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@pacekit/components/ai-response-writer",
+  "author": "pacekit",
+  "slug": "ai-response-writer",
+  "name": "ai-response-writer",
+  "description": "An auto-scrolling text display that smoothly keeps the latest streamed AI response always visible as new text arrives.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/pacekit/ai-response-writer?api_key=$API_KEY_21ST\"",
+  "id": "pacekit__ai-response-writer",
+  "bundleUrl": "https://cdn.21st.dev/pacekit/ai-response-writer/default/bundle.1786712305002-3c1f9e34-5993-4036-8680-39a9cb3a6fc5.html",
+  "previewUrl": "https://cdn.21st.dev/pacekit/ai-response-writer/default/preview.1786712305002-3c1f9e34-5993-4036-8680-39a9cb3a6fc5.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

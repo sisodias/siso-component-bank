@@ -1,0 +1,33 @@
+{
+  "id": "daniel__designs__3d-ascii-model-viewer",
+  "author": "daniel__designs",
+  "slug": "3d-ascii-model-viewer",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@daniel__designs/components/3d-ascii-model-viewer",
+  "fetchedAt": "2026-08-29T04:07:19.495Z",
+  "completedAt": "2026-08-29T04:07:21.740Z",
+  "versionedFilename": "code.1785468964696-30f97f28-5ca1-44d5-a76a-de92f1acd8d9.tsx",
+  "codeReference": "r2://components-code-private/daniel__designs/3d-ascii-model-viewer/code.1785468964696-30f97f28-5ca1-44d5-a76a-de92f1acd8d9.tsx",
+  "codeUrl": "https://cdn.21st.dev/daniel__designs/3d-ascii-model-viewer/code.1785468964696-30f97f28-5ca1-44d5-a76a-de92f1acd8d9.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/daniel__designs__3d-ascii-model-viewer/code.tsx",
+    "bytes": 11875,
+    "sha256": "b731a868c9528a84c1f88204d6337b13eb99cd79054db361aac3a8cb91fa29de",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

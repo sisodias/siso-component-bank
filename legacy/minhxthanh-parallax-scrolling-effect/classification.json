@@ -1,0 +1,30 @@
+{
+  "category": "layout",
+  "subcategory": "parallax-scroll-effect",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero sections on landing pages that reveal content as users scroll",
+    "Immersive storytelling websites with depth and movement",
+    "Product showcase pages with parallax image transitions",
+    "Portfolio or creative agency sites with engaging scroll effects",
+    "Marketing pages that want to capture attention with dynamic visuals"
+  ],
+  "ai_summary": "A parallax scrolling effect component that creates depth by dynamically zooming out and blurring a background image as users scroll down the page. The component applies smooth opacity transitions and includes browser-specific handling for opaque overlays, making it ideal for creating immersive hero sections and storytelling interfaces in landing pages and marketing sites.",
+  "_classifiedAt": "2026-04-23T16:59:47.182Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

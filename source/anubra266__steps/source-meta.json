@@ -1,0 +1,26 @@
+{
+  "id": "anubra266__steps",
+  "author": "anubra266",
+  "slug": "steps",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@anubra266/components/steps",
+  "fetchedAt": "2026-08-29T03:36:12.078Z",
+  "completedAt": "2026-08-29T03:36:14.167Z",
+  "versionedFilename": "code.1756154460175.tsx",
+  "codeReference": "r2://components-code-private/larsen66/steps/code.1756154460175.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/steps/code.1756154460175.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1566,
+  "sha256": "5511be0491aa6c6d004aca51ce283c9d362cd60862d35f60b42fc3c85809d7de",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

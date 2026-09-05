@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@theorcdev/components/8bit-victory-screen",
+  "author": "theorcdev",
+  "slug": "8bit-victory-screen",
+  "name": "8bit-victory-screen",
+  "description": "An 8-bit victory results screen built on the retro card, alert, and item primitives. Shows a VICTORY banner, stat panels (exp/gold), an items-obtained list with rarity colors and icons, and a battle report, all with pixel borders and dashed separators.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/theorcdev/8bit-victory-screen?api_key=$API_KEY_21ST\"",
+  "id": "theorcdev__8bit-victory-screen",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/8bit-victory-screen/default/bundle.1780525776943.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/8bit-victory-screen/default/preview.1780525776943.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

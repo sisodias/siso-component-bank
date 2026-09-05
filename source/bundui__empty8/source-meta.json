@@ -1,0 +1,26 @@
+{
+  "id": "bundui__empty8",
+  "author": "bundui",
+  "slug": "empty8",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@bundui/components/empty8",
+  "fetchedAt": "2026-08-29T03:51:58.227Z",
+  "completedAt": "2026-08-29T03:52:00.410Z",
+  "versionedFilename": "code.1784797665045-4c7ea7e2-ce95-4636-8b7c-04de9903a16c.tsx",
+  "codeReference": "r2://components-code-private/bundui/empty8/code.1784797665045-4c7ea7e2-ce95-4636-8b7c-04de9903a16c.tsx",
+  "codeUrl": "https://cdn.21st.dev/bundui/empty8/code.1784797665045-4c7ea7e2-ce95-4636-8b7c-04de9903a16c.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

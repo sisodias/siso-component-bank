@@ -1,0 +1,31 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "payment-checkout",
+  "visual_style": [
+    "glass-morphism"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "saas",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Processing one-time payments for digital products or services",
+    "Collecting subscription payments in SaaS applications",
+    "Handling order checkout in e-commerce storefronts",
+    "Enabling secure payment method selection with visual feedback",
+    "Displaying itemized purchase amounts with discount fields"
+  ],
+  "ai_summary": "A glassmorphism-styled checkout card component featuring a translucent backdrop blur effect, payment method selection tabs (card, PayPal, Apple Pay), and animated hover states with glow effects. The component manages payment method state, displays purchase amounts, and uses Framer Motion for smooth mount animations. Ideal for e-commerce checkout flows, SaaS subscription pages, and fintech payment interfaces requiring a modern, premium visual aesthetic.",
+  "_classifiedAt": "2026-04-22T09:07:04.226Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

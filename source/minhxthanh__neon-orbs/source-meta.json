@@ -1,0 +1,26 @@
+{
+  "id": "minhxthanh__neon-orbs",
+  "author": "minhxthanh",
+  "slug": "neon-orbs",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@minhxthanh/components/neon-orbs",
+  "fetchedAt": "2026-08-29T05:45:14.153Z",
+  "completedAt": "2026-08-29T05:45:16.452Z",
+  "versionedFilename": "code.1764337352226.tsx",
+  "codeReference": "r2://components-code-private/minhxthanh/neon-orbs/code.1764337352226.tsx",
+  "codeUrl": "https://cdn.21st.dev/minhxthanh/neon-orbs/code.1764337352226.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6762,
+  "sha256": "aff6b5cf582bc60487cd1b1d02f3f80c45f5410b8da16dfc4e2be75837c07d40",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

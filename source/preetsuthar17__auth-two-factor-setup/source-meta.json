@@ -1,0 +1,26 @@
+{
+  "id": "preetsuthar17__auth-two-factor-setup",
+  "author": "preetsuthar17",
+  "slug": "auth-two-factor-setup",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@preetsuthar17/components/auth-two-factor-setup",
+  "fetchedAt": "2026-08-29T06:12:16.217Z",
+  "completedAt": "2026-08-29T06:12:18.227Z",
+  "versionedFilename": "code.1783695469311.tsx",
+  "codeReference": "r2://components-code-private/preetsuthar17/auth-two-factor-setup/code.1783695469311.tsx",
+  "codeUrl": "https://cdn.21st.dev/preetsuthar17/auth-two-factor-setup/code.1783695469311.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 18574,
+  "sha256": "b32369d649291006ff012bc3b1f3c458a6abf142ee981811a1f954f0a3115a70",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

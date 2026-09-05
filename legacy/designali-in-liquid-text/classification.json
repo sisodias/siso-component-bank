@@ -1,0 +1,30 @@
+{
+  "category": "other",
+  "subcategory": "animated-headline",
+  "visual_style": [],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero section headlines with smooth text transitions between marketing messages",
+    "Animated feature highlights that cycle through product benefits",
+    "Dynamic taglines in landing pages that morph between value propositions",
+    "Animated titles for testimonial carousels or rotating quotes",
+    "Interactive brand messages that change with a liquid blur effect"
+  ],
+  "ai_summary": "A liquid text animation component that smoothly morphs between multiple text strings using CSS blur filters and opacity transitions. The animation alternates between two text elements with a blur-based dissolve effect, creating a seamless transition cycle. Ideal for hero sections and landing pages that need engaging, animated typography without heavy dependencies.",
+  "_classifiedAt": "2026-04-23T16:31:54.602Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,27 @@
+{
+  "category": "media",
+  "subcategory": "3d-parallax-images",
+  "visual_style": [],
+  "interactions": [
+    "parallax"
+  ],
+  "best_for_industries": [
+    "media",
+    "e-commerce",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying image galleries with interactive 3D parallax depth effects on hover",
+    "Creating engaging product showcases with configurable perspective transforms",
+    "Building visually immersive media galleries with layered depth perception",
+    "Adding dynamic visual interest to hero sections or landing pages"
+  ],
+  "ai_summary": "A React component that renders images in a dark-themed grid layout with 3D parallax effects triggered on hover. Uses CSS custom properties (--f for depth factor and --r for border radius) to create configurable perspective transforms. Each image responds independently to mouse movement, creating a layered depth illusion. Ideal for media galleries, product showcases, or any context where interactive visual depth enhances user engagement.",
+  "_classifiedAt": "2026-04-23T16:57:45.361Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

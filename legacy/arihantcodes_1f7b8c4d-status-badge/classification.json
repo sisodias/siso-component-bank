@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "status-badge",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display order or transaction status such as pending, success, or failed states",
+    "Show workflow progress indicators for review or in-progress processes",
+    "Indicate build or deployment status in CI/CD pipelines",
+    "Represent task completion states in project management tools",
+    "Display user account or subscription status in SaaS applications"
+  ],
+  "ai_summary": "A clean, flat-style status badge component that displays various workflow states including pending, success, failed, in-progress, and in-review. Uses subtle background tints with matching iconography and text colors for clear visual hierarchy. Designed as an atomic component suitable for integration into dashboards, forms, or data tables across SaaS, e-commerce, and developer tooling platforms.",
+  "_classifiedAt": "2026-04-23T11:30:59.406Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

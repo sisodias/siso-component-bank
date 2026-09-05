@@ -1,0 +1,34 @@
+{
+  "category": "media",
+  "subcategory": "webgl-shader-effect",
+  "visual_style": [
+    "dark",
+    "3d"
+  ],
+  "interactions": [
+    "mouse-warp",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "gaming",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero background for tech products",
+    "Animated backgrounds for SaaS landing pages",
+    "Portfolio showcase visual effect",
+    "Gaming and creative tool landing pages",
+    "Dark-themed website accent and ambient effect"
+  ],
+  "ai_summary": "A WebGL shader-based Matrix rain animation using Three.js and custom GLSL shaders. The component renders falling digital characters with mouse-reactive distortion effects, creating an immersive dark-themed visual experience suitable for hero sections and backgrounds in tech-focused applications.",
+  "_classifiedAt": "2026-04-23T16:34:43.208Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

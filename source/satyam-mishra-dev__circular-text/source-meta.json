@@ -1,0 +1,26 @@
+{
+  "id": "satyam-mishra-dev__circular-text",
+  "author": "satyam-mishra-dev",
+  "slug": "circular-text",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@satyam-mishra-dev/components/circular-text",
+  "fetchedAt": "2026-08-29T06:53:38.052Z",
+  "completedAt": "2026-08-29T06:53:40.762Z",
+  "versionedFilename": "code.1770718046111.tsx",
+  "codeReference": "r2://components-code-private/satyam-mishra-dev/circular-text/code.1770718046111.tsx",
+  "codeUrl": "https://cdn.21st.dev/satyam-mishra-dev/circular-text/code.1770718046111.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3576,
+  "sha256": "1d0659136b46fc10b244ba09ce7c2bc846fb4822825d65292ece47676b3548d1",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

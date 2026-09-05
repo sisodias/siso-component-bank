@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ncdai/components/middle-truncation",
+  "author": "ncdai",
+  "slug": "middle-truncation",
+  "name": "middle-truncation",
+  "description": "A text component that truncates long strings in the middle with an ellipsis, preserving the start and end while auto-recalculating on container resize.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ncdai/middle-truncation?api_key=$API_KEY_21ST\"",
+  "id": "ncdai__middle-truncation",
+  "bundleUrl": "https://cdn.21st.dev/ncdai/middle-truncation/default/bundle.1784705310203-5c5bd481-3b1f-4664-a449-49c1b2e17959.html",
+  "previewUrl": "https://cdn.21st.dev/ncdai/middle-truncation/default/preview.1784705310203-5c5bd481-3b1f-4664-a449-49c1b2e17959.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

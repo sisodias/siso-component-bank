@@ -1,0 +1,34 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "context-menu",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Right-click context menus for triggering actions like add to library or playlist",
+    "Desktop application-style action menus with keyboard navigation support",
+    "File or selection management menus in content management systems",
+    "Quick action overlays in productivity and media applications",
+    "Navigation shortcuts and bulk operations menus"
+  ],
+  "ai_summary": "A right-click context menu component built with Base UI that provides a floating overlay with menu items, separators, and hover highlight states. The component uses portal-based rendering for proper z-index management, supports dark mode styling, and includes smooth opacity transitions. Ideal for triggering contextual actions in SaaS dashboards, content editors, or file management interfaces.",
+  "_classifiedAt": "2026-04-23T11:32:15.147Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

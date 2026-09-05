@@ -1,0 +1,33 @@
+{
+  "category": "feedback",
+  "subcategory": "3D rotating cube loader with cycling status text",
+  "visual_style": [
+    "3d",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display loading state during data fetching operations",
+    "Show processing feedback during async workflows",
+    "Indicate status changes with animated cube and text transitions",
+    "Provide visual feedback during sync or update processes",
+    "Enhance user experience during background operations"
+  ],
+  "ai_summary": "A dynamic 3D cube loader component featuring CSS 3D transforms with continuous rotation and cycling status text that updates every 600ms. The cube displays different status messages like 'Fetching', 'Fixing', and 'Updating' with dynamically colored faces. Fully customizable through props for size, rotation speed, and text size, making it suitable for various loading scenarios across web applications.",
+  "_classifiedAt": "2026-04-22T09:04:57.863Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

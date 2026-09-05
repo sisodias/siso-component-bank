@@ -1,0 +1,35 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "user-avatars",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "social"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying user profile pictures in navigation headers and user menus",
+    "Showing user avatars in comment sections, reviews, or chat interfaces",
+    "Creating user lists in team management dashboards and member directories",
+    "Building social media user cards with circular profile images",
+    "Displaying speaker or author images in event and blog layouts"
+  ],
+  "ai_summary": "A collection of circular avatar components built on Radix UI Avatar primitives, designed to showcase user profile images with loading fallbacks. Features multiple sizes (24px to 64px) with lazy-loaded image fallback to initials, providing a clean and accessible user identity display suitable for any application requiring profile picture representation.",
+  "_classifiedAt": "2026-04-23T01:39:59.582Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

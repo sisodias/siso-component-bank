@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "statistics card with avatar and status indicators",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying user statistics with profile avatars and status in dashboard interfaces",
+    "Showing member activity metrics with online/offline presence indicators",
+    "Rendering profile information cards for user directories or team views",
+    "Presenting performance metrics with user attribution and status",
+    "Creating social platform user cards with activity indicators"
+  ],
+  "ai_summary": "A shadcn/ui-style statistics card component featuring Radix UI Avatar primitives with status indicators (online/offline/busy/away). Uses class-variance-authority for variant management and follows clean, minimalist design patterns. Supports image display with fallback initials, bordered containers, and customizable status dots. Ideal for SaaS dashboards, user profiles, and data-heavy interfaces requiring user attribution with presence indicators.",
+  "_classifiedAt": "2026-04-23T17:24:20.095Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

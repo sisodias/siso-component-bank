@@ -1,0 +1,27 @@
+{
+  "category": "data-display",
+  "subcategory": "status-badge",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying user account or subscription status in SaaS applications",
+    "Showing order or shipping status in e-commerce platforms",
+    "Indicating deployment or build status in dev tools dashboards",
+    "Representing notification or alert states in notification systems",
+    "Marking feature availability or tier labels in product interfaces"
+  ],
+  "ai_summary": "A lightweight, accessible status badge component with four style variants (default, secondary, destructive, outline) built using class-variance-authority. Features rounded pill design with hover state transitions and focus ring accessibility support. Designed as a reusable atomic component for displaying status indicators, labels, and categorical information across various interface contexts.",
+  "_classifiedAt": "2026-04-23T01:54:53.268Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

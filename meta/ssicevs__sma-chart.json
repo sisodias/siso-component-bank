@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ssicevs/components/sma-chart",
+  "author": "ssicevs",
+  "slug": "sma-chart",
+  "name": "sma-chart",
+  "description": "Moving-average chart: one price line with 60- and 200-period SMA overlays, right-edge price ticks, and a summary row underneath with a signed change chip. Light and dark via theme tokens.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ssicevs/sma-chart?api_key=$API_KEY_21ST\"",
+  "id": "ssicevs__sma-chart",
+  "bundleUrl": "https://cdn.21st.dev/ssicevs/sma-chart/default/bundle.1785373427807-809b724f-2d1e-4119-af2c-48f7b9e2d2b5.html",
+  "previewUrl": "https://cdn.21st.dev/ssicevs/sma-chart/default/preview.1785373427807-809b724f-2d1e-4119-af2c-48f7b9e2d2b5.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

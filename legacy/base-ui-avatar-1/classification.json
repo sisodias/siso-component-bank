@@ -1,0 +1,28 @@
+{
+  "category": "data-display",
+  "subcategory": "user-avatar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying user profile pictures in applications and dashboards",
+    "Showing fallback initials when user images fail to load",
+    "Representing users in comments, posts, and social feeds",
+    "Creating team member or contact list displays"
+  ],
+  "ai_summary": "A lightweight avatar component from Base UI that displays user profile images within circular containers. Features a clean, minimalist design with automatic fallback to initials when images are unavailable or loading. Supports scalable sizing and integrates seamlessly into user-centric interfaces across any industry.",
+  "_classifiedAt": "2026-04-23T11:32:10.002Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

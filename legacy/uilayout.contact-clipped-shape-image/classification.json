@@ -1,0 +1,31 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "image-gallery-clip-path",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "healthcare",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying team member portraits with artistic clipped shapes in professional profiles",
+    "Creating portfolio galleries with unique non-rectangular image frames",
+    "Building about pages with creatively shaped staff or service provider photos",
+    "Designing testimonials sections with stylized profile images",
+    "Showcasing products or services using distinctive clipped image displays"
+  ],
+  "ai_summary": "A media gallery component that renders images and videos within custom SVG clip paths, creating unique geometric shapes instead of standard rectangles. Features predefined clip paths with sophisticated bezier curve shapes for artistic image framing. Accepts customizable media items with type, source, and alt text props. Ideal for creative team showcases, portfolio sections, or anywhere non-traditional image shapes add visual interest.",
+  "_classifiedAt": "2026-04-23T17:37:12.344Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

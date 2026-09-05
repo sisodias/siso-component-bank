@@ -1,0 +1,32 @@
+{
+  "category": "media",
+  "subcategory": "text-flip-animation",
+  "visual_style": [
+    "gradient",
+    "colorful"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Animated hero headlines with letter-flip hover effects",
+    "Interactive navigation links with gradient text transitions",
+    "Landing page typography with staggered letter animations",
+    "Interactive text displays for creative portfolios",
+    "Engaging call-to-action text with hover reveals"
+  ],
+  "ai_summary": "A text animation component featuring letter-flip hover effects using framer-motion. The component renders individual characters that animate vertically on hover with staggered timing, creating a reveal effect. Features vibrant gradient text (indigo to pink), glass-morphism badge styling, dark mode support, and smooth easing transitions. Ideal for creating engaging hero headlines, animated navigation links, or interactive typography displays in landing pages and creative portfolios.",
+  "_classifiedAt": "2026-04-23T16:54:18.988Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

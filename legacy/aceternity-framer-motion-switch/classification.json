@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "toggle-switch",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "morph",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Toggle boolean settings in app preferences or user profiles",
+    "Enable/disable features like dark mode, notifications, or auto-save",
+    "Control binary states in forms such as accepting terms or subscribing to updates",
+    "Use as a styled checkbox alternative in modern UI designs",
+    "Interactive demo component for showcasing Framer Motion animation capabilities"
+  ],
+  "ai_summary": "A Framer Motion-powered toggle switch component with smooth animated transitions and inset shadow styling. The switch animates its position and slightly morphs its shape between states, featuring a cyan active state against a slate background. Part of the Aceternity UI component library, designed for modern SaaS and dev-tool interfaces.",
+  "_classifiedAt": "2026-04-22T08:50:55.565Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

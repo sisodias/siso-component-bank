@@ -1,0 +1,33 @@
+{
+  "id": "samsiavoshian2009__feedback-prompt",
+  "author": "samsiavoshian2009",
+  "slug": "feedback-prompt",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@samsiavoshian2009/components/feedback-prompt",
+  "fetchedAt": "2026-08-29T06:53:10.042Z",
+  "completedAt": "2026-08-29T06:53:11.921Z",
+  "versionedFilename": "code.1785187693383-cef71ea5-48a6-42a5-8d7c-ea88148fa491.tsx",
+  "codeReference": "r2://components-code-private/samsiavoshian2009/feedback-prompt/code.1785187693383-cef71ea5-48a6-42a5-8d7c-ea88148fa491.tsx",
+  "codeUrl": "https://cdn.21st.dev/samsiavoshian2009/feedback-prompt/code.1785187693383-cef71ea5-48a6-42a5-8d7c-ea88148fa491.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/samsiavoshian2009__feedback-prompt/code.tsx",
+    "bytes": 2341,
+    "sha256": "69cd7ca923acb1077a593d55172613d7343b864ab10e8bdfa7bbf53a549dd7eb",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

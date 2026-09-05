@@ -1,0 +1,31 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "flight-ticket",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Displaying flight booking confirmation details with passenger information",
+    "Creating travel itinerary summary cards for booking applications",
+    "Presenting boarding pass visual representations for airline apps",
+    "Building flight confirmation UIs for travel e-commerce platforms"
+  ],
+  "ai_summary": "A flight ticket card component that displays departure and arrival airport codes and names, formatted flight date and time, passenger names with types and baggage info, and a decorative barcode stub section. Built with Tailwind CSS and shadcn/ui design patterns, featuring framer-motion animations for smooth entrance effects. Uses a rounded card container with shadow and CSS variable theming for consistent styling across applications.",
+  "_classifiedAt": "2026-04-23T01:47:05.135Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

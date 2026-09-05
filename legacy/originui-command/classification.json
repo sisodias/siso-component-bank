@@ -1,0 +1,30 @@
+{
+  "category": "input",
+  "subcategory": "command-palette, search-menu, action-picker",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Quick command execution and navigation in productivity applications via keyboard shortcuts",
+    "Search and filter through large lists of options or commands in admin dashboards",
+    "Action palette for content management systems to trigger operations quickly",
+    "Universal search interface for finding pages, documents, or actions across applications",
+    "Command-driven interfaces for developer tools and code editors"
+  ],
+  "ai_summary": "A versatile command palette interface built on Radix UI Dialog and cmdk primitives, featuring search input with icon, grouped command items, and keyboard navigation support. The component uses a clean, minimalist aesthetic with Tailwind CSS utility classes, presenting as a floating dialog overlay for quick command execution and content search. Supports standard command palette patterns including filtering, grouping, and item selection across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T17:04:13.613Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

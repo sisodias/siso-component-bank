@@ -1,0 +1,36 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "success-toast-notification",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying success confirmation after completing actions like form submissions or file saves",
+    "Notifying users that a process completed successfully with optional dismiss functionality",
+    "Providing brief, non-blocking feedback within application workflows"
+  ],
+  "ai_summary": "A minimalist success toast notification component that displays a green checkmark icon with a title and description message. Features a close button with a subtle scale animation on click for dismissal. Built with clean Tailwind styling featuring a white background, gray text hierarchy, and thin border. Suitable for any SaaS or application requiring lightweight user feedback on successful operations.",
+  "_classifiedAt": "2026-04-22T09:04:03.850Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

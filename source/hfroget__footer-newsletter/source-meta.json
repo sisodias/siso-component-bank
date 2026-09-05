@@ -1,0 +1,26 @@
+{
+  "id": "hfroget__footer-newsletter",
+  "author": "hfroget",
+  "slug": "footer-newsletter",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@hfroget/components/footer-newsletter",
+  "fetchedAt": "2026-08-29T04:58:19.939Z",
+  "completedAt": "2026-08-29T04:58:22.090Z",
+  "versionedFilename": "code.1780695718077.tsx",
+  "codeReference": "r2://components-code-private/hfroget/footer-newsletter/code.1780695718077.tsx",
+  "codeUrl": "https://cdn.21st.dev/hfroget/footer-newsletter/code.1780695718077.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5526,
+  "sha256": "f6d753c3c1368e6fb5332d60db25538c225a7763073d277609c54d15734ae047",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

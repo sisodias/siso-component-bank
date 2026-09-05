@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@loading-ui/components/ripple",
+  "author": "loading-ui",
+  "slug": "ripple",
+  "name": "ripple",
+  "description": "An animated SVG ripple loading spinner with expanding concentric circles that fade out, ideal for indicating loading or pending states.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/loading-ui/ripple?api_key=$API_KEY_21ST\"",
+  "id": "loading-ui__ripple",
+  "bundleUrl": "https://cdn.21st.dev/loading-ui/ripple/default/bundle.1783512296544.html",
+  "previewUrl": "https://cdn.21st.dev/loading-ui/ripple/default/preview.1783578760432.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

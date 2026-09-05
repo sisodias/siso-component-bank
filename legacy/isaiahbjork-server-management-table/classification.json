@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "server-management-table",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display server status and health metrics in an infrastructure dashboard",
+    "Manage multiple virtual or dedicated servers from a centralized interface",
+    "Monitor CPU usage and operational status across a server fleet",
+    "Control server states (active/paused/inactive) with quick action buttons",
+    "Track server locations, IP addresses, and renewal due dates"
+  ],
+  "ai_summary": "A server management table component for displaying infrastructure data including server names, OS types (Windows/Linux/Ubuntu), geographic locations, IP addresses, CPU utilization metrics, and status indicators. Features interactive action buttons for controlling server states with smooth framer-motion animations and next-themes integration for dark/light mode support. Designed for DevOps dashboards and SaaS hosting control panels.",
+  "_classifiedAt": "2026-04-23T01:40:26.805Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

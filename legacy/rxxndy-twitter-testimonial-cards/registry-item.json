@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "rxxndy-twitter-testimonial-cards",
+  "type": "registry:ui",
+  "title": "Rxxndy Twitter Testimonial Cards",
+  "description": "Installed from https://21st.dev/r/rxxndy/twitter-testimonial-cards",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "rxxndy-twitter-testimonial-cards"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "twitter-testimonial-cards.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/rxxndy/twitter-testimonial-cards",
+    "fetchedAt": "2026-04-22T06:42:07.267Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

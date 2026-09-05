@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons in any application interface",
+    "Destructive action triggers with visual warning styling",
+    "Form submission and interactive controls",
+    "Navigation and link-style button variants",
+    "Icon-only buttons for compact UI toolbars"
+  ],
+  "ai_summary": "A flexible React button component built on Radix UI Slot and class-variance-authority, supporting 6 style variants (default, destructive, outline, secondary, ghost, link) and 4 sizes. Features accessible focus states, disabled handling, and shadow styling. Can render as native button or polymorphic via asChild prop for composing with other Radix primitives.",
+  "_classifiedAt": "2026-04-23T01:49:18.567Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

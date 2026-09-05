@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Primary call-to-action buttons in forms and landing pages",
+    "Destructive action buttons with confirmation states",
+    "Outline and ghost buttons for secondary UI actions",
+    "Icon-only buttons for compact toolbar interfaces",
+    "Keyboard-accessible interactive controls with focus states"
+  ],
+  "ai_summary": "A shadcn/ui-style Button component with CVA-powered variant system supporting default, destructive, outline, secondary, ghost, and link styles. Includes size variants (sm, default, lg, icon), Radix Slot composition via asChild prop, and full keyboard accessibility with focus-visible ring states. Uses Tailwind CSS with ring-offset-background theming for seamless design system integration.",
+  "_classifiedAt": "2026-04-22T08:55:43.629Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

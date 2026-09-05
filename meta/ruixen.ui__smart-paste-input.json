@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/smart-paste-input",
+  "author": "ruixen.ui",
+  "slug": "smart-paste-input",
+  "name": "smart-paste-input",
+  "description": "A chat composer that catches long pastes and files them away as an attachment card instead of flooding the input. Click the card to open a full editor — live character count, edit in place, then Save or Remove.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/smart-paste-input?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__smart-paste-input",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/smart-paste-input/default/bundle.1784121560632.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/smart-paste-input/default/preview.1784121560632.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

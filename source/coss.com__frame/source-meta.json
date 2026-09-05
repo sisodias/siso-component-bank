@@ -1,0 +1,26 @@
+{
+  "id": "coss.com__frame",
+  "author": "coss.com",
+  "slug": "frame",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@coss.com/components/frame",
+  "fetchedAt": "2026-08-29T04:02:29.680Z",
+  "completedAt": "2026-08-29T04:02:31.960Z",
+  "versionedFilename": "code.1774052131924.tsx",
+  "codeReference": "r2://components-code-private/coss.com/frame/code.1774052131924.tsx",
+  "codeUrl": "https://cdn.21st.dev/coss.com/frame/code.1774052131924.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/typescript",
+  "bytes": 1988,
+  "sha256": "906701bd833b52bac1d2b194de0e032a6a25e8af556fff6c092d147016a8fb94",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

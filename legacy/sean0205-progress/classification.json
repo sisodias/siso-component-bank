@@ -1,0 +1,30 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "progress indicator",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display file upload or download progress in applications",
+    "Show task completion percentage for workflows and onboarding",
+    "Indicate loading or buffering states during async operations",
+    "Present skill levels or proficiency metrics in profiles",
+    "Visualize data processing or analytics completion rates"
+  ],
+  "ai_summary": "A minimal progress indicator component with both linear bar and circular progress variants, built on Radix UI primitives. Supports customizable sizes, stroke widths, and styling through className props for flexible integration into any application requiring progress visualization.",
+  "_classifiedAt": "2026-04-23T17:23:26.620Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

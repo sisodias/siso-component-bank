@@ -1,0 +1,33 @@
+{
+  "id": "dhileepkumargm__cybernetic-grid-shader",
+  "author": "dhileepkumargm",
+  "slug": "cybernetic-grid-shader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dhileepkumargm/components/cybernetic-grid-shader",
+  "fetchedAt": "2026-08-29T04:27:52.454Z",
+  "completedAt": "2026-08-29T04:27:54.298Z",
+  "versionedFilename": "code.1785259602288-5e235834-ebf3-41b7-9d8f-63c62b456e4a.tsx",
+  "codeReference": "r2://components-code-private/dhileepkumargm/cybernetic-grid-shader/code.1785259602288-5e235834-ebf3-41b7-9d8f-63c62b456e4a.tsx",
+  "codeUrl": "https://cdn.21st.dev/dhileepkumargm/cybernetic-grid-shader/code.1785259602288-5e235834-ebf3-41b7-9d8f-63c62b456e4a.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/dhileepkumargm__cybernetic-grid-shader/code.tsx",
+    "bytes": 4488,
+    "sha256": "3c37ac21b092c906a5a8a75e5a834cb52a1e6351eaf0597b9ae943bdb890d548",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "minhxthanh-interactive-selector",
+  "type": "registry:ui",
+  "title": "Minhxthanh Interactive Selector",
+  "description": "Installed from https://21st.dev/r/minhxthanh/interactive-selector",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "minhxthanh-interactive-selector"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "interactive-selector.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "react-icons"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/minhxthanh/interactive-selector",
+    "fetchedAt": "2026-04-23T03:03:46.786Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

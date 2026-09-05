@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "deltacomponents-scramble-text",
+  "type": "registry:ui",
+  "title": "Deltacomponents Scramble Text",
+  "description": "Installed from https://21st.dev/r/deltacomponents/scramble-text",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "deltacomponents-scramble-text"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "scramble-text.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "use-scramble"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/deltacomponents/scramble-text",
+    "fetchedAt": "2026-04-23T01:18:14.961Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

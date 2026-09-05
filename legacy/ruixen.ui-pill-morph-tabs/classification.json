@@ -1,0 +1,33 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "animated-pill-tabs",
+  "visual_style": [
+    "glass-morphism",
+    "gradient"
+  ],
+  "interactions": [
+    "morph",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Navigation between sections in SaaS dashboards with animated tab transitions",
+    "Organizing product detail content in e-commerce with smooth pill morphing",
+    "Multi-step form or wizard navigation with visual feedback",
+    "Settings page tab organization with keyboard accessibility",
+    "Documentation or help center content organization"
+  ],
+  "ai_summary": "PillMorphTabs is an animated navigation component featuring a glassmorphism pill indicator that morphs between tab positions using framer-motion. Built on shadcn Tabs primitives for accessibility, it provides smooth transitions and keyboard navigation support. The component measures active trigger positions dynamically to animate the pill indicator, making it ideal for SaaS dashboards, e-commerce product pages, and documentation sites requiring polished tab navigation.",
+  "_classifiedAt": "2026-04-23T01:50:50.184Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

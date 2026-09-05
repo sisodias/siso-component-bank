@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "action-button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary action triggers in forms, dialogs, and call-to-action sections",
+    "Destructive actions like delete or cancel confirmations",
+    "Navigation and link-like interactions with ghost and link variants",
+    "Icon-only buttons for compact toolbars and tooltips",
+    "Secondary actions and alternative pathway controls"
+  ],
+  "ai_summary": "A versatile atomic button component with multiple variants and sizes using Radix UI Slot for composition and class-variance-authority for variant management. Supports default, destructive, outline, secondary, ghost, and link variants with small, default, large, and icon size options.",
+  "_classifiedAt": "2026-04-23T01:41:40.642Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

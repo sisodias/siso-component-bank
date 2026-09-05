@@ -1,0 +1,26 @@
+{
+  "id": "soralabs__custom-cursor",
+  "author": "soralabs",
+  "slug": "custom-cursor",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@soralabs/components/custom-cursor",
+  "fetchedAt": "2026-08-29T07:23:14.184Z",
+  "completedAt": "2026-08-29T07:23:16.315Z",
+  "versionedFilename": "code.1783519770833.tsx",
+  "codeReference": "r2://components-code-private/soralabs/custom-cursor/code.1783519770833.tsx",
+  "codeUrl": "https://cdn.21st.dev/soralabs/custom-cursor/code.1783519770833.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6372,
+  "sha256": "3a6b560e9ff6248f91e4934f497f1deb02689866b29ed687b4b41131a887decb",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

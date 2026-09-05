@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "voice-recording-button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "healthcare",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Voice-to-text transcription in SaaS applications",
+    "Voice command input for accessibility features",
+    "Audio recording trigger for podcast or note-taking tools",
+    "Speech-enabled form input for healthcare documentation"
+  ],
+  "ai_summary": "A voice recording button component integrated with ElevenLabs API that enables voice input functionality. Built on Radix UI primitives with CVA for variant styling, it provides click-to-toggle recording behavior for converting speech to text or audio capture. Suitable for applications requiring hands-free input or voice-enabled workflows.",
+  "_classifiedAt": "2026-04-22T08:58:45.157Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

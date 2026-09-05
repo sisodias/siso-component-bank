@@ -1,0 +1,26 @@
+{
+  "id": "brijr__call-to-action-1",
+  "author": "brijr",
+  "slug": "call-to-action-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@brijr/components/call-to-action-1",
+  "fetchedAt": "2026-08-29T03:51:09.335Z",
+  "completedAt": "2026-08-29T03:51:11.558Z",
+  "versionedFilename": "code.1757993953158.tsx",
+  "codeReference": "r2://components-code-private/larsen66/call-to-action-1/code.1757993953158.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/call-to-action-1/code.1757993953158.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1662,
+  "sha256": "23421aa73a82f1453500bcf9b88aaf4e34d2e73875ba73bca1d098d3b108b85c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,35 @@
+{
+  "category": "hero",
+  "subcategory": "3d-animated-hero-section",
+  "visual_style": [
+    "gradient",
+    "3d",
+    "colorful"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero section with animated comet-like visual effects as background",
+    "SaaS product hero with 3D perspective animated circles",
+    "Decorative animated background for marketing pages",
+    "Eye-catching hero element for tech startup websites",
+    "Visual centerpiece for digital product showcases"
+  ],
+  "ai_summary": "A visually striking hero component featuring multiple animated concentric circles with 3D perspective transforms. Uses teal and orange gradient color schemes with continuous SVG stroke-dashoffset animations creating a dynamic comet-like effect. The circles are positioned with CSS 3D transforms (rotateX, rotateY, rotateZ) and perspective to create depth. Fully responsive design suitable for landing pages and product showcases across various industries.",
+  "_classifiedAt": "2026-04-22T09:18:31.031Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

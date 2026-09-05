@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "social-button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons for social media interfaces",
+    "Social sharing triggers for content platforms",
+    "Form submission and confirmation actions",
+    "Navigation action triggers with multiple visual variants",
+    "Accessible button components with keyboard navigation support"
+  ],
+  "ai_summary": "A shadcn/ui-style atomic button component with configurable variants (default, destructive, outline, secondary, ghost, link) and sizes. Supports composition via Radix UI Slot with asChild prop for flexible rendering. Follows Tailwind CSS utility patterns with ring-based focus states for accessibility. Designed as a reusable input component for social media and content-sharing interfaces.",
+  "_classifiedAt": "2026-04-22T09:15:30.714Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

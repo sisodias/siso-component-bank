@@ -1,0 +1,26 @@
+{
+  "id": "abishek1512__button-1",
+  "author": "abishek1512",
+  "slug": "button-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@abishek1512/components/button-1",
+  "fetchedAt": "2026-08-29T03:26:59.810Z",
+  "completedAt": "2026-08-29T03:27:01.988Z",
+  "versionedFilename": "code.1747165655381.tsx",
+  "codeReference": "r2://components-code-private/abishek1512/button-1/code.1747165655381.tsx",
+  "codeUrl": "https://cdn.21st.dev/abishek1512/button-1/code.1747165655381.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1713,
+  "sha256": "09ea95cd8ceddf2d7fac072fabffe6d318c99400f92551d3d198c2904e3aee84",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

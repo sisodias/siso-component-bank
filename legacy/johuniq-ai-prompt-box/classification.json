@@ -1,0 +1,37 @@
+{
+  "category": "input",
+  "subcategory": "AI prompt input box with multi-modal support",
+  "visual_style": [
+    "dark",
+    "minimalist",
+    "glass-morphism"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "ai",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "AI chatbot message composition with text and file attachments",
+    "Prompt-based AI assistant input interfaces for SaaS applications",
+    "Multi-modal input for conversational AI tools with language selection",
+    "Developer tools with integrated AI prompt capabilities",
+    "Content creation platforms requiring AI text generation inputs"
+  ],
+  "ai_summary": "A dark-themed AI prompt input box component featuring a textarea with auto-resize, multiple action buttons for file attachments, microphone, language selection, and AI settings, all protected by tooltips. Built with Framer Motion for smooth animations, Radix UI primitives for accessibility, and Lucide icons. Supports multi-modal input with clean, minimalist styling optimized for AI-powered applications and developer tools.",
+  "_classifiedAt": "2026-04-22T09:01:20.331Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:33:33.173Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

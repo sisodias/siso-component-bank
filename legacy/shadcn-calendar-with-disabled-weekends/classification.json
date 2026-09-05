@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary action triggers in forms and dialogs across web applications",
+    "Submit buttons for user input collection workflows",
+    "Navigation action triggers with icon or text labels",
+    "Destructive action confirmation buttons with visual warning states",
+    "Ghost-style secondary actions for tertiary UI pathways"
+  ],
+  "ai_summary": "Shadcn/ui Button component with CVA (class-variance-authority) powered variant system supporting default, destructive, outline, secondary, ghost, and link styles. Includes size variants (default, sm, lg, icon) and asChild pattern via Radix UI Slot for polymorphic rendering. Clean Tailwind-based styling with focus states, disabled states, and shadow accents. This is a foundational atomic component commonly used across all shadcn-based projects for user interaction triggering.",
+  "_classifiedAt": "2026-04-23T17:26:19.171Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "originui__calendar-rac",
+  "author": "originui",
+  "slug": "calendar-rac",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@originui/components/calendar-rac",
+  "fetchedAt": "2026-08-29T06:00:52.537Z",
+  "completedAt": "2026-08-29T06:00:53.416Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/originui__calendar-rac/code.tsx",
+    "bytes": 5150,
+    "sha256": "e9ff3434b3459df7a0a7ac45d2d52a7672f44498f9c7bf5d93ef60c45e421ce9",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

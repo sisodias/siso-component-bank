@@ -1,0 +1,33 @@
+{
+  "category": "data-display",
+  "subcategory": "badge, status indicator, label tag",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying status indicators on data tables and cards",
+    "Showing category labels or tags with semantic colors",
+    "Indicating notification counts or alert states",
+    "Visual distinction between different item types in lists",
+    "Providing disabled state feedback on interactive elements"
+  ],
+  "ai_summary": "A versatile badge/status indicator component with multiple semantic variants (primary, secondary, success, warning, info, destructive, outline) and appearance styles (default, light, ghost). Features three sizes (lg, md, sm), disabled state handling, and Radix Slot primitive for composition. Built with class-variance-authority for consistent styling across variants, following shadcn/ui patterns.",
+  "_classifiedAt": "2026-04-23T17:24:36.652Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "checkbox",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Form selection and agreement checkboxes for user consent and terms acceptance",
+    "Multi-select filtering interfaces for e-commerce product filters",
+    "Task completion toggles in productivity and project management tools",
+    "Settings toggles in SaaS dashboard configurations",
+    "Indeterminate state for nested checkbox trees with partial selection"
+  ],
+  "ai_summary": "A clean, accessible checkbox component built on Radix UI primitives with support for three states (unchecked, checked, indeterminate) and three size variants. Features proper keyboard navigation, focus management, and dark mode compatibility through CSS custom properties. Designed as a reusable atomic input component that integrates seamlessly with form systems.",
+  "_classifiedAt": "2026-04-23T17:22:20.947Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

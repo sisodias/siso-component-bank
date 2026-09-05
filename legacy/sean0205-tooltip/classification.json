@@ -1,0 +1,33 @@
+{
+  "category": "input",
+  "subcategory": "action-button",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education",
+    "media",
+    "real-estate",
+    "creator-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Triggers form submissions with customizable visual feedback",
+    "Provides primary and secondary call-to-action buttons for web applications",
+    "Creates interactive icon buttons with Lucide icon support",
+    "Implements accessible dropdown or expandable menu triggers with keyboard navigation",
+    "Serves as a versatile button system for building complex UI components like dialogs and tooltips"
+  ],
+  "ai_summary": "A versatile, accessibility-focused button component with 10 visual variants (primary, mono, destructive, secondary, outline, dashed, ghost, dim, foreground, inverse) using class-variance-authority. Supports disabled, focus-visible, and open states with configurable hover effects and icon integration via Lucide icons. Built with Radix UI Slot for composition flexibility, suitable for SaaS, fintech, e-commerce, and general web application interfaces.",
+  "_classifiedAt": "2026-04-23T17:24:52.025Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

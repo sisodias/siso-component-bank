@@ -1,0 +1,26 @@
+{
+  "id": "ravikatiyar162__bento-gallery",
+  "author": "ravikatiyar162",
+  "slug": "bento-gallery",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ravikatiyar162/components/bento-gallery",
+  "fetchedAt": "2026-08-29T06:20:37.078Z",
+  "completedAt": "2026-08-29T06:20:39.391Z",
+  "versionedFilename": "code.1758349266607.tsx",
+  "codeReference": "r2://components-code-private/ravikatiyar162/bento-gallery/code.1758349266607.tsx",
+  "codeUrl": "https://cdn.21st.dev/ravikatiyar162/bento-gallery/code.1758349266607.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6612,
+  "sha256": "f8447477d843f060aaa0c0df585f5be48f823c7a89208b818f2d54bfdc7cc0d5",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

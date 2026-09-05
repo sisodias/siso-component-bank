@@ -1,0 +1,26 @@
+{
+  "id": "ruhith369__two-step-verification",
+  "author": "ruhith369",
+  "slug": "two-step-verification",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruhith369/components/two-step-verification",
+  "fetchedAt": "2026-08-29T06:38:22.862Z",
+  "completedAt": "2026-08-29T06:38:25.324Z",
+  "versionedFilename": "code.1761988130115.tsx",
+  "codeReference": "r2://components-code-private/ruhith369/two-step-verification/code.1761988130115.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruhith369/two-step-verification/code.1761988130115.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4514,
+  "sha256": "9ecaa84069eca39a4bc817927ee13bcc0b748401d5ea0d9af76c9d6a73c64e87",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

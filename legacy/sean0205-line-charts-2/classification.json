@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "user-avatar",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "social"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display user profile pictures in dashboards and admin panels",
+    "Show user avatars in comment sections and discussion threads",
+    "Display participant avatars in video calls and chat interfaces",
+    "Show user online/offline status indicators in friend lists",
+    "Display avatars in notification dropdowns and user menus"
+  ],
+  "ai_summary": "A composite avatar component built with Radix UI primitives and Tailwind CSS featuring Avatar, AvatarImage, AvatarFallback, AvatarIndicator, and AvatarStatus sub-components. The AvatarStatus supports variants for online (green), offline (gray), busy (yellow), and away (blue) states. Built with class-variance-authority for flexible variant handling and uses a cn utility for class merging. Suitable for social applications, dashboards, and communication interfaces requiring user representation with status indicators.",
+  "_classifiedAt": "2026-04-23T17:22:57.240Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

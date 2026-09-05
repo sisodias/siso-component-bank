@@ -1,0 +1,29 @@
+{
+  "category": "hero",
+  "subcategory": "shuffle-image-grid-hero",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "education",
+    "media",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero section with interactive image grid showcase",
+    "Product or service introduction sections for websites",
+    "Course or class selection landing pages with visual appeal",
+    "Portfolio or media gallery entry points with shuffle animations",
+    "Interactive hero sections for creative or fitness platforms"
+  ],
+  "ai_summary": "A hero section component featuring a responsive two-column layout with a shuffle animation effect on an Unsplash image grid. Built with Framer Motion for smooth animations, it includes headline text, descriptive copy, and a CTA button. The images randomly rearrange using a Fisher-Yates shuffle algorithm, creating an engaging visual effect suitable for landing pages and product showcases.",
+  "_classifiedAt": "2026-04-23T17:40:36.686Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,29 @@
+{
+  "category": "data-display",
+  "subcategory": "step-process-bar-chart",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Visualizing multi-step onboarding or wizard processes in SaaS applications",
+    "Displaying growth metrics or progression data in dashboards",
+    "Showing process pipelines or workflow stages in project management tools",
+    "Illustrating educational course progression or learning paths",
+    "Creating visual hierarchies in landing page sections to guide user attention"
+  ],
+  "ai_summary": "An animated process visualization component displaying 5 ascending bar pillars with gradient styling and scroll-triggered animations. Each pillar represents a step in a process, growing from bottom to top on viewport entry with staggered delays. The component features a clean minimalist design with blue gradient fills, subtle borders, and responsive layout. Ideal for SaaS landing pages, onboarding flows, or dashboard visualizations showing process completion or growth metrics.",
+  "_classifiedAt": "2026-04-23T11:30:21.481Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

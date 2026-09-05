@@ -1,0 +1,26 @@
+{
+  "id": "meghtrix__background-components",
+  "author": "meghtrix",
+  "slug": "background-components",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@meghtrix/components/background-components",
+  "fetchedAt": "2026-08-29T05:39:56.837Z",
+  "completedAt": "2026-08-29T05:39:58.833Z",
+  "versionedFilename": "code.1758000383198.tsx",
+  "codeReference": "r2://components-code-private/larsen66/background-components/code.1758000383198.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/background-components/code.1758000383198.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 519,
+  "sha256": "c36b9d96b21556560639166883c1be9c0adca0522e5de21e4677e74aba16278a",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

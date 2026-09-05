@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "shailendrakumar19999-tree-folder-structure",
+  "type": "registry:ui",
+  "title": "Shailendrakumar19999 Tree Folder Structure",
+  "description": "Installed from https://21st.dev/r/shailendrakumar19999/tree-folder-structure",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "shailendrakumar19999-tree-folder-structure"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "tree-folder-structure.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@chakra-ui/react",
+    "react-icons"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/shailendrakumar19999/tree-folder-structure",
+    "fetchedAt": "2026-04-23T01:18:28.111Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/pill-calendar",
+  "author": "ruixen.ui",
+  "slug": "pill-calendar",
+  "name": "pill-calendar",
+  "description": "The CalendarCard component is a shadcn-styled calendar variant that provides a clean, modern way to pick single dates or ranges. Unlike the standard flat grid design, this component is wrapped inside a subtle card with borders and shadow, giving it a distinct visual hierarchy on the page. Days are displayed in pill-shaped cells, making selections look lighter and more elegant, while the current date is emphasized with a thin primary-colored ring. It supports both single-date and range selection modes, with smooth hover, focus, and disabled states built in. Designed with accessibility through react-aria-components, the CalendarCard integrates seamlessly into shadcn UI projects and can be easily extended with theming, dark mode, or dropdown month/year selectors. This makes it a versatile choice for forms, dashboards, and scheduling interfaces where a compact yet visually appealing calendar is needed.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/pill-calendar?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__pill-calendar",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/pill-calendar/default/bundle.1758923532910.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/pill-calendar/default/preview.1758923532909.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 26,
+  "demo_id": 8198,
+  "video_url": "https://cdn.21st.dev/user_2y5Wd5l713ZIFYjX19aZXSyXd6b/pill-calendar/default/video.1786537802541.mp4"
+}

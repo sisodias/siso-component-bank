@@ -1,0 +1,31 @@
+{
+  "category": "input",
+  "subcategory": "file-upload-drag-drop",
+  "visual_style": [],
+  "interactions": [
+    "drag",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Image and document uploads with drag-and-drop support",
+    "File type and size validation before upload",
+    "Image preview generation for visual confirmation",
+    "Upload progress tracking for large files",
+    "Form submissions requiring file attachments"
+  ],
+  "ai_summary": "A file upload input component with drag-and-drop functionality, supporting image preview generation, file validation (size and type constraints), upload progress tracking, and clear/reset capabilities. Built with a custom hook for reusable file input logic and Lucide icons for visual feedback.",
+  "_classifiedAt": "2026-04-23T17:20:58.080Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

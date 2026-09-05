@@ -1,0 +1,26 @@
+{
+  "id": "dillionverma__confetti",
+  "author": "dillionverma",
+  "slug": "confetti",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dillionverma/components/confetti",
+  "fetchedAt": "2026-08-29T04:35:10.943Z",
+  "completedAt": "2026-08-29T04:35:13.248Z",
+  "versionedFilename": "code.1741609025356.tsx",
+  "codeReference": "r2://components-code-private/user_magicui/confetti/code.1741609025356.tsx",
+  "codeUrl": "https://cdn.21st.dev/user_magicui/confetti/code.1741609025356.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3100,
+  "sha256": "85ab7f27f50fa6caa13978e931f03e6c756b320e91caa0e40a099249fc1adffc",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

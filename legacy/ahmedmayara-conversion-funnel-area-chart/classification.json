@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "badge-label",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display category or status labels on content items",
+    "Show count badges on navigation items or cards",
+    "Highlight important information with color-coded variants",
+    "Tag content for filtering or organization",
+    "Indicate destructive actions with destructive variant"
+  ],
+  "ai_summary": "A reusable Badge component with CVA-based variants for displaying labels, tags, or status indicators. Supports default, secondary, destructive, and outline visual styles with hover state transitions. Commonly used in dashboards, cards, and navigation patterns for categorizing content.",
+  "_classifiedAt": "2026-04-23T01:35:29.768Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

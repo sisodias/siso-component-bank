@@ -1,0 +1,31 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "funnel-chart",
+  "visual_style": [
+    "gradient",
+    "colorful"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Visualizing security incident response flow from events to resolution",
+    "Monitoring conversion funnels in SaaS applications",
+    "Analyzing user journey stages with layered data representation",
+    "Tracking alert-to-escalation pipelines in DevOps monitoring tools",
+    "Displaying quantitative data breakdowns with categorical hierarchy"
+  ],
+  "ai_summary": "A layered funnel chart component from Reaviz that visualizes quantitative data through stacked, semi-transparent funnel layers. The component renders an incident report style visualization with a pink/magenta color scheme, tooltips, and styled shadows. It displays categorical data points (All Events, Alerts Triggered, Incidents Created, Escalated, Resolved) in a vertical funnel format with graduated opacity layers for visual depth. Built as a composite data visualization using reaviz primitives including FunnelChart, FunnelSeries, and FunnelArc with layered variant.",
+  "_classifiedAt": "2026-04-23T17:15:34.158Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

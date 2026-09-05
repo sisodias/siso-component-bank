@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "zochory-prompt-input-dynamic-grow",
+  "type": "registry:ui",
+  "title": "Zochory Prompt Input Dynamic Grow",
+  "description": "Installed from https://21st.dev/r/zochory/prompt-input-dynamic-grow",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "zochory-prompt-input-dynamic-grow"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "prompt-input-dynamic-grow.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "figma:react",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/zochory/prompt-input-dynamic-grow",
+    "fetchedAt": "2026-04-22T06:43:31.563Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

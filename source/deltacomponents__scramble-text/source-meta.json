@@ -1,0 +1,26 @@
+{
+  "id": "deltacomponents__scramble-text",
+  "author": "deltacomponents",
+  "slug": "scramble-text",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@deltacomponents/components/scramble-text",
+  "fetchedAt": "2026-08-29T04:15:49.541Z",
+  "completedAt": "2026-08-29T04:15:52.607Z",
+  "versionedFilename": "code.1756874182537.tsx",
+  "codeReference": "r2://components-code-private/larsen66/scramble-text/code.1756874182537.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/scramble-text/code.1756874182537.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4029,
+  "sha256": "ae7ca012e9b770feb814d1ade2b52bc7fc292064789830fed6f0aa87eb3bada4",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

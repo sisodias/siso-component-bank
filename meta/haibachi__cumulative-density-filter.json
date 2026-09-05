@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@haibachi/components/cumulative-density-filter",
+  "author": "haibachi",
+  "slug": "cumulative-density-filter",
+  "name": "cumulative-density-filter",
+  "description": "A cumulative density filter which allows viewing the number of a certain metric which is selected when varying the equality operator. Supports log transform.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/haibachi/cumulative-density-filter?api_key=$API_KEY_21ST\"",
+  "id": "haibachi__cumulative-density-filter",
+  "bundleUrl": "https://cdn.21st.dev/haibachi/cumulative-density-filter/default/bundle.1761908529017.html",
+  "previewUrl": "https://cdn.21st.dev/haibachi/cumulative-density-filter/default/preview.1761908529016.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

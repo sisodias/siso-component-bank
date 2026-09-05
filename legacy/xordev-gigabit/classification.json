@@ -1,0 +1,33 @@
+{
+  "category": [
+    "other"
+  ],
+  "subcategory": "webgl-shader-canvas",
+  "visual_style": [
+    "3d",
+    "colorful"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Full-screen hero background for landing pages",
+    "Animated visual showcase on portfolio or creative sites",
+    "Standalone generative art component for interactive installations",
+    "Loading or transition screen visual effect"
+  ],
+  "ai_summary": "A WebGL raymarching shader that renders an abstract rotating 3D visual effect with colorful cosine-based coloring. Uses time-driven animation and vector math to create pulsing geometric patterns with a rotating axis. Self-contained component with full-screen canvas rendering and no user interactions beyond continuous animation.",
+  "_classifiedAt": "2026-04-23T01:55:26.474Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

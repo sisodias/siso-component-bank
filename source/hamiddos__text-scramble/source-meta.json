@@ -1,0 +1,26 @@
+{
+  "id": "hamiddos__text-scramble",
+  "author": "hamiddos",
+  "slug": "text-scramble",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@hamiddos/components/text-scramble",
+  "fetchedAt": "2026-08-29T04:53:52.219Z",
+  "completedAt": "2026-08-29T04:53:54.374Z",
+  "versionedFilename": "code.1765217750095.tsx",
+  "codeReference": "r2://components-code-private/addstegeman/text-scramble/code.1765217750095.tsx",
+  "codeUrl": "https://cdn.21st.dev/addstegeman/text-scramble/code.1765217750095.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 859,
+  "sha256": "f96c66d3883a978fdfaac7cb79bfbefb3734b76a8575293dc97545fa066671d8",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

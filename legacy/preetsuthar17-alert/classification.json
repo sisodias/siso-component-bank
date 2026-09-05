@@ -1,0 +1,32 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "alert-notification",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying error messages with destructive styling for form validation",
+    "Showing success confirmations after user actions like purchases or submissions",
+    "Presenting warning messages for important user attention without blocking actions",
+    "Delivering informational notifications with optional icon support",
+    "Rendering dismissible alerts that animate out after user interaction"
+  ],
+  "ai_summary": "A versatile alert component with multiple semantic variants (default, destructive, warning, success, info) supporting custom icons, dismissible behavior with smooth exit animations via motion/react, and full dark mode compatibility. Built with CSS variables and class-variance-authority for theming consistency across applications.",
+  "_classifiedAt": "2026-04-23T17:06:37.159Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

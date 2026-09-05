@@ -1,0 +1,26 @@
+{
+  "category": "layout",
+  "subcategory": "divider",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Separating content sections in forms, cards, or page layouts",
+    "Creating visual hierarchy by dividing navigation items or menu options",
+    "Dividing pricing tiers in pricing tables",
+    "Separating data display sections or dashboard widgets",
+    "Adding whitespace and visual breathing room between content blocks"
+  ],
+  "ai_summary": "A lightweight, accessible separator component built on Radix UI primitives for creating horizontal or vertical visual dividers between content sections. Supports both horizontal and vertical orientations with configurable styling through Tailwind classes. Commonly used as a layout utility for organizing UI sections with clean visual separation.",
+  "_classifiedAt": "2026-04-22T09:14:12.780Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

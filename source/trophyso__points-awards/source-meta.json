@@ -1,0 +1,26 @@
+{
+  "id": "trophyso__points-awards",
+  "author": "trophyso",
+  "slug": "points-awards",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@trophyso/components/points-awards",
+  "fetchedAt": "2026-08-29T07:40:36.607Z",
+  "completedAt": "2026-08-29T07:40:38.450Z",
+  "versionedFilename": "code.1779985994950.tsx",
+  "codeReference": "r2://components-code-private/larsen66/points-awards/code.1779985994950.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/points-awards/code.1779985994950.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5815,
+  "sha256": "25588950b03313c44a413273316f87b2a8afd68d00dff7eaf0f00d3529573733",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

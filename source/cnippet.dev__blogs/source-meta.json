@@ -1,0 +1,26 @@
+{
+  "id": "cnippet.dev__blogs",
+  "author": "cnippet.dev",
+  "slug": "blogs",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@cnippet.dev/components/blogs",
+  "fetchedAt": "2026-08-29T03:55:27.120Z",
+  "completedAt": "2026-08-29T03:55:29.633Z",
+  "versionedFilename": "code.1770965163412.tsx",
+  "codeReference": "r2://components-code-private/cnippet.dev/blogs/code.1770965163412.tsx",
+  "codeUrl": "https://cdn.21st.dev/cnippet.dev/blogs/code.1770965163412.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4975,
+  "sha256": "2cdb324d87c4c39668a94a46c51565ac52bd16b487fcac4642e4837ba4b7e34e",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

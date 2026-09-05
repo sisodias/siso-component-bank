@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "stacked-activity-cards",
+  "visual_style": [
+    "flat",
+    "colorful"
+  ],
+  "interactions": [
+    "click-reveal",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying user activity history in fitness or travel applications with a stacked card layout",
+    "Showing timeline of past experiences with expandable/collapsible card sections",
+    "Creating an interactive activity feed with visual color-coded cards",
+    "Building a compact card gallery that toggles between summary and full view",
+    "Organizing multiple activity entries with hierarchical visual stacking"
+  ],
+  "ai_summary": "A stacked activity card component that displays multiple activity entries in an overlapping card layout. Features a toggle button to show/hide all cards and uses colored blocks to differentiate activities. The component supports expand/collapse interaction with visual hover states, making it suitable for displaying user activity history, travel experiences, or event timelines in a visually engaging card format.",
+  "_classifiedAt": "2026-04-23T17:33:08.122Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

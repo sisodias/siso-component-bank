@@ -1,0 +1,26 @@
+{
+  "id": "intentui__keyboard",
+  "author": "intentui",
+  "slug": "keyboard",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@intentui/components/keyboard",
+  "fetchedAt": "2026-08-29T05:01:02.923Z",
+  "completedAt": "2026-08-29T05:01:05.127Z",
+  "versionedFilename": "code.1784753867817-6a69448f-f2b1-46e7-8299-f1d4fb6f2a46.tsx",
+  "codeReference": "r2://components-code-private/intentui/keyboard/code.1784753867817-6a69448f-f2b1-46e7-8299-f1d4fb6f2a46.tsx",
+  "codeUrl": "https://cdn.21st.dev/intentui/keyboard/code.1784753867817-6a69448f-f2b1-46e7-8299-f1d4fb6f2a46.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

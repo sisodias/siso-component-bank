@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "interactive-3d-globe-with-location-markers",
+  "visual_style": [
+    "3d",
+    "gradient",
+    "colorful"
+  ],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying global user locations or distribution metrics on a 3D world map",
+    "Creating interactive location-based landing page visuals for travel brands",
+    "Showing office locations or branch distribution for enterprise dashboards",
+    "Adding engaging interactive elements to analytics or marketing pages",
+    "Visualizing global event data or travel routes with emoji markers"
+  ],
+  "ai_summary": "An interactive 3D globe component that displays emoji stickers at geographic coordinates using the COBE WebGL library. The globe features smooth auto-rotation with configurable speed and supports drag-to-rotate interactions via pointer events. Users can customize markers with custom emojis and locations, making it ideal for visualizing global data, location metrics, or adding engaging interactive elements to landing pages and dashboards.",
+  "_classifiedAt": "2026-04-22T09:16:57.235Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,28 @@
+{
+  "category": "data-display",
+  "subcategory": "faq-tabs",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying product FAQs organized by category tabs for easy navigation",
+    "Building help center and support documentation pages",
+    "Creating collapsible FAQ sections with animated expand/collapse",
+    "Organizing company policies and guidelines by topic"
+  ],
+  "ai_summary": "A reusable FAQ component with category-based tab filtering and animated accordion-style question expansion. Features a gradient header, category tabs with hover states, and smooth Framer Motion transitions. Fully customizable with props for title, subtitle, categories, and FAQ data.",
+  "_classifiedAt": "2026-04-23T17:41:04.940Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

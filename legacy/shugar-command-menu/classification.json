@@ -1,0 +1,30 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Primary actions like form submissions and confirmations",
+    "Secondary actions in toolbars and card footers",
+    "Icon-only buttons for compact UI spaces",
+    "Loading states during async operations",
+    "Disabled states for incomplete workflows"
+  ],
+  "ai_summary": "A versatile React button component with multiple size variants (tiny to large), type variants (primary, secondary, tertiary, error, warning), and shape options (square, circle, rounded). Features support for prefix/suffix icons, loading spinners, shadows, and full-width layouts. Styled with Tailwind CSS using a dark minimalist aesthetic.",
+  "_classifiedAt": "2026-04-23T17:29:54.210Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

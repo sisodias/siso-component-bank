@@ -1,0 +1,27 @@
+{
+  "category": "card",
+  "subcategory": "product-showcase",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "legal-services"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying SaaS product features with animated card interactions",
+    "Showcasing business services with image and call-to-action reveal",
+    "Creating interactive product cards for service landing pages"
+  ],
+  "ai_summary": "An interactive product card component with sophisticated hover animations featuring a shoe product image, gradient overlay reveal, and animated CTA link. The card supports dark mode and includes multiple coordinated transitions including height changes, opacity fades, and translate animations for a polished micro-interaction experience.",
+  "_classifiedAt": "2026-04-23T17:36:58.472Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

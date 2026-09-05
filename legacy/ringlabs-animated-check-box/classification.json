@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "checkbox",
+  "visual_style": [
+    "dark"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Form selection interfaces where users need to confirm or select multiple options with visual feedback",
+    "Task management UIs requiring completion toggles with animated state changes",
+    "Settings panels needing toggle switches for feature enablement/disablement",
+    "E-commerce checkout flows for agreement confirmations",
+    "Onboarding flows with step completion indicators"
+  ],
+  "ai_summary": "A neon-styled animated checkbox component featuring a glowing border effect when checked, with smooth CSS transitions and an SVG checkmark animation. Supports both controlled and uncontrolled modes, customizable via CSS variables for primary color theming. The component renders a dark background with neon glow effects on the border and checkmark, creating a cyberpunk/tech aesthetic suitable for modern SaaS interfaces.",
+  "_classifiedAt": "2026-04-23T17:17:01.807Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

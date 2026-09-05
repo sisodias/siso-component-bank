@@ -1,0 +1,26 @@
+{
+  "id": "theutkarshmail__pacman-loader",
+  "author": "theutkarshmail",
+  "slug": "pacman-loader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theutkarshmail/components/pacman-loader",
+  "fetchedAt": "2026-08-29T07:37:21.881Z",
+  "completedAt": "2026-08-29T07:37:24.251Z",
+  "versionedFilename": "code.1755115946033.tsx",
+  "codeReference": "r2://components-code-private/theutkarshmail/pacman-loader/code.1755115946033.tsx",
+  "codeUrl": "https://cdn.21st.dev/theutkarshmail/pacman-loader/code.1755115946033.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1049,
+  "sha256": "cec32c0a13f1e2eaf7bafd1ef0541fa7e48107fe1770f79efeebabcbfe8ce474",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

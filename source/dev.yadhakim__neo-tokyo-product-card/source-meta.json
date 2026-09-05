@@ -1,0 +1,26 @@
+{
+  "id": "dev.yadhakim__neo-tokyo-product-card",
+  "author": "dev.yadhakim",
+  "slug": "neo-tokyo-product-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dev.yadhakim/components/neo-tokyo-product-card",
+  "fetchedAt": "2026-08-29T04:23:59.607Z",
+  "completedAt": "2026-08-29T04:24:01.551Z",
+  "versionedFilename": "code.1770758185767.tsx",
+  "codeReference": "r2://components-code-private/dev.yadhakim/neo-tokyo-product-card/code.1770758185767.tsx",
+  "codeUrl": "https://cdn.21st.dev/dev.yadhakim/neo-tokyo-product-card/code.1770758185767.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 8722,
+  "sha256": "8cec9358f93d1182502f46eb50f5805eddaa4cfa39f96eff1e2a21803ce41a4f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

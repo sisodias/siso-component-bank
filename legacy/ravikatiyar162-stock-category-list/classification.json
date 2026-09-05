@@ -1,0 +1,28 @@
+{
+  "category": "navigation",
+  "subcategory": "accordion-category-list",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "e-commerce",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying hierarchical stock categories in financial dashboards with expandable sections",
+    "Organizing product or inventory categories in e-commerce admin panels",
+    "Creating collapsible navigation menus in data-heavy applications",
+    "Grouping related data sections in listing interfaces with expand/collapse functionality",
+    "Building filterable category UIs for stock screening or product catalogs"
+  ],
+  "ai_summary": "A Radix UI-based accordion component designed for displaying stock categories in a collapsible list format. Built with clean Tailwind styling and smooth open/close animations, it serves as a navigation element for organizing hierarchical content in dashboards and data-driven applications. Best suited for fintech platforms and e-commerce systems requiring expandable category filters.",
+  "_classifiedAt": "2026-04-23T01:48:11.184Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

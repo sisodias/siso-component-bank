@@ -1,0 +1,30 @@
+{
+  "category": "layout",
+  "subcategory": "3D interactive container with mouse-tracking tilt",
+  "visual_style": [],
+  "interactions": [
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creating interactive 3D product cards that tilt based on cursor position",
+    "Building engaging hero sections with depth and perspective effects",
+    "Designing premium-feeling UI elements with smooth spring physics animations",
+    "Adding visual depth to cards and containers on e-commerce product showcases",
+    "Enhancing landing page elements with responsive 3D transforms"
+  ],
+  "ai_summary": "A flexible 3D wrapper component that creates an interactive perspective effect by tracking mouse movement and applying rotateX/rotateY transforms with spring physics. Uses Framer Motion's useSpring and useMotionTemplate for smooth, configurable animations. Wraps any child content and applies configurable 3D perspective with customizable damping, mass, and transform parameters. The component includes an initial entrance animation and automatically resets on mouse leave.",
+  "_classifiedAt": "2026-04-23T11:31:31.460Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

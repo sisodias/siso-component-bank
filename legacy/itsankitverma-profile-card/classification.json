@@ -1,0 +1,32 @@
+{
+  "category": "input",
+  "subcategory": "button-component",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action triggers in forms such as submitting data or confirming selections.",
+    "Navigation actions like opening modals, dialogs, or navigating between pages.",
+    "Toggle states for enabling or disabling features within application settings.",
+    "Call-to-action buttons in marketing pages and landing sections.",
+    "Interactive controls in data-driven dashboards and admin interfaces."
+  ],
+  "ai_summary": "A reusable button component built with Radix UI Slot for polymorphic rendering and class-variance-authority for flexible variant styling. Supports multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon) with accessible focus states and disabled handling. Ideal for SaaS dashboards, form interfaces, and any React application requiring consistent action triggers.",
+  "_classifiedAt": "2026-04-23T16:45:39.910Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

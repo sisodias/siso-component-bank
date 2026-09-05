@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/privacy-policy-modal",
+  "author": "ruixen.ui",
+  "slug": "privacy-policy-modal",
+  "name": "privacy-policy-modal",
+  "description": "This component is a Privacy Policy modal built using ShadCN UI and React. It displays a scrollable privacy policy that users must read before accepting. The content is dynamically rendered from a JavaScript array of sections, making it easy to update or extend. As users scroll, a progress bar visually indicates how much of the content has been read. The “Accept” button is disabled until the user has scrolled to the bottom, encouraging them to review the entire policy. The modal is fully responsive, with a clean layout separating the header, scrollable content, and footer buttons, and adapts to both light and dark modes.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/privacy-policy-modal?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__privacy-policy-modal",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/privacy-policy-modal/default/bundle.1755716832458.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/privacy-policy-modal/default/preview.1755716832458.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 31,
+  "demo_id": 5740,
+  "video_url": "https://cdn.21st.dev/ruixen.ui/privacy-policy-modal/default/video.1755713708693.mp4"
+}

@@ -1,0 +1,31 @@
+{
+  "category": "card",
+  "subcategory": "feature-showcase",
+  "visual_style": [
+    "dark",
+    "3d",
+    "flat"
+  ],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display product feature highlights on landing pages",
+    "Showcase technology stack compatibility in marketing sections",
+    "Add animated visual interest to feature grids",
+    "Demonstrate cross-platform capabilities with 3D card animations",
+    "Use in feature comparison or technology stack sections"
+  ],
+  "ai_summary": "A dark-themed feature card component with automatic 3D morphing animations that cycle through framework icons (React, Next.js, HTML). The card displays a title, description, and continuously animated framework icons with translateY, rotateX, and translateZ transforms creating a hover-like 3D effect. Designed for SaaS and developer tool landing pages to showcase framework compatibility and cross-platform integration capabilities.",
+  "_classifiedAt": "2026-04-23T01:35:44.070Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

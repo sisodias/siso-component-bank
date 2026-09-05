@@ -1,0 +1,37 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "fintech",
+    "healthcare",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Primary call-to-action buttons in forms and landing pages",
+    "Destructive action buttons for confirmations and deletions",
+    "Outline-style buttons for secondary actions in UI",
+    "Icon-only buttons for compact toolbar interfaces",
+    "Ghost buttons for subtle navigation elements"
+  ],
+  "ai_summary": "A flexible button component with multiple visual variants (default, destructive, outline, secondary, ghost, link) and size options (default, sm, lg, icon). Built with Radix UI Slot for composition, class-variance-authority for type-safe variant management, and subtle shadow effects for depth. Part of a booking form system, designed for versatile use across SaaS, e-commerce, and dev-tools interfaces with responsive desktop and mobile support.",
+  "_classifiedAt": "2026-04-23T01:42:46.161Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

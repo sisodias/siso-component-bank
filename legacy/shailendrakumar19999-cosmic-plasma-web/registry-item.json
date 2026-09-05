@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "shailendrakumar19999-cosmic-plasma-web",
+  "type": "registry:ui",
+  "title": "Shailendrakumar19999 Cosmic Plasma Web",
+  "description": "Installed from https://21st.dev/r/shailendrakumar19999/cosmic-plasma-web",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "shailendrakumar19999-cosmic-plasma-web"
+  ],
+  "files": [
+    {
+      "path": "cosmic-plasma-web.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "ogl"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/shailendrakumar19999/cosmic-plasma-web",
+    "fetchedAt": "2026-04-23T01:16:16.037Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

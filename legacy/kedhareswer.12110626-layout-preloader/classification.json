@@ -1,0 +1,31 @@
+{
+  "category": [
+    "layout"
+  ],
+  "subcategory": "preloader",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displays a loading state while page layout or content is being prepared",
+    "Provides visual feedback during initial app or page load",
+    "Prevents layout shift by reserving space during content loading"
+  ],
+  "ai_summary": "A layout preloader component designed to display a loading indicator or animation while page content is being rendered or fetched. Typically shown during initial app load or route transitions to improve perceived performance and user experience. The component serves as a placeholder to prevent blank screens and provide visual continuity during content loading.",
+  "_classifiedAt": "2026-04-23T01:42:05.151Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

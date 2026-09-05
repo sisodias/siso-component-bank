@@ -1,0 +1,26 @@
+{
+  "id": "platejs__cursor-overlay",
+  "author": "platejs",
+  "slug": "cursor-overlay",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@platejs/components/cursor-overlay",
+  "fetchedAt": "2026-08-29T06:09:56.401Z",
+  "completedAt": "2026-08-29T06:09:58.594Z",
+  "versionedFilename": "code.1784355279224-7d2e254e-042e-4921-917d-cb32d49f327c.tsx",
+  "codeReference": "r2://components-code-private/platejs/cursor-overlay/code.1784355279224-7d2e254e-042e-4921-917d-cb32d49f327c.tsx",
+  "codeUrl": "https://cdn.21st.dev/platejs/cursor-overlay/code.1784355279224-7d2e254e-042e-4921-917d-cb32d49f327c.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

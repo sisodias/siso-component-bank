@@ -1,0 +1,26 @@
+{
+  "id": "felipemenezes098__sign-in-4",
+  "author": "felipemenezes098",
+  "slug": "sign-in-4",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@felipemenezes098/components/sign-in-4",
+  "fetchedAt": "2026-08-29T04:49:22.898Z",
+  "completedAt": "2026-08-29T04:49:25.086Z",
+  "versionedFilename": "code.1784819310152-4dcb78a9-c160-42b5-bd9e-52fde3a14ff5.tsx",
+  "codeReference": "r2://components-code-private/felipemenezes098/sign-in-4/code.1784819310152-4dcb78a9-c160-42b5-bd9e-52fde3a14ff5.tsx",
+  "codeUrl": "https://cdn.21st.dev/felipemenezes098/sign-in-4/code.1784819310152-4dcb78a9-c160-42b5-bd9e-52fde3a14ff5.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

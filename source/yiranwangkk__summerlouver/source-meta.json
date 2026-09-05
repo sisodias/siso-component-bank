@@ -1,0 +1,26 @@
+{
+  "id": "yiranwangkk__summerlouver",
+  "author": "yiranwangkk",
+  "slug": "summerlouver",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@yiranwangkk/components/summerlouver",
+  "fetchedAt": "2026-08-29T08:00:47.998Z",
+  "completedAt": "2026-08-29T08:00:49.736Z",
+  "versionedFilename": "code.1785901563400-3da6e4b5-167f-40ff-9c74-4fdb8fc21413.tsx",
+  "codeReference": "r2://components-code-private/yiranwangkk/summerlouver/code.1785901563400-3da6e4b5-167f-40ff-9c74-4fdb8fc21413.tsx",
+  "codeUrl": "https://cdn.21st.dev/yiranwangkk/summerlouver/code.1785901563400-3da6e4b5-167f-40ff-9c74-4fdb8fc21413.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

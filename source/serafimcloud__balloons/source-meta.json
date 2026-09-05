@@ -1,0 +1,33 @@
+{
+  "id": "serafimcloud__balloons",
+  "author": "serafimcloud",
+  "slug": "balloons",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@serafimcloud/components/balloons",
+  "fetchedAt": "2026-08-29T07:01:31.766Z",
+  "completedAt": "2026-08-29T07:01:32.360Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/serafimcloud__balloons/code.tsx",
+    "bytes": 1243,
+    "sha256": "9e4f6e2aeaf7a957518d4c30a75220c3693c4f8097dabd6510ea792de6007709",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

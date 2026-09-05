@@ -1,0 +1,29 @@
+{
+  "category": "card",
+  "subcategory": "badge, label, tag, pill",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying feature labels or category tags in hero and landing pages",
+    "Showing status indicators or badges on product cards and dashboard elements",
+    "Highlighting new, popular, or featured items in e-commerce listings",
+    "Presenting metadata labels such as counts, versions, or ratings",
+    "Creating pill-shaped UI elements for filtering or sorting interfaces"
+  ],
+  "ai_summary": "A reusable Badge component with four variants (default, secondary, destructive, outline) designed for displaying labels, tags, and status indicators. Features rounded pill styling with hover state transitions and focus ring accessibility. Part of a shadcn-blocks hero section component, commonly used in SaaS landing pages and product cards to highlight features, categories, or metadata.",
+  "_classifiedAt": "2026-04-23T17:28:36.794Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

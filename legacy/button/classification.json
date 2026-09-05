@@ -1,0 +1,42 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button with variant system",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Trigger form submissions with visual feedback across applications",
+    "Execute user actions like save, delete, or navigate with click interactions",
+    "Serve as primary call-to-action elements in marketing or product UIs",
+    "Toggle UI states such as modals, dropdowns, or sidebars",
+    "Provide accessible keyboard-navigable controls with focus indicators"
+  ],
+  "ai_summary": "A versatile button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Built with Tailwind CSS, Radix UI Slot for composition, and class-variance-authority for type-safe variant handling. Supports hover states, disabled functionality, and focus-visible accessibility patterns.",
+  "_classifiedAt": "2026-04-22T08:53:51.427Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

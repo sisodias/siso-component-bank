@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@reshaped/components/reshaped-checkbox",
+  "author": "reshaped",
+  "slug": "reshaped-checkbox",
+  "name": "reshaped-checkbox",
+  "description": "Works like a native checkbox with value and name passed to the form on submission. Comes in three sizes, supports error, disabled and indeterminate states, controlled and uncontrolled modes, and a CheckboxGroup compound for selecting multiple values with any layout, including card-based composition.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/reshaped/reshaped-checkbox?api_key=$API_KEY_21ST\"",
+  "id": "reshaped__reshaped-checkbox",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/reshaped-checkbox/default/bundle.1783352523111.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/reshaped-checkbox/default/preview.1783352523111.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

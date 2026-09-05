@@ -1,0 +1,26 @@
+{
+  "id": "ravikatiyar162__welcome",
+  "author": "ravikatiyar162",
+  "slug": "welcome",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ravikatiyar162/components/welcome",
+  "fetchedAt": "2026-08-29T06:31:49.701Z",
+  "completedAt": "2026-08-29T06:31:52.342Z",
+  "versionedFilename": "code.1759302905552.tsx",
+  "codeReference": "r2://components-code-private/ravikatiyar162/welcome/code.1759302905552.tsx",
+  "codeUrl": "https://cdn.21st.dev/ravikatiyar162/welcome/code.1759302905552.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4266,
+  "sha256": "c6ee7c31c31607856663543b081ec2f39275824d0894f5f5eed1eafeef678d3c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/globe",
+  "author": "ruixen.ui",
+  "slug": "globe",
+  "name": "globe",
+  "description": "This is a self-contained React component that displays a rotating globe with twinkling stars using Tailwind CSS. It features smooth animations for both the globe and stars, a glowing shadow effect, and fully inline styling for easy integration.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/globe?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__globe",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/globe/default/bundle.1755628836403.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/globe/default/preview.1755628836402.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "progress-indicator",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying file upload or download progress in web applications",
+    "Showing multi-step form completion status in onboarding flows",
+    "Indicating task or project completion percentage in dashboards",
+    "Visualizing quiz or assessment progress in educational platforms",
+    "Tracking goal or milestone completion in productivity apps"
+  ],
+  "ai_summary": "A lightweight animated progress bar component with spring physics animation for smooth value transitions. Supports customizable colors, labels, and styling via Tailwind CSS classes. Ideal for displaying completion status, loading progress, or any percentage-based metrics in modern web applications.",
+  "_classifiedAt": "2026-04-22T09:03:00.715Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

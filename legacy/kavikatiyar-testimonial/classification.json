@@ -1,0 +1,38 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "testimonial-display",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying user testimonials with profile avatars in social proof sections",
+    "Building trust through customer review cards on landing pages",
+    "Showing user-generated content with visual identity elements"
+  ],
+  "ai_summary": "A Radix UI-based avatar component designed for testimonial display contexts. Built with Tailwind CSS for clean, accessible user profile presentation. The component supports image loading with fallback initials for graceful degradation. Intended for social proof and testimonial sections where visual user identity enhances credibility.",
+  "_classifiedAt": "2026-04-22T09:02:36.447Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

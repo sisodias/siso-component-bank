@@ -1,0 +1,26 @@
+{
+  "category": "data-display",
+  "subcategory": "user-avatar-list",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying user avatars in access management interfaces",
+    "Showing team members with profile images in dashboards",
+    "Representing users in permission settings panels",
+    "Rendering fallback initials when user images fail to load"
+  ],
+  "ai_summary": "A minimalist Avatar component built on Radix UI primitives for displaying user profile images with automatic fallback to initials. Exports Avatar, AvatarImage, and AvatarFallback components that can be composed into access management interfaces, team displays, and permission dashboards for SaaS and dev-tools platforms.",
+  "_classifiedAt": "2026-04-22T09:10:03.326Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

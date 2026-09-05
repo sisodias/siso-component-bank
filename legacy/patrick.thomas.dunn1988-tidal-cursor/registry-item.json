@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "patrick.thomas.dunn1988-tidal-cursor",
+  "type": "registry:ui",
+  "title": "Patrick.Thomas.Dunn1988 Tidal Cursor",
+  "description": "Installed from https://21st.dev/r/patrick.thomas.dunn1988/tidal-cursor",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "patrick.thomas.dunn1988-tidal-cursor"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "tidal-cursor.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/patrick.thomas.dunn1988/tidal-cursor",
+    "fetchedAt": "2026-04-23T01:18:31.475Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

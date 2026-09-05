@@ -1,0 +1,27 @@
+{
+  "category": "media",
+  "subcategory": "audio-player",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "media",
+    "education",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Podcast players with chapter navigation for easy section jumping",
+    "Audio course or lecture players with timestamped segments",
+    "Music or audio content players with visual progress tracking",
+    "Audiobook players with chapter-based navigation"
+  ],
+  "ai_summary": "Audio player component with interactive timeline visualization and chapter markers. Features play/pause controls, progress bar, and clickable chapter segments that allow users to jump to specific timestamps. Built with Tailwind CSS using a clean, flat design suitable for podcast, education, and media applications.",
+  "_classifiedAt": "2026-04-23T01:48:51.722Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

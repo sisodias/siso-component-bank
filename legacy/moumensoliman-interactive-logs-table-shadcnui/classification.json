@@ -1,0 +1,30 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "logs-table",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Real-time log monitoring in development and production environments",
+    "Debugging distributed systems by filtering logs across services",
+    "Observability dashboards for SaaS applications",
+    "Performance analysis using duration and status code filters",
+    "Error tracking and incident response workflows"
+  ],
+  "ai_summary": "An interactive logs table component built with shadcn-ui that displays timestamped system events with filtering capabilities. Features multi-select dropdown filters for log level, service, and status, along with search functionality. Uses AnimatePresence and Framer Motion for smooth transitions, presenting log data with severity color coding via Badge components. Designed for developer tooling and system observability use cases.",
+  "_classifiedAt": "2026-04-22T09:07:06.990Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

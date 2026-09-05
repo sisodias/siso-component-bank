@@ -1,0 +1,29 @@
+{
+  "category": "data-display",
+  "subcategory": "badge, label, tag component",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display categorical labels and tags for content organization",
+    "Show status indicators such as 'new', 'sale', or 'featured'",
+    "Mark user roles or permission levels in dashboards",
+    "Highlight product attributes or features in listings",
+    "Provide visual badges for notification counts and alerts"
+  ],
+  "ai_summary": "A minimalist atomic badge component with CVA-powered variant support (default, secondary, destructive, outline). Features hover and focus states with ring accessibility. Designed for universal use as labels, tags, and status indicators across various UI contexts and industries.",
+  "_classifiedAt": "2026-04-23T01:37:11.744Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

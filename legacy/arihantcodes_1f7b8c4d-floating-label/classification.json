@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "floating-label",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Login and signup forms requiring animated label transitions",
+    "Contact forms with floating label text fields",
+    "Search inputs with placeholder-to-label animation",
+    "Any text input needing a space-efficient floating label pattern",
+    "Forms using shadcn/ui design system components"
+  ],
+  "ai_summary": "A floating label input component built with React and Tailwind CSS that animates the label from a centered placeholder position to an elevated position above the input when focused or filled. Integrates with shadcn/ui components (Input, Label) and uses CSS peer selectors for smooth transitions. The label transforms position and scales using translate and scale CSS properties with a 300ms duration for a polished micro-interaction effect.",
+  "_classifiedAt": "2026-04-23T11:30:45.203Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

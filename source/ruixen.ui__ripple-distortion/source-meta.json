@@ -1,0 +1,33 @@
+{
+  "id": "ruixen.ui__ripple-distortion",
+  "author": "ruixen.ui",
+  "slug": "ripple-distortion",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/ripple-distortion",
+  "fetchedAt": "2026-08-29T06:47:38.955Z",
+  "completedAt": "2026-08-29T06:47:40.683Z",
+  "versionedFilename": "code.1785440536759-b94c9b47-0485-44e8-977d-29e3b0afb4d2.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/ripple-distortion/code.1785440536759-b94c9b47-0485-44e8-977d-29e3b0afb4d2.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/ripple-distortion/code.1785440536759-b94c9b47-0485-44e8-977d-29e3b0afb4d2.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/ruixen.ui__ripple-distortion/code.tsx",
+    "bytes": 4166,
+    "sha256": "6f922c68a163fd720c619dfffcfb4493dc4ae5de390e94c5ddde4c284b0341c0",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

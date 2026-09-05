@@ -1,0 +1,32 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "satisfaction-rating",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Collecting quick user satisfaction ratings on web applications",
+    "Gathering instant feedback after feature releases or updates",
+    "Measuring customer experience at touchpoints in SaaS products",
+    "Adding lightweight rating systems to developer tools and dashboards",
+    "Enabling one-click feedback collection on websites without full surveys"
+  ],
+  "ai_summary": "A lightweight feedback widget that collects user satisfaction through an emoji-based rating system. Features animated transitions using motion/react, accessible toggle group selection via Radix UI, and supports inline markdown for customizable feedback prompts. Designed for quick, low-friction feedback collection on any web application.",
+  "_classifiedAt": "2026-04-22T08:57:14.396Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

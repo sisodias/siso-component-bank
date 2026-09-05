@@ -1,0 +1,34 @@
+{
+  "category": "feedback",
+  "subcategory": "like-button",
+  "visual_style": [
+    "gradient",
+    "dark",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Enable users to like/unlike content with smooth animated feedback",
+    "Add social engagement indicators to articles, posts, or products",
+    "Display real-time like counts with visual confirmation on interaction",
+    "Provide satisfying micro-interactions that increase user engagement",
+    "Serve as a template for other toggle-based animated UI components"
+  ],
+  "ai_summary": "An animated like button component inspired by Vercel's design system, featuring smooth click-triggered animations and gradient styling. The component provides satisfying visual feedback on user interaction with a radial burst animation when liked and revert animation when unliked. Designed for social engagement features in content-heavy applications.",
+  "_classifiedAt": "2026-04-23T01:53:43.904Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@serafimcloud/components/command-menu",
+  "author": "serafimcloud",
+  "slug": "command-menu",
+  "name": "command-menu",
+  "description": "A pill that grows into a command panel on hover, tap or Cmd+K: a highlight that slides between items and even diagonally into the theme row, a rotating status line, arrow/j-k navigation, Escape and click-outside. Inspired by Colin Lienard's personal site (colinlienard.com), rebuilt for React from scratch.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/serafimcloud/command-menu?api_key=$API_KEY_21ST\"",
+  "id": "serafimcloud__command-menu",
+  "bundleUrl": "https://cdn.21st.dev/serafimcloud/command-menu/default/bundle.1785366369294-e505ca5f-efaa-4304-94fd-7a57a0e3795b.html",
+  "previewUrl": "https://cdn.21st.dev/serafimcloud/command-menu/default/preview.1785366369294-e505ca5f-efaa-4304-94fd-7a57a0e3795b.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

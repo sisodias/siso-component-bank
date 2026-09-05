@@ -1,0 +1,26 @@
+{
+  "id": "uilayout.contact__about-section",
+  "author": "uilayout.contact",
+  "slug": "about-section",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uilayout.contact/components/about-section",
+  "fetchedAt": "2026-08-29T07:42:07.521Z",
+  "completedAt": "2026-08-29T07:42:10.067Z",
+  "versionedFilename": "code.1756307543175.tsx",
+  "codeReference": "r2://components-code-private/uilayout.contact/about-section/code.1756307543175.tsx",
+  "codeUrl": "https://cdn.21st.dev/uilayout.contact/about-section/code.1756307543175.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 12077,
+  "sha256": "8fafe2293bac8673fb72c333ca5ae5b611df138bac12299d6e24ddb547e09fbf",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

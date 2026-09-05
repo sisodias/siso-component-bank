@@ -1,0 +1,36 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "tab-nav with animated notch indicator",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Mobile-first tab navigation with animated notch indicator that smoothly transitions between items",
+    "iOS-style tab bar navigation for mobile applications",
+    "Responsive navigation component that recalculates notch position on window resize",
+    "Accessible navigation with keyboard focus management and ARIA labels",
+    "Controlled or uncontrolled tab selection with callback support"
+  ],
+  "ai_summary": "A mobile-first navigation component featuring an animated 'notch' indicator that smoothly transitions between tab items. Implements responsive positioning calculations using getBoundingClientRect, supports both controlled and uncontrolled modes, includes keyboard navigation with focus management, and handles accessibility with customizable ARIA labels. The notch effect creates a pill-shaped highlight that moves to the active tab on selection or resize events.",
+  "_classifiedAt": "2026-04-23T01:41:14.748Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

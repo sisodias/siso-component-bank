@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "statistics-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying key performance metrics in analytics dashboards",
+    "Presenting numerical statistics with titles and descriptions",
+    "Creating summary cards for tracking KPIs and data points",
+    "Building card-based layouts for data visualization interfaces",
+    "Organizing metrics in dashboard or report views"
+  ],
+  "ai_summary": "A statistics card component designed for displaying metrics and numerical data in a clean card-based layout. Built with reusable sub-components (Card, CardHeader, CardTitle, CardDescription, CardAction) using Tailwind CSS and container queries for responsive behavior. Features a minimalist flat design with subtle shadows and rounded corners, suitable for dashboards, analytics platforms, and data visualization interfaces across SaaS, fintech, and e-commerce applications.",
+  "_classifiedAt": "2026-04-23T16:39:28.214Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

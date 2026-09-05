@@ -1,0 +1,26 @@
+{
+  "id": "pieetie__hero-section",
+  "author": "pieetie",
+  "slug": "hero-section",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@pieetie/components/hero-section",
+  "fetchedAt": "2026-08-29T06:08:54.996Z",
+  "completedAt": "2026-08-29T06:08:57.372Z",
+  "versionedFilename": "code.1751973426565.tsx",
+  "codeReference": "r2://components-code-private/pieetie/hero-section/code.1751973426565.tsx",
+  "codeUrl": "https://cdn.21st.dev/pieetie/hero-section/code.1751973426565.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3409,
+  "sha256": "89f6e6ad9fd748ffcbf6d8d21cfeeea685f7b7ba75b85e32ac9987ca1f11434c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gvozdovic__hero-urban",
+  "author": "gvozdovic",
+  "slug": "hero-urban",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@gvozdovic/components/hero-urban",
+  "fetchedAt": "2026-08-29T04:53:23.509Z",
+  "completedAt": "2026-08-29T04:53:25.690Z",
+  "versionedFilename": "code.1781626184342.tsx",
+  "codeReference": "r2://components-code-private/dzekuza/hero-urban/code.1781626184342.tsx",
+  "codeUrl": "https://cdn.21st.dev/dzekuza/hero-urban/code.1781626184342.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3485,
+  "sha256": "fc0a9d25fb51ee6252d95ae5811837e3b4b35ca4fa5692792b2c21a1fec30198",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "moazamtrade__logo-cloud",
+  "author": "moazamtrade",
+  "slug": "logo-cloud",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@moazamtrade/components/logo-cloud",
+  "fetchedAt": "2026-08-29T05:47:41.380Z",
+  "completedAt": "2026-08-29T05:47:43.604Z",
+  "versionedFilename": "code.1761293028963.tsx",
+  "codeReference": "r2://components-code-private/moazamtrade/logo-cloud/code.1761293028963.tsx",
+  "codeUrl": "https://cdn.21st.dev/moazamtrade/logo-cloud/code.1761293028963.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3738,
+  "sha256": "75836738a67b69e448e96c652949ef2196124d9a2a0af1c6d045ad3bb40f3f2e",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

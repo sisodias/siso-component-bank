@@ -1,0 +1,28 @@
+{
+  "category": "media",
+  "subcategory": "stories-carousel",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "social",
+    "creator-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display user stories in a horizontal scrolling carousel similar to Instagram or WhatsApp",
+    "Showcase user-generated content with avatar thumbnails and ring indicators",
+    "Navigate through sequential story content with click interactions",
+    "Present creator profiles with visual hierarchy using avatar fallbacks",
+    "Enable quick content discovery through a compact story row component"
+  ],
+  "ai_summary": "A social media-style stories carousel component that displays user avatars in a horizontal row with click-to-advance navigation. Built with Radix UI primitives and Tailwind CSS for a clean, accessible interface. Supports story indicators and smooth transitions between content pieces.",
+  "_classifiedAt": "2026-04-23T16:42:14.460Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

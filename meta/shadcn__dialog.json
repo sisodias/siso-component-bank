@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@shadcn/components/dialog",
+  "author": "shadcn",
+  "slug": "dialog",
+  "name": "dialog",
+  "description": "A window overlaid on either the primary window or another dialog window, rendering the content underneath inert.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/shadcn/dialog?api_key=$API_KEY_21ST\"",
+  "id": "shadcn__dialog",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1248.html",
+  "previewUrl": "https://cdn.21st.dev/user_shadcn/dialog.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

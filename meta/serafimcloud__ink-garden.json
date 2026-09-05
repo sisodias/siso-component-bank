@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@serafimcloud/components/ink-garden",
+  "author": "serafimcloud",
+  "slug": "ink-garden",
+  "name": "ink-garden",
+  "description": "Animated (pulse) ASCII art in the Dither style, made with the 21st.dev ASCII editor and baked to a looping video. Styled with a minimal, monochrome look. A drop-in, zero-dependency React component for hero sections, cards, and retro terminal-style backgrounds.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/serafimcloud/ink-garden?api_key=$API_KEY_21ST\"",
+  "id": "serafimcloud__ink-garden",
+  "bundleUrl": "https://cdn.21st.dev/serafimcloud/ink-garden/default/bundle.1784598697333-d68b46be-1fba-45e0-b601-684127d76ad6.html",
+  "previewUrl": "https://cdn.21st.dev/serafimcloud/ink-garden/default/preview.1783762718846.jpg",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

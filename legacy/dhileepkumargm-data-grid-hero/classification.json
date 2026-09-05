@@ -1,0 +1,34 @@
+{
+  "category": [
+    "hero"
+  ],
+  "subcategory": "animated-grid",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero sections with animated backgrounds",
+    "Feature showcase headers for SaaS products",
+    "Product page hero sections with interactive grid effects",
+    "Portfolio or agency website headers with generative visuals"
+  ],
+  "ai_summary": "A generative hero component featuring an animated grid background with customizable cell-based animations including pulse, wave, and random effects, plus mouse-follow glow functionality for interactive visual depth. Configurable via props for rows, cols, spacing, duration, color, and animation types.",
+  "_classifiedAt": "2026-04-22T08:57:39.009Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

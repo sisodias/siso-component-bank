@@ -1,0 +1,26 @@
+{
+  "id": "arunachalam__cookie-banner-1",
+  "author": "arunachalam",
+  "slug": "cookie-banner-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@arunachalam/components/cookie-banner-1",
+  "fetchedAt": "2026-08-29T03:39:14.787Z",
+  "completedAt": "2026-08-29T03:39:17.020Z",
+  "versionedFilename": "code.1755094283186.tsx",
+  "codeReference": "r2://components-code-private/arunachalam0606/cookie-banner-1/code.1755094283186.tsx",
+  "codeUrl": "https://cdn.21st.dev/arunachalam0606/cookie-banner-1/code.1755094283186.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 8579,
+  "sha256": "2d6a0e483e18aec1eb18e12e626e282282cd4bc453946f5d7cd067e1c75207a7",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

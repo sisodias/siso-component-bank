@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "task-list",
+  "visual_style": [
+    "minimalist",
+    "colorful"
+  ],
+  "interactions": [
+    "click-reveal",
+    "none"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Personal task management and daily to-do tracking",
+    "Sprint planning and developer workflow organization",
+    "Goal completion tracking with celebration feedback",
+    "Project milestone management for dev teams",
+    "Daily standup preparation and task review"
+  ],
+  "ai_summary": "A modern task management card component featuring real-time date/time display, interactive checkbox toggles, and a celebratory confetti animation when all tasks are completed. Designed with a clean minimalist aesthetic using Tailwind CSS, this component is ideal for developer productivity workflows and personal task tracking, with colorful accent colors for the celebration effect that triggers on 100% completion.",
+  "_classifiedAt": "2026-04-22T09:08:25.123Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

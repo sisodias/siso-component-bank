@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input",
+    "overlay"
+  ],
+  "subcategory": "search-palette",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Quickly navigating to pages or features within an application using keyboard shortcuts",
+    "Executing commands or actions without navigating through menus",
+    "Searching through content, files, or data with instant results",
+    "Providing power users with efficient keyboard-driven workflows",
+    "Improving app accessibility with keyboard-first interactions"
+  ],
+  "ai_summary": "A keyboard-navigable command palette component that opens via Cmd/Ctrl+K shortcut or click. Features search input with focus management, backdrop overlay with click-to-close, and Escape key dismissal. Designed for efficient navigation and command execution in productivity applications, commonly used in SaaS, developer tools, and content management systems.",
+  "_classifiedAt": "2026-04-23T01:40:51.678Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

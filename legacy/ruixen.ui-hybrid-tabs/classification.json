@@ -1,0 +1,36 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "tabs",
+  "visual_style": [
+    "glass-morphism",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Switching between different content sections within a page or view",
+    "Navigating through settings, profiles, or account sections",
+    "Organizing related content into browsable categories with icons",
+    "Creating tabbed interfaces for product details or feature showcases",
+    "Building dashboard navigation with animated tab transitions"
+  ],
+  "ai_summary": "A hybrid tabs component combining icon and text labels with glass-morphism styling using backdrop blur effects. Supports animated tab switching via framer-motion with active state highlighting. Features a flexible item-based configuration for creating navigation patterns like sidebars, settings panels, or content switchers. The glass-effect styling with rounded borders and semi-transparent backgrounds creates a modern, layered aesthetic suitable for dashboard and settings interfaces.",
+  "_classifiedAt": "2026-04-23T01:50:09.048Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

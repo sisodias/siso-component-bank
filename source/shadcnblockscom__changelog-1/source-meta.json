@@ -1,0 +1,26 @@
+{
+  "id": "shadcnblockscom__changelog-1",
+  "author": "shadcnblockscom",
+  "slug": "changelog-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcnblockscom/components/changelog-1",
+  "fetchedAt": "2026-08-29T07:09:39.060Z",
+  "completedAt": "2026-08-29T07:09:41.025Z",
+  "versionedFilename": "code.1747629463974.tsx",
+  "codeReference": "r2://components-code-private/shadcnblockscom/changelog-1/code.1747629463974.tsx",
+  "codeUrl": "https://cdn.21st.dev/shadcnblockscom/changelog-1/code.1747629463974.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5324,
+  "sha256": "5681a79fe705f5d6fcac1cf7ae820c87fb2276306c5c548e6a942a0dcb7f4198",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

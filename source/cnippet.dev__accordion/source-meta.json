@@ -1,0 +1,26 @@
+{
+  "id": "cnippet.dev__accordion",
+  "author": "cnippet.dev",
+  "slug": "accordion",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@cnippet.dev/components/accordion",
+  "fetchedAt": "2026-08-29T03:55:05.031Z",
+  "completedAt": "2026-08-29T03:55:07.118Z",
+  "versionedFilename": "code.1773463767153.tsx",
+  "codeReference": "r2://components-code-private/cnippet.dev/accordion/code.1773463767153.tsx",
+  "codeUrl": "https://cdn.21st.dev/cnippet.dev/accordion/code.1773463767153.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2076,
+  "sha256": "0afe2cb531e71a2f09313c7271293e4cf4f4c3cac450942aa16c50adbca80712",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

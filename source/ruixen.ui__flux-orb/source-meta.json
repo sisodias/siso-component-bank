@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__flux-orb",
+  "author": "ruixen.ui",
+  "slug": "flux-orb",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/flux-orb",
+  "fetchedAt": "2026-08-29T06:42:47.425Z",
+  "completedAt": "2026-08-29T06:42:50.384Z",
+  "versionedFilename": "code.1762969507344.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/flux-orb/code.1762969507344.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/flux-orb/code.1762969507344.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7258,
+  "sha256": "a104daef6bb046d01ba0006d0a2ee1a8e15cc5b9d2fbb1eca40c0baa3936c6e5",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

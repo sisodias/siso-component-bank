@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "content-card",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying feature highlights on a SaaS landing page",
+    "Creating organized content sections in product documentation",
+    "Building card-based layouts for product or service listings",
+    "Presenting information in scannable content blocks",
+    "Structuring dashboard widgets and data displays"
+  ],
+  "ai_summary": "A set of reusable Card component primitives (Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter) following the Shadcn UI pattern. These composable components provide a clean, minimalist card layout with proper typography spacing, borders, and shadows. Designed as building blocks for feature sections and content displays across various landing pages and application interfaces.",
+  "_classifiedAt": "2026-04-23T17:20:21.181Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

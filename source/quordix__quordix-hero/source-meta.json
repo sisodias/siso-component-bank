@@ -1,0 +1,26 @@
+{
+  "id": "quordix__quordix-hero",
+  "author": "quordix",
+  "slug": "quordix-hero",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@quordix/components/quordix-hero",
+  "fetchedAt": "2026-08-29T06:16:56.778Z",
+  "completedAt": "2026-08-29T06:16:59.000Z",
+  "versionedFilename": "code.1786895489670-938ae3df-0610-469e-beb9-54c70fd5e1d3.tsx",
+  "codeReference": "r2://components-code-private/quordix/quordix-hero/code.1786895489670-938ae3df-0610-469e-beb9-54c70fd5e1d3.tsx",
+  "codeUrl": "https://cdn.21st.dev/quordix/quordix-hero/code.1786895489670-938ae3df-0610-469e-beb9-54c70fd5e1d3.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

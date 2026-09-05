@@ -1,0 +1,32 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "expense-tracker-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "saas",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying weekly expense summaries in dashboards",
+    "Showing financial data with visual hierarchy",
+    "Comparing weekly spending patterns",
+    "Integrating into fintech and accounting applications",
+    "Providing at-a-glance financial insights"
+  ],
+  "ai_summary": "A minimalist card component designed for displaying weekly expense data and financial summaries. Built with Shadcn/ui conventions using Radix UI and Tailwind CSS, featuring clean typography and structured data presentation suitable for fintech dashboards and expense tracking applications.",
+  "_classifiedAt": "2026-04-23T01:46:21.889Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

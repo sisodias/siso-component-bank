@@ -1,0 +1,24 @@
+{
+  "category": "card",
+  "subcategory": "blog-card",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying individual blog post previews in a list",
+    "Showing article titles with dates and descriptions",
+    "Creating minimal blog archives or index pages"
+  ],
+  "ai_summary": "A minimalist blog card component with dark mode support and elegant hover interactions. Features a serif title font, monospace date display, and a warm terracotta accent color (#ce624c) that triggers on hover. The component displays blog post metadata including title, date, and description with dashed separator lines for an editorial aesthetic.",
+  "_classifiedAt": "2026-04-22T09:17:40.347Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

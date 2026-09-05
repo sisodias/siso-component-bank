@@ -1,0 +1,39 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "versatile-button-with-multiple-variants",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons for forms and landing pages",
+    "Secondary actions with outline or ghost variants",
+    "Icon buttons for toolbar and navigation interfaces",
+    "Destructive action buttons with warning styling",
+    "Keyboard-accessible buttons with focus ring indicators"
+  ],
+  "ai_summary": "A flexible atomic Button component built with Radix UI Slot and class-variance-authority, offering 6 variants (default, destructive, outline, secondary, ghost, link) and 4 sizes (default, sm, lg, icon). Features accessible focus states, disabled handling, and composition support via asChild prop. Ships only the Button component without the referenced Footer demo.",
+  "_classifiedAt": "2026-04-22T09:09:44.381Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "saurabh10102__loader",
+  "author": "saurabh10102",
+  "slug": "loader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@saurabh10102/components/loader",
+  "fetchedAt": "2026-08-29T06:55:57.436Z",
+  "completedAt": "2026-08-29T06:55:59.274Z",
+  "versionedFilename": "code.1784690972437-9f278e21-7f13-4c43-8f26-f1fc6a01c318.tsx",
+  "codeReference": "r2://components-code-private/saurabh10102/loader/code.1784690972437-9f278e21-7f13-4c43-8f26-f1fc6a01c318.tsx",
+  "codeUrl": "https://cdn.21st.dev/saurabh10102/loader/code.1784690972437-9f278e21-7f13-4c43-8f26-f1fc6a01c318.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

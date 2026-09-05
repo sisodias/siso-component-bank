@@ -1,0 +1,27 @@
+{
+  "category": "overlay",
+  "subcategory": "preview-card",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "e-commerce",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Rich link previews that show additional content on hover for article or product cards",
+    "Image previews when hovering over links in content-heavy applications",
+    "Contextual information popups for educational or reference materials",
+    "Profile or user preview cards in social or collaboration platforms",
+    "Quick-look product details in e-commerce listings without page navigation"
+  ],
+  "ai_summary": "A preview card component from Base UI that displays rich content popups when hovering over or focusing on links. Uses a compound component pattern with Root, Trigger, Portal, Positioner, Popup, and Arrow sub-components. Features smooth scale and opacity transitions for enter/exit animations with proper accessibility support including focus-visible states and keyboard navigation.",
+  "_classifiedAt": "2026-04-23T11:32:23.589Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

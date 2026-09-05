@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@kokonutd/components/activity-card",
+  "author": "kokonutd",
+  "slug": "activity-card",
+  "name": "activity-card",
+  "description": "A versatile card component for displaying fitness and activity tracking data with interactive goals and metrics visualization.\n\nFeatures\n\n- Metric Rings\n  - Circular progress indicators\n  - Percentage-based visualization\n  - Hover animations\n  - Color-coded categories\n  - Value and unit display\n\n- Daily Goals\n  - Interactive checkboxes\n  - Completion status\n  - Add new goals functionality\n  - Visual feedback for completed items\n  - Hover states\n\n- Visual Elements\n  - Category icon\n  - Progress rings\n  - Gradient dividers\n  - Interactive buttons\n  - Status indicators",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/kokonutd/activity-card?api_key=$API_KEY_21ST\"",
+  "id": "kokonutd__activity-card",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1375.html",
+  "previewUrl": "https://cdn.21st.dev/user_2rQ1QHrJyxpmWMHhqhANzWMc64n/activity-card.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 136,
+  "demo_id": 1375,
+  "video_url": "https://cdn.21st.dev/user_2rQ1QHrJyxpmWMHhqhANzWMc64n/activity-card/default/video.mp4"
+}

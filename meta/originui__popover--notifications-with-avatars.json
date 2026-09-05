@@ -1,0 +1,18 @@
+{
+  "url": "https://21st.dev/@originui/components/popover/notifications-with-avatars",
+  "author": "originui",
+  "slug": "notifications-with-avatars",
+  "name": "notifications-with-avatars",
+  "parent": "originui__popover",
+  "variant": true,
+  "id": "originui__popover--notifications-with-avatars",
+  "bundleUrl": null,
+  "previewUrl": "https://cdn.21st.dev/user_originui/popover/notifications-with-avatars/preview.png?v=1",
+  "demoUrl": "https://cdn.21st.dev/user_originui/popover/notifications-with-avatars/code.demo.tsx?v=1",
+  "video_url": null,
+  "harvested": [
+    "preview",
+    "demo.tsx"
+  ],
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/originui/popover?api_key=$API_KEY_21ST\""
+}

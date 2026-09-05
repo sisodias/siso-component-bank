@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@21st/components/thinking-tool",
+  "author": "21st",
+  "slug": "thinking-tool",
+  "name": "thinking-tool",
+  "description": "Render assistant reasoning in a collapsible row. State-driven (thinking shimmer / thought static). Self-contained port from 21st.dev Agent Elements with React-only collapsible (no @base-ui/react) and inline shimmer keyframes.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/21st/thinking-tool?api_key=$API_KEY_21ST\"",
+  "id": "21st__thinking-tool",
+  "bundleUrl": "https://cdn.21st.dev/21st.dev/thinking-tool/default/bundle.1778272382292.html",
+  "previewUrl": "https://cdn.21st.dev/21st.dev/thinking-tool/default/preview.1777400917780.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@vaib215/components/reddit-nested-thread-reply",
+  "author": "vaib215",
+  "slug": "reddit-nested-thread-reply",
+  "name": "reddit-nested-thread-reply",
+  "description": "A responsive and theme-adaptive, Reddit-style nested comment system. It supports voting, replying, collapsing threads, and adding new comments, built with shadcn/ui components.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/vaib215/reddit-nested-thread-reply?api_key=$API_KEY_21ST\"",
+  "id": "vaib215__reddit-nested-thread-reply",
+  "bundleUrl": "https://cdn.21st.dev/vaib215/reddit-nested-thread-reply/default/bundle.1755468699183.html",
+  "previewUrl": "https://cdn.21st.dev/vaib215/reddit-nested-thread-reply/default/preview.1755468699183.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

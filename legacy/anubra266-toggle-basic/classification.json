@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "icon-toggle",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Toggle bold text formatting in a rich text editor interface",
+    "Enable or disable a single setting option in a preferences panel",
+    "Control binary state for a feature flag in a dashboard control"
+  ],
+  "ai_summary": "A minimal flat-styled toggle component built with Ark UI library featuring a bold icon, hover effects, and dark mode support. This atomic input control handles binary state toggling with clean visual feedback through background and border color changes when activated.",
+  "_classifiedAt": "2026-04-23T01:36:18.184Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

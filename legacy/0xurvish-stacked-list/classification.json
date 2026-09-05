@@ -1,0 +1,29 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "member-list",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying team members with avatars, roles, and online status in a searchable stacked list",
+    "Filtering team members by role type (PM, designer, data specialist, creator)",
+    "Building team directories or member management interfaces for collaboration platforms",
+    "Creating workspace or group chat participant lists with real-time presence indicators"
+  ],
+  "ai_summary": "An interactive stacked list component for displaying team members with avatars, role badges, and online/offline status indicators. Features role-based filtering, search functionality, and smooth motion animations for item transitions. Designed for team collaboration interfaces, member directories, and workspace management screens in SaaS and productivity applications.",
+  "_classifiedAt": "2026-04-22T08:50:46.976Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

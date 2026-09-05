@@ -1,0 +1,26 @@
+{
+  "id": "zainali.portfolio__patrolesence",
+  "author": "zainali.portfolio",
+  "slug": "patrolesence",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@zainali.portfolio/components/patrolesence",
+  "fetchedAt": "2026-08-29T08:01:46.650Z",
+  "completedAt": "2026-08-29T08:01:48.859Z",
+  "versionedFilename": "code.1784289464901-3197b017-7faf-46f9-80ae-013115238e0e.tsx",
+  "codeReference": "r2://components-code-private/zainali.portfolio/patrolesence/code.1784289464901-3197b017-7faf-46f9-80ae-013115238e0e.tsx",
+  "codeUrl": "https://cdn.21st.dev/zainali.portfolio/patrolesence/code.1784289464901-3197b017-7faf-46f9-80ae-013115238e0e.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

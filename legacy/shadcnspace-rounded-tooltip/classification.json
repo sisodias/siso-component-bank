@@ -1,0 +1,29 @@
+{
+  "category": "overlay",
+  "subcategory": "tooltip",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Provides contextual information on hover without cluttering the UI",
+    "Displays helpful hints for icons and buttons with limited space",
+    "Offers non-intrusive guidance for new users learning an interface",
+    "Reveals additional details for dense data tables and forms",
+    "Delivers accessibility-friendly descriptive labels for interactive elements"
+  ],
+  "ai_summary": "A rounded tooltip component built with shadcnspace styling conventions, using Radix UI primitives for accessibility and proper ARIA support. Features smooth hover-triggered display with rounded corners for a modern, friendly appearance. Designed to provide contextual information without disrupting user workflow, commonly used for icon buttons, form field hints, and data-dense interfaces.",
+  "_classifiedAt": "2026-04-22T09:15:25.178Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

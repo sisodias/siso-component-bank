@@ -1,0 +1,33 @@
+{
+  "id": "cult-ui__neumorph-button",
+  "author": "cult-ui",
+  "slug": "neumorph-button",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@cult-ui/components/neumorph-button",
+  "fetchedAt": "2026-08-29T04:03:49.594Z",
+  "completedAt": "2026-08-29T04:03:50.830Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "page-soft404",
+  "failureClass": "soft-404",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/cult-ui__neumorph-button/code.tsx",
+    "bytes": 4402,
+    "sha256": "eedbe76764edfbf40c5bea76c35987460c2b3ba1f998afa8d1515336106751d8",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is page-soft404/soft-404."
+  }
+}

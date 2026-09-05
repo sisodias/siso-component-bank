@@ -1,0 +1,34 @@
+{
+  "category": [
+    "form"
+  ],
+  "subcategory": "Audio show configuration panel",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Creating and configuring audio shows or podcasts with customizable voice options",
+    "Selecting host and guest voices from a dropdown with visual indicators",
+    "Choosing audio format styles, quality settings, and languages",
+    "Generating audio content through an integrated action button",
+    "Managing audio production workflows in a single interface"
+  ],
+  "ai_summary": "AudioShowCreator is a composite form component for configuring audio content creation, featuring dropdown selectors for voices, languages, format styles, and audio quality settings. Built with Framer Motion animations and Lucide icons, it provides a clean interface for podcast and audio show production workflows, combining card layouts with tabbed navigation and customizable select inputs.",
+  "_classifiedAt": "2026-04-22T09:04:15.570Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

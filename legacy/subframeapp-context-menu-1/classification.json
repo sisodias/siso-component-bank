@@ -1,0 +1,31 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "dropdown-context-menu",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Right-click context menus in desktop applications",
+    "Action menus for selected items in list views",
+    "Dropdown menus for toolbar actions",
+    "Keyboard-navigable option menus with hover states",
+    "Dark mode compatible context menus"
+  ],
+  "ai_summary": "A context menu component with hover states, active states, and keyboard navigation support. Features a Row subcomponent with icon slot, children text, and right slot for additional actions. Includes dark mode support via Tailwind dark: classes and uses Subframe's icon system. Designed as a reusable overlay pattern for SaaS and dev tool interfaces.",
+  "_classifiedAt": "2026-04-23T17:34:32.711Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,36 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "portfolio-grid",
+  "visual_style": [
+    "minimalist",
+    "gradient",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "creator-tools",
+    "saas",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Portfolio section for creative professionals showcasing their best work",
+    "Project gallery for design studios displaying case studies",
+    "Showcase page for SaaS products with rich media cards",
+    "Works section for agency websites with interactive hover states",
+    "Personal portfolio with smooth mouse-tracking animations"
+  ],
+  "ai_summary": "An interactive project showcase component featuring a grid of portfolio cards with images, titles, descriptions, and years. Implements smooth mouse-tracking animations using lerp interpolation and hover state transitions for a polished, premium feel. Ideal for creative portfolios, agency sites, and SaaS product showcases requiring engaging visual presentation of work samples.",
+  "_classifiedAt": "2026-04-22T09:00:58.115Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

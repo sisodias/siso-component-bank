@@ -1,0 +1,29 @@
+{
+  "category": "media",
+  "subcategory": "infinite-marquee-slider",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying client logos or partner logos in a continuously scrolling banner",
+    "Showing testimonials in an animated horizontal or vertical strip",
+    "Featuring product images or categories in an auto-scrolling carousel",
+    "Creating attention-grabbing announcement banners with continuous motion",
+    "Displaying skill tags or technology badges in a scrolling showcase"
+  ],
+  "ai_summary": "A configurable infinite marquee slider component that continuously scrolls content horizontally or vertically with adjustable speed, gap, and direction settings. Built with Framer Motion for smooth animations and react-use-measure for responsive dimension tracking, making it ideal for showcasing logos, testimonials, featured items, or any repeating content in an engaging animated format.",
+  "_classifiedAt": "2026-04-23T16:50:43.876Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

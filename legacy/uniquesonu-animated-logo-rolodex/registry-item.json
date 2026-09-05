@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "uniquesonu-animated-logo-rolodex",
+  "type": "registry:ui",
+  "title": "Uniquesonu Animated Logo Rolodex",
+  "description": "Installed from https://21st.dev/r/uniquesonu/animated-logo-rolodex",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "uniquesonu-animated-logo-rolodex"
+  ],
+  "files": [
+    {
+      "path": "animated-logo-rolodex.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "react-icons",
+    "tailwind-merge"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/uniquesonu/animated-logo-rolodex",
+    "fetchedAt": "2026-04-23T01:18:04.160Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

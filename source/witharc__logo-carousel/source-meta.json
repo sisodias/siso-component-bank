@@ -1,0 +1,26 @@
+{
+  "id": "witharc__logo-carousel",
+  "author": "witharc",
+  "slug": "logo-carousel",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@witharc/components/logo-carousel",
+  "fetchedAt": "2026-08-29T07:57:24.426Z",
+  "completedAt": "2026-08-29T07:57:26.409Z",
+  "versionedFilename": "code.1784430890767-64ab995c-f7fe-4fd5-bff4-6a3f0eb74e65.tsx",
+  "codeReference": "r2://components-code-private/witharc/logo-carousel/code.1784430890767-64ab995c-f7fe-4fd5-bff4-6a3f0eb74e65.tsx",
+  "codeUrl": "https://cdn.21st.dev/witharc/logo-carousel/code.1784430890767-64ab995c-f7fe-4fd5-bff4-6a3f0eb74e65.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

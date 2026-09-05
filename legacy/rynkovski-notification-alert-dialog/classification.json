@@ -1,0 +1,30 @@
+{
+  "category": "overlay",
+  "subcategory": "alert-dialog, confirmation-modal",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Confirm destructive actions like deletions or data loss operations",
+    "Display important notifications that require user acknowledgment",
+    "Request user confirmation before processing sensitive transactions",
+    "Show error alerts or warnings with clear action paths",
+    "Prompt users for confirmation before form submissions or state changes"
+  ],
+  "ai_summary": "A Radix UI-based alert dialog system with smooth fade, zoom, and slide animations. Features a semi-transparent overlay backdrop, accessible keyboard navigation, and a responsive centered modal with configurable header, body, and action sections. Built on shadcn/ui patterns with Tailwind CSS styling for consistent theming.",
+  "_classifiedAt": "2026-04-23T17:21:36.192Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

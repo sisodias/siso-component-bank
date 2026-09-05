@@ -1,0 +1,27 @@
+{
+  "category": "feedback",
+  "subcategory": "animated-preloader",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Initial page load splash screen for websites and apps",
+    "Welcome experience with international greetings for global audiences",
+    "Loading state indicator during data fetching operations",
+    "Brand introduction moment during app startup",
+    "Transition overlay before main content reveal"
+  ],
+  "ai_summary": "An animated preloader component featuring cycling international greeting text with a curved SVG path reveal and smooth slide-up exit animation. Built with Framer Motion for sophisticated motion design, this component cycles through 8 language greetings before gracefully exiting and triggering an onComplete callback. Perfect for creating polished loading experiences and splash screen moments.",
+  "_classifiedAt": "2026-04-23T16:43:20.800Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

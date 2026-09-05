@@ -1,0 +1,26 @@
+{
+  "id": "shadcnspace__shine-hover",
+  "author": "shadcnspace",
+  "slug": "shine-hover",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcnspace/components/shine-hover",
+  "fetchedAt": "2026-08-29T07:12:35.915Z",
+  "completedAt": "2026-08-29T07:12:38.314Z",
+  "versionedFilename": "code.1773072741092.tsx",
+  "codeReference": "r2://components-code-private/larsen66/shine-hover/code.1773072741092.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/shine-hover/code.1773072741092.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 765,
+  "sha256": "192f6d0fc71a84db43c1bde0a6b17098deab27edc643c22213d06df7fbe0ba47",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

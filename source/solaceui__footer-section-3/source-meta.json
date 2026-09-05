@@ -1,0 +1,26 @@
+{
+  "id": "solaceui__footer-section-3",
+  "author": "solaceui",
+  "slug": "footer-section-3",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@solaceui/components/footer-section-3",
+  "fetchedAt": "2026-08-29T07:22:47.442Z",
+  "completedAt": "2026-08-29T07:22:49.643Z",
+  "versionedFilename": "code.1786699456470-637658da-3001-4af5-8b9e-7c1e55168b6b.tsx",
+  "codeReference": "r2://components-code-private/solaceui/footer-section-3/code.1786699456470-637658da-3001-4af5-8b9e-7c1e55168b6b.tsx",
+  "codeUrl": "https://cdn.21st.dev/solaceui/footer-section-3/code.1786699456470-637658da-3001-4af5-8b9e-7c1e55168b6b.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

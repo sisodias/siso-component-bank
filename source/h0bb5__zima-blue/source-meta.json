@@ -1,0 +1,26 @@
+{
+  "id": "h0bb5__zima-blue",
+  "author": "h0bb5",
+  "slug": "zima-blue",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@h0bb5/components/zima-blue",
+  "fetchedAt": "2026-08-29T04:53:39.001Z",
+  "completedAt": "2026-08-29T04:53:41.140Z",
+  "versionedFilename": "code.1750315791872.tsx",
+  "codeReference": "r2://components-code-private/h0bb5/zima-blue/code.1750315791872.tsx",
+  "codeUrl": "https://cdn.21st.dev/h0bb5/zima-blue/code.1750315791872.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 882,
+  "sha256": "ec8d47c678515f492a16166d535c9c13a69e0434444f322a416ae2236a77e5c2",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

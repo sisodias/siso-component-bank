@@ -1,0 +1,26 @@
+{
+  "id": "felipemenezes098__cta-01",
+  "author": "felipemenezes098",
+  "slug": "cta-01",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@felipemenezes098/components/cta-01",
+  "fetchedAt": "2026-08-29T04:48:14.381Z",
+  "completedAt": "2026-08-29T04:48:16.797Z",
+  "versionedFilename": "code.1783534007738.tsx",
+  "codeReference": "r2://components-code-private/felipemenezes098/cta-01/code.1783534007738.tsx",
+  "codeUrl": "https://cdn.21st.dev/felipemenezes098/cta-01/code.1783534007738.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1042,
+  "sha256": "b4d45de7c8df1b6f9ffa8e1ad14ea53bdffd66b8377731d11b9a2519caf351d9",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

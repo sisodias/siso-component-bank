@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@serafimcloud/components/hotkey",
+  "author": "serafimcloud",
+  "slug": "hotkey",
+  "name": "hotkey",
+  "description": "Display a keyboard shortcut hint compatible with shadcn/ui components such as Input and Tooltip",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/serafimcloud/hotkey?api_key=$API_KEY_21ST\"",
+  "id": "serafimcloud__hotkey",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1150.html",
+  "previewUrl": "https://cdn.21st.dev/user_2nElBLvklOKlAURm6W1PTu6yYFh/hotkey.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

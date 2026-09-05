@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "tag-token-input",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Adding categorical tags to content or products in a content management system",
+    "Collecting multiple keyword or topic selections in a form submission",
+    "Creating audience or interest segments in a creator or marketing platform",
+    "Managing filter selections in an e-commerce or listing interface"
+  ],
+  "ai_summary": "A tag-input component that allows users to create and manage tags by typing and pressing Enter, with smooth blur-scale animations on tag creation and removal. Features glass-morphism styling with backdrop-blur, spring-based motion transitions, and keyboard navigation support for accessibility.",
+  "_classifiedAt": "2026-04-23T11:33:50.604Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

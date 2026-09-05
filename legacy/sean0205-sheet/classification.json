@@ -1,0 +1,32 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "sheet-drawer",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying contextual forms or inputs in a sliding overlay panel",
+    "Showing confirmation dialogs with customizable alert variants",
+    "Presenting settings or configuration options without navigating away",
+    "Revealing detailed information or notifications in a dismissible sheet",
+    "Providing focused workflow overlays for data entry or review tasks"
+  ],
+  "ai_summary": "A flexible sheet/drawer overlay component with variant-based styling for different alert states. Features multiple appearance modes (solid, outline, light, stroke) and size options, using class-variance-authority for consistent theming. Includes built-in close functionality with a dismiss button, making it ideal for modal-like interactions in web applications.",
+  "_classifiedAt": "2026-04-23T17:23:50.408Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

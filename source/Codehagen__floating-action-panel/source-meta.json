@@ -1,0 +1,26 @@
+{
+  "id": "Codehagen__floating-action-panel",
+  "author": "Codehagen",
+  "slug": "floating-action-panel",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@Codehagen/components/floating-action-panel",
+  "fetchedAt": "2026-08-29T04:00:29.883Z",
+  "completedAt": "2026-08-29T04:00:31.031Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null
+}

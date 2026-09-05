@@ -1,0 +1,41 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading-indicator",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Indicates loading state while fetching data from API",
+    "Shows processing status during form submissions",
+    "Displays progress feedback during file uploads",
+    "Signals background operations in dashboards",
+    "Provides visual feedback during navigation transitions"
+  ],
+  "ai_summary": "A minimalist three-dot pulsating loader component that uses Framer Motion to animate scale and opacity with a staggered timing effect. The flat red dots create a clean, distraction-free loading indicator suitable for any interface context.",
+  "_classifiedAt": "2026-04-23T17:02:56.601Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

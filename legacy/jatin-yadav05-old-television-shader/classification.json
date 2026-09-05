@@ -1,0 +1,31 @@
+{
+  "category": "media",
+  "subcategory": "webgl-shader",
+  "visual_style": [
+    "3d",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "creator-tools",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creating animated visual effects in React Three Fiber applications",
+    "Adding retro/vintage shader aesthetics to web experiences",
+    "Implementing custom GLSL fragment and vertex shaders with noise-based animations",
+    "Building interactive 3D graphics with time-based shader uniforms",
+    "Developing generative art and visual effect components for creative projects"
+  ],
+  "ai_summary": "A React Three Fiber WebGL shader component that creates animated visual effects using custom GLSL fragment and vertex shaders. Features time-based animations with noise functions (fbm, smoothNoise) and color interpolation between defined gradients. Uses shaderMaterial from drei, extends THREE materials, and implements useFrame for smooth per-frame updates. Designed for creating immersive 3D graphics and retro television-style visual effects in web applications.",
+  "_classifiedAt": "2026-04-23T01:41:02.022Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

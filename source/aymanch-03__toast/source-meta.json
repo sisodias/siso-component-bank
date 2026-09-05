@@ -1,0 +1,26 @@
+{
+  "id": "aymanch-03__toast",
+  "author": "aymanch-03",
+  "slug": "toast",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@aymanch-03/components/toast",
+  "fetchedAt": "2026-08-29T03:46:38.690Z",
+  "completedAt": "2026-08-29T03:46:40.522Z",
+  "versionedFilename": "code.1765031264770.tsx",
+  "codeReference": "r2://components-code-private/aymanch-03/toast/code.1765031264770.tsx",
+  "codeUrl": "https://cdn.21st.dev/aymanch-03/toast/code.1765031264770.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3658,
+  "sha256": "86563410bc118a3e9be23cffc55e5a71a31d459416997ec692170aac4414d50f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

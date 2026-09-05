@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "date-range-picker",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "healthcare",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Booking appointment date ranges with minimum lead time constraints",
+    "Filtering analytics or reports by custom date periods",
+    "Scheduling availability selection for resource booking systems",
+    "Setting project milestones with earliest allowable start dates",
+    "E-commerce order return window selection within valid timeframes"
+  ],
+  "ai_summary": "A Shadcn-based calendar input component for selecting date ranges with configurable minimum date constraints. Built on Radix UI primitives for accessibility, featuring variant-based styling through CVA. Designed for use cases requiring users to pick start and end dates while enforcing minimum date thresholds, commonly used in booking systems, analytics dashboards, and scheduling interfaces across SaaS, healthcare, and education platforms.",
+  "_classifiedAt": "2026-04-23T17:27:00.495Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

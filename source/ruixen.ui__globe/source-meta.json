@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__globe",
+  "author": "ruixen.ui",
+  "slug": "globe",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/globe",
+  "fetchedAt": "2026-08-29T06:42:59.279Z",
+  "completedAt": "2026-08-29T06:43:01.539Z",
+  "versionedFilename": "code.1755628835004.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/globe/code.1755628835004.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/globe/code.1755628835004.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2548,
+  "sha256": "40e5daa043a51ab46b9aa4b756645431a33389e680a9388712bab404a25b7507",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

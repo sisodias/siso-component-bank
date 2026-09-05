@@ -1,0 +1,28 @@
+{
+  "category": "data-display",
+  "subcategory": "faq-accordion",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying frequently asked questions with expandable answers on landing pages",
+    "Creating organized Q&A sections for product documentation and help centers",
+    "Providing customer support information with space for imagery",
+    "Building knowledge base sections with clean, scannable content",
+    "Serving as informational overlays for onboarding flows"
+  ],
+  "ai_summary": "A minimalist FAQ accordion component featuring expandable questions and answers with an optional side image. Built with React state management for open/close functionality, using Tailwind CSS for responsive styling and Poppins font for a clean, modern aesthetic. The component supports click-to-reveal interactions and includes responsive breakpoints for both desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T01:45:34.306Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

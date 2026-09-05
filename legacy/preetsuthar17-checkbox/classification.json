@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "checkbox-with-label",
+  "visual_style": [],
+  "interactions": [
+    "morph",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Multi-option form selections with labels and descriptions",
+    "Terms of service or agreement checkboxes",
+    "Feature toggles in settings panels",
+    "Filter checkboxes in e-commerce or data tables",
+    "Accessible form inputs with error states and validation feedback"
+  ],
+  "ai_summary": "A polished Radix UI-based checkbox component with size variants (sm/default/lg), integrated label and description support, and error state handling. Features smooth check mark drawing animations via motion/react, proper focus states with ring indicators, and full accessibility compliance. Follows shadcn/ui design patterns with Tailwind CSS for consistent styling across form-heavy applications.",
+  "_classifiedAt": "2026-04-23T17:07:16.622Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "theorcdev__8bit-item",
+  "author": "theorcdev",
+  "slug": "8bit-item",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theorcdev/components/8bit-item",
+  "fetchedAt": "2026-08-29T07:33:40.937Z",
+  "completedAt": "2026-08-29T07:33:43.161Z",
+  "versionedFilename": "code.1780525249347.tsx",
+  "codeReference": "r2://components-code-private/larsen66/8bit-item/code.1780525249347.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/8bit-item/code.1780525249347.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4607,
+  "sha256": "3ec0ec8ddad09aa523ca49726b6d0521de12de14b8020265d67ce35c341b29f0",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

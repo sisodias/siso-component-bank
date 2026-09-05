@@ -1,0 +1,33 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "conversation-branch-switcher",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "ai-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Navigating between different AI conversation branches in chat interfaces",
+    "Switching between multiple versions of AI-generated responses",
+    "Enabling users to explore parallel conversation paths in collaborative editing",
+    "Managing multi-turn dialogue branching for AI assistants",
+    "Providing navigation controls for content with multiple variations"
+  ],
+  "ai_summary": "A React context-based navigation component for managing conversation branches in AI chat interfaces. Provides previous/next navigation between content branches with state management, commonly used in AI-powered applications for exploring different response paths. The component uses a provider pattern with hooks for child components to access navigation state and methods.",
+  "_classifiedAt": "2026-04-23T17:42:01.850Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

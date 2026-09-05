@@ -1,0 +1,29 @@
+{
+  "category": "media",
+  "subcategory": "text-cycling-animation",
+  "visual_style": [],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Rotating hero headlines with smooth blur transitions between words",
+    "Dynamic tagline display in marketing landing pages",
+    "Animated word cycling for call-to-action emphasis",
+    "Text animation for product feature highlights",
+    "Visually engaging word transitions in hero sections"
+  ],
+  "ai_summary": "A Framer Motion-powered text cycling component that smoothly transitions between an array of words with blur and opacity effects. The component auto-rotates words at configurable intervals with enter and exit animations, measuring word widths dynamically to prevent layout shifts. Ideal for hero sections and marketing pages needing engaging word-based animations.",
+  "_classifiedAt": "2026-04-23T17:35:57.503Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

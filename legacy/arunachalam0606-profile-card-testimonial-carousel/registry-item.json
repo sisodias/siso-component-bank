@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "arunachalam0606-profile-card-testimonial-carousel",
+  "type": "registry:ui",
+  "title": "Arunachalam0606 Profile Card Testimonial Carousel",
+  "description": "Installed from https://21st.dev/r/arunachalam0606/profile-card-testimonial-carousel",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "arunachalam0606-profile-card-testimonial-carousel"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "profile-card-testimonial-carousel.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "lucide-react",
+    "next"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/arunachalam0606/profile-card-testimonial-carousel",
+    "fetchedAt": "2026-04-23T02:28:33.184Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "amanshakya1808-animated-otp",
+  "type": "registry:ui",
+  "title": "Amanshakya1808 Animated Otp",
+  "description": "Installed from https://21st.dev/r/amanshakya1808/animated-otp",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "amanshakya1808-animated-otp"
+  ],
+  "files": [
+    {
+      "path": "animated-otp.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/amanshakya1808/animated-otp",
+    "fetchedAt": "2026-04-23T01:18:19.153Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

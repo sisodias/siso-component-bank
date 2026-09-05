@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__launch-roadmap",
+  "author": "ruixen.ui",
+  "slug": "launch-roadmap",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/launch-roadmap",
+  "fetchedAt": "2026-08-29T06:44:30.726Z",
+  "completedAt": "2026-08-29T06:44:32.939Z",
+  "versionedFilename": "code.1760784666998.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/launch-roadmap/code.1760784666998.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/launch-roadmap/code.1760784666998.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3059,
+  "sha256": "d41802dba3d9c1546483ebdd55f188ce6e5d80cc09c9cc488ae68af506efbe1f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

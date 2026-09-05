@@ -1,0 +1,28 @@
+{
+  "category": "input",
+  "subcategory": "clipboard-action",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Copying code snippets in developer documentation or IDE-like interfaces",
+    "Copying referral or coupon codes during checkout flows",
+    "Copying shareable links or identifiers in dashboards",
+    "Enabling quick clipboard access in any text-display context",
+    "Providing instant feedback when copying content to clipboard"
+  ],
+  "ai_summary": "A compact copy-to-clipboard button with visual state feedback, displaying a checkmark icon when content is successfully copied. Features smooth scale and opacity transitions, three size variants, and automatic state reset after 1.5 seconds. Built with Lucide icons and Tailwind CSS for minimal footprint.",
+  "_classifiedAt": "2026-04-22T09:17:58.575Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

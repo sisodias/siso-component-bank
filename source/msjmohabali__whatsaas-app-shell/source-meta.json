@@ -1,0 +1,26 @@
+{
+  "id": "msjmohabali__whatsaas-app-shell",
+  "author": "msjmohabali",
+  "slug": "whatsaas-app-shell",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@msjmohabali/components/whatsaas-app-shell",
+  "fetchedAt": "2026-08-29T05:52:41.407Z",
+  "completedAt": "2026-08-29T05:52:43.562Z",
+  "versionedFilename": "code.1781562242651.tsx",
+  "codeReference": "r2://components-code-private/msjmohabali/whatsaas-app-shell/code.1781562242651.tsx",
+  "codeUrl": "https://cdn.21st.dev/msjmohabali/whatsaas-app-shell/code.1781562242651.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3008,
+  "sha256": "e63355063eb1d6f53da1adea7124e94878ab20e90de2b2bc004d33ea6a3b4773",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "avanishverma4__hero-01",
+  "author": "avanishverma4",
+  "slug": "hero-01",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@avanishverma4/components/hero-01",
+  "fetchedAt": "2026-08-29T03:43:44.951Z",
+  "completedAt": "2026-08-29T03:43:47.038Z",
+  "versionedFilename": "code.1760075510491.tsx",
+  "codeReference": "r2://components-code-private/avanishverma4/hero-01/code.1760075510491.tsx",
+  "codeUrl": "https://cdn.21st.dev/avanishverma4/hero-01/code.1760075510491.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7686,
+  "sha256": "393add43ac593abebd939c45e421cc256314290a6b0b5f4c71f339c906eb39b3",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

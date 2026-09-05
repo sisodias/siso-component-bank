@@ -1,0 +1,30 @@
+{
+  "category": "media",
+  "subcategory": "Three.js WebGL shader background",
+  "visual_style": [
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Animated hero section backgrounds for landing pages",
+    "Dynamic visual effects for product showcases",
+    "Interactive decorative backgrounds for web applications",
+    "Immersive visual layers for media and entertainment sites"
+  ],
+  "ai_summary": "A Three.js WebGL shader component that renders flowing wave animations using custom GLSL vertex and fragment shaders. The component creates dynamic, animated wave effects suitable for use as interactive backgrounds or hero section elements. Includes React state hooks to control shader uniforms for reminder states and dimming effects.",
+  "_classifiedAt": "2026-04-23T01:38:52.815Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "button-primitive",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Triggering actions in contact management interfaces",
+    "Submitting forms in contact-related workflows",
+    "Navigating between contact card states",
+    "Opening modal dialogs for contact details",
+    "Performing CRUD operations on contact entries"
+  ],
+  "ai_summary": "A reusable button component built with Radix UI Slot and class-variance-authority for flexible variant and size styling. Supports six visual variants (default, destructive, outline, secondary, ghost, link) with four size options (default, small, large, icon). Part of a contact card component system, designed for integration in contact management interfaces and form-based workflows.",
+  "_classifiedAt": "2026-04-23T17:33:25.657Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

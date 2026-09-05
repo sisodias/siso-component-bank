@@ -1,0 +1,38 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-component-with-variants",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "fintech",
+    "healthcare",
+    "education",
+    "real-estate",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Form submission buttons with multiple visual variants",
+    "Icon-only buttons for toolbars and action bars",
+    "Secondary and ghost buttons for secondary actions",
+    "Responsive button sizing across breakpoints",
+    "Accessible button implementation with Radix UI"
+  ],
+  "ai_summary": "A reusable Button component built with Radix UI Slot for polymorphic rendering and class-variance-authority for variant management. Supports multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon) with full TypeScript support and accessibility features including focus-visible ring styling and disabled state handling.",
+  "_classifiedAt": "2026-04-23T01:40:29.521Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,28 @@
+{
+  "category": "input",
+  "subcategory": "file-upload",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Profile picture or avatar upload in user settings",
+    "Image upload for product listings in e-commerce",
+    "Media upload in content management systems",
+    "Document or image attachment in forms"
+  ],
+  "ai_summary": "A minimalist image upload component with thumbnail preview, supporting both light and dark modes. Uses Ark UI library for accessible file handling with drag-and-drop ready structure, featuring a circular avatar-style preview area and contextual button states that change between Upload and Change image based on selection state.",
+  "_classifiedAt": "2026-04-23T01:35:50.522Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

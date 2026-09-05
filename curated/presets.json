@@ -1,0 +1,42 @@
+{
+  "operator": {
+    "project": "SISO_Agency/apps/oracle-operator (Oracle streaming operator dashboard; React 19, Tailwind 4, shadcn base-nova, recharts, lucide)",
+    "dna": "tenants/oracle/dna.md",
+    "targets": ["operator", "oracle", "bank"],
+    "surfaces": {
+      "login":         ["auth/", "background/animated"],
+      "dashboard":     ["chart/", "dashboard/"],
+      "notifications": ["nav/notifications", "feedback/"],
+      "gamification":  ["gamification/"],
+      "ai":            ["ai/", "chat/"],
+      "vps":           ["dashboard/system", "dashboard/storage", "dashboard/live-metrics", "feedback/agent-loader"],
+      "onboarding":    ["onboarding/", "dialog/welcome", "dialog/onboarding"],
+      "calendar":      ["calendar/"],
+      "nav":           ["nav/", "search/"],
+      "inputs":        ["input/", "list/", "button/"]
+    },
+    "rules": [
+      "Everything in the bank is fair game for the operator unless Shaan's note says otherwise (his standing rule, 2026-09-04).",
+      "A ★ winner or ✓ keep outranks bank_score. His quote is the acceptance criterion; read it before adapting.",
+      "Mobile-form comps can be fitted to desktop; desktop-form comps cannot go the other way.",
+      "Adapt to tenants/oracle/dna.md, never paste. Pills only for count badges. One-ink alpha ladder. Off-round values.",
+      "The AI assistant should pop up from an input, not live in a permanent panel (his call on ai-input).",
+      "Robbability < 3 on a scout row means heavy deps or no source; budget for a rebuild."
+    ]
+  },
+  "models-app": {
+    "project": "Oracle models app (performer-facing)",
+    "dna": "tenants/oracle/dna.md",
+    "targets": ["models-app", "oracle", "bank"],
+    "surfaces": { "gamification": ["gamification/"], "chat": ["chat/", "ai/"], "cards": ["card/"], "social": ["media/", "card/social"] },
+    "rules": ["Gamification and dopamine comps are for the model side first (his note on achievement badges).", "Streaming text + thinking tool are for Oracle in the models app."]
+  },
+  "landing": {
+    "project": "any SISO landing page",
+    "dna": null,
+    "targets": ["landing", "bank"],
+    "surfaces": {},
+    "rules": ["He deliberately skipped landing comps; only bento-card and onboarding-dialog were kept. Use registry/21st/find.mjs for the rest."]
+  },
+  "all": { "project": "everything", "dna": null, "targets": [], "surfaces": {}, "rules": [] }
+}

@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card",
+    "layout"
+  ],
+  "subcategory": "Article card grid with responsive columns",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying blog posts in a responsive grid layout",
+    "Showcasing article collections with animated card entries",
+    "Creating content listing pages for media websites",
+    "Building news feed or editorial layouts",
+    "Organizing product or service articles in a showcase grid"
+  ],
+  "ai_summary": "A responsive article card grid component that displays content in a 1-3 column layout depending on screen size. Features staggered entrance animations using Framer Motion with spring-based transitions. Clean, minimalist styling with Tailwind CSS suitable for media, blogs, or content-heavy applications. Each card contains an image, title, and call-to-action link.",
+  "_classifiedAt": "2026-04-22T09:08:52.066Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input",
+    "other"
+  ],
+  "subcategory": "button with neobrutalist styling and variant system",
+  "visual_style": [
+    "neobrutalism"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Primary action triggers in forms and UI workflows",
+    "Secondary navigation elements with neutral styling",
+    "Icon-based interactive controls with circular sizing",
+    "Accessible focus-managed button states with keyboard support"
+  ],
+  "ai_summary": "A reusable button component featuring neobrutalist design with sharp borders, offset shadows, and satisfying hover offset animations. Built with class-variance-authority (CVA) supporting four variants (default, noShadow, neutral, reverse) and four sizes (default, sm, lg, icon). Integrates Radix UI Slot for composition flexibility. Note: source code exports Button despite the pagination title metadata.",
+  "_classifiedAt": "2026-04-23T16:38:47.336Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

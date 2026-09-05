@@ -1,0 +1,43 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "shatlyk1011-animated-dropdown",
+  "type": "registry:ui",
+  "title": "Shatlyk1011 Animated Dropdown",
+  "description": "Installed from https://21st.dev/r/Shatlyk1011/animated-dropdown",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "shatlyk1011-animated-dropdown"
+  ],
+  "files": [
+    {
+      "path": "animated-dropdown.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "clsx",
+    "framer-motion",
+    "lucide-react",
+    "tailwind-merge"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/Shatlyk1011/animated-dropdown",
+    "fetchedAt": "2026-04-22T06:32:03.386Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

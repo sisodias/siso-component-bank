@@ -1,0 +1,33 @@
+{
+  "id": "kokonutd__avatar-picker",
+  "author": "kokonutd",
+  "slug": "avatar-picker",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@kokonutd/components/avatar-picker",
+  "fetchedAt": "2026-08-29T05:17:59.874Z",
+  "completedAt": "2026-08-29T05:18:01.065Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/kokonutd__avatar-picker/code.tsx",
+    "bytes": 16549,
+    "sha256": "4246726b400deb7caeb34aa5b8e3d6f7ec52764995efda92bc21a885bf9dd159",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

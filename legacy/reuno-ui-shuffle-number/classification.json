@@ -1,0 +1,26 @@
+{
+  "category": "data-display",
+  "subcategory": "badge",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying status indicators or labels in application interfaces",
+    "Showing category tags on content cards or list items",
+    "Indicating counts or metadata on dashboard elements",
+    "Creating notification badges with count overlays",
+    "Rendering pill-style labels for form field indicators"
+  ],
+  "ai_summary": "A lightweight badge component using class-variance-authority for variant management. Supports four variants (default, secondary, destructive, outline) with standard hover state transitions. Built with Tailwind CSS utility classes for easy theming and consistent styling across applications. The component extends native HTML div elements with accessible focus ring states.",
+  "_classifiedAt": "2026-04-23T17:16:42.393Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "danielpetho__use-mouse-position",
+  "author": "danielpetho",
+  "slug": "use-mouse-position",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@danielpetho/components/use-mouse-position",
+  "fetchedAt": "2026-08-29T04:08:14.545Z",
+  "completedAt": "2026-08-29T04:08:15.672Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null
+}

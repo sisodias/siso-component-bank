@@ -1,0 +1,47 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "devongovett-react-aria-emoji-picker",
+  "type": "registry:ui",
+  "title": "Devongovett React Aria Emoji Picker",
+  "description": "Installed from https://21st.dev/r/devongovett/react-aria-emoji-picker",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "devongovett-react-aria-emoji-picker"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "popover.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "react-aria-emoji-picker.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-popover",
+    "emojibase",
+    "lucide-react",
+    "react-aria-components"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/devongovett/react-aria-emoji-picker",
+    "fetchedAt": "2026-04-23T02:28:43.013Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

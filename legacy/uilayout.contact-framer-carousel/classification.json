@@ -1,0 +1,29 @@
+{
+  "category": "media",
+  "subcategory": "image-carousel",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "e-commerce",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying portfolio or gallery images with smooth spring animations",
+    "Showcasing product images in e-commerce carousels",
+    "Presenting team members or testimonials in a media carousel",
+    "Featuring highlighted content or blog post images",
+    "Creating an image gallery for real estate property listings"
+  ],
+  "ai_summary": "A smooth Framer Motion-powered image carousel with spring animations for seamless horizontal navigation. Features image cards with titles displayed in a responsive layout that works across desktop and mobile platforms. Uses motion values and animate functions for fluid transitions between carousel items.",
+  "_classifiedAt": "2026-04-22T09:18:31.666Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

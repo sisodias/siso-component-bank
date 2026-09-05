@@ -1,0 +1,28 @@
+{
+  "category": "input",
+  "subcategory": "tags-input",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Adding searchable tags to blog posts and articles in content management systems",
+    "Categorizing products with custom keywords in e-commerce platforms",
+    "Filtering and organizing projects with user-defined labels in project management tools",
+    "Managing content taxonomy with dynamic tag chips in CMS interfaces",
+    "Collecting multi-value keyword inputs in form submissions"
+  ],
+  "ai_summary": "A flexible tags input component built with Ark UI that allows users to add, display, and remove tag chips dynamically. Features dark mode support, keyboard navigation for accessibility, and hover interactions for tag deletion. Designed for content categorization, filtering systems, and any use case requiring multi-value tag input in SaaS and e-commerce applications.",
+  "_classifiedAt": "2026-04-23T01:52:54.717Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

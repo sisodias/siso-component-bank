@@ -1,0 +1,32 @@
+{
+  "category": "overlay",
+  "subcategory": "dialog-modal",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying confirmation dialogs with backdrop blur overlay",
+    "Form submissions or content that requires focused user attention",
+    "Alert notifications and important messages in a modal format",
+    "Multi-size modal containers for various content types",
+    "Closing modal via click outside, Escape key, or close button"
+  ],
+  "ai_summary": "A reusable modal component with smooth fade animations, backdrop blur effect, and click-outside/Escape key dismissal. Supports five size variants (sm, md, lg, xl, full), prevents body scroll when active, and uses theme-aware styling with CSS variables. Built with framer-motion for transitions and is fully responsive across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T01:39:55.174Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

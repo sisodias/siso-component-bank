@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ssicevs/components/alert-stack",
+  "author": "ssicevs",
+  "slug": "alert-stack",
+  "name": "alert-stack",
+  "description": "Collapsed notification deck that fans open on hover — each dismiss re-settles the pile, and a quiet restore control appears once every alert is cleared. Light and dark via theme tokens.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ssicevs/alert-stack?api_key=$API_KEY_21ST\"",
+  "id": "ssicevs__alert-stack",
+  "bundleUrl": "https://cdn.21st.dev/ssicevs/alert-stack/default/bundle.1785376198259-6ba69e0b-8631-4251-bdcb-08679abfdb76.html",
+  "previewUrl": "https://cdn.21st.dev/ssicevs/alert-stack/default/preview.1785376198259-6ba69e0b-8631-4251-bdcb-08679abfdb76.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

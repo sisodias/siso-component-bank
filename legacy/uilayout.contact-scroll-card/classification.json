@@ -1,0 +1,31 @@
+{
+  "category": [
+    "card",
+    "media"
+  ],
+  "subcategory": "scrollable-article-cards",
+  "visual_style": [
+    "dark",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying article or blog post previews in a horizontally scrollable card layout",
+    "Showcasing portfolio items or featured content with stacked card visual effects",
+    "Creating an interactive news feed or content discovery interface"
+  ],
+  "ai_summary": "A dark-themed scrollable card component that displays article previews in a horizontal scrolling layout. Features smooth scroll animation via ReactLenis and visual card rotation effects for a dynamic, stacked appearance. Ideal for showcasing media content, blog posts, or portfolio items in an engaging scrollable interface.",
+  "_classifiedAt": "2026-04-23T17:38:34.307Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

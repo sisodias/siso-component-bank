@@ -1,0 +1,26 @@
+{
+  "id": "nexus-ui__cinematic-logo-cloud",
+  "author": "nexus-ui",
+  "slug": "cinematic-logo-cloud",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@nexus-ui/components/cinematic-logo-cloud",
+  "fetchedAt": "2026-08-29T05:58:11.675Z",
+  "completedAt": "2026-08-29T05:58:13.893Z",
+  "versionedFilename": "code.1784712712559-f552daa0-8218-459e-a326-7bae6930eb4e.tsx",
+  "codeReference": "r2://components-code-private/nexus-ui/cinematic-logo-cloud/code.1784712712559-f552daa0-8218-459e-a326-7bae6930eb4e.tsx",
+  "codeUrl": "https://cdn.21st.dev/nexus-ui/cinematic-logo-cloud/code.1784712712559-f552daa0-8218-459e-a326-7bae6930eb4e.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

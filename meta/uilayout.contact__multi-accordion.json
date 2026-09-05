@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@uilayout.contact/components/multi-accordion",
+  "author": "uilayout.contact",
+  "slug": "multi-accordion",
+  "name": "multi-accordion",
+  "description": "A flexible accordion component that allows multiple sections to stay open at the same time. Unlike a traditional accordion, where opening one section automatically closes the others, this component gives you the option to expand and view multiple sections simultaneously.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/uilayout.contact/multi-accordion?api_key=$API_KEY_21ST\"",
+  "id": "uilayout.contact__multi-accordion",
+  "bundleUrl": "https://cdn.21st.dev/uilayout.contact/multi-accordion/default/bundle.1756306752599.html",
+  "previewUrl": "https://cdn.21st.dev/uilayout.contact/multi-accordion/default/preview.1756306752599.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

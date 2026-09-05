@@ -1,0 +1,34 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "user-avatar",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display user profile images in messaging applications and chat interfaces",
+    "Show participant avatars in team collaboration tools and video calls",
+    "Render user thumbnails in comment sections and social feeds",
+    "Display contact avatars in address books and contact lists",
+    "Show sender avatars in notification panels and activity feeds"
+  ],
+  "ai_summary": "A minimalist avatar component built on Radix UI primitives that displays user profile images with automatic fallback to initials when images fail to load. Supports standard avatar use cases including messaging, user lists, and profile displays with rounded-full styling.",
+  "_classifiedAt": "2026-04-22T09:08:13.685Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

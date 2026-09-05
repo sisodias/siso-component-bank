@@ -1,0 +1,26 @@
+{
+  "id": "alexperezcedeno__premiumleather",
+  "author": "alexperezcedeno",
+  "slug": "premiumleather",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@alexperezcedeno/components/premiumleather",
+  "fetchedAt": "2026-08-29T03:32:22.796Z",
+  "completedAt": "2026-08-29T03:32:25.494Z",
+  "versionedFilename": "code.1782643636891.tsx",
+  "codeReference": "r2://components-code-private/alexperezcedeno/premiumleather/code.1782643636891.tsx",
+  "codeUrl": "https://cdn.21st.dev/alexperezcedeno/premiumleather/code.1782643636891.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 24649,
+  "sha256": "44350fa75c982654686c05cd7553748f34e5ae15d5724966be73474d0bff265f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

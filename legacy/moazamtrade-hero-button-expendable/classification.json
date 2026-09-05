@@ -1,0 +1,34 @@
+{
+  "category": [
+    "hero",
+    "overlay",
+    "form"
+  ],
+  "subcategory": "expandable-cta-hero",
+  "visual_style": [
+    "gradient",
+    "glass-morphism"
+  ],
+  "interactions": [
+    "click-reveal",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "saas",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero sections where users need to sign up or get a quote through an expandable CTA",
+    "Trading and financial platforms requiring quick user onboarding with visual appeal",
+    "SaaS product pages with interactive call-to-action flows that minimize friction"
+  ],
+  "ai_summary": "A hero section component featuring an expandable button that transforms into a modal form with shader-based visual effects including GodRays background. Supports light/dark mode, includes form submission states (idle/submitting/success), and uses framer-motion for smooth animations. Designed for fintech and SaaS landing pages requiring an engaging, interactive CTA that keeps users on the hero view while capturing leads or signups.",
+  "_classifiedAt": "2026-04-22T09:06:28.261Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

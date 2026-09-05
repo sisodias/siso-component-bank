@@ -1,0 +1,30 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "dismissible-info-card",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display contextual information with dismissible behavior for user onboarding flows",
+    "Show product feature highlights or tips in SaaS applications",
+    "Present announcements or notifications that users can dismiss permanently or temporarily",
+    "Contain media (images/videos) alongside descriptive text in a card layout",
+    "Provide persistent user guidance with localStorage-based memory of dismissal state"
+  ],
+  "ai_summary": "A versatile, dismissible info card component with support for titles, descriptions, media content, and footer actions. Built with motion/react for smooth animations and localStorage persistence for dismiss state management. Features a modular sub-component architecture including InfoCardTitle, InfoCardDescription, InfoCardContent, InfoCardMedia, InfoCardFooter, and InfoCardDismiss for flexible composition. Ideal for onboarding tooltips, feature announcements, and contextual user guidance in SaaS and e-commerce platforms.",
+  "_classifiedAt": "2026-04-23T16:48:30.595Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

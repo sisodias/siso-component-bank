@@ -1,0 +1,31 @@
+{
+  "category": "media",
+  "subcategory": "animated-shine-border",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Adding an animated shine effect to card components for enhanced visual appeal",
+    "Creating premium-looking feature cards on landing pages",
+    "Decorating pricing tables with eye-catching animated borders",
+    "Enhancing dashboard widgets with subtle animated highlights",
+    "Adding visual polish to hero section content containers"
+  ],
+  "ai_summary": "ShineBorder is an atomic React component that creates a smooth, animated shine effect sweeping across a border using CSS mask and radial gradient techniques. It wraps any content with a configurable animated border featuring customizable radius, width, duration, and color properties, making it ideal for adding premium visual polish to cards, pricing tables, and feature sections in SaaS and landing page designs.",
+  "_classifiedAt": "2026-04-23T16:36:06.492Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

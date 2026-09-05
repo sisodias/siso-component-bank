@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "otp-verification",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Secure one-time password entry for two-factor authentication flows",
+    "Phone or email verification code input during account registration",
+    "Login authentication with short numeric codes",
+    "Password reset verification workflows",
+    "Transaction approval codes in banking applications"
+  ],
+  "ai_summary": "A Shadcn UI-inspired OTP (One-Time Password) input component featuring individual slots for digit entry, animated caret display, and focus ring states. Built on the input-otp library with React Context for state management. Includes comprehensive accessibility support with ARIA attributes and keyboard navigation for verification workflows like 2FA, phone/email validation, and secure authentication.",
+  "_classifiedAt": "2026-04-22T09:01:57.533Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

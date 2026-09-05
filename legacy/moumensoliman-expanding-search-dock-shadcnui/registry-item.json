@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "moumensoliman-expanding-search-dock-shadcnui",
+  "type": "registry:ui",
+  "title": "Moumensoliman Expanding Search Dock Shadcnui",
+  "description": "Installed from https://21st.dev/r/moumensoliman/expanding-search-dock-shadcnui",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "moumensoliman-expanding-search-dock-shadcnui"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "expanding-search-dock-shadcnui.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/moumensoliman/expanding-search-dock-shadcnui",
+    "fetchedAt": "2026-04-22T06:32:00.613Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

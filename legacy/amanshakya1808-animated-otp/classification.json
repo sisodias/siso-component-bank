@@ -1,0 +1,28 @@
+{
+  "category": "input",
+  "subcategory": "otp-verification",
+  "visual_style": [],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Two-factor authentication flow during user login",
+    "Account verification during registration or password reset",
+    "Transaction approval and payment confirmation in banking apps",
+    "Secure session verification for enterprise applications",
+    "One-time code entry for multi-device synchronization"
+  ],
+  "ai_summary": "An animated OTP (One-Time Password) input component featuring staggered digit reveal animations with fade effects. The component displays a security-themed card with animated digits cycling through auto-generated codes, designed for 2FA and verification flows. Includes dark mode support and configurable animation timing for integration into login and authentication interfaces.",
+  "_classifiedAt": "2026-04-23T01:35:33.530Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

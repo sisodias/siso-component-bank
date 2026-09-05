@@ -1,0 +1,26 @@
+{
+  "id": "componentry__animated-gradient",
+  "author": "componentry",
+  "slug": "animated-gradient",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@componentry/components/animated-gradient",
+  "fetchedAt": "2026-08-29T04:00:52.335Z",
+  "completedAt": "2026-08-29T04:00:54.516Z",
+  "versionedFilename": "code.1783533913815.tsx",
+  "codeReference": "r2://components-code-private/componentry/animated-gradient/code.1783533913815.tsx",
+  "codeUrl": "https://cdn.21st.dev/componentry/animated-gradient/code.1783533913815.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 19277,
+  "sha256": "d9805268db3c3385bde479644b49afd2776aa7ad9525167cb9b6afa05772751c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

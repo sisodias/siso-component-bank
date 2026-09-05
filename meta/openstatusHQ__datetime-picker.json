@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@openstatusHQ/components/datetime-picker",
+  "author": "openstatusHQ",
+  "slug": "datetime-picker",
+  "name": "datetime-picker",
+  "description": "A <TimePickerInput /> component built with React and Shadcn UI.\n\n- No additional library\n- Listens to keydown events\n- Supports arrow navigation\n- Formats date values\n- Optimizes mobile keyboard\n\nPowered by OpenStatus",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/openstatusHQ/datetime-picker?api_key=$API_KEY_21ST\"",
+  "id": "openstatusHQ__datetime-picker",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1413.html",
+  "previewUrl": "https://cdn.21st.dev/user_openstatusHQ/datetime-picker.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 158,
+  "demo_id": 1413,
+  "video_url": "https://cdn.21st.dev/user_openstatusHQ/datetime-picker/default/video.mp4"
+}

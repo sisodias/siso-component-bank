@@ -1,0 +1,30 @@
+{
+  "category": "form",
+  "subcategory": "collapsible-panel",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "FAQ sections for product documentation or help centers",
+    "Settings panels with grouped expandable options",
+    "Collapsible content sections for long-form pages",
+    "Navigation menus with nested expandable items",
+    "E-commerce product detail specifications"
+  ],
+  "ai_summary": "A Radix UI-based accordion component with clean dotted borders and smooth chevron rotation animation. Features hover underline effects and expandable content panels. Designed as a reusable composite component suitable for FAQ sections, settings panels, and collapsible navigation menus across SaaS and documentation platforms.",
+  "_classifiedAt": "2026-04-23T16:29:36.226Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

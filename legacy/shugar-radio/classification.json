@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "radio-button-group",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Form-based selection inputs with accessible radio button groups",
+    "Settings and preferences configuration panels",
+    "Filter and category selection interfaces",
+    "Multi-step wizard or survey question answering",
+    "Product options or plan selection in pricing flows"
+  ],
+  "ai_summary": "A lightweight, accessible radio button group component built with React Context for state management. Features clean minimalist styling with smooth 200ms transitions for selection feedback. Supports disabled states, required validation, and proper form accessibility with screen reader labels. Ships as a composite component with RadioGroup wrapper and RadioGroupItem children for flexible composition in any UI context.",
+  "_classifiedAt": "2026-04-23T17:30:48.106Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

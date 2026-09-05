@@ -1,0 +1,26 @@
+{
+  "category": "data-display",
+  "subcategory": "feature-accordion",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying product features with expandable details on SaaS landing pages",
+    "Organizing feature comparisons in a collapsible sidebar layout",
+    "Presenting FAQ sections with expandable answers",
+    "Showcasing product capabilities in an e-commerce settings panel",
+    "Displaying documentation sections with nested content"
+  ],
+  "ai_summary": "An accordion-based feature section component that displays expandable feature items, each containing a title, image, and detailed description. Built with shadcn/ui components and styled with Tailwind CSS for a clean, responsive layout. The component uses click-to-reveal interaction patterns where users can expand individual feature panels to read more details, making it ideal for organizing large amounts of feature content on product pages or documentation sites.",
+  "_classifiedAt": "2026-04-23T17:27:10.867Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

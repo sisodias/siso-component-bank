@@ -1,0 +1,33 @@
+{
+  "category": [
+    "form",
+    "input"
+  ],
+  "subcategory": "image-upload-with-cropping",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "media",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "E-commerce platforms requiring product image uploads with aspect ratio control",
+    "Content management systems where users need to upload and crop profile photos or banners",
+    "Creator platforms for uploading and editing visual content thumbnails",
+    "Media applications allowing users to upload and prepare images for articles or posts",
+    "SaaS dashboards enabling users to upload branded assets with consistent dimensions"
+  ],
+  "ai_summary": "A multi-image uploader component with integrated cropping functionality powered by react-easy-crop. Users can select multiple images, preview them, apply zoom and position adjustments, and save cropped versions. Built with standard UI primitives (Card, Button) in a flat visual style, this composite component is ideal for platforms requiring user-generated visual content with controlled dimensions such as e-commerce, media sites, or creator tools.",
+  "_classifiedAt": "2026-04-23T01:48:51.981Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "j1zuzz__empty",
+  "author": "j1zuzz",
+  "slug": "empty",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@j1zuzz/components/empty",
+  "fetchedAt": "2026-08-29T05:05:07.947Z",
+  "completedAt": "2026-08-29T05:05:09.788Z",
+  "versionedFilename": "code.1761762785328.tsx",
+  "codeReference": "r2://components-code-private/j1zuzz/empty/code.1761762785328.tsx",
+  "codeUrl": "https://cdn.21st.dev/j1zuzz/empty/code.1761762785328.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3389,
+  "sha256": "8faf2af4f36e9a935dba8ae0248efe45df8c639697bbe715ad7a64f1d86b32d4",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "analog-clock-widget",
+  "visual_style": [
+    "dark",
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "healthcare",
+    "education",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display current time in a classic analog format for dashboards",
+    "Show real-time clock in healthcare monitoring applications",
+    "Add decorative time display to educational or productivity apps",
+    "Serve as a visual time indicator in media or streaming platforms",
+    "Provide time reference in fintech trading or financial dashboards"
+  ],
+  "ai_summary": "A real-time analog clock component with a dark slate-800 background and emerald-400 hour markers. Features traditional clock mechanics with hour numbers, minute markers, and rotating hands that update every second. The component uses trigonometric calculations to position clock elements and provides a modern, minimalist aesthetic suitable for dashboard or application time display.",
+  "_classifiedAt": "2026-04-23T17:39:09.246Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

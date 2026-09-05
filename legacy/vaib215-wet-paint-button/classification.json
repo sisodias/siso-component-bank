@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "animated-button-with-dripping-effect",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creative call-to-action button for landing pages with artistic flair",
+    "Decorative interactive button for design-focused SaaS products",
+    "Attention-grabbing button for creative portfolios and portfolios",
+    "Playful action trigger for marketing campaigns and promotions",
+    "Animated button for children's apps or playful brand interfaces"
+  ],
+  "ai_summary": "A playful animated button component that simulates a wet paint dripping effect using Framer Motion. Features multiple drip elements with continuous wobbling animations and smooth color transitions on hover from indigo-500 to indigo-600. The button uses Tailwind CSS for styling and includes SVG clip paths for realistic drip curvature. Ideal for creative interfaces, landing pages, and design-focused applications requiring visual interest.",
+  "_classifiedAt": "2026-04-23T17:41:51.193Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

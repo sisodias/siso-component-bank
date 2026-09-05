@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Form submission and action triggers",
+    "Navigation links and route changes",
+    "Modal and dialog openers",
+    "Primary call-to-action elements",
+    "Disabled state for inactive actions"
+  ],
+  "ai_summary": "A standard shadcn/ui Button component with multiple style variants (default, destructive, outline, secondary, ghost, link) and size options (default, sm, lg, icon). Built with class-variance-authority for flexible theming and Radix UI Slot for polymorphic rendering. Supports keyboard focus states and disabled states out of the box.",
+  "_classifiedAt": "2026-04-22T09:15:32.536Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "airbnb-delaunay-triangulation",
+  "type": "registry:ui",
+  "title": "Airbnb Delaunay Triangulation",
+  "description": "Installed from https://21st.dev/r/airbnb/delaunay-triangulation",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "airbnb-delaunay-triangulation"
+  ],
+  "files": [
+    {
+      "path": "delaunay-triangulation.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@visx/clip-path",
+    "@visx/delaunay",
+    "@visx/event",
+    "@visx/gradient",
+    "@visx/group",
+    "@visx/mock-data"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/airbnb/delaunay-triangulation",
+    "fetchedAt": "2026-04-23T03:04:41.758Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

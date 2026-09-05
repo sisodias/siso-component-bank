@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ruixen.ui-pill-calendar",
+  "type": "registry:ui",
+  "title": "Ruixen.Ui Pill Calendar",
+  "description": "Installed from https://21st.dev/r/ruixen.ui/pill-calendar",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ruixen.ui-pill-calendar"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "pill-calendar.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@internationalized/date",
+    "@radix-ui/react-icons",
+    "react-aria-components"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ruixen.ui/pill-calendar",
+    "fetchedAt": "2026-04-22T06:45:22.361Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

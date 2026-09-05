@@ -1,0 +1,44 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "statistics-card",
+  "type": "registry:ui",
+  "title": "StatisticsCard",
+  "description": "Animated statistics section with bar charts, candy-stripe backgrounds, NumberFlow counters, and tooltip callouts",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "stats",
+    "chart",
+    "bar-chart",
+    "animation",
+    "framer-motion",
+    "number-flow"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "statistics-card.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@number-flow/react",
+    "framer-motion",
+    "lucide-react"
+  ],
+  "registryDependencies": [
+    "statistics-card"
+  ],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "curationTags": []
+  }
+}

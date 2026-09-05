@@ -1,0 +1,34 @@
+{
+  "category": [
+    "hero"
+  ],
+  "subcategory": "feature-carousel, step-wizard, product-showcase",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Showcasing SaaS product features in an interactive step-by-step carousel format",
+    "Creating engaging product tours that let users navigate through feature highlights",
+    "Displaying dark and light theme product screenshots with smooth animated transitions",
+    "Guiding users through onboarding flows with visual step indicators",
+    "Presenting e-commerce platform capabilities in an engaging showcase layout"
+  ],
+  "ai_summary": "A multi-step feature carousel component that displays product features with associated imagery across 4 steps. Features smooth animated transitions between steps, dark/light mode image variants, and interactive navigation. Uses motion/react for fluid animations and mouse-tracking parallax effects for an engaging showcase experience commonly used on SaaS landing pages.",
+  "_classifiedAt": "2026-04-23T16:28:29.826Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

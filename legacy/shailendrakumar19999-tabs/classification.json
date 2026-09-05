@@ -1,0 +1,35 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "tab-switcher",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Switching between different content sections within a single view",
+    "Organizing dashboard content into categorized panels",
+    "Creating settings or preference interfaces with tabbed sections",
+    "Displaying product details with multiple information categories",
+    "Building multi-step forms or wizards with sequential tabbed views"
+  ],
+  "ai_summary": "A minimalist tabbed interface component built on Ark UI with full dark mode support and accessible keyboard navigation. The component features clean border-based styling for tab indicators, smooth state transitions between content panels, and proper ARIA attributes for screen reader compatibility. Uses Tailwind CSS for styling with a polished hover and selected state system.",
+  "_classifiedAt": "2026-04-23T01:52:53.693Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

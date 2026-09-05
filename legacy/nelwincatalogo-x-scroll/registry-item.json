@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "nelwincatalogo-x-scroll",
+  "type": "registry:ui",
+  "title": "Nelwincatalogo X Scroll",
+  "description": "Installed from https://21st.dev/r/nelwincatalogo/x-scroll",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "nelwincatalogo-x-scroll"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "x-scroll.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-scroll-area"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "missing relative sibling imports: ./scroll-area"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/nelwincatalogo/x-scroll",
+    "fetchedAt": "2026-04-23T03:05:42.101Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

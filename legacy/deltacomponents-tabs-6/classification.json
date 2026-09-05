@@ -1,0 +1,31 @@
+{
+  "category": "navigation",
+  "subcategory": "scrollable-tabs",
+  "visual_style": [],
+  "interactions": [
+    "drag",
+    "keyboard-nav",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Switching between different content sections or views within a single page",
+    "Organizing large amounts of content into horizontally scannable categories",
+    "Creating dashboard navigation with draggable tab selection",
+    "Building product feature or settings categorization interfaces",
+    "Implementing segmented controls for filtering or view modes"
+  ],
+  "ai_summary": "A horizontally scrollable tab navigation component with drag-to-scroll functionality for seamless navigation between multiple content sections. Features mouse drag and wheel-based horizontal scrolling, making it ideal for interfaces with many tabs that need to adapt to various screen sizes.",
+  "_classifiedAt": "2026-04-23T01:37:32.320Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

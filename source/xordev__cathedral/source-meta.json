@@ -1,0 +1,26 @@
+{
+  "id": "xordev__cathedral",
+  "author": "xordev",
+  "slug": "cathedral",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@xordev/components/cathedral",
+  "fetchedAt": "2026-08-29T07:57:36.805Z",
+  "completedAt": "2026-08-29T07:57:39.092Z",
+  "versionedFilename": "code.1756887435337.tsx",
+  "codeReference": "r2://components-code-private/larsen66/cathedral/code.1756887435337.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/cathedral/code.1756887435337.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 8647,
+  "sha256": "c7c46193111343ed37b53d2373db6cea2f0f356b2cccd63f489d973425e69726",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

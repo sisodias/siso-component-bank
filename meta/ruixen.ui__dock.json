@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/dock",
+  "author": "ruixen.ui",
+  "slug": "dock",
+  "name": "dock",
+  "description": "This Dock component is a modern, glassmorphic navigation bar inspired by the elegance of macOS but with a unique twist. Instead of sitting flat, the dock is displayed with a slight 3D arc effect using perspective transforms, which makes the layout feel more dynamic and futuristic. Each icon is wrapped with shadcn/ui Buttons and Tooltips for accessibility and consistency, while Framer Motion adds natural hover animations. When you hover over an item, the icon subtly tilts, scales up, and gains a glowing border ring, creating a magnetic feel that draws the eye. Clicking an icon highlights it with a small glowing dot beneath, serving as a minimal but effective active state indicator. The combination of tilt, glow, blur, and arc design makes this component stand out as both functional and visually engaging, perfect for dashboards, apps, or landing pages where you want a unique, premium navigation experience.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/dock?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__dock",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/dock/default/bundle.1758168876109.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/dock/default/preview.1758168876108.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 218,
+  "demo_id": 7758,
+  "video_url": "https://cdn.21st.dev/ruixen.ui/dock/default/video.1758168876108.mp4"
+}

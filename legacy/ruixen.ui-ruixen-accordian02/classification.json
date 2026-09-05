@@ -1,0 +1,31 @@
+{
+  "category": "other",
+  "subcategory": "accordion-disclosure",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "education",
+    "healthcare",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "FAQ sections for websites and applications",
+    "Collapsible settings panels in SaaS dashboards",
+    "Product detail sections in e-commerce listings",
+    "Organizing educational course content by topic",
+    "General content organization and navigation hierarchies"
+  ],
+  "ai_summary": "A Radix UI-based accordion component featuring collapsible sections with smooth expand/collapse animations. Built with React and styled using Tailwind CSS, it includes a rotating chevron indicator, hover underline effects, and native keyboard navigation support. Perfect for FAQ sections, settings panels, and organized content display across various industries.",
+  "_classifiedAt": "2026-04-23T17:20:01.761Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

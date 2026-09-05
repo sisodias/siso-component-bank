@@ -1,0 +1,26 @@
+{
+  "id": "extend-hq__csv-viewer",
+  "author": "extend-hq",
+  "slug": "csv-viewer",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@extend-hq/components/csv-viewer",
+  "fetchedAt": "2026-08-29T04:46:52.142Z",
+  "completedAt": "2026-08-29T04:46:54.543Z",
+  "versionedFilename": "code.1782171888013.tsx",
+  "codeReference": "r2://components-code-private/larsen66/csv-viewer/code.1782171888013.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/csv-viewer/code.1782171888013.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 26979,
+  "sha256": "1b665809dfe4465bf3b8c03aa72a780c4e9d0c5cbc55ca3160b2ad0c4e4f7e23",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

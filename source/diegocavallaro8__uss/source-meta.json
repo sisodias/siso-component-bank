@@ -1,0 +1,26 @@
+{
+  "id": "diegocavallaro8__uss",
+  "author": "diegocavallaro8",
+  "slug": "uss",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@diegocavallaro8/components/uss",
+  "fetchedAt": "2026-08-29T04:34:42.828Z",
+  "completedAt": "2026-08-29T04:34:44.673Z",
+  "versionedFilename": "code.1785921652006-8ad16f56-4ad2-4a9a-b1da-f1ab446b4c23.tsx",
+  "codeReference": "r2://components-code-private/diegocavallaro8/uss/code.1785921652006-8ad16f56-4ad2-4a9a-b1da-f1ab446b4c23.tsx",
+  "codeUrl": "https://cdn.21st.dev/diegocavallaro8/uss/code.1785921652006-8ad16f56-4ad2-4a9a-b1da-f1ab446b4c23.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

@@ -1,0 +1,30 @@
+{
+  "category": [
+    "other"
+  ],
+  "subcategory": "simple-counter",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Basic increment/decrement counter for simple state management demos",
+    "Interactive number display for tutorials or educational content",
+    "Foundation component for building more complex counter-based features"
+  ],
+  "ai_summary": "A minimalist React counter component with increment and decrement buttons. Features simple state management using useState hook and basic Tailwind styling. The component renders a centered layout with a title, numeric display, and two interactive buttons for adjusting the count value.",
+  "_classifiedAt": "2026-04-22T08:54:07.015Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

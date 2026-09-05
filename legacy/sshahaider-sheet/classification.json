@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Primary call-to-action buttons in forms and modals",
+    "Secondary action buttons in sheet/drawer panels",
+    "Icon-only buttons for compact toolbars and navigation",
+    "Destructive action triggers with visual warning states",
+    "Interactive elements in overlay components like sheets"
+  ],
+  "ai_summary": "A versatile button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes, built with Radix UI Slot for polymorphic rendering and class-variance-authority for type-safe styling. Features ring-based focus states and disabled states, commonly used as interactive triggers within sheet/drawer overlay patterns on SaaS platforms.",
+  "_classifiedAt": "2026-04-23T01:53:44.998Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

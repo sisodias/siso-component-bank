@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "course-progress-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "education",
+    "creator-tools",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying course progress with visual progress bars and completion percentages",
+    "Showing course design metadata including title, description, and timeline",
+    "Rendering team member avatars for collaborative course development",
+    "Presenting countdown timers for course deadlines or launch dates",
+    "Organizing multiple course cards in a grid or list layout"
+  ],
+  "ai_summary": "A reusable course design card component for displaying educational content progress, featuring a clean card layout with title, description, progress bar, participant avatars, and countdown timer. Built with TypeScript and styled using Tailwind CSS for modern, responsive design suitable for learning management systems and educational platforms.",
+  "_classifiedAt": "2026-04-23T16:49:45.938Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

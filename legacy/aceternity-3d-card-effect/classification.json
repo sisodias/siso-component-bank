@@ -1,0 +1,35 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "3d-interactive-card",
+  "visual_style": [
+    "3d",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive product cards that respond to mouse movement with 3D rotation",
+    "Feature showcase cards with depth perception effects for enhanced engagement",
+    "Testimonial cards with immersive hover interactions for improved retention",
+    "Portfolio items with dimensional card effects for creative presentations",
+    "Pricing cards with engaging 3D visual feedback to highlight value propositions"
+  ],
+  "ai_summary": "A 3D card component that rotates in response to mouse movement using CSS transforms with perspective. The card tracks cursor position to apply dynamic rotation on both X and Y axes, creating an immersive depth effect. Features React context for state management and smooth transitions with transform-style preservation.",
+  "_classifiedAt": "2026-04-23T11:28:18.625Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

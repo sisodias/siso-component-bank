@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "toggle-switch",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "morph",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Toggle boolean settings on and off in configuration panels",
+    "Enable or disable features and preferences in application settings",
+    "Switch between dark and light mode in theme toggles",
+    "Control notification preferences and alert settings",
+    "Toggle visibility or availability of optional functionality"
+  ],
+  "ai_summary": "A smooth, animated toggle switch component with spring physics for the knob movement. Features a clean minimalist design with accent color state indication and responsive sizing. Built with Framer Motion for fluid, elastic animations when toggling between on and off states.",
+  "_classifiedAt": "2026-04-22T09:06:53.064Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

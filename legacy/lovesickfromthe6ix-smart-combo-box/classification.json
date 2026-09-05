@@ -1,0 +1,28 @@
+{
+  "category": "input",
+  "subcategory": "smart-combobox",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Searchable dropdown with async data fetching and debounced queries",
+    "Multi-select input for tags, categories, or filter values",
+    "Grouped option selection with icons and metadata hints",
+    "Custom option creation directly from user input",
+    "Virtualized long lists for performance optimization"
+  ],
+  "ai_summary": "A feature-rich combobox component with async query support, debounced search, custom option creation, multi-select capability, option grouping, and virtualization for large datasets. Supports custom rendering, clearable input, and integrates with form controls. Designed for developer tooling and SaaS applications requiring advanced selection UI.",
+  "_classifiedAt": "2026-04-23T16:53:38.458Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

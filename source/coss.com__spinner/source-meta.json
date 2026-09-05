@@ -1,0 +1,26 @@
+{
+  "id": "coss.com__spinner",
+  "author": "coss.com",
+  "slug": "spinner",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@coss.com/components/spinner",
+  "fetchedAt": "2026-08-29T04:02:40.684Z",
+  "completedAt": "2026-08-29T04:02:42.630Z",
+  "versionedFilename": "code.1774362498994.tsx",
+  "codeReference": "r2://components-code-private/coss.com/spinner/code.1774362498994.tsx",
+  "codeUrl": "https://cdn.21st.dev/coss.com/spinner/code.1774362498994.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/typescript",
+  "bytes": 382,
+  "sha256": "cdba839f2028c251a0106fcf7ee784392bdf480a715e35b68752b8cbc5cfa328",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

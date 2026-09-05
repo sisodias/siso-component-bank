@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@cnippet.dev/components/avatar-stack",
+  "author": "cnippet.dev",
+  "slug": "avatar-stack",
+  "name": "avatar-stack",
+  "description": "An overlapping stack of team member avatars with hover tooltips showing names and roles, plus an overflow count and an add-member button.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/cnippet.dev/avatar-stack?api_key=$API_KEY_21ST\"",
+  "id": "cnippet.dev__avatar-stack",
+  "bundleUrl": "https://cdn.21st.dev/cnippet.dev/avatar-stack/default/bundle.1785465008967-519245d0-1820-40b6-a49c-cae87af49b6b.html",
+  "previewUrl": "https://cdn.21st.dev/cnippet.dev/avatar-stack/default/preview.1785465008967-519245d0-1820-40b6-a49c-cae87af49b6b.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

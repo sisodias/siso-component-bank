@@ -1,0 +1,26 @@
+{
+  "id": "extend__popover",
+  "author": "extend",
+  "slug": "popover",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@extend/components/popover",
+  "fetchedAt": "2026-08-29T04:46:36.827Z",
+  "completedAt": "2026-08-29T04:46:38.987Z",
+  "versionedFilename": "code.1782164999232.tsx",
+  "codeReference": "r2://components-code-private/larsen66/popover/code.1782164999232.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/popover/code.1782164999232.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5057,
+  "sha256": "fc06894f664a8b3b18035b7e5589fc261948a5f63e1646018d2186cbdbf77340",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

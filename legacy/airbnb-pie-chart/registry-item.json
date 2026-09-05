@@ -1,0 +1,45 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "airbnb-pie-chart",
+  "type": "registry:ui",
+  "title": "Airbnb Pie Chart",
+  "description": "Installed from https://21st.dev/r/airbnb/pie-chart",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "airbnb-pie-chart"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "pie-chart.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@react-spring/web",
+    "@visx/gradient",
+    "@visx/group",
+    "@visx/mock-data",
+    "@visx/scale",
+    "@visx/shape"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/airbnb/pie-chart",
+    "fetchedAt": "2026-04-23T03:04:42.606Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

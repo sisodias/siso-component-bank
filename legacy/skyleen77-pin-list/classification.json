@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "interactive-list",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Organizing and prioritizing items in a list by pinning important ones to the top with smooth animations",
+    "Managing favorites or bookmarks in applications requiring quick item categorization",
+    "Task and project management interfaces needing animated priority sorting",
+    "Dashboard components displaying sorted lists with quick pin/unpin actions",
+    "Content management systems where users can organize items by importance"
+  ],
+  "ai_summary": "A dynamic pin list component that organizes items into pinned and unpinned sections with fluid motion animations using Framer Motion. Items can be toggled between sections with animated transitions, featuring LayoutGroup synchronization and custom spring physics. Ideal for prioritizing favorites, bookmarks, or important items in dashboards, task managers, or content organization interfaces across SaaS and productivity applications.",
+  "_classifiedAt": "2026-04-23T17:32:32.437Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

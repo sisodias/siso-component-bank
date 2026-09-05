@@ -1,0 +1,26 @@
+{
+  "id": "reaviz__incident-report-1",
+  "author": "reaviz",
+  "slug": "incident-report-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@reaviz/components/incident-report-1",
+  "fetchedAt": "2026-08-29T06:32:48.496Z",
+  "completedAt": "2026-08-29T06:32:51.119Z",
+  "versionedFilename": "code.1748018232627.tsx",
+  "codeReference": "r2://components-code-private/larsen66/incident-report-1/code.1748018232627.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/incident-report-1/code.1748018232627.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5884,
+  "sha256": "df2b405bc692c7b32837235a5dab1d783e9a53d84e3836743a84ca7f64ff9d87",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "clementjanssens-color-picker",
+  "type": "registry:ui",
+  "title": "Clementjanssens Color Picker",
+  "description": "Installed from https://21st.dev/r/clementjanssens/color-picker",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "clementjanssens-color-picker"
+  ],
+  "files": [
+    {
+      "path": "color-picker.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/clementjanssens/color-picker",
+    "fetchedAt": "2026-04-23T03:04:52.161Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

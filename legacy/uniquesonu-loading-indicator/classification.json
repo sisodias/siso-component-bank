@@ -1,0 +1,34 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "animated-loader",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display loading state during async operations like API calls",
+    "Show progress indication during page transitions or navigation",
+    "Indicate data fetching in progress in content-heavy applications",
+    "Provide visual feedback during form submission",
+    "Show waiting state while processing user requests"
+  ],
+  "ai_summary": "A dual-color animated loading spinner component featuring geometric shapes that follow a perimeter squeeze animation combined with continuous rotation. The loader uses CSS custom properties for customizable colors and animation durations, making it suitable for any application requiring visual feedback during async operations or waiting states.",
+  "_classifiedAt": "2026-04-23T17:39:52.700Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,36 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "scroll-animated-text",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Creating animated hero headlines with wave-like scroll effects",
+    "Adding dynamic text presentations to landing pages and marketing sites",
+    "Building scroll-driven typography animations for portfolios and creative sites",
+    "Enhancing product descriptions with attention-grabbing animated text",
+    "Creating engaging onboarding flows with animated text reveals"
+  ],
+  "ai_summary": "A scroll-driven wavy text animation component that uses Framer Motion to create fluid wave distortions on text as users scroll. Features spring physics, reduced motion support, and configurable wave parameters including amplitude, frequency, and phase shift. Renders responsively with window-aware calculations and is suitable for hero sections, animated headlines, and dynamic typography displays across landing pages and marketing sites.",
+  "_classifiedAt": "2026-04-22T09:19:28.799Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

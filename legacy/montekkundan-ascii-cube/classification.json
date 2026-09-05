@@ -1,0 +1,31 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "ASCII 3D cube animation",
+  "visual_style": [
+    "mono",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Terminal-style decorative element for developer tool landing pages",
+    "3D math visualization demonstrating rotation matrices",
+    "Interactive ASCII art animation with configurable rotation axes",
+    "Console-aesthetic visual element for software documentation sites"
+  ],
+  "ai_summary": "A rotating 3D cube rendered entirely with ASCII characters and optional ANSI-style colors. Supports wireframe mode, multi-axis rotation, backface culling, and configurable animation speed. Built with React hooks for smooth continuous animation.",
+  "_classifiedAt": "2026-04-23T17:01:34.738Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

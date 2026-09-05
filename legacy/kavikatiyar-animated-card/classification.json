@@ -1,0 +1,26 @@
+{
+  "category": "card",
+  "subcategory": "job-listing-card",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying job listings with interactive 3D hover effects for modern employment platforms",
+    "Creating engaging job cards in HR/recruitment SaaS dashboards",
+    "Building visually striking job board interfaces with variant color themes",
+    "Adding interactive hover animations to employment marketplace listings",
+    "Enhancing job search UX with smooth spring physics transitions"
+  ],
+  "ai_summary": "A responsive job card component featuring 3D tilt animations triggered by mouse movement, built with Framer Motion's spring physics. The card supports four color variants (pink, yellow, blue, purple) with gradient border accents, making it ideal for modern job listing interfaces, recruitment platforms, and employment SaaS applications. Smooth transitions and interactive hover states provide an engaging user experience.",
+  "_classifiedAt": "2026-04-23T01:41:17.928Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

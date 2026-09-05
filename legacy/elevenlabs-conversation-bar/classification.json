@@ -1,0 +1,29 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action triggers in forms and UI flows",
+    "Destructive action confirmation buttons with visual warning",
+    "Secondary navigation and menu interactions",
+    "Icon-only buttons for compact toolbars and action bars",
+    "Ghost and outline buttons for less prominent actions in conversation UIs"
+  ],
+  "ai_summary": "A reusable atomic button component built with Radix UI's Slot and class-variance-authority for type-safe variant management. Supports multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon) with built-in accessibility features like focus-visible ring states and disabled state handling. Intended as a foundational UI building block for interactive elements in SaaS and developer tool interfaces.",
+  "_classifiedAt": "2026-04-22T08:58:45.156Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

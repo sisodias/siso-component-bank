@@ -1,0 +1,26 @@
+{
+  "id": "reshaped__reshaped-avatar",
+  "author": "reshaped",
+  "slug": "reshaped-avatar",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@reshaped/components/reshaped-avatar",
+  "fetchedAt": "2026-08-29T06:33:38.126Z",
+  "completedAt": "2026-08-29T06:33:40.353Z",
+  "versionedFilename": "code.1783346696619.tsx",
+  "codeReference": "r2://components-code-private/larsen66/reshaped-avatar/code.1783346696619.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/reshaped-avatar/code.1783346696619.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 462,
+  "sha256": "3b20d4b61e6ad53aac5e43bfd7ae1f792e7c0b2ca941d4906bec61e0f51b18e2",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

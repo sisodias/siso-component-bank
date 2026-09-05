@@ -1,0 +1,17 @@
+{
+ "id": "youcefbnm__text-stagger-hover",
+ "outcome": "retrieved",
+ "retrievalMethod": "local-legacy-store-copy",
+ "provenanceNote": "Copied from the pre-existing local legacy 21st store; NOT fetched from 21st.dev by this lane.",
+ "legacySourcePath": "legacy/youcefbnm-text-stagger-hover/text-stagger-hover.tsx",
+ "legacySourceFile": "text-stagger-hover.tsx",
+ "legacyDependencies": [
+  "framer-motion"
+ ],
+ "upstreamUrl": "https://21st.dev/@youcefbnm/components/text-stagger-hover",
+ "httpStatus": null,
+ "sha256": "87a04277a00058159e7f5d435057e0c6f36bbca03febe5b7371f33675d002e5b",
+ "bytes": 5632,
+ "completedAt": "2026-08-29T03:43:54.201Z",
+ "seededBy": "CENA-directive-2026-08-29-skip-legacy"
+}

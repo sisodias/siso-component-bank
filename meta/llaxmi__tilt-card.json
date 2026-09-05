@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@llaxmi/components/tilt-card",
+  "author": "llaxmi",
+  "slug": "tilt-card",
+  "name": "tilt-card",
+  "description": "The TiltCard component is a stylish, interactive card that tilts and scales when hovered over, providing a dynamic visual effect. It's perfect for highlighting important information or adding a touch of interactivity to your UI.\n\nFeatures\n- Interactive Hover Effect: Tilts and scales on hover for a dynamic look.\n- Customizable Hover Color: Easily change the hover background color using Tailwind CSS classes.\n- Theming Support: Integrated with shadcn theme for consistent styling.\n- Responsive Design: Adapts to different screen sizes and layouts.\n\nProps\n- title: string - The text displayed on the card.\n- hoverColor: string - Tailwind CSS class for the hover background color (e.g., hover:bg-blue-500).\n- className: string - Additional classes for custom styling.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/llaxmi/tilt-card?api_key=$API_KEY_21ST\"",
+  "id": "llaxmi__tilt-card",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1487.html",
+  "previewUrl": "https://cdn.21st.dev/user_llaxmi/tilt-card.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 25,
+  "demo_id": 1487,
+  "video_url": "https://cdn.21st.dev/user_llaxmi/tilt-card/default/video.mp4"
+}

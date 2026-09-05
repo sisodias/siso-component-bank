@@ -1,0 +1,26 @@
+{
+  "id": "beratberkayg__subscription-card",
+  "author": "beratberkayg",
+  "slug": "subscription-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@beratberkayg/components/subscription-card",
+  "fetchedAt": "2026-08-29T03:49:51.728Z",
+  "completedAt": "2026-08-29T03:49:53.957Z",
+  "versionedFilename": "code.1753298182110.tsx",
+  "codeReference": "r2://components-code-private/beratberkayg/subscription-card/code.1753298182110.tsx",
+  "codeUrl": "https://cdn.21st.dev/beratberkayg/subscription-card/code.1753298182110.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1503,
+  "sha256": "c3813b5b6fdd191137966ab90684f5d3726d1544facf3cc530d4b32893c3c478",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

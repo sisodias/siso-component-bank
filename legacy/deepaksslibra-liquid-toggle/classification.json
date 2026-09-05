@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "liquid-toggle-switch",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Toggle settings on/off in application preference panels",
+    "Enable or disable features with visual state feedback",
+    "Use as a boolean input control in form components",
+    "Switch between dark/light mode or theme options",
+    "Control notification or communication preferences"
+  ],
+  "ai_summary": "A liquid-animated toggle switch component featuring multiple color variants (default, success, warning, danger) with smooth morphing transitions and 3D transform effects. Built as an interactive boolean input control with CSS custom properties for easy theming, hover states, and GPU-accelerated animations for fluid visual feedback.",
+  "_classifiedAt": "2026-04-23T16:29:32.975Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

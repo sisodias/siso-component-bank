@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@arunachalam/components/animated-theme-toggle-button",
+  "author": "arunachalam",
+  "slug": "animated-theme-toggle-button",
+  "name": "animated-theme-toggle-button",
+  "description": "A modern React component that lets users switch between light and dark color modes with a visually engaging animated transition. This button supports both horizontal and vertical reveal animations using the View Transitions API for ultra-smooth theme changes. The icon updates instantly to show the current mode (sun for light, moon for dark), and the UI state is synchronized across the app to reflect user preference. Built with accessibility and performance in mind, the component works seamlessly in any Tailwind CSS + Framer Motion project, and is easy to customize for diagonal or cross-line transitions.\n\nFeatures:\n\nAnimated theme transitions (horizontal, vertical, extendable for more)\n\nSun & moon icon with Framer Motion effects\n\nAccessible and focus-friendly\n\nSynchronizes with global theme state\n\nEasy to plug into any React/Next.js app\n\nPerfect for clean, user-friendly dark mode toggles in modern web apps.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/arunachalam/animated-theme-toggle-button?api_key=$API_KEY_21ST\"",
+  "id": "arunachalam__animated-theme-toggle-button",
+  "bundleUrl": "https://cdn.21st.dev/arunachalam0606/animated-theme-toggle-button/default/bundle.1759221316681.html",
+  "previewUrl": "https://cdn.21st.dev/arunachalam0606/animated-theme-toggle-button/default/preview.1759221316680.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 63,
+  "demo_id": 8338,
+  "video_url": "https://cdn.21st.dev/arunachalam0606/animated-theme-toggle-button/default/video.1759221316680.mp4"
+}

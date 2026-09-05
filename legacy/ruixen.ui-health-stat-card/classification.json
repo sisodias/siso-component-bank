@@ -1,0 +1,26 @@
+{
+  "category": "data-display",
+  "subcategory": "health-metrics-card",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "healthcare",
+    "saas",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display patient vital statistics with trend visualization in healthcare dashboards",
+    "Show fitness metrics and progress tracking with animated bar graphs in wellness apps",
+    "Present health-related KPI summaries with interactive tooltips in admin panels",
+    "Render analytics cards with statistical breakdowns in SaaS dashboards",
+    "Display product or system health metrics with legend-based data breakdown"
+  ],
+  "ai_summary": "A composite data-display card component designed for presenting health statistics and metrics with optional animated bar graphs. Features a structured layout with header, stat grid, visualization area, and tooltip-enabled legend. Built with Framer Motion for entrance animations and integrates with shadcn/ui tooltip system for enhanced data exploration.",
+  "_classifiedAt": "2026-04-22T09:12:34.871Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

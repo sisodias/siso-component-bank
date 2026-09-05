@@ -1,0 +1,32 @@
+{
+  "category": "media",
+  "subcategory": "animated-3d-blob",
+  "visual_style": [
+    "gradient",
+    "3d"
+  ],
+  "interactions": [
+    "drag",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero section background for landing pages",
+    "Decorative 3D element for portfolio or creative websites",
+    "Interactive brand visualization for tech companies",
+    "Animated background for SaaS product pages",
+    "Contact section visual element for modern web designs"
+  ],
+  "ai_summary": "An animated 3D blob visualization built with React Three Fiber, featuring custom Perlin noise shaders for organic vertex displacement. The component renders an icosahedron geometry with flowing, morphing animation controlled by time-based uniforms. Includes orbit controls for mouse-drag interaction and environment lighting setup for realistic rendering. Perfect as an eye-catching hero element or decorative background for modern web applications.",
+  "_classifiedAt": "2026-04-23T17:38:34.464Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

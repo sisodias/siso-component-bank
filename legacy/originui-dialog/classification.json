@@ -1,0 +1,28 @@
+{
+  "category": "overlay",
+  "subcategory": "modal",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying confirmation dialogs for user actions like delete or submit",
+    "Showing form content or settings in a focused modal container",
+    "Presenting alerts, warnings, or informational messages with overlay backdrop",
+    "Revealing additional content or options triggered by user interaction",
+    "Capturing user input through contained forms within a modal interface"
+  ],
+  "ai_summary": "A lightweight modal dialog component built on Radix UI primitives with smooth fade and zoom animations. The overlay features a semi-transparent dark backdrop while the content panel centers on screen with rounded corners and subtle shadow. Includes built-in close button, portal rendering, and responsive sizing optimized for both desktop and mobile viewports.",
+  "_classifiedAt": "2026-04-23T17:04:12.172Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

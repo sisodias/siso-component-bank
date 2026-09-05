@@ -1,0 +1,26 @@
+{
+  "id": "coss.com__checkbox-group",
+  "author": "coss.com",
+  "slug": "checkbox-group",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@coss.com/components/checkbox-group",
+  "fetchedAt": "2026-08-29T04:02:03.091Z",
+  "completedAt": "2026-08-29T04:02:05.362Z",
+  "versionedFilename": "code.1773944425670.tsx",
+  "codeReference": "r2://components-code-private/coss.com/checkbox-group/code.1773944425670.tsx",
+  "codeUrl": "https://cdn.21st.dev/coss.com/checkbox-group/code.1773944425670.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/typescript",
+  "bytes": 531,
+  "sha256": "69793f0884202ed8c0856f8d3dbc752b2d3fc1c6fda6d9c840dc4e287c9aac30",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

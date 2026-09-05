@@ -1,0 +1,26 @@
+{
+  "id": "tonyzebastian__image-sphere",
+  "author": "tonyzebastian",
+  "slug": "image-sphere",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@tonyzebastian/components/image-sphere",
+  "fetchedAt": "2026-08-29T07:39:51.778Z",
+  "completedAt": "2026-08-29T07:39:54.216Z",
+  "versionedFilename": "code.1758824148455.tsx",
+  "codeReference": "r2://components-code-private/tonyzebastian/image-sphere/code.1758824148455.tsx",
+  "codeUrl": "https://cdn.21st.dev/tonyzebastian/image-sphere/code.1758824148455.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 20895,
+  "sha256": "e8f7ba4859654b5fc3dd1f94723ccd5dfbd312c21545d192efdd44b0a5f2f15c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

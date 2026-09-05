@@ -1,0 +1,33 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "menubar",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Application navigation menus with keyboard accessibility support",
+    "Horizontal toolbar navigation with responsive sizing options",
+    "File or edit menu patterns for web applications",
+    "Navigation bars with multiple interactive states and hover effects"
+  ],
+  "ai_summary": "A horizontal menu bar component built with Radix UI primitives and motion/react animations. Features multiple visual variants (default, outline, ghost) and size options (sm, default, lg) with full keyboard navigation support, hover states, and responsive padding. Uses CVA for variant management and includes scrollbar-hide for mobile-friendly horizontal scrolling.",
+  "_classifiedAt": "2026-04-23T17:08:28.994Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

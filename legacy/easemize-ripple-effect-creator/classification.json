@@ -1,0 +1,30 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "ripple-effect",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Adding material-design-style ripple animations to any clickable element",
+    "Providing visual touch feedback on button interactions",
+    "Enhancing interactive elements with animated click responses",
+    "Creating accessible visual confirmation for user clicks",
+    "Styling form buttons and interactive cards with ripple effects"
+  ],
+  "ai_summary": "A lightweight utility component that wraps any element and generates animated ripple effects emanating from the user's click position. The ripple animation scales outward while fading, providing immediate visual feedback for touch and click interactions. Configurable with custom colors and animation duration, making it ideal for enhancing button and interactive element experiences across any industry application.",
+  "_classifiedAt": "2026-04-23T16:37:53.211Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

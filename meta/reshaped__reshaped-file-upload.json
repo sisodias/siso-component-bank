@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@reshaped/components/reshaped-file-upload",
+  "author": "reshaped",
+  "slug": "reshaped-file-upload",
+  "name": "reshaped-file-upload",
+  "description": "Renders an area for uploading files with a native HTML file input, handling click and drag events with an onChange handler for the uploaded file data. Supports a separate Trigger element, custom children composition, inline rendering and a headless variant with render props exposing the drag-over state.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/reshaped/reshaped-file-upload?api_key=$API_KEY_21ST\"",
+  "id": "reshaped__reshaped-file-upload",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/reshaped-file-upload/default/bundle.1783429597917.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/reshaped-file-upload/default/preview.1783429597917.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

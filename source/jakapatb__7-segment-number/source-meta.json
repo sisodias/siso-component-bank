@@ -1,0 +1,33 @@
+{
+  "id": "jakapatb__7-segment-number",
+  "author": "jakapatb",
+  "slug": "7-segment-number",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@jakapatb/components/7-segment-number",
+  "fetchedAt": "2026-08-29T05:05:29.509Z",
+  "completedAt": "2026-08-29T05:05:30.970Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/jakapatb__7-segment-number/code.tsx",
+    "bytes": 1826,
+    "sha256": "5ae8fd0d05481f8ccb688ab0db266f83aaf5a7b1aeb4c063e3d135d195fdd0d2",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

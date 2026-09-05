@@ -1,0 +1,48 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "airbnb-threshold",
+  "type": "registry:ui",
+  "title": "Airbnb Threshold",
+  "description": "Installed from https://21st.dev/r/airbnb/threshold",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "airbnb-threshold"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "threshold.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@visx/axis",
+    "@visx/curve",
+    "@visx/grid",
+    "@visx/group",
+    "@visx/mock-data",
+    "@visx/mock-data/",
+    "@visx/scale",
+    "@visx/shape",
+    "@visx/threshold"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/airbnb/threshold",
+    "fetchedAt": "2026-04-23T03:04:41.963Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

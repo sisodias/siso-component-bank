@@ -1,0 +1,29 @@
+{
+  "category": "feedback",
+  "subcategory": "loading-spinner",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display a loading state while fetching user data or profile information",
+    "Show async operation progress in dashboards or content feeds",
+    "Indicate data submission in forms or checkout flows",
+    "Provide visual feedback during API calls or page transitions"
+  ],
+  "ai_summary": "A minimalist loading spinner component featuring an animated purple border ring with an avatar placeholder image in the center. The component uses continuous rotation animation to indicate loading states, commonly used for user profile loading, data fetching, or async operation feedback in various web applications.",
+  "_classifiedAt": "2026-04-23T17:28:55.474Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "shatlyk1011-3d-marquee",
+  "type": "registry:ui",
+  "title": "Shatlyk1011 3d Marquee",
+  "description": "Installed from https://21st.dev/r/Shatlyk1011/3d-marquee",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "shatlyk1011-3d-marquee"
+  ],
+  "files": [
+    {
+      "path": "3d-marquee.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "clsx",
+    "framer-motion",
+    "tailwind-merge"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/Shatlyk1011/3d-marquee",
+    "fetchedAt": "2026-04-22T06:32:03.434Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

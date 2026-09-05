@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@bankkroll/components/contribution-graph",
+  "author": "bankkroll",
+  "slug": "contribution-graph",
+  "name": "contribution-graph",
+  "description": "A composable, customizable contribution graph component inspired by GitHub's activity heatmap. Features composable subcomponents (Grid, Tooltip, Legend), CSS variable theming, configurable cell sizes, interactive tooltips with custom render functions, and full dark mode support.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/bankkroll/contribution-graph?api_key=$API_KEY_21ST\"",
+  "id": "bankkroll__contribution-graph",
+  "bundleUrl": "https://cdn.21st.dev/bankkroll/contribution-graph/default/bundle.1776012074859.html",
+  "previewUrl": "https://cdn.21st.dev/bankkroll/contribution-graph/default/preview.1776012074859.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

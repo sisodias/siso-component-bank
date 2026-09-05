@@ -1,0 +1,33 @@
+{
+  "category": "card",
+  "subcategory": "metrics-dashboard-card",
+  "visual_style": [
+    "glass-morphism",
+    "gradient"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display employee bonus and incentive metrics on analytics dashboards",
+    "Show financial performance indicators with animated decorative elements in SaaS applications",
+    "Create interactive metric cards with hover-reveal details in analytics platforms",
+    "Build decorative circular dot visualizations for dashboard cards",
+    "Provide accessible animated card components with reduced motion support"
+  ],
+  "ai_summary": "A customizable dashboard metrics card component featuring animated circular dot patterns, gradient blur effects, and entrance animations powered by Framer Motion. Displays bonus and incentive values with a glassmorphism-inspired aesthetic. Includes accessibility support via useReducedMotion hook and supports hover interactions for revealing additional details. Designed for SaaS and fintech dashboard applications requiring visually engaging data display components.",
+  "_classifiedAt": "2026-04-23T01:40:11.363Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:37:57.129Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

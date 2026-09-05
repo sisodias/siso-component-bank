@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ssicevs/components/sectors-donut",
+  "author": "ssicevs",
+  "slug": "sectors-donut",
+  "name": "sectors-donut",
+  "description": "Allocation donut ring with a centered symbol and legend cross-highlight — hovering a legend row or arc dims the rest so one weight reads at a time. Light and dark via shadcn theme tokens; respects reduced motion.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ssicevs/sectors-donut?api_key=$API_KEY_21ST\"",
+  "id": "ssicevs__sectors-donut",
+  "bundleUrl": "https://cdn.21st.dev/ssicevs/sectors-donut/default/bundle.1785373035102-15addf45-7790-499e-a6bd-645034707807.html",
+  "previewUrl": "https://cdn.21st.dev/ssicevs/sectors-donut/default/preview.1785373035102-15addf45-7790-499e-a6bd-645034707807.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

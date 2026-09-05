@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@serafimcloud/components/schematic",
+  "author": "serafimcloud",
+  "slug": "schematic",
+  "name": "schematic",
+  "description": "Animated (flicker) ASCII art in the Characters style, made with the 21st.dev ASCII editor and baked to a looping video. Styled with a minimal, terminal look. A drop-in, zero-dependency React component for hero sections, cards, and retro terminal-style backgrounds.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/serafimcloud/schematic?api_key=$API_KEY_21ST\"",
+  "id": "serafimcloud__schematic",
+  "bundleUrl": "https://cdn.21st.dev/serafimcloud/schematic/default/bundle.1784598697248-1f38e363-7b86-4524-984f-7932b3ce6470.html",
+  "previewUrl": "https://cdn.21st.dev/serafimcloud/schematic/default/preview.1783762919775.jpg",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

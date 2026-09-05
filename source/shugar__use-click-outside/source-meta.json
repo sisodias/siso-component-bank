@@ -1,0 +1,26 @@
+{
+  "id": "shugar__use-click-outside",
+  "author": "shugar",
+  "slug": "use-click-outside",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/use-click-outside",
+  "fetchedAt": "2026-08-29T07:21:04.344Z",
+  "completedAt": "2026-08-29T07:21:06.808Z",
+  "versionedFilename": "code.1751374364538.tsx",
+  "codeReference": "r2://components-code-private/shugar/use-click-outside/code.1751374364538.tsx",
+  "codeUrl": "https://cdn.21st.dev/shugar/use-click-outside/code.1751374364538.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 612,
+  "sha256": "dd7a369ba571473912639a63e1d10b5e27236bd4f6b97e1f3bc1dca99620ede0",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

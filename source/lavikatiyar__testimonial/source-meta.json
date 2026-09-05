@@ -1,0 +1,26 @@
+{
+  "id": "lavikatiyar__testimonial",
+  "author": "lavikatiyar",
+  "slug": "testimonial",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@lavikatiyar/components/testimonial",
+  "fetchedAt": "2026-08-29T05:25:56.189Z",
+  "completedAt": "2026-08-29T05:25:58.369Z",
+  "versionedFilename": "code.1760157556462.tsx",
+  "codeReference": "r2://components-code-private/lavikatiyar/testimonial/code.1760157556462.tsx",
+  "codeUrl": "https://cdn.21st.dev/lavikatiyar/testimonial/code.1760157556462.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5884,
+  "sha256": "ec0ebaf0e8ccad4909b8b7f1bd808d725af5e340fdde1460bbf04eb4c7f725ad",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

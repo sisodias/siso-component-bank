@@ -1,0 +1,26 @@
+{
+  "category": "layout",
+  "subcategory": "separator-divider",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Visual separation between content sections in cards or layouts",
+    "Dividing related items in lists or menus",
+    "Section breaks between form groups",
+    "Creating visual hierarchy in page layouts",
+    "Spacing and structure in documentation interfaces"
+  ],
+  "ai_summary": "A minimalist separator component built on Radix UI primitives. It provides horizontal or vertical dividers for visually separating content sections in various UI contexts. The component uses shadcn/ui's border color utility for consistent styling and supports both decorative and structural separator roles for accessibility.",
+  "_classifiedAt": "2026-04-23T17:23:41.888Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "button-form-control",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action buttons in forms and calls-to-action across web applications",
+    "Navigation triggers and link-like interactions with ghost and link variants",
+    "Icon buttons for toolbars and compact UI sections",
+    "Destructive action buttons with red styling for delete or warning operations",
+    "Secondary and outline buttons for less prominent actions in multi-step flows"
+  ],
+  "ai_summary": "A versatile, accessible button component built with Radix UI Slot and class-variance-authority. Features multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon) with consistent shadow styling, focus-visible outlines, and smooth hover transitions. Designed for composition via asChild pattern, making it adaptable as a primitive for building complex interactive elements.",
+  "_classifiedAt": "2026-04-23T16:41:32.249Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

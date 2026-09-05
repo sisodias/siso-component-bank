@@ -1,0 +1,30 @@
+{
+  "category": "card",
+  "subcategory": "breakable-shatter-card",
+  "visual_style": [],
+  "interactions": [
+    "drag",
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive product showcases with gamified breaking mechanics to capture user attention",
+    "Engaging call-to-action cards that shatter on interaction for viral sharing moments",
+    "Interactive feature highlights that reveal additional content through damage states",
+    "Attention-grabbing promotional sections with physics-based animations",
+    "Gamified UI elements where users can 'break' cards to unlock rewards or information"
+  ],
+  "ai_summary": "A breakable card component with physics-based shattering animation featuring smooth drag interactions with velocity tracking and rotational momentum. The card accumulates visual damage through animated crack overlays and SVG path-based debris chunks that scatter with gravity, rotation, and horizontal drift. Includes automatic respawning after breaking and gradual healing mechanics when held still. Ideal for creating memorable interactive experiences in SaaS applications, creative tools, or dev-tools platforms.",
+  "_classifiedAt": "2026-04-22T08:59:17.107Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

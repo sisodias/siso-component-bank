@@ -1,0 +1,33 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "webgl-waveform-canvas",
+  "visual_style": [
+    "gradient",
+    "glow"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Audio or music player waveform visualization with customizable colors and complexity",
+    "Hero section backdrop with animated gradient waves responding to mouse movement",
+    "Loading or loading screen visual with dynamic flowing wave patterns",
+    "Interactive background component for landing pages or dashboards",
+    "Live data visualization canvas with glitch-style noise overlay"
+  ],
+  "ai_summary": "A WebGL-powered dynamic waveform component built with Three.js and custom GLSL shaders. Features multi-layered sine wave animation with configurable complexity, amplitude, and frequency parameters. Includes real-time mouse-driven distortion effects, gradient color mixing between two customizable colors, glowing line rendering, and a subtle static noise overlay. The component uses uniform-based shader architecture for smooth GPU-accelerated animation suitable for hero sections, backgrounds, or audio visualization displays.",
+  "_classifiedAt": "2026-04-23T01:38:49.310Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

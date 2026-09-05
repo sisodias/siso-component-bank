@@ -1,0 +1,35 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "avatar",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display user profile pictures in navigation headers and user menus",
+    "Show author or commenter avatars alongside content",
+    "Display team member or employee photos in organizational views",
+    "Render seller or buyer avatars in marketplace listings"
+  ],
+  "ai_summary": "A Radix UI-based Avatar component for displaying user profile images with automatic fallback to a muted background when images fail to load. Includes AvatarImage for the picture and AvatarFallback for graceful degradation, built with React forward refs and Tailwind CSS utility classes for consistent circular user representation across applications.",
+  "_classifiedAt": "2026-04-23T16:42:17.583Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

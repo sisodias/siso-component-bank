@@ -1,0 +1,33 @@
+{
+  "id": "talen-520__sine-wave-dots",
+  "author": "talen-520",
+  "slug": "sine-wave-dots",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@talen-520/components/sine-wave-dots",
+  "fetchedAt": "2026-08-29T07:30:34.102Z",
+  "completedAt": "2026-08-29T07:30:36.075Z",
+  "versionedFilename": "code.1785303104034-92a1e990-dc9e-4e0c-b8a4-16e50971fbc3.tsx",
+  "codeReference": "r2://components-code-private/talen-520/sine-wave-dots/code.1785303104034-92a1e990-dc9e-4e0c-b8a4-16e50971fbc3.tsx",
+  "codeUrl": "https://cdn.21st.dev/talen-520/sine-wave-dots/code.1785303104034-92a1e990-dc9e-4e0c-b8a4-16e50971fbc3.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/talen-520__sine-wave-dots/code.tsx",
+    "bytes": 2785,
+    "sha256": "723f63ccda535c8e3c8ed9e7dd524bd5cd7e7937c428da62cfa671e9dfe87d15",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

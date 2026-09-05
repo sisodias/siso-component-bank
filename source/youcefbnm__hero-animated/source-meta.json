@@ -1,0 +1,18 @@
+{
+ "id": "youcefbnm__hero-animated",
+ "outcome": "retrieved",
+ "retrievalMethod": "local-legacy-store-copy",
+ "provenanceNote": "Copied from the pre-existing local legacy 21st store; NOT fetched from 21st.dev by this lane.",
+ "legacySourcePath": "legacy/youcefbnm-hero-animated/hero-animated.tsx",
+ "legacySourceFile": "hero-animated.tsx",
+ "legacyDependencies": [
+  "class-variance-authority",
+  "motion"
+ ],
+ "upstreamUrl": "https://21st.dev/@youcefbnm/components/hero-animated",
+ "httpStatus": null,
+ "sha256": "0a3ab27e1856297575090cc16160fdc8da5857dbe35c27cc81c45dd3b148f37a",
+ "bytes": 7305,
+ "completedAt": "2026-08-29T03:43:54.194Z",
+ "seededBy": "CENA-directive-2026-08-29-skip-legacy"
+}

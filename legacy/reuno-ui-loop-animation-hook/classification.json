@@ -1,0 +1,36 @@
+{
+  "category": [
+    "feedback",
+    "other"
+  ],
+  "subcategory": "loop-animation-hook-animated-text-cycler",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "morph",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying rotating testimonials or quotes with smooth transitions",
+    "Showing cycling text for loading states or status updates",
+    "Creating animated headlines that automatically cycle through content",
+    "Building carousel-style text displays for announcements or promotions",
+    "Implementing timed content rotation in marketing pages"
+  ],
+  "ai_summary": "A reusable React hook (useLoop) paired with an animated text component that cycles through an array of strings with smooth vertical slide transitions using Framer Motion's AnimatePresence. The hook manages a key state that increments on a configurable delay interval, triggering re-renders that animate the text in and out. The demo component showcases the hook with Spanish countdown-style text that cycles every second.",
+  "_classifiedAt": "2026-04-23T01:48:26.881Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

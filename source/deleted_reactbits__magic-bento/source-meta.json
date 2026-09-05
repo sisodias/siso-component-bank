@@ -1,0 +1,26 @@
+{
+  "id": "deleted_reactbits__magic-bento",
+  "author": "deleted_reactbits",
+  "slug": "magic-bento",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@deleted_reactbits/components/magic-bento",
+  "fetchedAt": "2026-08-29T04:14:34.272Z",
+  "completedAt": "2026-08-29T04:14:36.452Z",
+  "versionedFilename": "code.1752963143607.tsx",
+  "codeReference": "r2://components-code-private/larsen66/magic-bento/code.1752963143607.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/magic-bento/code.1752963143607.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 26837,
+  "sha256": "faec3513a4d7e32da99c0aaf9976f85d3f1310660c780e25827d7475629e31e6",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "chetanverma16-animated-tabs",
+  "type": "registry:ui",
+  "title": "Chetanverma16 Animated Tabs",
+  "description": "Installed from https://21st.dev/r/chetanverma16/animated-tabs",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "chetanverma16-animated-tabs"
+  ],
+  "files": [
+    {
+      "path": "animated-tabs.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/chetanverma16/animated-tabs",
+    "fetchedAt": "2026-04-23T03:05:16.620Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

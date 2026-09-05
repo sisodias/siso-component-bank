@@ -1,0 +1,26 @@
+{
+  "id": "animbits__loaders-spinner",
+  "author": "animbits",
+  "slug": "loaders-spinner",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@animbits/components/loaders-spinner",
+  "fetchedAt": "2026-08-29T03:34:02.242Z",
+  "completedAt": "2026-08-29T03:34:04.434Z",
+  "versionedFilename": "code.1784260400770-8bf78d9a-c3c8-45e4-977d-97abd01f9660.tsx",
+  "codeReference": "r2://components-code-private/animbits/loaders-spinner/code.1784260400770-8bf78d9a-c3c8-45e4-977d-97abd01f9660.tsx",
+  "codeUrl": "https://cdn.21st.dev/animbits/loaders-spinner/code.1784260400770-8bf78d9a-c3c8-45e4-977d-97abd01f9660.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

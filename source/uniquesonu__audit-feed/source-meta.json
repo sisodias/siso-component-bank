@@ -1,0 +1,26 @@
+{
+  "id": "uniquesonu__audit-feed",
+  "author": "uniquesonu",
+  "slug": "audit-feed",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uniquesonu/components/audit-feed",
+  "fetchedAt": "2026-08-29T07:47:21.220Z",
+  "completedAt": "2026-08-29T07:47:23.668Z",
+  "versionedFilename": "code.1759396767916.tsx",
+  "codeReference": "r2://components-code-private/uniquesonu/audit-feed/code.1759396767916.tsx",
+  "codeUrl": "https://cdn.21st.dev/uniquesonu/audit-feed/code.1759396767916.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6521,
+  "sha256": "3aba38fe7b50fce338c6c1443a94972a29a091caed77e7eba9da641206baef81",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

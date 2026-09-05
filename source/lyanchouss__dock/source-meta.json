@@ -1,0 +1,33 @@
+{
+  "id": "lyanchouss__dock",
+  "author": "lyanchouss",
+  "slug": "dock",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@lyanchouss/components/dock",
+  "fetchedAt": "2026-08-29T05:33:07.177Z",
+  "completedAt": "2026-08-29T05:33:09.325Z",
+  "versionedFilename": "code.1785765571990.tsx",
+  "codeReference": "r2://components-code-private/user_2xFgBhIEcC8WVjxizPEzB14AOkb/dock/code.1785765571990.tsx",
+  "codeUrl": "https://cdn.21st.dev/user_2xFgBhIEcC8WVjxizPEzB14AOkb/dock/code.1785765571990.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/lyanchouss__dock/code.tsx",
+    "bytes": 5629,
+    "sha256": "e53cf9525fe9dabb94f51248ce68a7c7efdd28009bf233d7b9be9b529357f7ae",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "audio-player",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "education",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Audio podcast playback with waveform-style seek bar and time display",
+    "Text-to-speech audio preview for voice synthesis applications",
+    "Playback speed control for educational audio content",
+    "Buffering state indication during audio loading"
+  ],
+  "ai_summary": "A customizable audio player component with play/pause controls, seek functionality via Radix UI slider, playback rate settings dropdown, and real-time time/duration display. Features buffering state detection, error handling, and context-based API for multi-item audio management. Built with Lucide icons and Tailwind styling for clean, minimal interface.",
+  "_classifiedAt": "2026-04-22T08:58:36.502Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

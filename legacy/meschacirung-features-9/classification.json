@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "chart-container",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying data visualizations with configurable chart themes",
+    "Responsive chart rendering within React applications",
+    "Providing reusable chart container infrastructure for dashboards",
+    "Supporting light and dark mode chart styling"
+  ],
+  "ai_summary": "A reusable chart container component from the meschacirung design system that wraps Recharts with theme configuration support. Provides a responsive, accessible chart wrapper with customizable styling for light and dark modes, featuring built-in CSS selectors for consistent chart element theming.",
+  "_classifiedAt": "2026-04-23T16:56:29.434Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

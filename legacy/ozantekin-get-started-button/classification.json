@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input",
+    "navigation"
+  ],
+  "subcategory": "get-started call-to-action button with variant system",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action for onboarding and sign-up flows",
+    "Trigger for navigation to registration or setup pages",
+    "Versatile button component for any SaaS application requiring user action",
+    "Accessible button with focus states for keyboard navigation support",
+    "Reusable button with multiple variants for different hierarchy levels"
+  ],
+  "ai_summary": "A customizable React button component with multiple style variants (default, destructive, outline, secondary, ghost, link) and size options (default, sm, lg, icon). Built on Radix UI Slot for composition and class-variance-authority for type-safe variant management. Features hover states, focus-visible rings for accessibility, and disabled states. Suitable as a primary call-to-action button for SaaS applications, landing pages, and onboarding flows requiring accessible, reusable button elements.",
+  "_classifiedAt": "2026-04-23T17:05:36.099Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

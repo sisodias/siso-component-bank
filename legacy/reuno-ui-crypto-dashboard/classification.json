@@ -1,0 +1,31 @@
+{
+  "category": [
+    "data-display",
+    "card"
+  ],
+  "subcategory": "crypto-tracker",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display real-time cryptocurrency prices and market capitalization for major coins",
+    "Track portfolio performance with 24h price change indicators and sparkline charts",
+    "Compare different cryptocurrencies by market cap rank and trading volume",
+    "Monitor market trends with visual sparkline data spanning multiple time periods",
+    "Provide quick access to high/low 24h price data for trading decisions"
+  ],
+  "ai_summary": "A cryptocurrency dashboard component that displays live prices, market capitalization, and percentage changes for top cryptocurrencies including Bitcoin, Ethereum, and BNB. Features animated sparkline charts for 7-day price trends, formatted price displays adapting to different decimal precision, and market cap formatting with T/B/M suffixes. Uses Framer Motion for smooth animations and includes hover interactions for enhanced data visualization.",
+  "_classifiedAt": "2026-04-23T17:16:23.626Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

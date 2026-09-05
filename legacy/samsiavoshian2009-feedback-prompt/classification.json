@@ -1,0 +1,29 @@
+{
+  "category": "feedback",
+  "subcategory": "satisfaction-prompt",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Collect user satisfaction on documentation and help pages",
+    "Gather quick thumbs up/down feedback on content usefulness",
+    "Rate article or guide helpfulness on knowledge bases",
+    "Survey users after completing onboarding steps",
+    "Get instant content feedback on websites and web apps"
+  ],
+  "ai_summary": "A compact feedback prompt component that asks users if a page was helpful with Yes/No thumbs buttons. Features smooth hover scale animations, click-triggered state change revealing a thank-you message, and full dark mode support. Designed as an atomic, drop-in widget for collecting satisfaction metrics on documentation sites, help centers, and content-heavy web applications.",
+  "_classifiedAt": "2026-04-23T01:52:13.756Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

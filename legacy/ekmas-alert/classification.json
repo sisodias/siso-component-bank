@@ -1,0 +1,33 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "notification-banner",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying success messages after form submissions or completed actions",
+    "Showing error messages for validation failures or system errors",
+    "Presenting warning notifications for system status or maintenance",
+    "Communicating informational messages to guide user behavior",
+    "Highlighting destructive or critical alerts that require immediate attention"
+  ],
+  "ai_summary": "A reusable alert/notification component with variant support for default and destructive states. Built with CVA for type-safe variant management and includes sub-components (AlertTitle, AlertDescription) for structured content. Uses semantic HTML with role=\"alert\" for accessibility and integrates with a design token system for consistent styling across platforms.",
+  "_classifiedAt": "2026-04-23T16:38:30.159Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

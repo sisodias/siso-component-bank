@@ -1,0 +1,30 @@
+{
+  "category": "input",
+  "subcategory": "otp-verification",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Two-factor authentication (2FA) during login flows",
+    "Email verification during account registration",
+    "Phone number verification for secure transactions",
+    "Password reset verification codes",
+    "Payment authorization with one-time codes"
+  ],
+  "ai_summary": "A clean, minimalist OTP (one-time password) input component for verification code entry. Features a 4-digit PIN input with auto-advance functionality, focus states with border color transitions, and dark mode support. Built on Ark UI's PinInput primitive for accessible keyboard navigation and screen reader compatibility.",
+  "_classifiedAt": "2026-04-23T01:40:41.953Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

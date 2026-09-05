@@ -1,0 +1,36 @@
+{
+  "category": [
+    "form",
+    "input"
+  ],
+  "subcategory": "checkbox-group",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "healthcare",
+    "education",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Multi-select form fields for collecting user preferences",
+    "Product filtering interfaces with multiple criteria",
+    "Survey or questionnaire answer selection",
+    "Settings panels for toggling multiple options",
+    "Terms and conditions acceptance with grouped options"
+  ],
+  "ai_summary": "A Base UI checkbox group component that enables multi-select functionality within a labeled fieldset. Features accessible keyboard navigation with focus-visible outlines, clean minimalist flat styling in a gray color scheme, and reactive checked/unchecked states. Uses the Base UI composition pattern with Checkbox.Root and Checkbox.Indicator sub-components for flexible styling.",
+  "_classifiedAt": "2026-04-23T11:32:14.295Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

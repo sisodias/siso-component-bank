@@ -1,0 +1,28 @@
+{
+  "category": "overlay",
+  "subcategory": "modal",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying notifications and alerts to users",
+    "Confirming user actions with close functionality",
+    "Showing additional content or forms in an overlay",
+    "Providing alerts that pause main content until dismissed",
+    "Implementing accessible modal dialogs with focus management"
+  ],
+  "ai_summary": "A clean, accessible modal dialog component built on Base UI that displays centered overlay content with a semi-transparent backdrop. Features smooth scale and opacity transitions on open/close, dark mode support, and proper focus management. Includes title, description, trigger button, and close functionality with keyboard accessibility.",
+  "_classifiedAt": "2026-04-23T11:32:14.822Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

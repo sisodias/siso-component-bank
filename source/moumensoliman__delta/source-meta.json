@@ -1,0 +1,26 @@
+{
+  "id": "moumensoliman__delta",
+  "author": "moumensoliman",
+  "slug": "delta",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@moumensoliman/components/delta",
+  "fetchedAt": "2026-08-29T05:49:54.706Z",
+  "completedAt": "2026-08-29T05:49:57.324Z",
+  "versionedFilename": "code.1779970096486.tsx",
+  "codeReference": "r2://components-code-private/larsen66/delta/code.1779970096486.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/delta/code.1779970096486.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4028,
+  "sha256": "91c92895ab738f92cdfef080be3895e25d2f2a3584969b9330bbec6937edba75",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

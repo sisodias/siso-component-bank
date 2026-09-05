@@ -1,0 +1,31 @@
+{
+  "category": "input",
+  "subcategory": "collapsible-accordion",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Expanding FAQ sections on documentation or help pages",
+    "Accordion navigation menus with nested categories",
+    "Collapsible content sections in landing pages",
+    "Expandable details panels in data-dense interfaces",
+    "Toggleable settings or options panels"
+  ],
+  "ai_summary": "A lightweight, accessible collapsible component built on Radix UI primitives. Provides smooth open/close animations with CSS-driven transitions and supports keyboard navigation. The component wraps Radix Collapsible with semantic data-slot attributes for styling and testability, making it ideal for building accordion interfaces, FAQ sections, and expandable content panels.",
+  "_classifiedAt": "2026-04-22T09:01:40.842Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

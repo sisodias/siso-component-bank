@@ -1,0 +1,28 @@
+{
+  "category": "card",
+  "subcategory": "link-preview",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display article or blog post previews with thumbnail images in a link card format",
+    "Showcase portfolio projects or case studies with hover animations",
+    "Create product feature cards with background images and overlay text",
+    "Build navigation hubs linking to external resources or documentation",
+    "Display resource cards in knowledge bases or help centers"
+  ],
+  "ai_summary": "A sleek link card component featuring framer-motion hover animations with scale and translate effects, displaying a title, description, and background image. The card uses a bottom-right positioned illustration with text overlay, rounded corners, borders, and subtle shadows. Built for versatile use in content-heavy interfaces, offering spring-based physics animations for polished interactions.",
+  "_classifiedAt": "2026-04-22T09:08:58.506Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

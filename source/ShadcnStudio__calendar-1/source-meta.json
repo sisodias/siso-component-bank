@@ -1,0 +1,26 @@
+{
+  "id": "ShadcnStudio__calendar-1",
+  "author": "ShadcnStudio",
+  "slug": "calendar-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ShadcnStudio/components/calendar-1",
+  "fetchedAt": "2026-08-29T07:13:49.293Z",
+  "completedAt": "2026-08-29T07:13:51.594Z",
+  "versionedFilename": "code.1760457559822.tsx",
+  "codeReference": "r2://components-code-private/larsen66/calendar-1/code.1760457559822.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/calendar-1/code.1760457559822.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 497,
+  "sha256": "37d4d6bd6a3d394ec0c7fd7629eb635613dbdcb7159ba77dee5549c8ed738a3d",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

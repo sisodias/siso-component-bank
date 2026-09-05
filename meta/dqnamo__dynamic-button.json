@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@dqnamo/components/dynamic-button",
+  "author": "dqnamo",
+  "slug": "dynamic-button",
+  "name": "dynamic-button",
+  "description": "An animated button that smoothly resizes its width to fit new content and crossfades its label and icon whenever the action or state changes. Built with motion/react, it uses a spring width transition, a coordinated vertical fade for content swaps, and an active-press scale. Supports primary and secondary variants, an optional icon, content or full width, and respects reduced-motion preferences.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/dqnamo/dynamic-button?api_key=$API_KEY_21ST\"",
+  "id": "dqnamo__dynamic-button",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/dynamic-button/default/bundle.1782928203077.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/dynamic-button/default/preview.1782928203077.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

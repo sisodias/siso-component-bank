@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "cta-button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons in landing pages and marketing sections",
+    "Form submission and action triggers with multiple visual variants",
+    "Navigation action buttons with hover and focus states",
+    "Reusable button component for composable UI systems",
+    "Accessible action elements with keyboard navigation support"
+  ],
+  "ai_summary": "A flexible, reusable Button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes, built on Radix UI Slot for composition flexibility. Uses class-variance-authority for type-safe variant management and includes standard accessibility patterns like focus-visible rings and disabled states. Designed as a core atomic component commonly used in CTA cards and action-trigger scenarios across SaaS, e-commerce, and general web applications.",
+  "_classifiedAt": "2026-04-22T09:04:26.526Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

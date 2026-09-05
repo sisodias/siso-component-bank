@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "moazamtrade-glass-real-time-crypto-chart",
+  "type": "registry:ui",
+  "title": "Moazamtrade Glass Real Time Crypto Chart",
+  "description": "Installed from https://21st.dev/r/moazamtrade/glass-real-time-crypto-chart",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "moazamtrade-glass-real-time-crypto-chart"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "glass-real-time-crypto-chart.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "recharts"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/moazamtrade/glass-real-time-crypto-chart",
+    "fetchedAt": "2026-04-23T01:18:27.649Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

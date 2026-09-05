@@ -1,0 +1,24 @@
+{
+  "category": "form",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Reusable button element for forms, navigation, and interactive UI",
+    "Primary action triggers with multiple visual variants",
+    "Versatile button component with variants for different contexts"
+  ],
+  "ai_summary": "A customizable button component with variants for primary, destructive, outline, secondary, ghost, and link styles. Uses class-variance-authority for efficient style management and Radix UI Slot for composition flexibility. Includes disabled and focus-visible states with ring effects.",
+  "_classifiedAt": "2026-04-23T01:41:39.704Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

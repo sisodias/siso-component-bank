@@ -1,0 +1,26 @@
+{
+  "id": "sshahaider__image-gallery",
+  "author": "sshahaider",
+  "slug": "image-gallery",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sshahaider/components/image-gallery",
+  "fetchedAt": "2026-08-29T07:26:22.841Z",
+  "completedAt": "2026-08-29T07:26:25.076Z",
+  "versionedFilename": "code.1757140399609.tsx",
+  "codeReference": "r2://components-code-private/sshahaider/image-gallery/code.1757140399609.tsx",
+  "codeUrl": "https://cdn.21st.dev/sshahaider/image-gallery/code.1757140399609.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2045,
+  "sha256": "37d7c482796703f439e40483ab6a0801b032d660d17d7043e2e911cb72077a0a",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

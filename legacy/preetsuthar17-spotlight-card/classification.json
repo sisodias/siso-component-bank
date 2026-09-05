@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "spotlight-effect-card",
+  "visual_style": [
+    "dark",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display feature highlights with interactive spotlight effects on hover",
+    "Create premium-feeling product showcase cards with mouse-tracking animations",
+    "Build engaging testimonial or profile cards with ambient glow effects",
+    "Design interactive pricing tier cards with attention-grabbing hover states",
+    "Implement container components with subtle visual feedback for user engagement"
+  ],
+  "ai_summary": "A spotlight card component with dark minimalist styling that creates a radial gradient effect following the mouse cursor on hover. Features smooth opacity transitions and focus/blur state handling for accessibility. The spotlight effect uses a configurable color with a 30% opacity threshold, creating an elegant ambient glow that draws attention to specific card elements.",
+  "_classifiedAt": "2026-04-23T17:09:39.781Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

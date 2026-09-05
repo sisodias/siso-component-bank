@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "progress-indicator",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying task completion progress in project management dashboards",
+    "Showing form wizard or onboarding step indicators",
+    "Visualizing data metrics like storage usage or budget consumption",
+    "Indicating upload or loading progress in applications",
+    "Tracking goal completion or milestones in gamified interfaces"
+  ],
+  "ai_summary": "A modern progress bar component with customizable color variants (default, secondary, destructive), border styling, and rounded corner options. Features smooth CSS transitions for height and background-color changes, plus optional striped pattern overlay. Designed for universal use across SaaS, fintech, and e-commerce platforms to display completion metrics, loading states, and step indicators with clean, minimalist aesthetics.",
+  "_classifiedAt": "2026-04-23T11:33:13.708Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

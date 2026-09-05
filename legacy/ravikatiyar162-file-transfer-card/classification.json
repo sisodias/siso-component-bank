@@ -1,0 +1,34 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action triggers for forms and interfaces",
+    "Navigation and link buttons with accessibility support",
+    "Icon-only buttons for compact UI elements"
+  ],
+  "ai_summary": "A reusable button component built with Radix UI Slot and class-variance-authority, featuring multiple variants (default, destructive, outline, secondary, ghost, link) and sizes. Supports keyboard navigation with focus-visible states, disabled states, and asChild pattern for polymorphic composition. Part of the FileTransferCard system from 21st.dev marketplace.",
+  "_classifiedAt": "2026-04-22T09:09:34.758Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

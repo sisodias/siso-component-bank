@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "accordion-expandable",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Expandable FAQ sections for product documentation and support pages",
+    "Feature showcase sections on SaaS landing pages",
+    "Collapsible content organization in knowledge bases",
+    "Step-by-step guides with expandable instructions",
+    "Navigation menus with nested expandable categories"
+  ],
+  "ai_summary": "A clean, accessible accordion component built on Radix UI primitives for collapsible content display. Features smooth open/close animations with a rotating chevron indicator, keyboard navigation support, and semantic HTML structure. Ideal for organizing dense content into digestible expandable sections.",
+  "_classifiedAt": "2026-04-23T17:17:46.154Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "sean0205__command",
+  "author": "sean0205",
+  "slug": "command",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sean0205/components/command",
+  "fetchedAt": "2026-08-29T06:57:26.246Z",
+  "completedAt": "2026-08-29T06:57:28.458Z",
+  "versionedFilename": "code.1761027399726.tsx",
+  "codeReference": "r2://components-code-private/sean0205/command/code.1761027399726.tsx",
+  "codeUrl": "https://cdn.21st.dev/sean0205/command/code.1761027399726.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4714,
+  "sha256": "3f6af310afcf3491ba761709ec984cb4da2018376d91ed0e663570ca3411d1e5",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

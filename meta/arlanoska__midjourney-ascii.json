@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@arlanoska/components/midjourney-ascii",
+  "author": "arlanoska",
+  "slug": "midjourney-ascii",
+  "name": "midjourney-ascii",
+  "description": "An interactive rebuild of Midjourney Medical's ASCII intro: a vortex of monospace characters that slowly spins and condenses into a logo — it's all real text, moved around by code. Pure WebGL2 (no three.js, zero dependencies): a glyph atlas, an instanced text renderer, per-cell vortex field math, and a CRT post pass with scanlines, chromatic aberration and barrel curvature — all tunable live. Ships the author's full engine as readable modules, plus five experiments riding it: type your own logo (nine figlet block fonts, dark/light themes, per-font accent palettes), the same swirl scored with a live WebAudio synth (entrance sweep, hover ticks, click thuds, an ambient churn drone — no audio files), a draggable hot trail that churns the letters, multi-stop gradient ink that flows through the field, and click shockwaves with four sustained wave patterns (wavefront, ripples, flow, cloth).",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/arlanoska/midjourney-ascii?api_key=$API_KEY_21ST\"",
+  "id": "arlanoska__midjourney-ascii",
+  "bundleUrl": "https://cdn.21st.dev/arlanoska/midjourney-ascii/default/bundle.1785454499449-ad6cb465-dac8-4038-823f-d60b77a631a8.html",
+  "previewUrl": "https://cdn.21st.dev/arlanoska/midjourney-ascii/default/preview.1785454499449-ad6cb465-dac8-4038-823f-d60b77a631a8.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 18,
+  "demo_id": 17093,
+  "video_url": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "componentry__text-repel",
+  "author": "componentry",
+  "slug": "text-repel",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@componentry/components/text-repel",
+  "fetchedAt": "2026-08-29T04:01:29.801Z",
+  "completedAt": "2026-08-29T04:01:32.011Z",
+  "versionedFilename": "code.1785375796746-06c7eceb-0a8a-412a-aa98-6882a8756caf.tsx",
+  "codeReference": "r2://components-code-private/componentry/text-repel/code.1785375796746-06c7eceb-0a8a-412a-aa98-6882a8756caf.tsx",
+  "codeUrl": "https://cdn.21st.dev/componentry/text-repel/code.1785375796746-06c7eceb-0a8a-412a-aa98-6882a8756caf.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@theorcdev/components/8bit-avatar",
+  "author": "theorcdev",
+  "slug": "8bit-avatar",
+  "name": "8bit-avatar",
+  "description": "Pixel-art avatar from 8bitcn.com — chunky pixel frame around image with retro variant. Replaces Radix Avatar with native primitives.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/theorcdev/8bit-avatar?api_key=$API_KEY_21ST\"",
+  "id": "theorcdev__8bit-avatar",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/8bit-avatar/default/bundle.1779969912832.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/8bit-avatar/default/preview.1779969912832.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@shuding/components/cobe-globe-weather",
+  "author": "shuding",
+  "slug": "cobe-globe-weather",
+  "name": "cobe-globe-weather",
+  "description": "A WebGL globe with floating weather emoji markers across the world. Emojis gently bob up and down.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/shuding/cobe-globe-weather?api_key=$API_KEY_21ST\"",
+  "id": "shuding__cobe-globe-weather",
+  "bundleUrl": "https://cdn.21st.dev/reapollo/cobe-globe-weather/default/bundle.1774294444412.html",
+  "previewUrl": "https://cdn.21st.dev/reapollo/cobe-globe-weather/default/preview.1774286031501.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

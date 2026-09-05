@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "native-select-dropdown",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Selecting a single option from a predefined list in forms",
+    "Enabling multiple selections with the built-in multiple attribute",
+    "Capturing user preferences with accessible focus states and disabled handling",
+    "Integrating into data collection workflows with standard HTML semantics"
+  ],
+  "ai_summary": "A lightweight native HTML select element wrapper from Origin UI with polished styling, featuring accessible focus rings, disabled states, shadow effects, and both single and multiple selection support. Uses Radix icons for the chevron indicator and includes proper ARIA handling.",
+  "_classifiedAt": "2026-04-23T17:04:49.028Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

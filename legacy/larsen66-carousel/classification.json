@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons for forms and pages",
+    "Interactive form submission triggers",
+    "Action buttons with multiple visual variants",
+    "Navigation and interface interaction elements"
+  ],
+  "ai_summary": "A reusable React Button component with multiple style variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Built with Radix UI Slot for composition support and class-variance-authority for consistent variant management. Features accessible focus rings, disabled states, and standard hover interactions.",
+  "_classifiedAt": "2026-04-23T16:50:06.894Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

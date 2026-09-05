@@ -1,0 +1,36 @@
+{
+  "category": [
+    "overlay",
+    "card",
+    "form"
+  ],
+  "subcategory": "info-dialog with form inputs and date picker",
+  "visual_style": [
+    "minimalist",
+    "flat",
+    "gradient"
+  ],
+  "interactions": [
+    "click-reveal",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display user or business profile information in a modal overlay",
+    "Collect personal details with form inputs including date selection",
+    "Show multi-step information forms with validation states",
+    "Present contact information with interactive map or location features"
+  ],
+  "ai_summary": "A comprehensive info dialog component that combines Radix UI primitives with Tailwind CSS to display detailed information in a modal format. Features integrated form inputs including text fields, select dropdowns, date picker with calendar, and button variants. Uses react-day-picker for date selection and includes Lucide icons for visual elements. Designed for displaying user profiles, contact information, or structured data entry forms in a clean, accessible overlay.",
+  "_classifiedAt": "2026-04-23T16:39:16.902Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

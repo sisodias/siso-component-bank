@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@designali-in/components/spreadsheet",
+  "author": "designali-in",
+  "slug": "spreadsheet",
+  "name": "spreadsheet",
+  "description": "A comprehensive spreadsheet component with all the essential features you'd expect from a spreadsheet application. The component includes cell selection, editing capabilities, keyboard navigation, and a clean Excel-like interface. You can customize the number of rows and columns, and it handles all the standard spreadsheet interactions seamlessly.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/designali-in/spreadsheet?api_key=$API_KEY_21ST\"",
+  "id": "designali-in__spreadsheet",
+  "bundleUrl": "https://cdn.21st.dev/designali-in/spreadsheet/default/bundle.1755230416932.html",
+  "previewUrl": "https://cdn.21st.dev/designali-in/spreadsheet/default/preview.1755187130487.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

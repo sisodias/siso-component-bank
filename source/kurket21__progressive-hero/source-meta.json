@@ -1,0 +1,26 @@
+{
+  "id": "kurket21__progressive-hero",
+  "author": "kurket21",
+  "slug": "progressive-hero",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@kurket21/components/progressive-hero",
+  "fetchedAt": "2026-08-29T05:20:41.006Z",
+  "completedAt": "2026-08-29T05:20:43.799Z",
+  "versionedFilename": "code.1747357451432.tsx",
+  "codeReference": "r2://components-code-private/kurket21/progressive-hero/code.1747357451432.tsx",
+  "codeUrl": "https://cdn.21st.dev/kurket21/progressive-hero/code.1747357451432.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5822,
+  "sha256": "10b17a7173a97ac45219babfddbc24810301d9f30ba3361d586b112669396c00",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Interactive button element with multiple visual variants for forms and calls-to-action",
+    "Primary and secondary action triggers in web applications",
+    "Icon buttons for toolbars and compact UI areas",
+    "Destructive action buttons for delete or warning operations"
+  ],
+  "ai_summary": "A reusable Button component built with Radix UI Slot and class-variance-authority, providing multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes. Features standard accessibility focus rings and disabled states. Clean, utility-first design suitable as a foundational UI building block for any SaaS, fintech, or web application.",
+  "_classifiedAt": "2026-04-22T09:09:09.053Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

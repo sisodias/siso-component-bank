@@ -1,0 +1,33 @@
+{
+  "id": "yadwinder__vercel-tabs",
+  "author": "yadwinder",
+  "slug": "vercel-tabs",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@yadwinder/components/vercel-tabs",
+  "fetchedAt": "2026-08-29T07:59:19.424Z",
+  "completedAt": "2026-08-29T07:59:20.814Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/yadwinder__vercel-tabs/code.tsx",
+    "bytes": 3592,
+    "sha256": "ba064dbc4a6f7feb9b444fd4d1bafd50d35eb7c302eb18d7e4203f763e641d64",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

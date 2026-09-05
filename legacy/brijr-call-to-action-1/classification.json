@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "action-button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary action triggers for forms and interfaces",
+    "Navigation triggers between pages or sections",
+    "Call-to-action buttons in marketing sections",
+    "Interactive controls for modal dialogs and overlays",
+    "State toggles and submit actions in applications"
+  ],
+  "ai_summary": "A reusable button component with variant support (default, destructive, outline, secondary, ghost, link) and size options. Built with Radix UI Slot for composition, CVA for variant management, and standard Tailwind CSS styling with focus-visible accessibility states. Supports asChild prop for polymorphic rendering.",
+  "_classifiedAt": "2026-04-23T01:37:07.320Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

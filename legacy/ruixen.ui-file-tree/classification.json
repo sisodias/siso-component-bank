@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary action triggers in forms and dialogs",
+    "Destructive action buttons with visual warning styling",
+    "Secondary actions alongside primary buttons",
+    "Icon-only buttons for compact toolbar interfaces",
+    "Ghost and link styles for inline navigation actions"
+  ],
+  "ai_summary": "A flexible button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes. Built with Radix UI Slot for composition, class-variance-authority for type-safe variants, and standard Tailwind focus-visible accessibility rings. Note: Despite the component name suggesting a file tree, the source code implements a standard button component with standard UI interaction patterns.",
+  "_classifiedAt": "2026-04-23T01:49:43.795Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

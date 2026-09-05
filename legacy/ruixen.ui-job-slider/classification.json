@@ -1,0 +1,39 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Triggering form submissions in web applications",
+    "Creating call-to-action buttons in landing pages",
+    "Building navigation elements with action handlers",
+    "Implementing user interactions in dashboard interfaces",
+    "Adding accessible button controls to component libraries"
+  ],
+  "ai_summary": "A reusable React button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes. Built with Radix UI's Slot for composition support and class-variance-authority for type-safe variant management. Includes accessibility features like focus rings and disabled states.",
+  "_classifiedAt": "2026-04-22T09:12:30.774Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

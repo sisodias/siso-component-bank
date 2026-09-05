@@ -1,0 +1,26 @@
+{
+  "id": "ddoemonn__wizard-steps",
+  "author": "ddoemonn",
+  "slug": "wizard-steps",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ddoemonn/components/wizard-steps",
+  "fetchedAt": "2026-08-29T04:12:20.634Z",
+  "completedAt": "2026-08-29T04:12:22.829Z",
+  "versionedFilename": "code.1785481100595-bd34f56b-c117-4c3f-850c-17f9fe106632.tsx",
+  "codeReference": "r2://components-code-private/ddoemonn/wizard-steps/code.1785481100595-bd34f56b-c117-4c3f-850c-17f9fe106632.tsx",
+  "codeUrl": "https://cdn.21st.dev/ddoemonn/wizard-steps/code.1785481100595-bd34f56b-c117-4c3f-850c-17f9fe106632.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

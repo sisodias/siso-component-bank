@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__polygon-flux",
+  "author": "ruixen.ui",
+  "slug": "polygon-flux",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/polygon-flux",
+  "fetchedAt": "2026-08-29T06:46:32.247Z",
+  "completedAt": "2026-08-29T06:46:34.437Z",
+  "versionedFilename": "code.1758049856567.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/polygon-flux/code.1758049856567.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/polygon-flux/code.1758049856567.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3932,
+  "sha256": "3ee17d6c2ddae09fe897502e4d812902ce22f88c46f7e46e0559a3effb10a025",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

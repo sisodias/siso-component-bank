@@ -1,0 +1,26 @@
+{
+  "id": "pulseawan__image-expansion",
+  "author": "pulseawan",
+  "slug": "image-expansion",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@pulseawan/components/image-expansion",
+  "fetchedAt": "2026-08-29T06:16:36.903Z",
+  "completedAt": "2026-08-29T06:16:39.097Z",
+  "versionedFilename": "code.1782988318320.tsx",
+  "codeReference": "r2://components-code-private/pulseawan/image-expansion/code.1782988318320.tsx",
+  "codeUrl": "https://cdn.21st.dev/pulseawan/image-expansion/code.1782988318320.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 13507,
+  "sha256": "a849bc5c000742907201b4d28b643a396814880d1c5d7bd9216494d9976d6d71",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

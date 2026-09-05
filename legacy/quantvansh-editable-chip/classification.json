@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "editable-tag-chip",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Inline editing of watchlist or filter tags in SaaS dashboards",
+    "Editable category labels in content management interfaces",
+    "User-customizable tags in note-taking or task management apps",
+    "Dynamic labels in dev tools for organizing issues or code references"
+  ],
+  "ai_summary": "An inline-editable chip component that transforms between display and edit modes on click, with Enter key support for saving changes. Features a smooth ring animation on edit mode activation, pencil icon for edit affordance, and full dark mode support. Ideal for watchlist tags, filter chips, and short editable labels in responsive web interfaces.",
+  "_classifiedAt": "2026-04-22T09:08:21.962Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

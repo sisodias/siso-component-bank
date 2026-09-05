@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@muneebable/components/comparison",
+  "author": "muneebable",
+  "slug": "comparison",
+  "name": "comparison",
+  "description": "Reusable comparison component for showcasing time/efficiency differences between two solutions. Features customizable cards with step-by-step breakdowns, animated reveals, and a clean side-by-side layout with VS divider—perfect for before/after, automated vs manual, or any A/B comparisons.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/muneebable/comparison?api_key=$API_KEY_21ST\"",
+  "id": "muneebable__comparison",
+  "bundleUrl": "https://cdn.21st.dev/muneebable/comparison/default/bundle.1761742421489.html",
+  "previewUrl": "https://cdn.21st.dev/muneebable/comparison/default/preview.1761130927204.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "category": "media",
+  "subcategory": "animated-text-rotator",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "real-estate",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Rotating animated headlines in hero sections with typewriter effect",
+    "Displaying cycling taglines or feature descriptions in marketing pages",
+    "Animated text reveal for loading or transitional states",
+    "Cycling through product highlights or value propositions",
+    "Interactive text animations that trigger on scroll into view"
+  ],
+  "ai_summary": "A typewriter-style animated text component that cycles through an array of strings, typing out each character sequentially with a blinking cursor. The animation triggers on scroll into view using Framer Motion's useInView hook, with configurable typing speed, rotation interval, and text array. Features a minimalist flat design with a pulsing cursor indicator, commonly used in hero sections and marketing pages to create engaging animated headings.",
+  "_classifiedAt": "2026-04-22T09:16:37.268Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

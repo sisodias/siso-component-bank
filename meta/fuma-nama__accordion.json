@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@fuma-nama/components/accordion",
+  "author": "fuma-nama",
+  "slug": "accordion",
+  "name": "accordion",
+  "description": "Accordions to your documentation\n\nBased on Radix UI Accordion, useful for FAQ sections.\n\n\nLinking to Accordion\nYou can specify an id for accordion. The accordion will automatically open when the user is navigating to the page with the specified id in hash parameter.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/fuma-nama/accordion?api_key=$API_KEY_21ST\"",
+  "id": "fuma-nama__accordion",
+  "bundleUrl": "https://cdn.21st.dev/bundled/934.html",
+  "previewUrl": "https://cdn.21st.dev/user_fuma-nama/accordion.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 107,
+  "demo_id": 934,
+  "video_url": "https://cdn.21st.dev/user_fuma-nama/accordion/934/video.mp4"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "reaviz__stacked-bar-xl",
+  "author": "reaviz",
+  "slug": "stacked-bar-xl",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@reaviz/components/stacked-bar-xl",
+  "fetchedAt": "2026-08-29T06:33:12.749Z",
+  "completedAt": "2026-08-29T06:33:13.741Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "page-soft404",
+  "failureClass": "soft-404",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/reaviz__stacked-bar-xl/code.tsx",
+    "bytes": 16237,
+    "sha256": "2944fd5c60fb771c89f216bb913ced3b8d7bebaaa3202968642a048b9257ae89",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is page-soft404/soft-404."
+  }
+}

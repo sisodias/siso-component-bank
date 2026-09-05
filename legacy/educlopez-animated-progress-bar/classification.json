@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "progress-indicator",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "education",
+    "saas",
+    "healthcare",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display course or module completion percentage in educational platforms",
+    "Show task or project progress in project management dashboards",
+    "Indicate file upload or download status in web applications",
+    "Visualize survey or form completion rate in data collection tools",
+    "Represent analytics metrics like goal completion or KPIs in SaaS dashboards"
+  ],
+  "ai_summary": "A lightweight animated progress bar component built with Framer Motion that displays percentage-based progress using a smooth spring animation. Supports customizable labels, colors, and styling through Tailwind className props. Ideal for visualizing completion states, upload progress, or metric indicators in any web application.",
+  "_classifiedAt": "2026-04-23T01:39:50.084Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "reuno-ui__css-link",
+  "author": "reuno-ui",
+  "slug": "css-link",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@reuno-ui/components/css-link",
+  "fetchedAt": "2026-08-29T06:35:28.437Z",
+  "completedAt": "2026-08-29T06:35:30.500Z",
+  "versionedFilename": "code.1757680881172.tsx",
+  "codeReference": "r2://components-code-private/larsen66/css-link/code.1757680881172.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/css-link/code.1757680881172.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7849,
+  "sha256": "5bfeb0013368ffb59f079b6806377614c5223ef6a246f882ed757c9405c0fba9",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

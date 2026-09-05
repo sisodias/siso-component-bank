@@ -1,0 +1,29 @@
+{
+  "category": "media",
+  "subcategory": "horizontal-marquee",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying a continuous scrolling list of brand names or client logos",
+    "Showing feature highlights or selling points in a looping animation",
+    "Rendering testimonials or reviews in a marquee-style banner",
+    "Creating a news ticker for announcements or updates",
+    "Showing categories or tags in an e-commerce footer"
+  ],
+  "ai_summary": "A minimal marquee component that displays text items in a seamless horizontal scrolling loop using dual-layer CSS animations. The component uses a flat black-and-white visual style with border accents and large typography, making it suitable for displaying brand logos, feature lists, testimonials, or other content that benefits from continuous horizontal motion.",
+  "_classifiedAt": "2026-04-23T16:38:45.114Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

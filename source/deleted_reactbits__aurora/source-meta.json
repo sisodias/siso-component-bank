@@ -1,0 +1,26 @@
+{
+  "id": "deleted_reactbits__aurora",
+  "author": "deleted_reactbits",
+  "slug": "aurora",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@deleted_reactbits/components/aurora",
+  "fetchedAt": "2026-08-29T04:12:40.227Z",
+  "completedAt": "2026-08-29T04:12:42.340Z",
+  "versionedFilename": "code.1747800484619.tsx",
+  "codeReference": "r2://components-code-private/larsen66/aurora/code.1747800484619.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/aurora/code.1747800484619.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7521,
+  "sha256": "2a978bf6e60ddcff656c3cdb1c12039a4e4774befcd2c96d2ef7fc19d1d345f3",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

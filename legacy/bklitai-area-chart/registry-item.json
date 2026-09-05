@@ -1,0 +1,50 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "bklitai-area-chart",
+  "type": "registry:ui",
+  "title": "Bklitai Area Chart",
+  "description": "Installed from https://21st.dev/r/bklitai/area-chart",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "bklitai-area-chart"
+  ],
+  "files": [
+    {
+      "path": "area-chart.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@visx/curve",
+    "@visx/event",
+    "@visx/grid",
+    "@visx/responsive",
+    "@visx/scale",
+    "@visx/shape",
+    "clsx",
+    "d3-array",
+    "motion",
+    "react-use-measure",
+    "tailwind-merge"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/bklitai/area-chart",
+    "fetchedAt": "2026-04-22T06:32:17.675Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

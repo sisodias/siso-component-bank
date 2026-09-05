@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@nexus-ui/components/chat-messages",
+  "author": "nexus-ui",
+  "slug": "chat-messages",
+  "name": "chat-messages",
+  "description": "Animated chat conversation with sequential message bubbles, typing indicators, and optional interactive input for AI and chatbot demos.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/nexus-ui/chat-messages?api_key=$API_KEY_21ST\"",
+  "id": "nexus-ui__chat-messages",
+  "bundleUrl": "https://cdn.21st.dev/nexus-ui/chat-messages/default/bundle.1784358333941-8fe47408-1d90-4abb-8d79-ab5cb29f46aa.html",
+  "previewUrl": "https://cdn.21st.dev/nexus-ui/chat-messages/default/preview.1784358333941-8fe47408-1d90-4abb-8d79-ab5cb29f46aa.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

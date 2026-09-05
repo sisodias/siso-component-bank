@@ -1,0 +1,27 @@
+{
+  "category": "overlay",
+  "subcategory": "alert-dialog",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Confirmation dialogs before destructive actions like deletions or data loss",
+    "Alerting users to important information before proceeding",
+    "Requesting user acknowledgment of terms or policies",
+    "Collecting final confirmation before form submissions",
+    "Displaying warnings or important notices in applications"
+  ],
+  "ai_summary": "A functional alert/confirmation dialog component built with Ark UI featuring backdrop blur overlay, smooth open/close animations, dark mode support, and accessible focus management. Displays a title, descriptive message, and action buttons for user confirmation workflows.",
+  "_classifiedAt": "2026-04-22T08:51:47.727Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

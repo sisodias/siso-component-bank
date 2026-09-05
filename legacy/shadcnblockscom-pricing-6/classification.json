@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action trigger for form submissions and confirmations",
+    "Interactive button for pricing plan selection and toggling",
+    "Navigation trigger for moving between pages or sections",
+    "Destructive action button for deletion or removal operations",
+    "Secondary option button for alternative user actions"
+  ],
+  "ai_summary": "A shadcn/ui Button component with CVA-based variant system supporting multiple visual styles including default, destructive, outline, secondary, ghost, and link variants. Features flexible sizing options and Radix UI Slot composition for render-as-child patterns. Designed for universal use as interactive action triggers in forms, navigation, and UI controls with proper focus states and accessibility support.",
+  "_classifiedAt": "2026-04-23T17:28:24.676Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

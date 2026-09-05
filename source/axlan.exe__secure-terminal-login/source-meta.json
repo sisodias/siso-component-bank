@@ -1,0 +1,26 @@
+{
+  "id": "axlan.exe__secure-terminal-login",
+  "author": "axlan.exe",
+  "slug": "secure-terminal-login",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@axlan.exe/components/secure-terminal-login",
+  "fetchedAt": "2026-08-29T03:46:24.990Z",
+  "completedAt": "2026-08-29T03:46:27.195Z",
+  "versionedFilename": "code.1773737603249.tsx",
+  "codeReference": "r2://components-code-private/axlan.exe/secure-terminal-login/code.1773737603249.tsx",
+  "codeUrl": "https://cdn.21st.dev/axlan.exe/secure-terminal-login/code.1773737603249.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 16607,
+  "sha256": "79de1223b2b1abf40adca871caa4559918cc013cce1abf00c5a17cc3cc0e64a6",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

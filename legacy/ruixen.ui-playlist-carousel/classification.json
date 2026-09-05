@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-action",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Triggering primary actions in forms and interfaces with configurable visual styles",
+    "Navigation triggers and link-like behaviors using the link variant",
+    "Destructive action buttons for delete or warning operations",
+    "Icon-only buttons for compact toolbars and action bars",
+    "As-child pattern implementation for flexible composition with custom components"
+  ],
+  "ai_summary": "A reusable React Button component built with Radix UI Slot and class-variance-authority for flexible variant and size styling. Supports multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon), with standard accessibility focus states and disabled handling. The component implements the asChild pattern for composition with custom elements, making it a foundational atomic UI primitive suitable for any design system.",
+  "_classifiedAt": "2026-04-23T01:50:55.686Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

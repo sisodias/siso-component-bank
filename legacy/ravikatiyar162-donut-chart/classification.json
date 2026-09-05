@@ -1,0 +1,36 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "data-container-wrapper",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Container for displaying data visualizations like donut charts",
+    "Creating consistent card-based layouts in dashboards",
+    "Wrapping analytics widgets with standardized styling",
+    "Card component system for building UI layouts",
+    "Organizing mixed content with header, body, and footer sections"
+  ],
+  "ai_summary": "A flexible card component system providing Card, CardHeader, CardTitle, CardDescription, CardContent, and CardFooter sub-components with standard shadcn/ui styling. Features rounded borders, subtle shadows, and consistent spacing designed to wrap data displays, charts, and mixed content. Optimized as a universal container for dashboard widgets and card-based interfaces.",
+  "_classifiedAt": "2026-04-22T09:09:16.866Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

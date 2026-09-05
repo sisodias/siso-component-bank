@@ -1,0 +1,28 @@
+{
+  "category": "navigation",
+  "subcategory": "dropdown-menu",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Navigation menus for web application headers and toolbars",
+    "Action dropdowns for file operations and document management",
+    "Settings and preferences menus in SaaS dashboards",
+    "User account menus with profile options and logout actions"
+  ],
+  "ai_summary": "A reusable dropdown menu component built with Ark UI that provides accessible keyboard navigation and focus management. Features dark mode support, portal rendering for proper z-index positioning, and styled menu items with hover/focus states. Ideal for navigation bars, action menus, and settings panels in modern web applications.",
+  "_classifiedAt": "2026-04-22T08:51:56.087Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

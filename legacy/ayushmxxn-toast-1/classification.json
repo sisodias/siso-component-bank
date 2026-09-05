@@ -1,0 +1,39 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "toast notification system",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education",
+    "media",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "system"
+  ],
+  "use_cases": [
+    "Displaying temporary success messages after user actions like form submissions or API calls",
+    "Showing error notifications when operations fail or validation errors occur",
+    "Providing warning alerts for potentially risky user actions",
+    "Delivering informational messages or system status updates to users",
+    "Confirming data changes with auto-dismissing toast notifications"
+  ],
+  "ai_summary": "A React toast notification system with context-based architecture supporting multiple toast types (success, error, warning, info) and 5 position options. Features auto-dismiss after 5 seconds, framer-motion animations, and a custom useToast hook for easy integration. Includes a provider component that renders multiple toast containers and manages toast state globally through React context.",
+  "_classifiedAt": "2026-04-23T11:31:26.783Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

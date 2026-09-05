@@ -1,0 +1,38 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-component",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons for forms and landing pages",
+    "Icon-only buttons for compact UI toolbars and navigation",
+    "Loading state buttons during async operations",
+    "Multi-variant button system for different hierarchy levels",
+    "Shape-customizable buttons matching brand identity"
+  ],
+  "ai_summary": "A versatile Button component system with multiple variants (primary, secondary, tertiary, error, warning), sizes (tiny to large), and shapes (square, circle, rounded). Supports icon prefixes/suffixes, loading states with spinner integration, disabled states, and full-width options. Built with Tailwind CSS using a clean, minimalist design approach with hover state transitions.",
+  "_classifiedAt": "2026-04-23T17:30:59.036Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

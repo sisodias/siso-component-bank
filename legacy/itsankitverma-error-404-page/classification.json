@@ -1,0 +1,25 @@
+{
+  "category": "feedback",
+  "subcategory": "404-error-page",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying a user-friendly error message when a requested page or route cannot be found",
+    "Serving as a fallback page for broken links or mistyped URLs",
+    "Providing navigation guidance after encountering a missing page",
+    "Maintaining brand consistency with styled error states across applications"
+  ],
+  "ai_summary": "A full-screen 404 error page with a dark blue gradient background featuring abstract SVG wave shapes. The component displays a bold white '404' heading with a friendly message indicating the page was not found. The design is clean, minimalist, and centered for immediate user attention, making it suitable as a universal not-found fallback for any web application.",
+  "_classifiedAt": "2026-04-23T16:45:26.776Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

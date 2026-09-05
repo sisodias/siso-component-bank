@@ -1,0 +1,40 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "not-found-page",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Display when a user navigates to a non-existent URL or broken link",
+    "Provide visual feedback when an API request returns a 404 status",
+    "Guide users back to valid pages after encountering missing content",
+    "Serve as a branded error state for empty search results or deleted items"
+  ],
+  "ai_summary": "A minimalist not-found (404) error page component that provides user feedback when a requested page or resource doesn't exist. Part of the molecule-lab design system, this component typically displays an error message with navigation options to redirect users back to valid content.",
+  "_classifiedAt": "2026-04-23T17:01:08.473Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

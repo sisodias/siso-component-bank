@@ -1,0 +1,22 @@
+{
+  "category": "overlay",
+  "subcategory": "modal-dialog",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying confirmation dialogs for user actions",
+    "Showing form content or data entry modals",
+    "Presenting alerts and notifications in an overlay",
+    "Revealing detailed information in a contained view",
+    "Capturing user input through modal-based forms"
+  ],
+  "ai_summary": "A modal dialog component built with Radix UI primitives and styled with Tailwind CSS. Features configurable button variants using CVA for different styles and states. Includes Lucide icons for close and confirm actions, providing a clean, accessible overlay for confirmations, alerts, and content display.",
+  "_classifiedAt": "2026-04-23T16:38:58.036Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

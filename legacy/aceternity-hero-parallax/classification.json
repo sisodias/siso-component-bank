@@ -1,0 +1,35 @@
+{
+  "category": [
+    "hero",
+    "media",
+    "layout"
+  ],
+  "subcategory": "parallax-scroll-hero",
+  "visual_style": [
+    "glass-morphism",
+    "3d",
+    "gradient"
+  ],
+  "interactions": [
+    "parallax",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero section with immersive product showcase experience",
+    "Portfolio or media site hero with scroll-driven parallax animations",
+    "E-commerce product grid with 3D perspective effects on scroll"
+  ],
+  "ai_summary": "A sophisticated parallax hero component featuring multi-row product cards with scroll-triggered 3D transforms, smooth spring animations, and perspective-based effects. Uses Framer Motion's useScroll and useTransform hooks for cinematic parallax scrolling with rotateX, rotateZ, translateY, and opacity transitions. Ideal for creating immersive landing pages with dynamic product showcases.",
+  "_classifiedAt": "2026-04-23T11:28:29.823Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

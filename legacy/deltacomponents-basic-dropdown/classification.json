@@ -1,0 +1,37 @@
+{
+  "category": [
+    "navigation",
+    "input"
+  ],
+  "subcategory": "basic-dropdown, select-menu, dropdown-selector",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Form field selection for filtering or sorting data in dashboards",
+    "Navigation menus with hover or click-triggered dropdown options",
+    "Settings and preferences panel with grouped action items",
+    "User profile menus with account options and logout",
+    "Action menus for contextual operations like edit, delete, or share"
+  ],
+  "ai_summary": "A reusable basic dropdown component with flexible positioning options (align, side, placement), keyboard navigation support via custom hooks, smooth open/close animations using Framer Motion, and click-away detection to close when user interacts outside. Built with React Context for state management and composable sub-components (Trigger, Content, Item, Separator) for flexible menu construction.",
+  "_classifiedAt": "2026-04-23T01:37:29.791Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

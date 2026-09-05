@@ -1,0 +1,26 @@
+{
+  "id": "shugar__choicebox-1",
+  "author": "shugar",
+  "slug": "choicebox-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/choicebox-1",
+  "fetchedAt": "2026-08-29T07:18:50.154Z",
+  "completedAt": "2026-08-29T07:18:51.886Z",
+  "versionedFilename": "code.1752223611881.tsx",
+  "codeReference": "r2://components-code-private/shugar/choicebox-1/code.1752223611881.tsx",
+  "codeUrl": "https://cdn.21st.dev/shugar/choicebox-1/code.1752223611881.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4931,
+  "sha256": "0b1000f3dfc16a3455c47265cc3e41c0650a6ff5efe430602bfe3cf7313b8f95",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

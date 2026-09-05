@@ -1,0 +1,28 @@
+{
+  "category": "input",
+  "subcategory": "ai-chat",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "AI chatbot text input with model selection dropdown for switching between GPT, Claude, and Gemini models",
+    "Multi-model AI platform interface for selecting preferred language model",
+    "Conversational AI input component for SaaS applications with model switching capability",
+    "Text submission with icon attachments for AI-powered applications",
+    "Real-time chat input interface for AI assistant platforms"
+  ],
+  "ai_summary": "A composite AI chat input component built with shadcn/ui featuring a model selector dropdown for switching between popular LLM providers (GPT, Claude, Gemini), a textarea for text input, and action buttons for sending messages. Uses standard flat styling with Lucide icons and Card container for clean, functional AI chatbot interfaces in SaaS and dev-tool applications.",
+  "_classifiedAt": "2026-04-22T09:08:11.811Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,31 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "animated-footer",
+  "visual_style": [
+    "dark",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page footer with animated wave effects triggered on scroll into view",
+    "Portfolio or creative website footer providing visual interest with sine-wave animations",
+    "Full-height website footer with left and right navigation links and copyright",
+    "Marketing site footer that animates bars to create dynamic wave-like motion"
+  ],
+  "ai_summary": "A full-screen animated footer component featuring wave-like motion using sine-wave transformations on multiple bar elements. The animation triggers via IntersectionObserver when the footer enters the viewport, using requestAnimationFrame for smooth performance. Supports configurable left and right navigation links, customizable bar count, and includes intersection detection to pause animations when not visible, optimizing resource usage while maintaining engaging visual effects.",
+  "_classifiedAt": "2026-04-23T17:34:56.956Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

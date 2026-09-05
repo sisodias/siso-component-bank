@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@uicapsule/components/voice-dictator",
+  "author": "uicapsule",
+  "slug": "voice-dictator",
+  "name": "voice-dictator",
+  "description": "An animated voice dictation interface with a WebGL dithered waveform orb that pulses while a live transcript streams in.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/uicapsule/voice-dictator?api_key=$API_KEY_21ST\"",
+  "id": "uicapsule__voice-dictator",
+  "bundleUrl": "https://cdn.21st.dev/uicapsule/voice-dictator/default/bundle.1784285260309-39d9898d-ffaa-45b0-8ba3-caba15a2fb91.html",
+  "previewUrl": "https://cdn.21st.dev/uicapsule/voice-dictator/default/preview.1784285260309-39d9898d-ffaa-45b0-8ba3-caba15a2fb91.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

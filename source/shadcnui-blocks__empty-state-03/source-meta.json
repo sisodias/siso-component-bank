@@ -1,0 +1,26 @@
+{
+  "id": "shadcnui-blocks__empty-state-03",
+  "author": "shadcnui-blocks",
+  "slug": "empty-state-03",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcnui-blocks/components/empty-state-03",
+  "fetchedAt": "2026-08-29T07:14:25.236Z",
+  "completedAt": "2026-08-29T07:14:26.634Z",
+  "versionedFilename": "code.1784385403227-81b64fd3-5e58-48eb-b0d4-491072759804.tsx",
+  "codeReference": "r2://components-code-private/shadcnui-blocks/empty-state-03/code.1784385403227-81b64fd3-5e58-48eb-b0d4-491072759804.tsx",
+  "codeUrl": "https://cdn.21st.dev/shadcnui-blocks/empty-state-03/code.1784385403227-81b64fd3-5e58-48eb-b0d4-491072759804.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

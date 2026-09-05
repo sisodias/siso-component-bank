@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@sshahaider/components/avatar-uploader",
+  "author": "sshahaider",
+  "slug": "avatar-uploader",
+  "name": "avatar-uploader",
+  "description": "An interactive avatar uploader with image cropping and preview that supports custom aspect ratios, size limits, and file validation. Perfect for profile pictures, user onboarding flows, and account settings pages.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/sshahaider/avatar-uploader?api_key=$API_KEY_21ST\"",
+  "id": "sshahaider__avatar-uploader",
+  "bundleUrl": "https://cdn.21st.dev/sshahaider/avatar-uploader/default/bundle.1757506731682.html",
+  "previewUrl": "https://cdn.21st.dev/sshahaider/avatar-uploader/default/preview.1757506731682.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

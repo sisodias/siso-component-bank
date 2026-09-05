@@ -1,0 +1,26 @@
+{
+  "id": "aumbhusal__mt",
+  "author": "aumbhusal",
+  "slug": "mt",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@aumbhusal/components/mt",
+  "fetchedAt": "2026-08-29T03:41:41.313Z",
+  "completedAt": "2026-08-29T03:41:43.518Z",
+  "versionedFilename": "code.1786519251519-4e640fdd-b531-473d-a2fb-52a20ce66622.tsx",
+  "codeReference": "r2://components-code-private/aumbhusal/mt/code.1786519251519-4e640fdd-b531-473d-a2fb-52a20ce66622.tsx",
+  "codeUrl": "https://cdn.21st.dev/aumbhusal/mt/code.1786519251519-4e640fdd-b531-473d-a2fb-52a20ce66622.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

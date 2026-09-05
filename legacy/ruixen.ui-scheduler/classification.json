@@ -1,0 +1,42 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Trigger form submissions with styled button variants",
+    "Navigate users between pages or sections",
+    "Execute actions like save, delete, or confirm operations",
+    "Toggle visibility or state of other UI elements",
+    "Provide accessible keyboard-navigable action triggers"
+  ],
+  "ai_summary": "A versatile atomic button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes for triggering actions throughout the scheduler UI. Built with Radix UI Slot for composition flexibility, CVA for variant management, and includes hover, focus-visible, and disabled states for full interaction coverage.",
+  "_classifiedAt": "2026-04-23T01:51:10.164Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

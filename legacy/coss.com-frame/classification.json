@@ -1,0 +1,32 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "panel-frame",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying layered card content with consistent visual hierarchy using Frame and FramePanel components",
+    "Creating content sections with semantic header, title, description, and footer structure",
+    "Building panel-based layouts with rounded corners, borders, and subtle shadows",
+    "Implementing dark mode compatible card components using CSS variable-based styling",
+    "Composing reusable card interfaces for dashboards, settings pages, or content displays"
+  ],
+  "ai_summary": "A modular card component system from Coss.com providing Frame and FramePanel building blocks with semantic Header, Title, Description, and Footer slots. Features minimalist styling with rounded-2xl corners, subtle shadows, and dark mode support via CSS variables. Built on Tailwind CSS using the cn utility for flexible class composition and responsive layouts across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-22T08:54:46.677Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

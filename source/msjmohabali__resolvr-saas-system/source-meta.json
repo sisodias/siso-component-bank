@@ -1,0 +1,26 @@
+{
+  "id": "msjmohabali__resolvr-saas-system",
+  "author": "msjmohabali",
+  "slug": "resolvr-saas-system",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@msjmohabali/components/resolvr-saas-system",
+  "fetchedAt": "2026-08-29T05:52:36.915Z",
+  "completedAt": "2026-08-29T05:52:39.129Z",
+  "versionedFilename": "code.1781561955818.tsx",
+  "codeReference": "r2://components-code-private/msjmohabali/resolvr-saas-system/code.1781561955818.tsx",
+  "codeUrl": "https://cdn.21st.dev/msjmohabali/resolvr-saas-system/code.1781561955818.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 12477,
+  "sha256": "f9a7f1d61f3d021eb08ece0621bb26eb11addf3c66947a31b057d5c2881f8a34",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

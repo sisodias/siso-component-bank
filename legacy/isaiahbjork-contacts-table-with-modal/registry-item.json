@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "isaiahbjork-contacts-table-with-modal",
+  "type": "registry:ui",
+  "title": "Isaiahbjork Contacts Table With Modal",
+  "description": "Installed from https://21st.dev/r/isaiahbjork/contacts-table-with-modal",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "isaiahbjork-contacts-table-with-modal"
+  ],
+  "files": [
+    {
+      "path": "contacts-table-with-modal.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "lucide-react",
+    "next-themes"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/isaiahbjork/contacts-table-with-modal",
+    "fetchedAt": "2026-04-22T06:43:50.866Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

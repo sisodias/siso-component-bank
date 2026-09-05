@@ -1,0 +1,26 @@
+{
+  "id": "ravikatiyar162__loader-1",
+  "author": "ravikatiyar162",
+  "slug": "loader-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ravikatiyar162/components/loader-1",
+  "fetchedAt": "2026-08-29T06:26:10.745Z",
+  "completedAt": "2026-08-29T06:26:12.993Z",
+  "versionedFilename": "code.1755084116885.tsx",
+  "codeReference": "r2://components-code-private/ravikatiyar162/loader-1/code.1755084116885.tsx",
+  "codeUrl": "https://cdn.21st.dev/ravikatiyar162/loader-1/code.1755084116885.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2155,
+  "sha256": "6d38c45cde43c1a1f95bd5b4a6cd676b9a98c952076d501bec25efeff4a71ed4",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

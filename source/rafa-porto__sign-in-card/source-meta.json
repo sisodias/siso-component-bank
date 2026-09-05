@@ -1,0 +1,26 @@
+{
+  "id": "rafa-porto__sign-in-card",
+  "author": "rafa-porto",
+  "slug": "sign-in-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@rafa-porto/components/sign-in-card",
+  "fetchedAt": "2026-08-29T06:17:59.022Z",
+  "completedAt": "2026-08-29T06:18:01.068Z",
+  "versionedFilename": "code.1761858626428.tsx",
+  "codeReference": "r2://components-code-private/rafa-porto/sign-in-card/code.1761858626428.tsx",
+  "codeUrl": "https://cdn.21st.dev/rafa-porto/sign-in-card/code.1761858626428.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 12743,
+  "sha256": "f785e11d899acba48f5405a6d013dd7d196d5ad16eb3c8723d6f0a6ce83d867b",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

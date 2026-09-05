@@ -1,0 +1,26 @@
+{
+  "id": "deleted_reactbits__galaxy",
+  "author": "deleted_reactbits",
+  "slug": "galaxy",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@deleted_reactbits/components/galaxy",
+  "fetchedAt": "2026-08-29T04:13:48.626Z",
+  "completedAt": "2026-08-29T04:13:50.835Z",
+  "versionedFilename": "code.1753014557345.tsx",
+  "codeReference": "r2://components-code-private/larsen66/galaxy/code.1753014557345.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/galaxy/code.1753014557345.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10516,
+  "sha256": "799fc376f57fb131cb9b1a06f166d7a7c8d4a87948a9a21dc32624f9d5879777",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

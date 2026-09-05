@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "anurag-mishra22-animated-reveal-text",
+  "type": "registry:ui",
+  "title": "Anurag Mishra22 Animated Reveal Text",
+  "description": "Installed from https://21st.dev/r/anurag-mishra22/animated-reveal-text",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "anurag-mishra22-animated-reveal-text"
+  ],
+  "files": [
+    {
+      "path": "animated-reveal-text.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/anurag-mishra22/animated-reveal-text",
+    "fetchedAt": "2026-04-23T03:05:32.032Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

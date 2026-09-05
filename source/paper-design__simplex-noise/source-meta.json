@@ -1,0 +1,26 @@
+{
+  "id": "paper-design__simplex-noise",
+  "author": "paper-design",
+  "slug": "simplex-noise",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@paper-design/components/simplex-noise",
+  "fetchedAt": "2026-08-29T06:05:46.802Z",
+  "completedAt": "2026-08-29T06:05:48.992Z",
+  "versionedFilename": "code.1784835415225-9b4051f1-7e84-4abd-8937-82565b9af146.tsx",
+  "codeReference": "r2://components-code-private/paper-design/simplex-noise/code.1784835415225-9b4051f1-7e84-4abd-8937-82565b9af146.tsx",
+  "codeUrl": "https://cdn.21st.dev/paper-design/simplex-noise/code.1784835415225-9b4051f1-7e84-4abd-8937-82565b9af146.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

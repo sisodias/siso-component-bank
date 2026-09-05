@@ -1,0 +1,29 @@
+{
+  "category": "layout",
+  "subcategory": "animation-container",
+  "visual_style": [],
+  "interactions": [
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creates ambient floating effects on landing pages and hero sections",
+    "Adds continuous decorative motion to background elements",
+    "Provides smooth animated floating shapes for visual interest",
+    "Enables parallax-like motion for depth and engagement",
+    "Serves as a wrapper for animating child elements with configurable motion"
+  ],
+  "ai_summary": "FloatingElements is a layout component that wraps child elements and applies smooth, randomized floating animations using requestAnimationFrame. Elements drift within configurable distance bounds with customizable duration and easing, creating ambient motion effects suitable for decorative backgrounds or visual enhancement on landing pages and hero sections.",
+  "_classifiedAt": "2026-04-23T01:55:22.484Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

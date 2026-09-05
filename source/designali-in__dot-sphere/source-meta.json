@@ -1,0 +1,33 @@
+{
+  "id": "designali-in__dot-sphere",
+  "author": "designali-in",
+  "slug": "dot-sphere",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/dot-sphere",
+  "fetchedAt": "2026-08-29T04:17:56.430Z",
+  "completedAt": "2026-08-29T04:17:58.192Z",
+  "versionedFilename": "code.1785307360716-a4c4315c-bff1-4792-8c39-bbd6a871d353.tsx",
+  "codeReference": "r2://components-code-private/designali-in/dot-sphere/code.1785307360716-a4c4315c-bff1-4792-8c39-bbd6a871d353.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/dot-sphere/code.1785307360716-a4c4315c-bff1-4792-8c39-bbd6a871d353.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/designali-in__dot-sphere/code.tsx",
+    "bytes": 5302,
+    "sha256": "cfb05bd8747f66e9fc6e657a873838869899f1cf3b8670bd481f7531138f2267",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

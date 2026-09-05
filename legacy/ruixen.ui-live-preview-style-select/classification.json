@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "style-select-dropdown-picker",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting visual styles in a UI builder or design tool",
+    "Choosing preview themes in a documentation or showcase page",
+    "Switching between configuration options in a settings panel",
+    "Picking color schemes or visual themes in a customization interface"
+  ],
+  "ai_summary": "A reusable style selection dropdown component that displays options with optional descriptions and preview areas. Built on Radix UI's Select primitive with Tailwind CSS, it supports customizable labels, placeholder text, preview heights, and background classes. Features dark mode support and provides a flexible onChange callback for integrating selected styles into parent components.",
+  "_classifiedAt": "2026-04-22T09:12:31.502Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

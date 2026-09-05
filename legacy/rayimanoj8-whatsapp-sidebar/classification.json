@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons in forms and dialogs",
+    "Icon-only toolbar buttons with compact sizing",
+    "Destructive action triggers with red variant",
+    "Secondary/ghost actions in card layouts and menus",
+    "Accessible navigation and link-style triggers"
+  ],
+  "ai_summary": "A foundational atomic Button component built with React, class-variance-authority, and Radix UI's Slot for composition. Provides 6 visual variants (default, destructive, outline, secondary, ghost, link) and 4 sizes (default, sm, lg, icon) for flexible use across any UI context. Includes accessibility features with focus-visible ring states and disabled state handling.",
+  "_classifiedAt": "2026-04-23T17:13:54.314Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

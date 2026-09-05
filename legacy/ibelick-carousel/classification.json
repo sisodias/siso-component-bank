@@ -1,0 +1,39 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "carousel-slider",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "drag",
+    "click-reveal",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Displaying rotating content items with smooth motion transitions in web applications",
+    "Creating product image galleries for e-commerce product pages",
+    "Building testimonial or review sliders for landing pages",
+    "Implementing feature showcases in SaaS marketing sites",
+    "Displaying portfolios or media galleries with drag-to-navigate functionality"
+  ],
+  "ai_summary": "Ibelick Carousel is a motion-powered React carousel component with drag gesture support, featuring a context-based state management system and dual controlled/uncontrolled modes. It provides smooth animations via motion/react, chevron navigation controls, and is designed as a flexible, reusable carousel system suitable for showcasing content items in galleries, product displays, or testimonial sections across various web applications.",
+  "_classifiedAt": "2026-04-23T16:42:42.047Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

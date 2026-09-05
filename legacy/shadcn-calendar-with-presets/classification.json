@@ -1,0 +1,33 @@
+{
+  "category": "input",
+  "subcategory": "action-trigger-button",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Trigger form submissions with customizable styled buttons using CVA variants",
+    "Navigate between pages or sections with styled CTA buttons",
+    "Open or close overlays, modals, and dialogs with action buttons",
+    "Provide destructive action buttons with red styling for delete operations",
+    "Enable keyboard-accessible interactions with built-in focus states"
+  ],
+  "ai_summary": "A reusable Button component built with Radix UI Slot and class-variance-authority for flexible variant management. Features multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon) with consistent shadow styling, focus states, and disabled behavior. Part of the shadcn calendar-with-presets package but serves as a standalone atomic input component used throughout UI systems.",
+  "_classifiedAt": "2026-04-23T17:26:24.854Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

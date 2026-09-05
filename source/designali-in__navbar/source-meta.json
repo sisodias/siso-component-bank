@@ -1,0 +1,26 @@
+{
+  "id": "designali-in__navbar",
+  "author": "designali-in",
+  "slug": "navbar",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/navbar",
+  "fetchedAt": "2026-08-29T04:20:04.156Z",
+  "completedAt": "2026-08-29T04:20:06.178Z",
+  "versionedFilename": "code.1752510328694.tsx",
+  "codeReference": "r2://components-code-private/designali-in/navbar/code.1752510328694.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/navbar/code.1752510328694.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7053,
+  "sha256": "f72d50fade73d8b5e9a2170c5d4f83ccd8ce02b0b5ff8cafac4a2f4334298f85",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

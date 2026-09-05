@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "erikvalencia1-floating-dock-navigation",
+  "type": "registry:ui",
+  "title": "Erikvalencia1 Floating Dock Navigation",
+  "description": "Installed from https://21st.dev/r/erikvalencia1/floating-dock-navigation",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "erikvalencia1-floating-dock-navigation"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "floating-dock-navigation.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/erikvalencia1/floating-dock-navigation",
+    "fetchedAt": "2026-04-22T06:44:56.883Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

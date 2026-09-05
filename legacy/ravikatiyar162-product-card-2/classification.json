@@ -1,0 +1,27 @@
+{
+  "category": "card",
+  "subcategory": "product-display",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying products in an online store with pricing and offers",
+    "Product listing pages in e-commerce applications",
+    "Featured products section on storefronts",
+    "Product comparison grids with hover animations",
+    "Shopping cart previews with discount indicators"
+  ],
+  "ai_summary": "A product card component designed for e-commerce displays featuring product image, name, tagline, pricing with currency formatting (INR), and offer text. The card includes hover animations via framer-motion that lift the card and scale the product image, creating an interactive shopping experience. Supports coupon pricing display with original price comparison and conditional rendering for discount indicators.",
+  "_classifiedAt": "2026-04-22T09:10:28.342Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "category": "navigation",
+  "subcategory": "footer with animated icons",
+  "visual_style": [
+    "minimalist",
+    "gradient",
+    "dark"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Website footer with animated social media or navigation icons",
+    "Landing page footer with flickering decorative elements",
+    "Portfolio footer with interactive icon links",
+    "Personal website footer with ambient animation effects"
+  ],
+  "ai_summary": "A footer component featuring animated flickering icons using motion/react, designed for websites seeking decorative animated elements. The component includes color manipulation utilities and supports both light and dark modes through Tailwind classes. Ideal for portfolios, personal sites, or creative agency landing pages looking to add subtle ambient motion to their footer navigation.",
+  "_classifiedAt": "2026-04-22T08:51:09.340Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

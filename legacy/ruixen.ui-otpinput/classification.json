@@ -1,0 +1,34 @@
+{
+  "category": "input",
+  "subcategory": "form-label-primitive",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Labels form input fields for accessibility and context",
+    "Provides accessible labeling for Radix UI primitive components",
+    "Styled label wrapper with disabled state handling",
+    "Accessible form field labeling with peer-disabled styling"
+  ],
+  "ai_summary": "A minimalist form label primitive component built on Radix UI's Label primitive with Tailwind CSS styling. Supports variant props for customization and maintains accessibility features including disabled state styling and peer-based disabled cursor/opacity behavior.",
+  "_classifiedAt": "2026-04-23T01:50:55.650Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:35:58.065Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

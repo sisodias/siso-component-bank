@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/social-preview-dock",
+  "author": "ruixen.ui",
+  "slug": "social-preview-dock",
+  "name": "social-preview-dock",
+  "description": "A row of social links sharing one preview card. One panel owns the card surface and resizes itself between profiles while the contents cross-fade inside, so moving between icons reads as a single card growing and travelling. The GitHub card pulls a live contribution graph.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/social-preview-dock?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__social-preview-dock",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/social-preview-dock/default/bundle.1785424627910-5629ba70-fe66-4fe8-84a0-3db45dd8a245.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/social-preview-dock/default/preview.1785424627910-5629ba70-fe66-4fe8-84a0-3db45dd8a245.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

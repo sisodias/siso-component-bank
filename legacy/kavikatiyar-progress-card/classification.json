@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-atom",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Trigger form submissions and data processing actions",
+    "Navigate between pages or sections via click handlers",
+    "Open or close modals, dropdowns, and overlays",
+    "Toggle application states like favorites, likes, or settings",
+    "Execute primary and secondary actions in dashboards and interfaces"
+  ],
+  "ai_summary": "A foundational atomic button component built with Radix UI Slot and class-variance-authority for flexible theming. Supports multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon), with full accessibility support including focus rings and disabled states. Designed as a shadcn-ui style primitive for composable interface systems.",
+  "_classifiedAt": "2026-04-23T01:41:44.211Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

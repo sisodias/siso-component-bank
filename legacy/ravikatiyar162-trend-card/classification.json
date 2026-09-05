@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "trend-metrics-card",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "media",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display follower growth metrics with interactive trend visualization on user dashboards",
+    "Show analytics data with hoverable chart bars for detailed monthly breakdowns",
+    "Track and compare total vs new values over time periods",
+    "Provide at-a-glance trend insights with expandable detailed data points"
+  ],
+  "ai_summary": "Interactive trend card component that displays metrics with an animated bar chart, showing total and new values over time. Features hover interactions to reveal specific data points, with customizable theming via CSS variables. Designed for analytics dashboards and social media metrics tracking.",
+  "_classifiedAt": "2026-04-23T01:48:21.234Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

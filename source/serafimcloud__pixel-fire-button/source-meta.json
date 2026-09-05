@@ -1,0 +1,26 @@
+{
+  "id": "serafimcloud__pixel-fire-button",
+  "author": "serafimcloud",
+  "slug": "pixel-fire-button",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@serafimcloud/components/pixel-fire-button",
+  "fetchedAt": "2026-08-29T07:04:37.697Z",
+  "completedAt": "2026-08-29T07:04:39.443Z",
+  "versionedFilename": "code.1785362562575-902b2da8-a69b-403c-8050-71b173567359.tsx",
+  "codeReference": "r2://components-code-private/serafimcloud/pixel-fire-button/code.1785362562575-902b2da8-a69b-403c-8050-71b173567359.tsx",
+  "codeUrl": "https://cdn.21st.dev/serafimcloud/pixel-fire-button/code.1785362562575-902b2da8-a69b-403c-8050-71b173567359.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

@@ -1,0 +1,29 @@
+{
+  "category": "data-display",
+  "subcategory": "chart",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "system",
+  "use_cases": [
+    "Displaying time-series data with area fills for trend visualization",
+    "Showing comparative metrics across multiple data series",
+    "Creating interactive dashboards with hover tooltips and crosshairs",
+    "Visualizing financial or analytics data with customizable theming",
+    "Building responsive chart components that adapt to container size"
+  ],
+  "ai_summary": "A versatile area chart component built on visx/shape and visx/scale libraries with CSS variable theming support. Features smooth curve interpolation using d3 curves, interactive crosshairs, animated tooltips via Framer Motion, and responsive scaling with ParentSize. Supports multiple data series with customizable colors, grid lines, and marker indicators for comprehensive data visualization in dashboards.",
+  "_classifiedAt": "2026-04-22T08:53:31.805Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "felipemenezes098__one-clipboard",
+  "author": "felipemenezes098",
+  "slug": "one-clipboard",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@felipemenezes098/components/one-clipboard",
+  "fetchedAt": "2026-08-29T04:49:12.048Z",
+  "completedAt": "2026-08-29T04:49:14.270Z",
+  "versionedFilename": "code.1780057331144.tsx",
+  "codeReference": "r2://components-code-private/lyanchouss/one-clipboard/code.1780057331144.tsx",
+  "codeUrl": "https://cdn.21st.dev/lyanchouss/one-clipboard/code.1780057331144.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7302,
+  "sha256": "329fc7e6268fca9282678825a1e2daa4dbd8752f7a882ca7e348f3a9d625a9b0",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

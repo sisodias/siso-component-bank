@@ -1,0 +1,33 @@
+{
+  "category": [
+    "layout"
+  ],
+  "subcategory": "bento-grid-system",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying features or services in a visually organized grid layout for product pages",
+    "Creating responsive dashboard interfaces with mixed content types",
+    "Building portfolio or showcase sections with varied card sizes",
+    "Organizing diverse content elements like text, images, and CTAs in a unified grid",
+    "Designing landing pages with modular card-based sections"
+  ],
+  "ai_summary": "A modular Bento Grid layout system for React with composable card components (BentoCard, BentoTitle, BentoDescription, BentoContent) that arranges diverse content in a responsive CSS Grid. Features a 6-column responsive grid structure with dark mode support and rounded corners, suitable for creating modern feature showcases, dashboards, or portfolio layouts across SaaS, e-commerce, and media platforms.",
+  "_classifiedAt": "2026-04-23T16:30:01.345Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,35 @@
+{
+  "category": "media",
+  "subcategory": "3d-globe-satellite-markers",
+  "visual_style": [
+    "3d",
+    "dark",
+    "gradient"
+  ],
+  "interactions": [
+    "drag",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying global satellite or network node locations on an interactive 3D globe",
+    "Visualizing geographic data distribution across the world",
+    "Creating interactive world maps for analytics dashboards",
+    "Building satellite tracking or coverage visualization interfaces",
+    "Adding geographic context to data-heavy applications"
+  ],
+  "ai_summary": "Interactive 3D globe component using WebGL that displays satellite markers at specified geographic coordinates. Features smooth auto-rotation, drag-to-rotate interaction, and customizable marker positions. Built with the cobe library for performant WebGL rendering, making it suitable for analytics dashboards, network visualization tools, or any application requiring global geographic data display.",
+  "_classifiedAt": "2026-04-22T09:16:56.416Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:36:31.548Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ddoemonn__drawer",
+  "author": "ddoemonn",
+  "slug": "drawer",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ddoemonn/components/drawer",
+  "fetchedAt": "2026-08-29T04:10:41.404Z",
+  "completedAt": "2026-08-29T04:10:43.612Z",
+  "versionedFilename": "code.1785479636837-1e1f8c4a-4a9d-4d22-bd34-f1e3913346c7.tsx",
+  "codeReference": "r2://components-code-private/ddoemonn/drawer/code.1785479636837-1e1f8c4a-4a9d-4d22-bd34-f1e3913346c7.tsx",
+  "codeUrl": "https://cdn.21st.dev/ddoemonn/drawer/code.1785479636837-1e1f8c4a-4a9d-4d22-bd34-f1e3913346c7.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

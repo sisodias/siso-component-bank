@@ -1,0 +1,26 @@
+{
+  "id": "buildkevin__smooth-navbar",
+  "author": "buildkevin",
+  "slug": "smooth-navbar",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@buildkevin/components/smooth-navbar",
+  "fetchedAt": "2026-08-29T03:51:40.645Z",
+  "completedAt": "2026-08-29T03:51:42.790Z",
+  "versionedFilename": "code.1766142709339.tsx",
+  "codeReference": "r2://components-code-private/buildkevin/smooth-navbar/code.1766142709339.tsx",
+  "codeUrl": "https://cdn.21st.dev/buildkevin/smooth-navbar/code.1766142709339.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5924,
+  "sha256": "b9409a838a52b451610ab856bbb7e784e48416c60ec11b6fbb009256b8903b07",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

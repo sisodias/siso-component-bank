@@ -1,0 +1,26 @@
+{
+  "id": "theutkarshmail__ramen-boy",
+  "author": "theutkarshmail",
+  "slug": "ramen-boy",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theutkarshmail/components/ramen-boy",
+  "fetchedAt": "2026-08-29T07:37:28.602Z",
+  "completedAt": "2026-08-29T07:37:30.641Z",
+  "versionedFilename": "code.1755208345547.tsx",
+  "codeReference": "r2://components-code-private/theutkarshmail/ramen-boy/code.1755208345547.tsx",
+  "codeUrl": "https://cdn.21st.dev/theutkarshmail/ramen-boy/code.1755208345547.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 681,
+  "sha256": "21860b049d1f355c51d192a6fccb4374ffc83968763eccf994ab132f6fadeba4",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

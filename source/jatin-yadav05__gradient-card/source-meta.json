@@ -1,0 +1,33 @@
+{
+  "id": "jatin-yadav05__gradient-card",
+  "author": "jatin-yadav05",
+  "slug": "gradient-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@jatin-yadav05/components/gradient-card",
+  "fetchedAt": "2026-08-29T05:07:06.193Z",
+  "completedAt": "2026-08-29T05:07:08.807Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/jatin-yadav05__gradient-card/code.tsx",
+    "bytes": 15905,
+    "sha256": "530f96e033ffdeb5f0f9ae1d0acb85531011de45bcfa34cf9a9f1e642e5dd57e",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

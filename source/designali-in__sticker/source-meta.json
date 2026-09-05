@@ -1,0 +1,26 @@
+{
+  "id": "designali-in__sticker",
+  "author": "designali-in",
+  "slug": "sticker",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/sticker",
+  "fetchedAt": "2026-08-29T04:21:31.671Z",
+  "completedAt": "2026-08-29T04:21:33.868Z",
+  "versionedFilename": "code.1751361894920.tsx",
+  "codeReference": "r2://components-code-private/designali-in/sticker/code.1751361894920.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/sticker/code.1751361894920.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 161,
+  "sha256": "601838e7469df8e2c9d699889a3d041865bd60ef8bb8a313c21de67329d674f9",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

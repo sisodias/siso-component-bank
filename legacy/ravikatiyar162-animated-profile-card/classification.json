@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "profile-card",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying freelancer or service provider profiles with ratings, duration, and hourly rates",
+    "Showing team member cards with skills, tools, and availability information",
+    "Creating marketplace seller profiles with bookmark and contact functionality",
+    "Building portfolio cards for creators and developers on showcase pages",
+    "Generating profile cards for job boards and HR platforms"
+  ],
+  "ai_summary": "A React card component for displaying freelancer or service provider profiles with animated entrance effects using Framer Motion, hover interactions with scale effects, rating display with stars, tool/skills badges, and call-to-action buttons. Includes bookmark functionality and stat items for duration and rate information, making it ideal for marketplaces, team pages, or creator portfolios.",
+  "_classifiedAt": "2026-04-22T09:08:43.631Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

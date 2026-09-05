@@ -1,0 +1,35 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "variable-font-typography-animation",
+  "visual_style": [
+    "minimalist",
+    "mono"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Hero section headlines with animated variable font weight breathing effect",
+    "Landing page typography with character-staggered weight animations",
+    "Creative portfolio displays showcasing animated typography",
+    "SaaS product hero text with eye-catching font variation animation",
+    "Display text for design tool interfaces requiring kinetic typography"
+  ],
+  "ai_summary": "A lightweight animated text component that creates a mesmerizing 'breathing' effect by animating font-variation-settings (wght axis) between configurable min and max values. Each character receives a staggered animation delay for a cascading wave effect, making it ideal for hero sections and landing pages where kinetic typography can draw attention. Built with CSS keyframes and configurable props for font size, animation duration, weight range, and timing.",
+  "_classifiedAt": "2026-04-23T16:29:57.220Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,30 @@
+{
+  "category": "feedback",
+  "subcategory": "alert-notification",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying success messages after form submissions or completed actions",
+    "Showing warning messages for validation issues or important notices",
+    "Presenting error messages when operations fail or validation errors occur",
+    "Providing informational announcements or system status updates",
+    "Alerting users to critical actions requiring acknowledgment"
+  ],
+  "ai_summary": "A versatile alert component with four variants (information, success, warning, error) featuring gradient styling, colored icon containers, and Framer Motion animations. Built with Tailwind CSS and class-variance-authority for flexible theming, this notification component integrates seamlessly into any modern web application requiring user feedback messaging.",
+  "_classifiedAt": "2026-04-23T01:41:13.465Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

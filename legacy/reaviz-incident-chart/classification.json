@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "incident-report-bar-chart",
+  "visual_style": [
+    "colorful"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Security operations teams monitoring incident trends across categories like phishing, malware, and ransomware",
+    "IT dashboards displaying cybersecurity metrics and threat intelligence data",
+    "SOC (Security Operations Center) visualizations for incident response tracking",
+    "Risk assessment dashboards showing security incident distribution",
+    "DevOps monitoring interfaces for security event analytics"
+  ],
+  "ai_summary": "A cybersecurity incident report widget that renders categorized security incident data as a bar chart using the reaviz library. Displays metrics including phishing attempts, malware detections, ransomware blocks, and DDoS mitigations in a clean, modern card format with purple and teal color accents. Built for SaaS security dashboards with dark mode support and layered shadow depth for visual hierarchy.",
+  "_classifiedAt": "2026-04-23T17:15:06.098Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

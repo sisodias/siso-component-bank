@@ -1,0 +1,31 @@
+{
+  "category": [
+    "form"
+  ],
+  "subcategory": "multi-step registration wizard",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "User onboarding through multi-step registration flows",
+    "Account creation wizards with progressive disclosure",
+    "Checkout processes broken into manageable steps",
+    "Application forms split across sequential steps to reduce friction"
+  ],
+  "ai_summary": "A multi-step registration stepper component that guides users through sequential stages of a process. Built with shadcn/ui patterns using Radix UI and Tailwind CSS for accessible, keyboard-navigable workflows commonly used in SaaS onboarding and account creation.",
+  "_classifiedAt": "2026-04-22T09:10:29.023Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "kavikatiyar__otp-verification",
+  "author": "kavikatiyar",
+  "slug": "otp-verification",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@kavikatiyar/components/otp-verification",
+  "fetchedAt": "2026-08-29T05:15:32.185Z",
+  "completedAt": "2026-08-29T05:15:34.379Z",
+  "versionedFilename": "code.1759657524685.tsx",
+  "codeReference": "r2://components-code-private/kavikatiyar/otp-verification/code.1759657524685.tsx",
+  "codeUrl": "https://cdn.21st.dev/kavikatiyar/otp-verification/code.1759657524685.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6874,
+  "sha256": "b2ad40838e28536f592e24954305e6bc4012a58bdf1da2860fc767383d0de603",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

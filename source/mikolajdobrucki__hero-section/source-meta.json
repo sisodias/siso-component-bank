@@ -1,0 +1,33 @@
+{
+  "id": "mikolajdobrucki__hero-section",
+  "author": "mikolajdobrucki",
+  "slug": "hero-section",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@mikolajdobrucki/components/hero-section",
+  "fetchedAt": "2026-08-29T05:42:47.381Z",
+  "completedAt": "2026-08-29T05:42:48.471Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/mikolajdobrucki__hero-section/code.tsx",
+    "bytes": 1130,
+    "sha256": "09890c3df67a36c9754e863354ec371e93e1abc587f3b04f9494ad4bb50caeee",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

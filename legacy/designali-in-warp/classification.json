@@ -1,0 +1,36 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "shader-canvas",
+  "visual_style": [
+    "gradient",
+    "3d",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Landing page hero backgrounds with dynamic animated visuals",
+    "Full-screen immersive backgrounds for web applications",
+    "Animated visual effects for product showcases or feature presentations",
+    "Creative ambient backgrounds for media and entertainment platforms",
+    "Dynamic canvas animations for design agency portfolios"
+  ],
+  "ai_summary": "A WebGL-based visual effect component featuring GLSL shader programs that generate dynamic warp and flow animations. The component uses procedural noise functions including simplex noise and hash utilities to create organic, evolving visual patterns. It renders to a canvas element with uniforms for time-based animation, resolution responsiveness, color customization, and shape parameters, making it ideal for immersive animated backgrounds and hero sections.",
+  "_classifiedAt": "2026-04-23T01:38:08.844Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

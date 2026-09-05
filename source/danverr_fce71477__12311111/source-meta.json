@@ -1,0 +1,26 @@
+{
+  "id": "danverr_fce71477__12311111",
+  "author": "danverr_fce71477",
+  "slug": "12311111",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@danverr_fce71477/components/12311111",
+  "fetchedAt": "2026-08-29T04:08:56.684Z",
+  "completedAt": "2026-08-29T04:08:58.692Z",
+  "versionedFilename": "code.1749201308090.tsx",
+  "codeReference": "r2://components-code-private/danverr_fce71477/12311111/code.1749201308090.tsx",
+  "codeUrl": "https://cdn.21st.dev/danverr_fce71477/12311111/code.1749201308090.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 645,
+  "sha256": "54662059c592f97a1db19f142c15bed64f18ad437647a75ee672ce132dff2b09",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

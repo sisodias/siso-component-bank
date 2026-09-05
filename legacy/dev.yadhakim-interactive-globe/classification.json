@@ -1,0 +1,33 @@
+{
+  "category": "data-display",
+  "subcategory": "3D globe visualization with markers and connection arcs",
+  "visual_style": [
+    "dark",
+    "3d",
+    "gradient"
+  ],
+  "interactions": [
+    "auto-rotate",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying global data distribution and geographic metrics across regions",
+    "Visualizing network connections between international office locations",
+    "Showing real-time data flows or user distribution worldwide",
+    "Representing logistics or supply chain routes on a global scale",
+    "Illustrating market penetration or customer locations for analytics dashboards"
+  ],
+  "ai_summary": "An interactive 3D globe component that renders geographic markers and animated arc connections between locations. Supports auto-rotation, customizable colors for dots, arcs, and markers, with configurable connection paths. Built for dashboards and data visualization platforms needing to display global metrics or network topology across geographic regions.",
+  "_classifiedAt": "2026-04-22T08:57:23.238Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

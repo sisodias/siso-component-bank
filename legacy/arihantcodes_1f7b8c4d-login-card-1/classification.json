@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying user profile pictures in dashboards and settings pages",
+    "Showing user avatars in comment sections or discussion threads",
+    "Representing users in navigation headers or sidebars",
+    "Displaying sender avatars in messaging or chat interfaces",
+    "User identification in card components or data tables"
+  ],
+  "ai_summary": "A lightweight avatar component built on Radix UI primitives with support for images and fallback initials. Provides a rounded, responsive user representation element with proper accessibility attributes inherited from Radix. Includes Avatar, AvatarImage, and AvatarFallback sub-components for handling loading states and missing images gracefully.",
+  "_classifiedAt": "2026-04-23T01:36:19.222Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

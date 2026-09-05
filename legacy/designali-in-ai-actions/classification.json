@@ -1,0 +1,28 @@
+{
+  "category": "input",
+  "subcategory": "icon-button toolbar with tooltip wrapper",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Toolbar action buttons in application headers or toolbars",
+    "Icon-based controls wrapped with accessible tooltips",
+    "Action strips for card components or data rows",
+    "Form action controls with hover tooltips",
+    "Compact UI controls for settings panels or modals"
+  ],
+  "ai_summary": "A lightweight action button component with tooltip support, designed as an icon button (size-9) with muted styling that transitions to visible on hover. The Action component wraps buttons in a TooltipProvider for accessible tooltip reveals, making it ideal for toolbar contexts where space is constrained and action labels are provided via tooltips rather than visible text.",
+  "_classifiedAt": "2026-04-23T01:37:35.378Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

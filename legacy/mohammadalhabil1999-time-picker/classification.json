@@ -1,0 +1,35 @@
+{
+  "category": "input",
+  "subcategory": "button-with-variants",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "media",
+    "healthcare",
+    "education",
+    "real-estate",
+    "creator-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "A versatile button component with multiple variants for primary, destructive, outline, secondary, ghost, and link styles",
+    "Interactive clickable element for forms, dialogs, and navigation actions",
+    "Reusable button with size options (default, sm, lg, icon) for flexible UI composition",
+    "Accessible button supporting keyboard navigation and focus states via Radix UI Slot",
+    "AsChild pattern support for composition with other Radix primitives"
+  ],
+  "ai_summary": "A flexible button component built with Radix UI Slot and class-variance-authority (CVA) for variant management. Features multiple visual variants including default, destructive, outline, secondary, ghost, and link styles, along with size options for small, default, large, and icon buttons. The component supports composition via asChild prop, keyboard navigation, focus rings, and disabled states. Part of a shadcn/ui-style design system with clean Tailwind CSS styling and full TypeScript support.",
+  "_classifiedAt": "2026-04-23T17:00:38.248Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

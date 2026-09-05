@@ -1,0 +1,29 @@
+{
+  "category": "overlay",
+  "subcategory": "progressive-blur-fade-effect",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Creating elegant content fade effects at section edges for hero layouts",
+    "Adding atmospheric depth with progressive blur gradients to background images",
+    "Revealing scrollable content with smooth blur transitions in lists and galleries",
+    "Enhancing visual hierarchy by softening peripheral content in SaaS landing pages",
+    "Creating depth in media galleries where content fades naturally into backgrounds"
+  ],
+  "ai_summary": "A reusable React overlay component that creates progressive blur gradient effects using backdrop-filter and CSS mask-image. Configurable position (top, bottom, both) and blur intensity levels. Typically used to elegantly fade content edges in hero sections, scrollable lists, or image backgrounds. Perfect for modern SaaS, media, and e-commerce interfaces requiring smooth visual transitions.",
+  "_classifiedAt": "2026-04-23T16:35:56.795Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,29 @@
+{
+  "category": "feedback",
+  "subcategory": "progressive-bar-loader",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display loading progress during data fetching operations",
+    "Indicate file upload or download progress to users",
+    "Show form submission status during async operations",
+    "Provide visual feedback during page transitions",
+    "Indicate background processing status in applications"
+  ],
+  "ai_summary": "A loading progress bar component featuring a gradient-filled animated bar (orange to yellow) with inset shadow styling for a skeuomorphic effect. The component displays animated blinking dots following 'Loading' text while the bar progresses from 0-100% over 4 seconds, providing clear visual feedback for users during async operations.",
+  "_classifiedAt": "2026-04-22T09:11:24.953Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

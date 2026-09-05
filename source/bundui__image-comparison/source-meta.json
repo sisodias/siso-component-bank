@@ -1,0 +1,26 @@
+{
+  "id": "bundui__image-comparison",
+  "author": "bundui",
+  "slug": "image-comparison",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@bundui/components/image-comparison",
+  "fetchedAt": "2026-08-29T03:52:10.864Z",
+  "completedAt": "2026-08-29T03:52:12.986Z",
+  "versionedFilename": "code.1754079873948.tsx",
+  "codeReference": "r2://components-code-private/larsen66/image-comparison/code.1754079873948.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/image-comparison/code.1754079873948.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3529,
+  "sha256": "1d4b294e4264dd111c5bba9502eb8945b6786797d54076c60d8be717fec37201",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

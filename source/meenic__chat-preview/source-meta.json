@@ -1,0 +1,33 @@
+{
+  "id": "meenic__chat-preview",
+  "author": "meenic",
+  "slug": "chat-preview",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@meenic/components/chat-preview",
+  "fetchedAt": "2026-08-29T05:39:53.126Z",
+  "completedAt": "2026-08-29T05:39:54.915Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/meenic__chat-preview/code.tsx",
+    "bytes": 7643,
+    "sha256": "6ad07e920e35c8b5230a9fabb61e5f54f2c9e9631fae40ab3d9219e77f44f619",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

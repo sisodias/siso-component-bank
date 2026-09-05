@@ -1,0 +1,32 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "status-badge",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display status indicators on user profiles, cards, or list items",
+    "Show notification counts or categorical labels in dashboards",
+    "Indicate success, warning, or error feedback states in forms",
+    "Create interactive button-like badge elements with disabled states",
+    "Add semantic color variants for informational, warning, or destructive alerts"
+  ],
+  "ai_summary": "A flexible badge component with multiple color variants for displaying status labels, notification counts, and feedback states. Supports primary, secondary, destructive, success, warning, and info variants with appearance options including default, light, outline, and ghost styles. Features accessibility-focused focus ring states and disabled state handling.",
+  "_classifiedAt": "2026-04-22T09:13:52.313Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

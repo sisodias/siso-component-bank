@@ -1,0 +1,34 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "resizable-sticky-navbar",
+  "visual_style": [
+    "glass-morphism",
+    "gradient"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Sticky header navigation that appears on scroll with glassmorphism blur effect",
+    "Responsive mobile menu with animated hamburger toggle and overlay navigation",
+    "Website navigation with scroll-based visibility triggers at 100px threshold",
+    "Multi-component navbar system supporting desktop and mobile layouts",
+    "Backdrop-filtered navigation bar with shadow animations on scroll"
+  ],
+  "ai_summary": "A responsive resizable navbar component with glassmorphism styling, featuring scroll-based visibility detection that triggers at 100px scroll depth. Includes backdrop blur effects, animated shadows, and a fully-featured mobile navigation menu with toggle icons. Built as a composite system with Navbar, NavBody, NavItems, MobileNav, and related sub-components for flexible composition.",
+  "_classifiedAt": "2026-04-23T11:28:45.220Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "hover-detail-card",
+  "visual_style": [
+    "glass-morphism",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "media",
+    "e-commerce",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying image collections with hover-activated detail overlays for media galleries",
+    "E-commerce product cards revealing additional information on hover",
+    "Portfolio grids with interactive image previews and collection metadata",
+    "Content management interfaces showing media asset details on interaction",
+    "Dashboard cards displaying tile counts and collection statistics"
+  ],
+  "ai_summary": "A polished hover-detail card component featuring an image grid with smooth animations that reveal additional information on hover. Supports customizable buttons, pill badges with sparkle accents, and translucent glass-morphism styling. Built with Framer Motion for fluid transitions and Tailwind CSS for flexible theming. Ideal for media libraries, e-commerce galleries, and portfolio displays where interactive previews enhance user engagement.",
+  "_classifiedAt": "2026-04-23T16:44:08.445Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

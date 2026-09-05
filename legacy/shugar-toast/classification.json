@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in SaaS dashboards",
+    "Form submission buttons with loading states",
+    "Icon-only buttons for toolbars and navigation",
+    "Multi-variant buttons for status indication (primary, secondary, error, warning)",
+    "Accessibility-friendly buttons with proper disabled states"
+  ],
+  "ai_summary": "Shugar Button is a versatile, minimalist button component featuring multiple size variants (tiny to large), type variants (primary, secondary, tertiary, error, warning), and shape options (square, circle, rounded). Supports prefix/suffix icons, loading states with spinner, disabled states, and full-width layout. Designed with Tailwind CSS classes for clean, flat aesthetics suitable for SaaS and developer tool interfaces.",
+  "_classifiedAt": "2026-04-23T17:32:06.507Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

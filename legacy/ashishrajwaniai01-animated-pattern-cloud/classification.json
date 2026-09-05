@@ -1,0 +1,28 @@
+{
+  "category": [
+    "other"
+  ],
+  "subcategory": "counter",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "A simple counter component for incrementing and decrementing numeric values with click interactions"
+  ],
+  "ai_summary": "A minimal, flat-styled atomic counter component with increment and decrement buttons. Built with React useState hook for state management, demonstrating basic click interaction and numeric value handling. Serves as a foundational interactive element for stepper controls or quantity selectors.",
+  "_classifiedAt": "2026-04-22T08:52:41.492Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "text-slider",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "drag",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "media",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive hero section headline with sliding text reveal for landing pages",
+    "Dynamic slogan or tagline display with user-controlled progression",
+    "Creative portfolio showcases where users explore different text options",
+    "Product marketing pages with engaging text-based interactions",
+    "Onboarding or feature reveal sequences with slider-based storytelling"
+  ],
+  "ai_summary": "A dynamic text slider component that uses a range slider to progressively reveal text. It employs clever off-screen text measurement with ResizeObserver to ensure precise text clipping regardless of font loading or viewport changes. Features dark mode support, responsive typography (text-5xl to text-7xl), and smooth transitions for an engaging headline presentation on landing pages or hero sections.",
+  "_classifiedAt": "2026-04-23T16:58:45.699Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

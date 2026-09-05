@@ -1,0 +1,30 @@
+{
+  "category": "overlay",
+  "subcategory": "success-milestone-dialog",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "education",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Celebrating user achievement after completing a mission or goal",
+    "Confirming successful task completion with celebratory feedback",
+    "Displaying milestone reached notifications in gamified applications",
+    "Showing positive outcome after form submission or checkout completion"
+  ],
+  "ai_summary": "A celebratory dialog component designed to display mission or task completion success. Features overlay presentation with animated entrance effects, typically using gradient or colorful visual styling to convey achievement and positive reinforcement. Integrates with Radix UI for accessibility and includes customizable content areas for success messaging, badges, and call-to-action buttons.",
+  "_classifiedAt": "2026-04-23T01:47:37.492Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:35:10.271Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "untitledui-rating-badge",
+  "type": "registry:ui",
+  "title": "Untitledui Rating Badge",
+  "description": "Installed from https://21st.dev/r/untitledui/rating-badge",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "untitledui-rating-badge"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "rating-badge.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "tailwind-merge"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/untitledui/rating-badge",
+    "fetchedAt": "2026-04-23T01:17:21.745Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

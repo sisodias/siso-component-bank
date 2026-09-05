@@ -1,0 +1,36 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "animated-counter-flip",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display animated statistics and metrics on dashboards with smooth number transitions",
+    "Show real-time changing values like prices, counts, or scores with engaging flip animation",
+    "Create visual counters for cart items or notifications in e-commerce applications",
+    "Present financial data with animated number updates in fintech dashboards",
+    "Display live metrics or KPIs that update dynamically during user sessions"
+  ],
+  "ai_summary": "AnimatedNumberFlip is a compact numeric display component that transitions between values using a 3D flip animation with rotateX transforms. Built on Framer Motion and Card components, it creates smooth visual feedback when numbers change, making it ideal for dashboards, counters, and live metric displays where changing values need to be communicated engagingly rather than abruptly.",
+  "_classifiedAt": "2026-04-23T01:48:55.291Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

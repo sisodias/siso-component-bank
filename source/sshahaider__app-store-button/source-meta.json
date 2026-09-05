@@ -1,0 +1,26 @@
+{
+  "id": "sshahaider__app-store-button",
+  "author": "sshahaider",
+  "slug": "app-store-button",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sshahaider/components/app-store-button",
+  "fetchedAt": "2026-08-29T07:24:09.789Z",
+  "completedAt": "2026-08-29T07:24:12.075Z",
+  "versionedFilename": "code.1759058752631.tsx",
+  "codeReference": "r2://components-code-private/sshahaider/app-store-button/code.1759058752631.tsx",
+  "codeUrl": "https://cdn.21st.dev/sshahaider/app-store-button/code.1759058752631.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1696,
+  "sha256": "f8d9b4972775c6e04fbb7772d7b02c487f1d7a11c2d4c5da33bd0fa122235618",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

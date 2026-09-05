@@ -1,0 +1,26 @@
+{
+  "id": "platejs__link-node",
+  "author": "platejs",
+  "slug": "link-node",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@platejs/components/link-node",
+  "fetchedAt": "2026-08-29T06:10:07.398Z",
+  "completedAt": "2026-08-29T06:10:09.589Z",
+  "versionedFilename": "code.1784306016040-abad1933-9f7e-4b2a-b86c-bbf6b0a55d93.tsx",
+  "codeReference": "r2://components-code-private/platejs/link-node/code.1784306016040-abad1933-9f7e-4b2a-b86c-bbf6b0a55d93.tsx",
+  "codeUrl": "https://cdn.21st.dev/platejs/link-node/code.1784306016040-abad1933-9f7e-4b2a-b86c-bbf6b0a55d93.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "category": "form",
+  "subcategory": "plan-selector",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting subscription plans or pricing tiers in SaaS applications",
+    "Choosing service packages in creative agency websites",
+    "Picking feature bundles in product configuration flows",
+    "Selecting account types during onboarding"
+  ],
+  "ai_summary": "A card-based vertical radio group selector with icon headers, titles, and descriptions. Each option displays a colored icon with matching background tint, making it ideal for plan or service selection interfaces. Built on Radix UI primitives with Tailwind CSS styling for consistent theming.",
+  "_classifiedAt": "2026-04-22T09:15:17.699Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

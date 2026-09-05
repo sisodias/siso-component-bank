@@ -1,0 +1,37 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons in SaaS applications and landing pages",
+    "Destructive action buttons for delete, remove, or cancel operations",
+    "Multi-step form navigation with consistent button styling",
+    "Dashboard interface action triggers with icon support",
+    "Themed button systems with variant switching for dark/light modes"
+  ],
+  "ai_summary": "A flexible React button component with 9 visual variants (primary, mono, destructive, secondary, outline, dashed, ghost, dim, inverse) built with class-variance-authority for type-safe variant composition. Features smooth hover transitions, focus-visible states, icon slot support via Radix UI Slot, and conditional arrow display. Supports multiple sizes and provides consistent styling across SaaS applications, dashboards, and form-heavy interfaces with both dark and light theme support.",
+  "_classifiedAt": "2026-04-23T17:22:30.012Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

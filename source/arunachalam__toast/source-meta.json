@@ -1,0 +1,26 @@
+{
+  "id": "arunachalam__toast",
+  "author": "arunachalam",
+  "slug": "toast",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@arunachalam/components/toast",
+  "fetchedAt": "2026-08-29T03:39:53.451Z",
+  "completedAt": "2026-08-29T03:39:55.896Z",
+  "versionedFilename": "code.1751880578370.tsx",
+  "codeReference": "r2://components-code-private/arunachalam0606/toast/code.1751880578370.tsx",
+  "codeUrl": "https://cdn.21st.dev/arunachalam0606/toast/code.1751880578370.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5594,
+  "sha256": "e322e34bf257238d7cb6e8cd62b6c13df04f52f265a7b61d085f2258eb269413",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

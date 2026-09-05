@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "hardikkashiyani123456788-executive-impact-carousel",
+  "type": "registry:ui",
+  "title": "Hardikkashiyani123456788 Executive Impact Carousel",
+  "description": "Installed from https://21st.dev/r/hardikkashiyani123456788/executive-impact-carousel",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "hardikkashiyani123456788-executive-impact-carousel"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "executive-impact-carousel.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/hardikkashiyani123456788/executive-impact-carousel",
+    "fetchedAt": "2026-04-22T06:32:20.969Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

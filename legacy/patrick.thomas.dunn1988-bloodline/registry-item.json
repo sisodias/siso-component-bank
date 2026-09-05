@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "patrick.thomas.dunn1988-bloodline",
+  "type": "registry:ui",
+  "title": "Patrick.Thomas.Dunn1988 Bloodline",
+  "description": "Installed from https://21st.dev/r/patrick.thomas.dunn1988/bloodline",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "patrick.thomas.dunn1988-bloodline"
+  ],
+  "files": [
+    {
+      "path": "bloodline.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/patrick.thomas.dunn1988/bloodline",
+    "fetchedAt": "2026-04-22T06:42:59.694Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

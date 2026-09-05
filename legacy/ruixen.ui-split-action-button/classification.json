@@ -1,0 +1,26 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Form submission and data processing actions in web applications",
+    "Navigation triggers and call-to-action elements on landing pages",
+    "Interactive controls for UI component libraries and design systems",
+    "User interaction handlers in SaaS dashboards and admin panels",
+    "Primary action triggers in e-commerce checkout flows"
+  ],
+  "ai_summary": "A reusable button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Built with Radix UI Slot for composition, CVA for variant management, and supports standard HTML button attributes including disabled states. Features subtle shadows and rounded corners for a clean, modern appearance suitable for various UI contexts.",
+  "_classifiedAt": "2026-04-23T01:51:30.748Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

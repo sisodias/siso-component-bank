@@ -1,0 +1,35 @@
+{
+  "category": [
+    "form",
+    "input"
+  ],
+  "subcategory": "date-picker",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "healthcare",
+    "education",
+    "real-estate",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting dates for appointment scheduling in healthcare or service applications",
+    "Choosing date ranges for booking accommodations or reservations",
+    "Picking dates for event creation or calendar management in productivity tools",
+    "Setting deadlines or milestones in project management dashboards",
+    "Inputting birthdates or anniversary dates in user profile forms"
+  ],
+  "ai_summary": "A customizable calendar date picker component built on react-day-picker, supporting single date and range selection modes. Features month/year navigation with chevron controls and dropdown selection, responsive design with Tailwind CSS, and comprehensive accessibility support through focus states and keyboard navigation. Styled with a clean, flat aesthetic using CSS variables for theming consistency across light and dark modes.",
+  "_classifiedAt": "2026-04-22T08:54:18.555Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

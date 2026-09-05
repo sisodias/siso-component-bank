@@ -1,0 +1,26 @@
+{
+  "id": "coss.com__alert-dialog",
+  "author": "coss.com",
+  "slug": "alert-dialog",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@coss.com/components/alert-dialog",
+  "fetchedAt": "2026-08-29T04:01:54.317Z",
+  "completedAt": "2026-08-29T04:01:56.522Z",
+  "versionedFilename": "code.1773875493479.tsx",
+  "codeReference": "r2://components-code-private/coss.com/alert-dialog/code.1773875493479.tsx",
+  "codeUrl": "https://cdn.21st.dev/coss.com/alert-dialog/code.1773875493479.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4959,
+  "sha256": "128f5306547f9de2bf74eb315b1aa1c07ee68d6c5955d46bcc55e2b4f948b2f9",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

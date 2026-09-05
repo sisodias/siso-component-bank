@@ -1,0 +1,26 @@
+{
+  "id": "filoganzo__animated-world-map",
+  "author": "filoganzo",
+  "slug": "animated-world-map",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@filoganzo/components/animated-world-map",
+  "fetchedAt": "2026-08-29T04:50:42.453Z",
+  "completedAt": "2026-08-29T04:50:44.762Z",
+  "versionedFilename": "code.1748464983115.tsx",
+  "codeReference": "r2://components-code-private/filoganzo/animated-world-map/code.1748464983115.tsx",
+  "codeUrl": "https://cdn.21st.dev/filoganzo/animated-world-map/code.1748464983115.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 568,
+  "sha256": "4024e79447e1a9d07e66661dc9f6dc283d6483b31f43cbfe4dcf93cd9fe3f630",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

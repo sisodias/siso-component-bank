@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/ruixen-table-basic",
+  "author": "ruixen.ui",
+  "slug": "ruixen-table-basic",
+  "name": "ruixen-table-basic",
+  "description": "This component displays a dynamic, responsive data table showcasing user information in a clean and organized format. Each row represents a distinct user profile containing key details such as name, email, location, account balance, and current status. Additionally, each record includes a set of contextual selectOptions that reflect the user's domain, tools, or preferences",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/ruixen-table-basic?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__ruixen-table-basic",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/ruixen-table-basic/default/bundle.1753258300576.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/ruixen-table-basic/default/preview.1753258300575.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

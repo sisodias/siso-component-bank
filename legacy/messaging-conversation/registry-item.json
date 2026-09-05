@@ -1,0 +1,50 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "messaging-conversation",
+  "type": "registry:ui",
+  "title": "MessageConversation",
+  "description": "Messaging conversation UI with header, avatars, status badges, and hover-reveal message actions",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "messaging",
+    "chat",
+    "conversation",
+    "ui",
+    "shadcn"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "messaging-conversation.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-avatar",
+    "@radix-ui/react-dropdown-menu",
+    "@radix-ui/react-scroll-area",
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "lucide-react"
+  ],
+  "registryDependencies": [
+    "avatar",
+    "button",
+    "card",
+    "messaging-conversation",
+    "scroll-area"
+  ],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "curationTags": []
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "category": "navigation",
+  "subcategory": "icon-pagination",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Navigating through pages of content in a blog, documentation, or listing interface",
+    "Paginating through data tables or search results in SaaS applications",
+    "Moving between sections in multi-step forms or wizards",
+    "Browsing through image galleries or media collections",
+    "Navigating through product listings in e-commerce storefronts"
+  ],
+  "ai_summary": "A reusable icon-based pagination component using Radix UI primitives and class-variance-authority for flexible styling. Provides standard pagination controls with configurable button variants (default, outline, ghost, secondary) and sizes (default, sm, lg, icon). Built with TypeScript and Tailwind CSS for easy integration into modern React applications requiring page navigation.",
+  "_classifiedAt": "2026-04-23T01:50:10.667Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

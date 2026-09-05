@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "inline-text-editable",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Inline text editing in content management systems where users need to modify text without navigating to a separate edit page",
+    "User profile name or bio updates in applications with minimal friction",
+    "Quick field modifications in admin dashboards or data tables",
+    "In-place label editing for task management or note-taking applications",
+    "Editable placeholders in forms or onboarding flows"
+  ],
+  "ai_summary": "A lightweight inline editable text component that toggles between preview and edit modes on click. Built on Ark UI, it provides accessibility support and dark mode compatibility with a clean, minimalist interface suitable for any application requiring in-place text editing.",
+  "_classifiedAt": "2026-04-22T08:51:54.788Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

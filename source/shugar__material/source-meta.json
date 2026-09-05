@@ -1,0 +1,33 @@
+{
+  "id": "shugar__material",
+  "author": "shugar",
+  "slug": "material",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/material",
+  "fetchedAt": "2026-08-29T07:19:36.122Z",
+  "completedAt": "2026-08-29T07:19:37.469Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/shugar__material/code.tsx",
+    "bytes": 743,
+    "sha256": "3218b1d7080e376864552c15731a018b54484f3beb924d0b8919afe4a64c7737",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

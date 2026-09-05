@@ -1,0 +1,30 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "context-menu",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Right-click context menus for desktop and mobile applications",
+    "Nested sub-menu navigation with expandable items",
+    "Radio group selections within dropdown menus",
+    "Checkbox item selections for multi-select menu options",
+    "Accessible keyboard-navigable menu systems"
+  ],
+  "ai_summary": "A context menu component built on Radix UI primitives providing accessible right-click menu functionality. Features nested sub-menus with chevron indicators, support for radio groups and checkbox items, and standard hover states. Uses flat, minimal styling with Tailwind CSS classes and lucide-react icons for visual elements.",
+  "_classifiedAt": "2026-04-23T16:52:03.663Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

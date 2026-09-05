@@ -1,0 +1,24 @@
+{
+  "category": "card",
+  "subcategory": "counter with increment-decrement buttons",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Simple numeric counter for displaying and adjusting counts",
+    "Basic increment/decrement UI for forms and settings",
+    "Lightweight counter component for dashboards and data displays"
+  ],
+  "ai_summary": "A minimal atomic counter component featuring a numeric display with increment and decrement buttons. Built with React hooks for state management, styled with basic Tailwind utility classes in a flat design. Suitable as a foundational building block for more complex interfaces requiring simple counting functionality.",
+  "_classifiedAt": "2026-04-22T08:52:38.841Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

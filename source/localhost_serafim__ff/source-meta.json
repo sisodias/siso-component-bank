@@ -1,0 +1,26 @@
+{
+  "id": "localhost_serafim__ff",
+  "author": "localhost_serafim",
+  "slug": "ff",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@localhost_serafim/components/ff",
+  "fetchedAt": "2026-08-29T05:30:56.811Z",
+  "completedAt": "2026-08-29T05:30:58.950Z",
+  "versionedFilename": "code.1760502969513.tsx",
+  "codeReference": "r2://components-code-private/localhost_serafim/ff/code.1760502969513.tsx",
+  "codeUrl": "https://cdn.21st.dev/localhost_serafim/ff/code.1760502969513.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 568,
+  "sha256": "706fe0418b5e9bfee32f916d6c357be7a79ea437c6ca319d1ec15fb9c0ba6d18",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

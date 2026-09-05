@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@danielpetho/components/underline-animation",
+  "author": "danielpetho",
+  "slug": "underline-animation",
+  "name": "underline-animation",
+  "description": "A component that animates a text underline.\n\nThese underline animations work differently from typical CSS underline animations. Instead of animating the CSS text-decoration-line: underline property, they create a separate div element positioned absolutely below the text. This div acts as the underline and its dimensions are calculated relative to the font size:\n\n- The height is controlled by underlineHeightRatio (defaults to 10% of font size)\n- The padding below text is controlled by underlinePaddingRatio (defaults to 1% of font size)\n\nThe three variants work as follows:\n- Center: The underline grows outward from the center point\n- Comes In Goes Out: The underline enters from one side, then exits from the other side\n- Goes Out Comes In: The underline exits from one side, then re-enters from the opposite side",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/danielpetho/underline-animation?api_key=$API_KEY_21ST\"",
+  "id": "danielpetho__underline-animation",
+  "bundleUrl": "https://cdn.21st.dev/bundled/931.html",
+  "previewUrl": "https://cdn.21st.dev/user_danielpetho/underline-animation.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 84,
+  "demo_id": 931,
+  "video_url": "https://cdn.21st.dev/user_danielpetho/underline-animation/931/video.mp4"
+}

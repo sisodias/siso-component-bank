@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "bar-chart",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying categorical data with animated bar visualization and interactive tooltips",
+    "Dashboard analytics and business metrics presentation",
+    "Responsive chart component for SaaS and fintech applications",
+    "Real-time data visualization with CSS variable theming support",
+    "Interactive data exploration with hover states and spring animations"
+  ],
+  "ai_summary": "A feature-rich bar chart component built with visx and motion/react, featuring animated tooltips, spring physics animations, responsive sizing via ParentSize, and CSS variable theming. Supports grid overlays, gradients, and crosshair interactions for data exploration. Designed for dashboard integration in SaaS, fintech, and analytics applications.",
+  "_classifiedAt": "2026-04-22T08:53:41.748Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "originui__navigation-menu",
+  "author": "originui",
+  "slug": "navigation-menu",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@originui/components/navigation-menu",
+  "fetchedAt": "2026-08-29T06:01:12.255Z",
+  "completedAt": "2026-08-29T06:01:14.846Z",
+  "versionedFilename": "code.1750354085037.tsx",
+  "codeReference": "r2://components-code-private/larsen66/navigation-menu/code.1750354085037.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/navigation-menu/code.1750354085037.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5067,
+  "sha256": "a07572fb60be55c0bde5d834b04efd6cc3099c24b94c434ec93f260cbc3f7087",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

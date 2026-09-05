@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "text-file",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Basic text input for forms and data entry fields",
+    "Search input with styled webkit search UI elements",
+    "File upload input with styled file selector",
+    "Generic form field with focus states and accessibility support",
+    "Password, email, or any standard HTML input type with consistent styling"
+  ],
+  "ai_summary": "Originui Input is a lightweight, atomic text and file input component built with React and Tailwind CSS. It provides consistent styling across input types including search and file inputs, featuring focus ring states, disabled states, and shadow effects. Designed as a foundational form element for any web application.",
+  "_classifiedAt": "2026-04-23T17:04:24.423Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "moumensoliman-volume-component-shadcnui",
+  "type": "registry:ui",
+  "title": "Moumensoliman Volume Component Shadcnui",
+  "description": "Installed from https://21st.dev/r/moumensoliman/volume-component-shadcnui",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "moumensoliman-volume-component-shadcnui"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "volume-component-shadcnui.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/moumensoliman/volume-component-shadcnui",
+    "fetchedAt": "2026-04-22T06:31:57.234Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

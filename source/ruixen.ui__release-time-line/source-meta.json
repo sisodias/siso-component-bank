@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__release-time-line",
+  "author": "ruixen.ui",
+  "slug": "release-time-line",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/release-time-line",
+  "fetchedAt": "2026-08-29T06:47:29.667Z",
+  "completedAt": "2026-08-29T06:47:32.199Z",
+  "versionedFilename": "code.1755269526667.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/release-time-line/code.1755269526667.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/release-time-line/code.1755269526667.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 11779,
+  "sha256": "18d326fe43f6b95a50b05de8a6cbff6e0f1657a509905458ddb50d294e96eb86",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,33 @@
+{
+  "category": "media",
+  "subcategory": "3D circular image gallery with WebGL rendering",
+  "visual_style": [
+    "3d",
+    "gradient"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "e-commerce",
+    "creative-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Showcasing portfolio work in an immersive 3D carousel",
+    "Displaying product images in a curved gallery format",
+    "Creating interactive hero sections with scroll-driven image reveals",
+    "Building creative portfolio and agency websites",
+    "Implementing feature highlights with animated 3D visuals"
+  ],
+  "ai_summary": "A 3D circular image gallery component built with OGL (WebGL) that displays images in a curved, scrollable carousel. Features configurable curvature, border radius, and smooth scroll-based animations with easing. Uses canvas-generated text textures and 3D mesh transformations for an immersive visual experience suitable for creative portfolios and product showcases.",
+  "_classifiedAt": "2026-04-22T09:08:56.561Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

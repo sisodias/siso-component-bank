@@ -1,0 +1,31 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "scroll-animated card stack with sticky positioning",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Create scroll-animated card stacks for interactive product showcases",
+    "Build layered feature or pricing comparisons with sticky stacking",
+    "Design timeline or portfolio sections with progressive card reveals",
+    "Implement scroll-based storytelling layouts with depth layering",
+    "Create interactive galleries with z-index stacking and smooth animations"
+  ],
+  "ai_summary": "A scroll-animated card stacking component using Framer Motion that leverages CSS sticky positioning to create layered card effects. ContainerScroll provides a 3D perspective wrapper while CardSticky handles individual card positioning with configurable Y-offset and Z-index increments. The layout animation ensures smooth reordering. Ideal for creating interactive showcases, feature comparisons, or scroll-driven storytelling experiences.",
+  "_classifiedAt": "2026-04-23T17:44:46.313Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

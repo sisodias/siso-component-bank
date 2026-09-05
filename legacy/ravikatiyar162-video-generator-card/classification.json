@@ -1,0 +1,30 @@
+{
+  "category": "card",
+  "subcategory": "video-generation-card",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying video generation options in a SaaS video creation platform",
+    "Presenting video templates or presets for content creators",
+    "Showcasing AI video generation features in a landing page",
+    "Creating video thumbnails or previews in a media dashboard",
+    "Offering video creation tools in an educational content platform"
+  ],
+  "ai_summary": "A video generator card component designed for displaying video creation options, templates, or AI-powered video generation features. Built with Radix UI primitives and class-variance-authority for flexible styling. Typically used in video creation platforms, SaaS applications, and creator tools to present video generation capabilities in an engaging card format with interactive hover and click states.",
+  "_classifiedAt": "2026-04-22T09:11:06.658Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

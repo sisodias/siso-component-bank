@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__worm-loader",
+  "author": "ruixen.ui",
+  "slug": "worm-loader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/worm-loader",
+  "fetchedAt": "2026-08-29T06:52:18.105Z",
+  "completedAt": "2026-08-29T06:52:20.178Z",
+  "versionedFilename": "code.1759087666055.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/worm-loader/code.1759087666055.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/worm-loader/code.1759087666055.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1781,
+  "sha256": "d2b346f0fa930b0279b95459dc4c778e1cbba5ae230eed6107d7cf052cd01be7",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

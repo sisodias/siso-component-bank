@@ -1,0 +1,37 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-with-variants",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "fintech",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Form submission triggers in web applications",
+    "Navigation actions and CTA buttons",
+    "Modal dialog confirmations and dismissals",
+    "Toggle states between secondary actions",
+    "Icon-based quick action buttons in toolbars"
+  ],
+  "ai_summary": "A reusable button component with CVA (class-variance-authority) support for multiple variants including default, destructive, outline, secondary, ghost, and link styles. Features configurable sizes (default, small, large, icon) with Radix UI Slot for composition. Includes built-in focus-visible ring accessibility features and disabled states.",
+  "_classifiedAt": "2026-04-23T01:47:06.893Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

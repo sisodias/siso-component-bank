@@ -1,0 +1,26 @@
+{
+  "id": "sean0205__sonner",
+  "author": "sean0205",
+  "slug": "sonner",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sean0205/components/sonner",
+  "fetchedAt": "2026-08-29T06:59:39.869Z",
+  "completedAt": "2026-08-29T06:59:42.103Z",
+  "versionedFilename": "code.1752689345729.tsx",
+  "codeReference": "r2://components-code-private/sean0205/sonner/code.1752689345729.tsx",
+  "codeUrl": "https://cdn.21st.dev/sean0205/sonner/code.1752689345729.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1329,
+  "sha256": "9dbd69b86d9b781f701e44474537a46ae6c4f055e64325550e26c9792e15f2d0",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

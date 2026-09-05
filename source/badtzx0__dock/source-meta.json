@@ -1,0 +1,26 @@
+{
+  "id": "badtzx0__dock",
+  "author": "badtzx0",
+  "slug": "dock",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@badtzx0/components/dock",
+  "fetchedAt": "2026-08-29T03:47:32.653Z",
+  "completedAt": "2026-08-29T03:47:35.597Z",
+  "versionedFilename": "code.1754500493956.tsx",
+  "codeReference": "r2://components-code-private/larsen66/dock/code.1754500493956.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/dock/code.1754500493956.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5697,
+  "sha256": "0717a9c4265d77e6cf6bc5ad556b7ca71da932c9f9a07dbef7d2804c9000e089",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

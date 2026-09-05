@@ -1,0 +1,31 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "3D box loading animation",
+  "visual_style": [
+    "3d"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displays a 3D animated loading indicator while content loads",
+    "Provides visual feedback during asynchronous operations",
+    "Serves as a placeholder during data fetching",
+    "Adds visual interest to loading states",
+    "Enhances user experience during wait times"
+  ],
+  "ai_summary": "A 3D CSS box loader animation component featuring four animated cubes with multiple faces (front, right, top, back) that create a dynamic loading indicator. The component uses CSS transforms to create depth and perspective, providing an engaging visual feedback mechanism for loading states.",
+  "_classifiedAt": "2026-04-23T16:46:16.999Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

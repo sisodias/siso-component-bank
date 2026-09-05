@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/smart-assist-input",
+  "author": "ruixen.ui",
+  "slug": "smart-assist-input",
+  "name": "smart-assist-input",
+  "description": "The SmartAssistInput is a next-generation, reusable input field designed to go far beyond a plain text box. It not only lets users type, but also actively assists them by remembering their previous inputs (via local history), offering quick re-selection with a dropdown, and providing built-in actions like copy and clear.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/smart-assist-input?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__smart-assist-input",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/smart-assist-input/default/bundle.1757064616684.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/smart-assist-input/default/preview.1757064616684.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

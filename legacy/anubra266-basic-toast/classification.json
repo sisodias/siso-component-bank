@@ -1,0 +1,35 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "toast-notification",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Displaying success messages after form submissions or completed actions",
+    "Showing error notifications when user actions fail",
+    "Providing temporary feedback after user interactions",
+    "Confirming account creation or other important user events",
+    "Alerting users to important updates or system messages"
+  ],
+  "ai_summary": "A toast notification component built with Ark UI that displays temporary messages to users. Features title and description fields, close button, smooth transitions, and dark mode support. Triggers on button click with configurable placement at bottom-end of screen. Lightweight, accessible feedback component ideal for confirming user actions across SaaS, e-commerce, and general web applications.",
+  "_classifiedAt": "2026-04-23T01:35:47.243Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

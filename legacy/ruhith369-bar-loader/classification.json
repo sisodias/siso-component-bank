@@ -1,0 +1,39 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading-indicator",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display animated loading state while content fetches",
+    "Show activity indicator during form submissions",
+    "Visual feedback during async operations",
+    "Skeleton loader replacement for wait times",
+    "Process status indicator for background tasks"
+  ],
+  "ai_summary": "A customizable animated bar loader component that displays a row of vertical bars animating in a wave pattern to indicate loading or processing states. Each bar animates with staggered delays creating a rhythmic, cascading effect. Supports customization of bar count, dimensions, color, and animation speed through props.",
+  "_classifiedAt": "2026-04-22T09:11:16.135Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

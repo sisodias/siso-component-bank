@@ -1,0 +1,24 @@
+{
+  "category": "input",
+  "subcategory": "select-dropdown",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting from a predefined list of options in forms",
+    "Choosing settings like font family or display preferences",
+    "Dropdown navigation for menus",
+    "Filtering or sorting content in data tables",
+    "Capturing user preferences in configuration panels"
+  ],
+  "ai_summary": "A Base UI select dropdown component with portal-based positioning for selecting from a list of options. Features smooth scale and opacity animations for popup open/close, scroll-up arrow for long lists, and comprehensive accessibility with focus-visible states. Clean, flat visual design using Tailwind utility classes suitable for any SaaS, fintech, or e-commerce form requiring dropdown selection.",
+  "_classifiedAt": "2026-04-23T11:32:29.351Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

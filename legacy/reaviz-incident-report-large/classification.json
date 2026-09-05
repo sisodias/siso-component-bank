@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "incident-dashboard",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying incident response metrics like Mean Time to Respond in monitoring dashboards",
+    "Visualizing incident trends over time with area charts for service reliability teams",
+    "Showing critical vs improvement status badges for incident management workflows",
+    "Providing at-a-glance service health metrics for DevOps and SRE teams",
+    "Dashboard component for tracking team incident response performance"
+  ],
+  "ai_summary": "A monitoring dashboard component for displaying incident response metrics and trends. Features animated counters, area charts for visualizing incident frequency over time, and metric cards with critical/improvement status badges. Built with reaviz for charts and framer-motion for subtle animations. Designed for service reliability and incident management use cases in SaaS and DevOps contexts.",
+  "_classifiedAt": "2026-04-23T17:15:08.117Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

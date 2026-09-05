@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@reshaped/components/reshaped-breadcrumbs",
+  "author": "reshaped",
+  "slug": "reshaped-breadcrumbs",
+  "name": "reshaped-breadcrumbs",
+  "description": "Renders Breadcrumbs.Item elements separated by chevron icons; an item without onClick or href becomes the active current page. Supports primary color, per-item icons and disabled state, collapsing long paths with defaultVisibleItems and an expand button, custom separators and custom item content.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/reshaped/reshaped-breadcrumbs?api_key=$API_KEY_21ST\"",
+  "id": "reshaped__reshaped-breadcrumbs",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/reshaped-breadcrumbs/default/bundle.1783349391231.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/reshaped-breadcrumbs/default/preview.1783349391231.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 2,
+  "demo_id": 17465,
+  "video_url": "https://cdn.21st.dev/larsen66/reshaped-breadcrumbs/collapsed/video.1783349391231.mp4"
+}

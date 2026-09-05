@@ -1,0 +1,29 @@
+{
+  "category": "media",
+  "subcategory": "image-carousel-orbital",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Rotating image carousel for showcasing products in an orbital animation cycle",
+    "Team member gallery with smooth image transitions in a circular layout",
+    "Logo carousel for displaying client logos or brand partners",
+    "Feature highlights with animated image reveals in a central showcase area",
+    "Gallery component for creative portfolios with continuous looping imagery"
+  ],
+  "ai_summary": "CloudOrbit is a React component that creates an animated orbital image carousel using requestAnimationFrame and motion/react for smooth transitions. It cycles through a list of images with scale and opacity animations in a centered circular layout, supporting customizable duration, size, and styling. The component is ideal for showcasing images in a dynamic, continuous rotation on both desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T11:31:41.513Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

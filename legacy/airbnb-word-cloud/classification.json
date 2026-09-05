@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "word-cloud-visualization",
+  "visual_style": [
+    "flat",
+    "colorful"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying text frequency analysis with variable font sizes based on word occurrence count",
+    "Visualizing keyword importance in documents or user-generated content",
+    "Creating interactive text summarization for content analysis dashboards",
+    "Generating tag clouds for blog posts or article metadata",
+    "Showing lyric or text corpus analysis with proportional word emphasis"
+  ],
+  "ai_summary": "A word cloud visualization component that renders text data with variable font sizes proportional to word frequency. Built on the visx library, it processes raw text into counted word data and displays the result in a cloud layout where more frequent words appear larger. The component uses a blue color palette and includes built-in text processing with customizable width, height, and control options.",
+  "_classifiedAt": "2026-04-23T11:30:08.231Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

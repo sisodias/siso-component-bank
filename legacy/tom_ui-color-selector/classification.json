@@ -1,0 +1,22 @@
+{
+  "category": "input",
+  "subcategory": "color-selector",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Product customization interfaces where users select from predefined color options",
+    "Theme and appearance settings panels in application preferences",
+    "Form inputs for collecting user color preferences in surveys or profiles",
+    "Design tools and editors that need quick color selection",
+    "Brand or category labeling interfaces in content management systems"
+  ],
+  "ai_summary": "A lightweight color selector component that displays a grid of predefined color swatches allowing users to select one. Supports three size variants (sm, default, lg), integrates with HTML forms via hidden input, and triggers callbacks on color selection. Uses CSS variables for theming and provides a clean, accessible interface for picking from 17 predefined color options.",
+  "_classifiedAt": "2026-04-22T09:17:58.369Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

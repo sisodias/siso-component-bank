@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card",
+    "media"
+  ],
+  "subcategory": "image gallery accordion with hover expansion",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "media",
+    "e-commerce",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Image portfolio showcase with interactive hover-based expansion",
+    "Product gallery displaying multiple images with one highlighted on hover",
+    "Visual content browser for media-rich landing pages",
+    "Photo collection display with smooth accordion transitions",
+    "Creative showcase grid with immersive hover experience"
+  ],
+  "ai_summary": "An interactive image gallery component featuring accordion-style expansion where cards grow from compact (5rem) to expanded (24rem) width on hover. Built with React state management and smooth 500ms CSS transitions, this minimalist component displays up to 9 images in a horizontal flex layout with a neutral backdrop. Ideal for media portfolios, product showcases, and creative galleries requiring immersive visual browsing on desktop platforms.",
+  "_classifiedAt": "2026-04-22T09:06:12.618Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

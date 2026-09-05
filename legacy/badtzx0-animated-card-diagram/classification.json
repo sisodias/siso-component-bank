@@ -1,0 +1,30 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "animated-card-diagram",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Displaying content in an animated, contained card layout with sub-components",
+    "Creating visual diagram showcases with hover animations",
+    "Building card-based UI layouts with title, description, and visual sections",
+    "Implementing dark mode supported card interfaces"
+  ],
+  "ai_summary": "A composite animated card component featuring modular sub-components (CardBody, CardTitle, CardDescription, CardVisual) for building flexible card-based interfaces. Supports dark mode, hover animations via Tailwind group utilities, and inherits border/shadow styling from shadcn/ui design patterns. Ideal for creating interactive card layouts with visual emphasis and content hierarchy.",
+  "_classifiedAt": "2026-04-23T11:31:32.118Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

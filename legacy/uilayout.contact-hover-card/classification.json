@@ -1,0 +1,29 @@
+{
+  "category": "card",
+  "subcategory": "hover-reveal image card",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "media",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Showcasing product images with hidden details that reveal on hover",
+    "Displaying blog post previews with gradient overlays in media applications",
+    "Creating interactive portfolio cards for creator and design portfolios",
+    "Building featured content sections on SaaS landing pages",
+    "Designing contact or profile cards with expandable information"
+  ],
+  "ai_summary": "A hover card component featuring an image with a gradient overlay that reveals sliding content from the bottom on mouse hover. Supports multiple color variants (default green, primary blue, secondary amber) and size options. Includes smooth scale transitions on the image and slide-up animations for content, with full dark mode support for modern web applications.",
+  "_classifiedAt": "2026-04-23T17:37:43.019Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

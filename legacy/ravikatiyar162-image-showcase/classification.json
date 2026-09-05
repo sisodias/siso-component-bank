@@ -1,0 +1,35 @@
+{
+  "category": [
+    "card",
+    "media"
+  ],
+  "subcategory": "image-showcase-stack",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "media",
+    "e-commerce",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying photo collections or image galleries in a visually engaging stacked format",
+    "Portfolio cards for photographers, designers, or creative professionals",
+    "Product showcase cards in e-commerce with multiple image previews",
+    "Team member or testimonial cards with layered profile images",
+    "Interactive media galleries with hover-reveal animations"
+  ],
+  "ai_summary": "An interactive photo showcase card component featuring stacked images that animate on hover with scale, rotation, and lift effects. Built with Framer Motion for smooth spring-based animations and includes an active/inactive click state system. The card displays a category, title, and subtitle with a clean, modern design using Tailwind utility classes. Ideal for creative portfolios, media galleries, and visual product showcases where image display is the primary focus.",
+  "_classifiedAt": "2026-04-22T09:09:52.924Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,22 @@
+{
+  "category": "input",
+  "subcategory": "keyboard-key-indicator",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying keyboard shortcuts in documentation and help menus",
+    "Showing keyboard navigation hints in UI overlays",
+    "Rendering individual or combined key indicators for accessibility guides"
+  ],
+  "ai_summary": "A keyboard key (kbd) component that renders styled HTML kbd elements with customizable variants (default, outline, solid, secondary) and sizes (xs to lg). Supports single or multiple key display with optional click handlers. Uses CVA for variant management and includes micro-interactions like hover and active press states with subtle translateY animation.",
+  "_classifiedAt": "2026-04-23T17:08:18.248Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

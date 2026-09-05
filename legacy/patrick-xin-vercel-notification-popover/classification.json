@@ -1,0 +1,31 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "notification-popover",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display user notifications with filtering options (all, unread, archived) in a popover interface",
+    "Provide a responsive notification center that adapts from popover on desktop to sheet on mobile",
+    "Enable centralized notification management in SaaS and developer tool applications",
+    "Trigger contextual alerts or updates without navigating away from current page"
+  ],
+  "ai_summary": "A Vercel-inspired notification popover component featuring tabbed filtering (all/unread/archived), responsive desktop popover and mobile sheet variants, and context-based state management. Built with Radix UI primitives for accessibility, this minimalist component provides a clean interface for managing user notifications across SaaS and developer tool applications.",
+  "_classifiedAt": "2026-04-22T09:07:43.608Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

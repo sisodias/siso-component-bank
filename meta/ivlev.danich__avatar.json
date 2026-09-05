@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ivlev.danich/components/avatar",
+  "author": "ivlev.danich",
+  "slug": "avatar",
+  "name": "avatar",
+  "description": "User avatar component with image support and automatic fallback to initials. Features gradient background, loading states, and multiple sizes.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ivlev.danich/avatar?api_key=$API_KEY_21ST\"",
+  "id": "ivlev.danich__avatar",
+  "bundleUrl": "https://cdn.21st.dev/ivlev.danich/avatar/default/bundle.1768845071841.html",
+  "previewUrl": "https://cdn.21st.dev/ivlev.danich/avatar/default/preview.1768845071841.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

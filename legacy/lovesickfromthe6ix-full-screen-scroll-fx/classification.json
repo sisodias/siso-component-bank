@@ -1,0 +1,36 @@
+{
+  "category": [
+    "navigation",
+    "layout"
+  ],
+  "subcategory": "full-screen-section-scroll-system",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "parallax",
+    "keyboard-nav",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "system",
+  "use_cases": [
+    "Full-screen landing pages with animated section transitions using GSAP ScrollTrigger",
+    "Portfolio or storytelling sites with immersive scroll-driven navigation",
+    "Product showcases with parallax backgrounds and smooth transitions between content blocks",
+    "Creative agency sites requiring programmatic section navigation via next/prev/goTo API"
+  ],
+  "ai_summary": "FullScreenScrollFX is a GSAP-powered full-screen scrolling system that creates immersive page experiences with section-based navigation. Features include configurable background transitions (fade/wipe), parallax effects, smooth scroll support for Lenis, keyboard navigation with ARIA labels, and a complete imperative API for programmatic control. Designed for landing pages and storytelling experiences where content sections snap into view with orchestrated animations.",
+  "_classifiedAt": "2026-04-23T16:52:57.545Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

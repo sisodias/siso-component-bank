@@ -1,0 +1,26 @@
+{
+  "id": "pacekit__bouncing-text",
+  "author": "pacekit",
+  "slug": "bouncing-text",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@pacekit/components/bouncing-text",
+  "fetchedAt": "2026-08-29T06:02:13.729Z",
+  "completedAt": "2026-08-29T06:02:16.458Z",
+  "versionedFilename": "code.1783717039042.tsx",
+  "codeReference": "r2://components-code-private/pacekit/bouncing-text/code.1783717039042.tsx",
+  "codeUrl": "https://cdn.21st.dev/pacekit/bouncing-text/code.1783717039042.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1633,
+  "sha256": "63975723e7198e1122533c8d36ba9e6698c929caa94cd5d9c29989d56153dc10",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

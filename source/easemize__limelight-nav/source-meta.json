@@ -1,0 +1,26 @@
+{
+  "id": "easemize__limelight-nav",
+  "author": "easemize",
+  "slug": "limelight-nav",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@easemize/components/limelight-nav",
+  "fetchedAt": "2026-08-29T04:38:13.539Z",
+  "completedAt": "2026-08-29T04:38:15.790Z",
+  "versionedFilename": "code.1749735671556.tsx",
+  "codeReference": "r2://components-code-private/easemize/limelight-nav/code.1749735671556.tsx",
+  "codeUrl": "https://cdn.21st.dev/easemize/limelight-nav/code.1749735671556.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4182,
+  "sha256": "f507bed951a3e7a629201f8eb3ad1217b069a9d9caa8c09551b8c8df44d5c80f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

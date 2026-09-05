@@ -1,0 +1,26 @@
+{
+  "id": "moazamtrade__cookies-banner",
+  "author": "moazamtrade",
+  "slug": "cookies-banner",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@moazamtrade/components/cookies-banner",
+  "fetchedAt": "2026-08-29T05:46:57.509Z",
+  "completedAt": "2026-08-29T05:46:59.575Z",
+  "versionedFilename": "code.1757802093849.tsx",
+  "codeReference": "r2://components-code-private/moazamtrade/cookies-banner/code.1757802093849.tsx",
+  "codeUrl": "https://cdn.21st.dev/moazamtrade/cookies-banner/code.1757802093849.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 12022,
+  "sha256": "862cc160e0c833ca21f7a9fa9923509f512d61571dd4cf7c7cbed4ee420121f3",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

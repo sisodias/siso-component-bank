@@ -1,0 +1,26 @@
+{
+  "id": "ziegfiroyt__auth30",
+  "author": "ziegfiroyt",
+  "slug": "auth30",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ziegfiroyt/components/auth30",
+  "fetchedAt": "2026-08-29T08:02:24.081Z",
+  "completedAt": "2026-08-29T08:02:26.279Z",
+  "versionedFilename": "code.1785101986995-6ca8d62f-481c-4cdc-990f-7f2569e2852d.tsx",
+  "codeReference": "r2://components-code-private/ziegfiroyt/auth30/code.1785101986995-6ca8d62f-481c-4cdc-990f-7f2569e2852d.tsx",
+  "codeUrl": "https://cdn.21st.dev/ziegfiroyt/auth30/code.1785101986995-6ca8d62f-481c-4cdc-990f-7f2569e2852d.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

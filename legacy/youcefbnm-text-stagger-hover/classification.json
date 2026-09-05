@@ -1,0 +1,31 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "text-stagger-animation",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Creating animated text reveals on hover with character or word-level staggering",
+    "Building interactive headlines with directional animation effects",
+    "Adding motion to promotional text and landing page typography",
+    "Implementing text blur-to-sharp or scale transitions on user hover",
+    "Creating entrance animations for hero sections and marketing content"
+  ],
+  "ai_summary": "A Framer Motion-based text animation component that creates staggered hover effects on text content. Supports multiple animation directions (start, middle, end), various animation types (left, right, top, bottom, scale, blur), and can animate text character-by-character or word-by-word. Designed for interactive text displays where content reveals smoothly on hover.",
+  "_classifiedAt": "2026-04-23T17:45:37.058Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

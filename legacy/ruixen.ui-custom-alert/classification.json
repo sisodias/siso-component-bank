@@ -1,0 +1,32 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "dismissible-alert",
+  "visual_style": [
+    "glass-morphism",
+    "gradient"
+  ],
+  "interactions": [
+    "click-reveal",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying contextual success, error, warning, or info messages to users",
+    "Providing feedback after form submissions or user actions",
+    "Creating dismissible notification banners in application interfaces"
+  ],
+  "ai_summary": "A glassmorphic alert component with multiple variants (success, error, warning, info) and smooth dismiss animations. Features backdrop blur effects and supports dark mode, making it ideal for modern SaaS applications requiring elegant user feedback mechanisms.",
+  "_classifiedAt": "2026-04-23T01:49:23.889Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

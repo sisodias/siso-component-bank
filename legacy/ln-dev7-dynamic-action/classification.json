@@ -1,0 +1,29 @@
+{
+  "category": "navigation",
+  "subcategory": "expandable-action-bar",
+  "visual_style": [],
+  "interactions": [
+    "morph",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Revealing contextual content or details when hovering over action items in a compact action bar",
+    "Creating an interactive toolbar with expandable panels that expand smoothly on interaction",
+    "Building a space-efficient navigation pattern where content expands inline rather than navigating to new pages",
+    "Implementing a dynamic disclosure widget for SaaS dashboards that shows related information on demand",
+    "Designing action-oriented UIs where users can preview content before committing to a full view"
+  ],
+  "ai_summary": "A dynamic expandable action bar component that uses Framer Motion for smooth spring-based morphing animations. The bar reveals content inline when hovering over action items, featuring glass-morphism styling with backdrop blur effects. Each action has configurable dimensions that control the expanded state size, making it ideal for space-constrained interfaces where contextual content needs to be accessible without navigation changes. Commonly used in SaaS dashboards, dev-tools, and modern web applications requiring compact yet informative interaction patterns.",
+  "_classifiedAt": "2026-04-23T16:51:50.306Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

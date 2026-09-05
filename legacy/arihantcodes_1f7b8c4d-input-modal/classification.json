@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar-profile-picture",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying user profile pictures in navigation headers and user menus",
+    "Showing user avatars in comment sections and discussion threads",
+    "Representing users or team members in dashboard and admin interfaces",
+    "User avatars in social media feeds and messaging applications",
+    "Profile picture placeholders with automatic initials fallback"
+  ],
+  "ai_summary": "A minimalist avatar component built on Radix UI primitives that displays user profile images with automatic fallback to initials when no image is available. Features a rounded-full design with responsive sizing, commonly used in navigation headers, comment sections, and user profile displays across various applications.",
+  "_classifiedAt": "2026-04-23T11:30:43.818Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

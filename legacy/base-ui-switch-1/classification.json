@@ -1,0 +1,28 @@
+{
+  "category": "input",
+  "subcategory": "switch-toggle",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Toggle binary settings on or off in configuration panels",
+    "Enable or disable features in application settings",
+    "Switch between dark and light modes",
+    "Control boolean form field submissions",
+    "Toggle notification preferences or account settings"
+  ],
+  "ai_summary": "A polished toggle switch component from Base UI featuring a smooth gradient track that transitions between gray states, a circular thumb that animates horizontally on toggle, and built-in dark mode support. The switch includes focus-visible states, active states, and shadow depth effects for a refined, accessible toggle experience suitable for modern SaaS applications and settings interfaces.",
+  "_classifiedAt": "2026-04-23T11:32:30.961Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

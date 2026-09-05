@@ -1,0 +1,26 @@
+{
+  "id": "trophyso__leaderboard-podium",
+  "author": "trophyso",
+  "slug": "leaderboard-podium",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@trophyso/components/leaderboard-podium",
+  "fetchedAt": "2026-08-29T07:40:31.708Z",
+  "completedAt": "2026-08-29T07:40:33.919Z",
+  "versionedFilename": "code.1779977400587.tsx",
+  "codeReference": "r2://components-code-private/larsen66/leaderboard-podium/code.1779977400587.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/leaderboard-podium/code.1779977400587.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6829,
+  "sha256": "04556b2e0296034ead7be20b2ec697ac93a38f77a9b4eba07b286d72b4244815",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action triggers in forms and modals",
+    "State toggles with open/closed visual feedback",
+    "Navigation and route change triggers",
+    "Destructive action confirmation buttons",
+    "Form submission and cancel actions"
+  ],
+  "ai_summary": "A versatile atomic button component with multiple style variants (primary, secondary, outline, ghost, dashed, mono, destructive) and appearance options. Supports hover states, focus-visible keyboard navigation, open state styling, and smooth color/box-shadow transitions. Built with class-variance-authority for flexible variant management and Base UI merge props for proper prop handling.",
+  "_classifiedAt": "2026-04-22T09:13:59.461Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

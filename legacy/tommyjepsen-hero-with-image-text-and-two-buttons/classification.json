@@ -1,0 +1,40 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "badge-label",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "creator-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying status indicators and category labels in product cards",
+    "Showing notification counts and tags in UI elements",
+    "Highlighting feature badges in pricing or feature comparison sections",
+    "Marking new, beta, or featured items in content lists",
+    "Indicating user roles or permissions in interface elements"
+  ],
+  "ai_summary": "A lightweight Badge component from the shadcn/ui design system featuring four variants (default, secondary, destructive, outline) with consistent styling using CVA for variant management. The badge renders as an inline-flex element with rounded corners and proper focus states for accessibility, commonly used for labels, tags, and status indicators across various UI contexts.",
+  "_classifiedAt": "2026-04-23T17:36:28.142Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

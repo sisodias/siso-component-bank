@@ -1,0 +1,24 @@
+{
+  "category": "input",
+  "subcategory": "animated-text-link",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Navigation links requiring subtle hover feedback with animated underline expansion",
+    "CTA buttons and call-to-action text with elegant underline reveal on hover",
+    "Interactive text elements in headers, footers, or content sections"
+  ],
+  "ai_summary": "A minimalist animated text link component that displays a horizontal underline which smoothly scales from the center outward on hover. Built with Tailwind CSS using scaleX transform and CSS transitions for the animation effect. The component uses primary color theming and provides clean, accessible hover interaction for any text-based navigation or call-to-action elements.",
+  "_classifiedAt": "2026-04-23T17:06:48.070Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

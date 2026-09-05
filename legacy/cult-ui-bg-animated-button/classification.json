@@ -1,0 +1,33 @@
+{
+  "category": "input",
+  "subcategory": "animated-gradient-button",
+  "visual_style": [
+    "gradient",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons with eye-catching animated gradient backgrounds",
+    "Loading or processing state indicators with spinning color effects",
+    "Marketing or landing page buttons with vibrant visual appeal",
+    "Interactive elements requiring subtle motion to draw attention",
+    "Brand-forward buttons with customizable color schemes (sunrise, ocean, candy, forest, sunset, nebula)"
+  ],
+  "ai_summary": "A versatile animated button component featuring spinning conic gradient backgrounds that cycle through multiple color palettes. Supports various border radius options (full, xl, 2xl, 3xl, sm, xs, base) and animation speeds (pulse, spin-fast, spin-slow, spin). Built with Tailwind CSS, Radix UI Slot for composition, and class-variance-authority for variant management. Ideal for creating visually engaging CTAs in modern SaaS and e-commerce applications.",
+  "_classifiedAt": "2026-04-23T16:28:13.632Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

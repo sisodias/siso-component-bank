@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "text-input",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Standard text input for forms in web applications",
+    "Search input fields with custom webkit styling",
+    "File upload input with styled file button",
+    "Accessible form inputs with focus ring indicators"
+  ],
+  "ai_summary": "A modern, styled text input component built on React forwardRef that wraps the native HTML input element. Supports multiple input types including standard text, search, and file uploads with custom styling for each. Features focus-visible ring states, shadow effects, and disabled styling for enhanced accessibility and UX.",
+  "_classifiedAt": "2026-04-23T01:50:24.180Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

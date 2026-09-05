@@ -1,0 +1,36 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "badge",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display status labels in dashboards and admin panels",
+    "Show category or tag information on content items",
+    "Indicate notification counts or highlights",
+    "Present user roles or permission levels in interface",
+    "Mark items as featured, new, or featured in listings"
+  ],
+  "ai_summary": "A flexible badge component with four style variants (default, secondary, destructive, outline) that renders as a rounded pill with customizable text. Supports hover color transitions and focus ring states for accessibility. Built with React, TypeScript, and Tailwind CSS using the class-variance-authority pattern for variant management.",
+  "_classifiedAt": "2026-04-22T09:19:06.776Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

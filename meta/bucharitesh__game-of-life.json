@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@bucharitesh/components/game-of-life",
+  "author": "bucharitesh",
+  "slug": "game-of-life",
+  "name": "game-of-life",
+  "description": "A customizable implementation of Conway's Game of Life with interactive cells, adjustable parameters, and smooth animations. Features configurable cell colors, grid size, and simulation speed for creating mesmerizing cellular automaton patterns.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/bucharitesh/game-of-life?api_key=$API_KEY_21ST\"",
+  "id": "bucharitesh__game-of-life",
+  "bundleUrl": "https://cdn.21st.dev/bucharitesh/game-of-life/default/bundle.1753737070462.html",
+  "previewUrl": "https://cdn.21st.dev/bucharitesh/game-of-life/default/preview.1753477102400.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

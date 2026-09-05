@@ -1,0 +1,26 @@
+{
+  "id": "aghasisahakyan1__downloadable-asset",
+  "author": "aghasisahakyan1",
+  "slug": "downloadable-asset",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@aghasisahakyan1/components/downloadable-asset",
+  "fetchedAt": "2026-08-29T03:28:53.208Z",
+  "completedAt": "2026-08-29T03:28:55.526Z",
+  "versionedFilename": "code.1757325439480.tsx",
+  "codeReference": "r2://components-code-private/aghasisahakyan1/downloadable-asset/code.1757325439480.tsx",
+  "codeUrl": "https://cdn.21st.dev/aghasisahakyan1/downloadable-asset/code.1757325439480.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1552,
+  "sha256": "3e75934e24e9bc3880f41b1fb7ba09a5be053748b3a19e16ca741191ef676772",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

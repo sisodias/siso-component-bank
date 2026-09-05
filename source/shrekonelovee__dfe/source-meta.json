@@ -1,0 +1,26 @@
+{
+  "id": "shrekonelovee__dfe",
+  "author": "shrekonelovee",
+  "slug": "dfe",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shrekonelovee/components/dfe",
+  "fetchedAt": "2026-08-29T07:18:00.653Z",
+  "completedAt": "2026-08-29T07:18:02.830Z",
+  "versionedFilename": "code.1785786631500-58d26742-b538-4774-9b28-e1655b349090.tsx",
+  "codeReference": "r2://components-code-private/shrekonelovee/dfe/code.1785786631500-58d26742-b538-4774-9b28-e1655b349090.tsx",
+  "codeUrl": "https://cdn.21st.dev/shrekonelovee/dfe/code.1785786631500-58d26742-b538-4774-9b28-e1655b349090.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

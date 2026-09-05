@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@beratberkayg/components/roadmap-card",
+  "author": "beratberkayg",
+  "slug": "roadmap-card",
+  "name": "roadmap-card",
+  "description": "The RoadmapCard component is a minimal, animated product roadmap built with shadcn/ui and Framer Motion.\nIt displays key project milestones in a clean timeline format, supporting light and dark modes out-of-the-box.\n\nFeatures:\n\n📅 Display quarterly milestones with title, description, and status\n\n✨ Animated timeline dots with fade and slide-in effects\n\n🎨 Minimal, modern design with hover scale effect on dots\n\n🌗 Fully theme-aware (light/dark mode compatible)\n\n🔹 Reusable and dynamic via items prop\n\nIdeal for showcasing product plans, feature releases, or project timelines in a visually appealing and interactive way.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/beratberkayg/roadmap-card?api_key=$API_KEY_21ST\"",
+  "id": "beratberkayg__roadmap-card",
+  "bundleUrl": "https://cdn.21st.dev/beratberkayg/roadmap-card/default/bundle.1755529414758.html",
+  "previewUrl": "https://cdn.21st.dev/beratberkayg/roadmap-card/default/preview.1755529414756.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 126,
+  "demo_id": 5652,
+  "video_url": "https://cdn.21st.dev/beratberkayg/roadmap-card/default/video.1755529414756.mp4"
+}

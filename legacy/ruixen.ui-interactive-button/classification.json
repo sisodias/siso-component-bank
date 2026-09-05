@@ -1,0 +1,33 @@
+{
+  "category": [
+    "form"
+  ],
+  "subcategory": "interactive-button",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary and secondary call-to-action buttons in web applications",
+    "Form submission and action triggers with multiple visual variants",
+    "Interactive UI controls in SaaS dashboards and admin interfaces",
+    "Navigation and link-style buttons with hover state feedback"
+  ],
+  "ai_summary": "A flexible React button component built with Radix UI Slot for composition and class-variance-authority for variant management. Features multiple variants (default, destructive, outline, secondary, ghost, link) and sizes with consistent hover, focus, and disabled states. Designed as a foundational UI primitive for web applications requiring accessible, styled button elements.",
+  "_classifiedAt": "2026-04-23T17:19:06.731Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

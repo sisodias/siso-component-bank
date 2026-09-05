@@ -1,0 +1,28 @@
+{
+  "category": "data-display",
+  "subcategory": "stat-card",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying KPIs and metrics in analytics dashboards",
+    "Showing percentage-based performance indicators with animated values",
+    "Visualizing business metrics with trend information and icons",
+    "Building dashboard widgets for SaaS and fintech applications",
+    "Creating compact data summaries in monitoring interfaces"
+  ],
+  "ai_summary": "A statistical card component designed for displaying animated metrics and KPIs in dashboard interfaces. Features a smooth number animation using Framer Motion, trend indicators, icon support, and accessibility labels. Built with Tailwind CSS and shadcn-style theming for a clean, professional appearance suitable for data visualization in various business applications.",
+  "_classifiedAt": "2026-04-23T01:46:09.213Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

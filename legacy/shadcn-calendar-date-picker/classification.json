@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Trigger form submissions with customizable variants for primary, secondary, and destructive actions",
+    "Navigate users between pages or sections with link-styled buttons",
+    "Provide icon-only buttons for compact toolbars and action menus",
+    "Enable disabled states for inactive form controls pending validation",
+    "Render polymorphic components using the asChild pattern for flexible composition"
+  ],
+  "ai_summary": "A reusable Button component with CVA-based variants for styling and sizes. Supports multiple visual states including default, destructive, outline, secondary, ghost, and link styles. Includes polymorphic rendering via asChild prop, disabled states, and accessibility features like focus-visible outlines. Designed for desktop and mobile platforms with Tailwind CSS utility classes.",
+  "_classifiedAt": "2026-04-23T17:25:46.015Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

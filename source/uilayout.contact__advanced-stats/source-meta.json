@@ -1,0 +1,26 @@
+{
+  "id": "uilayout.contact__advanced-stats",
+  "author": "uilayout.contact",
+  "slug": "advanced-stats",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uilayout.contact/components/advanced-stats",
+  "fetchedAt": "2026-08-29T07:42:14.140Z",
+  "completedAt": "2026-08-29T07:42:16.583Z",
+  "versionedFilename": "code.1783677974362.tsx",
+  "codeReference": "r2://components-code-private/uilayout.contact/advanced-stats/code.1783677974362.tsx",
+  "codeUrl": "https://cdn.21st.dev/uilayout.contact/advanced-stats/code.1783677974362.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6134,
+  "sha256": "b2647a318e824d98e9219c725eba627af55e9be4b3bef54ac6104e08cec18207",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

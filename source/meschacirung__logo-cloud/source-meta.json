@@ -1,0 +1,33 @@
+{
+  "id": "meschacirung__logo-cloud",
+  "author": "meschacirung",
+  "slug": "logo-cloud",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@meschacirung/components/logo-cloud",
+  "fetchedAt": "2026-08-29T05:41:32.838Z",
+  "completedAt": "2026-08-29T05:41:34.397Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/meschacirung__logo-cloud/code.tsx",
+    "bytes": 2277,
+    "sha256": "80406e0aed124626bd6014b4180f1024ab581435adef298c5d265e209c93c19d",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

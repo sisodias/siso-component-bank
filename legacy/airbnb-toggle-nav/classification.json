@@ -1,0 +1,33 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "toggle-sidebar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Responsive sidebar navigation that can be toggled open or closed",
+    "Main navigation for web applications with collapsible menu",
+    "Dashboard navigation with avatar and menu items"
+  ],
+  "ai_summary": "Airbnb-inspired toggle sidebar navigation component with a responsive flex layout. Features a decorative jagged line visualization as background element and a clean nav list with avatar, menu items. The sidebar can be toggled via state control and adapts to container dimensions using @visx/responsive for proper scaling across devices.",
+  "_classifiedAt": "2026-04-23T11:30:00.418Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

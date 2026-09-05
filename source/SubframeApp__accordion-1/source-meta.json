@@ -1,0 +1,26 @@
+{
+  "id": "SubframeApp__accordion-1",
+  "author": "SubframeApp",
+  "slug": "accordion-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@SubframeApp/components/accordion-1",
+  "fetchedAt": "2026-08-29T07:29:17.143Z",
+  "completedAt": "2026-08-29T07:29:19.581Z",
+  "versionedFilename": "code.1755900920178.tsx",
+  "codeReference": "r2://components-code-private/larsen66/accordion-1/code.1755900920178.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/accordion-1/code.1755900920178.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3818,
+  "sha256": "190c8ff6acab02e2751417b4f5916508c7befe0b6bc6cb446b58b1c98a170bd0",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "olivier_1b6cd5bc__scroll-area-1",
+  "author": "olivier_1b6cd5bc",
+  "slug": "scroll-area-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@olivier_1b6cd5bc/components/scroll-area-1",
+  "fetchedAt": "2026-08-29T06:00:12.840Z",
+  "completedAt": "2026-08-29T06:00:13.895Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null
+}

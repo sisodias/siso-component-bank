@@ -1,0 +1,26 @@
+{
+  "id": "ssicevs__market-watchlist",
+  "author": "ssicevs",
+  "slug": "market-watchlist",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ssicevs/components/market-watchlist",
+  "fetchedAt": "2026-08-29T07:28:26.225Z",
+  "completedAt": "2026-08-29T07:28:28.420Z",
+  "versionedFilename": "code.1785373558052-497985ac-b94a-4f8f-875a-e1ebd87e8236.tsx",
+  "codeReference": "r2://components-code-private/ssicevs/market-watchlist/code.1785373558052-497985ac-b94a-4f8f-875a-e1ebd87e8236.tsx",
+  "codeUrl": "https://cdn.21st.dev/ssicevs/market-watchlist/code.1785373558052-497985ac-b94a-4f8f-875a-e1ebd87e8236.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button with variant system",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons in forms and dashboards",
+    "Destructive action buttons with red styling for delete/remove operations",
+    "Outline buttons for secondary actions alongside primary CTAs",
+    "Ghost buttons for subtle, text-like interactions in navigation or toolbars"
+  ],
+  "ai_summary": "A Shadcn-style atomic button component with a comprehensive variant system including default, destructive, outline, secondary, ghost, and link variants. Features multiple sizes (default, sm, lg, icon) and supports disabled states, focus outlines for accessibility, and composition via the asChild prop using Radix UI Slot.",
+  "_classifiedAt": "2026-04-23T17:26:48.084Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

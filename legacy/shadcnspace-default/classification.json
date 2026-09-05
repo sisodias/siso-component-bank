@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "accordion-collapsible",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "education",
+    "healthcare",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "FAQ sections on help centers or documentation sites",
+    "Collapsible content sections for detailed information display",
+    "Settings panels with expandable preference categories",
+    "Navigation menus with dropdown sections",
+    "Product detail pages with expandable specifications"
+  ],
+  "ai_summary": "A shadcn-style accordion component built on Radix UI primitives providing accessible, keyboard-navigable collapsible content sections. Features smooth expand/collapse animations with a rotating chevron indicator and supports nested accordion items. Clean, minimalist design with border separators suitable for FAQ pages, settings panels, and documentation sites.",
+  "_classifiedAt": "2026-04-22T09:14:53.534Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

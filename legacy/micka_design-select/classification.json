@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "dropdown-select",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Dropdown selection in web forms for choosing from predefined options",
+    "Filtering data views in dashboards and admin panels",
+    "Category selection in e-commerce product filters",
+    "Language or region selection in settings menus",
+    "Multi-step form wizards requiring single-option input"
+  ],
+  "ai_summary": "A styled select/dropdown component for choosing from a list of options. Features customizable styling via Tailwind CSS with rounded corners and flexbox layout. Designed for use in forms, filters, and settings interfaces across SaaS, e-commerce, and fintech applications. Supports both desktop and mobile platforms with touch-friendly interactions.",
+  "_classifiedAt": "2026-04-22T09:05:54.077Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

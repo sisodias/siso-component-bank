@@ -1,0 +1,26 @@
+{
+  "id": "boudjadjasamira__story-scroll",
+  "author": "boudjadjasamira",
+  "slug": "story-scroll",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@boudjadjasamira/components/story-scroll",
+  "fetchedAt": "2026-08-29T03:51:05.048Z",
+  "completedAt": "2026-08-29T03:51:06.887Z",
+  "versionedFilename": "code.1777905624000.tsx",
+  "codeReference": "r2://components-code-private/boudjadjasamira/story-scroll/code.1777905624000.tsx",
+  "codeUrl": "https://cdn.21st.dev/boudjadjasamira/story-scroll/code.1777905624000.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3473,
+  "sha256": "ab4a1e7f278bee29a419bd170729640be65383746bd6188db69c423009f633ec",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

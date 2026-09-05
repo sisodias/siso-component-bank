@@ -1,0 +1,37 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons for forms and dialogs",
+    "Destructive action buttons with visual warning styling",
+    "Secondary navigation and multi-step form progression",
+    "Icon-only buttons for compact UI toolbars and controls",
+    "Link-styled buttons for inline navigation within content"
+  ],
+  "ai_summary": "A versatile button component with multiple variants and sizes, built on Radix UI Slot for composition flexibility. Features clean flat design with subtle shadows, comprehensive hover/focus/disabled states, and keyboard accessibility. Supports asChild pattern for rendering as different HTML elements or composing with other Radix primitives. Ideal for building action-heavy interfaces in SaaS, fintech, and dev tooling products.",
+  "_classifiedAt": "2026-04-23T16:52:29.610Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

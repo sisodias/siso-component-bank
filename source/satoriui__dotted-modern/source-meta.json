@@ -1,0 +1,26 @@
+{
+  "id": "satoriui__dotted-modern",
+  "author": "satoriui",
+  "slug": "dotted-modern",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@satoriui/components/dotted-modern",
+  "fetchedAt": "2026-08-29T06:53:26.745Z",
+  "completedAt": "2026-08-29T06:53:29.294Z",
+  "versionedFilename": "code.1783536128439.tsx",
+  "codeReference": "r2://components-code-private/satoriui/dotted-modern/code.1783536128439.tsx",
+  "codeUrl": "https://cdn.21st.dev/satoriui/dotted-modern/code.1783536128439.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3874,
+  "sha256": "5e791af70b9458441c4be520f5ae00c9024f58e8652fa69d9bc15c5e1e66c09b",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

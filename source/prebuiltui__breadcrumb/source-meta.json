@@ -1,0 +1,26 @@
+{
+  "id": "prebuiltui__breadcrumb",
+  "author": "prebuiltui",
+  "slug": "breadcrumb",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@prebuiltui/components/breadcrumb",
+  "fetchedAt": "2026-08-29T06:10:58.373Z",
+  "completedAt": "2026-08-29T06:11:00.562Z",
+  "versionedFilename": "code.1757091853944.tsx",
+  "codeReference": "r2://components-code-private/larsen66/breadcrumb/code.1757091853944.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/breadcrumb/code.1757091853944.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1840,
+  "sha256": "8300c1f9b94da8b57154dc2a88bec7c3bf0ac11beb95960011f4a7aafd1ed82b",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

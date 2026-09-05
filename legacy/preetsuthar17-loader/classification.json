@@ -1,0 +1,32 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "spinner",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Indicate loading states during async operations like data fetching",
+    "Show progress during form submissions",
+    "Display while waiting for API responses",
+    "Indicate background processing in dashboards",
+    "Provide visual feedback during page transitions"
+  ],
+  "ai_summary": "A lightweight, customizable SVG loading spinner component with configurable size variants (xs to xl) and color variants (default, primary, secondary, muted). Built with class-variance-authority for Tailwind CSS integration, supporting standard accessibility attributes like role='status' and aria-label. The spinner uses a smooth CSS animation and is optimized for both SSR and client-side hydration.",
+  "_classifiedAt": "2026-04-23T17:08:20.277Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

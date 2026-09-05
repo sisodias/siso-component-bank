@@ -1,0 +1,36 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "profile-avatar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display user profile pictures in dashboard sidebar or header navigation",
+    "Show author avatars in comment threads or discussion sections",
+    "Render team member profiles in organizational charts or settings pages",
+    "Display user avatars in messaging or chat application interfaces",
+    "Show customer avatars in e-commerce order history or review sections"
+  ],
+  "ai_summary": "A minimalist avatar component built on Radix UI primitives with circular styling and fallback support. Displays user profile images with graceful degradation to text initials when images fail to load. Commonly used in card layouts, navigation bars, and user interface sections requiring identity representation.",
+  "_classifiedAt": "2026-04-23T01:46:17.078Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

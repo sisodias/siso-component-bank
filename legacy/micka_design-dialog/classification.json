@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "counter",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Simple increment/decrement counter for numeric values",
+    "Basic React state management demonstration",
+    "Foundation for quantity selectors in forms",
+    "Interactive numeric input control",
+    "Simple score or tally tracking interface"
+  ],
+  "ai_summary": "A minimalist React counter component featuring increment and decrement buttons with numeric display. Built with useState for local state management and styled with Tailwind CSS utility classes. This atomic component serves as a foundational interactive element for quantity selectors, scoring systems, or any application requiring simple numeric input controls.",
+  "_classifiedAt": "2026-04-22T09:05:51.827Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "radio-group",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting a single option from a list of choices in forms and settings",
+    "E-commerce product filtering by a single category",
+    "Quiz or survey single-answer questions",
+    "Configuration and preference selection in SaaS dashboards",
+    "Multi-step form progression with single selections"
+  ],
+  "ai_summary": "A minimalist radio group component built with Base UI that enables single-option selection from a list. Features circular radio indicators with checked/unchecked states, accessible focus-visible outlines for keyboard navigation, and standard form behavior. Uses Tailwind CSS for styling with a clean gray color scheme and proper ARIA labeling for screen readers.",
+  "_classifiedAt": "2026-04-23T11:32:34.753Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

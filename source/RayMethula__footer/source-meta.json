@@ -1,0 +1,26 @@
+{
+  "id": "RayMethula__footer",
+  "author": "RayMethula",
+  "slug": "footer",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@RayMethula/components/footer",
+  "fetchedAt": "2026-08-29T06:32:07.007Z",
+  "completedAt": "2026-08-29T06:32:07.981Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null
+}

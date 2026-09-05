@@ -1,0 +1,26 @@
+{
+  "id": "sean0205__progress",
+  "author": "sean0205",
+  "slug": "progress",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sean0205/components/progress",
+  "fetchedAt": "2026-08-29T06:58:30.708Z",
+  "completedAt": "2026-08-29T06:58:32.831Z",
+  "versionedFilename": "code.1751354321880.tsx",
+  "codeReference": "r2://components-code-private/sean0205/progress/code.1751354321880.tsx",
+  "codeUrl": "https://cdn.21st.dev/sean0205/progress/code.1751354321880.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5947,
+  "sha256": "d07939a67a5e9f0c8162885b78e8e8e1aecbf09cdd28471942ff9c6a06394850",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

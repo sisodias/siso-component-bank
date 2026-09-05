@@ -1,0 +1,26 @@
+{
+  "id": "unlumen__animate-count",
+  "author": "unlumen",
+  "slug": "animate-count",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@unlumen/components/animate-count",
+  "fetchedAt": "2026-08-29T07:51:21.492Z",
+  "completedAt": "2026-08-29T07:51:23.122Z",
+  "versionedFilename": "code.1784355310790-497c10c9-49e5-425b-a013-b3902cb05464.tsx",
+  "codeReference": "r2://components-code-private/unlumen/animate-count/code.1784355310790-497c10c9-49e5-425b-a013-b3902cb05464.tsx",
+  "codeUrl": "https://cdn.21st.dev/unlumen/animate-count/code.1784355310790-497c10c9-49e5-425b-a013-b3902cb05464.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

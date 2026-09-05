@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "chart",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Visualize sales objections breakdown by category with interactive segment highlighting",
+    "Display budget allocation or spending distribution across multiple categories",
+    "Show market share or demographic breakdowns with animated segment reveals",
+    "Render survey results or feedback categorization with hover tooltips",
+    "Present revenue stream distribution with configurable center content for totals"
+  ],
+  "ai_summary": "An animated SVG donut chart component featuring staggered segment animations on load, hover highlighting with drop-shadow effects, and configurable center content. Built with Framer Motion for smooth transitions and includes callback support for segment interactions. Supports custom sizing, stroke width, animation timing, and passes through standard HTML div props for flexibility in various data visualization scenarios.",
+  "_classifiedAt": "2026-04-22T08:58:06.976Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

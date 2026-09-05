@@ -1,0 +1,30 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "contributors-table",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying team contributor information including names, emails, and locations",
+    "Managing and tracking contributor payment status and payout amounts",
+    "Providing an at-a-glance view of contributor activity status across a platform"
+  ],
+  "ai_summary": "A clean, minimalist data table component for displaying contributor information including names, emails, locations, activity status, and payout amounts. Features hover interactions on rows and status-based styling with colored badges for easy data scanning. Built using a reusable table component system with proper semantic HTML structure for accessibility.",
+  "_classifiedAt": "2026-04-23T17:17:23.304Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

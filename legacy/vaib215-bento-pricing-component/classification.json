@@ -1,0 +1,32 @@
+{
+  "category": [
+    "pricing"
+  ],
+  "subcategory": "bento-grid",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display multiple pricing plans in a bento-grid layout for easy comparison",
+    "Toggle between monthly and yearly billing cycles with dynamic price updates",
+    "Show feature comparison across different pricing tiers with checkmark icons",
+    "Highlight popular or recommended plans with custom badges",
+    "Redirect users to checkout flow based on selected plan"
+  ],
+  "ai_summary": "A bento-grid styled pricing component that displays multiple subscription plans in a visually organized grid layout. Features a monthly/yearly billing toggle switch with dynamic price calculations and feature lists with checkmark/X icons for comparison. Includes support for popular plan badges, customizable grid classes for different card widths, and a clean card-based UI structure.",
+  "_classifiedAt": "2026-04-23T17:40:52.033Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

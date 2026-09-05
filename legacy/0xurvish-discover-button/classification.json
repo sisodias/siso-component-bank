@@ -1,0 +1,25 @@
+{
+  "category": "navigation",
+  "subcategory": "searchable-tab-bar",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Content discovery and filtering in media or e-commerce platforms",
+    "Tab-based navigation between different content categories like Popular and Favorites",
+    "Search expansion interface for dashboards or app navigation bars",
+    "Product or resource filtering controls in SaaS applications",
+    "Navigation menus with expandable search functionality"
+  ],
+  "ai_summary": "A discover button component combining tabbed navigation with an expandable search input. Features animated search expansion using Framer Motion's spring physics, dual-state tabs for Popular/Favorites filtering, and integrates Hugeicons for visual indicators. Designed as a reusable navigation element for content-heavy applications requiring search and category filtering.",
+  "_classifiedAt": "2026-04-22T08:50:22.944Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

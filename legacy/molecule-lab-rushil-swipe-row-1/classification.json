@@ -1,0 +1,36 @@
+{
+  "category": [
+    "data-display",
+    "card"
+  ],
+  "subcategory": "avatar",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying user profile pictures in lists, tables, or cards",
+    "Representing user identity in notification or message components",
+    "Showing author or contributor avatars in content feeds",
+    "Displaying customer avatars in e-commerce order management",
+    "User identification in admin dashboards or team management interfaces"
+  ],
+  "ai_summary": "A Radix UI-based Avatar component with Image and Fallback subcomponents. Displays circular user profile images with automatic fallback to initials or placeholder when images fail to load. Uses Tailwind for styling with a clean, minimal design that integrates seamlessly into any data table, card, or list component.",
+  "_classifiedAt": "2026-04-23T17:01:21.713Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

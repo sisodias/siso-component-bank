@@ -1,0 +1,26 @@
+{
+  "id": "meschacirung__forgot-password",
+  "author": "meschacirung",
+  "slug": "forgot-password",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@meschacirung/components/forgot-password",
+  "fetchedAt": "2026-08-29T05:40:54.504Z",
+  "completedAt": "2026-08-29T05:40:56.835Z",
+  "versionedFilename": "code.1751848179347.tsx",
+  "codeReference": "r2://components-code-private/larsen66/forgot-password/code.1751848179347.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/forgot-password/code.1751848179347.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2603,
+  "sha256": "1091cd95f5aaa3a193bcd171ab7d0423783e44720942ec3447a0cab869c0aca8",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

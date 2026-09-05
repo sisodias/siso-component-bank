@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "mazyar kawa-cpu-architecture",
+  "type": "registry:ui",
+  "title": "Mazyar Kawa Cpu Architecture",
+  "description": "Installed from https://21st.dev/r/Mazyar kawa/cpu-architecture",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "mazyar kawa-cpu-architecture"
+  ],
+  "files": [
+    {
+      "path": "cpu-architecture.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/Mazyar kawa/cpu-architecture",
+    "fetchedAt": "2026-04-22T06:32:02.841Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

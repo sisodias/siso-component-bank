@@ -1,0 +1,33 @@
+{
+  "category": "data-display",
+  "subcategory": "interactive-3d-globe-map",
+  "visual_style": [
+    "3d",
+    "colorful"
+  ],
+  "interactions": [
+    "drag",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying travel destinations or bucket list locations on a personal portfolio",
+    "Showing points of interest for a travel booking or review platform",
+    "Visualizing office locations or franchise branches for enterprise applications",
+    "Creating interactive location-based storytelling experiences",
+    "Mapping social connections or event locations in community apps"
+  ],
+  "ai_summary": "An interactive 3D globe component built with the COBE WebGL library, featuring colorful labeled markers at geographic coordinates. Users can drag to rotate the globe, revealing location labels with customizable text and colors. The component uses pointer events for cross-platform interaction support and includes preset travel-themed markers as default data.",
+  "_classifiedAt": "2026-04-22T09:16:51.261Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

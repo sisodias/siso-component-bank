@@ -1,0 +1,28 @@
+{
+  "category": "card",
+  "subcategory": "interactive-hover-card",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive hover card that reveals content with smooth animations when the user hovers over elements.",
+    "Custom pointer cursor that follows the mouse position with a smooth scale-in effect on card hover.",
+    "Product or information cards with dark mode support and professional dark gray styling.",
+    "Preview cards for SaaS dashboards or e-commerce product listings with engaging micro-interactions."
+  ],
+  "ai_summary": "An interactive hover card component with custom pointer tracking built using Framer Motion. The component features smooth reveal animations, mouse-following cursor effects, and dark mode support. It uses a minimalist aesthetic with dark gray styling and is designed for SaaS dashboards, e-commerce product cards, or any interface requiring engaging hover interactions.",
+  "_classifiedAt": "2026-04-23T01:44:32.553Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

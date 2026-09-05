@@ -1,0 +1,32 @@
+{
+  "category": "media",
+  "subcategory": "3d-infinite-gallery",
+  "visual_style": [
+    "3d",
+    "gradient"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "system",
+  "use_cases": [
+    "Photography portfolios and visual galleries with immersive 3D browsing",
+    "E-commerce product showcases with cloth-like material effects",
+    "Creative agency showcases with infinite scroll animation",
+    "Art galleries and exhibition displays with depth-based fade effects",
+    "Fashion and lifestyle brand showcases with blur transitions"
+  ],
+  "ai_summary": "An immersive 3D photography gallery built with React Three Fiber featuring infinite scroll animation with cloth-like shader material effects. Images float in 3D space with configurable depth-based fade and blur transitions, supporting hover interactions and smooth scroll-driven animations. Designed for media-rich displays like photography portfolios, e-commerce product grids, and creative agency showcases.",
+  "_classifiedAt": "2026-04-23T01:43:48.351Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

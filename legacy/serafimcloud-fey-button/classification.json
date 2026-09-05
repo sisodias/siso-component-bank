@@ -1,0 +1,29 @@
+{
+  "category": "form",
+  "subcategory": "theme-adaptive gradient button",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action trigger in SaaS dashboards and admin panels",
+    "Theme-aware CTA buttons in landing pages",
+    "Premium-feel interactive elements for fintech applications",
+    "Lock/unlock state toggles in authentication flows",
+    "Form submission triggers with hover feedback states"
+  ],
+  "ai_summary": "A premium gradient button component with glass-morphism styling that adapts its visual treatment based on light/dark theme resolution. Features radial gradient backgrounds, inset dual shadows for depth, theme-aware stroke colors on the lock icon, and rounded pill styling. Built with next-themes for automatic dark/light mode detection and includes hover glow interactions through CSS group classes.",
+  "_classifiedAt": "2026-04-23T17:25:14.881Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

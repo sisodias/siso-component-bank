@@ -1,0 +1,32 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "audio-waveform-visualizer",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display audio waveform visualization in podcast players or music apps",
+    "Show voice recording amplitude in text-to-speech applications",
+    "Render AI-generated audio output in ElevenLabs-style interfaces",
+    "Interactive audio scrubbing with click-to-seek functionality",
+    "Real-time audio visualization in web-based audio editors"
+  ],
+  "ai_summary": "A canvas-based waveform visualization component that renders audio amplitude data as vertical bars with configurable styling including width, gap, radius, and color. Features fade edge effects, responsive resizing via ResizeObserver, and click interaction support for bar selection. Designed for audio-focused applications requiring real-time or pre-rendered waveform display.",
+  "_classifiedAt": "2026-04-22T08:58:48.773Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

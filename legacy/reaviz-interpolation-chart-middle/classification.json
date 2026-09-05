@@ -1,0 +1,28 @@
+{
+  "category": "data-display",
+  "subcategory": "funnel chart",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Visualizing conversion funnels for incident management workflows",
+    "Tracking event-to-resolution pipelines in monitoring dashboards",
+    "Displaying alert triage and escalation processes",
+    "Analyzing user journey drop-off points in SaaS applications",
+    "Showing data filtering stages for DevOps and monitoring tools"
+  ],
+  "ai_summary": "A reaviz-based funnel chart component displaying a conversion flow from 1000 events through alerts, incidents, escalation, and resolution stages. Features glass-morphism styling with smooth framer-motion animations and interactive tooltips. Optimized for incident response workflows, monitoring dashboards, and SaaS analytics where tracking event drop-off rates is critical.",
+  "_classifiedAt": "2026-04-23T17:15:24.765Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

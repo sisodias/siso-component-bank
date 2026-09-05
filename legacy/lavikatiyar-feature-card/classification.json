@@ -1,0 +1,41 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "feature-highlight",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "creator-tools",
+    "media",
+    "education",
+    "real-estate",
+    "healthcare",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display product or service features on a landing page",
+    "Highlight key benefits in a feature grid layout",
+    "Present service offerings with icons and descriptions",
+    "Showcase tool capabilities in a documentation page",
+    "Organize pricing tier features or included functionalities"
+  ],
+  "ai_summary": "A lightweight, reusable feature card component built with shadcn/ui patterns. Displays an icon, title, and description in a centered layout with a subtle hover lift animation. Uses semantic card styling with theme-adaptive colors and rounded corners, making it suitable for showcasing features across various industries and landing pages.",
+  "_classifiedAt": "2026-04-22T09:04:22.943Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

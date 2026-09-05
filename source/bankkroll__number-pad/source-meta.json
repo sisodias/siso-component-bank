@@ -1,0 +1,26 @@
+{
+  "id": "bankkroll__number-pad",
+  "author": "bankkroll",
+  "slug": "number-pad",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@bankkroll/components/number-pad",
+  "fetchedAt": "2026-08-29T03:48:09.369Z",
+  "completedAt": "2026-08-29T03:48:11.493Z",
+  "versionedFilename": "code.1751642012138.tsx",
+  "codeReference": "r2://components-code-private/bankkroll/number-pad/code.1751642012138.tsx",
+  "codeUrl": "https://cdn.21st.dev/bankkroll/number-pad/code.1751642012138.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10610,
+  "sha256": "8f443bdb52ed69b8717178eaa912b3829ce37f7854ab8b7a39905dc348c2ea80",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,24 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action triggers in forms and dialogs",
+    "Navigation and menu action buttons throughout applications",
+    "Destructive action confirmations with variant styling",
+    "Ghost-style secondary actions for inline UI contexts",
+    "Accessible interactive elements with keyboard navigation support"
+  ],
+  "ai_summary": "A reusable React button component with multiple style variants and sizes, built with Radix UI Slot for composition and class-variance-authority for type-safe variant handling. Provides consistent styling across default, outline, secondary, ghost, destructive, and link variants with proper hover, focus, and disabled states for accessible user interactions.",
+  "_classifiedAt": "2026-04-23T16:33:26.426Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

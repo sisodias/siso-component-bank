@@ -1,0 +1,26 @@
+{
+  "id": "airbnb-visx__bar-stac",
+  "author": "airbnb-visx",
+  "slug": "bar-stac",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@airbnb-visx/components/bar-stac",
+  "fetchedAt": "2026-08-29T03:31:31.818Z",
+  "completedAt": "2026-08-29T03:31:32.994Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null
+}

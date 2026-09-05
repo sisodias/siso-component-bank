@@ -1,0 +1,26 @@
+{
+  "id": "dhileepkumargm__foxy-hero",
+  "author": "dhileepkumargm",
+  "slug": "foxy-hero",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dhileepkumargm/components/foxy-hero",
+  "fetchedAt": "2026-08-29T04:28:47.104Z",
+  "completedAt": "2026-08-29T04:28:49.423Z",
+  "versionedFilename": "code.1760254326337.tsx",
+  "codeReference": "r2://components-code-private/dhileepkumargm/foxy-hero/code.1760254326337.tsx",
+  "codeUrl": "https://cdn.21st.dev/dhileepkumargm/foxy-hero/code.1760254326337.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 28441,
+  "sha256": "9ccc10ec7e58522429c40a7e1c6f9055383a4fd1e4865ac6cf05a857199d1bbd",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

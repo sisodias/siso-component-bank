@@ -1,0 +1,37 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "status-badge",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display status labels such as active, inactive, or pending states",
+    "Show notification counts or category tags",
+    "Indicate validation states in forms (success, error, warning)",
+    "Mark products as new, sale, or featured in e-commerce",
+    "Display version numbers or technical metadata in dev tools"
+  ],
+  "ai_summary": "A reusable badge component with four style variants (default, secondary, destructive, outline) using class-variance-authority for flexible theming. Features rounded pill styling with hover transitions and focus ring accessibility. Ideal for displaying status indicators, labels, and counts in dashboards, forms, or product listings across various industries.",
+  "_classifiedAt": "2026-04-23T17:16:22.802Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

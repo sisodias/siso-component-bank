@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "radio-toggle",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Toggle between system, light, and dark theme preferences in an application UI",
+    "Persist user theme preference across sessions using localStorage",
+    "Respect system color scheme preferences when set to system mode"
+  ],
+  "ai_summary": "A minimalist theme switcher component that provides a pill-shaped radio button group for selecting between system, light, and dark modes. It uses localStorage for persistence and window.matchMedia for system preference detection, making it ideal for any web application that supports theme switching with a clean, accessible interface.",
+  "_classifiedAt": "2026-04-23T17:32:00.571Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

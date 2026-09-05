@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "scrollable-viewport",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying overflowing text content within a bounded container with native scroll behavior",
+    "Creating scrollable areas for long-form content like articles, descriptions, or documentation",
+    "Implementing accessible scroll containers with keyboard focus support",
+    "Containing user-generated content that may exceed fixed height constraints"
+  ],
+  "ai_summary": "A lightweight scrollable viewport component from Base UI that renders overflowing content within fixed dimensions. Features native scroll behavior with overscroll containment, rounded corners, and accessibility-focused focus-visible states. Designed as an atomic building block for containing long-form text or content that exceeds container bounds.",
+  "_classifiedAt": "2026-04-23T11:32:29.507Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

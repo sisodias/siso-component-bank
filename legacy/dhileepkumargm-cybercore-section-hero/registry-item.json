@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "dhileepkumargm-cybercore-section-hero",
+  "type": "registry:ui",
+  "title": "Dhileepkumargm Cybercore Section Hero",
+  "description": "Installed from https://21st.dev/r/dhileepkumargm/cybercore-section-hero",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "dhileepkumargm-cybercore-section-hero"
+  ],
+  "files": [
+    {
+      "path": "cybercore-section-hero.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/dhileepkumargm/cybercore-section-hero",
+    "fetchedAt": "2026-04-23T01:16:14.548Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "content-container",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Container for dashboard content sections with customizable styling",
+    "Feature or benefit cards in product landing pages",
+    "Information display cards in admin interfaces",
+    "Content grouping with headers, titles, and descriptions",
+    "Flexible wrapper with multiple size and variant options"
+  ],
+  "ai_summary": "A versatile, customizable card component with multiple visual variants (default with border, outline with hover effects, ghost with hover background) and four size options. Built with class-variance-authority for type-safe variant handling, includes subcomponents for CardHeader, CardTitle, CardDescription, and more. Features smooth 300ms transitions and clean, minimal design suitable for various UI contexts from dashboards to landing pages.",
+  "_classifiedAt": "2026-04-23T17:07:12.601Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

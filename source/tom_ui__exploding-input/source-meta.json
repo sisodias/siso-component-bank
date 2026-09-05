@@ -1,0 +1,33 @@
+{
+  "id": "tom_ui__exploding-input",
+  "author": "tom_ui",
+  "slug": "exploding-input",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@tom_ui/components/exploding-input",
+  "fetchedAt": "2026-08-29T07:38:24.638Z",
+  "completedAt": "2026-08-29T07:38:26.564Z",
+  "versionedFilename": "code.1785371340976-fed1bbf8-6786-451e-ad5c-1cfc0e7ae9db.tsx",
+  "codeReference": "r2://components-code-private/tom_ui/exploding-input/code.1785371340976-fed1bbf8-6786-451e-ad5c-1cfc0e7ae9db.tsx",
+  "codeUrl": "https://cdn.21st.dev/tom_ui/exploding-input/code.1785371340976-fed1bbf8-6786-451e-ad5c-1cfc0e7ae9db.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/tom_ui__exploding-input/code.tsx",
+    "bytes": 12047,
+    "sha256": "b4fd1b38b22d1285d522364192ebcc2688fce7c68e6bb7d791ce20a136cad212",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "animated-button",
+  "visual_style": [
+    "gradient-border"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary action trigger for starting user flows or processes",
+    "Call-to-action button for SaaS dashboards and landing pages",
+    "Animated navigation or menu trigger buttons",
+    "Interactive form submission or confirmation button",
+    "Visual indicator for multi-step workflows or onboarding flows"
+  ],
+  "ai_summary": "Tom_ui Flow Button is an animated button component featuring a distinctive flowing SVG border animation that creates a dynamic, eye-catching visual effect. The component supports three size variants (sm, default, lg) and customizable border colors, making it ideal for creating engaging CTAs in SaaS applications, e-commerce checkouts, and interactive dashboards. Uses Radix UI Slot for composition and includes smooth animations triggered on hover.",
+  "_classifiedAt": "2026-04-22T09:18:01.441Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

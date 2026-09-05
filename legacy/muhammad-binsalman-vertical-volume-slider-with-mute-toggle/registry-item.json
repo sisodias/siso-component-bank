@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "muhammad-binsalman-vertical-volume-slider-with-mute-toggle",
+  "type": "registry:ui",
+  "title": "Muhammad Binsalman Vertical Volume Slider With Mute Toggle",
+  "description": "Installed from https://21st.dev/r/muhammad-binsalman/vertical-volume-slider-with-mute-toggle",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "muhammad-binsalman-vertical-volume-slider-with-mute-toggle"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "vertical-volume-slider-with-mute-toggle.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/muhammad-binsalman/vertical-volume-slider-with-mute-toggle",
+    "fetchedAt": "2026-04-23T03:02:57.353Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

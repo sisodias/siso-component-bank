@@ -1,0 +1,26 @@
+{
+  "id": "itsankitverma__credit-card-2",
+  "author": "itsankitverma",
+  "slug": "credit-card-2",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@itsankitverma/components/credit-card-2",
+  "fetchedAt": "2026-08-29T05:03:57.426Z",
+  "completedAt": "2026-08-29T05:03:59.588Z",
+  "versionedFilename": "code.1759412942232.tsx",
+  "codeReference": "r2://components-code-private/itsankitverma/credit-card-2/code.1759412942232.tsx",
+  "codeUrl": "https://cdn.21st.dev/itsankitverma/credit-card-2/code.1759412942232.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 9356,
+  "sha256": "2271633a25628a82d278834215263178e12feb62fc787ca0db9d4b3526d8e02f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

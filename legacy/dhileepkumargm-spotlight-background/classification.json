@@ -1,0 +1,30 @@
+{
+  "category": "layout",
+  "subcategory": "animated-spotlight-background",
+  "visual_style": [],
+  "interactions": [
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero sections with dynamic animated lighting that creates depth and visual interest",
+    "Landing page backgrounds with continuous spotlight motion for brand presentations",
+    "Section wrappers that add ambient motion without distracting from content",
+    "Premium product showcases requiring sophisticated visual atmosphere",
+    "Event or marketing pages needing eye-catching animated backgrounds"
+  ],
+  "ai_summary": "An animated background container component featuring multiple spotlight elements that move in orchestrated patterns using Framer Motion. The component wraps content while overlaying three independently animated light spots with different durations, delays, and movement trajectories to create a dynamic, depth-filled visual effect suitable for hero sections and landing pages.",
+  "_classifiedAt": "2026-04-22T08:57:56.520Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

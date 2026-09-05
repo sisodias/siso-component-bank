@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@thegridcn/components/energy-meter",
+  "author": "thegridcn",
+  "slug": "energy-meter",
+  "name": "energy-meter",
+  "description": "A segmented energy/power level meter with animated staggered fill, an animated percentage counter, and color-coded critical/warning states in a Tron-style HUD panel.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/thegridcn/energy-meter?api_key=$API_KEY_21ST\"",
+  "id": "thegridcn__energy-meter",
+  "bundleUrl": "https://cdn.21st.dev/thegridcn/energy-meter/default/bundle.1786711736436-093807e9-01e0-404c-b2b6-04566833709b.html",
+  "previewUrl": "https://cdn.21st.dev/thegridcn/energy-meter/default/preview.1786711736436-093807e9-01e0-404c-b2b6-04566833709b.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "maxim.bort.devel-playing-card",
+  "type": "registry:ui",
+  "title": "Maxim.Bort.Devel Playing Card",
+  "description": "Installed from https://21st.dev/r/maxim.bort.devel/playing-card",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "maxim.bort.devel-playing-card"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "playing-card.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@react-three/fiber",
+    "next",
+    "three"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/maxim.bort.devel/playing-card",
+    "fetchedAt": "2026-04-23T03:03:48.773Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

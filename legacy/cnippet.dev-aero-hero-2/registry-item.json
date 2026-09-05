@@ -1,0 +1,53 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "cnippet.dev-aero-hero-2",
+  "type": "registry:ui",
+  "title": "Cnippet.Dev Aero Hero 2",
+  "description": "Installed from https://21st.dev/r/cnippet.dev/aero-hero-2",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "cnippet.dev-aero-hero-2"
+  ],
+  "files": [
+    {
+      "path": "aero-hero-2.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "avatar.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@base-ui/react",
+    "@radix-ui/react-avatar",
+    "class-variance-authority",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "imports 21st.dev internal demo harness (@/demos/ui/avatar)"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/cnippet.dev/aero-hero-2",
+    "fetchedAt": "2026-04-22T06:31:56.540Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

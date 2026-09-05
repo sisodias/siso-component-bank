@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@componentry/components/circuit-board",
+  "author": "componentry",
+  "slug": "circuit-board",
+  "name": "circuit-board",
+  "description": "An interactive circuit board layout with labeled nodes and animated electricity pulses that travel along right-angle traces between connected nodes.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/componentry/circuit-board?api_key=$API_KEY_21ST\"",
+  "id": "componentry__circuit-board",
+  "bundleUrl": "https://cdn.21st.dev/componentry/circuit-board/default/bundle.1784452144794-c0f9ad8b-0450-46b1-a86f-7c3e48963ca9.html",
+  "previewUrl": "https://cdn.21st.dev/componentry/circuit-board/default/preview.1784452144794-c0f9ad8b-0450-46b1-a86f-7c3e48963ca9.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

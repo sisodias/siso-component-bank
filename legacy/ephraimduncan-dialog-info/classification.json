@@ -1,0 +1,27 @@
+{
+  "category": "overlay",
+  "subcategory": "info-dialog",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying user profile information in a modal overlay",
+    "Showing detailed information about an item or entity",
+    "Presenting confirmation dialogs with contextual data",
+    "Form-based dialogs for user input or settings"
+  ],
+  "ai_summary": "A Radix UI-based dialog component for displaying information overlays with integrated avatar, label, and button components. Built with Tailwind CSS and Radix primitives for accessible modal behavior, commonly used in SaaS and web applications to present contextual information or user details in a focused overlay.",
+  "_classifiedAt": "2026-04-23T16:39:02.185Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

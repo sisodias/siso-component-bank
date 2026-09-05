@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "sshahaider-dotted-surface",
+  "type": "registry:ui",
+  "title": "Sshahaider Dotted Surface",
+  "description": "Installed from https://21st.dev/r/sshahaider/dotted-surface",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "sshahaider-dotted-surface"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "dotted-surface.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "next-themes",
+    "three"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/sshahaider/dotted-surface",
+    "fetchedAt": "2026-04-23T01:17:56.516Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

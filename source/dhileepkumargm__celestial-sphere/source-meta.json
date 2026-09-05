@@ -1,0 +1,33 @@
+{
+  "id": "dhileepkumargm__celestial-sphere",
+  "author": "dhileepkumargm",
+  "slug": "celestial-sphere",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dhileepkumargm/components/celestial-sphere",
+  "fetchedAt": "2026-08-29T04:26:59.212Z",
+  "completedAt": "2026-08-29T04:27:01.414Z",
+  "versionedFilename": "code.1785262197397-60438d45-d162-449d-9dde-b7370c1c8127.tsx",
+  "codeReference": "r2://components-code-private/dhileepkumargm/celestial-sphere/code.1785262197397-60438d45-d162-449d-9dde-b7370c1c8127.tsx",
+  "codeUrl": "https://cdn.21st.dev/dhileepkumargm/celestial-sphere/code.1785262197397-60438d45-d162-449d-9dde-b7370c1c8127.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/dhileepkumargm__celestial-sphere/code.tsx",
+    "bytes": 5691,
+    "sha256": "ab32586ec848d96c4e5e787e6efe1c318e322dac186d5fb2cffa2aa57f1aecf5",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

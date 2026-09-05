@@ -1,0 +1,42 @@
+{
+  "category": [
+    "form",
+    "input"
+  ],
+  "subcategory": "button-with-variants",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Primary call-to-action button for forms and dialogs across web applications",
+    "Navigation triggers and link-style buttons for routing",
+    "Destructive action buttons with visual warning styling",
+    "Icon-only buttons for compact toolbar interfaces",
+    "Ghost/outline buttons for secondary actions in modal and card contexts"
+  ],
+  "ai_summary": "A versatile button component with multiple visual variants (default, destructive, outline, secondary, ghost, link) and size options (default, sm, lg, icon). Built on Radix UI's Slot pattern for composition support, with accessible focus states, disabled states, and hover transitions. Features subtle shadow effects and rounded corners in a minimalist flat style suitable for any modern web application.",
+  "_classifiedAt": "2026-04-22T09:13:14.614Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,27 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in forms and web applications",
+    "Secondary action buttons with outline and ghost variants",
+    "Icon-only buttons for compact UI spaces",
+    "Loading state support for asynchronous actions",
+    "Accessible buttons with focus-visible ring styling"
+  ],
+  "ai_summary": "A reusable React button component built with Radix UI Slot and class-variance-authority for variant management. Supports 6 variants (default, destructive, outline, secondary, ghost, link) and 5 sizes (default, sm, lg, xl, icon). Includes loading states, optional left/right icons, asChild prop for polymorphic behavior, and accessibility-focused focus-visible rings.",
+  "_classifiedAt": "2026-04-23T17:10:05.964Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

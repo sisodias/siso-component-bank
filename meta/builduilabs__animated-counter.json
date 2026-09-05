@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@builduilabs/components/animated-counter",
+  "author": "builduilabs",
+  "slug": "animated-counter",
+  "name": "animated-counter",
+  "description": "A counter that animates in response to React state changes.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/builduilabs/animated-counter?api_key=$API_KEY_21ST\"",
+  "id": "builduilabs__animated-counter",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1445.html",
+  "previewUrl": "https://cdn.21st.dev/user_builduilabs/animated-counter.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

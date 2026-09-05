@@ -1,0 +1,35 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "base-card-primitive",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display structured content sections with header, body, and footer regions in dashboard or listing interfaces",
+    "Create product cards in e-commerce catalog layouts",
+    "Build article or blog post preview cards with title, description, and metadata",
+    "Compose dashboard widgets with consistent card styling across SaaS applications",
+    "Design pricing tier or feature highlight cards with customizable content areas"
+  ],
+  "ai_summary": "A modular card component system with five composable sub-components (Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter) following Shadcn UI patterns. Features a minimalist flat design with subtle shadows and rounded borders. Ships as atomic primitives for maximum flexibility in building complex card-based layouts like dashboards, product catalogs, or article previews.",
+  "_classifiedAt": "2026-04-23T01:50:20.942Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tom_ui__flow-button",
+  "author": "tom_ui",
+  "slug": "flow-button",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@tom_ui/components/flow-button",
+  "fetchedAt": "2026-08-29T07:38:28.944Z",
+  "completedAt": "2026-08-29T07:38:31.457Z",
+  "versionedFilename": "code.1773090683139.tsx",
+  "codeReference": "r2://components-code-private/larsen66/flow-button/code.1773090683139.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/flow-button/code.1773090683139.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3970,
+  "sha256": "4bf70a493aeb9d5e7570bff4661181f57bcd85cac59cb950876ef61a5db644d5",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

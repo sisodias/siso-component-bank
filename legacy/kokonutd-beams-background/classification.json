@@ -1,0 +1,31 @@
+{
+  "category": "media",
+  "subcategory": "animated-canvas-background",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Full-page hero section backgrounds with atmospheric light effects",
+    "Landing page decorative backgrounds for SaaS products",
+    "Section dividers with animated beam overlays",
+    "Premium product showcase backgrounds with dynamic lighting",
+    "Creative portfolio backgrounds with subtle motion"
+  ],
+  "ai_summary": "A canvas-based animated background component that renders multiple atmospheric light beams with configurable intensity levels (subtle, medium, strong). The component creates moving, pulsing light rays with varying hues in the cyan-to-blue spectrum, using requestAnimationFrame for smooth 60fps rendering. Ideal for hero sections and landing pages that need a premium, modern aesthetic without sacrificing performance.",
+  "_classifiedAt": "2026-04-23T16:49:04.296Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

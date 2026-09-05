@@ -1,0 +1,27 @@
+{
+  "category": "input",
+  "subcategory": "theme-toggle-button",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Toggle between light and dark themes with smooth clip-path animations",
+    "Enhance user experience with animated view transitions on theme change",
+    "Add theme switching capability to navigation headers or settings panels",
+    "Provide visual feedback through animated Sun/Moon icon transitions",
+    "Integrate with existing dark mode class-based theming systems"
+  ],
+  "ai_summary": "An animated theme toggle button component that enables light/dark mode switching with smooth view transitions using the View Transitions API and Framer Motion. Features custom state management via a hook that observes document class changes, and supports horizontal or vertical clip-path animation effects. The button integrates Lucide icons (Sun/Moon) with morphing transitions for a polished dark/light mode toggle experience.",
+  "_classifiedAt": "2026-04-22T08:52:24.609Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

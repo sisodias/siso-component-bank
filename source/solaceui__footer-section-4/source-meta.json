@@ -1,0 +1,26 @@
+{
+  "id": "solaceui__footer-section-4",
+  "author": "solaceui",
+  "slug": "footer-section-4",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@solaceui/components/footer-section-4",
+  "fetchedAt": "2026-08-29T07:22:49.647Z",
+  "completedAt": "2026-08-29T07:22:52.226Z",
+  "versionedFilename": "code.1783728660801.tsx",
+  "codeReference": "r2://components-code-private/solaceui/footer-section-4/code.1783728660801.tsx",
+  "codeUrl": "https://cdn.21st.dev/solaceui/footer-section-4/code.1783728660801.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7129,
+  "sha256": "9e058fe35b2f8c6377b8c1078b783c256279eddf5711af44f39dfe6cb8f8fbf8",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

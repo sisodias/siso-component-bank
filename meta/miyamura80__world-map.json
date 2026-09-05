@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@miyamura80/components/world-map",
+  "author": "miyamura80",
+  "slug": "world-map",
+  "name": "world-map",
+  "description": "Wild map visualization to show data by individual country. ",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/miyamura80/world-map?api_key=$API_KEY_21ST\"",
+  "id": "miyamura80__world-map",
+  "bundleUrl": "https://cdn.21st.dev/miyamura80/world-map/default/bundle.1760198087178.html",
+  "previewUrl": "https://cdn.21st.dev/miyamura80/world-map/default/preview.1760198087178.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

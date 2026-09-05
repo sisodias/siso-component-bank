@@ -1,0 +1,26 @@
+{
+  "id": "maxim.bort.devel__simple-code-block",
+  "author": "maxim.bort.devel",
+  "slug": "simple-code-block",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@maxim.bort.devel/components/simple-code-block",
+  "fetchedAt": "2026-08-29T05:39:09.045Z",
+  "completedAt": "2026-08-29T05:39:11.471Z",
+  "versionedFilename": "code.1750158897192.tsx",
+  "codeReference": "r2://components-code-private/maxim.bort.devel/simple-code-block/code.1750158897192.tsx",
+  "codeUrl": "https://cdn.21st.dev/maxim.bort.devel/simple-code-block/code.1750158897192.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5887,
+  "sha256": "fc7823102b4dacd0a6fa4c2d00477e82e937281aabebf1b34b0a9730f8f1cd80",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

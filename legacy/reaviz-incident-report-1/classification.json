@@ -1,0 +1,27 @@
+{
+  "category": "data-display",
+  "subcategory": "heatmap, incident-monitoring, status-visualization",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Monitoring and visualizing service incident frequency across time periods",
+    "Displaying system health status with color-coded severity levels for dev-ops dashboards",
+    "Identifying patterns in on-call incident response times across days and hours",
+    "Tracking operational metrics in SaaS monitoring and alerting platforms",
+    "Representing engineering team workload and incident distribution"
+  ],
+  "ai_summary": "Reaviz Incident Report Heatmap is a data visualization component that displays incident data in a color-coded grid format. It maps incidents across two dimensions (likely time-based like days and hours) with red indicating severe incidents (67+), orange for moderate (34-66), and yellow for low severity. The component includes subtle glow effects on lower-severity cells and is designed for dev-ops and SaaS monitoring dashboards to track service health patterns.",
+  "_classifiedAt": "2026-04-23T17:15:00.584Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

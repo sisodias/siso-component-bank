@@ -1,0 +1,31 @@
+{
+  "category": "media",
+  "subcategory": "starfield-background",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Creates animated starfield backgrounds for landing pages",
+    "Adds cosmic visual effect to hero sections",
+    "Provides ambient motion for space or night-themed interfaces",
+    "Enhances portfolio or creative agency websites with star animations",
+    "Serves as decorative background for storytelling or dark-themed designs"
+  ],
+  "ai_summary": "A lightweight starfield background component that renders animated stars with configurable count, size, speed, and color. Uses CSS box-shadows to efficiently render multiple stars and motion/react for smooth vertical scrolling animation in an infinite loop. Perfect for creating immersive cosmic or night-sky effects on landing pages and hero sections.",
+  "_classifiedAt": "2026-04-23T11:33:24.806Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

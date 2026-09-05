@@ -1,0 +1,35 @@
+{
+  "category": "input",
+  "subcategory": "color-selector",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "drag",
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Select colors in design tools or creative software",
+    "Choose product colors in e-commerce product configuration",
+    "Pick accent colors for theme customization interfaces",
+    "Select brand colors in marketing or branding tools",
+    "Input colors in any form requiring visual color selection"
+  ],
+  "ai_summary": "A color picker input component featuring a saturation/brightness picker area with draggable thumb, hex input field, and color swatch trigger. Built on Ark UI with dark mode support, Portal positioning for overlay behavior, and focus/keyboard accessibility. Designed with minimalist flat styling suitable for design tools, e-commerce color selection, or theme customization interfaces.",
+  "_classifiedAt": "2026-04-23T01:35:47.954Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:28:28.956Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

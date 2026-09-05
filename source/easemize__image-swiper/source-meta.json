@@ -1,0 +1,26 @@
+{
+  "id": "easemize__image-swiper",
+  "author": "easemize",
+  "slug": "image-swiper",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@easemize/components/image-swiper",
+  "fetchedAt": "2026-08-29T04:38:04.849Z",
+  "completedAt": "2026-08-29T04:38:06.900Z",
+  "versionedFilename": "code.1748755462162.tsx",
+  "codeReference": "r2://components-code-private/easemize/image-swiper/code.1748755462162.tsx",
+  "codeUrl": "https://cdn.21st.dev/easemize/image-swiper/code.1748755462162.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7684,
+  "sha256": "61b1b55f25f1db786adafb9f0928e897e0df90c6894b270357d8797e97c8cb08",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

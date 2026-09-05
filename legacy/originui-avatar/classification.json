@@ -1,0 +1,29 @@
+{
+  "category": "data-display",
+  "subcategory": "user-profile",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display user profile pictures in dashboards and settings pages",
+    "Show author avatars alongside blog posts and articles",
+    "Render team member images in organizational charts",
+    "Display customer avatars in comments and reviews sections",
+    "Show participant thumbnails in video conferencing interfaces"
+  ],
+  "ai_summary": "A lightweight avatar component built on Radix UI primitives that displays user profile images with automatic fallback to initials when images fail to load. Features a rounded-full design with configurable sizing and styling. Ideal for SaaS dashboards, social platforms, and any application requiring user identity representation.",
+  "_classifiedAt": "2026-04-23T17:03:59.083Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

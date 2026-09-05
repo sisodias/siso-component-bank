@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action button for forms and dialogs",
+    "Destructive action triggers with variant styling",
+    "Navigation links styled as buttons with the link variant",
+    "Icon-only buttons for compact UI toolbars using the icon size variant"
+  ],
+  "ai_summary": "A versatile atomic button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, small, large, icon). Supports Radix UI slot pattern via asChild prop for composition. Features keyboard accessibility with focus-visible ring states and disabled opacity states. Built with class-variance-authority for type-safe variant prop handling.",
+  "_classifiedAt": "2026-04-23T16:28:41.659Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

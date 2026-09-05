@@ -1,0 +1,33 @@
+{
+  "id": "muhammad-binsalman__ethereal-beams-hero",
+  "author": "muhammad-binsalman",
+  "slug": "ethereal-beams-hero",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@muhammad-binsalman/components/ethereal-beams-hero",
+  "fetchedAt": "2026-08-29T05:53:37.952Z",
+  "completedAt": "2026-08-29T05:53:39.882Z",
+  "versionedFilename": "code.1785359183139-42fb642f-ffae-47ec-9842-328b2fbc9fe7.tsx",
+  "codeReference": "r2://components-code-private/muhammad-binsalman/ethereal-beams-hero/code.1785359183139-42fb642f-ffae-47ec-9842-328b2fbc9fe7.tsx",
+  "codeUrl": "https://cdn.21st.dev/muhammad-binsalman/ethereal-beams-hero/code.1785359183139-42fb642f-ffae-47ec-9842-328b2fbc9fe7.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/muhammad-binsalman__ethereal-beams-hero/code.tsx",
+    "bytes": 19783,
+    "sha256": "f49ce0f0f196c5ecea632657465e0893be2e6de168dc1a2139b70c8016c6ee36",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

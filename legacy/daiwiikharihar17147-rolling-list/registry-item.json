@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "daiwiikharihar17147-rolling-list",
+  "type": "registry:ui",
+  "title": "Daiwiikharihar17147 Rolling List",
+  "description": "Installed from https://21st.dev/r/daiwiikharihar17147/rolling-list",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "daiwiikharihar17147-rolling-list"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "rolling-list.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "next"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/daiwiikharihar17147/rolling-list",
+    "fetchedAt": "2026-04-22T06:32:23.424Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "category": [
+    "form",
+    "card",
+    "data-display"
+  ],
+  "subcategory": "e-commerce-checkout",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "retail"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying order summary with shipping and payment information",
+    "Capturing and applying promo codes during checkout",
+    "Providing a clean checkout interface for e-commerce transactions",
+    "Collecting user information before order completion"
+  ],
+  "ai_summary": "A minimalist e-commerce checkout component displaying order summary, shipping address, and payment method details. Features a promo code input form with React state management for code validation. Styled with soft shadows, rounded corners, and a warm orange background with teal accents. Designed for desktop and mobile platforms with a clean, professional aesthetic suitable for retail and e-commerce checkout flows.",
+  "_classifiedAt": "2026-04-23T17:16:14.391Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

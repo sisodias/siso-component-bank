@@ -1,0 +1,26 @@
+{
+  "id": "designali-in__keyboard",
+  "author": "designali-in",
+  "slug": "keyboard",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/keyboard",
+  "fetchedAt": "2026-08-29T04:19:24.573Z",
+  "completedAt": "2026-08-29T04:19:26.365Z",
+  "versionedFilename": "code.1748439331953.tsx",
+  "codeReference": "r2://components-code-private/designali-in/keyboard/code.1748439331953.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/keyboard/code.1748439331953.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10268,
+  "sha256": "3fe2db90e3d516714f90f1f83c536e19108ec7eefe64c08478bf9f1701a6d282",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

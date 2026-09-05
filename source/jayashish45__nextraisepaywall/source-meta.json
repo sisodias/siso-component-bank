@@ -1,0 +1,26 @@
+{
+  "id": "jayashish45__nextraisepaywall",
+  "author": "jayashish45",
+  "slug": "nextraisepaywall",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@jayashish45/components/nextraisepaywall",
+  "fetchedAt": "2026-08-29T05:09:03.385Z",
+  "completedAt": "2026-08-29T05:09:05.611Z",
+  "versionedFilename": "code.1782321983868.tsx",
+  "codeReference": "r2://components-code-private/jayashish45/nextraisepaywall/code.1782321983868.tsx",
+  "codeUrl": "https://cdn.21st.dev/jayashish45/nextraisepaywall/code.1782321983868.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 29259,
+  "sha256": "3d2763973829191be8da3924f237ee648b9b5d01c5b86609e16c99fd5373e67f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

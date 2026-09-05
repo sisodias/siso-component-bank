@@ -1,0 +1,26 @@
+{
+  "id": "hedevelope__live-visitor",
+  "author": "hedevelope",
+  "slug": "live-visitor",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@hedevelope/components/live-visitor",
+  "fetchedAt": "2026-08-29T04:55:45.286Z",
+  "completedAt": "2026-08-29T04:55:47.565Z",
+  "versionedFilename": "code.1765002213186.tsx",
+  "codeReference": "r2://components-code-private/hedevelope/live-visitor/code.1765002213186.tsx",
+  "codeUrl": "https://cdn.21st.dev/hedevelope/live-visitor/code.1765002213186.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6260,
+  "sha256": "d3576e957b2cd521e1a921ad761aa9511d6ef8eafc3ecfcd0432288ac864b5f3",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

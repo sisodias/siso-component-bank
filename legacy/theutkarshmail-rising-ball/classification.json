@@ -1,0 +1,25 @@
+{
+  "category": "feedback",
+  "subcategory": "loading-animation",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display loading states while fetching data or processing async operations",
+    "Indicate waiting periods during form submissions",
+    "Show progress feedback during page transitions",
+    "Universal loading indicator for any async workflow"
+  ],
+  "ai_summary": "A minimalist loader component featuring a rising ball animation. This atomic feedback component provides visual indication of loading or processing states. The component includes unused state management, suggesting potential for interactive loading scenarios, but currently serves as a simple CSS-animated loading spinner for universal use across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T17:35:45.242Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

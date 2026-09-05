@@ -1,0 +1,29 @@
+{
+  "category": "media",
+  "subcategory": "bento-gallery",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Showcasing portfolio pieces or creative work in an asymmetric grid layout",
+    "Displaying product images with interactive lightbox modal on click",
+    "Creating visual content grids for marketing or social media dashboards",
+    "Building image collections with smooth entry animations and staggered reveals",
+    "Enabling full-screen image viewing with backdrop blur overlay"
+  ],
+  "ai_summary": "A responsive Bento-style image gallery featuring an asymmetric grid layout with variable column spans, smooth Framer Motion animations for staggered item reveals, and an interactive full-screen modal with backdrop blur for focused image viewing. Uses Tailwind CSS for responsive grid sizing and includes a close button with hover states for accessibility.",
+  "_classifiedAt": "2026-04-23T01:46:01.073Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

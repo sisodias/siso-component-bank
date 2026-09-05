@@ -1,0 +1,26 @@
+{
+  "id": "dhmnpunit__mac-os-menu-bar",
+  "author": "dhmnpunit",
+  "slug": "mac-os-menu-bar",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dhmnpunit/components/mac-os-menu-bar",
+  "fetchedAt": "2026-08-29T04:34:19.266Z",
+  "completedAt": "2026-08-29T04:34:21.414Z",
+  "versionedFilename": "code.1761259683442.tsx",
+  "codeReference": "r2://components-code-private/dhmnpunit/mac-os-menu-bar/code.1761259683442.tsx",
+  "codeUrl": "https://cdn.21st.dev/dhmnpunit/mac-os-menu-bar/code.1761259683442.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 25944,
+  "sha256": "cfb186a3d6f602c20ee89ab0f74adc62746d250c29cd52034e01774a37812b72",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

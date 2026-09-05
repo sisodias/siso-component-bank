@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@reshaped/components/reshaped-autocomplete",
+  "author": "reshaped",
+  "slug": "reshaped-autocomplete",
+  "name": "reshaped-autocomplete",
+  "description": "Renders a TextField and a list of suggested values using Autocomplete.Item compound components. The list is shown when the user focuses the field and hidden once they select a value. Supports filtering, custom item composition with slots, multiline start slot and FormControl integration.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/reshaped/reshaped-autocomplete?api_key=$API_KEY_21ST\"",
+  "id": "reshaped__reshaped-autocomplete",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/reshaped-autocomplete/default/bundle.1783346257644.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/reshaped-autocomplete/default/preview.1783346257644.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

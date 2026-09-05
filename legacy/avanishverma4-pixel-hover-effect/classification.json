@@ -1,0 +1,30 @@
+{
+  "category": "input",
+  "subcategory": "pixel-hover-button",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Call-to-action buttons that need visual engagement to increase click-through rates",
+    "Product purchase or add-to-cart buttons in e-commerce with memorable hover interactions",
+    "Interactive menu items or navigation buttons requiring visual differentiation",
+    "Landing page CTAs where visual impact is crucial for user engagement",
+    "Gaming or entertainment platform interfaces needing dynamic pixel effects"
+  ],
+  "ai_summary": "A visually captivating pixel hover button component that creates individual pixels fading in with random delays when hovered, generating a dynamic mosaic effect. The button uses a CSS variable for customizable color theming and includes a grid background for context. This interactive element is ideal for creating memorable call-to-action moments in modern web applications, particularly suited for SaaS, e-commerce, and entertainment platforms seeking engaging user interactions.",
+  "_classifiedAt": "2026-04-22T08:53:18.959Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

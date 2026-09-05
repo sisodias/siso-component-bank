@@ -1,0 +1,26 @@
+{
+  "id": "owencope__green-border",
+  "author": "owencope",
+  "slug": "green-border",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@owencope/components/green-border",
+  "fetchedAt": "2026-08-29T06:01:55.763Z",
+  "completedAt": "2026-08-29T06:01:57.742Z",
+  "versionedFilename": "code.1786601721622-48278f82-90ad-402e-9d7f-80a510a5e59e.tsx",
+  "codeReference": "r2://components-code-private/owencope/green-border/code.1786601721622-48278f82-90ad-402e-9d7f-80a510a5e59e.tsx",
+  "codeUrl": "https://cdn.21st.dev/owencope/green-border/code.1786601721622-48278f82-90ad-402e-9d7f-80a510a5e59e.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

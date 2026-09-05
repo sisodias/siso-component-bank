@@ -1,0 +1,26 @@
+{
+  "id": "serafimcloud__question-tool",
+  "author": "serafimcloud",
+  "slug": "question-tool",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@serafimcloud/components/question-tool",
+  "fetchedAt": "2026-08-29T07:04:47.159Z",
+  "completedAt": "2026-08-29T07:04:49.383Z",
+  "versionedFilename": "code.1777645492303.tsx",
+  "codeReference": "r2://components-code-private/21st.dev/question-tool/code.1777645492303.tsx",
+  "codeUrl": "https://cdn.21st.dev/21st.dev/question-tool/code.1777645492303.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 18756,
+  "sha256": "e9b10faea28f0b404e5907d719878a039de7049b2556b6d287c9fe9fd58e0859",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

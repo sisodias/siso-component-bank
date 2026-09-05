@@ -1,0 +1,26 @@
+{
+  "id": "theutkarshmail__mario-game",
+  "author": "theutkarshmail",
+  "slug": "mario-game",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theutkarshmail/components/mario-game",
+  "fetchedAt": "2026-08-29T07:37:13.141Z",
+  "completedAt": "2026-08-29T07:37:15.622Z",
+  "versionedFilename": "code.1755208108219.tsx",
+  "codeReference": "r2://components-code-private/theutkarshmail/mario-game/code.1755208108219.tsx",
+  "codeUrl": "https://cdn.21st.dev/theutkarshmail/mario-game/code.1755208108219.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 36396,
+  "sha256": "55d32e3d7eb4abf55c4bb7b8b7185aa462ac439ebe7a6044268a1e6925c8562a",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

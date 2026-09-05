@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "file-upload",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Upload user profile pictures or avatars with instant image preview",
+    "Attach documents or files to support tickets in a helpdesk interface",
+    "Submit resume uploads in job application forms",
+    "Add media attachments to content creation or CMS platforms",
+    "Enable bulk file uploads with multi-file preview and removal in admin dashboards"
+  ],
+  "ai_summary": "A file uploader component featuring image preview generation, file removal with confirmation toast notifications, and smooth fade-in animations. Supports drag-and-drop style file selection with a clean, minimal interface that displays file previews or document icons. The component handles both image and non-image files, automatically generating previews for images while showing generic file icons for other formats.",
+  "_classifiedAt": "2026-04-23T16:45:29.681Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

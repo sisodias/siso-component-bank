@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "award",
+  "type": "registry:ui",
+  "title": "Awards",
+  "description": "Multi-variant awards component with 6 styles: stamp, award, certificate, badge, sticker, and id-card",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "award",
+    "badge",
+    "certificate",
+    "achievement",
+    "gamification",
+    "medal"
+  ],
+  "files": [
+    {
+      "path": "award.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "lucide-react"
+  ],
+  "registryDependencies": [
+    "award"
+  ],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "curationTags": []
+  }
+}

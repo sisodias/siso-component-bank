@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@originui/components/use-slider-with-input",
+  "author": "originui",
+  "slug": "use-slider-with-input",
+  "name": "use-slider-with-input",
+  "description": "A React hook that manages the state and logic for a slider component with corresponding input fields. Provides validation, range constraints, and synchronized updates between slider and input values.\n\nFeatures\n- Synchronized slider and input field values\n- Input validation and number formatting\n- Range constraints for min/max values\n- Support for single value or range (two handles)\n- Reset functionality to default values",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/originui/use-slider-with-input?api_key=$API_KEY_21ST\"",
+  "id": "originui__use-slider-with-input",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1441.html",
+  "previewUrl": "https://cdn.21st.dev/user_originui/use-slider-with-input.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 48,
+  "demo_id": 1441,
+  "video_url": "https://cdn.21st.dev/user_originui/use-slider-with-input/default/video.mp4"
+}

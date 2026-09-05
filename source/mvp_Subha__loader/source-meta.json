@@ -1,0 +1,26 @@
+{
+  "id": "mvp_Subha__loader",
+  "author": "mvp_Subha",
+  "slug": "loader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@mvp_Subha/components/loader",
+  "fetchedAt": "2026-08-29T05:55:11.199Z",
+  "completedAt": "2026-08-29T05:55:13.563Z",
+  "versionedFilename": "code.1753382949750.tsx",
+  "codeReference": "r2://components-code-private/larsen66/loader/code.1753382949750.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/loader/code.1753382949750.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 202,
+  "sha256": "c9fa2dceb9ab3444325ac207764e4c4a0103b5beda8b22279a512ccf57671e62",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

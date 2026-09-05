@@ -1,0 +1,31 @@
+{
+  "category": [
+    "card",
+    "media"
+  ],
+  "subcategory": "product-display",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying product images with consistent aspect ratio containers in e-commerce listings",
+    "Creating responsive image containers that maintain proportions across devices",
+    "Building gallery layouts where uniform image sizing is required"
+  ],
+  "ai_summary": "A minimal React wrapper around Radix UI's AspectRatio primitive, re-exported for use as a product image card container. This atomic component enforces consistent aspect ratios for images, commonly used in e-commerce product grids and media galleries. Provides responsive image containers that scale proportionally across different screen sizes without additional styling or interactions.",
+  "_classifiedAt": "2026-04-22T09:12:51.533Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

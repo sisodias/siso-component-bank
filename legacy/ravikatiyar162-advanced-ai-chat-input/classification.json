@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "chat-input, ai-composer, file-attachments",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "ai"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "AI chatbot interfaces requiring multi-modal input with text and file attachments",
+    "Support chat systems where users need to attach documents or images",
+    "Collaborative messaging platforms with rich input capabilities",
+    "Conversational AI assistants needing expandable text areas",
+    "Developer tools with integrated chat functionality for code assistance"
+  ],
+  "ai_summary": "A sophisticated chat input component built for AI-powered conversational interfaces, featuring auto-resizing textarea, animated file attachment handling with smooth height transitions, customizable action icons, and integrated send functionality. Composes Button and Textarea components with Framer Motion animations for a polished, production-ready chat composer experience.",
+  "_classifiedAt": "2026-04-22T09:08:40.381Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

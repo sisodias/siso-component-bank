@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "highlight-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying feature highlights with title, description, and supporting content",
+    "Creating modular card layouts for product or service listings",
+    "Building content sections with consistent card-based structure",
+    "Organizing information with clear visual hierarchy using card components"
+  ],
+  "ai_summary": "A versatile card component with modular sub-components (CardHeader, CardTitle, CardDescription, CardContent, CardFooter) for flexible content display. Built with standard Tailwind classes featuring subtle shadows and clean borders. This minimalist design serves as a foundational UI building block for displaying featured content, product highlights, or informational sections in SaaS and product interfaces.",
+  "_classifiedAt": "2026-04-23T11:32:52.644Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

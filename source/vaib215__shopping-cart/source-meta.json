@@ -1,0 +1,26 @@
+{
+  "id": "vaib215__shopping-cart",
+  "author": "vaib215",
+  "slug": "shopping-cart",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@vaib215/components/shopping-cart",
+  "fetchedAt": "2026-08-29T07:54:44.823Z",
+  "completedAt": "2026-08-29T07:54:47.108Z",
+  "versionedFilename": "code.1755785326324.tsx",
+  "codeReference": "r2://components-code-private/vaib215/shopping-cart/code.1755785326324.tsx",
+  "codeUrl": "https://cdn.21st.dev/vaib215/shopping-cart/code.1755785326324.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5339,
+  "sha256": "2302e046936b6a20664c89f2fff6248e128ca602b4425e9f78e47519f5d00899",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

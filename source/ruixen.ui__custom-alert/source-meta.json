@@ -1,0 +1,33 @@
+{
+  "id": "ruixen.ui__custom-alert",
+  "author": "ruixen.ui",
+  "slug": "custom-alert",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/custom-alert",
+  "fetchedAt": "2026-08-29T06:40:57.433Z",
+  "completedAt": "2026-08-29T06:40:58.472Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "page-soft404",
+  "failureClass": "soft-404",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/ruixen.ui__custom-alert/code.tsx",
+    "bytes": 2111,
+    "sha256": "539d7cf51b3ba193f7ed6ae7d2b8dc23e806c501c9e4ec743d8d515d8f1303be",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is page-soft404/soft-404."
+  }
+}

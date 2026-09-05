@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "diriktv-confetti-background",
+  "type": "registry:ui",
+  "title": "Diriktv Confetti Background",
+  "description": "Installed from https://21st.dev/r/diriktv/confetti-background",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "diriktv-confetti-background"
+  ],
+  "files": [
+    {
+      "path": "confetti-background.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/diriktv/confetti-background",
+    "fetchedAt": "2026-04-23T03:04:33.534Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

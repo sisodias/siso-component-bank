@@ -1,0 +1,26 @@
+{
+  "id": "felipemenezes098__comment-thread-1",
+  "author": "felipemenezes098",
+  "slug": "comment-thread-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@felipemenezes098/components/comment-thread-1",
+  "fetchedAt": "2026-08-29T04:48:09.990Z",
+  "completedAt": "2026-08-29T04:48:12.156Z",
+  "versionedFilename": "code.1784439916244-a344e495-0d99-4615-8a69-79aa862f1ece.tsx",
+  "codeReference": "r2://components-code-private/felipemenezes098/comment-thread-1/code.1784439916244-a344e495-0d99-4615-8a69-79aa862f1ece.tsx",
+  "codeUrl": "https://cdn.21st.dev/felipemenezes098/comment-thread-1/code.1784439916244-a344e495-0d99-4615-8a69-79aa862f1ece.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

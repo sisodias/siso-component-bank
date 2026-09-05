@@ -1,0 +1,26 @@
+{
+  "id": "designali-in__stamp",
+  "author": "designali-in",
+  "slug": "stamp",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/stamp",
+  "fetchedAt": "2026-08-29T04:21:19.594Z",
+  "completedAt": "2026-08-29T04:21:21.953Z",
+  "versionedFilename": "code.1751346214977.tsx",
+  "codeReference": "r2://components-code-private/designali-in/stamp/code.1751346214977.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/stamp/code.1751346214977.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 261,
+  "sha256": "fea9f500b1933ad41efac193e8d5a629596c26cea08a0f7e801b4cc4caf6157a",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

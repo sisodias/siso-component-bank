@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "minhxthanh-carousel-circular-image-gallery",
+  "type": "registry:ui",
+  "title": "Minhxthanh Carousel Circular Image Gallery",
+  "description": "Installed from https://21st.dev/r/minhxthanh/carousel-circular-image-gallery",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "minhxthanh-carousel-circular-image-gallery"
+  ],
+  "files": [
+    {
+      "path": "carousel-circular-image-gallery.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/minhxthanh/carousel-circular-image-gallery",
+    "fetchedAt": "2026-04-22T06:44:54.356Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

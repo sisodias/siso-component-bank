@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card",
+    "feedback"
+  ],
+  "subcategory": "curtain-reveal-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive product cards that reveal additional details on hover",
+    "Gallery or portfolio cards with overlay information that slides in smoothly",
+    "E-commerce quick-view cards with pricing and actions revealed on mouse enter",
+    "Dashboard widgets that expand footer content on interaction",
+    "Team member or testimonial cards with hidden bio information"
+  ],
+  "ai_summary": "A React card component with an animated curtain/wipe reveal effect that exposes footer content through a smooth clipPath animation on hover. Built with motion/react for physics-based transitions and React context for state management, it provides an elegant hover-triggered interaction pattern. The component uses Tailwind for layout and styling, featuring a responsive flex column structure with overflow handling, making it ideal for product showcases, galleries, and interactive card interfaces.",
+  "_classifiedAt": "2026-04-23T17:44:47.845Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

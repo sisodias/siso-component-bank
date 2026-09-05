@@ -1,0 +1,26 @@
+{
+  "id": "cult-ui__timer",
+  "author": "cult-ui",
+  "slug": "timer",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@cult-ui/components/timer",
+  "fetchedAt": "2026-08-29T04:04:07.924Z",
+  "completedAt": "2026-08-29T04:04:10.021Z",
+  "versionedFilename": "code.1783695372432.tsx",
+  "codeReference": "r2://components-code-private/cult-ui/timer/code.1783695372432.tsx",
+  "codeUrl": "https://cdn.21st.dev/cult-ui/timer/code.1783695372432.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 9175,
+  "sha256": "6b3bb58ad0bd006e2aff0afce5dd319e0ee35ee018b5f606c0f79c9693f2e09a",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

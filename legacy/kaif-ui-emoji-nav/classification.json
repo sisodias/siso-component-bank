@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Standard interactive button with multiple visual variants for SaaS applications",
+    "Accessible form submission button with keyboard navigation for fintech products",
+    "Icon-only button for e-commerce interfaces",
+    "Navigation action button with ghost styling for creator-tools",
+    "Primary CTA button for dev-tools dashboards"
+  ],
+  "ai_summary": "A reusable button component built on Radix UI primitives with CVA (class-variance-authority) for flexible styling. Supports 6 visual variants (default, destructive, outline, secondary, ghost, link) and 4 size options including icon button. Includes full accessibility support via focus-visible ring states and disabled state handling, making it a foundational atomic component for any UI system.",
+  "_classifiedAt": "2026-04-23T16:48:11.066Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

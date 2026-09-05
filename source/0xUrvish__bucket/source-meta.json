@@ -1,0 +1,26 @@
+{
+  "id": "0xUrvish__bucket",
+  "author": "0xUrvish",
+  "slug": "bucket",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@0xUrvish/components/bucket",
+  "fetchedAt": "2026-08-29T03:24:13.456Z",
+  "completedAt": "2026-08-29T03:24:15.657Z",
+  "versionedFilename": "code.1773296152351.tsx",
+  "codeReference": "r2://components-code-private/larsen66/bucket/code.1773296152351.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/bucket/code.1773296152351.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 34616,
+  "sha256": "303eb7a2606355de5e291f1cc2ef5f2cb0094e58049e0e00d8d13b266dbd53d5",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

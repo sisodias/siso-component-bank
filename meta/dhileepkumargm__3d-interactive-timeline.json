@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@dhileepkumargm/components/3d-interactive-timeline",
+  "author": "dhileepkumargm",
+  "slug": "3d-interactive-timeline",
+  "name": "3d-interactive-timeline",
+  "description": "Usage Instructions\nInstall required dependencies:\nbash\nnpm install framer-motion react-intersection-observer react-icons\n# or with yarn\nyarn add framer-motion react-intersection-observer react-icons\nMake sure you have Tailwind CSS set up in your project. If not, follow the official Tailwind installation guide.\n\nCopy both component files into your project.\n\nImport and use the component:\n\njsx\nimport TimelineDemo from './path/to/TimelineDemo';\n\nfunction App() {\n  return (\n    <div className=\"App\">\n      <TimelineDemo />\n    </div>\n  );\n}\nKey Features\nImmersive 3D Effects: Parallax movement and perspective transformations create a sense of depth\nInteractive Elements: Cards respond to mouse hover with subtle 3D rotations\nAnimated Timeline Nodes: Visual indicators pulse when active\nResponsive Design: Adapts beautifully from mobile to desktop\nCustomizable: Easy theming via props for colors and styling\nPerformance Optimized: Uses Intersection Observer for efficient rendering\nAnimated Backgrounds: Subtle floating elements create depth\nDynamic Content Reveal: Description text expands on interaction\nImage Support: Optional image display with hover effects\nAccessibility: Proper keyboard navigation and semantic markup\nThis timeline component creates an immersive storytelling experience that will captivate users with its depth, interactivity, and visual polish.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/dhileepkumargm/3d-interactive-timeline?api_key=$API_KEY_21ST\"",
+  "id": "dhileepkumargm__3d-interactive-timeline",
+  "bundleUrl": "https://cdn.21st.dev/dhileepkumargm/3d-interactive-timeline/default/bundle.1758350637536.html",
+  "previewUrl": "https://cdn.21st.dev/dhileepkumargm/3d-interactive-timeline/default/preview.1758350637536.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 33,
+  "demo_id": 7827,
+  "video_url": "https://cdn.21st.dev/dhileepkumargm/3d-interactive-timeline/default/video.1758350637536.mp4"
+}

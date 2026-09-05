@@ -1,0 +1,33 @@
+{
+  "id": "designali-in__snow-flakes",
+  "author": "designali-in",
+  "slug": "snow-flakes",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/snow-flakes",
+  "fetchedAt": "2026-08-29T04:21:08.577Z",
+  "completedAt": "2026-08-29T04:21:10.438Z",
+  "versionedFilename": "code.1785303627441-3d39121e-0c81-44d2-83ed-0e735abe50de.tsx",
+  "codeReference": "r2://components-code-private/designali-in/snow-flakes/code.1785303627441-3d39121e-0c81-44d2-83ed-0e735abe50de.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/snow-flakes/code.1785303627441-3d39121e-0c81-44d2-83ed-0e735abe50de.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/designali-in__snow-flakes/code.tsx",
+    "bytes": 3234,
+    "sha256": "092ed6f4ce67b8a9f6d14c9feb5687852acad8dbbe568786105f4193ffc615cb",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

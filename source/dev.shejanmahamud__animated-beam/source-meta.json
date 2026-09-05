@@ -1,0 +1,26 @@
+{
+  "id": "dev.shejanmahamud__animated-beam",
+  "author": "dev.shejanmahamud",
+  "slug": "animated-beam",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dev.shejanmahamud/components/animated-beam",
+  "fetchedAt": "2026-08-29T04:22:43.648Z",
+  "completedAt": "2026-08-29T04:22:45.821Z",
+  "versionedFilename": "code.1784717020673-7fb14856-4d57-4257-8017-cf09b70a5581.tsx",
+  "codeReference": "r2://components-code-private/dev.shejanmahamud/animated-beam/code.1784717020673-7fb14856-4d57-4257-8017-cf09b70a5581.tsx",
+  "codeUrl": "https://cdn.21st.dev/dev.shejanmahamud/animated-beam/code.1784717020673-7fb14856-4d57-4257-8017-cf09b70a5581.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "theutkarshmail__panda-loader",
+  "author": "theutkarshmail",
+  "slug": "panda-loader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theutkarshmail/components/panda-loader",
+  "fetchedAt": "2026-08-29T07:37:24.255Z",
+  "completedAt": "2026-08-29T07:37:26.297Z",
+  "versionedFilename": "code.1755029608299.tsx",
+  "codeReference": "r2://components-code-private/theutkarshmail/panda-loader/code.1755029608299.tsx",
+  "codeUrl": "https://cdn.21st.dev/theutkarshmail/panda-loader/code.1755029608299.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2400,
+  "sha256": "84d482fc8f3269a21fc7342f17bb0f69592526a3b41d21d7a5fb0c2d293ca2cf",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

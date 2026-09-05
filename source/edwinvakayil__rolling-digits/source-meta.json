@@ -1,0 +1,26 @@
+{
+  "id": "edwinvakayil__rolling-digits",
+  "author": "edwinvakayil",
+  "slug": "rolling-digits",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@edwinvakayil/components/rolling-digits",
+  "fetchedAt": "2026-08-29T04:42:30.999Z",
+  "completedAt": "2026-08-29T04:42:33.223Z",
+  "versionedFilename": "code.1784753763985-90fd4822-a5d9-4fad-a5ee-0fdbc85d13e3.tsx",
+  "codeReference": "r2://components-code-private/edwinvakayil/rolling-digits/code.1784753763985-90fd4822-a5d9-4fad-a5ee-0fdbc85d13e3.tsx",
+  "codeUrl": "https://cdn.21st.dev/edwinvakayil/rolling-digits/code.1784753763985-90fd4822-a5d9-4fad-a5ee-0fdbc85d13e3.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

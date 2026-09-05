@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "osmosupply-looping-words-with-gsap",
+  "type": "registry:ui",
+  "title": "Osmosupply Looping Words With Gsap",
+  "description": "Installed from https://21st.dev/r/osmosupply/looping-words-with-gsap",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "osmosupply-looping-words-with-gsap"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "looping-words-with-gsap.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/osmosupply/looping-words-with-gsap",
+    "fetchedAt": "2026-04-23T02:29:50.149Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

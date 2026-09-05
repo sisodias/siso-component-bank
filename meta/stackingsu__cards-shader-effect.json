@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@stackingsu/components/cards-shader-effect",
+  "author": "stackingsu",
+  "slug": "cards-shader-effect",
+  "name": "cards-shader-effect",
+  "description": "Interactive 3D credit card with animated WebGL shader faces that tilts with the cursor, flips on hover, and swaps its gradient design on click.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/stackingsu/cards-shader-effect?api_key=$API_KEY_21ST\"",
+  "id": "stackingsu__cards-shader-effect",
+  "bundleUrl": "https://cdn.21st.dev/stackingsu/cards-shader-effect/default/bundle.1784404033176-f29ab519-35cf-4647-a89e-19f77dcc468d.html",
+  "previewUrl": "https://cdn.21st.dev/stackingsu/cards-shader-effect/default/preview.1784404033176-f29ab519-35cf-4647-a89e-19f77dcc468d.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "cult-ui__hero-dithering",
+  "author": "cult-ui",
+  "slug": "hero-dithering",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@cult-ui/components/hero-dithering",
+  "fetchedAt": "2026-08-29T04:03:36.720Z",
+  "completedAt": "2026-08-29T04:03:38.801Z",
+  "versionedFilename": "code.1783695271896.tsx",
+  "codeReference": "r2://components-code-private/cult-ui/hero-dithering/code.1783695271896.tsx",
+  "codeUrl": "https://cdn.21st.dev/cult-ui/hero-dithering/code.1783695271896.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 18730,
+  "sha256": "cd2b373b4d41743a204a91a0bcd8c3d34bf17dd2c668823d93821b94b8943b1d",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

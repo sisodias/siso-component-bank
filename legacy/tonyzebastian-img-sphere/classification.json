@@ -1,0 +1,42 @@
+{
+  "category": [
+    "media",
+    "data-display",
+    "overlay"
+  ],
+  "subcategory": "3d-image-sphere-gallery",
+  "visual_style": [
+    "3d",
+    "gradient",
+    "glass-morphism"
+  ],
+  "interactions": [
+    "drag",
+    "hover-glow",
+    "click-reveal",
+    "parallax",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "media",
+    "e-commerce",
+    "saas",
+    "creator-tools",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive image galleries showcasing products or portfolios with 3D spatial navigation",
+    "Creative portfolio displays allowing users to explore content through drag-rotate gestures",
+    "Product showcases in e-commerce with animated auto-rotation and zoom-in modal view",
+    "Media and entertainment platforms displaying image collections in immersive 3D arrangements",
+    "Real estate or travel platforms presenting image collections with momentum physics for exploration"
+  ],
+  "ai_summary": "An interactive 3D image sphere component that arranges images using Fibonacci distribution on a rotatable sphere. Features drag-to-rotate with momentum physics, auto-rotation, dynamic scaling based on position, collision detection, and modal image viewing. Optimized for desktop and mobile with touch support, making it ideal for media galleries, product showcases, and creative portfolio displays requiring immersive spatial navigation.",
+  "_classifiedAt": "2026-04-22T09:18:27.626Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

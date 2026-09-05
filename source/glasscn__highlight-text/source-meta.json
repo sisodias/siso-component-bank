@@ -1,0 +1,26 @@
+{
+  "id": "glasscn__highlight-text",
+  "author": "glasscn",
+  "slug": "highlight-text",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@glasscn/components/highlight-text",
+  "fetchedAt": "2026-08-29T04:51:56.964Z",
+  "completedAt": "2026-08-29T04:51:59.127Z",
+  "versionedFilename": "code.1783714342384.tsx",
+  "codeReference": "r2://components-code-private/glasscn/highlight-text/code.1783714342384.tsx",
+  "codeUrl": "https://cdn.21st.dev/glasscn/highlight-text/code.1783714342384.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 861,
+  "sha256": "fab9094a451108faaa5966805acbeddc0168ba645dc5fd70e06996cb928ece94",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

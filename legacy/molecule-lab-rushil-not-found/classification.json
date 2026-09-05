@@ -1,0 +1,34 @@
+{
+  "category": "input",
+  "subcategory": "button-with-variants",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "media",
+    "education",
+    "healthcare",
+    "real-estate",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action trigger for forms and dialogs",
+    "Navigation links styled as buttons",
+    "Destructive action confirmation buttons",
+    "Secondary and tertiary button actions",
+    "Icon-only buttons for compact UI actions"
+  ],
+  "ai_summary": "A reusable Button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Built with Radix UI Slot for composition and class-variance-authority for variant management. Includes accessibility features like focus-visible ring and disabled state handling. Suitable for any web application requiring interactive action triggers.",
+  "_classifiedAt": "2026-04-23T17:01:08.282Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

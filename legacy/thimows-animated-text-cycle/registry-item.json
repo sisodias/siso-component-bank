@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "thimows-animated-text-cycle",
+  "type": "registry:ui",
+  "title": "Thimows Animated Text Cycle",
+  "description": "Installed from https://21st.dev/r/thimows/animated-text-cycle",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "thimows-animated-text-cycle"
+  ],
+  "files": [
+    {
+      "path": "animated-text-cycle.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/thimows/animated-text-cycle",
+    "fetchedAt": "2026-04-23T03:05:02.144Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

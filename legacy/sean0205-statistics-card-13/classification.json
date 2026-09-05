@@ -1,0 +1,34 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "Avatar with status indicator",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display user profile pictures in dashboards and settings pages",
+    "Show online/offline/busy/away status indicators next to user avatars",
+    "Provide fallback initials or icons when user images fail to load",
+    "Create avatar components with customizable status dot positioning",
+    "Build user identification elements for messaging and collaboration tools"
+  ],
+  "ai_summary": "A set of reusable avatar components built on Radix UI primitives with Tailwind CSS styling. Includes Avatar, AvatarImage, AvatarFallback, AvatarIndicator, and AvatarStatus with CVA-powered variant system for online/offline/busy/away states. Features clean minimal design with rounded-full styling and configurable border and background colors.",
+  "_classifiedAt": "2026-04-23T17:24:08.820Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

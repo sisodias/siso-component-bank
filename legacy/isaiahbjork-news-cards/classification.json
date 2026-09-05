@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "news-article-cards",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "News aggregation platforms displaying curated article cards with category filters",
+    "Media websites showcasing breaking news with status indicators and visual hierarchy",
+    "Content feeds with animated card transitions and bookmark functionality",
+    "Dashboard-style news readers with categorized status bar navigation"
+  ],
+  "ai_summary": "A news card component system featuring animated article cards with category status bars, gradient overlays, and bookmark functionality. Built with Framer Motion for smooth scroll and hover animations, supporting customizable news categories, time stamps, and location metadata. Ideal for media platforms, content feeds, or SaaS news dashboards requiring visual hierarchy and engagement features.",
+  "_classifiedAt": "2026-04-23T16:44:27.525Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

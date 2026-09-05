@@ -1,0 +1,31 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "freelancer-stats-summary",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display freelancer earnings with change indicators and time periods",
+    "Show professional ranking with category and place information",
+    "Present availability status using animated progress bars",
+    "Summarize key metrics with sub-statistics for quick insights",
+    "Create dashboard widgets for freelancer performance tracking"
+  ],
+  "ai_summary": "A composite card component designed to display freelancer statistics including earnings with percentage changes, sub-statistics with labels, ranking information with icons, and animated availability bars. Built with Framer Motion for staggered entrance animations and shadcn/ui styling conventions. Ideal for freelancer dashboards, SaaS platforms, and creator tools that need to present professional performance metrics in a clean, minimal interface.",
+  "_classifiedAt": "2026-04-23T01:48:10.570Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

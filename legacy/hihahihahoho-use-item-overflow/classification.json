@@ -1,0 +1,34 @@
+{
+  "category": [
+    "layout"
+  ],
+  "subcategory": "overflow-detection-hook",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Responsively managing visible navigation items by hiding overflow into a 'more' indicator",
+    "Dynamically adjusting breadcrumb or tag displays based on container width",
+    "Creating responsive tab bars or toolbar menus that adapt to available space",
+    "Building avatar groups that show a '+N' overflow count when space is limited",
+    "Implementing collapsible item lists in sidebars or filter panels"
+  ],
+  "ai_summary": "A custom React hook that calculates and manages how many items can be visibly displayed within a container width, automatically hiding overflow items and providing a visible count. Uses ResizeObserver and getBoundingClientRect for accurate measurements. Ideal for responsive navigation bars, toolbars, tag clouds, and any list-based UI that needs adaptive item visibility across different screen sizes.",
+  "_classifiedAt": "2026-04-23T16:42:36.716Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

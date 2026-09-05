@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "camera-permission-request-accordion",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Requesting camera permissions with explanatory content before system prompts",
+    "Displaying expandable FAQ or explanations about why camera access is needed",
+    "Providing multi-step camera permission workflows in web applications",
+    "Building trust by explaining data usage before accessing device cameras",
+    "Collecting user consent with detailed camera usage information"
+  ],
+  "ai_summary": "A camera permission request card built with Radix UI accordion primitives that displays expandable information about camera access requirements. Uses CVA variants for different visual styles (default, outline, solid) with configurable indicators (arrow, plus, none). Includes smooth expand/collapse animations and is designed to communicate the necessity of camera permissions before triggering native browser prompts, commonly used in video conferencing, telehealth, and media applications.",
+  "_classifiedAt": "2026-04-23T01:35:25.433Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "otp-pin",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "e-commerce",
+    "saas",
+    "healthcare"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "OTP verification during login or signup flows",
+    "Two-factor authentication code entry",
+    "Secure card payment verification codes",
+    "Account recovery or password reset code entry",
+    "Any multi-digit security code input scenarios"
+  ],
+  "ai_summary": "A lightweight PIN/OTP input component built on Ark UI for accessibility compliance. Features auto-value-complete functionality, dark mode support, and clean focus states with ring effects. Ideal for authentication flows across fintech, e-commerce, and SaaS applications requiring secure code verification.",
+  "_classifiedAt": "2026-04-22T08:51:58.259Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

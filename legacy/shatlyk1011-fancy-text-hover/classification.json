@@ -1,0 +1,34 @@
+{
+  "category": [
+    "navigation",
+    "media"
+  ],
+  "subcategory": "animated-text-hover-links",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "creator-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Navigation menus with scattered letter hover animations",
+    "Social profile links with interactive text effects",
+    "Hero section CTA links with fancy typography animations",
+    "Footer navigation with animated text transitions",
+    "Interactive button components with letter-level animations"
+  ],
+  "ai_summary": "An interactive text hover component that dynamically splits text into individual letters and applies GSAP-driven scatter animations on hover. Each character animates independently with configurable x/y offsets and rotation values, creating a playful scattered letter effect. Uses cubic-bezier easing for smooth, premium-feeling transitions. Supports customizable link arrays and integrates seamlessly with Tailwind CSS for styling flexibility.",
+  "_classifiedAt": "2026-04-22T09:16:16.480Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

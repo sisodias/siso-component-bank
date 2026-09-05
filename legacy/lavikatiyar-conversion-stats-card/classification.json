@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action trigger in forms and interfaces",
+    "Navigation links with accessible focus states",
+    "Icon-based action buttons for toolbars and menus",
+    "Secondary action buttons with outline styling",
+    "Destructive action triggers with warning styling"
+  ],
+  "ai_summary": "A reusable button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Built with Radix UI Slot for composition and class-variance-authority for type-safe variant management. Features standard accessibility attributes including focus-visible ring and disabled states. Clean, minimal styling suitable for any design system.",
+  "_classifiedAt": "2026-04-23T01:42:43.195Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

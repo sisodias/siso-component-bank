@@ -1,0 +1,30 @@
+{
+  "category": "media",
+  "subcategory": "circular-spinning-text",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Create animated circular text for branding logos or product labels",
+    "Add decorative spinning text elements to hero sections",
+    "Display rotating labels or tags on loading indicators",
+    "Generate orbit-style text for social media content or thumbnails",
+    "Add visual interest with animated text in creative portfolios"
+  ],
+  "ai_summary": "A lightweight spinning text component that renders text along a circular SVG path with continuous rotation animation. Supports customizable radius, speed, direction (normal/reverse), and text styling. Uses a unique generated path ID for multiple instances on the same page. Perfect for creating decorative circular text effects commonly seen in crypto branding, product labels, and creative hero sections.",
+  "_classifiedAt": "2026-04-22T09:14:50.362Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

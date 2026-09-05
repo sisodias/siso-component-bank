@@ -1,0 +1,30 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "gradient-showcase",
+  "visual_style": [
+    "gradient",
+    "colorful"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "creator-tools",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying available gradient palettes in design tools or creative platforms",
+    "Previewing color schemes for UI component customization",
+    "Showing brand color gradients in a visual reference grid",
+    "Providing gradient selection options in a color picker interface"
+  ],
+  "ai_summary": "A gradient showcase component that renders multiple gradient presets from the visx library in a responsive grid layout using SVG. Each gradient fills a rounded rectangle bar, creating a visual catalog of color transitions. Built with React and visx/shape for rendering, suitable for design tools or any application needing to display color gradient options.",
+  "_classifiedAt": "2026-04-23T11:29:39.474Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

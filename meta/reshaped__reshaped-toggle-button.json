@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@reshaped/components/reshaped-toggle-button",
+  "author": "reshaped",
+  "slug": "reshaped-toggle-button",
+  "name": "reshaped-toggle-button",
+  "description": "Button that maintains a pressed/selected state, built on top of Button and defaulting to the outline variant. Inherits Button props (color, size, icons), supports a distinct selectedColor for the active state, controlled and uncontrolled modes via checked/defaultChecked, and a disabled flag.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/reshaped/reshaped-toggle-button?api_key=$API_KEY_21ST\"",
+  "id": "reshaped__reshaped-toggle-button",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/reshaped-toggle-button/default/bundle.1783530674253.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/reshaped-toggle-button/default/preview.1783530674253.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "category": "card",
+  "subcategory": "auto-layout-adaptive-card",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying adaptive card layouts that adjust content arrangement based on step progression",
+    "Creating product or service showcases with varying information density",
+    "Building progressive disclosure content patterns with smooth y-axis transitions",
+    "Implementing responsive card containers with configurable widths (400px, 550px, 700px)"
+  ],
+  "ai_summary": "An adaptive card component with three distinct layout configurations that dynamically adjust container dimensions, image heights, content direction, and alignment based on step state. Uses Framer Motion for smooth y-axis slide animations (120px) and supports flexible content arrangement with row/column layouts. Ideal for progressive content display in SaaS applications and product showcases.",
+  "_classifiedAt": "2026-04-23T16:51:36.541Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@reshaped/components/reshaped-context-menu",
+  "author": "reshaped",
+  "slug": "reshaped-context-menu",
+  "name": "reshaped-context-menu",
+  "description": "Root wrapper whose children receive a right-click handler to open an overlaying menu. Exposes compound components for menu items, item sections and nested sub-menus with automatic focus trapping, supports DropdownMenu positioning properties and automatically fits into the viewport.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/reshaped/reshaped-context-menu?api_key=$API_KEY_21ST\"",
+  "id": "reshaped__reshaped-context-menu",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/reshaped-context-menu/default/bundle.1783352862330.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/reshaped-context-menu/default/preview.1783352862330.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

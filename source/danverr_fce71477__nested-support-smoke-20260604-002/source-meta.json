@@ -1,0 +1,26 @@
+{
+  "id": "danverr_fce71477__nested-support-smoke-20260604-002",
+  "author": "danverr_fce71477",
+  "slug": "nested-support-smoke-20260604-002",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@danverr_fce71477/components/nested-support-smoke-20260604-002",
+  "fetchedAt": "2026-08-29T04:09:49.359Z",
+  "completedAt": "2026-08-29T04:09:51.515Z",
+  "versionedFilename": "code.1780576211074.tsx",
+  "codeReference": "r2://components-code-private/danverr_fce71477/nested-support-smoke-20260604-002/code.1780576211074.tsx",
+  "codeUrl": "https://cdn.21st.dev/danverr_fce71477/nested-support-smoke-20260604-002/code.1780576211074.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 795,
+  "sha256": "b4c5d983a801e9cdb90b577837271a81f57e77b7903ae5893f1c20a3f984b158",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

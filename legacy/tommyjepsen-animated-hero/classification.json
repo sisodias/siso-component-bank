@@ -1,0 +1,30 @@
+{
+  "category": "hero",
+  "subcategory": "animated-headline-hero",
+  "visual_style": [],
+  "interactions": [
+    "morph",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page main hero section with animated rotating headline text",
+    "Product launch marketing pages with engaging animated typography",
+    "SaaS landing pages requiring dynamic word-based headline animations",
+    "Marketing sites needing smooth spring-based text transitions",
+    "Product pages requiring animated calls-to-action"
+  ],
+  "ai_summary": "A dynamic hero component featuring an animated rotating headline that cycles through descriptive words with smooth spring-based transitions. The component includes a CTA button, responsive typography scaling, and uses Framer Motion for fluid text morphing effects. Designed for SaaS and product marketing landing pages where engaging animated typography helps capture visitor attention.",
+  "_classifiedAt": "2026-04-23T17:36:19.320Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

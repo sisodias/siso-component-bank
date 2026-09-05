@@ -1,0 +1,30 @@
+{
+  "category": "media",
+  "subcategory": "logo-carousel",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying client or partner logos in a continuous horizontal scroll",
+    "Showing sponsored brands or technology stack logos",
+    "Creating social proof with an animated logo showcase",
+    "Displaying marketplace seller logos or product brand collections",
+    "Featuring investor or portfolio company logos"
+  ],
+  "ai_summary": "An infinite horizontal logo slider that continuously scrolls through logos or brand marks. Uses Framer Motion for smooth animation with configurable speed, gap spacing, and hover effects that adjust animation duration. Ideal for showcasing client logos, partner brands, or technology stack in a visually engaging, space-efficient carousel format.",
+  "_classifiedAt": "2026-04-22T09:17:27.197Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

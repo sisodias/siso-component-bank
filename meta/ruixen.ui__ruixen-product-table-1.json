@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/ruixen-product-table-1",
+  "author": "ruixen.ui",
+  "slug": "ruixen-product-table-1",
+  "name": "ruixen-product-table-1",
+  "description": "The component visually represents a team-building interface, where users can add or remove members (up to a max of 4) using + and - buttons. Each team member is displayed as a unique avatar fetched from DiceBear (a dynamic avatar generator), shown in a clean grid layout.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/ruixen-product-table-1?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__ruixen-product-table-1",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/ruixen-product-table-1/default/bundle.1755710880806.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/ruixen-product-table-1/default/preview.1755710880806.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

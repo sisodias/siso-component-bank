@@ -1,0 +1,17 @@
+{
+ "id": "youcefbnm__product-card",
+ "outcome": "retrieved",
+ "retrievalMethod": "local-legacy-store-copy",
+ "provenanceNote": "Copied from the pre-existing local legacy 21st store; NOT fetched from 21st.dev by this lane.",
+ "legacySourcePath": "legacy/youcefbnm-product-card/product-card.tsx",
+ "legacySourceFile": "product-card.tsx",
+ "legacyDependencies": [
+  "motion"
+ ],
+ "upstreamUrl": "https://21st.dev/@youcefbnm/components/product-card",
+ "httpStatus": null,
+ "sha256": "341ff37a578364d89ff6d9e6342165f881f9c6a5c8f99659b4a70ce5a89fc702",
+ "bytes": 5079,
+ "completedAt": "2026-08-29T03:43:54.197Z",
+ "seededBy": "CENA-directive-2026-08-29-skip-legacy"
+}

@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "Collapsible accordion panel",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "FAQ sections where users expand to reveal answers",
+    "Settings panels with collapsible option groups",
+    "Navigation menus with nested expandable items",
+    "Content sections that need progressive disclosure",
+    "E-commerce product detail pages with expandable specifications"
+  ],
+  "ai_summary": "A flexible accordion component built on base-ui-components/react with three visual variants (default, outline, solid) and two indicator styles (arrow, plus). Features smooth height transitions and icon rotation animations on panel open/close. Uses Tailwind CSS and class-variance-authority for styling, making it easily customizable for SaaS applications, documentation sites, and settings interfaces.",
+  "_classifiedAt": "2026-04-23T01:52:24.611Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

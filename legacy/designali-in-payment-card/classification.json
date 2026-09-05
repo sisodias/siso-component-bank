@@ -1,0 +1,38 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "action-button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Triggering form submissions in web applications",
+    "Acting as call-to-action buttons in landing pages",
+    "Navigating users between pages or views",
+    "Toggling UI states like modals or dropdowns",
+    "Serving as primitive building block for composite components like payment cards"
+  ],
+  "ai_summary": "A shadcn/ui-style button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes. Built with Radix UI Slot for composition, class-variance-authority for styling, and includes accessible focus states with ring outlines. Designed as an atomic UI primitive commonly used within payment card interfaces and form components.",
+  "_classifiedAt": "2026-04-23T16:32:26.061Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

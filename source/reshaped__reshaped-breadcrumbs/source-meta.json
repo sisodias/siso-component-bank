@@ -1,0 +1,26 @@
+{
+  "id": "reshaped__reshaped-breadcrumbs",
+  "author": "reshaped",
+  "slug": "reshaped-breadcrumbs",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@reshaped/components/reshaped-breadcrumbs",
+  "fetchedAt": "2026-08-29T06:33:42.769Z",
+  "completedAt": "2026-08-29T06:33:44.668Z",
+  "versionedFilename": "code.1783349391231.tsx",
+  "codeReference": "r2://components-code-private/larsen66/reshaped-breadcrumbs/code.1783349391231.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/reshaped-breadcrumbs/code.1783349391231.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 497,
+  "sha256": "766bb07824d020645f207568c95c607e20a969b0f5967085eef630f6e08a7517",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

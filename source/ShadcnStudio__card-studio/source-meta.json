@@ -1,0 +1,26 @@
+{
+  "id": "ShadcnStudio__card-studio",
+  "author": "ShadcnStudio",
+  "slug": "card-studio",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ShadcnStudio/components/card-studio",
+  "fetchedAt": "2026-08-29T07:13:51.608Z",
+  "completedAt": "2026-08-29T07:13:53.526Z",
+  "versionedFilename": "code.1760510312569.tsx",
+  "codeReference": "r2://components-code-private/larsen66/card-studio/code.1760510312569.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/card-studio/code.1760510312569.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1746,
+  "sha256": "fbd7a81b0f30eff9632d036c81492b7aa026bfb1dc4fb7744e684d3437cefa2f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

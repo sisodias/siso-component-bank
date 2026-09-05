@@ -1,0 +1,26 @@
+{
+  "id": "mapcn__mapcn-marker-popup",
+  "author": "mapcn",
+  "slug": "mapcn-marker-popup",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@mapcn/components/mapcn-marker-popup",
+  "fetchedAt": "2026-08-29T05:38:06.944Z",
+  "completedAt": "2026-08-29T05:38:08.695Z",
+  "versionedFilename": "code.1785447928528-5fc33625-edd9-4928-9574-ecb32d218624.tsx",
+  "codeReference": "r2://components-code-private/mapcn/mapcn-marker-popup/code.1785447928528-5fc33625-edd9-4928-9574-ecb32d218624.tsx",
+  "codeUrl": "https://cdn.21st.dev/mapcn/mapcn-marker-popup/code.1785447928528-5fc33625-edd9-4928-9574-ecb32d218624.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

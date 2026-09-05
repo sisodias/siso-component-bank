@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input",
+    "navigation"
+  ],
+  "subcategory": "text-editor-toolbar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Rich text editors requiring quick access to formatting controls like bold, italic, and alignment",
+    "Document creation tools where users need to style and structure text content",
+    "Note-taking and CMS applications with inline text editing capabilities",
+    "Chat and messaging interfaces with rich text formatting support",
+    "Content management dashboards needing accessible formatting toolbars"
+  ],
+  "ai_summary": "A reusable text formatting toolbar component featuring common editing controls including bold, italic, underline, strikethrough, heading, quote, link, highlighter, palette, and text alignment options. Built with framer-motion animations for smooth tooltip reveals and includes active state management for toggle buttons. Designed as a flexible input component for text editors, document creators, and content management systems.",
+  "_classifiedAt": "2026-04-23T17:10:03.111Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

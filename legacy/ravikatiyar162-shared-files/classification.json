@@ -1,0 +1,32 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "file-sharing-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying shared file information in a file management dashboard or cloud storage interface",
+    "Showing file attachments with user attribution in messaging or collaboration applications",
+    "Presenting downloadable or viewable file previews in project management tools"
+  ],
+  "ai_summary": "A file-sharing card component that displays shared file metadata including user avatar, filename, upload date, and file size. Built with Radix UI primitives for accessibility, featuring clipboard copy functionality for file URLs and navigation actions. Clean, minimal design suitable for SaaS and developer tooling applications.",
+  "_classifiedAt": "2026-04-23T01:48:01.865Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

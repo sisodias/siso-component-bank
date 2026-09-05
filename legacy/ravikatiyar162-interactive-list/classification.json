@@ -1,0 +1,39 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button with variant system",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons in forms and landing pages",
+    "Destructive action buttons for delete or remove operations",
+    "Outline-style buttons for secondary actions in UI toolbars",
+    "Icon-only buttons for compact navigation or tool controls",
+    "Ghost buttons for subtle UI interactions in overlays"
+  ],
+  "ai_summary": "A versatile, accessible Button component with 6 variants (default, destructive, outline, secondary, ghost, link) and 4 sizes (default, sm, lg, icon). Built with Radix UI Slot for composition, class-variance-authority for variant management, and proper focus/disabled states. Designed as a reusable atomic component for any UI system requiring interactive controls.",
+  "_classifiedAt": "2026-04-23T01:47:22.748Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

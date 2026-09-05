@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "order-tracking",
+  "visual_style": [
+    "3d",
+    "flat"
+  ],
+  "interactions": [
+    "parallax",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying real-time order status and delivery progress to customers in e-commerce applications",
+    "Creating engaging product tracking experiences with 3D interactive elements on hover",
+    "Showing estimated delivery times with visual progress indicators",
+    "Providing shipment tracking with responsive parallax effects",
+    "Enhancing customer trust through transparent order status communication"
+  ],
+  "ai_summary": "An interactive order tracking card component featuring 3D parallax effects that respond to mouse movement. The card displays order information including status, product details, and ETA with a multi-step progress indicator. Built with Framer Motion for smooth spring-based animations and transforms, creating an engaging tracking experience suitable for e-commerce platforms.",
+  "_classifiedAt": "2026-04-22T09:12:47.696Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

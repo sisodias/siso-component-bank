@@ -1,0 +1,32 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "container, layout, shadcn-primitive",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display grouped content with structured header, body, and footer sections",
+    "Create reusable card layouts for dashboards, product listings, or user profiles",
+    "Wrap form inputs or media content in a styled container",
+    "Build pricing tables or feature comparison cards",
+    "Container for dashboard widgets and analytics cards"
+  ],
+  "ai_summary": "Shadcn/ui Card is an atomic, minimalist card primitive system with composable subcomponents (CardHeader, CardTitle, CardDescription, CardContent, CardFooter). It provides a clean container with rounded borders and subtle shadows, designed for flexible content layout. The component follows a flat visual style with no interactions, making it ideal as a foundational building block for any UI system.",
+  "_classifiedAt": "2026-04-22T08:53:50.291Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

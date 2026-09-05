@@ -1,0 +1,26 @@
+{
+  "id": "larsen66__cursor-smoke",
+  "author": "larsen66",
+  "slug": "cursor-smoke",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@larsen66/components/cursor-smoke",
+  "fetchedAt": "2026-08-29T05:21:58.099Z",
+  "completedAt": "2026-08-29T05:22:00.240Z",
+  "versionedFilename": "code.1750181239803.tsx",
+  "codeReference": "r2://components-code-private/larsen66/cursor-smoke/code.1750181239803.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/cursor-smoke/code.1750181239803.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2463,
+  "sha256": "193a696825a08d2a7eb2c2186d19121596f11c105da7fcfd53371d8d6b255d93",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

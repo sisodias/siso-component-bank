@@ -1,0 +1,26 @@
+{
+  "id": "sshahaider__footer",
+  "author": "sshahaider",
+  "slug": "footer",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sshahaider/components/footer",
+  "fetchedAt": "2026-08-29T07:25:36.575Z",
+  "completedAt": "2026-08-29T07:25:38.727Z",
+  "versionedFilename": "code.1755970125650.tsx",
+  "codeReference": "r2://components-code-private/sshahaider/footer/code.1755970125650.tsx",
+  "codeUrl": "https://cdn.21st.dev/sshahaider/footer/code.1755970125650.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3152,
+  "sha256": "aea1b2d16469ea64af6a71a95cd9127f70421d02c19d0e6f0b8397cdc9689608",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

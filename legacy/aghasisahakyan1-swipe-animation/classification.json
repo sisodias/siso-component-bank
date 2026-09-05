@@ -1,0 +1,29 @@
+{
+  "category": "feedback",
+  "subcategory": "drag-to-reveal swipe icon with gradient state transitions",
+  "visual_style": [],
+  "interactions": [
+    "drag",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "mobile",
+    "saas",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Swipe-to-confirm or swipe-to-reject gesture feedback in mobile interfaces",
+    "Interactive decision component showing visual states based on drag direction",
+    "Animated icon component for todo or task management apps with swipe actions",
+    "Engaging toggle UI with gradient color transitions based on user input",
+    "Confirmation/rejection feedback for mobile-first applications"
+  ],
+  "ai_summary": "A draggable icon component that reveals different visual states (checkmark or cross) based on horizontal swipe direction. The background gradient smoothly transitions between pink, purple, and green as the user drags. Built with motion/react for fluid animations, this component excels in mobile interfaces requiring gesture-based confirm/reject actions.",
+  "_classifiedAt": "2026-04-22T08:51:20.959Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

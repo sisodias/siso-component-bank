@@ -1,0 +1,26 @@
+{
+  "id": "shuding__cobe-globe-weather",
+  "author": "shuding",
+  "slug": "cobe-globe-weather",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shuding/components/cobe-globe-weather",
+  "fetchedAt": "2026-08-29T07:18:29.718Z",
+  "completedAt": "2026-08-29T07:18:32.269Z",
+  "versionedFilename": "code.1774294444412.tsx",
+  "codeReference": "r2://components-code-private/reapollo/cobe-globe-weather/code.1774294444412.tsx",
+  "codeUrl": "https://cdn.21st.dev/reapollo/cobe-globe-weather/code.1774294444412.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6527,
+  "sha256": "c9120801fb80c555674126e111e5f6e4541dd6ca7470fa35200ae122c69186ed",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

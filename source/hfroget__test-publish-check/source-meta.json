@@ -1,0 +1,26 @@
+{
+  "id": "hfroget__test-publish-check",
+  "author": "hfroget",
+  "slug": "test-publish-check",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@hfroget/components/test-publish-check",
+  "fetchedAt": "2026-08-29T04:58:22.095Z",
+  "completedAt": "2026-08-29T04:58:24.337Z",
+  "versionedFilename": "code.1780695413010.tsx",
+  "codeReference": "r2://components-code-private/hfroget/test-publish-check/code.1780695413010.tsx",
+  "codeUrl": "https://cdn.21st.dev/hfroget/test-publish-check/code.1780695413010.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 193,
+  "sha256": "f46f65bf6fab737deb83e97d97413ef762c50a18b3d4ced1a51a99cf3f8d83ef",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

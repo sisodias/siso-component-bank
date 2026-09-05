@@ -1,0 +1,36 @@
+{
+  "category": [
+    "data-display",
+    "feedback"
+  ],
+  "subcategory": "circular-progress-indicator",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "healthcare",
+    "education",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display task completion or goal progress in dashboards",
+    "Show loading or upload status with animated circular progress",
+    "Visualize metrics and statistics with color-coded thresholds",
+    "Track user progress through onboarding or learning modules",
+    "Indicate system health or status indicators in monitoring interfaces"
+  ],
+  "ai_summary": "A configurable circular progress indicator component that displays values as animated or static circular gauges. Supports customizable size, stroke width, gradient fills, color transitions based on thresholds, and smooth animations. Includes callbacks for value and color changes, making it suitable for dynamic data visualization in dashboards, progress tracking, and status indicators across various web applications.",
+  "_classifiedAt": "2026-04-23T16:42:27.066Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

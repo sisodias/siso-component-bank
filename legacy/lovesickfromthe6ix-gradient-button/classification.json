@@ -1,0 +1,36 @@
+{
+  "category": "input",
+  "subcategory": "gradient-button, 3d-animated-button, shader-button",
+  "visual_style": [
+    "gradient",
+    "3d",
+    "glass-morphism",
+    "gradient-border"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "system",
+  "use_cases": [
+    "Primary CTA buttons on landing pages with high visual impact requirements",
+    "Interactive feature announcements in marketing campaigns",
+    "Premium product showcase sections requiring atmospheric visual effects",
+    "Creative tool interfaces where button aesthetics reinforce brand identity",
+    "Gaming and entertainment app buttons with cinematic post-processing"
+  ],
+  "ai_summary": "A highly sophisticated gradient button component featuring Three.js-powered 3D rendering with bloom post-processing, custom film grain shaders with vignette effects, and gradient distortion animations. The button uses GSAP for orchestration and responds to mouse position for interactive effects, creating a cinematic, premium button experience with real-time shader-based visual transformations.",
+  "_classifiedAt": "2026-04-23T16:53:10.179Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

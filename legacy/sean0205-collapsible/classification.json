@@ -1,0 +1,33 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "collapsible-accordion",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "FAQ sections where users expand/collapse answers",
+    "Navigation menus with nested expandable items",
+    "Content sections that reveal detailed information on demand",
+    "Settings panels with collapsible option groups",
+    "Dashboard interfaces with expandable data sections"
+  ],
+  "ai_summary": "A flexible collapsible/accordion component with multiple styling variants built on Radix UI primitives. Supports primary, mono, destructive, secondary, outline, dashed, ghost, dim, and other visual styles through CVA configuration. Features chevron indicators and open/closed state styling for clear visual feedback during content expansion.",
+  "_classifiedAt": "2026-04-23T17:22:30.894Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

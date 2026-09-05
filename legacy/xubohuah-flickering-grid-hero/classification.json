@@ -1,0 +1,31 @@
+{
+  "category": [
+    "hero"
+  ],
+  "subcategory": "animated-grid-background",
+  "visual_style": [
+    "dark",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Landing page hero section with animated grid background effect",
+    "Dark-themed website ambient visual with flickering grid animation",
+    "SaaS product hero with tech-inspired grid backdrop"
+  ],
+  "ai_summary": "A canvas-based flickering grid hero component that renders an animated grid of squares with randomized opacity flickering. Uses intersection observer for scroll-triggered animation, only rendering when visible. Fully customizable with props for grid size, gap, flicker probability, color, and maximum opacity. Creates a modern tech-inspired ambient effect ideal for dark-themed hero sections.",
+  "_classifiedAt": "2026-04-23T17:43:28.825Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ayushmxxn__waitlist",
+  "author": "ayushmxxn",
+  "slug": "waitlist",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ayushmxxn/components/waitlist",
+  "fetchedAt": "2026-08-29T03:47:10.639Z",
+  "completedAt": "2026-08-29T03:47:12.736Z",
+  "versionedFilename": "code.1750533401467.tsx",
+  "codeReference": "r2://components-code-private/larsen66/waitlist/code.1750533401467.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/waitlist/code.1750533401467.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5340,
+  "sha256": "c4e33d2e3b50dca33760db68e468d542dbc9f41a2a988609291159a5a3a3c064",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

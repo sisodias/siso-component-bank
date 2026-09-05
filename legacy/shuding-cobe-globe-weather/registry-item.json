@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "shuding-cobe-globe-weather",
+  "type": "registry:ui",
+  "title": "Shuding Cobe Globe Weather",
+  "description": "Installed from https://21st.dev/r/shuding/cobe-globe-weather",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "shuding-cobe-globe-weather"
+  ],
+  "files": [
+    {
+      "path": "cobe-globe-weather.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "cobe"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/shuding/cobe-globe-weather",
+    "fetchedAt": "2026-04-22T06:31:48.382Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

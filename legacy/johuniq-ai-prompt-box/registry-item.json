@@ -1,0 +1,43 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "johuniq-ai-prompt-box",
+  "type": "registry:ui",
+  "title": "Johuniq Ai Prompt Box",
+  "description": "Installed from https://21st.dev/r/johuniq/ai-prompt-box",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "johuniq-ai-prompt-box"
+  ],
+  "files": [
+    {
+      "path": "ai-prompt-box.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-dialog",
+    "@radix-ui/react-tooltip",
+    "framer-motion",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/johuniq/ai-prompt-box",
+    "fetchedAt": "2026-04-22T06:32:02.340Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

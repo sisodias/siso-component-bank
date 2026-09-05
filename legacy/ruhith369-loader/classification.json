@@ -1,0 +1,38 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "animated-spinner",
+  "visual_style": [
+    "colorful",
+    "gradient",
+    "3d"
+  ],
+  "interactions": [
+    "morph",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "creator-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display a loading state while fetching data from an API",
+    "Indicate progress during async operations like file uploads",
+    "Show user feedback during page transitions or navigation",
+    "Provide visual feedback while content is being processed",
+    "Use as a placeholder during lazy loading of heavy components"
+  ],
+  "ai_summary": "A colorful animated loader component featuring three vibrant colored dots (yellow, blue, red) with a gooey SVG filter effect that creates a morphing blob appearance. The loader uses smooth infinite rotation animation and is positioned absolutely centered in its container. Ideal for adding visual feedback during loading states, data fetching, or async operations across various web applications.",
+  "_classifiedAt": "2026-04-23T01:48:39.757Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

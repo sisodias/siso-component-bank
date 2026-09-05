@@ -1,0 +1,26 @@
+{
+  "id": "ephraimduncan__dialog-projectstarter",
+  "author": "ephraimduncan",
+  "slug": "dialog-projectstarter",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ephraimduncan/components/dialog-projectstarter",
+  "fetchedAt": "2026-08-29T04:44:21.081Z",
+  "completedAt": "2026-08-29T04:44:23.329Z",
+  "versionedFilename": "code.1748125922148.tsx",
+  "codeReference": "r2://components-code-private/larsen66/dialog-projectstarter/code.1748125922148.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/dialog-projectstarter/code.1748125922148.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 23106,
+  "sha256": "91066a37823e009caf2aad0160d05e83ca59d1f27d45bf75b9a95eed2828e2a7",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

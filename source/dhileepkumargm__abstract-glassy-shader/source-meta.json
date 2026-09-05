@@ -1,0 +1,33 @@
+{
+  "id": "dhileepkumargm__abstract-glassy-shader",
+  "author": "dhileepkumargm",
+  "slug": "abstract-glassy-shader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dhileepkumargm/components/abstract-glassy-shader",
+  "fetchedAt": "2026-08-29T04:25:35.102Z",
+  "completedAt": "2026-08-29T04:25:37.303Z",
+  "versionedFilename": "code.1785269301005-62aec8ca-6ee5-44e8-8590-a3188ddc3255.tsx",
+  "codeReference": "r2://components-code-private/dhileepkumargm/abstract-glassy-shader/code.1785269301005-62aec8ca-6ee5-44e8-8590-a3188ddc3255.tsx",
+  "codeUrl": "https://cdn.21st.dev/dhileepkumargm/abstract-glassy-shader/code.1785269301005-62aec8ca-6ee5-44e8-8590-a3188ddc3255.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/dhileepkumargm__abstract-glassy-shader/code.tsx",
+    "bytes": 4198,
+    "sha256": "759086a31bc3eda57795449b4da2d5166fad717ed22ca52ec94273b6009bf086",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "toggle-switch",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Toggle dark mode and light mode themes on websites or web applications",
+    "Switch between user interface color preferences with a single click",
+    "Control dark mode state in settings panels or preference menus"
+  ],
+  "ai_summary": "A minimalist dark mode toggle switch component featuring a rounded slider design with animated sun and moon icons represented through CSS shadows. The toggle smoothly transitions between light and dark color states with a 500ms duration, using a hidden checkbox input for accessibility and state management.",
+  "_classifiedAt": "2026-04-23T01:43:19.137Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

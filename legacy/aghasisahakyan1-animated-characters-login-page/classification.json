@@ -1,0 +1,36 @@
+{
+  "category": [
+    "form"
+  ],
+  "subcategory": "animated login with interactive characters",
+  "visual_style": [
+    "illustration",
+    "colorful",
+    "flat"
+  ],
+  "interactions": [
+    "parallax",
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "creator-tools",
+    "media",
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "User authentication with a playful animated character interface that tracks mouse movement for engagement",
+    "Login pages for creative portfolios, developer tools, or media platforms seeking personality",
+    "Gamified authentication flows where users interact with animated avatars"
+  ],
+  "ai_summary": "An interactive login page featuring animated character faces with pupils that track the user's mouse cursor in real-time. Built with React hooks (useState, useEffect, useRef) for mouse tracking, combining standard form elements (Input, Button, Checkbox, Label) with custom animated face components. The pupils smoothly calculate and follow cursor position within constrained distances, creating a playful and engaging authentication experience.",
+  "_classifiedAt": "2026-04-22T08:51:23.043Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

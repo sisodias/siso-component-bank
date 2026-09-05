@@ -1,0 +1,33 @@
+{
+  "id": "xubohuah__flow-button",
+  "author": "xubohuah",
+  "slug": "flow-button",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@xubohuah/components/flow-button",
+  "fetchedAt": "2026-08-29T07:58:29.527Z",
+  "completedAt": "2026-08-29T07:58:30.761Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/xubohuah__flow-button/code.tsx",
+    "bytes": 1632,
+    "sha256": "51ea98e2fbeec07accb3b74f3c6edd45b86e10ceec323d832ea84c4d6e32fb35",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

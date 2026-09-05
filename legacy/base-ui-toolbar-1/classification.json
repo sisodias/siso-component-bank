@@ -1,0 +1,35 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "formatting-toolbar",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Text alignment controls in rich text editors and document editors",
+    "Formatting toolbar for content creation platforms",
+    "Action bar in code editors or IDEs",
+    "Quick-access formatting controls in CMS interfaces"
+  ],
+  "ai_summary": "A composite toolbar component from Base UI featuring alignment buttons (left/right), toggle groups, and separator elements for organizing formatting controls. The component implements accessible keyboard navigation with focus-visible states and pressed states for toggle interactions, styled with a clean flat design using neutral grays suitable for document editing, code editors, and content management interfaces.",
+  "_classifiedAt": "2026-04-23T11:32:37.127Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

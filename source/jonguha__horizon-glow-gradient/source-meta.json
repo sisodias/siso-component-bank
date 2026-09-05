@@ -1,0 +1,26 @@
+{
+  "id": "jonguha__horizon-glow-gradient",
+  "author": "jonguha",
+  "slug": "horizon-glow-gradient",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@jonguha/components/horizon-glow-gradient",
+  "fetchedAt": "2026-08-29T05:11:30.928Z",
+  "completedAt": "2026-08-29T05:11:32.794Z",
+  "versionedFilename": "code.1785326139847-10a68c4e-0372-4890-9284-61f7a44cea46.tsx",
+  "codeReference": "r2://components-code-private/jonguha/horizon-glow-gradient/code.1785326139847-10a68c4e-0372-4890-9284-61f7a44cea46.tsx",
+  "codeUrl": "https://cdn.21st.dev/jonguha/horizon-glow-gradient/code.1785326139847-10a68c4e-0372-4890-9284-61f7a44cea46.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "status indicator",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display deployment or build status in CI/CD pipeline interfaces",
+    "Show task queue or job processing states in workflow dashboards",
+    "Indicate service health or availability status in monitoring tools",
+    "Show user or entity presence/activity status in collaboration apps",
+    "Visualize workflow step completion states in multi-step processes"
+  ],
+  "ai_summary": "A minimal status indicator dot component that displays deployment and workflow states through colored indicators. Supports five states (QUEUED, BUILDING, ERROR, READY, CANCELED) with optional text labels and proper accessibility attributes. Designed for dev-tools and SaaS applications requiring clear status visualization in dashboards and workflow interfaces.",
+  "_classifiedAt": "2026-04-23T17:31:42.412Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

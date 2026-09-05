@@ -1,0 +1,31 @@
+{
+  "category": "input",
+  "subcategory": "video-upload",
+  "visual_style": [],
+  "interactions": [
+    "drag",
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Upload and preview video files with drag-and-drop interface",
+    "Play and pause uploaded videos with playback controls",
+    "Remove uploaded videos with smooth animations",
+    "Display upload progress and filename truncation for long names",
+    "Trigger animations and callbacks for external state management"
+  ],
+  "ai_summary": "A sleek video upload card component featuring drag-and-drop file upload functionality, integrated video playback controls, and smooth framer-motion animations. Supports upload states, video playing/pausing, filename truncation, and removal animations with customizable triggers and callbacks. Perfect for media-rich SaaS applications, e-commerce product uploads, or any platform requiring video file input with visual feedback.",
+  "_classifiedAt": "2026-04-23T01:40:30.474Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

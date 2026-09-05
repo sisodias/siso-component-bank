@@ -1,0 +1,26 @@
+{
+  "category": "data-display",
+  "subcategory": "table-based task list with status badges",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Project management dashboards displaying task assignments and progress",
+    "Team collaboration tools for tracking work status across members",
+    "Personal productivity applications for organizing daily or weekly tasks",
+    "Assignment management systems for educational platforms",
+    "Workflow tracking interfaces for dev-tools and project management apps"
+  ],
+  "ai_summary": "A clean, tabular task list component that displays tasks with their category, status (Completed, In Progress, Pending), and due date in an organized table format. Features animated entrance with Framer Motion stagger effects and includes color-coded status badges with full dark mode support. Designed for productivity and project management applications requiring task visibility.",
+  "_classifiedAt": "2026-04-22T09:10:47.974Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

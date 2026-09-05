@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@arunachalam/components/cookie-banner-1",
+  "author": "arunachalam",
+  "slug": "cookie-banner-1",
+  "name": "cookie-banner-1",
+  "description": "The CookiePanel is a compact, bottom‑right floating cookie consent banner built with Next.js, TypeScript, TailwindCSS v4, and Lucide icons. It presents users with a clear cookie policy message, quick Accept all and Customize actions, and theme‑aware styling.\n\nClicking Customize smoothly expands an inline preferences panel inside the toast, letting users toggle cookie categories without leaving the page. Preferences are saved to localStorage and the banner closes automatically upon saving, ensuring a clean, interruption‑free user experience. Built‑in slide/fade animations are handled purely with Tailwind’s tw-animate-css utilities for a lightweight, modern feel.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/arunachalam/cookie-banner-1?api_key=$API_KEY_21ST\"",
+  "id": "arunachalam__cookie-banner-1",
+  "bundleUrl": "https://cdn.21st.dev/arunachalam0606/cookie-banner-1/default/bundle.1755094285896.html",
+  "previewUrl": "https://cdn.21st.dev/arunachalam0606/cookie-banner-1/default/preview.1755094285894.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 72,
+  "demo_id": 5196,
+  "video_url": "https://cdn.21st.dev/arunachalam0606/cookie-banner-1/default/video.1755094285894.mp4"
+}

@@ -1,0 +1,29 @@
+{
+  "category": "data-display",
+  "subcategory": "sentiment-analysis-card",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "media",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying sentiment analysis results with percentage breakdowns",
+    "Showing user feedback distribution through animated progress bars",
+    "Visualizing positive, negative, and neutral sentiment proportions",
+    "Providing quick sentiment overviews in dashboards",
+    "Tracking brand or product perception metrics"
+  ],
+  "ai_summary": "A sentiment analysis card component that displays categorized sentiment data through animated segmented progress bars. Features a clean header with overall sentiment indicator, icon support, and accessibility-friendly progress bar with percentage calculations. Built with Framer Motion for smooth animations and uses shadcn-style utility classes for theming.",
+  "_classifiedAt": "2026-04-23T01:46:37.000Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

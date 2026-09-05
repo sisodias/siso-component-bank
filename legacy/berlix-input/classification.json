@@ -1,0 +1,27 @@
+{
+  "category": "input",
+  "subcategory": "floating-label-text-input",
+  "visual_style": [],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "User authentication forms like login and registration pages",
+    "Contact forms in customer-facing web applications",
+    "Search input fields with animated label interactions",
+    "Data entry forms in admin dashboards and settings",
+    "Profile and account update forms with elegant label transitions"
+  ],
+  "ai_summary": "A minimalist floating-label text input component featuring letter-by-letter spring animations. When the input gains focus or contains a value, the label characters animate upward with staggered timing and color fade, creating an engaging micro-interaction. Supports dark mode with a clean zinc color palette and transparent background styling suitable for modern SaaS applications.",
+  "_classifiedAt": "2026-04-23T11:33:09.770Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

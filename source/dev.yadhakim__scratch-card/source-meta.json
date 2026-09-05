@@ -1,0 +1,26 @@
+{
+  "id": "dev.yadhakim__scratch-card",
+  "author": "dev.yadhakim",
+  "slug": "scratch-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dev.yadhakim/components/scratch-card",
+  "fetchedAt": "2026-08-29T04:24:21.368Z",
+  "completedAt": "2026-08-29T04:24:23.513Z",
+  "versionedFilename": "code.1772135829860.tsx",
+  "codeReference": "r2://components-code-private/dev.yadhakim/scratch-card/code.1772135829860.tsx",
+  "codeUrl": "https://cdn.21st.dev/dev.yadhakim/scratch-card/code.1772135829860.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10534,
+  "sha256": "efb1cb33dfb5debd56c2c2e14ead06546af8b3f3f7b228483840935c644aab3e",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

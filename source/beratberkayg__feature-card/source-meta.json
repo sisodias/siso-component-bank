@@ -1,0 +1,26 @@
+{
+  "id": "beratberkayg__feature-card",
+  "author": "beratberkayg",
+  "slug": "feature-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@beratberkayg/components/feature-card",
+  "fetchedAt": "2026-08-29T03:49:08.667Z",
+  "completedAt": "2026-08-29T03:49:11.030Z",
+  "versionedFilename": "code.1755886071636.tsx",
+  "codeReference": "r2://components-code-private/beratberkayg/feature-card/code.1755886071636.tsx",
+  "codeUrl": "https://cdn.21st.dev/beratberkayg/feature-card/code.1755886071636.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3952,
+  "sha256": "e665c676d25b3ba1b6528f42ace0b1b4769c2712bac2d9a0e3a5143b393fe8cc",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

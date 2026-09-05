@@ -1,0 +1,37 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "searchable-select-dropdown",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "real-estate",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Country or region selection in address and registration forms",
+    "Filterable dropdown for selecting from long lists of options",
+    "Location-based selection in checkout and profile forms",
+    "Searchable selector for administrative dashboards",
+    "Form input for any application requiring item selection from a predefined list"
+  ],
+  "ai_summary": "A searchable country selector dropdown built with Radix UI primitives that features real-time filtering as users type. The component displays a clean, accessible select trigger with an integrated chevron icon and renders a positioned dropdown menu with filtered results. Designed for address forms, registration flows, and any UI requiring searchable single-selection input.",
+  "_classifiedAt": "2026-04-23T16:40:29.881Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

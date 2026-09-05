@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ddoemonn/components/hold-to-confirm",
+  "author": "ddoemonn",
+  "slug": "hold-to-confirm",
+  "name": "hold-to-confirm",
+  "description": "A press-and-hold button that sweeps a progress fill and only fires its confirm callback after the full hold completes, guarding destructive actions against accidental clicks.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ddoemonn/hold-to-confirm?api_key=$API_KEY_21ST\"",
+  "id": "ddoemonn__hold-to-confirm",
+  "bundleUrl": "https://cdn.21st.dev/ddoemonn/hold-to-confirm/default/bundle.1785471412570-1efc41c2-9b2a-4edc-856d-b5074f78105e.html",
+  "previewUrl": "https://cdn.21st.dev/ddoemonn/hold-to-confirm/default/preview.1785471412570-1efc41c2-9b2a-4edc-856d-b5074f78105e.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

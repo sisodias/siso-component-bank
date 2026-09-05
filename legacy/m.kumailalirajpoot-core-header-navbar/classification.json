@@ -1,0 +1,26 @@
+{
+  "category": "navigation",
+  "subcategory": "header-navbar",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Main site or app header for brand display and navigation anchoring",
+    "User profile quick-access display in application headers",
+    "Responsive navigation bar for landing pages or dashboards",
+    "Branded header component for consistent UI across pages"
+  ],
+  "ai_summary": "A minimalist header navbar component with glass-morphism effects featuring a brand title and user profile section. Includes a decorative diagonal grid background with radial mask and backdrop blur for visual depth. Responsive design hides user details on mobile while maintaining essential profile avatar access. Built for Next.js/React with Tailwind CSS theming support.",
+  "_classifiedAt": "2026-04-22T09:04:53.200Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

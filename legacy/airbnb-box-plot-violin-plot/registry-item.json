@@ -1,0 +1,46 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "airbnb-box-plot-violin-plot",
+  "type": "registry:ui",
+  "title": "Airbnb Box Plot Violin Plot",
+  "description": "Installed from https://21st.dev/r/airbnb/box-plot-violin-plot",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "airbnb-box-plot-violin-plot"
+  ],
+  "files": [
+    {
+      "path": "box-plot-violin-plot.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@visx/gradient",
+    "@visx/group",
+    "@visx/mock-data",
+    "@visx/pattern",
+    "@visx/scale",
+    "@visx/stats",
+    "@visx/tooltip"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/airbnb/box-plot-violin-plot",
+    "fetchedAt": "2026-04-23T03:04:38.128Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

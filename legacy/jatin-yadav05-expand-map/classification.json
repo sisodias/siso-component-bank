@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "3d-interactive-location-card",
+  "visual_style": [
+    "3d",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "real-estate",
+    "e-commerce",
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying property or venue locations on business websites with interactive 3D tilt effects",
+    "Showing store or restaurant locations in e-commerce checkout flows",
+    "Presenting event venue information with expandable details",
+    "Creating interactive location pickers for travel or delivery applications",
+    "Enhancing contact pages with animated location cards"
+  ],
+  "ai_summary": "A 3D interactive location map component featuring mouse-tracking tilt effects and click-to-expand functionality. Displays location name and coordinates with smooth spring animations using Framer Motion. The card rotates in 3D space following cursor movement, creating an engaging parallax-like effect that reveals additional information on click.",
+  "_classifiedAt": "2026-04-22T09:00:34.289Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

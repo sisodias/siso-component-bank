@@ -1,0 +1,22 @@
+{
+  "category": "other",
+  "subcategory": "counter",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display a numeric value with interactive increment and decrement controls",
+    "Serve as a foundational interactive element for building more complex components",
+    "Demonstrate basic React useState hook usage with click handlers"
+  ],
+  "ai_summary": "A minimal atomic counter component featuring a numeric display and two buttons for incrementing and decrementing values. The component uses React useState for state management and basic Tailwind styling with flexbox layout. Originally labeled as a hero section but contains only a simple interactive counter demonstration.",
+  "_classifiedAt": "2026-04-23T11:28:37.290Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

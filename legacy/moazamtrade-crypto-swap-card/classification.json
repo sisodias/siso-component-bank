@@ -1,0 +1,37 @@
+{
+  "category": [
+    "card",
+    "form",
+    "data-display"
+  ],
+  "subcategory": "cryptocurrency-swap-interface",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "saas",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Enable users to swap between cryptocurrencies with real-time price conversion",
+    "Display live cryptocurrency prices with 24-hour change indicators",
+    "Provide a streamlined token exchange interface for DeFi applications",
+    "Auto-refresh cryptocurrency prices every 15 seconds for up-to-date rates",
+    "Allow selection from top 50 cryptocurrencies by market cap"
+  ],
+  "ai_summary": "A cryptocurrency swap card component featuring real-time price fetching from CoinGecko API with auto-refresh capabilities. Users can select source and destination cryptocurrencies, input swap amounts, and view live exchange rates with animated transitions. Built with Framer Motion for smooth UI interactions and React state management for coin selection and amount handling.",
+  "_classifiedAt": "2026-04-23T01:43:57.353Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

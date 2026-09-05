@@ -1,0 +1,36 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "text-animation, letter-explode",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools",
+    "e-commerce",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Hero section text reveal with explosive character animation on scroll trigger",
+    "Call-to-action button text with dramatic explosion effect for emphasis",
+    "Marketing landing page headlines with animated letter-by-letter transitions",
+    "Interactive text components for storytelling and content presentation",
+    "Visual effects for announcements, launches, or special promotional content"
+  ],
+  "ai_summary": "A Framer Motion-based text explosion component that splits text into individual characters and animates them through dramatic explosion effects. Characters randomly scatter with rotation, scaling, and opacity changes triggered by scroll or programmatic state changes. Supports jitter, shrink, and explode animation phases with customizable timing and physics-based motion.",
+  "_classifiedAt": "2026-04-23T17:00:24.431Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

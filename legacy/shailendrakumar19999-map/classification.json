@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display",
+    "media"
+  ],
+  "subcategory": "animated world map with dotted geographic visualization",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying global user distribution or analytics on dashboards",
+    "Visualizing shipping routes or delivery networks on logistics platforms",
+    "Creating interactive travel itineraries with animated connection paths",
+    "Building location-based connection visualizations for SaaS platforms",
+    "Showcasing international business relationships with animated routes"
+  ],
+  "ai_summary": "An animated world map component that renders a dotted geographical visualization with curved animated paths connecting locations. Features theme-aware styling with dark/light mode support, hover interactions on locations, and staggered path animations for showcasing global connections, travel routes, or distribution networks. Uses Framer Motion for smooth path animations with configurable duration and looping.",
+  "_classifiedAt": "2026-04-23T17:28:59.496Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

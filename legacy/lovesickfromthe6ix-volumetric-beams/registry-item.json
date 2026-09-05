@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "lovesickfromthe6ix-volumetric-beams",
+  "type": "registry:ui",
+  "title": "Lovesickfromthe6ix Volumetric Beams",
+  "description": "Installed from https://21st.dev/r/lovesickfromthe6ix/volumetric-beams",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "lovesickfromthe6ix-volumetric-beams"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "volumetric-beams.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@react-three/fiber",
+    "three"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/lovesickfromthe6ix/volumetric-beams",
+    "fetchedAt": "2026-04-23T01:16:44.786Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

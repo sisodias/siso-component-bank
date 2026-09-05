@@ -1,0 +1,42 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons in authentication forms and sign-in flows",
+    "Form submission triggers with loading states for async operations",
+    "Navigation action triggers with icon support for visual cues",
+    "Accessible interactive elements with keyboard navigation and focus management",
+    "Customizable action buttons with multiple visual variants for different hierarchy levels"
+  ],
+  "ai_summary": "A shadcn/ui-style button component with CVA-powered variant system supporting multiple visual styles (default, destructive, outline, secondary, ghost, link) and sizes. Features Radix UI Slot for composition, loading states, icon support, and accessible focus-visible states. Designed as a reusable atomic component for any UI requiring interactive action triggers.",
+  "_classifiedAt": "2026-04-23T01:45:45.568Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

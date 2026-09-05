@@ -1,0 +1,40 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "Outline button with icon composition support",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Triggering actions in forms, dialogs, and navigation menus",
+    "Icon-only buttons for compact toolbars and action areas",
+    "Multi-variant button systems with outline styling",
+    "Composed buttons using Radix slot for icon integration"
+  ],
+  "ai_summary": "A shadcn/ui-styled button component built on Radix UI's Slot for flexible composition. Supports multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon), with accessibility features including focus-visible ring states and disabled pointer-events. The outline variant creates a minimal, border-based visual style suitable for any industry or platform.",
+  "_classifiedAt": "2026-04-22T09:15:10.021Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

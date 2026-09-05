@@ -1,0 +1,31 @@
+{
+  "category": "data-display",
+  "subcategory": "team-showcase",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying team members on an about or company page with animated card fan effects",
+    "Showcasing team members on a startup landing page with staggered entrance animations",
+    "Presenting employee profiles in an interactive gallery layout",
+    "Creating an engaging team section for agency or portfolio websites",
+    "Featuring staff members with perspective-based card animations on scroll"
+  ],
+  "ai_summary": "An animated team section component that displays team members in a fanned card layout with staggered scroll-triggered animations. Uses Framer Motion for smooth entrance effects where cards spread apart in a curved formation. Supports custom title, description, and team member data including names and images. The intersection observer triggers animations once when the section enters the viewport, creating an engaging visual presentation of team members with rotation and scale effects.",
+  "_classifiedAt": "2026-04-23T01:48:13.208Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

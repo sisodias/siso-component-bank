@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "reaviz-stacked-normalized-incident-chart",
+  "type": "registry:ui",
+  "title": "Reaviz Stacked Normalized Incident Chart",
+  "description": "Installed from https://21st.dev/r/reaviz/stacked-normalized-incident-chart",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "reaviz-stacked-normalized-incident-chart"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "stacked-normalized-incident-chart.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "reaviz"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/reaviz/stacked-normalized-incident-chart",
+    "fetchedAt": "2026-04-23T03:04:36.730Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

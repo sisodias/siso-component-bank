@@ -1,0 +1,26 @@
+{
+  "id": "gvozdovic__hero-waterfront",
+  "author": "gvozdovic",
+  "slug": "hero-waterfront",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@gvozdovic/components/hero-waterfront",
+  "fetchedAt": "2026-08-29T04:53:27.961Z",
+  "completedAt": "2026-08-29T04:53:30.374Z",
+  "versionedFilename": "code.1781626388288.tsx",
+  "codeReference": "r2://components-code-private/dzekuza/hero-waterfront/code.1781626388288.tsx",
+  "codeUrl": "https://cdn.21st.dev/dzekuza/hero-waterfront/code.1781626388288.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3463,
+  "sha256": "951cab02edc5a1d4daa158ba29c5b72125658fc6919b1e00a082e4a9a36f90f9",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

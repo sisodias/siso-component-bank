@@ -1,0 +1,26 @@
+{
+  "id": "ddoemonn__tooltip-group",
+  "author": "ddoemonn",
+  "slug": "tooltip-group",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ddoemonn/components/tooltip-group",
+  "fetchedAt": "2026-08-29T04:12:11.688Z",
+  "completedAt": "2026-08-29T04:12:13.878Z",
+  "versionedFilename": "code.1785481040512-2fe35d72-a275-445c-b949-36550b9d611d.tsx",
+  "codeReference": "r2://components-code-private/ddoemonn/tooltip-group/code.1785481040512-2fe35d72-a275-445c-b949-36550b9d611d.tsx",
+  "codeUrl": "https://cdn.21st.dev/ddoemonn/tooltip-group/code.1785481040512-2fe35d72-a275-445c-b949-36550b9d611d.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

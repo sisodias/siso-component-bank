@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ravikatiyar162/components/weather-card",
+  "author": "ravikatiyar162",
+  "slug": "weather-card",
+  "name": "weather-card",
+  "description": "A modern, gradient-based weather information card displaying the current temperature, high/low forecast, location, and weather condition icon. The design features bold typography, clean spacing, and a subtle weather icon in the background, making it visually appealing and easy to read. Ideal for dashboards, travel apps, and weather widgets.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ravikatiyar162/weather-card?api_key=$API_KEY_21ST\"",
+  "id": "ravikatiyar162__weather-card",
+  "bundleUrl": "https://cdn.21st.dev/ravikatiyar162/weather-card/default/bundle.1755202046855.html",
+  "previewUrl": "https://cdn.21st.dev/ravikatiyar162/weather-card/default/preview.1755182128213.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

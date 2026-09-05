@@ -1,0 +1,26 @@
+{
+  "id": "kom.sujautra__liquid-glass-donut",
+  "author": "kom.sujautra",
+  "slug": "liquid-glass-donut",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@kom.sujautra/components/liquid-glass-donut",
+  "fetchedAt": "2026-08-29T05:18:57.280Z",
+  "completedAt": "2026-08-29T05:18:59.220Z",
+  "versionedFilename": "code.1751116341325.tsx",
+  "codeReference": "r2://components-code-private/kom.sujautra/liquid-glass-donut/code.1751116341325.tsx",
+  "codeUrl": "https://cdn.21st.dev/kom.sujautra/liquid-glass-donut/code.1751116341325.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2015,
+  "sha256": "a88f4de2871e9e5a25f64e2681df6fb1cea6a2c3231b64543a606d8d00cb6ae9",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

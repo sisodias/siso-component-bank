@@ -1,0 +1,32 @@
+{
+  "category": "input",
+  "subcategory": "date-range-picker",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare",
+    "real-estate",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting date ranges for booking flights or hotels",
+    "Scheduling appointments or events across two months",
+    "Filtering data by date ranges in analytics dashboards",
+    "Setting date-bound subscriptions or recurring payments",
+    "Planning travel itineraries with start and end dates"
+  ],
+  "ai_summary": "A shadcn/ui-based dual calendar component that displays two adjacent months side-by-side, allowing users to select a date range. Features a clean, accessible interface with keyboard navigation support, commonly used for booking flows, scheduling interfaces, and date-based filtering in SaaS and e-commerce applications.",
+  "_classifiedAt": "2026-04-23T17:26:46.876Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

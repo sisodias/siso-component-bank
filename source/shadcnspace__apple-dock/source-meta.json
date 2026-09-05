@@ -1,0 +1,26 @@
+{
+  "id": "shadcnspace__apple-dock",
+  "author": "shadcnspace",
+  "slug": "apple-dock",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcnspace/components/apple-dock",
+  "fetchedAt": "2026-08-29T07:10:50.908Z",
+  "completedAt": "2026-08-29T07:10:53.222Z",
+  "versionedFilename": "code.1772800396291.tsx",
+  "codeReference": "r2://components-code-private/larsen66/apple-dock/code.1772800396291.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/apple-dock/code.1772800396291.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5711,
+  "sha256": "57e979b7124db97927d5d55fa81d7d5ba7c9e77403b7fef07a054c153184c278",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

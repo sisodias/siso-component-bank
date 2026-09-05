@@ -1,0 +1,29 @@
+{
+  "category": "data-display",
+  "subcategory": "dendrogram-chart",
+  "visual_style": [
+    "flat",
+    "gradient"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Visualizing hierarchical tree structures and nested relationships",
+    "Displaying organizational hierarchies or file system structures",
+    "Exploring nested data with interactive node clicking"
+  ],
+  "ai_summary": "An interactive dendrogram chart component from Airbnb that renders hierarchical tree structures using SVG paths and linear gradients. Nodes are clickable and display hierarchical relationships through connected links, making it ideal for visualizing nested data like org charts, taxonomies, or file systems.",
+  "_classifiedAt": "2026-04-23T11:29:37.844Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

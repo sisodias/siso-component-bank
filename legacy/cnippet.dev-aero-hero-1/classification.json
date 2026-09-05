@@ -1,0 +1,24 @@
+{
+  "category": "input",
+  "subcategory": "counter-stepper",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Basic numeric value increment/decrement in forms or dashboards",
+    "Simple counter demonstration for React state management tutorials",
+    "Quantity selector for e-commerce add-to-cart interfaces"
+  ],
+  "ai_summary": "A minimalist React counter component with increment and decrement buttons, utilizing the useState hook for simple numeric state management. Displays the current count value with standard Tailwind styling in a centered flex layout.",
+  "_classifiedAt": "2026-04-22T08:53:54.897Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

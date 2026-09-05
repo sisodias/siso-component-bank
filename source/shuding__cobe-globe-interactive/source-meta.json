@@ -1,0 +1,26 @@
+{
+  "id": "shuding__cobe-globe-interactive",
+  "author": "shuding",
+  "slug": "cobe-globe-interactive",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shuding/components/cobe-globe-interactive",
+  "fetchedAt": "2026-08-29T07:18:14.388Z",
+  "completedAt": "2026-08-29T07:18:16.513Z",
+  "versionedFilename": "code.1774293424099.tsx",
+  "codeReference": "r2://components-code-private/reapollo/cobe-globe-interactive/code.1774293424099.tsx",
+  "codeUrl": "https://cdn.21st.dev/reapollo/cobe-globe-interactive/code.1774293424099.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/typescript",
+  "bytes": 6455,
+  "sha256": "90cc324a22ef3f3794fb0f0e53271e516b717d8fbbad0597e1f0381e65d9ef3e",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

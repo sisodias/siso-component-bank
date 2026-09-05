@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input",
+    "other"
+  ],
+  "subcategory": "reusable-button-with-variants",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons in SaaS applications requiring multiple visual states",
+    "Icon-only buttons for toolbars and navigation bars",
+    "Destructive action buttons with semantic warning styling",
+    "Ghost and outline buttons for secondary actions in forms and dialogs",
+    "Accessible buttons with keyboard navigation and focus management"
+  ],
+  "ai_summary": "A reusable React Button component with configurable variants and sizes using Radix UI Slot and class-variance-authority. Supports default, destructive, outline, secondary, ghost, and link variants with sm, default, lg, and icon sizes. Implements standard accessibility patterns with focus rings and disabled states.",
+  "_classifiedAt": "2026-04-22T09:17:21.319Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

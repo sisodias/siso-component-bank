@@ -1,0 +1,26 @@
+{
+  "category": "overlay",
+  "subcategory": "authentication",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "User sign-in flow for web applications requiring authentication",
+    "Email-based account creation with social login option",
+    "Onboarding flow for SaaS platforms and membership sites",
+    "E-commerce checkout authentication step",
+    "Secure access gate for developer tools and dashboards"
+  ],
+  "ai_summary": "A clean authentication modal component providing sign-in and registration functionality through Google OAuth and email input. Features a minimalist design with social login as the primary CTA, email input field with icon, and terms agreement link. Ideal for SaaS products and e-commerce platforms needing user authentication without redirecting to external pages.",
+  "_classifiedAt": "2026-04-23T17:33:07.141Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

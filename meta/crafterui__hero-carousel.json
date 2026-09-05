@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@crafterui/components/hero-carousel",
+  "author": "crafterui",
+  "slug": "hero-carousel",
+  "name": "hero-carousel",
+  "description": "A full-bleed editorial hero driven by a filmstrip: cards share one top edge, the focused card unfurls to full height while its neighbours stay clipped to half, and the whole background re-grades to the focused photo. Wheel, drag, click and arrow keys.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/crafterui/hero-carousel?api_key=$API_KEY_21ST\"",
+  "id": "crafterui__hero-carousel",
+  "bundleUrl": "https://cdn.21st.dev/crafterui.com/hero-carousel/default/bundle.1787059372325-b649cf5c-7b55-4ad3-b0d4-a13e810f53c2.html",
+  "previewUrl": "https://cdn.21st.dev/crafterui.com/hero-carousel/default/preview.1787059372325-b649cf5c-7b55-4ad3-b0d4-a13e810f53c2.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

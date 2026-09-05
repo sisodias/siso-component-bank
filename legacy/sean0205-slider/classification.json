@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Triggering form submissions with styled action buttons",
+    "Providing navigation or state-change controls with multiple visual variants",
+    "Creating consistent button styling across a design system using CVA",
+    "Implementing accessible button components with focus and disabled states",
+    "Supporting themed buttons for light/dark mode interfaces"
+  ],
+  "ai_summary": "A highly configurable button component built with class-variance-authority supporting multiple visual variants including primary, mono, destructive, secondary, outline, dashed, ghost, and dim styles. Features built-in accessibility with focus-visible states, disabled states, and arrow support. Uses radix-ui primitives and lucide-react icons for a polished, accessible button that integrates seamlessly into design systems.",
+  "_classifiedAt": "2026-04-23T17:23:54.001Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

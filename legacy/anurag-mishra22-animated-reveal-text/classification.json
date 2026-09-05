@@ -1,0 +1,28 @@
+{
+  "category": "media",
+  "subcategory": "animated-highlight-text",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Hero section headlines with animated emphasis on key phrases",
+    "Landing page feature highlights with reveal animations",
+    "Onboarding or welcome screens with animated text reveals",
+    "Marketing page callouts with scroll-triggered text highlighting",
+    "Portfolio or portfolio-style layouts with animated text presentation"
+  ],
+  "ai_summary": "HighlightText is an animated text component that reveals text with a clip-path highlight animation using Framer Motion. Text is revealed from left to right with a customizable background color, duration, and easing. The component supports multiple heading levels and standard HTML attributes, making it ideal for hero sections, feature highlights, and marketing pages where emphasis and visual interest are needed.",
+  "_classifiedAt": "2026-04-23T11:30:26.417Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "user-avatar",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying user profile pictures in navigation bars, dashboards, or settings pages",
+    "Showing user avatars in chat, messaging, or collaboration interfaces",
+    "Indicating user online/offline/away/busy status in real-time applications",
+    "Providing avatar fallbacks when user images fail to load",
+    "Creating team member profile displays in organizational tools"
+  ],
+  "ai_summary": "A composite Avatar component system built on Radix UI primitives with multiple subcomponents including AvatarImage, AvatarFallback, AvatarIndicator, and AvatarStatus. Features configurable status variants (online, offline, busy, away) using class variance authority for consistent styling across different contexts. Designed for displaying user identity and presence status in SaaS dashboards, messaging apps, and social platforms.",
+  "_classifiedAt": "2026-04-23T17:23:07.786Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

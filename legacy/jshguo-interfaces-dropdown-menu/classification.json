@@ -1,0 +1,39 @@
+{
+  "category": [
+    "navigation",
+    "overlay"
+  ],
+  "subcategory": "dropdown-menu",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "User account menus with profile options, settings, and logout actions",
+    "Settings panels with grouped navigation and nested submenus",
+    "Table row action menus with edit, delete, and duplicate options",
+    "Filter menus with checkboxes for multi-select filtering",
+    "Navigation menus with categorized links and icons"
+  ],
+  "ai_summary": "A headless, accessible dropdown menu component built on Radix UI primitives with smooth open/close animations, keyboard navigation support, and portal rendering. Supports any content type including text, icons, checkboxes, and nested submenus. Styled with Tailwind CSS using standard animation classes for fade, zoom, and slide transitions.",
+  "_classifiedAt": "2026-04-22T09:01:56.205Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

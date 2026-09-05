@@ -1,0 +1,26 @@
+{
+  "id": "ephraimduncan__login-signup",
+  "author": "ephraimduncan",
+  "slug": "login-signup",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ephraimduncan/components/login-signup",
+  "fetchedAt": "2026-08-29T04:45:03.088Z",
+  "completedAt": "2026-08-29T04:45:05.356Z",
+  "versionedFilename": "code.1753197580765.tsx",
+  "codeReference": "r2://components-code-private/larsen66/login-signup/code.1753197580765.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/login-signup/code.1753197580765.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6793,
+  "sha256": "9f98597634867f4dd8adc92341b81dc05bcd41456842d269aadfd5f83ba945fa",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

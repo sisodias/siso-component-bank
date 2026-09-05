@@ -1,0 +1,31 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "incident-metrics-chart",
+  "visual_style": [
+    "dark",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "healthcare"
+  ],
+  "platform_fit": [
+    "desktop"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Monitoring service health and incident frequency across infrastructure",
+    "Tracking incident trends for platform reliability reporting",
+    "Displaying operational metrics for on-call and devops teams",
+    "Visualizing SLA compliance data across multiple services"
+  ],
+  "ai_summary": "A dark-themed analytics bar chart component for visualizing incident reports across multiple services, built with reaviz library. Displays incident counts with colorful gradient bars on a black background, designed for dashboard integration in monitoring and incident management applications.",
+  "_classifiedAt": "2026-04-23T17:14:56.310Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

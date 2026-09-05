@@ -1,0 +1,35 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "segmented-control-tab-selector",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Tabbed content navigation in web applications",
+    "Segmented control for filtering or category selection",
+    "Simple category or format selector in settings pages",
+    "Step indicator in multi-step forms or wizards",
+    "Language or view mode toggle in dashboards"
+  ],
+  "ai_summary": "A minimalist segmented control component using CSS peer selection for tab switching. Features a clean white container with subtle gray border and indigo accent color for the active state. Simple three-option tab group ideal for navigating between content sections or selecting display modes in web applications.",
+  "_classifiedAt": "2026-04-23T01:48:31.176Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

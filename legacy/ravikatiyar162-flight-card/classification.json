@@ -1,0 +1,28 @@
+{
+  "category": "data-display",
+  "subcategory": "badge-label",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display status indicators with color-coded variants",
+    "Show labels for categories or tags in content",
+    "Indicate notification counts or badges",
+    "Mark items with destructive or secondary states",
+    "Create accessible form validation indicators"
+  ],
+  "ai_summary": "A reusable Badge component with four variants (default, secondary, destructive, outline) for displaying status labels, tags, and category indicators. Built with Tailwind CSS and class-variance-authority for flexible styling, featuring hover and focus states for interactive feedback.",
+  "_classifiedAt": "2026-04-23T01:46:51.822Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

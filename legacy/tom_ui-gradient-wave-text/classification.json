@@ -1,0 +1,33 @@
+{
+  "category": "media",
+  "subcategory": "gradient-animated-text",
+  "visual_style": [
+    "gradient",
+    "colorful"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Animated hero headlines with flowing gradient effects to capture user attention",
+    "Landing page subheadings with customizable color bands and wave motion",
+    "Emphasis text with scroll-triggered animations using IntersectionObserver",
+    "Brand typography with pause/resume controls for user-initiated interaction",
+    "Visual accent text with radial or linear gradient modes and configurable band counts"
+  ],
+  "ai_summary": "A text component that renders animated gradient waves across text characters using requestAnimationFrame for smooth motion. Features customizable color palettes, configurable band counts and gaps, scroll-triggered animations via IntersectionObserver, and support for repeat/single-play modes. Includes mouse event handlers and accessibility support through aria-label, making it suitable for eye-catching hero sections and landing page typography.",
+  "_classifiedAt": "2026-04-22T09:18:01.628Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

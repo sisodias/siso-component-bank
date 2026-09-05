@@ -1,0 +1,26 @@
+{
+  "id": "uilayout.contact__image-masking",
+  "author": "uilayout.contact",
+  "slug": "image-masking",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uilayout.contact/components/image-masking",
+  "fetchedAt": "2026-08-29T07:44:09.746Z",
+  "completedAt": "2026-08-29T07:44:11.783Z",
+  "versionedFilename": "code.1749990327252.tsx",
+  "codeReference": "r2://components-code-private/larsen66/image-masking/code.1749990327252.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/image-masking/code.1749990327252.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 19389,
+  "sha256": "69fe8d73a06aa9cd067088e4b38b752b39df3e842993717e329940b9a486da84",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ssicevs/components/crypto-fiat",
+  "author": "ssicevs",
+  "slug": "crypto-fiat",
+  "name": "crypto-fiat",
+  "description": "Dual-denomination amount field: type in dollars or units, and the toggle flips which one you are editing while the counter-value rides underneath. The headline steps down through font-size tiers as the number grows, so long amounts stay crisp instead of overflowing, and each digit that actually changed blurs and pops into place. Light and dark via shadcn theme tokens; respects reduced motion.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ssicevs/crypto-fiat?api_key=$API_KEY_21ST\"",
+  "id": "ssicevs__crypto-fiat",
+  "bundleUrl": "https://cdn.21st.dev/ssicevs/crypto-fiat/default/bundle.1785453803533-6afbe43c-1ff5-4115-b5b5-1656078a14dc.html",
+  "previewUrl": "https://cdn.21st.dev/ssicevs/crypto-fiat/default/preview.1785453803533-6afbe43c-1ff5-4115-b5b5-1656078a14dc.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

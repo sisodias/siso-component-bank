@@ -1,0 +1,34 @@
+{
+  "category": [
+    "hero"
+  ],
+  "subcategory": "shader-hero-background",
+  "visual_style": [
+    "glass-morphism",
+    "gradient",
+    "3d"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creating immersive hero sections with animated shader backgrounds for landing pages",
+    "Adding interactive visual effects that respond to mouse movement for engagement",
+    "Building visually striking portfolio or product showcase pages",
+    "Enhancing brand presence with modern glassmorphism and mesh gradient effects",
+    "Creating animated backgrounds for marketing and promotional content"
+  ],
+  "ai_summary": "A visually immersive hero section component featuring animated WebGL shaders (MeshGradient, PulsingBorder) with glassmorphism effects using custom SVG filters. The component responds to mouse hover interactions to toggle shader animations, creating dynamic flowing gradients with gooey and displacement effects. Ideal for SaaS landing pages and creative portfolios requiring modern, engaging hero backgrounds with premium visual polish.",
+  "_classifiedAt": "2026-04-22T09:19:02.577Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

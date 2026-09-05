@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "heatmap-chart",
+  "visual_style": [
+    "gradient",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Visualizing activity density patterns over time periods",
+    "Displaying user engagement metrics with color-coded intensity",
+    "Showing time-series data distribution across categories",
+    "Rendering usage analytics in dashboard interfaces",
+    "Comparing relative values across multiple data bins"
+  ],
+  "ai_summary": "A customizable heatmap chart component that visualizes data density and intensity using color gradients. Supports both circular and rectangular bin layouts with configurable margins and dimensions. Uses hot-to-cool color scales to represent value distribution, making it ideal for displaying activity patterns, engagement metrics, and comparative analytics in dashboard or analytics interfaces.",
+  "_classifiedAt": "2026-04-23T11:29:42.530Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

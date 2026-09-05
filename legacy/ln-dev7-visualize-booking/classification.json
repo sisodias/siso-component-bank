@@ -1,0 +1,27 @@
+{
+  "category": "data-display",
+  "subcategory": "calendar-booking-grid",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "healthcare",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Visualize daily booking slots with meeting counts in a compact calendar grid view",
+    "Display scheduling availability with hover interactions to preview meeting details",
+    "Show weekly or monthly booking density with animated visual feedback",
+    "Enable quick overview of appointments across multiple days in a single component",
+    "Provide a scheduling interface for appointment-based services"
+  ],
+  "ai_summary": "A booking visualization calendar component that displays days in a grid layout with meeting counts and animated hover interactions. Uses Framer Motion for smooth transitions and reveals meeting information on hover. Designed with a dark theme suitable for dashboard interfaces in scheduling applications.",
+  "_classifiedAt": "2026-04-23T16:52:41.430Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

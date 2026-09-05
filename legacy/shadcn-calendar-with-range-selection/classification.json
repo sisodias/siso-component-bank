@@ -1,0 +1,31 @@
+{
+  "category": "data-display",
+  "subcategory": "calendar-date-picker",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "real-estate",
+    "healthcare"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Select date ranges for booking appointments or reservations",
+    "Filter data reports and analytics by custom date periods",
+    "Schedule events across multiple days with visual range indication",
+    "Choose check-in and check-out dates for travel or accommodations",
+    "Set time-bound criteria in forms like report generation or data exports"
+  ],
+  "ai_summary": "A calendar component with range selection capability from shadcn/ui, allowing users to visually select a span of dates for booking, scheduling, or filtering purposes. Built with Radix UI primitives for accessibility, featuring hover states on individual dates and visual highlighting of selected date ranges.",
+  "_classifiedAt": "2026-04-23T17:26:29.072Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

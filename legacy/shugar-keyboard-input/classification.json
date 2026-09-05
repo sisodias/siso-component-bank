@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "keyboard-key-indicator",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying keyboard shortcuts in documentation or help sections",
+    "Showing keyboard modifiers (⌘, ⇧, ⌥, ⌃) in tutorial UIs",
+    "Indicating keyboard-triggered actions in software interfaces",
+    "Creating keyboard shortcut legends for applications"
+  ],
+  "ai_summary": "A minimalist keyboard key indicator component that renders individual keyboard characters with optional modifier symbols. Supports meta, shift, alt, and ctrl modifiers alongside custom key labels. Features configurable sizing and follows flat design principles with clean typography. Ideal for dev-tools and SaaS products that need to display keyboard shortcuts or provide keyboard navigation guidance.",
+  "_classifiedAt": "2026-04-23T17:30:11.203Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

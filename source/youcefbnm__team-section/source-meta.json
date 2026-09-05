@@ -1,0 +1,17 @@
+{
+ "id": "youcefbnm__team-section",
+ "outcome": "retrieved",
+ "retrievalMethod": "local-legacy-store-copy",
+ "provenanceNote": "Copied from the pre-existing local legacy 21st store; NOT fetched from 21st.dev by this lane.",
+ "legacySourcePath": "legacy/youcefbnm-team-section/team-section.tsx",
+ "legacySourceFile": "team-section.tsx",
+ "legacyDependencies": [
+  "motion"
+ ],
+ "upstreamUrl": "https://21st.dev/@youcefbnm/components/team-section",
+ "httpStatus": null,
+ "sha256": "9b0d55310c32931494295b0c73d3f4a31859c7fcca1b6b46191ee251eb24c0bb",
+ "bytes": 2935,
+ "completedAt": "2026-08-29T03:43:54.201Z",
+ "seededBy": "CENA-directive-2026-08-29-skip-legacy"
+}

@@ -1,0 +1,28 @@
+{
+  "category": "card",
+  "subcategory": "travel-route-social",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying travel routes with distance and author attribution in a visually appealing card format",
+    "Enabling users to like and interact with travel content on social discovery platforms",
+    "Showcasing travel experiences with hero imagery and overlay text styling",
+    "Adding animated card elements to travel itinerary or trip planning interfaces",
+    "Creating shareable travel route previews with social engagement metrics"
+  ],
+  "ai_summary": "A travel route card component featuring a background image with overlay, displaying title, author, and distance information with a like button. Built with Framer Motion for hover scale animations and staggered entrance effects. The glass-morphism style combines a frosted overlay with shadow and rounded corners for a modern travel media aesthetic. Includes interactive like functionality with visual state feedback.",
+  "_classifiedAt": "2026-04-23T01:41:31.000Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

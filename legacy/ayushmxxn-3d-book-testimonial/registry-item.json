@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ayushmxxn-3d-book-testimonial",
+  "type": "registry:ui",
+  "title": "Ayushmxxn 3d Book Testimonial",
+  "description": "Installed from https://21st.dev/r/ayushmxxn/3d-book-testimonial",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ayushmxxn-3d-book-testimonial"
+  ],
+  "files": [
+    {
+      "path": "3d-book-testimonial.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@react-hook/media-query",
+    "next",
+    "react-pageflip"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ayushmxxn/3d-book-testimonial",
+    "fetchedAt": "2026-04-23T03:03:58.149Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

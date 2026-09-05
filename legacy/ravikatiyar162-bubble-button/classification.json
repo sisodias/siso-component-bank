@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card",
+    "feedback"
+  ],
+  "subcategory": "usage-indicator-badge",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display SaaS subscription plan usage metrics with visual feedback",
+    "Show usage limits with interactive bubble animation on hover",
+    "Animated usage indicator for dashboard monitoring interfaces",
+    "Plan tier comparison badges with progress visualization",
+    "Resource consumption indicators with tooltip information"
+  ],
+  "ai_summary": "A subscription usage badge component featuring an animated bubble effect that rises on hover. The component displays plan information, current usage counts, and limits with a tooltip for detailed context. The bubble animation creates an engaging visual indicator that responds to user interaction, making it ideal for SaaS dashboards and subscription management interfaces.",
+  "_classifiedAt": "2026-04-23T17:11:01.798Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

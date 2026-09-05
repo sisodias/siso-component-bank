@@ -1,0 +1,33 @@
+{
+  "id": "sshahaider__dotted-surface",
+  "author": "sshahaider",
+  "slug": "dotted-surface",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sshahaider/components/dotted-surface",
+  "fetchedAt": "2026-08-29T07:25:03.657Z",
+  "completedAt": "2026-08-29T07:25:05.855Z",
+  "versionedFilename": "code.1785469416363-efa502af-ddbb-41c0-8aaa-2b472de5a664.tsx",
+  "codeReference": "r2://components-code-private/sshahaider/dotted-surface/code.1785469416363-efa502af-ddbb-41c0-8aaa-2b472de5a664.tsx",
+  "codeUrl": "https://cdn.21st.dev/sshahaider/dotted-surface/code.1785469416363-efa502af-ddbb-41c0-8aaa-2b472de5a664.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/sshahaider__dotted-surface/code.tsx",
+    "bytes": 4636,
+    "sha256": "2fcd56b05888a24aa9f75aae48bf7520d6065753892b8f371f69ea8263a270ef",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

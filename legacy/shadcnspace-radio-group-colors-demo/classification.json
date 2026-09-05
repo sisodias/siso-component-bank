@@ -1,0 +1,27 @@
+{
+  "category": "input",
+  "subcategory": "colored-radio-group",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Form selection with semantic color coding for error/success states",
+    "Settings pages requiring visual status indicators",
+    "Survey or quiz interfaces with color-coded answer options",
+    "E-commerce product filtering by status (approved/rejected)",
+    "Admin dashboards with color-coded selection controls"
+  ],
+  "ai_summary": "A color-variant RadioGroup component for selecting from predefined options with semantic color coding (error/destructive, success/approved). Built with Radix UI primitives and styled with Tailwind CSS for consistent cross-platform form selection UI.",
+  "_classifiedAt": "2026-04-22T09:15:15.858Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

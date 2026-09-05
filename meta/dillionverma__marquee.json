@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@dillionverma/components/marquee",
+  "author": "dillionverma",
+  "slug": "marquee",
+  "name": "marquee",
+  "description": "An infinite scrolling component that can be used to display text, images, or videos.\n\nAdd the following animations to your tailwind.config.js file:\nextend: {\n      animation: {\n        marquee: \"marquee var(--duration) linear infinite\",\n        \"marquee-vertical\": \"marquee-vertical var(--duration) linear infinite\",\n      },\n      keyframes: {\n        marquee: {\n          from: { transform: \"translateX(0)\" },\n          to: { transform: \"translateX(calc(-100% - var(--gap)))\" },\n        },\n        \"marquee-vertical\": {\n          from: { transform: \"translateY(0)\" },\n          to: { transform: \"translateY(calc(-100% - var(--gap)))\" },\n        },\n      },\n    },",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/dillionverma/marquee?api_key=$API_KEY_21ST\"",
+  "id": "dillionverma__marquee",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1477.html",
+  "previewUrl": "https://cdn.21st.dev/user_magicui/marquee.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 1208,
+  "demo_id": 1477,
+  "video_url": "https://cdn.21st.dev/user_magicui/marquee/default/video.mp4"
+}

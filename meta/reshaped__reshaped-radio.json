@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@reshaped/components/reshaped-radio",
+  "author": "reshaped",
+  "slug": "reshaped-radio",
+  "name": "reshaped-radio",
+  "description": "Works like a native radio button with value passed to the form on submission, in controlled or uncontrolled mode. Comes in three sizes, supports error and disabled states, and a RadioGroup compound for exclusive selection with any layout, FormControl group labels and card-based composition.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/reshaped/reshaped-radio?api_key=$API_KEY_21ST\"",
+  "id": "reshaped__reshaped-radio",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/reshaped-radio/default/bundle.1783441236441.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/reshaped-radio/default/preview.1783441236441.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

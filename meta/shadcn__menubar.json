@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@shadcn/components/menubar",
+  "author": "shadcn",
+  "slug": "menubar",
+  "name": "menubar",
+  "description": "A visually persistent menu common in desktop applications that provides quick access to a consistent set of commands.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/shadcn/menubar?api_key=$API_KEY_21ST\"",
+  "id": "shadcn__menubar",
+  "bundleUrl": "https://cdn.21st.dev/bundled/950.html",
+  "previewUrl": "https://cdn.21st.dev/user_shadcn/menubar.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

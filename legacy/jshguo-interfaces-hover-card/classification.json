@@ -1,0 +1,35 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "hover-triggered-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying user profile previews when hovering over avatar or username links",
+    "Showing detailed product information on e-commerce category pages",
+    "Revealing contextual help or tooltips for complex form fields",
+    "Previewing links or media content without leaving the current page",
+    "Displaying author or source information in content-heavy applications"
+  ],
+  "ai_summary": "A lightweight hover card component built on Radix UI primitives with Tailwind styling. Displays contextual content that appears on mouse hover with smooth fade and scale animations. Features a clean, minimal design with a shadow, border, and rounded corners that fits seamlessly into any application needing non-intrusive preview or tooltip functionality.",
+  "_classifiedAt": "2026-04-22T09:02:04.087Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

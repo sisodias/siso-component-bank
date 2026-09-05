@@ -1,0 +1,37 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action trigger for forms and dialogs",
+    "Navigation links with styled appearance",
+    "Icon-only buttons for compact UI interfaces",
+    "Destructive actions with visual warning states",
+    "Disabled button states for conditional interactions"
+  ],
+  "ai_summary": "A versatile button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, small, large, icon). Built with Radix UI Slot for asChild composition and class-variance-authority for type-safe variant management. Features standard accessibility attributes including focus-visible ring and disabled states. Standard shadcn/ui design system component.",
+  "_classifiedAt": "2026-04-23T11:30:42.081Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

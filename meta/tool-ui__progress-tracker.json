@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@tool-ui/components/progress-tracker",
+  "author": "tool-ui",
+  "slug": "progress-tracker",
+  "name": "progress-tracker",
+  "description": "A multi-step progress tracker that shows real-time status (pending, in-progress, completed, failed) for each step of an operation, with an elapsed-time badge and a receipt summary state.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/tool-ui/progress-tracker?api_key=$API_KEY_21ST\"",
+  "id": "tool-ui__progress-tracker",
+  "bundleUrl": "https://cdn.21st.dev/tool-ui/progress-tracker/default/bundle.1784369377164-aeedae09-6244-4af6-b5c7-3469a3281ef1.html",
+  "previewUrl": "https://cdn.21st.dev/tool-ui/progress-tracker/default/preview.1784369377164-aeedae09-6244-4af6-b5c7-3469a3281ef1.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

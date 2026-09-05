@@ -1,0 +1,25 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in forms and landing pages",
+    "Navigation triggers with ghost and link variants",
+    "Icon-only buttons for compact toolbars",
+    "Destructive action buttons for delete or remove operations",
+    "Secondary actions with outline and secondary variants"
+  ],
+  "ai_summary": "A reusable React button component with comprehensive variant options (default, destructive, outline, secondary, ghost, link) and size configurations (default, small, large, icon). Built with class-variance-authority for type-safe variant management and Radix UI Slot for flexible composition. Includes built-in accessibility features with focus-visible ring states and proper disabled state handling.",
+  "_classifiedAt": "2026-04-22T08:57:13.748Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "tomisloading-clip-path-links",
+  "type": "registry:ui",
+  "title": "Tomisloading Clip Path Links",
+  "description": "Installed from https://21st.dev/r/TomIsLoading/clip-path-links",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "tomisloading-clip-path-links"
+  ],
+  "files": [
+    {
+      "path": "clip-path-links.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "lucide-react",
+    "react-icons"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/TomIsLoading/clip-path-links",
+    "fetchedAt": "2026-04-23T03:04:41.394Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

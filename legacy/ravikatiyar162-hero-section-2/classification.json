@@ -1,0 +1,37 @@
+{
+  "category": [
+    "hero"
+  ],
+  "subcategory": "hero-with-contact-info",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Landing page hero sections for SaaS and business websites requiring visible contact information",
+    "Corporate landing pages where immediate contact details are essential for user conversion",
+    "Professional service websites needing a clean introduction with phone, address, and website details",
+    "Product launch pages with animated hero content to capture user attention",
+    "E-commerce or fintech platforms requiring trust-building contact information display"
+  ],
+  "ai_summary": "A professional hero section component featuring animated entrance effects using Framer Motion, displaying company branding with logo, slogan, and title alongside a contact information bar with website, phone, and address icons. Built with Tailwind CSS and a cn utility for className merging, designed to be responsive across desktop and mobile platforms. Ideal for business landing pages needing prominent contact details and smooth scroll-triggered animations.",
+  "_classifiedAt": "2026-04-23T17:11:49.458Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

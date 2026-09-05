@@ -1,0 +1,28 @@
+{
+  "category": "other",
+  "subcategory": "cursor-follow, animated-cursor-overlay",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creates a custom animated cursor that follows the mouse with spring physics for smooth tracking",
+    "Displays contextual text in the cursor bubble when hovering over interactive elements",
+    "Adds visual polish and interactivity to any React application as a decorative wrapper",
+    "Provides creative navigation feedback mechanism for SaaS dashboards or landing pages",
+    "Enhances presentations with dynamic cursor effects that react to user movement"
+  ],
+  "ai_summary": "A custom cursor follower component that tracks mouse position using Framer Motion's spring physics for buttery-smooth following behavior. Wraps any content and creates an animated circular bubble that tracks the cursor, with the ability to display text inside the bubble when hovering over child elements. The component uses motion values and springs for performant, jank-free animations and includes text measurement logic for dynamic bubble sizing.",
+  "_classifiedAt": "2026-04-23T16:38:28.023Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "avatar-profile-hover-card",
+  "visual_style": [
+    "minimalist",
+    "glass-morphism"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display user profile information with a compact avatar that expands on hover to reveal full details",
+    "Showcase team member cards in a clean, interactive format on company about pages",
+    "Create social media-style user cards with bio and action buttons",
+    "Build contact cards that reveal additional information on interaction",
+    "Implement user mentions with hover previews in comment threads or chat interfaces"
+  ],
+  "ai_summary": "An interactive avatar profile card component that displays a compact user avatar which expands on hover to reveal full profile details including name, username, description, and a customizable action button. Features multiple visual variants (default, glass, bordered) and size options, built with Framer Motion for smooth reveal animations. Perfect for SaaS applications, social platforms, and creator tools requiring elegant user profile displays.",
+  "_classifiedAt": "2026-04-22T09:06:46.103Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

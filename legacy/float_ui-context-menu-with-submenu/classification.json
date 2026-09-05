@@ -1,0 +1,33 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "context-menu-with-submenu",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Right-click contextual actions for file management systems like document editors or cloud storage dashboards",
+    "Nested navigation menus for admin panels or settings interfaces with hierarchical option groups",
+    "Action menus in productivity tools such as project management or note-taking applications",
+    "Quick action menus for e-commerce admin interfaces managing products, orders, or inventory",
+    "Contextual menus in developer tools for code editors or database management interfaces"
+  ],
+  "ai_summary": "A right-click triggered context menu component with nested submenus built on Radix UI primitives. Features a clean flat design with grouped menu items, keyboard shortcut indicators, and smooth hover states for submenu navigation. The menu appears via portal overlay with configurable positioning and is designed primarily for desktop productivity applications requiring hierarchical action menus.",
+  "_classifiedAt": "2026-04-23T16:40:28.287Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

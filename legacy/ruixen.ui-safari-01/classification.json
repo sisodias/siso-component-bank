@@ -1,0 +1,27 @@
+{
+  "category": "media",
+  "subcategory": "browser-window-mockup",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying website or app screenshots in documentation and landing pages",
+    "Creating portfolio showcases for design work or case studies",
+    "Presenting product demos in a realistic browser frame context",
+    "Building marketing materials with device mockup imagery",
+    "Adding visual context to tutorial or demo content"
+  ],
+  "ai_summary": "A reusable browser window component that renders a Safari-like interface frame with macOS-style traffic light buttons, address bar, and a responsive image preview area. Supports dark mode theming and accepts custom styling via className props for flexible integration into documentation sites, landing pages, or portfolio showcases.",
+  "_classifiedAt": "2026-04-23T17:20:58.940Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

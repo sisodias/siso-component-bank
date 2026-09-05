@@ -1,0 +1,36 @@
+{
+  "category": "data-display",
+  "subcategory": "badge-label",
+  "visual_style": [
+    "flat",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "creator-tools",
+    "dev-tools",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display status labels on dashboard cards and data tables",
+    "Show product categories, tags, or classification markers in e-commerce",
+    "Indicate subscription tiers like trial, pro, or premium badges",
+    "Highlight feature availability or limits in settings pages",
+    "Mark content types or metadata in media and content platforms"
+  ],
+  "ai_summary": "A versatile badge component with 16 color variants including solid, subtle, and gradient options. Supports three sizes (sm, md, lg) with optional icon integration and optional Link wrapping for navigation. Built with Tailwind CSS for consistent theming across SaaS, e-commerce, and dashboard interfaces.",
+  "_classifiedAt": "2026-04-23T17:29:20.063Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

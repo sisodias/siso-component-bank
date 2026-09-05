@@ -1,0 +1,29 @@
+{
+  "category": "form",
+  "subcategory": "authentication",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "User login with email/password credentials",
+    "Social authentication via Apple and GitHub",
+    "Two-factor authentication with email code",
+    "Remember me functionality for returning users",
+    "Session management and logout functionality"
+  ],
+  "ai_summary": "A professional authentication page component featuring a split-panel layout with a decorative left side containing testimonials and floating animated elements, paired with a right-side login form supporting email/password and social authentication methods like Apple and GitHub. Built with Framer Motion for smooth animations and Tailwind CSS for a modern minimalist aesthetic with gradient accents and responsive design across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T01:53:07.766Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

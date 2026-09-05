@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "wheel-picker",
+  "visual_style": [
+    "minimalist",
+    "dark"
+  ],
+  "interactions": [
+    "drag",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Selecting date or time components in forms with a spinning drum interface",
+    "Choosing quantities or numeric values in e-commerce product pages",
+    "Navigating through option lists with smooth scrolling interactions",
+    "Implementing mobile-friendly form inputs that work across desktop and mobile"
+  ],
+  "ai_summary": "A wheel picker component featuring iOS-style spinning selection drums for choosing from option lists. Supports both light and dark modes with subtle ring styling and rounded corners. The component provides smooth scrolling interactions suitable for selecting dates, quantities, or categorical values in forms and data selection interfaces.",
+  "_classifiedAt": "2026-04-23T17:03:12.760Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

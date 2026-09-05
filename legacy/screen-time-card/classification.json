@@ -1,0 +1,27 @@
+{
+  "category": "data-display",
+  "subcategory": "stats-card-with-bar-chart",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "healthcare",
+    "saas",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying daily or weekly screen time statistics in health and wellness tracking dashboards",
+    "Showing app usage breakdown with animated visualization for user analytics products",
+    "Presenting hourly usage patterns with total time summaries in productivity monitoring tools",
+    "Serving as a reusable card component in multi-metric analytics interfaces"
+  ],
+  "ai_summary": "A screen time dashboard card component featuring an animated bar graph showing usage over time, prominent total hours/minutes display, and a ranked list of top apps with icons and durations. Uses Framer Motion for spring-based bar animations and glass-morphism styling with gradient backgrounds and backdrop blur. Supports dark mode and includes normalized bar height calculations for consistent visualization.",
+  "_classifiedAt": "2026-04-22T09:13:50.743Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

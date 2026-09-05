@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@shadcn/components/popover",
+  "author": "shadcn",
+  "slug": "popover",
+  "name": "popover",
+  "description": "Displays rich content in a portal, triggered by a button.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/shadcn/popover?api_key=$API_KEY_21ST\"",
+  "id": "shadcn__popover",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1320.html",
+  "previewUrl": "https://cdn.21st.dev/user_shadcn/popover.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

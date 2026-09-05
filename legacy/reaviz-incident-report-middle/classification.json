@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display",
+    "card"
+  ],
+  "subcategory": "incident-report-dashboard-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying incident metrics and trends in DevOps monitoring dashboards",
+    "Showing uptime and incident history for SaaS status pages",
+    "Tracking critical vs total incidents over selectable time ranges",
+    "Providing visual incident reports for SRE/on-call teams"
+  ],
+  "ai_summary": "A composite incident report card component featuring an interactive area chart, time range selector, and metric summaries with dark/light mode support. Uses reaviz for charting and framer-motion for animations. Designed for monitoring dashboards, status pages, and DevOps tooling where incident tracking and reporting are essential.",
+  "_classifiedAt": "2026-04-23T17:15:10.649Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

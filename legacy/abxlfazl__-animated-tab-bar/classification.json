@@ -1,0 +1,33 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "animated-tab-bar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Bottom navigation for mobile apps with smooth sliding indicator animation",
+    "Category switching in web applications with visual feedback",
+    "Tab-based section navigation with animated state transitions",
+    "Primary navigation menu for single-page applications"
+  ],
+  "ai_summary": "An animated tab bar component featuring a sliding indicator that smoothly transitions between tab items using CSS transforms. Supports custom icons and colors, handles responsive resizing, and provides visual feedback through animated selection states. Built with React hooks for efficient state management and responsive behavior.",
+  "_classifiedAt": "2026-04-23T11:28:17.607Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

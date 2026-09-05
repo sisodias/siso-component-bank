@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@haydenbleasel/components/calendar",
+  "author": "haydenbleasel",
+  "slug": "calendar",
+  "name": "calendar",
+  "description": "The calendar view displays features on a grid calendar. Specifically it shows the end date of each feature, and groups features by day.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/haydenbleasel/calendar?api_key=$API_KEY_21ST\"",
+  "id": "haydenbleasel__calendar",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1559.html",
+  "previewUrl": "https://cdn.21st.dev/user_haydenbleasel/calendar.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

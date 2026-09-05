@@ -1,0 +1,35 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "image-mask-clip-path",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Applying geometric clip-path masks to images for decorative layouts",
+    "Creating unique image shapes for profile cards and galleries",
+    "Masking images for creative hero section designs",
+    "Adding visual interest to image displays with non-rectangular shapes",
+    "Building masked image grids for portfolio or product showcases"
+  ],
+  "ai_summary": "An SVG-based image mask component that applies custom geometric clip paths to images, creating non-rectangular masked image effects. The component defines multiple clip path patterns using SVG clipPath elements with evenOdd fill rules. It renders as a container div and relies on external image content to apply the mask effect. Designed for creative image display scenarios in various web applications.",
+  "_classifiedAt": "2026-04-23T17:37:41.387Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

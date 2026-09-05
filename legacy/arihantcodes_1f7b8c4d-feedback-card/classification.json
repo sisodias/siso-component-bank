@@ -1,0 +1,34 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "emoji-satisfaction-rating",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "morph",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Collecting user satisfaction ratings after website interactions",
+    "Gathering quick feedback after purchases or service completion",
+    "Embedding in-app satisfaction surveys in SaaS dashboards",
+    "Obtaining post-support ticket feedback from customers",
+    "Adding simple feedback mechanisms to e-commerce checkout flows"
+  ],
+  "ai_summary": "An emoji-based feedback card component that collects user satisfaction ratings through animated emoji buttons (Laugh, Smile, Frown, Angry) and an optional text area. Features smooth morphing animations between states using Framer Motion, with dark mode support and a clean minimalist design. Supports automatic form reset after successful submission with configurable timeouts.",
+  "_classifiedAt": "2026-04-23T11:30:40.874Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

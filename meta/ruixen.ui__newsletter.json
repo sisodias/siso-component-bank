@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/newsletter",
+  "author": "ruixen.ui",
+  "slug": "newsletter",
+  "name": "newsletter",
+  "description": "This NewsletterCard component is a reusable UI block built with Shadcn UI and Tailwind CSS that allows users to subscribe to a newsletter. It features a responsive card layout with a gradient background that adapts to both light and dark themes. Inside, it includes a title, description, email input field, and a subscribe button. The design ensures accessibility with good color contrast, rounded corners, and spacing for readability.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/newsletter?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__newsletter",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/newsletter/default/bundle.1757347881403.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/newsletter/default/preview.1757347881402.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 6,
+  "demo_id": 7077,
+  "video_url": null
+}

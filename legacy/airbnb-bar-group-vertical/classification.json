@@ -1,0 +1,29 @@
+{
+  "category": "data-display",
+  "subcategory": "grouped-bar-chart",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Comparing multiple data series across categories in dashboards",
+    "Displaying time-series analytics with multiple metrics",
+    "Visualizing comparative performance across geographic regions",
+    "Business intelligence reporting with grouped metrics",
+    "Data monitoring interfaces showing multi-dimensional statistics"
+  ],
+  "ai_summary": "A grouped vertical bar chart component for visualizing comparative metrics across multiple categories or time periods. Uses the visx library to render multi-series data with color-coded bars for each data dimension. Designed for analytics dashboards, reporting interfaces, and data monitoring tools requiring clear comparative visualization.",
+  "_classifiedAt": "2026-04-23T11:29:27.394Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

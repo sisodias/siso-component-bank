@@ -1,0 +1,33 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "multi-step onboarding wizard",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Guiding new users through product features with step-by-step explanations",
+    "First-time setup experiences that introduce core functionality",
+    "Onboarding tours for SaaS dashboards and productivity tools",
+    "Welcome flows that showcase key value propositions"
+  ],
+  "ai_summary": "A polished multi-step onboarding dialog component featuring carousel-based navigation with smooth motion animations. Designed to welcome new users and guide them through product features with elegant slide transitions and visually appealing placeholder imagery. Implements AnimatePresence and embla-carousel for professional-grade UX during user onboarding flows.",
+  "_classifiedAt": "2026-04-22T09:07:43.649Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

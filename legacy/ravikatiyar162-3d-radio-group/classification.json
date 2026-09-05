@@ -1,0 +1,31 @@
+{
+  "category": "input",
+  "subcategory": "3d-radio-group",
+  "visual_style": [
+    "glass-morphism",
+    "3d"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selection UI for multi-step wizards or onboarding flows",
+    "Number or option selection in pricing tier selectors",
+    "Quantity picker for e-commerce product configurations",
+    "Tab-style navigation with glass morphism aesthetic",
+    "Settings panel option selection in modern SaaS dashboards"
+  ],
+  "ai_summary": "A 3D-styled radio group component with glass morphism effects featuring a frosted glass container with inner border and a vertical selector stack. Each option displays as a pill with an animated ball indicator that shows the selected state. The component uses backdrop-filter blur, layered shadows, and depth effects to create a premium tactile appearance suitable for modern SaaS interfaces.",
+  "_classifiedAt": "2026-04-23T17:10:40.903Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

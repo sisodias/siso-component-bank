@@ -1,0 +1,26 @@
+{
+  "id": "platejs__caption",
+  "author": "platejs",
+  "slug": "caption",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@platejs/components/caption",
+  "fetchedAt": "2026-08-29T06:09:51.977Z",
+  "completedAt": "2026-08-29T06:09:54.403Z",
+  "versionedFilename": "code.1783728080179.tsx",
+  "codeReference": "r2://components-code-private/platejs/caption/code.1783728080179.tsx",
+  "codeUrl": "https://cdn.21st.dev/platejs/caption/code.1783728080179.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1547,
+  "sha256": "c95db91f3e1b1e70168e25f5195d016bd7c14ccb77de812318d53e6d46cc3ac9",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

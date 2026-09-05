@@ -1,0 +1,26 @@
+{
+  "id": "lovesickfromthe6ix__hero",
+  "author": "lovesickfromthe6ix",
+  "slug": "hero",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@lovesickfromthe6ix/components/hero",
+  "fetchedAt": "2026-08-29T05:31:25.828Z",
+  "completedAt": "2026-08-29T05:31:27.852Z",
+  "versionedFilename": "code.1757057943041.tsx",
+  "codeReference": "r2://components-code-private/lovesickfromthe6ix/hero/code.1757057943041.tsx",
+  "codeUrl": "https://cdn.21st.dev/lovesickfromthe6ix/hero/code.1757057943041.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 9323,
+  "sha256": "f23bc40b037d57f75251cc139bc22ff9ee21e3fcac51d8e858f4b056aa5944bc",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

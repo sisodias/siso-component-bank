@@ -1,0 +1,26 @@
+{
+  "id": "0xUrvish__empty-testimonial",
+  "author": "0xUrvish",
+  "slug": "empty-testimonial",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@0xUrvish/components/empty-testimonial",
+  "fetchedAt": "2026-08-29T03:24:26.839Z",
+  "completedAt": "2026-08-29T03:24:29.999Z",
+  "versionedFilename": "code.1773296742935.tsx",
+  "codeReference": "r2://components-code-private/larsen66/empty-testimonial/code.1773296742935.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/empty-testimonial/code.1773296742935.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7999,
+  "sha256": "dac593b82493428d1b78d92907fdffc241b00ffc83fcc08df23a66501a9224b0",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

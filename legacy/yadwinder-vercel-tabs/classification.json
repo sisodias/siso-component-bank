@@ -1,0 +1,29 @@
+{
+  "category": "navigation",
+  "subcategory": "tab-switcher",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Switching between different content sections within a single page layout",
+    "Organizing navigation in dashboards and admin interfaces",
+    "Categorizing products or services in e-commerce filters",
+    "Managing settings or preferences in user account sections",
+    "Displaying different data views in analytics or reporting tools"
+  ],
+  "ai_summary": "A tab navigation component featuring a smooth sliding indicator that tracks both active and hovered tab states. Styled with Vercel's minimalist aesthetic, it uses CSS transitions and dynamic positioning calculations to create an elegant, responsive tabs experience. The component renders a hover highlight and active state indicator with fluid animations.",
+  "_classifiedAt": "2026-04-23T17:44:30.368Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

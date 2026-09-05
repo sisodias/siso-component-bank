@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "minhxthanh-digital-serenity-animated-landing-page",
+  "type": "registry:ui",
+  "title": "Minhxthanh Digital Serenity Animated Landing Page",
+  "description": "Installed from https://21st.dev/r/minhxthanh/digital-serenity-animated-landing-page",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "minhxthanh-digital-serenity-animated-landing-page"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "digital-serenity-animated-landing-page.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/minhxthanh/digital-serenity-animated-landing-page",
+    "fetchedAt": "2026-04-23T03:04:34.199Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

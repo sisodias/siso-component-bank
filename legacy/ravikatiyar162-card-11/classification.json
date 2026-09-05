@@ -1,0 +1,29 @@
+{
+  "category": "card",
+  "subcategory": "news-feed-list",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying a list of recent news articles in a dashboard",
+    "Showing latest updates in a media or publishing platform",
+    "Creating a news feed section for SaaS applications",
+    "Building a news aggregator widget for content websites",
+    "Displaying dated news items with images and source attribution"
+  ],
+  "ai_summary": "A responsive news card component that displays a list of articles with image thumbnails, titles, dates, and source attributions. Features smooth staggered entrance animations using Framer Motion. Theme-adaptive with CSS variable support for dark/light modes. Includes a header with title and 'View All' action link. Designed for displaying news feeds, updates, or article lists in modern web applications.",
+  "_classifiedAt": "2026-04-23T01:46:07.312Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

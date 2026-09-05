@@ -1,0 +1,26 @@
+{
+  "category": "media",
+  "subcategory": "gradient-tracing-path-animation",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Add animated gradient lines to hero sections for visual appeal",
+    "Create moving dividers or separators between page sections",
+    "Enhance button or link borders with animated gradient effects",
+    "Decorate backgrounds with flowing gradient light trails",
+    "Add eye-catching motion to landing page and marketing sites"
+  ],
+  "ai_summary": "A lightweight React component that renders an animated SVG path with a gradient that smoothly traces across it using Framer Motion. The gradient effect creates a luminous, flowing line that cycles continuously, making it ideal for adding subtle motion accents to UI elements, section dividers, or decorative backgrounds in SaaS and media applications.",
+  "_classifiedAt": "2026-04-23T17:07:59.955Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

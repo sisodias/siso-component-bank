@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "phone-input",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Collecting phone numbers in contact forms",
+    "User registration with phone verification",
+    "Checkout flows requiring customer contact info",
+    "Lead generation forms for business inquiries",
+    "Customer support intake forms"
+  ],
+  "ai_summary": "A phone input component for contact forms that leverages Radix UI primitives for accessibility and class-variance-authority for flexible styling. Features standard button variants and sizes with Tailwind CSS integration. Part of the uilayout.contact design system, designed for collecting user phone numbers in various professional contexts.",
+  "_classifiedAt": "2026-04-23T17:38:26.375Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

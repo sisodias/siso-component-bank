@@ -1,0 +1,33 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "svg-clip-path-mask-image",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero sections with organic-shaped images for visual distinction",
+    "Portfolio or gallery displays with unique clip-path masks",
+    "Product showcases with artistic image container shapes",
+    "Feature sections requiring non-rectangular image layouts",
+    "Landing pages needing custom-shaped image overlays"
+  ],
+  "ai_summary": "A React component that renders images within a custom SVG clip-path mask to create organic, distinctive shapes. Features a hover scale animation on the underlying image and supports overlay content with text. The mask uses an SVG path with clipPathUnits for precise shape control, making it ideal for creating visually unique hero sections, product displays, or feature showcases with non-rectangular image containers.",
+  "_classifiedAt": "2026-04-23T01:48:34.533Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

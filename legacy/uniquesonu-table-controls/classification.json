@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "action-button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Triggering form submissions in data tables and dashboards",
+    "Navigation actions within table control interfaces",
+    "Performing destructive operations with variant styling",
+    "Secondary or tertiary actions in mixed-action interfaces"
+  ],
+  "ai_summary": "A flexible Radix UI-based button component with CVA-powered variant system supporting multiple visual styles (default, destructive, outline, secondary, ghost, link) and sizes. Implements standard accessibility patterns with focus-visible rings, disabled states, and composable asChild pattern for slot-based rendering. Part of a table-controls UI system designed for SaaS and data-heavy applications.",
+  "_classifiedAt": "2026-04-22T09:18:40.763Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

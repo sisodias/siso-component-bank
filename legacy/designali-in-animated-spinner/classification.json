@@ -1,0 +1,33 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "animated-loading-spinner",
+  "visual_style": [
+    "gradient",
+    "colorful"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display loading state during async operations like API calls or data fetching",
+    "Provide visual feedback during form submission processes",
+    "Show progress indication during page or route transitions",
+    "Indicate background processing in dashboard or admin interfaces",
+    "Enhance user experience during file uploads or data synchronization"
+  ],
+  "ai_summary": "A pure CSS animated spinner component featuring conic gradients with three distinct colors (yellow, purple, cyan), drop shadow effects, and dual animations for rotation and line-width pulsing. Built with CSS custom properties for size customization and produces a luminous, colorful loading indicator suitable for any loading state across SaaS, e-commerce, or general web applications.",
+  "_classifiedAt": "2026-04-23T16:29:47.825Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

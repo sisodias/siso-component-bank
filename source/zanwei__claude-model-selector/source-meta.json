@@ -1,0 +1,26 @@
+{
+  "id": "zanwei__claude-model-selector",
+  "author": "zanwei",
+  "slug": "claude-model-selector",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@zanwei/components/claude-model-selector",
+  "fetchedAt": "2026-08-29T08:01:55.504Z",
+  "completedAt": "2026-08-29T08:01:57.660Z",
+  "versionedFilename": "code.1785389895730-86d76b43-d4e8-40c6-a9da-a96e7c8ee095.tsx",
+  "codeReference": "r2://components-code-private/larsen66/claude-model-selector/code.1785389895730-86d76b43-d4e8-40c6-a9da-a96e7c8ee095.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/claude-model-selector/code.1785389895730-86d76b43-d4e8-40c6-a9da-a96e7c8ee095.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

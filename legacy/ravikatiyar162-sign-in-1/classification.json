@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action buttons in forms and interfaces",
+    "Submit buttons for authentication and sign-in flows",
+    "Call-to-action buttons across landing and marketing pages",
+    "Interactive navigation elements requiring user confirmation",
+    "Compact icon-triggered actions in toolbars and action bars"
+  ],
+  "ai_summary": "A versatile button component built with Radix UI Slot and CVA, offering multiple visual variants (default, destructive, outline, secondary, ghost, link) and size options (default, sm, lg, icon). Features subtle shadow effects and smooth hover/focus transitions for visual depth. Designed as a reusable atomic component for modern web applications across SaaS, fintech, and e-commerce platforms.",
+  "_classifiedAt": "2026-04-23T17:13:21.955Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

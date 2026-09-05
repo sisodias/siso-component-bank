@@ -1,0 +1,33 @@
+{
+  "category": "card",
+  "subcategory": "scroll-triggered-stack-cards",
+  "visual_style": [
+    "gradient",
+    "colorful"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "media",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying stacked product cards that animate in on scroll for e-commerce landing pages",
+    "Showcasing food menu items with emoji icons and colorful gradient backgrounds",
+    "Creating engaging testimonial or review card stacks with spring animations",
+    "Building portfolio showcases with scroll-triggered card reveals",
+    "Designing feature highlight sections with stacked animated cards"
+  ],
+  "ai_summary": "A scroll-triggered card stack component that displays multiple cards animating into view using Motion React. Cards feature colorful linear gradient backgrounds with custom clip-path splash shapes and spring physics animations that move cards upward while applying rotation. The component uses viewport detection to trigger animations, making it ideal for creating engaging scroll-based reveal effects on landing pages, product showcases, or feature displays.",
+  "_classifiedAt": "2026-04-23T01:40:43.248Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:37:58.155Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

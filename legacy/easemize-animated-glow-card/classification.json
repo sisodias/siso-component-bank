@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "glow-card",
+  "visual_style": [
+    "glass-morphism",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying premium feature highlights with animated glow effects on hover",
+    "Creating eye-catching pricing or product cards in landing pages",
+    "Showcasing highlighted content sections with glass-morphism aesthetic",
+    "Adding visual emphasis to important CTAs or calls-to-action",
+    "Building modern hero section content containers with animated borders"
+  ],
+  "ai_summary": "A premium card component featuring animated glowing borders and backdrop effects using SVG filters. The CardCanvas wrapper provides the glowing backdrop while the Card component features distinct border elements that animate on interaction. Ideal for SaaS landing pages, feature showcases, and premium content displays requiring a modern glass-morphism aesthetic.",
+  "_classifiedAt": "2026-04-23T16:36:44.476Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

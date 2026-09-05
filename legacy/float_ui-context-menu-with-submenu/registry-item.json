@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "float_ui-context-menu-with-submenu",
+  "type": "registry:ui",
+  "title": "Float_ui Context Menu With Submenu",
+  "description": "Installed from https://21st.dev/r/float_ui/context-menu-with-submenu",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "float_ui-context-menu-with-submenu"
+  ],
+  "files": [
+    {
+      "path": "context-menu-with-submenu.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-context-menu"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/float_ui/context-menu-with-submenu",
+    "fetchedAt": "2026-04-23T02:28:40.010Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

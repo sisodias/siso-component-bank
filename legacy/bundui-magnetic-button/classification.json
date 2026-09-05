@@ -1,0 +1,29 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "magnetic-hover-button",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Creating interactive CTAs with magnetic hover effect that draws the button toward the cursor",
+    "Adding engaging micro-interactions to buttons in landing pages or marketing sites",
+    "Enhancing user engagement through smooth spring-based animations"
+  ],
+  "ai_summary": "A magnetic button wrapper component built with React and framer-motion that creates an interactive hover effect where the button smoothly follows the cursor using spring physics. This atomic component wraps any child elements and adds magnetic attraction on hover, making call-to-action buttons more engaging and playful.",
+  "_classifiedAt": "2026-04-23T11:33:25.979Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "review-summary-rating-card",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying aggregate product or service ratings with animated count-up effects",
+    "Showcasing review summaries on e-commerce product pages",
+    "Presenting user feedback statistics on SaaS dashboards",
+    "Highlighting ratings for media content like apps, games, or courses",
+    "Adding social proof elements to landing pages and marketing sites"
+  ],
+  "ai_summary": "A responsive ReviewSummaryCard component that displays animated star ratings, review counts, and summary text with smooth count-up animations on mount. Built with Framer Motion for entrance and number animations, using Lucide React icons for star ratings. The card adapts to different themes via Tailwind CSS and includes comma-formatted review counts for better readability. Ideal for displaying social proof and aggregate ratings in e-commerce, SaaS, and media applications.",
+  "_classifiedAt": "2026-04-23T01:42:32.602Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

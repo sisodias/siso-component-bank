@@ -1,0 +1,26 @@
+{
+  "category": "feedback",
+  "subcategory": "onboarding-progress",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Multi-step account creation flow with visual progress indication",
+    "User onboarding sequences showing verification status",
+    "Loading state display during async operations like account setup",
+    "Welcome screens for new users with animated step indicators",
+    "Wizard-style progress tracking for configuration processes"
+  ],
+  "ai_summary": "An animated onboarding card component that displays a three-step progress sequence (Welcome, Verifying, Complete) with a loading bar and spinning indicator. Features auto-cycling animations through each stage with checkmark icons for completed steps. Supports light/dark modes with neutral gradient backgrounds. Designed for SaaS applications and dev-tools requiring user onboarding flows.",
+  "_classifiedAt": "2026-04-23T11:30:14.058Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

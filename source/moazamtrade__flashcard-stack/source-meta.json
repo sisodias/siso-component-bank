@@ -1,0 +1,26 @@
+{
+  "id": "moazamtrade__flashcard-stack",
+  "author": "moazamtrade",
+  "slug": "flashcard-stack",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@moazamtrade/components/flashcard-stack",
+  "fetchedAt": "2026-08-29T05:47:15.008Z",
+  "completedAt": "2026-08-29T05:47:17.249Z",
+  "versionedFilename": "code.1774611466530.tsx",
+  "codeReference": "r2://components-code-private/moazamtrade/flashcard-stack/code.1774611466530.tsx",
+  "codeUrl": "https://cdn.21st.dev/moazamtrade/flashcard-stack/code.1774611466530.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2594,
+  "sha256": "509f3fbcb45785055dc887239501643f25a79f29dd67f93c08418cc2f4818262",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

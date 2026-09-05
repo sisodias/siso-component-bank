@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/dropdown-multi-calendar",
+  "author": "ruixen.ui",
+  "slug": "dropdown-multi-calendar",
+  "name": "dropdown-multi-calendar",
+  "description": "The DropdownMultiCalendar is a powerful and user-friendly date selection component that enhances the traditional multi-date calendar with intuitive navigation controls. Built entirely with shadcn/ui, it features dropdown menus for quickly selecting a specific year and month, allowing users to jump instantly to any point in time without scrolling through the calendar. Once dates are chosen, they are displayed as interactive badges that can be individually removed for fine-grained control. The structured card layout, combined with a confirmation action, makes it ideal for applications like booking systems, event planners, and scheduling dashboards where efficient navigation and multi-date management are essential.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/dropdown-multi-calendar?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__dropdown-multi-calendar",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/dropdown-multi-calendar/default/bundle.1758990466880.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/dropdown-multi-calendar/default/preview.1758990466880.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 31,
+  "demo_id": 8235,
+  "video_url": null
+}

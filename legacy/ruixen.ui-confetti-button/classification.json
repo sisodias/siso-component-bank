@@ -1,0 +1,37 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "action-trigger-button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary action triggers in forms, dialogs, and calls-to-action across any web application",
+    "Navigation and routing triggers with consistent styling throughout an application",
+    "Destructive actions like delete or cancel operations using the destructive variant",
+    "Secondary or tertiary actions using outline, secondary, and ghost variants for visual hierarchy",
+    "Icon-only buttons for compact UI spaces like toolbars or navigation bars"
+  ],
+  "ai_summary": "A versatile, Radix UI-based button component with CVA-powered variant system offering 6 visual styles (default, destructive, outline, secondary, ghost, link) and 4 size options. Supports composition via asChild prop and includes accessibility-ready focus states with ring outlines. Built with Tailwind shadow utilities and standard transition animations for hover and active states.",
+  "_classifiedAt": "2026-04-23T01:49:19.178Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

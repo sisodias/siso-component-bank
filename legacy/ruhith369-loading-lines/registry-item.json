@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ruhith369-loading-lines",
+  "type": "registry:ui",
+  "title": "Ruhith369 Loading Lines",
+  "description": "Installed from https://21st.dev/r/ruhith369/loading-lines",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ruhith369-loading-lines"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "loading-lines.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "syntax error in source (malformed content from registry)"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ruhith369/loading-lines",
+    "fetchedAt": "2026-04-22T06:45:04.001Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

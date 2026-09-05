@@ -1,0 +1,30 @@
+{
+  "category": "hero",
+  "subcategory": "badge",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Prominent call-to-action badge in landing page hero sections",
+    "Feature announcement pill highlighting new product capabilities",
+    "Navigation hint badge directing users to key content areas",
+    "Social proof indicator showing user count or rating",
+    "Interactive category or filter tag in hero CTA regions"
+  ],
+  "ai_summary": "A Framer Motion-powered hero badge component with smooth entry animations and interactive hover states. Features configurable variants (default, outline, ghost), sizes (sm/md/lg), and animated icon effects including rotation on hover. Designed as a reusable inline badge for hero sections to highlight announcements, CTAs, or feature callouts with subtle polish and micro-interactions.",
+  "_classifiedAt": "2026-04-23T16:27:52.668Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

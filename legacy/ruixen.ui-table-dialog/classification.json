@@ -1,0 +1,31 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "badge",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying status indicators for items in a table or list",
+    "Showing category labels or tags on content cards",
+    "Indicating notification counts or metadata badges",
+    "Marking items as new, featured, or special in product listings",
+    "Showing progress states or severity levels in dashboards"
+  ],
+  "ai_summary": "A lightweight badge component with variant support (default, secondary, destructive, outline) for displaying status indicators, tags, and labels. Built with class-variance-authority for consistent styling and includes focus ring accessibility features. Part of the Ruixen.Ui table dialog component set.",
+  "_classifiedAt": "2026-04-23T01:51:43.001Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

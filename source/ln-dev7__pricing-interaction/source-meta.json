@@ -1,0 +1,33 @@
+{
+  "id": "ln-dev7__pricing-interaction",
+  "author": "ln-dev7",
+  "slug": "pricing-interaction",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ln-dev7/components/pricing-interaction",
+  "fetchedAt": "2026-08-29T05:28:05.396Z",
+  "completedAt": "2026-08-29T05:28:06.571Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/ln-dev7__pricing-interaction/code.tsx",
+    "bytes": 6195,
+    "sha256": "ea0b64d9b6d11a21ff63ff9022ffe583a2982e364920b141676e0bde815835cb",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

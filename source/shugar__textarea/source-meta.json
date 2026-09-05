@@ -1,0 +1,26 @@
+{
+  "id": "shugar__textarea",
+  "author": "shugar",
+  "slug": "textarea",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/textarea",
+  "fetchedAt": "2026-08-29T07:20:48.062Z",
+  "completedAt": "2026-08-29T07:20:50.201Z",
+  "versionedFilename": "code.1751441796911.tsx",
+  "codeReference": "r2://components-code-private/shugar/textarea/code.1751441796911.tsx",
+  "codeUrl": "https://cdn.21st.dev/shugar/textarea/code.1751441796911.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1890,
+  "sha256": "bcc813841c7ba37d061a18c408aee25888dbb9207c740cf4ec37f624f4146adb",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

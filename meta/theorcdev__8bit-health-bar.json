@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@theorcdev/components/8bit-health-bar",
+  "author": "theorcdev",
+  "slug": "8bit-health-bar",
+  "name": "8bit-health-bar",
+  "description": "An 8-bit styled health bar built on the retro progress primitive. Shows a smooth red fill (default) or pixelated squares (retro variant), driven by a 0-100 value.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/theorcdev/8bit-health-bar?api_key=$API_KEY_21ST\"",
+  "id": "theorcdev__8bit-health-bar",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/8bit-health-bar/default/bundle.1780279092981.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/8bit-health-bar/default/preview.1780279092981.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

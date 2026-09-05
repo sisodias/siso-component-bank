@@ -1,0 +1,38 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "combobox-select",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Framework or language selection in project setup wizards",
+    "Autocomplete search input with filtered dropdown results",
+    "Form input for selecting from predefined options like categories or tags",
+    "Typeahead selection in data-heavy applications",
+    "Clearable dropdown selection with built-in search filtering"
+  ],
+  "ai_summary": "An Ark UI-based combobox component providing an accessible autocomplete dropdown with keyboard navigation, filter-based search, and clear functionality. Features a minimalist flat design with dark mode support, using a portal for proper z-index positioning of the dropdown menu.",
+  "_classifiedAt": "2026-04-23T01:35:53.096Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "hierarchical-tree",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "system"
+  ],
+  "use_cases": [
+    "Displaying file system hierarchies in developer tools or file managers",
+    "Rendering organizational charts for enterprise dashboards",
+    "Showing nested category structures for e-commerce product catalogs",
+    "Visualizing comment threads or nested replies in social platforms",
+    "Representing directory structures in code editors or IDE interfaces"
+  ],
+  "ai_summary": "A hierarchical tree data structure component for visualizing parent-child relationships in nested formats. Built with Radix UI primitives and shadcn/ui styling conventions, this component renders expandable/collapsible nodes for displaying file systems, org charts, or category hierarchies. Maintains minimal visual footprint while supporting complex nested data structures across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T01:40:06.276Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

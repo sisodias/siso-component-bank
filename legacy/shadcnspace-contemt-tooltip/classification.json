@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "action-button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action triggers in forms and pages",
+    "Icon-only action buttons in toolbars and navigation",
+    "Destructive action confirmations with visual distinction",
+    "Ghost-style secondary actions for minimal UI",
+    "Link-style inline navigation with button behavior"
+  ],
+  "ai_summary": "A shadcn-style action button component with multiple visual variants (default, destructive, outline, secondary, ghost, link) and size options (default, sm, lg, icon). Built with Radix UI Slot for composition support and class-variance-authority for type-safe variant management. Follows shadcn's design system with ring focus states and disabled opacity handling.",
+  "_classifiedAt": "2026-04-22T09:14:54.047Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

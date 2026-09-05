@@ -1,0 +1,28 @@
+{
+  "category": "feedback",
+  "subcategory": "scroll-triggered-animation",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Revealing text content with a blur-to-clear effect when scrolled into view",
+    "Creating elegant entrance animations for landing page sections",
+    "Adding subtle scroll-triggered reveals to marketing content",
+    "Enhancing readability by animating content into focus"
+  ],
+  "ai_summary": "A blur reveal animation component that smoothly fades content in with a blur-to-clear effect when scrolled into view. Built with Framer Motion's useInView hook for reliable scroll detection and supports configurable delay and duration parameters for fine-tuned timing control across different content sections.",
+  "_classifiedAt": "2026-04-23T11:31:37.561Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

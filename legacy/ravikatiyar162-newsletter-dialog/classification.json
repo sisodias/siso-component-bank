@@ -1,0 +1,33 @@
+{
+  "category": "overlay",
+  "subcategory": "newsletter-signup-dialog",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Email newsletter subscription modal for website visitors",
+    "Lead capture dialog for marketing campaigns",
+    "Subscription prompt for content platforms",
+    "User onboarding email collection",
+    "Marketing popup for product announcements"
+  ],
+  "ai_summary": "A minimalist newsletter subscription dialog component with a reusable button component supporting multiple variants (default, destructive, outline, secondary, ghost, link) and sizes. Built with Radix UI primitives for accessibility. Designed for capturing email leads through overlay modals across various SaaS, media, and e-commerce platforms.",
+  "_classifiedAt": "2026-04-22T09:10:07.702Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:35:05.021Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

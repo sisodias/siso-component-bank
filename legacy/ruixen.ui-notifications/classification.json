@@ -1,0 +1,34 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "dropdown-notification-menu",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying notification lists with expandable submenu options",
+    "Providing user action menus with nested navigation items",
+    "Creating accessible dropdown interfaces for application controls",
+    "Building notification center panels with categorized alerts"
+  ],
+  "ai_summary": "A Radix UI-based dropdown notification menu component featuring nested submenus, keyboard navigation support, and accessible dropdown primitives. Built with React and styled using Tailwind CSS for consistent theming. Supports inset options for nested items and includes chevron indicators for submenu navigation.",
+  "_classifiedAt": "2026-04-23T01:50:41.672Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

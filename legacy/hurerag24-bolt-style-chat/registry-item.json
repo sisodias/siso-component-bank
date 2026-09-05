@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "hurerag24-bolt-style-chat",
+  "type": "registry:ui",
+  "title": "Hurerag24 Bolt Style Chat",
+  "description": "Installed from https://21st.dev/r/hurerag24/bolt-style-chat",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "hurerag24-bolt-style-chat"
+  ],
+  "files": [
+    {
+      "path": "bolt-style-chat.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/hurerag24/bolt-style-chat",
+    "fetchedAt": "2026-04-22T06:32:20.765Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

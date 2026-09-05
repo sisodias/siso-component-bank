@@ -1,0 +1,33 @@
+{
+  "category": "media",
+  "subcategory": "3d-marquee-image-grid",
+  "visual_style": [
+    "3d",
+    "gradient"
+  ],
+  "interactions": [
+    "morph",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying product galleries with continuous 3D animated scrolling effect",
+    "Showcasing portfolio or work samples in an engaging marquee layout",
+    "Creating animated hero section backdrops for websites",
+    "Displaying client logos or partner logos with continuous motion",
+    "Building testimonial image carousels with hover interactions"
+  ],
+  "ai_summary": "A 3D marquee component that arranges images in a CSS 3D transformed grid layout with continuous vertical scrolling animations. Features alternating column animations, hover lift effects on images, and responsive scaling. Uses motion/react for smooth animations and GPU-accelerated 3D transforms for an immersive visual display experience.",
+  "_classifiedAt": "2026-04-23T11:28:26.268Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "multi-series grouped bar chart",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "fintech",
+    "healthcare"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Displaying multi-category security incident reports across infrastructure types",
+    "Comparing multiple metrics (Blocked/Allowed/Monitored) across service categories",
+    "Visualizing grouped performance data with distinct series per category",
+    "Dashboard analytics for monitoring resource allocation across domains",
+    "Comparative data analysis with categorical X-axis and multiple Y-axis series"
+  ],
+  "ai_summary": "A multi-series grouped bar chart component built with Reaviz library, designed for displaying comparative data across multiple categories and series. The chart visualizes security monitoring data showing Blocked, Allowed, and Monitored metrics across Firewall, Endpoint, Network, and Cloud categories. Features a clean flat visual style with a purple-teal color scheme, linear axes, and gridline support for data readability. Ideal for SaaS dashboards, security monitoring tools, and analytics platforms requiring multi-dimensional data visualization.",
+  "_classifiedAt": "2026-04-23T17:15:35.077Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

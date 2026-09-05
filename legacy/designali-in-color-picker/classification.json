@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "color-picker",
+  "visual_style": [
+    "flat",
+    "colorful"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "creator-tools",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Select any color from a full-screen rainbow spectrum gradient for design workflows",
+    "Copy hex color values to clipboard with visual feedback for quick color sharing",
+    "Preview mouse coordinates and selected color in real-time during color exploration"
+  ],
+  "ai_summary": "A full-screen interactive color picker that renders a canvas-based rainbow gradient with white/black overlays for lightness control. Users hover over the gradient to preview colors, with hex values displayed and click-to-copy functionality. Features real-time mouse position tracking and copy confirmation feedback, making it ideal for design tools and developer workflows requiring precise color selection.",
+  "_classifiedAt": "2026-04-23T16:30:33.916Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

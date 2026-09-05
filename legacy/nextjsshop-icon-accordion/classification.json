@@ -1,0 +1,28 @@
+{
+  "category": "navigation",
+  "subcategory": "icon accordion / expandable list",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Organizing dashboard features like views, alerts, and reports into collapsible sections",
+    "Creating FAQ or help documentation with expandable answers",
+    "Building settings panels with categorized options",
+    "Displaying product feature explanations with icons",
+    "Structuring navigation menus in admin interfaces"
+  ],
+  "ai_summary": "An icon-based accordion component featuring four expandable items (Views, Alerts, Boards & Graphs, Screen) with color-coded icons from Lucide React. Each item reveals descriptive text when clicked, with smooth expand/collapse animations using Framer Motion. Supports light and dark modes, making it ideal for dashboard interfaces, settings panels, and organized content navigation in SaaS applications.",
+  "_classifiedAt": "2026-04-23T01:44:57.911Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

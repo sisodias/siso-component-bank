@@ -1,0 +1,26 @@
+{
+  "id": "koustubhayadiyala36__inbox",
+  "author": "koustubhayadiyala36",
+  "slug": "inbox",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@koustubhayadiyala36/components/inbox",
+  "fetchedAt": "2026-08-29T05:19:36.920Z",
+  "completedAt": "2026-08-29T05:19:39.126Z",
+  "versionedFilename": "code.1765291855975.tsx",
+  "codeReference": "r2://components-code-private/koustubhayadiyala36/inbox/code.1765291855975.tsx",
+  "codeUrl": "https://cdn.21st.dev/koustubhayadiyala36/inbox/code.1765291855975.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5227,
+  "sha256": "e6e7f242e4b3e77ba7041a981642a0bc065b68dc2d80b74977e7b02b9955a9d1",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

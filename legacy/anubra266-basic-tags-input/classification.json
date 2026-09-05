@@ -1,0 +1,27 @@
+{
+  "category": "input",
+  "subcategory": "tags-input",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Adding and managing multiple framework or technology tags for developer profiles",
+    "Categorizing content with multiple labels in content management systems",
+    "Filtering and searching items by multiple selected tags in dashboards",
+    "Collecting skill sets or interests from users in onboarding flows",
+    "Adding product categories or attributes in e-commerce inventory systems"
+  ],
+  "ai_summary": "A tags input component built with Ark UI that allows users to add, display, and remove multiple tag items in a flexible input field. Features dark mode support, keyboard-accessible delete buttons, and visual focus states with a blue accent ring. The component uses a compound component pattern with Root, Context, Control, Item, Input, and related sub-components for complete state management and customization.",
+  "_classifiedAt": "2026-04-23T01:35:42.636Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

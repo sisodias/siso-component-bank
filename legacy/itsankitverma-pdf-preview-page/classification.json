@@ -1,0 +1,29 @@
+{
+  "category": "feedback",
+  "subcategory": "alert-notification",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying validation error messages in forms and user inputs",
+    "Showing destructive action confirmations with visual warning states",
+    "Presenting informational notifications and status updates to users",
+    "Providing contextual feedback after user interactions",
+    "Replacing native browser alerts with styled notification components"
+  ],
+  "ai_summary": "A minimalist alert notification component system with default and destructive variants, designed for displaying contextual feedback messages in React applications. Features accessible role=alert attributes, composable AlertTitle and AlertDescription sub-components, and full TypeScript support with class-variance-authority for variant management.",
+  "_classifiedAt": "2026-04-23T16:45:38.247Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

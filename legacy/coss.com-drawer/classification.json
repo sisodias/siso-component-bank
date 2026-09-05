@@ -1,0 +1,35 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "slide-out-side-panel",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Side navigation menus for mobile and desktop applications",
+    "Product filter panels in e-commerce storefronts",
+    "Settings and preferences configuration panels",
+    "Multi-step form wizards with collapsible sections",
+    "Confirmation dialogs with detailed information display"
+  ],
+  "ai_summary": "A versatile side drawer component built with Base UI primitives and styled with Tailwind CSS using CVA variants. Features context-based state management for nested interactive elements including checkboxes and radio groups. Designed for general-purpose overlay use cases like navigation menus, filter panels, and settings screens across SaaS and e-commerce platforms.",
+  "_classifiedAt": "2026-04-22T08:54:46.317Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

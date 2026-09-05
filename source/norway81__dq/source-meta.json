@@ -1,0 +1,26 @@
+{
+  "id": "norway81__dq",
+  "author": "norway81",
+  "slug": "dq",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@norway81/components/dq",
+  "fetchedAt": "2026-08-29T05:59:10.369Z",
+  "completedAt": "2026-08-29T05:59:12.557Z",
+  "versionedFilename": "code.1785829545473-3e99d2cf-3500-42b6-aa8c-00926528f6e9.tsx",
+  "codeReference": "r2://components-code-private/norway81/dq/code.1785829545473-3e99d2cf-3500-42b6-aa8c-00926528f6e9.tsx",
+  "codeUrl": "https://cdn.21st.dev/norway81/dq/code.1785829545473-3e99d2cf-3500-42b6-aa8c-00926528f6e9.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

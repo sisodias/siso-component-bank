@@ -1,0 +1,35 @@
+{
+  "category": "input",
+  "subcategory": "autocomplete-search",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Search input with dropdown suggestions for tags or categories",
+    "Filtering through large lists with autocomplete functionality",
+    "Address or location search with real-time suggestions",
+    "Product or content search in e-commerce or content platforms",
+    "Form input with intelligent suggestion dropdown"
+  ],
+  "ai_summary": "A search autocomplete component built with base-ui that provides an input field with a dropdown popup displaying matching suggestions. Features highlighted selection states, keyboard navigation support, and responsive design with dark mode compatibility. Uses Tailwind CSS for styling with clean, flat aesthetics.",
+  "_classifiedAt": "2026-04-23T01:45:16.079Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:34:37.513Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

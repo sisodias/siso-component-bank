@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-component",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Form submission triggers with configurable variants",
+    "Navigation actions and call-to-action buttons",
+    "Interactive UI controls with size and variant options",
+    "Accessible button composition using Radix UI Slot"
+  ],
+  "ai_summary": "A reusable React button component with configurable variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Built with Radix UI Slot for composition flexibility and class-variance-authority for consistent Tailwind-based styling. Provides standard focus-visible ring styling and disabled states out of the box.",
+  "_classifiedAt": "2026-04-23T16:32:31.436Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

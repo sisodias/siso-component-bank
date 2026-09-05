@@ -1,0 +1,33 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action trigger in forms and applications",
+    "Navigation links with styled button appearance",
+    "Toolbar and action bar interactive elements",
+    "Modal and dialog confirmation buttons",
+    "Icon or icon-only button for compact UI areas"
+  ],
+  "ai_summary": "A reusable Button component built with Radix UI Slot for composition, CVA for variant styling, and Tailwind CSS for layout. Supports multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon) with accessibility-focused focus-visible states and disabled handling. Designed as an atomic UI primitive that integrates seamlessly into any design system or application.",
+  "_classifiedAt": "2026-04-23T01:51:02.075Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

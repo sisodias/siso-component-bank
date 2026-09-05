@@ -1,0 +1,34 @@
+{
+  "category": "overlay",
+  "subcategory": "warp-dialog-modal",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Modal dialogs for displaying content or forms over the main interface",
+    "Confirmation dialogs for destructive actions",
+    "Loading overlays during async operations",
+    "Product showcases in e-commerce applications",
+    "Settings and configuration panels in SaaS dashboards"
+  ],
+  "ai_summary": "A modal dialog component with warp-style entrance animation from the molecule-lab design system. Features smooth transitions, backdrop overlay, and customizable content areas for displaying forms, confirmations, or rich media. Designed for modern web applications requiring elegant modal interactions across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T17:01:23.438Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "xubohuah-flickering-grid-demo2",
+  "type": "registry:ui",
+  "title": "Xubohuah Flickering Grid Demo2",
+  "description": "Installed from https://21st.dev/r/xubohuah/flickering-grid-demo2",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "xubohuah-flickering-grid-demo2"
+  ],
+  "files": [
+    {
+      "path": "flickering-grid-demo2.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "flickering-grid-hero.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "clsx",
+    "tailwind-merge"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/xubohuah/flickering-grid-demo2",
+    "fetchedAt": "2026-04-23T03:04:32.148Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

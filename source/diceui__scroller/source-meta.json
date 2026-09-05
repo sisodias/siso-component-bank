@@ -1,0 +1,26 @@
+{
+  "id": "diceui__scroller",
+  "author": "diceui",
+  "slug": "scroller",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@diceui/components/scroller",
+  "fetchedAt": "2026-08-29T04:34:39.138Z",
+  "completedAt": "2026-08-29T04:34:41.723Z",
+  "versionedFilename": "code.1783712899174.tsx",
+  "codeReference": "r2://components-code-private/diceui/scroller/code.1783712899174.tsx",
+  "codeUrl": "https://cdn.21st.dev/diceui/scroller/code.1783712899174.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 11399,
+  "sha256": "36b7a13d6e35daae35d51e934edd148f091a2dd5bf480c55a2f91449a94e6633",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

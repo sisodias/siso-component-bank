@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "member-list",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Displaying team members in a project management or collaboration tool",
+    "Showing user lists in admin dashboards or settings pages",
+    "Listing contributors or team members in developer tools",
+    "Presenting member rosters with role and priority indicators"
+  ],
+  "ai_summary": "A member list component that displays users with avatars, names, roles, and priority indicators in a clean, accessible table or list format. Uses Radix UI primitives for avatars and tooltips, with Tailwind CSS for styling. Features date formatting and Lucide icons for visual accents. Designed for team-based applications where member information needs to be displayed with quick-reference metadata.",
+  "_classifiedAt": "2026-04-23T16:52:16.763Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

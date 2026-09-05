@@ -1,0 +1,33 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "webgl-shader-canvas",
+  "visual_style": [
+    "gradient",
+    "3d"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "creator-tools",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display animated shader art on landing pages and portfolio sites",
+    "Render dynamic 3D raymarched visuals as background effects",
+    "Showcase algorithmic art with smooth trigonometric color transitions",
+    "Provide self-contained WebGL2 canvas rendering for creative web applications"
+  ],
+  "ai_summary": "A WebGL2 shader component rendering dynamic, time-animated visuals using raymarching techniques with cosine-based coloring and matrix transformations. The shader performs iterative ray stepping through a procedural 3D scene, applying trigonometric modulation and rotation matrices to create abstract flowing forms. It uses standard uniforms for resolution and time, rendering to a fullscreen canvas as a self-contained visual effect component.",
+  "_classifiedAt": "2026-04-23T01:55:23.364Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@moumensoliman/components/n8n-workflow-block-shadcnui",
+  "author": "moumensoliman",
+  "slug": "n8n-workflow-block-shadcnui",
+  "name": "n8n-workflow-block-shadcnui",
+  "description": "Visual workflow automation builder with animated nodes, connections, and real-time execution monitoring",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/moumensoliman/n8n-workflow-block-shadcnui?api_key=$API_KEY_21ST\"",
+  "id": "moumensoliman__n8n-workflow-block-shadcnui",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/n8n-workflow-block-shadcnui/default/bundle.1773324878444.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/n8n-workflow-block-shadcnui/default/preview.1773324878444.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

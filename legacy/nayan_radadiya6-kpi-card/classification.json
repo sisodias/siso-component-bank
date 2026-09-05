@@ -1,0 +1,28 @@
+{
+  "category": "card",
+  "subcategory": "kpi-card",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display key business metrics like revenue, user counts, or conversion rates in dashboard layouts",
+    "Show trend indicators with up/down/flat arrows and percentage deltas for performance tracking",
+    "Present financial or operational KPIs with color-coded tones (success, warning, danger) for status awareness",
+    "Use in analytics platforms to highlight important figures with optional icons and captions",
+    "Create compact metric displays in monitoring tools or executive reporting interfaces"
+  ],
+  "ai_summary": "A versatile KPI card component for displaying key performance indicators with trend visualization. Supports multiple visual tones (default, primary, success, warning, danger), trend indicators (up/down/flat), and optional icons. Designed with a flat, minimalist aesthetic and full dark mode support, making it ideal for dashboards in SaaS, fintech, or e-commerce applications.",
+  "_classifiedAt": "2026-04-23T01:44:39.226Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

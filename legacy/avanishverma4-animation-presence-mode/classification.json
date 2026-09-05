@@ -1,0 +1,28 @@
+{
+  "category": "feedback",
+  "subcategory": "animation-modes-demo",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Demonstrates three AnimatePresence animation modes (sync, wait, popLayout) with interactive toggle buttons for developers learning motion/react patterns",
+    "Shows how different animation modes affect element exit/enter transitions in React applications",
+    "Provides visual reference implementation for animation systems in SaaS dashboards",
+    "Educational component for understanding Framer Motion animation lifecycle",
+    "Interactive demo for showcasing animation behavior in documentation or component galleries"
+  ],
+  "ai_summary": "A demonstration component showcasing three AnimatePresence modes (sync, wait, popLayout) from Framer Motion/react. Features animated icons that toggle states via a button, with each mode producing different transition behaviors. Clean minimalist design with inline styles and motion/react animations. Ideal for developer documentation, animation tutorials, or as a reference implementation for interactive animation systems in web applications.",
+  "_classifiedAt": "2026-04-23T01:36:32.513Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

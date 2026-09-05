@@ -1,0 +1,26 @@
+{
+  "id": "xordev__gigabit",
+  "author": "xordev",
+  "slug": "gigabit",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@xordev/components/gigabit",
+  "fetchedAt": "2026-08-29T07:57:43.388Z",
+  "completedAt": "2026-08-29T07:57:45.592Z",
+  "versionedFilename": "code.1756924171896.tsx",
+  "codeReference": "r2://components-code-private/larsen66/gigabit/code.1756924171896.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/gigabit/code.1756924171896.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 8522,
+  "sha256": "0ab95764a9cb8adec265e6c837cc6724f852039ebde5190bb8d7c125018f7fc5",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

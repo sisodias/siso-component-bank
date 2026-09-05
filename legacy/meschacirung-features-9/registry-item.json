@@ -1,0 +1,46 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "meschacirung-features-9",
+  "type": "registry:ui",
+  "title": "Meschacirung Features 9",
+  "description": "Installed from https://21st.dev/r/meschacirung/features-9",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "meschacirung-features-9"
+  ],
+  "files": [
+    {
+      "path": "chart.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "features-9.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "dotted-map",
+    "lucide-react",
+    "recharts"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/meschacirung/features-9",
+    "fetchedAt": "2026-04-23T03:04:55.753Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

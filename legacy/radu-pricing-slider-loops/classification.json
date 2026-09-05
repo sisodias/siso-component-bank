@@ -1,0 +1,27 @@
+{
+  "category": "pricing",
+  "subcategory": "pricing-calculator-slider",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "SaaS pricing calculator with subscriber-based tiered pricing",
+    "Dynamic pricing visualization for subscription businesses",
+    "Interactive pricing selector for email marketing platforms",
+    "Real-time cost estimation based on user-defined metrics"
+  ],
+  "ai_summary": "A dynamic pricing slider component that calculates subscription costs based on subscriber count. Features predefined pricing breakpoints with linear interpolation for counts between tiers, displaying real-time price updates as users adjust the slider. Designed for SaaS platforms with tiered pricing models.",
+  "_classifiedAt": "2026-04-23T17:10:28.628Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

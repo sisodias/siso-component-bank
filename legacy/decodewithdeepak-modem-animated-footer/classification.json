@@ -1,0 +1,32 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "site-footer",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Site-wide footer providing brand identity, navigation links, and social media connections",
+    "E-commerce footer with product category links and customer support information",
+    "SaaS application footer with legal links, documentation, and community social profiles",
+    "Blog or media site footer with newsletter signup and social sharing options",
+    "Corporate website footer with contact information and investor relations links"
+  ],
+  "ai_summary": "A customizable footer component featuring brand identity display, navigation link sections, and social media integration with icon links. Built with Next.js and lucide-react icons, this footer uses responsive design with Tailwind CSS theming for seamless integration into various website types. The modular prop-based architecture allows developers to configure brand name, description, navigation items, and social links dynamically.",
+  "_classifiedAt": "2026-04-22T08:55:39.589Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

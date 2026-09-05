@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@serafimcloud/components/sign-in",
+  "author": "serafimcloud",
+  "slug": "sign-in",
+  "name": "sign-in",
+  "description": "Sign in flow with shadcn/ui components",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/serafimcloud/sign-in?api_key=$API_KEY_21ST\"",
+  "id": "serafimcloud__sign-in",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1204.html",
+  "previewUrl": "https://cdn.21st.dev/user_2nElBLvklOKlAURm6W1PTu6yYFh/sign-in.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

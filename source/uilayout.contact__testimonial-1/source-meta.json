@@ -1,0 +1,26 @@
+{
+  "id": "uilayout.contact__testimonial-1",
+  "author": "uilayout.contact",
+  "slug": "testimonial-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uilayout.contact/components/testimonial-1",
+  "fetchedAt": "2026-08-29T07:45:55.193Z",
+  "completedAt": "2026-08-29T07:45:57.657Z",
+  "versionedFilename": "code.1756305158384.tsx",
+  "codeReference": "r2://components-code-private/uilayout.contact/testimonial-1/code.1756305158384.tsx",
+  "codeUrl": "https://cdn.21st.dev/uilayout.contact/testimonial-1/code.1756305158384.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6521,
+  "sha256": "c049e6409c0b1a244c0b8c2514edafb82b2c0a03b07876beb4ca2074d9bd5f9f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

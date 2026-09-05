@@ -1,0 +1,35 @@
+{
+  "category": "data-display",
+  "subcategory": "Animated metric counter with icon and stats",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying key performance metrics on dashboards with animated counting effect",
+    "Showing activity statistics like followers, views, or engagement counts",
+    "Presenting KPI cards in analytics and reporting interfaces",
+    "Building profile or portfolio statistics components",
+    "Creating data summary widgets for mobile and desktop apps"
+  ],
+  "ai_summary": "A stats card component that displays metrics with an animated counter effect, featuring an icon, title, value with optional unit, and descriptive subtext. Built with shadcn-compatible styling and Framer Motion for smooth number counting animation on mount. The card uses Tailwind classes for clean, minimal design with rounded borders and subtle shadows. Ideal for dashboards, analytics UIs, and profile statistics across SaaS, fintech, and e-commerce platforms.",
+  "_classifiedAt": "2026-04-23T01:42:25.833Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:33:58.629Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

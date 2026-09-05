@@ -1,0 +1,26 @@
+{
+  "id": "paceui__liquid-glass",
+  "author": "paceui",
+  "slug": "liquid-glass",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@paceui/components/liquid-glass",
+  "fetchedAt": "2026-08-29T06:02:37.011Z",
+  "completedAt": "2026-08-29T06:02:39.006Z",
+  "versionedFilename": "code.1750437046713.tsx",
+  "codeReference": "r2://components-code-private/larsen66/liquid-glass/code.1750437046713.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/liquid-glass/code.1750437046713.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3522,
+  "sha256": "6bebed6240a65f73e29769eda6b06b1e6fac720e87315018ab2cdaa7f4e43120",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "hugo_1a34d4f7__atlasaurora",
+  "author": "hugo_1a34d4f7",
+  "slug": "atlasaurora",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@hugo_1a34d4f7/components/atlasaurora",
+  "fetchedAt": "2026-08-29T04:58:49.968Z",
+  "completedAt": "2026-08-29T04:58:51.973Z",
+  "versionedFilename": "code.1782383986927.tsx",
+  "codeReference": "r2://components-code-private/hugo_1a34d4f7/atlasaurora/code.1782383986927.tsx",
+  "codeUrl": "https://cdn.21st.dev/hugo_1a34d4f7/atlasaurora/code.1782383986927.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4524,
+  "sha256": "af9ec0af2bdba1e2635b44ef4a93d10598ec803e2a7454a59c1d7c7f9909e875",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "arikchakma__cromia-channels",
+  "author": "arikchakma",
+  "slug": "cromia-channels",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@arikchakma/components/cromia-channels",
+  "fetchedAt": "2026-08-29T03:38:29.282Z",
+  "completedAt": "2026-08-29T03:38:31.478Z",
+  "versionedFilename": "code.1785395802551-72e2df7f-d87a-4f3c-ba96-93523b54f305.tsx",
+  "codeReference": "r2://components-code-private/larsen66/cromia-channels/code.1785395802551-72e2df7f-d87a-4f3c-ba96-93523b54f305.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/cromia-channels/code.1785395802551-72e2df7f-d87a-4f3c-ba96-93523b54f305.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

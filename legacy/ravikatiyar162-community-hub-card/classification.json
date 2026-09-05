@@ -1,0 +1,35 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "avatar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display user profile pictures in social platforms and community hubs",
+    "Show avatars in comment sections and discussion threads",
+    "Represent users in navigation bars and dropdown menus",
+    "Display profile images in card components across applications"
+  ],
+  "ai_summary": "A lightweight avatar component built with Radix UI primitives for displaying user profile images with fallback support. Features rounded corners, fixed dimensions, and proper image/fallback rendering states. Part of a community hub card system on 21st.dev.",
+  "_classifiedAt": "2026-04-22T09:08:57.030Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

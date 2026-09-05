@@ -1,0 +1,26 @@
+{
+  "id": "SubframeApp__bar-chart",
+  "author": "SubframeApp",
+  "slug": "bar-chart",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@SubframeApp/components/bar-chart",
+  "fetchedAt": "2026-08-29T07:29:26.490Z",
+  "completedAt": "2026-08-29T07:29:28.345Z",
+  "versionedFilename": "code.1755897553690.tsx",
+  "codeReference": "r2://components-code-private/larsen66/bar-chart/code.1755897553690.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/bar-chart/code.1755897553690.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1422,
+  "sha256": "3daa470195f868430432d290e8c1b3959d831391d422fae123d26c465af0d472",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "uilayout.contact__image-reveal",
+  "author": "uilayout.contact",
+  "slug": "image-reveal",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uilayout.contact/components/image-reveal",
+  "fetchedAt": "2026-08-29T07:44:16.177Z",
+  "completedAt": "2026-08-29T07:44:18.379Z",
+  "versionedFilename": "code.1749993983553.tsx",
+  "codeReference": "r2://components-code-private/larsen66/image-reveal/code.1749993983553.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/image-reveal/code.1749993983553.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7490,
+  "sha256": "1aeca88d1a03b40eb8d14b078e1e4b4af7a90e40ddef3c50f3a3ad85767a358b",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

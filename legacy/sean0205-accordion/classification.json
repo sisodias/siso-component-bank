@@ -1,0 +1,31 @@
+{
+  "category": "data-display",
+  "subcategory": "collapsible-disclosure-accordion",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "education",
+    "e-commerce",
+    "healthcare",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "system",
+  "use_cases": [
+    "FAQ sections for product documentation and help centers",
+    "Collapsible content sections for website landing pages",
+    "Course curriculum and lesson organization in educational platforms",
+    "Product feature comparison tables with expandable details",
+    "Settings panels with grouped collapsible options"
+  ],
+  "ai_summary": "A versatile accordion component system built on Radix UI primitives with three visual variants (default, outline, solid) and configurable indicators (arrow, plus, none). Features smooth CSS animations for expand/collapse states, icon rotation transitions, and flexible styling via Tailwind CSS and CVA. Designed for building FAQ sections, collapsible content panels, and organized information disclosure patterns across various industry applications.",
+  "_classifiedAt": "2026-04-23T17:21:46.107Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

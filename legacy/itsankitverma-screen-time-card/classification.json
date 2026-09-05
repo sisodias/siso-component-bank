@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "screen-time analytics card",
+  "visual_style": [
+    "glass-morphism",
+    "gradient"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "healthcare",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display daily screen time statistics with animated bar graphs",
+    "Show top used applications with icons and usage duration",
+    "Visualize usage patterns across different time periods of the day",
+    "Track wellness metrics for health and productivity apps",
+    "Present usage analytics in a clean, modern card interface"
+  ],
+  "ai_summary": "A glass-morphism screen time card component featuring an animated bar graph displaying usage statistics across time periods, along with a list of top apps showing icons, names, and usage duration. Uses framer-motion for smooth scaleY animations on bars, with a soft gradient background blending blue, purple, and pink tones. Designed for wellness, productivity, and analytics applications needing to visualize device usage patterns.",
+  "_classifiedAt": "2026-04-22T09:00:00.079Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

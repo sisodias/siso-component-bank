@@ -1,0 +1,31 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "filter-chips-breadcrumb",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying active filters as removable chips in an e-commerce product listing page",
+    "Showing applied search criteria with quick removal functionality",
+    "Providing a breadcrumb-style filter summary bar for filtering dashboards",
+    "Enabling users to clear all applied filters with a single click",
+    "Supporting responsive filter display across desktop and mobile interfaces"
+  ],
+  "ai_summary": "A minimalist filter breadcrumb component that displays active filters as removable chips with dark mode support. Part of a Next.js shop component library, it renders filter criteria (category, price, color) as pill-shaped tags with individual remove buttons and a clear-all option. Built with Tailwind CSS using responsive breakpoints and standard flat styling.",
+  "_classifiedAt": "2026-04-23T01:44:57.979Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

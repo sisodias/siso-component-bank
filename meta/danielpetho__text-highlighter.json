@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@danielpetho/components/text-highlighter",
+  "author": "danielpetho",
+  "slug": "text-highlighter",
+  "name": "text-highlighter",
+  "description": "Animated text highlighter that sweeps a marker-style background behind inline text, triggered on hover, scroll into view, or imperatively via ref, with configurable direction and color.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/danielpetho/text-highlighter?api_key=$API_KEY_21ST\"",
+  "id": "danielpetho__text-highlighter",
+  "bundleUrl": "https://cdn.21st.dev/danielpetho/text-highlighter/default/bundle.1783613439407.html",
+  "previewUrl": "https://cdn.21st.dev/danielpetho/text-highlighter/default/preview.1783613439407.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

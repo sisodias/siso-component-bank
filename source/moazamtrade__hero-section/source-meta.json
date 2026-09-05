@@ -1,0 +1,26 @@
+{
+  "id": "moazamtrade__hero-section",
+  "author": "moazamtrade",
+  "slug": "hero-section",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@moazamtrade/components/hero-section",
+  "fetchedAt": "2026-08-29T05:47:28.175Z",
+  "completedAt": "2026-08-29T05:47:30.341Z",
+  "versionedFilename": "code.1775480193892.tsx",
+  "codeReference": "r2://components-code-private/moazamtrade/hero-section/code.1775480193892.tsx",
+  "codeUrl": "https://cdn.21st.dev/moazamtrade/hero-section/code.1775480193892.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7791,
+  "sha256": "6f5a63a6b0219b490f3d8a5d3cdb9facaf62ec3e198d3235d8ff7b5dcba9a863",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

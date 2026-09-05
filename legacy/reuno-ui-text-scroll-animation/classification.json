@@ -1,0 +1,32 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "scroll-driven text animation",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero sections with dramatic scroll-triggered text reveals",
+    "Landing pages featuring animated brand statements and taglines",
+    "Creative portfolios showcasing typography animations",
+    "Product pages with engaging scroll-based storytelling"
+  ],
+  "ai_summary": "A scroll-driven text animation component that creates a parallax-like effect where individual characters animate outward from the center as the user scrolls, using Framer Motion's useScroll and useTransform hooks to interpolate x, rotateX, scale, and y transforms across scroll progress for smooth performance.",
+  "_classifiedAt": "2026-04-23T01:48:39.759Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

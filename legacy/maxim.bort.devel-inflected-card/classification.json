@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "product-service card with hover effects",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying product or service information with image, title, description, and tags",
+    "E-commerce product cards with price display and call-to-action buttons",
+    "Service showcase cards with customizable hover interactions",
+    "Content cards with tag-based categorization and alignment options"
+  ],
+  "ai_summary": "A highly customizable React card component designed for displaying products or services with rich interactivity. Features include configurable hover effects on images and buttons, flexible tag system with custom colors and alignment, price display with old price strikethrough option, and extensive styling props for colors, fonts, margins, and rounding. Supports mirrored layout option and multiple alignment configurations for title, description, and tags.",
+  "_classifiedAt": "2026-04-23T16:54:57.909Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

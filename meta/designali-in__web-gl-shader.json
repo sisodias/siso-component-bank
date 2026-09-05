@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@designali-in/components/web-gl-shader",
+  "author": "designali-in",
+  "slug": "web-gl-shader",
+  "name": "web-gl-shader",
+  "description": "Now the WebGL shader component is properly imported and rendered on the main page. The colorful wave distortion effect should display fullscreen when you view the page.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/designali-in/web-gl-shader?api_key=$API_KEY_21ST\"",
+  "id": "designali-in__web-gl-shader",
+  "bundleUrl": "https://cdn.21st.dev/designali-in/web-gl-shader/default/bundle.1755766452368.html",
+  "previewUrl": "https://cdn.21st.dev/designali-in/web-gl-shader/default/preview.1755664380314.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

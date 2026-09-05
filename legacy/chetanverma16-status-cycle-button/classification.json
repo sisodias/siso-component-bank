@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "status-toggle-button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Cycling through workflow states like pending, active, and completed",
+    "Toggling operational status in admin dashboards or status pages",
+    "Managing user or system state with visual feedback on click",
+    "Quick status updates in task management or project tracking tools",
+    "State cycling in multi-step forms or wizard-like interfaces"
+  ],
+  "ai_summary": "A status cycle button component that allows users to toggle through different states or statuses with a single click. Built on Radix UI primitives with class-variance-authority for variant management, it provides multiple visual styles and sizes. The component renders via Slot for composition flexibility and includes standard button accessibility features. Ideal for dashboards, admin panels, and workflow management interfaces where quick state toggling is needed.",
+  "_classifiedAt": "2026-04-23T11:33:52.313Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,31 @@
+{
+  "category": "input",
+  "subcategory": "time-picker",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "healthcare",
+    "education",
+    "e-commerce",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Scheduling appointments in healthcare or service booking applications",
+    "Setting time-based reminders or alarms in productivity tools",
+    "Recording time spent on tasks for time tracking and billing",
+    "Configuring delivery or pickup windows in e-commerce platforms",
+    "Managing availability slots in booking and reservation systems"
+  ],
+  "ai_summary": "A time picker input component for selecting hours and minutes in a user-friendly interface. Features clean, minimal styling with accessible focus states and keyboard navigation support. Designed for integration across desktop and mobile platforms, commonly used in scheduling, booking, and time-tracking applications.",
+  "_classifiedAt": "2026-04-23T17:09:56.848Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

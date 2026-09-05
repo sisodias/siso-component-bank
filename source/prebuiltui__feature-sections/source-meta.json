@@ -1,0 +1,26 @@
+{
+  "id": "prebuiltui__feature-sections",
+  "author": "prebuiltui",
+  "slug": "feature-sections",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@prebuiltui/components/feature-sections",
+  "fetchedAt": "2026-08-29T06:11:15.973Z",
+  "completedAt": "2026-08-29T06:11:18.295Z",
+  "versionedFilename": "code.1757568315752.tsx",
+  "codeReference": "r2://components-code-private/larsen66/feature-sections/code.1757568315752.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/feature-sections/code.1757568315752.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2482,
+  "sha256": "be630ae580b7a78c71ac6d876057f4358794fe76541f6fe9703cabc842bb8672",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

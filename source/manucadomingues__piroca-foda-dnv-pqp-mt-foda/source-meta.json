@@ -1,0 +1,26 @@
+{
+  "id": "manucadomingues__piroca-foda-dnv-pqp-mt-foda",
+  "author": "manucadomingues",
+  "slug": "piroca-foda-dnv-pqp-mt-foda",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@manucadomingues/components/piroca-foda-dnv-pqp-mt-foda",
+  "fetchedAt": "2026-08-29T05:37:37.772Z",
+  "completedAt": "2026-08-29T05:37:39.763Z",
+  "versionedFilename": "code.1786304789226-5fb6338a-8ebf-47dc-8a34-abe9942d7d84.tsx",
+  "codeReference": "r2://components-code-private/manucadomingues/piroca-foda-dnv-pqp-mt-foda/code.1786304789226-5fb6338a-8ebf-47dc-8a34-abe9942d7d84.tsx",
+  "codeUrl": "https://cdn.21st.dev/manucadomingues/piroca-foda-dnv-pqp-mt-foda/code.1786304789226-5fb6338a-8ebf-47dc-8a34-abe9942d7d84.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

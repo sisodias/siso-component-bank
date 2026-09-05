@@ -1,0 +1,29 @@
+{
+  "category": "media",
+  "subcategory": "image-comparison",
+  "visual_style": [],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "real-estate",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Comparing before/after images in photo editing or restoration workflows",
+    "Viewing product differences in e-commerce listings",
+    "Comparing property images in real estate listings",
+    "Displaying design mockup comparisons in creative presentations",
+    "Showing image quality or enhancement differences"
+  ],
+  "ai_summary": "An image comparison slider component that displays two overlapping images with a draggable handle, allowing users to reveal differences between left and right images by moving the divider horizontally. Supports both mouse and touch interactions for cross-device compatibility.",
+  "_classifiedAt": "2026-04-23T17:12:03.583Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

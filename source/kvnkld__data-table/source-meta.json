@@ -1,0 +1,26 @@
+{
+  "id": "kvnkld__data-table",
+  "author": "kvnkld",
+  "slug": "data-table",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@kvnkld/components/data-table",
+  "fetchedAt": "2026-08-29T05:20:58.090Z",
+  "completedAt": "2026-08-29T05:21:02.923Z",
+  "versionedFilename": "code.1785482974797-42b40023-44f8-4ca4-bb79-d14de92b7bec.tsx",
+  "codeReference": "r2://components-code-private/kvnkld/data-table/code.1785482974797-42b40023-44f8-4ca4-bb79-d14de92b7bec.tsx",
+  "codeUrl": "https://cdn.21st.dev/kvnkld/data-table/code.1785482974797-42b40023-44f8-4ca4-bb79-d14de92b7bec.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

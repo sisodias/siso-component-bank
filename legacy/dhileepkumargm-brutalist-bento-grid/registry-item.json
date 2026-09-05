@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "dhileepkumargm-brutalist-bento-grid",
+  "type": "registry:ui",
+  "title": "Dhileepkumargm Brutalist Bento Grid",
+  "description": "Installed from https://21st.dev/r/dhileepkumargm/brutalist-bento-grid",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "dhileepkumargm-brutalist-bento-grid"
+  ],
+  "files": [
+    {
+      "path": "brutalist-bento-grid.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/dhileepkumargm/brutalist-bento-grid",
+    "fetchedAt": "2026-04-23T01:16:36.589Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

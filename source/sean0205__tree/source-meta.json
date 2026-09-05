@@ -1,0 +1,26 @@
+{
+  "id": "sean0205__tree",
+  "author": "sean0205",
+  "slug": "tree",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sean0205/components/tree",
+  "fetchedAt": "2026-08-29T07:00:18.958Z",
+  "completedAt": "2026-08-29T07:00:21.288Z",
+  "versionedFilename": "code.1752753493100.tsx",
+  "codeReference": "r2://components-code-private/sean0205/tree/code.1752753493100.tsx",
+  "codeUrl": "https://cdn.21st.dev/sean0205/tree/code.1752753493100.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5801,
+  "sha256": "2212f76cdbcaf98a5e59fc23883195bd1756b3a2bc2e9dea5a64426ff33559c7",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

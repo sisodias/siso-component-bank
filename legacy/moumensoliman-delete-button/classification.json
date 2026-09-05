@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "delete-button",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Triggering delete actions with visual feedback for destructive operations",
+    "Handling form submissions with various visual states",
+    "Interactive buttons with hover and focus states",
+    "Customizable button styling through variant props"
+  ],
+  "ai_summary": "A versatile button component featuring multiple style variants including destructive, outline, secondary, ghost, and link styles. Built with CVA for type-safe variant management and Radix UI's Slot for polymorphic behavior. Supports disabled states and keyboard focus accessibility.",
+  "_classifiedAt": "2026-04-22T09:06:42.845Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

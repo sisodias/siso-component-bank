@@ -1,0 +1,29 @@
+{
+  "category": "data-display",
+  "subcategory": "table",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying structured data in rows and columns for dashboards and reports",
+    "Showing lists of items with selectable and hoverable rows",
+    "Presenting tabular data in admin panels and analytics interfaces",
+    "Organizing settings or configuration data in a clean grid layout",
+    "Creating responsive data tables that work across desktop and mobile devices"
+  ],
+  "ai_summary": "A shadcn/ui-style table component with modular sub-components for building structured data displays. Includes Table, TableHeader, TableBody, TableFooter, TableRow, TableHead, and TableCell with built-in hover states and selection support. The component uses React.forwardRef for proper ref handling and cn utility for className merging. Optimized for responsive layouts with overflow handling and clean, minimal styling suitable for SaaS dashboards, admin panels, and data-intensive applications.",
+  "_classifiedAt": "2026-04-23T01:36:32.143Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

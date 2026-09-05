@@ -1,0 +1,38 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "user-avatar",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display user profile pictures in navigation or header components",
+    "Show placeholder avatars during image loading states",
+    "Represent users in comments, messages, or chat interfaces",
+    "Display user avatars in card components or lists",
+    "Provide GitHub-style user indicators with optional icons"
+  ],
+  "ai_summary": "A lightweight, customizable avatar component that supports image display and placeholder states with smooth transitions. Features configurable sizing, rounded styling, and optional GitHub icon integration. Designed as a foundational UI element for any application requiring user representation or profile imagery.",
+  "_classifiedAt": "2026-04-23T17:29:18.590Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

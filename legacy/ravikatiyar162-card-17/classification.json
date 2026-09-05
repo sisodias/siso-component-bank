@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "location-display-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "real-estate",
+    "e-commerce",
+    "saas",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display location-based listings with key details in a compact card format",
+    "Show venue, property, or geographic point of interest information",
+    "Present location discovery content in e-commerce or real estate applications",
+    "Render interactive location cards with embedded button actions",
+    "Provide reusable card UI for location-based content across applications"
+  ],
+  "ai_summary": "A location display card component that renders geographic or venue information in a clean, minimal card layout. Includes built-in button variants for user actions like directions, booking, or viewing details. The component combines location imagery or icons with structured content and interactive elements, making it ideal for real estate listings, travel discovery, or service directories.",
+  "_classifiedAt": "2026-04-23T01:46:22.528Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

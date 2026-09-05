@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@dhileepkumargm/components/celestial-sphere",
+  "author": "dhileepkumargm",
+  "slug": "celestial-sphere",
+  "name": "celestial-sphere",
+  "description": "\"Celestial Sphere,\" combines several of the best ideas from the code you shared:\n\nProcedural Generation: Like the lightning and dark veil examples, it uses procedural noise to generate a unique, ever-shifting visual.\n\nMouse Interaction: Inspired by the iridescence shader, the visual reacts to your mouse movements, creating a \"warp\" effect as you move the cursor.\n\nCustomizable Props: The component is highly customizable, allowing you to control hue, speed, zoom, and particleSize through props.\n\nClean React Structure: It's built as a self-contained React component using modern hooks (useRef, useEffect), making it easy to drop into any project.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/dhileepkumargm/celestial-sphere?api_key=$API_KEY_21ST\"",
+  "id": "dhileepkumargm__celestial-sphere",
+  "bundleUrl": "https://cdn.21st.dev/dhileepkumargm/celestial-sphere/default/bundle.1785262197397-60438d45-d162-449d-9dde-b7370c1c8127.html",
+  "previewUrl": "https://cdn.21st.dev/dhileepkumargm/celestial-sphere/default/preview.1785262197397-60438d45-d162-449d-9dde-b7370c1c8127.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 74,
+  "demo_id": 6258,
+  "video_url": "https://cdn.21st.dev/dhileepkumargm/celestial-sphere/default/video.1785262197397-60438d45-d162-449d-9dde-b7370c1c8127.mp4"
+}

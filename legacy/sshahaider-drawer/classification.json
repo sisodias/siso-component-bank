@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "action-button-variants",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Interactive button with multiple style variants for user actions",
+    "Form submission and control buttons",
+    "Call-to-action buttons in UI components",
+    "Navigation action triggers",
+    "Icon and text button variations for compact UI"
+  ],
+  "ai_summary": "A versatile shadcn/ui-style button component with class-variance-authority powered variants including default, destructive, outline, secondary, ghost, and link styles. Supports multiple sizes (default, sm, lg, icon) and composition via Radix UI Slot for asChild pattern. Clean, accessible button with focus states, disabled states, and standard Tailwind transitions. Atomic component optimized for reusability across SaaS, e-commerce, and general web applications.",
+  "_classifiedAt": "2026-04-23T17:33:26.961Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

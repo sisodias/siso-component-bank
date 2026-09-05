@@ -1,0 +1,26 @@
+{
+  "id": "hari__transaction-list",
+  "author": "hari",
+  "slug": "transaction-list",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@hari/components/transaction-list",
+  "fetchedAt": "2026-08-29T04:54:39.222Z",
+  "completedAt": "2026-08-29T04:54:41.430Z",
+  "versionedFilename": "code.1750179261418.tsx",
+  "codeReference": "r2://components-code-private/larsen66/transaction-list/code.1750179261418.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/transaction-list/code.1750179261418.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 11900,
+  "sha256": "678fdc0fe1a9780481e03422b67d0f0b4611fc15fea1a5c6013a0bf11d1945f5",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

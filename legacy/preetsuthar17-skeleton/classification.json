@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "loading-placeholder",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display placeholder content while data is loading to maintain layout stability",
+    "Show skeleton states for cards, avatars, and list items during async operations",
+    "Provide visual feedback with shimmer animation during content fetching",
+    "Create smooth loading transitions that prevent layout shift",
+    "Use configurable variants and sizes for different content types"
+  ],
+  "ai_summary": "A versatile skeleton loader component with multiple variants (default, secondary, text, circle, avatar) and size options for different content placeholders. Features a polished shimmer animation effect with configurable duration, making it ideal for loading states in SaaS applications, e-commerce product grids, and media content loading. The atomic component uses class-variance-authority for type-safe prop handling and includes shimmer animation with customizable timing.",
+  "_classifiedAt": "2026-04-23T17:09:34.851Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

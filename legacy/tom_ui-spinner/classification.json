@@ -1,0 +1,41 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading-indicator",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display loading state during async operations",
+    "Indicate form submission in progress",
+    "Show data fetching status",
+    "Provide visual feedback during page transitions",
+    "Indicate processing in action buttons"
+  ],
+  "ai_summary": "A gradient-filled spinner component with customizable size and speed variants. Uses SVG linear gradients with opacity transitions to create a polished loading indicator. Supports sm, default, md, and lg sizes with slow, normal, and fast speed options via CSS animations.",
+  "_classifiedAt": "2026-04-22T09:18:16.187Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

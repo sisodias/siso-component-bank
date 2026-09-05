@@ -1,0 +1,28 @@
+{
+  "category": "card",
+  "subcategory": "3d-credit-card",
+  "visual_style": [],
+  "interactions": [
+    "parallax"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "e-commerce",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying virtual credit cards in fintech dashboards",
+    "Showing saved payment methods during checkout flow",
+    "Presenting subscription cards in SaaS billing settings",
+    "Creating interactive wallet displays in mobile banking apps",
+    "Showcasing membership or loyalty cards with premium feel"
+  ],
+  "ai_summary": "A 3D interactive credit card component that responds to mouse and touch movements with realistic perspective rotation. The card displays payment information with masked number display and toggle visibility controls. Built with Framer Motion for smooth spring-based animations, featuring a subtle fade-in entrance and responsive touch support for mobile devices.",
+  "_classifiedAt": "2026-04-23T17:21:26.981Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

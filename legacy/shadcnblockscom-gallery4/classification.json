@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "action-button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education",
+    "real-estate",
+    "media",
+    "creator-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Triggering form submissions with primary or destructive actions",
+    "Navigation via link-style buttons with underline hover states",
+    "Creating toolbars with icon-only buttons for compact UI",
+    "Building modal dialogs with ghost or outline button variants",
+    "Accessible focus management with keyboard navigation support"
+  ],
+  "ai_summary": "A reusable React button component with multiple visual variants (default, destructive, outline, secondary, ghost, link) and size options. Built with Radix UI Slot for composition, CVA for variant management, and Tailwind CSS for styling. Supports disabled states, asChild composition pattern, and includes focus-visible ring accessibility features. Designed as a foundational atomic component for any UI system.",
+  "_classifiedAt": "2026-04-23T17:28:01.311Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

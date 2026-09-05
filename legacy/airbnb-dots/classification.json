@@ -1,0 +1,32 @@
+{
+  "category": "data-display",
+  "subcategory": "scatter-chart",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying statistical scatter patterns with 600 randomly distributed data points",
+    "Enabling interactive point exploration through Voronoi-based hover detection",
+    "Providing tooltips for detailed point information on hover interaction",
+    "Visualizing data density and clustering patterns in a minimalist dot format",
+    "Supporting data exploration with toggleable Voronoi overlay visualization"
+  ],
+  "ai_summary": "Airbnb's DotsChart is an interactive scatter visualization component that renders 600 data points using the visx library. It features Voronoi diagram technology for precise hover detection, tooltip support for detailed point information, and a pink-red gradient aesthetic. The component includes controls for toggling the Voronoi overlay and adapts to any container size through responsive width/height props.",
+  "_classifiedAt": "2026-04-23T11:29:39.968Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

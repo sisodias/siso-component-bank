@@ -1,0 +1,33 @@
+{
+  "id": "kokonutd__button-shiny",
+  "author": "kokonutd",
+  "slug": "button-shiny",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@kokonutd/components/button-shiny",
+  "fetchedAt": "2026-08-29T05:18:06.568Z",
+  "completedAt": "2026-08-29T05:18:08.132Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/kokonutd__button-shiny/code.tsx",
+    "bytes": 2003,
+    "sha256": "58ca85c9a1c3ea5228b57556f4fb54ed1fb314a886f0d874c847e6f2e441edeb",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@shuding/components/cobe-globe-live",
+  "author": "shuding",
+  "slug": "cobe-globe-live",
+  "name": "cobe-globe-live",
+  "description": "A WebGL globe with live streaming badges showing real-time viewer counts at each marker location.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/shuding/cobe-globe-live?api_key=$API_KEY_21ST\"",
+  "id": "shuding__cobe-globe-live",
+  "bundleUrl": "https://cdn.21st.dev/reapollo/cobe-globe-live/default/bundle.1774294444412.html",
+  "previewUrl": "https://cdn.21st.dev/reapollo/cobe-globe-live/default/preview.1774286620062.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

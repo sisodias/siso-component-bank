@@ -1,0 +1,36 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display user profile pictures in navigation or header components",
+    "Show author attribution in blog posts or articles",
+    "Represent team members in organizational charts or dashboards",
+    "Display user avatars in comments or discussion threads",
+    "Serve as a visual identifier in notification or messaging interfaces"
+  ],
+  "ai_summary": "A lightweight, accessible Avatar component built on Radix UI primitives with support for images and fallback display. Uses Tailwind CSS for styling with a clean rounded-full design suitable for any interface requiring user or entity representation. Includes proper ref forwarding and displayName patterns for React component compatibility.",
+  "_classifiedAt": "2026-04-22T09:11:03.231Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

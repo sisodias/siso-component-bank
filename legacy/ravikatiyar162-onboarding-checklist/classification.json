@@ -1,0 +1,30 @@
+{
+  "category": [
+    "feedback",
+    "overlay"
+  ],
+  "subcategory": "onboarding-progress-checklist",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Guide new users through product setup and configuration steps",
+    "Track and display onboarding task completion progress in a modal",
+    "Help users discover key features during initial product engagement",
+    "Show required setup steps with interactive checkbox completion"
+  ],
+  "ai_summary": "An onboarding checklist component that displays setup tasks and progress tracking within a modal dialog. Built with Radix UI Dialog primitives and styled with Tailwind CSS, featuring smooth open/close animations and interactive task completion. Helps guide users through product initialization with a clean, accessible interface following shadcn/ui design patterns.",
+  "_classifiedAt": "2026-04-22T09:10:14.149Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

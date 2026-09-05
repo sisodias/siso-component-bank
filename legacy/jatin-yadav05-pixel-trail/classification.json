@@ -1,0 +1,32 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "cursor-trail",
+  "visual_style": [
+    "minimalist",
+    "mono"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Add visual flair and interactivity to SaaS landing pages and marketing sites",
+    "Create engaging cursor feedback on portfolio or personal showcase websites",
+    "Enhance user experience with subtle motion effects on creative platforms",
+    "Provide visual interest on product demo pages and feature introductions",
+    "Add interactive polish to hero sections without overwhelming content"
+  ],
+  "ai_summary": "An interactive pixel cursor trail component that renders grayscale pixels following the mouse movement path with smooth fade-out animation. Built with React hooks and requestAnimationFrame for performant continuous animation. Features configurable trail length, pixel size, and opacity fade speed for customization. Ideal for adding subtle visual polish and interactivity to SaaS landing pages, portfolios, and creative tool interfaces.",
+  "_classifiedAt": "2026-04-22T09:01:03.364Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

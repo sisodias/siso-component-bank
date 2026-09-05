@@ -1,0 +1,26 @@
+{
+  "id": "paper-design__smoke-ring-line",
+  "author": "paper-design",
+  "slug": "smoke-ring-line",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@paper-design/components/smoke-ring-line",
+  "fetchedAt": "2026-08-29T06:06:00.059Z",
+  "completedAt": "2026-08-29T06:06:02.227Z",
+  "versionedFilename": "code.1784835681639-5658525b-462c-452b-b83b-caa731a294c5.tsx",
+  "codeReference": "r2://components-code-private/paper-design/smoke-ring-line/code.1784835681639-5658525b-462c-452b-b83b-caa731a294c5.tsx",
+  "codeUrl": "https://cdn.21st.dev/paper-design/smoke-ring-line/code.1784835681639-5658525b-462c-452b-b83b-caa731a294c5.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

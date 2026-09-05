@@ -1,0 +1,36 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "credit-card-with-3d-tilt",
+  "visual_style": [
+    "gradient",
+    "glass-morphism",
+    "3d"
+  ],
+  "interactions": [
+    "hover-glow",
+    "parallax",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "e-commerce",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display interactive credit card preview in checkout and payment flows",
+    "Show virtual card details in digital banking applications",
+    "Provide 3D animated card reveal for secure payment forms",
+    "Serve as premium visual element in fintech dashboard interfaces",
+    "Enable click-to-reveal CVV security pattern in card components"
+  ],
+  "ai_summary": "A premium interactive credit card component featuring realistic 3D perspective tilt effects controlled by mouse movement using Framer Motion transforms. Offers three visual variants (gradient, dark, glass-morphism) and supports click-to-flip animation for CVV reveal with masked number display. Includes smooth entrance animations with staggered delays, making it ideal for payment interfaces, fintech dashboards, and e-commerce checkout experiences.",
+  "_classifiedAt": "2026-04-23T16:45:15.054Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

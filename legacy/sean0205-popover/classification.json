@@ -1,0 +1,35 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "status-indicator-badge",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display status indicators like active/inactive on product cards",
+    "Show category labels or tags on content items",
+    "Indicate notification counts or alerts",
+    "Mark feature availability in pricing or comparison tables",
+    "Show state information like success/warning/error on dashboard widgets"
+  ],
+  "ai_summary": "A flexible badge component with multiple variants (primary, secondary, success, warning, info, destructive, outline) and appearance modes (default, light, ghost). Supports three sizes, disabled states, and optional dot indicators with icon support. Designed for clean status labeling and state indication across SaaS, fintech, and e-commerce interfaces with CSS variable theming for custom color schemes.",
+  "_classifiedAt": "2026-04-23T17:23:31.960Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

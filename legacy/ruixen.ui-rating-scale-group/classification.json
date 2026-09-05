@@ -1,0 +1,35 @@
+{
+  "category": [
+    "form",
+    "input"
+  ],
+  "subcategory": "rating-scale",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Collect numerical ratings (1-10 scale) in customer feedback surveys",
+    "Enable NPS-style scoring for user satisfaction measurement",
+    "Provide product or service rating selection in e-commerce checkout flows",
+    "Gather employee or customer satisfaction scores in enterprise applications",
+    "Support survey-based data collection with visual rating indicators"
+  ],
+  "ai_summary": "A reusable rating scale group component built on Radix UI's RadioGroup primitive for selecting numerical ratings. Features clean minimalist styling with hover states, keyboard navigation support, and a distinctive green glow indicator dot for selected items. Ideal for survey forms, feedback collection, and satisfaction rating interfaces in SaaS, e-commerce, and healthcare applications.",
+  "_classifiedAt": "2026-04-22T09:13:03.452Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

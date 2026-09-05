@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "Action button with variant system",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Triggering form submissions in web applications",
+    "Providing clickable actions with visual state feedback",
+    "Enabling composition patterns with asChild prop",
+    "Supporting multiple button variants for UI consistency",
+    "Creating accessible button interfaces with focus states"
+  ],
+  "ai_summary": "A versatile Radix UI-based button component with CVA-powered variant system supporting multiple styles (default, destructive, outline, secondary, ghost, link) and sizes. Uses Slot for composition, includes proper accessibility features with focus-visible states, and applies subtle shadow effects. Designed as a foundational UI element for form actions and interface controls across SaaS, e-commerce, and dev tools applications.",
+  "_classifiedAt": "2026-04-23T16:43:18.242Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

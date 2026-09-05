@@ -1,0 +1,26 @@
+{
+  "id": "theutkarshmail__rising-ball",
+  "author": "theutkarshmail",
+  "slug": "rising-ball",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theutkarshmail/components/rising-ball",
+  "fetchedAt": "2026-08-29T07:37:30.644Z",
+  "completedAt": "2026-08-29T07:37:32.975Z",
+  "versionedFilename": "code.1755111641715.tsx",
+  "codeReference": "r2://components-code-private/theutkarshmail/rising-ball/code.1755111641715.tsx",
+  "codeUrl": "https://cdn.21st.dev/theutkarshmail/rising-ball/code.1755111641715.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 193,
+  "sha256": "600ed0595ee0f60bb940f226db72fca59ff7ef043cda71e6a71fffae615a80ab",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

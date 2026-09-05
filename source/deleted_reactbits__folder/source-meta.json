@@ -1,0 +1,26 @@
+{
+  "id": "deleted_reactbits__folder",
+  "author": "deleted_reactbits",
+  "slug": "folder",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@deleted_reactbits/components/folder",
+  "fetchedAt": "2026-08-29T04:13:42.080Z",
+  "completedAt": "2026-08-29T04:13:44.311Z",
+  "versionedFilename": "code.1747788774163.tsx",
+  "codeReference": "r2://components-code-private/larsen66/folder/code.1747788774163.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/folder/code.1747788774163.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6202,
+  "sha256": "c28a30fc3742dbcb0f73a2eed282c8279a67eab16169fab1444c3931e64a839f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

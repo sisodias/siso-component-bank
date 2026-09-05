@@ -1,0 +1,39 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "WebGL plasma shader visualization with mouse interaction",
+  "visual_style": [
+    "gradient",
+    "3d",
+    "colorful",
+    "glass-morphism"
+  ],
+  "interactions": [
+    "hover-glow",
+    "parallax",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Interactive hero section background with cosmic plasma effect for landing pages",
+    "Immersive canvas background for media or portfolio websites",
+    "Animated visual element for creative tool interfaces",
+    "WebGL-powered background for SaaS product pages",
+    "Dynamic plasma visualization for interactive storytelling experiences"
+  ],
+  "ai_summary": "A WebGL-based cosmic plasma visualization using OGL renderer with custom GLSL shaders. Features dynamic color shifting via HSV-to-RGB conversion, fractal Brownian motion noise, and curl effects creating organic fluid animations. Includes mouse attraction controls, configurable glow intensity, saturation, and energy flow parameters. Renders animated plasma textures with multiple layers and time-based animation, optimized for hero sections and immersive backgrounds.",
+  "_classifiedAt": "2026-04-23T01:52:46.053Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

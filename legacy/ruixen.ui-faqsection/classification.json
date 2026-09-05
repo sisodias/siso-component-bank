@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "faq-accordion",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying frequently asked questions with expandable answers",
+    "Product documentation with collapsible sections",
+    "Help center content organization",
+    "Terms and conditions or policy explanations",
+    "Troubleshooting guides with step-by-step reveals"
+  ],
+  "ai_summary": "A clean FAQ accordion component built with Radix UI primitives featuring smooth expand/collapse animations with rotating chevron indicators. Includes keyboard navigation accessibility and hover states with minimal Tailwind styling. Ideal for displaying Q&A content, documentation, or help center sections on any website or application.",
+  "_classifiedAt": "2026-04-22T09:12:15.178Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

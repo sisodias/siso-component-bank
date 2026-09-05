@@ -1,0 +1,26 @@
+{
+  "id": "uilayout.contact__feature-highlights",
+  "author": "uilayout.contact",
+  "slug": "feature-highlights",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uilayout.contact/components/feature-highlights",
+  "fetchedAt": "2026-08-29T07:43:16.037Z",
+  "completedAt": "2026-08-29T07:43:17.970Z",
+  "versionedFilename": "code.1784695642411-b5cbbd84-9e8e-4fdb-94d3-f5a0c7024693.tsx",
+  "codeReference": "r2://components-code-private/uilayout.contact/feature-highlights/code.1784695642411-b5cbbd84-9e8e-4fdb-94d3-f5a0c7024693.tsx",
+  "codeUrl": "https://cdn.21st.dev/uilayout.contact/feature-highlights/code.1784695642411-b5cbbd84-9e8e-4fdb-94d3-f5a0c7024693.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

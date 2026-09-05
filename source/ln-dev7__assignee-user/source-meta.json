@@ -1,0 +1,26 @@
+{
+  "id": "ln-dev7__assignee-user",
+  "author": "ln-dev7",
+  "slug": "assignee-user",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ln-dev7/components/assignee-user",
+  "fetchedAt": "2026-08-29T05:26:40.246Z",
+  "completedAt": "2026-08-29T05:26:42.071Z",
+  "versionedFilename": "code.1749413425516.tsx",
+  "codeReference": "r2://components-code-private/larsen66/assignee-user/code.1749413425516.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/assignee-user/code.1749413425516.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5575,
+  "sha256": "51cb831a46f19ecf7be83f2fb6ee35dbb2871e493a5e9c95f346449881a2d832",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

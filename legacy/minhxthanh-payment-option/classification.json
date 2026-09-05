@@ -1,0 +1,28 @@
+{
+  "category": "input",
+  "subcategory": "payment-radio-select",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "fintech",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Select payment method during e-commerce checkout flow",
+    "Choose payment option for subscription or recurring billing",
+    "Enable wallet payment selection (Google Pay, Apple Pay) in checkout forms",
+    "Collect payment preference in SaaS onboarding or upgrade flows",
+    "Support multiple payment providers in fintech applications"
+  ],
+  "ai_summary": "A customizable payment method radio selector component featuring SVG icons for digital payment providers like Google Pay. Built as a controlled React input component with customizable options, labels, and callback handlers for form integration. Clean flat visual style with no additional decorations, making it suitable for minimal checkout interfaces and e-commerce platforms.",
+  "_classifiedAt": "2026-04-23T01:43:43.325Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

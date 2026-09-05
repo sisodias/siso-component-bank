@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@anshuman008/components/faq-chat-accordion",
+  "author": "anshuman008",
+  "slug": "faq-chat-accordion",
+  "name": "faq-chat-accordion",
+  "description": "FAQ Accordion component is a versatile and interactive UI element designed to display frequently asked questions in a collapsible format. It enhances user experience by allowing users to expand and collapse sections to view answers, making it ideal for FAQs, help sections, and more.\n\nFeatures\n- Collapsible Sections: Users can expand or collapse sections to view or hide answers.\n- Animated Transitions: Smooth animations using Framer Motion for opening and closing sections.\n- Customizable Icons: Supports custom icons for each question, with flexible positioning.\n- Theming Support: Fully integrated with shadcn/ui theming for consistent styling.\n- Responsive Design: Adapts to different screen sizes for a seamless experience.\n- Accessible: Keyboard navigation and screen reader friendly.\n- Customizable Styles: Easily customize question and answer styles with className props.\n\nExample Use Cases\n- FAQ Sections: Display frequently asked questions in a compact, user-friendly format.\n- Help Centers: Organize help topics and answers for easy navigation.\n- Product Details: Provide detailed product information in a structured manner.\n- Educational Content: Present educational material in a question-and-answer format.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/anshuman008/faq-chat-accordion?api_key=$API_KEY_21ST\"",
+  "id": "anshuman008__faq-chat-accordion",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1517.html",
+  "previewUrl": "https://cdn.21st.dev/user_anshuman008/faq-chat-accordion.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 258,
+  "demo_id": 1517,
+  "video_url": "https://cdn.21st.dev/user_anshuman008/faq-chat-accordion/default/video.1738396635005.mp4"
+}

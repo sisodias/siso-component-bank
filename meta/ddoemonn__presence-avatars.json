@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ddoemonn/components/presence-avatars",
+  "author": "ddoemonn",
+  "slug": "presence-avatars",
+  "name": "presence-avatars",
+  "description": "Animated overlapping avatar stack that shows who is currently present, with an overflow count, image fallbacks to initials, and polite screen-reader announcements.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ddoemonn/presence-avatars?api_key=$API_KEY_21ST\"",
+  "id": "ddoemonn__presence-avatars",
+  "bundleUrl": "https://cdn.21st.dev/ddoemonn/presence-avatars/default/bundle.1785473811295-3f79571f-c3ee-4355-a559-6c3ba8d14daf.html",
+  "previewUrl": "https://cdn.21st.dev/ddoemonn/presence-avatars/default/preview.1785473811295-3f79571f-c3ee-4355-a559-6c3ba8d14daf.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

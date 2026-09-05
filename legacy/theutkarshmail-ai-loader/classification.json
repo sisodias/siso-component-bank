@@ -1,0 +1,34 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "ai-generating-loader",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display a loading state while waiting for AI-generated content to complete",
+    "Show visual feedback during LLM response generation",
+    "Keep users informed during AI processing workflows",
+    "Provide a branded loading experience for AI-powered applications",
+    "Indicate progress during chatbot or AI assistant interactions"
+  ],
+  "ai_summary": "A minimalist AI loading indicator that displays the word 'Generating...' with animated letters and a loader element. This component provides visual feedback during AI content generation processes, keeping users informed while waiting for LLM responses. It serves as a lightweight, atomic feedback component suitable for SaaS AI tools, developer platforms, and creative AI applications.",
+  "_classifiedAt": "2026-04-23T17:35:21.067Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

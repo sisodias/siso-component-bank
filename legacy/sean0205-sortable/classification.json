@@ -1,0 +1,30 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display user profile pictures with automatic fallback to initials when images fail to load",
+    "Show user online/offline/busy/away status indicators in real-time applications",
+    "Display team member avatars in dashboard or collaboration tool layouts",
+    "Render comment section or chat interface participant avatars"
+  ],
+  "ai_summary": "A composite Avatar component system built on Radix UI primitives featuring profile image display with automatic fallback to initials, status indicators for online presence (online, offline, busy, away), and positioning-aware avatar indicators. Uses CVA for variant management and Tailwind for minimalist styling.",
+  "_classifiedAt": "2026-04-23T01:52:32.655Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

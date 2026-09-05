@@ -1,0 +1,35 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "avatar-profile",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying user profile images in navigation headers and user menus",
+    "Showing avatar placeholders with fallback initials when images fail to load",
+    "Representing users in comment sections, chat interfaces, or user lists",
+    "Rendering customer or contact avatars in dashboard applications",
+    "Providing accessible user representation with semantic Radix UI primitives"
+  ],
+  "ai_summary": "A reusable Avatar component built with Radix UI primitives that displays circular user profile images with automatic fallback to initials when images fail to load. Uses Tailwind CSS for styling with a flat, minimalist aesthetic. The component includes Avatar, AvatarImage, and AvatarFallback subcomponents for flexible composition. Ideal for user interfaces requiring accessible, production-ready avatar rendering in any SaaS, e-commerce, or dashboard application.",
+  "_classifiedAt": "2026-04-23T16:50:47.331Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

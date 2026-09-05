@@ -1,0 +1,33 @@
+{
+  "category": [
+    "pricing"
+  ],
+  "subcategory": "gradient-tier-selector",
+  "visual_style": [
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Select pricing tiers in SaaS applications with animated gradient feedback",
+    "Interactive pricing selector with visual hierarchy for monetary values",
+    "Choose between funding/tier amounts with smooth animated transitions",
+    "Display price range options with gradient backgrounds for visual appeal",
+    "Engaging pricing selection with hover and click interactions for better UX"
+  ],
+  "ai_summary": "A gradient-themed pricing selector card component with animated selection states and customizable price tier options. Features smooth transitions using Framer Motion and accessible interactions for selecting different pricing levels in SaaS and fintech applications. Uses dynamic gradient positioning that follows the selected option with reduced motion support.",
+  "_classifiedAt": "2026-04-23T16:44:08.447Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

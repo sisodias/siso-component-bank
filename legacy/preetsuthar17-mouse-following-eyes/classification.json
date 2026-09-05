@@ -1,0 +1,25 @@
+{
+  "category": "media",
+  "subcategory": "mouse-following-animation",
+  "visual_style": [],
+  "interactions": [
+    "mouse-nav"
+  ],
+  "best_for_industries": [
+    "creator-tools",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Add playful interactivity to portfolio or personal websites",
+    "Create engaging cursor-following effects for creative landing pages",
+    "Use as a decorative animated element in hero sections"
+  ],
+  "ai_summary": "A pair of animated eyes that track the mouse cursor across the screen. Each eye contains a pupil that moves responsively based on cursor position, creating a charming interactive effect. Built with React hooks for state management and positioned calculations using getBoundingClientRect for accurate pupil movement.",
+  "_classifiedAt": "2026-04-23T17:08:36.136Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

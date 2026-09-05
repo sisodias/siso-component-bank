@@ -1,0 +1,26 @@
+{
+  "id": "shugar__tooltip-1",
+  "author": "shugar",
+  "slug": "tooltip-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/tooltip-1",
+  "fetchedAt": "2026-08-29T07:21:00.015Z",
+  "completedAt": "2026-08-29T07:21:02.135Z",
+  "versionedFilename": "code.1751892196884.tsx",
+  "codeReference": "r2://components-code-private/shugar/tooltip-1/code.1751892196884.tsx",
+  "codeUrl": "https://cdn.21st.dev/shugar/tooltip-1/code.1751892196884.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1621,
+  "sha256": "70e32f9ffb9d13d35aa37a98dcf471c9f4e36f10141cffa54821830d300f5637",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

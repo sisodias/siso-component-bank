@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "bar-chart",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying comparative metrics across multiple categories over time periods",
+    "Visualizing temperature or climate data distributions across geographic locations",
+    "Showing stacked proportional data like revenue breakdowns or resource allocation"
+  ],
+  "ai_summary": "A horizontal stacked bar chart component from Airbnb's visx visualization library that displays comparative data across multiple categories. Uses a clean minimalist design with purple color coding and interactive tooltips on hover. Ideal for showing proportional distributions or comparative metrics in dashboards and reports.",
+  "_classifiedAt": "2026-04-23T11:29:23.797Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

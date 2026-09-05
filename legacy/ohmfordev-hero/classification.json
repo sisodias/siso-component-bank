@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools",
+    "healthcare",
+    "education",
+    "media",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Clickable button for form submissions and user actions",
+    "Call-to-action buttons for conversion flows",
+    "Navigation triggers with multiple visual variants",
+    "Icon-only buttons for compact UI elements",
+    "Accessible button with keyboard navigation support"
+  ],
+  "ai_summary": "A reusable button component with multiple variants and sizes built on Radix UI Slot for composition, using Tailwind CSS for styling and class-variance-authority for variant management. Supports variants including default, destructive, outline, secondary, ghost, and link styles with sizes ranging from small to large icon buttons.",
+  "_classifiedAt": "2026-04-23T17:03:36.399Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

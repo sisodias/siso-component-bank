@@ -1,0 +1,31 @@
+{
+  "category": [
+    "layout"
+  ],
+  "subcategory": "animated-grid-background",
+  "visual_style": [
+    "gradient",
+    "colorful"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero section background with wave-like color animation",
+    "Landing page decorative grid element",
+    "Section divider with animated gradient cells",
+    "Loading or transition visual effect"
+  ],
+  "ai_summary": "An animated grid component that renders a customizable matrix of cells with interpolated gradient colors and position-based animation delays, creating a wave-like color ripple effect across the grid. Fully configurable via props for dimensions, cell sizes, colors, and animation timing.",
+  "_classifiedAt": "2026-04-23T16:29:46.756Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

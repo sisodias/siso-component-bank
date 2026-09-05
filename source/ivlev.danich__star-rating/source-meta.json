@@ -1,0 +1,26 @@
+{
+  "id": "ivlev.danich__star-rating",
+  "author": "ivlev.danich",
+  "slug": "star-rating",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ivlev.danich/components/star-rating",
+  "fetchedAt": "2026-08-29T05:05:05.867Z",
+  "completedAt": "2026-08-29T05:05:07.874Z",
+  "versionedFilename": "code.1768844582683.tsx",
+  "codeReference": "r2://components-code-private/ivlev.danich/star-rating/code.1768844582683.tsx",
+  "codeUrl": "https://cdn.21st.dev/ivlev.danich/star-rating/code.1768844582683.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3296,
+  "sha256": "46664087580c2065191787406e24c708cda01030679f0e353c32d32e5dd0abf1",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,30 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Triggering form submissions and actions across any interface",
+    "Providing navigation options with link-styled variants",
+    "Creating destructive action buttons for delete or remove operations",
+    "Building icon-only buttons for compact UI toolbars",
+    "Implementing accessible button groups with keyboard navigation support"
+  ],
+  "ai_summary": "A polymorphic button component with comprehensive variant support (default, destructive, outline, secondary, ghost, link) and multiple size options (sm, default, lg, icon variants). Built with class-variance-authority for consistent variant handling and uses Radix UI's Slot for flexible composition patterns. Features standard accessibility focus states, disabled states, and smooth hover transitions.",
+  "_classifiedAt": "2026-04-22T09:01:43.914Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,28 @@
+{
+  "category": "input",
+  "subcategory": "slide button",
+  "visual_style": [],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons with sliding animation feedback",
+    "Navigation triggers with interactive hover states",
+    "Form submission buttons with visual confirmation effects",
+    "Icon buttons with sliding label reveals on hover",
+    "Multi-variant button system for different UI contexts"
+  ],
+  "ai_summary": "A reusable slide button component with multiple style variants (default, destructive, outline, secondary, ghost, link) and size options using class-variance-authority. Built on Radix UI Slot for flexible composition, featuring smooth sliding animations on interaction for enhanced user feedback. Part of the reuno-ui design system.",
+  "_classifiedAt": "2026-04-23T17:16:46.447Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

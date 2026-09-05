@@ -1,0 +1,40 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Trigger actions like form submissions, modal opens, or navigation",
+    "Call-to-action buttons for primary user flows",
+    "Destructive action confirmation buttons",
+    "Secondary actions in toolbars or card footers",
+    "Icon-only buttons for compact UI spaces"
+  ],
+  "ai_summary": "A reusable Button component built with Radix UI Slot and class-variance-authority, supporting multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Styled with Tailwind CSS and follows standard accessible focus ring patterns. Includes asChild prop for polymorphic composition with other Radix primitives.",
+  "_classifiedAt": "2026-04-23T01:49:35.500Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

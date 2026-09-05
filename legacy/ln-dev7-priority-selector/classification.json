@@ -1,0 +1,39 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-component",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary action triggers in forms and dialogs",
+    "Navigation and routing action buttons",
+    "Confirmation and submission buttons",
+    "Icon-only buttons for toolbars and compact UI areas",
+    "Multi-variant button system for different action priorities"
+  ],
+  "ai_summary": "A reusable Button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Built with Radix UI Slot for composition via asChild prop and class-variance-authority for scalable variant management. Features standard focus states, hover effects, disabled states, and shadow styling for depth.",
+  "_classifiedAt": "2026-04-23T16:52:29.166Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "uniquesonu-auto-resizing-ai-input",
+  "type": "registry:ui",
+  "title": "Uniquesonu Auto Resizing Ai Input",
+  "description": "Installed from https://21st.dev/r/uniquesonu/auto-resizing-ai-input",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "uniquesonu-auto-resizing-ai-input"
+  ],
+  "files": [
+    {
+      "path": "auto-resizing-ai-input.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/uniquesonu/auto-resizing-ai-input",
+    "fetchedAt": "2026-04-23T01:18:09.515Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

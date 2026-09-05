@@ -1,0 +1,27 @@
+{
+  "category": "data-display",
+  "subcategory": "masonry-testimonial-grid",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying customer testimonials with images in an organized masonry layout",
+    "Creating visually appealing testimonial sections on landing pages",
+    "Building social proof sections for SaaS or e-commerce product pages",
+    "Showcasing reviews with staggered scroll-triggered animations"
+  ],
+  "ai_summary": "A masonry grid component for displaying testimonial cards with images in a multi-column layout. Uses framer-motion for smooth scroll-triggered entrance animations with staggered reveals. Supports configurable column count and gap spacing via props. Ideal for showcasing customer testimonials, reviews, or social proof in an engaging, visually organized format on landing pages or product sections.",
+  "_classifiedAt": "2026-04-23T17:12:03.580Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,39 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button with multi-variant styling",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary action trigger in forms and dashboards",
+    "Navigation and link triggering with asChild pattern",
+    "Multi-style button system supporting destructive, outline, secondary, ghost, and link variants"
+  ],
+  "ai_summary": "A shadcn/ui-style button component built with Radix UI Slot and CVA for variant-driven styling. Features six variants (default, destructive, outline, secondary, ghost, link) and three sizes (default, sm, lg, icon). Standard web accessibility with focus-visible outlines and disabled states. Lightweight atomic component suitable as a building block for any UI system.",
+  "_classifiedAt": "2026-04-23T17:26:53.378Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

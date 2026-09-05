@@ -1,0 +1,35 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "circular-carousel-image-gallery",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "media",
+    "e-commerce",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Showcasing photography portfolios with elegant circular animation transitions",
+    "Displaying product images in an interactive gallery for e-commerce sites",
+    "Creating visually engaging hero sections for marketing landing pages",
+    "Building media-rich feature presentations for SaaS product demos",
+    "Designing immersive visual experiences for creative agency websites"
+  ],
+  "ai_summary": "A circular image gallery carousel component that uses GSAP and MotionPathPlugin to create smooth circular path animations for image transitions. Features autoplay functionality, click-based navigation through index tracking, and dynamic script loading for animation libraries. Designed for displaying collections of images with continuous circular motion effects suitable for portfolios, product showcases, or hero sections.",
+  "_classifiedAt": "2026-04-22T09:06:07.465Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

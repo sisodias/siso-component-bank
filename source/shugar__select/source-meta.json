@@ -1,0 +1,33 @@
+{
+  "id": "shugar__select",
+  "author": "shugar",
+  "slug": "select",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/select",
+  "fetchedAt": "2026-08-29T07:20:11.920Z",
+  "completedAt": "2026-08-29T07:20:12.679Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/shugar__select/code.tsx",
+    "bytes": 4661,
+    "sha256": "75f7ac1505afb647a7b7e3ddca980c0dd3e8f0f41cf0af6ef12b5aea38c8f298",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

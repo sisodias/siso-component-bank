@@ -1,0 +1,29 @@
+{
+  "category": "card",
+  "subcategory": "team-member-grid",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying team members on an About or Company page with interactive hover effects",
+    "Creating a dynamic team showcase section with mouse-tracking parallax effects",
+    "Building organizational directories with animated member cards",
+    "Showcasing staff profiles with role and image presentation",
+    "Adding a kinetic team section to portfolio or agency websites"
+  ],
+  "ai_summary": "A kinetic team member showcase component with smooth spring-based mouse tracking and hover animations. Features profile cards displaying team member photos, names, and roles with interactive hover states that trigger smooth transitions. Includes mobile detection for responsive behavior and uses Framer Motion for fluid physics-based animations. The floating card effect follows the cursor with damped spring physics, creating an engaging interactive experience.",
+  "_classifiedAt": "2026-04-22T08:55:25.274Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

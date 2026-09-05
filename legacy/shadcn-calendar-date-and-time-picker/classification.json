@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "date-time-picker",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "fintech",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting dates for appointment booking in healthcare or service applications",
+    "Scheduling events and meetings with date and time fields",
+    "Setting deadlines or due dates in project management tools",
+    "Choosing delivery or pickup times in e-commerce checkout flows",
+    "Recording timestamps for financial transactions or logs"
+  ],
+  "ai_summary": "A shadcn-style calendar date and time picker component that provides a combined interface for selecting both date and time values. Features a clean, minimalist design with click-based date selection and integrated time picker functionality. Built with Radix UI primitives for accessibility and uses standard Tailwind CSS for styling consistency.",
+  "_classifiedAt": "2026-04-23T17:25:45.937Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

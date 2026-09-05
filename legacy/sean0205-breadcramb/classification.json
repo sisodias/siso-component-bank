@@ -1,0 +1,34 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "breadcrumb, path-navigator",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "system",
+  "use_cases": [
+    "Website navigation showing user location in site hierarchy",
+    "E-commerce product category path display from homepage to current product",
+    "Admin dashboard breadcrumb trails for nested route navigation",
+    "Documentation or knowledge base page hierarchy navigation",
+    "File system or folder path visualization in document management UIs"
+  ],
+  "ai_summary": "A comprehensive shadcn-style breadcrumb navigation system built with Radix UI Slot primitive for flexible composition patterns. Features six sub-components including breadcrumb list, item, link, page (current), separator with chevron icons, and ellipsis for truncated paths. Full ARIA accessibility support with proper roles and labels, RTL layout compatibility, and Tailwind CSS styling for seamless integration into any application.",
+  "_classifiedAt": "2026-04-23T17:22:07.963Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

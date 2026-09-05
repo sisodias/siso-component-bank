@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "oldkong88-lucide-icon-drawer",
+  "type": "registry:ui",
+  "title": "Oldkong88 Lucide Icon Drawer",
+  "description": "Installed from https://21st.dev/r/oldkong88/lucide-icon-drawer",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "oldkong88-lucide-icon-drawer"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "lucide-icon-drawer.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "animejs",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/oldkong88/lucide-icon-drawer",
+    "fetchedAt": "2026-04-23T03:05:01.156Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "category": [
+    "navigation",
+    "layout"
+  ],
+  "subcategory": "collapsible-sidebar-dashboard",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Admin dashboard navigation with expandable/collapsible sidebar menu",
+    "E-commerce backend management interface with dark mode support",
+    "SaaS product navigation with notification badges and active state tracking",
+    "Multi-page application sidebar with smooth animated transitions",
+    "Responsive dashboard layout with theme switching capability"
+  ],
+  "ai_summary": "A collapsible sidebar navigation component for dashboard interfaces featuring smooth expand/collapse transitions, dark/light mode toggle, notification badges, and active state highlighting. Built with Tailwind CSS and Lucide icons, this composite component provides a clean, minimal navigation solution suitable for SaaS platforms, admin panels, and e-commerce backends with responsive desktop and mobile layouts.",
+  "_classifiedAt": "2026-04-23T17:39:31.112Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

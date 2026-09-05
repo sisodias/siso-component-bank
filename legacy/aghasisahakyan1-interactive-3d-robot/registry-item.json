@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "aghasisahakyan1-interactive-3d-robot",
+  "type": "registry:ui",
+  "title": "Aghasisahakyan1 Interactive 3d Robot",
+  "description": "Installed from https://21st.dev/r/aghasisahakyan1/interactive-3d-robot",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "aghasisahakyan1-interactive-3d-robot"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "interactive-3d-robot.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@splinetool/react-spline"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/aghasisahakyan1/interactive-3d-robot",
+    "fetchedAt": "2026-04-23T03:04:53.106Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

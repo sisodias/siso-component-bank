@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@hero_ui/components/heroui-progress-bar",
+  "author": "hero_ui",
+  "slug": "heroui-progress-bar",
+  "name": "heroui-progress-bar",
+  "description": "A HeroUI progress bar for showing completion of a task — loading, uploads, multi-step flows. Built on react-aria with an accessible label and formatted output. Supports accent/success/warning/danger colors, sm/md/lg sizes, an indeterminate animated state, and an optional label.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/hero_ui/heroui-progress-bar?api_key=$API_KEY_21ST\"",
+  "id": "hero_ui__heroui-progress-bar",
+  "bundleUrl": "https://cdn.21st.dev/hero_ui/heroui-progress-bar/default/bundle.1783959323144.html",
+  "previewUrl": "https://cdn.21st.dev/hero_ui/heroui-progress-bar/default/preview.1783959323144.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

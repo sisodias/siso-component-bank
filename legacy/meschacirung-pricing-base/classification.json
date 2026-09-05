@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-action-trigger",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Form submission triggers with variant styles for primary and secondary actions",
+    "Navigation action buttons with outline and ghost variants for less prominent CTAs",
+    "Call-to-action elements with destructive variant for dangerous operations",
+    "Icon-only buttons with circular sizing for compact toolbars",
+    "Composition-ready buttons using Radix Slot for polymorphic behavior with custom components"
+  ],
+  "ai_summary": "A reusable button component with multiple style variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Built with Radix UI Slot for asChild composition, class-variance-authority for type-safe variant management, and standard Tailwind styling. Part of the shadcn/ui design system providing consistent, accessible button interactions across any application.",
+  "_classifiedAt": "2026-04-23T16:57:17.640Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

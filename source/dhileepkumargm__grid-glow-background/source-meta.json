@@ -1,0 +1,33 @@
+{
+  "id": "dhileepkumargm__grid-glow-background",
+  "author": "dhileepkumargm",
+  "slug": "grid-glow-background",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dhileepkumargm/components/grid-glow-background",
+  "fetchedAt": "2026-08-29T04:29:24.555Z",
+  "completedAt": "2026-08-29T04:29:26.475Z",
+  "versionedFilename": "code.1785278008406-0b290647-3e1d-47c7-a680-da03557e3a4f.tsx",
+  "codeReference": "r2://components-code-private/dhileepkumargm/grid-glow-background/code.1785278008406-0b290647-3e1d-47c7-a680-da03557e3a4f.tsx",
+  "codeUrl": "https://cdn.21st.dev/dhileepkumargm/grid-glow-background/code.1785278008406-0b290647-3e1d-47c7-a680-da03557e3a4f.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/dhileepkumargm__grid-glow-background/code.tsx",
+    "bytes": 4223,
+    "sha256": "d87a88ebcc389074807223e144fac2f59ba73f04e2cc402e56586d6b662f4b1e",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

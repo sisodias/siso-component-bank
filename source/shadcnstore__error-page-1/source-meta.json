@@ -1,0 +1,26 @@
+{
+  "id": "shadcnstore__error-page-1",
+  "author": "shadcnstore",
+  "slug": "error-page-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcnstore/components/error-page-1",
+  "fetchedAt": "2026-08-29T07:13:24.585Z",
+  "completedAt": "2026-08-29T07:13:26.863Z",
+  "versionedFilename": "code.1783730097837.tsx",
+  "codeReference": "r2://components-code-private/shadcnstore/error-page-1/code.1783730097837.tsx",
+  "codeUrl": "https://cdn.21st.dev/shadcnstore/error-page-1/code.1783730097837.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5354,
+  "sha256": "4d797a9f4528d6492b8dd2312821621312d30a7a387c2e7ed23c6b68dadd21a5",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

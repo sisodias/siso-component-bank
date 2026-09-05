@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "dadopelanosvela-neumorphic-counter",
+  "type": "registry:ui",
+  "title": "Dadopelanosvela Neumorphic Counter",
+  "description": "Installed from https://21st.dev/r/dadopelanosvela/neumorphic-counter",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "dadopelanosvela-neumorphic-counter"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "neumorphic-counter.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/dadopelanosvela/neumorphic-counter",
+    "fetchedAt": "2026-04-23T01:18:20.231Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

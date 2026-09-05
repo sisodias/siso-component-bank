@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "h0bb5-cool-blob-effect",
+  "type": "registry:ui",
+  "title": "H0bb5 Cool Blob Effect",
+  "description": "Installed from https://21st.dev/r/h0bb5/cool-blob-effect",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "h0bb5-cool-blob-effect"
+  ],
+  "files": [
+    {
+      "path": "cool-blob-effect.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/h0bb5/cool-blob-effect",
+    "fetchedAt": "2026-04-23T03:04:04.359Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "category": "input",
+  "subcategory": "numeric-stepper",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Select product quantities in e-commerce shopping carts or product pages",
+    "Enter numeric values like ages, dimensions, or measurements in forms",
+    "Increment or decrement numeric settings like quantities or thresholds",
+    "Input monetary amounts or financial figures in fintech applications",
+    "Adjust inventory counts or batch quantities in SaaS dashboards"
+  ],
+  "ai_summary": "A clean number input component with integrated increment and decrement controls, built on Ark UI with Tailwind CSS. Features a compact numeric stepper design with hover and focus states, dark mode support, and accessible keyboard interactions. Ideal for collecting numeric values in any form context where users benefit from quick adjustment controls.",
+  "_classifiedAt": "2026-04-22T08:52:10.137Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

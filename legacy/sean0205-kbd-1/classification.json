@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "keyboard-key-indicator",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display keyboard shortcuts in documentation and help menus",
+    "Show key combinations in software interface tooltips",
+    "Indicate keyboard controls for keyboard-driven applications",
+    "Visualize modifier keys like Ctrl, Cmd, or Shift in tutorials"
+  ],
+  "ai_summary": "A keyboard key component that renders styled kbd elements for displaying keyboard shortcuts and key combinations. Supports multiple sizes (xs, sm, md) and variants (default, outline) with proper monospace typography and rounded styling. Designed for use in documentation, help tooltips, and software interfaces to represent keyboard input visually.",
+  "_classifiedAt": "2026-04-23T17:22:53.349Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

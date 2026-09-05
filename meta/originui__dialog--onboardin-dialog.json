@@ -1,0 +1,18 @@
+{
+  "url": "https://21st.dev/@originui/components/dialog/onboardin-dialog",
+  "author": "originui",
+  "slug": "onboardin-dialog",
+  "name": "onboardin-dialog",
+  "parent": "originui__dialog",
+  "variant": true,
+  "id": "originui__dialog--onboardin-dialog",
+  "bundleUrl": null,
+  "previewUrl": "https://cdn.21st.dev/user_originui/dialog/onboardin-dialog/preview.png?v=1",
+  "demoUrl": "https://cdn.21st.dev/user_originui/dialog/onboardin-dialog/code.demo.tsx?v=1",
+  "video_url": null,
+  "harvested": [
+    "preview",
+    "demo.tsx"
+  ],
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/originui/dialog?api_key=$API_KEY_21ST\""
+}

@@ -1,0 +1,31 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "shadcn-card-primitive",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying grouped content with header, title, description, and footer sections",
+    "Creating news article cards with title, description, and metadata",
+    "Building product or service listing cards",
+    "Constructing dashboard widget containers",
+    "Form layout containers with consistent styling"
+  ],
+  "ai_summary": "A shadcn/ui-style Card component system providing reusable primitives for displaying grouped content. Includes Card, CardHeader, CardTitle, CardDescription, CardContent, and CardFooter components with React.forwardRef support and Tailwind styling. Used as a content display container for news articles, product listings, or dashboard widgets.",
+  "_classifiedAt": "2026-04-23T01:55:04.612Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

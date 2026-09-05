@@ -1,0 +1,35 @@
+{
+  "category": [
+    "other"
+  ],
+  "subcategory": "physics-based draggable swing element",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "drag",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "creator-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive hero section element for creative landing pages",
+    "Decorative draggable element in portfolio or agency websites",
+    "Gamified UI component for interactive product demonstrations",
+    "Physics-based loading or loading-placeholder animations",
+    "Interactive decorative element for entertainment or media sites"
+  ],
+  "ai_summary": "A GSAP-powered draggable rope component featuring automatic swing animation with physics-based motion and rotation inertia. The rope swings with decreasing amplitude governed by gravity settings, and users can drag it within bounded rotation limits. Highly customizable via props for rope dimensions, swing physics, and styling, making it ideal for creative interactive landing pages, portfolio sites, or gamified UI experiences.",
+  "_classifiedAt": "2026-04-23T01:40:23.503Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

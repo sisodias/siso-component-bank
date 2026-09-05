@@ -1,0 +1,33 @@
+{
+  "category": "media",
+  "subcategory": "Animated text highlight reveal",
+  "visual_style": [
+    "flat",
+    "minimalist",
+    "dark"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Hero section titles with animated highlight effect",
+    "Call-to-action text emphasis with directional reveal",
+    "Marketing landing page text reveals on scroll",
+    "Section headers with scroll-triggered animations",
+    "Feature highlights with spring-based motion effects"
+  ],
+  "ai_summary": "A motion-powered highlighted text component that reveals text content with a sweeping animated background bar using CSS mix-blend-difference for high contrast. Supports directional animations from left, right, top, or bottom edges with spring physics for natural motion. Perfect for creating engaging hero text, CTAs, and section headers with scroll-triggered reveal effects.",
+  "_classifiedAt": "2026-04-22T09:03:51.576Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

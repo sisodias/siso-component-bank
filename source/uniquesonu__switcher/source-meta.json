@@ -1,0 +1,26 @@
+{
+  "id": "uniquesonu__switcher",
+  "author": "uniquesonu",
+  "slug": "switcher",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uniquesonu/components/switcher",
+  "fetchedAt": "2026-08-29T07:50:51.357Z",
+  "completedAt": "2026-08-29T07:50:53.511Z",
+  "versionedFilename": "code.1759498566835.tsx",
+  "codeReference": "r2://components-code-private/uniquesonu/switcher/code.1759498566835.tsx",
+  "codeUrl": "https://cdn.21st.dev/uniquesonu/switcher/code.1759498566835.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6694,
+  "sha256": "9191f43c9fc8abe6b339452f931327c057baf0c83180b9b1d0c2e1a79757f96c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

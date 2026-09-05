@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "checkbox-primitive",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Accepting terms and conditions or privacy policy agreements",
+    "Selecting multiple options from a settings or preferences panel",
+    "Toggling individual features or filters on and off",
+    "Marking tasks or items as complete in a checklist interface",
+    "Obtaining user consent for notifications or marketing communications"
+  ],
+  "ai_summary": "A minimalist checkbox component built on Radix UI primitives with full accessibility support. Features standard checked/unchecked states, keyboard focus indicators, and disabled functionality. Used as a fundamental form input element across virtually any application requiring boolean or multiple selection inputs.",
+  "_classifiedAt": "2026-04-22T09:15:44.692Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

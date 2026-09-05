@@ -1,0 +1,35 @@
+{
+  "category": "input",
+  "subcategory": "character-limit-hook",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Enforcing character limits on text inputs and textareas in forms",
+    "Providing real-time character count feedback to users",
+    "Validating text input length before form submission",
+    "Building text editors with predefined character limits",
+    "Creating input components with live progress indicators"
+  ],
+  "ai_summary": "A custom React hook that manages character limiting for text inputs and textareas. It tracks current value, character count, and provides a change handler that prevents input beyond the specified maxLength. Ideal for building form components with real-time character feedback and validation.",
+  "_classifiedAt": "2026-04-23T17:05:04.757Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

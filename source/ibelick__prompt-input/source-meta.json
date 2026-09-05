@@ -1,0 +1,33 @@
+{
+  "id": "ibelick__prompt-input",
+  "author": "ibelick",
+  "slug": "prompt-input",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ibelick/components/prompt-input",
+  "fetchedAt": "2026-08-29T04:59:59.877Z",
+  "completedAt": "2026-08-29T05:00:00.940Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/ibelick__prompt-input/code.tsx",
+    "bytes": 1838,
+    "sha256": "407ee6b1f7192574bcf65bd5da7464335d3fed430e0ffe8637b49a3168e4c664",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

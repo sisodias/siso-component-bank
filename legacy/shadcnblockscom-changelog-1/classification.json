@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "changelog-release-notes",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying software version updates and release notes in a timeline format",
+    "Showing changelog entries with version badges and timestamps",
+    "Highlighting new features, bug fixes, and improvements for users",
+    "Providing version-specific change categorization with styled badges"
+  ],
+  "ai_summary": "A shadcn/ui Badge component with variant props (default, secondary, destructive, outline) used as part of a changelog display system. Features inline-flex styling with rounded borders and focus ring accessibility. Used in changelog components to display version numbers, status labels, or category indicators within a timeline of software updates and release notes.",
+  "_classifiedAt": "2026-04-23T17:27:26.471Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

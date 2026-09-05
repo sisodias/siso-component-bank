@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@easemize/components/material-design-3-switch",
+  "author": "easemize",
+  "slug": "material-design-3-switch",
+  "name": "material-design-3-switch",
+  "description": "The definitive Google Material Design 3 (M3) Switch component for React & Tailwind CSS.\nThis implementation captures the exact tactile feel of Android toggles using Spring Physics (overshoot animation) and Morphing Handle logic. It goes beyond visual replication by including a built-in Synthetic Audio Engine (Web Audio API) for real-time haptic feedback (mechanical thud or plastic click).\nKey Features:\nTrue M3 Physics: Custom cubic-bezier spring curves for the signature \"overshoot\" effect.\nHaptic Audio: Zero-dependency sound generation (no mp3 assets required).\nSmart Morphing: Handle changes size and shape based on state (Unchecked, Checked, Pressed).\nAdvanced Customization: Support for Custom Icons (React Nodes), Destructive variants, and Compact sizes.\nAccessibility: Enforced 48px touch targets meeting WCAG AAA standards.\nA \"Holy Grail\" component for developers who want the premium feel of native mobile toggles without installing heavy UI libraries.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/easemize/material-design-3-switch?api_key=$API_KEY_21ST\"",
+  "id": "easemize__material-design-3-switch",
+  "bundleUrl": "https://cdn.21st.dev/easemize/material-design-3-switch/default/bundle.1768141274722.html",
+  "previewUrl": "https://cdn.21st.dev/easemize/material-design-3-switch/default/preview.1768141274722.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 50,
+  "demo_id": 9869,
+  "video_url": "https://cdn.21st.dev/easemize/material-design-3-switch/default/video.1785191316688-61feda23-9087-4779-9d4a-50036f564fcf.mp4"
+}

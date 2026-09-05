@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ssicevs/components/price-target-fan",
+  "author": "ssicevs",
+  "slug": "price-target-fan",
+  "name": "price-target-fan",
+  "description": "Analyst price target chart: history walks to now, then three dashed projections fan out to High, Mean and Low targets. Scrub the history or hover a target and a KPI-style card reads the value. Theme-aware.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ssicevs/price-target-fan?api_key=$API_KEY_21ST\"",
+  "id": "ssicevs__price-target-fan",
+  "bundleUrl": "https://cdn.21st.dev/ssicevs/price-target-fan/default/bundle.1785373490302-4d6cd27e-e758-4fa7-9b35-10d9f3ac62a3.html",
+  "previewUrl": "https://cdn.21st.dev/ssicevs/price-target-fan/default/preview.1785373490302-4d6cd27e-e758-4fa7-9b35-10d9f3ac62a3.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

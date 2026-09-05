@@ -1,0 +1,32 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "menubar with nested submenus",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Dashboard navigation with collapsible submenus for organizing complex application sections",
+    "Admin panel menu systems with grouped navigation items",
+    "Settings and preferences menus with radio group selections",
+    "Application-wide command menus with keyboard shortcuts"
+  ],
+  "ai_summary": "A nested menu component built on Radix UI primitives featuring multi-level submenus with check indicators, chevron icons for nested items, and radio group support. Designed for dashboard navigation with proper accessibility, focus states, and keyboard navigation. Styled with Tailwind CSS for a clean, minimal appearance suitable for SaaS and admin interfaces.",
+  "_classifiedAt": "2026-04-23T01:50:36.896Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

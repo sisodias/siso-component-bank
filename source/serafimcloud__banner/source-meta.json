@@ -1,0 +1,33 @@
+{
+  "id": "serafimcloud__banner",
+  "author": "serafimcloud",
+  "slug": "banner",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@serafimcloud/components/banner",
+  "fetchedAt": "2026-08-29T07:01:32.362Z",
+  "completedAt": "2026-08-29T07:01:33.643Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/serafimcloud__banner/code.tsx",
+    "bytes": 3096,
+    "sha256": "fa3300f6ccbc5c2995cd528b7e9bbb2e295ff9db674d56568c55ab4f08a1935d",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

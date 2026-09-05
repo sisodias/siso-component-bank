@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "kaif-ui-infinite-slider-horizontal",
+  "type": "registry:ui",
+  "title": "Kaif Ui Infinite Slider Horizontal",
+  "description": "Installed from https://21st.dev/r/kaif-ui/infinite-slider-horizontal",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "kaif-ui-infinite-slider-horizontal"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "infinite-slider-horizontal.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "react-use-measure"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/kaif-ui/infinite-slider-horizontal",
+    "fetchedAt": "2026-04-23T03:04:07.310Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

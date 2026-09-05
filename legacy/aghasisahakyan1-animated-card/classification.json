@@ -1,0 +1,35 @@
+{
+  "category": "card",
+  "subcategory": "animated infrastructure card with particle effects",
+  "visual_style": [
+    "dark",
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying infrastructure metrics like load balancing with animated visual feedback",
+    "Creating interactive dashboard cards that reveal server status on hover",
+    "Showcasing cloud architecture concepts in technical documentation",
+    "Adding animated elements to SaaS product landing pages",
+    "Building interactive data visualization cards for DevOps dashboards"
+  ],
+  "ai_summary": "An animated card component featuring a dark, minimalist design with particle effects that simulate infrastructure traffic flow. On hover, particles animate from a central point to multiple server nodes with staggered timing, while server indicators pulse green in sequence. Built with Framer Motion for smooth animations and includes props for customizable title and description text. Ideal for SaaS platforms, DevOps dashboards, or technical product showcases requiring visual infrastructure representations.",
+  "_classifiedAt": "2026-04-23T01:34:57.292Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:28:15.800Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

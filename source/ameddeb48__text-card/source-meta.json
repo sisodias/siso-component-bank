@@ -1,0 +1,26 @@
+{
+  "id": "ameddeb48__text-card",
+  "author": "ameddeb48",
+  "slug": "text-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ameddeb48/components/text-card",
+  "fetchedAt": "2026-08-29T03:33:24.077Z",
+  "completedAt": "2026-08-29T03:33:26.294Z",
+  "versionedFilename": "code.1758475655669.tsx",
+  "codeReference": "r2://components-code-private/ameddeb48/text-card/code.1758475655669.tsx",
+  "codeUrl": "https://cdn.21st.dev/ameddeb48/text-card/code.1758475655669.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6254,
+  "sha256": "5789eec10df67d9ee64ef37ef3a5b8cfe3884ae70b4145bccab2ffb923503b81",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

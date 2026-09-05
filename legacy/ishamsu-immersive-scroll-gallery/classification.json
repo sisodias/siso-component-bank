@@ -1,0 +1,36 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "scroll-based parallax image gallery with animated scaling",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "media",
+    "e-commerce",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Portfolio and photography showcases with immersive scroll-driven animations",
+    "Product galleries featuring parallax image transitions and scale transforms",
+    "Visual storytelling sections for marketing and brand narrative websites",
+    "Feature presentations with scroll-synced animated image reveals",
+    "Immersive brand experiences with staggered image positioning effects"
+  ],
+  "ai_summary": "A scroll-driven image gallery component using Framer Motion's useScroll and useTransform hooks to create parallax effects and smooth scale animations. Features multiple images with varying sizes, offsets, and vertical positions that animate responsively based on scroll progress, delivering an immersive visual storytelling experience ideal for portfolios, product showcases, creative agency sites, and media-focused landing pages.",
+  "_classifiedAt": "2026-04-23T16:44:59.918Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

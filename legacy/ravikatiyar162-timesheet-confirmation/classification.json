@@ -1,0 +1,24 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Form submission and action triggering",
+    "Navigation and link buttons",
+    "Dialog and modal interactions",
+    "Call-to-action elements",
+    "Interactive UI controls with variant states"
+  ],
+  "ai_summary": "A reusable Button component built with Radix UI Slot and class-variance-authority, supporting multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Implements standard accessible button patterns with focus-visible states and disabled handling. Designed as an atomic, foundational UI element for form inputs and interactive controls.",
+  "_classifiedAt": "2026-04-22T09:11:03.820Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

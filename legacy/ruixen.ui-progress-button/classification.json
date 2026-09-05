@@ -1,0 +1,33 @@
+{
+  "category": [
+    "form",
+    "input"
+  ],
+  "subcategory": "loading-state-button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Form submission buttons that show loading state during async form processing",
+    "Payment buttons displaying progress feedback during transaction processing",
+    "Upload buttons with visual progress indication for file operations",
+    "Action buttons in multi-step wizards requiring confirmation feedback",
+    "Any async action button needing visual state transitions between idle, loading, and success"
+  ],
+  "ai_summary": "A loading-state button component that provides visual feedback for async operations by transitioning between idle, loading (spinner or progress bar), and success states with automatic reset. Supports configurable duration and labels. Ideal for high-stakes user actions like form submissions, payments, and uploads where clear processing feedback is critical for user confidence.",
+  "_classifiedAt": "2026-04-23T01:50:57.878Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

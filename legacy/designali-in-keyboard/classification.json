@@ -1,0 +1,39 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-primitive",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Triggering form submissions with different visual states",
+    "Creating navigation actions with link-style buttons",
+    "Building modal or overlay triggers with outlined buttons",
+    "Implementing destructive actions like delete with red variants",
+    "Creating compact icon-only buttons for toolbars"
+  ],
+  "ai_summary": "A foundational button component with Radix UI Slot integration and class-variance-authority for flexible styling. Supports 6 visual variants (default, destructive, outline, secondary, ghost, link) and 4 sizes (default, sm, lg, icon). Features standard accessibility with focus-visible ring, disabled states, and hover effects. Pure atomic component designed for composition into larger UI systems.",
+  "_classifiedAt": "2026-04-23T16:31:41.815Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

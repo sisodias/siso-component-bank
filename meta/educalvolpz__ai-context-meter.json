@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@educalvolpz/components/ai-context-meter",
+  "author": "educalvolpz",
+  "slug": "ai-context-meter",
+  "name": "ai-context-meter",
+  "description": "Context window meter whose ring fills and shifts hue at the warning threshold, never changing size. Hover for a token breakdown. Respects prefers-reduced-motion.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/educalvolpz/ai-context-meter?api_key=$API_KEY_21ST\"",
+  "id": "educalvolpz__ai-context-meter",
+  "bundleUrl": "https://cdn.21st.dev/educlopez/ai-context-meter/default/bundle.1785566520103-5f5736a2-6391-4283-9d86-113d5ac0dfe0.html",
+  "previewUrl": "https://cdn.21st.dev/educlopez/ai-context-meter/default/preview.1785566520103-5f5736a2-6391-4283-9d86-113d5ac0dfe0.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

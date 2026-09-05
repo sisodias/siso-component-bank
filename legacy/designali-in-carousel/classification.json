@@ -1,0 +1,26 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Flexible button component with multiple variants for different visual styles and purposes",
+    "Supports composition with Radix UI Slot for advanced pattern integration",
+    "Includes accessibility features like focus-visible states for keyboard navigation",
+    "Designed as a core UI primitive for form actions, CTAs, and interactive controls",
+    "Part of a carousel system for pagination dot navigation"
+  ],
+  "ai_summary": "A versatile Radix UI-based button component with CVA-powered styling variants. Supports default, destructive, outline, secondary, ghost, and link styles with multiple sizes. Includes proper accessibility features and focus states. Acts as a foundational UI element commonly used in carousel pagination dots, form submissions, and interactive controls across various interface contexts.",
+  "_classifiedAt": "2026-04-22T08:56:12.981Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "category": "navigation",
+  "subcategory": "tabs",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Tab navigation in SaaS dashboards and admin interfaces",
+    "Section switching in settings and profile pages",
+    "Content organization in documentation sites",
+    "Page section navigation with smooth transitions",
+    "Category filtering in e-commerce product listings"
+  ],
+  "ai_summary": "A magnetic tab navigation component featuring smooth spring-physics animations that move an indicator between tabs. Built with framer-motion for fluid motion, it tracks active and hovered states to create a magnetic effect where the indicator follows tabs with elastic easing. The component composes a Tabs/TabsList/TabsTrigger pattern with custom motion logic for the sliding indicator.",
+  "_classifiedAt": "2026-04-23T01:50:30.637Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

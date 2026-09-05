@@ -1,0 +1,36 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "animated counter",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display animated statistics and metrics on dashboards",
+    "Show live counting numbers for user engagement metrics",
+    "Present financial data with smooth number transitions",
+    "Display progress indicators with animated counts",
+    "Show live follower or subscriber counts"
+  ],
+  "ai_summary": "An animated counter component that smoothly counts from a start value to an end value using spring physics for digit transitions. Each digit animates independently with Framer Motion's useSpring, creating a smooth rolling effect. Configurable duration, font size, and supports large numbers with proper digit placeholders.",
+  "_classifiedAt": "2026-04-23T17:06:34.010Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

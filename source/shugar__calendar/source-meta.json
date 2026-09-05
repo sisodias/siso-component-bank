@@ -1,0 +1,26 @@
+{
+  "id": "shugar__calendar",
+  "author": "shugar",
+  "slug": "calendar",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/calendar",
+  "fetchedAt": "2026-08-29T07:18:44.103Z",
+  "completedAt": "2026-08-29T07:18:46.390Z",
+  "versionedFilename": "code.1752572273749.tsx",
+  "codeReference": "r2://components-code-private/shugar/calendar/code.1752572273749.tsx",
+  "codeUrl": "https://cdn.21st.dev/shugar/calendar/code.1752572273749.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 29705,
+  "sha256": "7f8dafc032f53ad949992e6ca901f645d3258605b32c7c4803bebae97ffcb789",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

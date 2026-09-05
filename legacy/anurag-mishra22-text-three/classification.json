@@ -1,0 +1,25 @@
+{
+  "category": "media",
+  "subcategory": "typing-effect",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying animated greeting messages with a typewriter effect",
+    "Creating attention-grabbing text reveals on landing pages",
+    "Adding subtle text animation to hero sections",
+    "Building animated headlines for marketing content"
+  ],
+  "ai_summary": "A lightweight text animation component that simulates a typewriter effect by revealing characters one at a time with a smooth opacity fade-in. Uses Framer Motion for the entrance animation and React hooks for the timed character reveal. Ideal for creating engaging headline animations in hero sections or landing pages.",
+  "_classifiedAt": "2026-04-23T11:30:41.611Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

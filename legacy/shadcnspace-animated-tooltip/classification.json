@@ -1,0 +1,35 @@
+{
+  "category": [
+    "overlay",
+    "feedback"
+  ],
+  "subcategory": "animated-avatar-tooltip",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display user profiles with name and designation on avatar hover in team directories",
+    "Show contextual information about team members or collaborators on hover",
+    "Create interactive user cards with spring-based motion animations",
+    "Add micro-interactions to avatar grids in dashboards or member lists",
+    "Enhance UI with non-intrusive hover-reveal tooltips for user identification"
+  ],
+  "ai_summary": "An animated tooltip component featuring user avatars with spring-based motion effects that rotate and translate based on mouse position. The tooltip reveals user name and designation on hover with smooth animations. Built with motion/react for fluid interactions, commonly used in team directories, member lists, or collaborative interfaces.",
+  "_classifiedAt": "2026-04-22T09:14:40.196Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

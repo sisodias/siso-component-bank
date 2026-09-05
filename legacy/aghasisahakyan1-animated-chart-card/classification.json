@@ -1,0 +1,28 @@
+{
+  "category": "data-display",
+  "subcategory": "animated chart card with hover expansion",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying weekly visitor analytics on analytics dashboards",
+    "Interactive chart cards for SaaS platform metrics pages",
+    "Animated data visualization for marketing or traffic reports",
+    "Real-time visitor tracking displays for admin or management panels"
+  ],
+  "ai_summary": "An animated chart card component that displays visitor statistics with an integrated line chart and hover-triggered expansion animation. Features smooth number transitions using AnimatePresence, dark mode support via Tailwind's dark: prefix, and an SVG-based chart visualization with motion path animations. The card presents weekly data across seven days with interactive day selection and animated value updates.",
+  "_classifiedAt": "2026-04-23T01:35:05.757Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

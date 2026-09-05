@@ -1,0 +1,26 @@
+{
+  "id": "hero_ui__heroui-tooltip",
+  "author": "hero_ui",
+  "slug": "heroui-tooltip",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@hero_ui/components/heroui-tooltip",
+  "fetchedAt": "2026-08-29T04:58:02.304Z",
+  "completedAt": "2026-08-29T04:58:04.501Z",
+  "versionedFilename": "code.1782315701961.tsx",
+  "codeReference": "r2://components-code-private/hero_ui/heroui-tooltip/code.1782315701961.tsx",
+  "codeUrl": "https://cdn.21st.dev/hero_ui/heroui-tooltip/code.1782315701961.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 284,
+  "sha256": "0a6a82baa996359b9a3be71e78f8db08683a3aafb1e44b76dc0af426b9c19882",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

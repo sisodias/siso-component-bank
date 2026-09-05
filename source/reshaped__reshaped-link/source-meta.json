@@ -1,0 +1,26 @@
+{
+  "id": "reshaped__reshaped-link",
+  "author": "reshaped",
+  "slug": "reshaped-link",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@reshaped/components/reshaped-link",
+  "fetchedAt": "2026-08-29T06:34:04.588Z",
+  "completedAt": "2026-08-29T06:34:06.762Z",
+  "versionedFilename": "code.1783429952872.tsx",
+  "codeReference": "r2://components-code-private/larsen66/reshaped-link/code.1783429952872.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/reshaped-link/code.1783429952872.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 448,
+  "sha256": "3b050756fdd220dd912af2d95128b2d7b602dd89c194872638aa5072802572ae",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

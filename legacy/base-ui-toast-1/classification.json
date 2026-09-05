@@ -1,0 +1,34 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "toast notification system",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "system"
+  ],
+  "use_cases": [
+    "Displaying transient notifications to users after completing an action",
+    "Providing feedback for form submissions and async operations",
+    "Showing success, error, or informational messages in a non-intrusive manner",
+    "Alerting users to background events without interrupting workflow",
+    "Stack multiple notifications with automatic positioning and dismissal"
+  ],
+  "ai_summary": "A toast notification system from Base UI that manages stacked notifications with swipe-to-dismiss functionality. Features a Provider/Portal/Viewport architecture for portal rendering, staggered positioning based on toast index, and smooth CSS transform transitions. Includes a button trigger to dynamically create toasts with title and description, positioned fixed at the bottom-right of the viewport with responsive sizing.",
+  "_classifiedAt": "2026-04-23T11:32:37.588Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

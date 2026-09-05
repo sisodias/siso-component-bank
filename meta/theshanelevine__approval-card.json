@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@theshanelevine/components/approval-card",
+  "author": "theshanelevine",
+  "slug": "approval-card",
+  "name": "approval-card",
+  "description": "A human-in-the-loop approval card where an AI agent asks one multiple-choice question at a time, with radio/checkbox options, a custom answer field, a dot pager, and a confirmation state.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/theshanelevine/approval-card?api_key=$API_KEY_21ST\"",
+  "id": "theshanelevine__approval-card",
+  "bundleUrl": "https://cdn.21st.dev/theshanelevine/approval-card/default/bundle.1785483085506-b838cdcf-642f-4a86-a19f-d813a89a2bc2.html",
+  "previewUrl": "https://cdn.21st.dev/theshanelevine/approval-card/default/preview.1785483085506-b838cdcf-642f-4a86-a19f-d813a89a2bc2.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

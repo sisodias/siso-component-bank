@@ -1,0 +1,26 @@
+{
+  "id": "lavikatiyar__carousel",
+  "author": "lavikatiyar",
+  "slug": "carousel",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@lavikatiyar/components/carousel",
+  "fetchedAt": "2026-08-29T05:24:44.977Z",
+  "completedAt": "2026-08-29T05:24:47.193Z",
+  "versionedFilename": "code.1759422959234.tsx",
+  "codeReference": "r2://components-code-private/lavikatiyar/carousel/code.1759422959234.tsx",
+  "codeUrl": "https://cdn.21st.dev/lavikatiyar/carousel/code.1759422959234.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5962,
+  "sha256": "fc7cb402365b192b919352dc48055f799df1149b78831df6b0f2f526fcb79a33",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

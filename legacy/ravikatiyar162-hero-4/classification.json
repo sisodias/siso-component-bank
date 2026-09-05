@@ -1,0 +1,35 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "social"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display user profile pictures in navigation headers and user menus",
+    "Show avatars in comment sections and forum posts",
+    "Present team members in about pages and organizational charts",
+    "Display contact images in messaging interfaces",
+    "Show product creator or seller avatars in marketplace listings"
+  ],
+  "ai_summary": "A reusable avatar component built on Radix UI primitives with support for images and fallback initials. Provides a clean, accessible way to display user profile pictures across various contexts like user menus, comments, contact lists, and team directories. Uses standard Tailwind styling for easy customization.",
+  "_classifiedAt": "2026-04-23T01:47:15.580Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

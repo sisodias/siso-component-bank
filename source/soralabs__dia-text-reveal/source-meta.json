@@ -1,0 +1,26 @@
+{
+  "id": "soralabs__dia-text-reveal",
+  "author": "soralabs",
+  "slug": "dia-text-reveal",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@soralabs/components/dia-text-reveal",
+  "fetchedAt": "2026-08-29T07:23:16.317Z",
+  "completedAt": "2026-08-29T07:23:18.263Z",
+  "versionedFilename": "code.1784385409115-4a4e16d7-579c-430e-9ad9-422a607516bf.tsx",
+  "codeReference": "r2://components-code-private/soralabs/dia-text-reveal/code.1784385409115-4a4e16d7-579c-430e-9ad9-422a607516bf.tsx",
+  "codeUrl": "https://cdn.21st.dev/soralabs/dia-text-reveal/code.1784385409115-4a4e16d7-579c-430e-9ad9-422a607516bf.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

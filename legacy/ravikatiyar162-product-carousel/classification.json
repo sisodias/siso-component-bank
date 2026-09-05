@@ -1,0 +1,28 @@
+{
+  "category": "card",
+  "subcategory": "product-carousel",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying featured products in an e-commerce storefront with smooth carousel navigation",
+    "Showcasing product catalogs with hover animations to highlight individual items",
+    "Creating product grid sections with discount badges and delivery time indicators",
+    "Building responsive product browsing interfaces for online marketplaces",
+    "Displaying time-sensitive deals with animated product cards in retail applications"
+  ],
+  "ai_summary": "A reusable product carousel component with animated product cards featuring image zoom on hover, discount badges, delivery time indicators, and smooth scroll navigation. Built with Framer Motion and shadcn utilities for a clean, minimal e-commerce aesthetic suitable for showcasing product catalogs across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-22T09:10:35.993Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

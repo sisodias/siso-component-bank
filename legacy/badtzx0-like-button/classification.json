@@ -1,0 +1,28 @@
+{
+  "category": "input",
+  "subcategory": "social-like-button",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Social media posts where users can like/upvote content",
+    "E-commerce wishlists or favoriting products",
+    "Content platforms for bookmarking articles or videos",
+    "Interactive feedback on user-generated content"
+  ],
+  "ai_summary": "A like button component featuring a burst animation effect where clicking spawns multiple heart icons that animate outward with random trajectories, fading out and scaling down. Built with motion/react for smooth, performant animations. Supports customization via className and configurable icon count for the particle effect.",
+  "_classifiedAt": "2026-04-23T11:31:43.694Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

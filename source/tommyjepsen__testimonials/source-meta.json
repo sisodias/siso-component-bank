@@ -1,0 +1,26 @@
+{
+  "id": "tommyjepsen__testimonials",
+  "author": "tommyjepsen",
+  "slug": "testimonials",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@tommyjepsen/components/testimonials",
+  "fetchedAt": "2026-08-29T07:39:46.697Z",
+  "completedAt": "2026-08-29T07:39:47.956Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null
+}

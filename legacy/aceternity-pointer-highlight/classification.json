@@ -1,0 +1,34 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "pointer-tracking highlight overlay",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Highlight hero section content with a smooth border reveal animation on scroll",
+    "Create interactive call-to-action sections with visual pointer feedback",
+    "Add animated highlight effects to feature cards on landing pages",
+    "Enhance product showcase sections with border reveal on view",
+    "Create engaging card backgrounds with scroll-triggered border animations"
+  ],
+  "ai_summary": "A pointer-tracking highlight component that reveals an animated border overlay around its children when scrolled into view. Uses Framer Motion for smooth opacity, scale, and dimension animations with resize observation. Ideal for creating interactive highlight effects on landing pages, product showcases, and feature sections where content needs visual emphasis through cursor interaction and scroll-triggered animations.",
+  "_classifiedAt": "2026-04-23T11:28:42.059Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

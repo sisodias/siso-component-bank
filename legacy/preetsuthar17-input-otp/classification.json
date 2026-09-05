@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "otp-verification",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Two-factor authentication code entry for secure login flows",
+    "Phone or email verification during user registration",
+    "Payment authentication with one-time codes",
+    "Account recovery code input for password reset processes",
+    "Promotional coupon or gift card code entry during checkout"
+  ],
+  "ai_summary": "A flexible one-time password (OTP) input component featuring customizable variants, sizes, and states with keyboard navigation support. Built with motion/react for animations and CVA for consistent styling across default, destructive, and size configurations. Ideal for authentication flows requiring secure verification code entry.",
+  "_classifiedAt": "2026-04-23T01:45:41.271Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ravikatiyar162-glass-radio-group",
+  "type": "registry:ui",
+  "title": "Ravikatiyar162 Glass Radio Group",
+  "description": "Installed from https://21st.dev/r/ravikatiyar162/glass-radio-group",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ravikatiyar162-glass-radio-group"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "glass-radio-group.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "styled-components"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ravikatiyar162/glass-radio-group",
+    "fetchedAt": "2026-04-23T02:28:47.584Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

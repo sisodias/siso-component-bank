@@ -1,0 +1,26 @@
+{
+  "id": "prince__cinematic-ui",
+  "author": "prince",
+  "slug": "cinematic-ui",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@prince/components/cinematic-ui",
+  "fetchedAt": "2026-08-29T06:15:34.042Z",
+  "completedAt": "2026-08-29T06:15:36.587Z",
+  "versionedFilename": "code.1782378180516.tsx",
+  "codeReference": "r2://components-code-private/prince/cinematic-ui/code.1782378180516.tsx",
+  "codeUrl": "https://cdn.21st.dev/prince/cinematic-ui/code.1782378180516.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 9838,
+  "sha256": "10688d00330ab3900872194d382db4b26f1a760760027bf98b162289e8b5495c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

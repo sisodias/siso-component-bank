@@ -1,0 +1,32 @@
+{
+  "category": [
+    "hero",
+    "media"
+  ],
+  "subcategory": "product-feature-showcase",
+  "visual_style": [
+    "dark",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Showcasing SaaS product features with app mockups on landing pages",
+    "Displaying dual product images with animated text descriptions",
+    "Creating visually impactful dark-themed sections for scroll-triggered reveals",
+    "Featuring software demos with alternating layout options"
+  ],
+  "ai_summary": "A dark-themed section component designed for showcasing product features or services using dual mockup images. Features scroll-triggered staggered animations via Framer Motion with responsive grid layout that supports reversible positioning for alternating section layouts. Primarily used in SaaS and software product landing pages to create visual impact with minimal, clean typography on black backgrounds.",
+  "_classifiedAt": "2026-04-23T11:29:12.437Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

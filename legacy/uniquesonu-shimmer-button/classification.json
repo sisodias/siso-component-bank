@@ -1,0 +1,26 @@
+{
+  "category": "input",
+  "subcategory": "shimmer-button",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons with animated shimmer effect on hover",
+    "Interactive buttons where the shimmer follows mouse position across the button surface",
+    "Landing pages and hero sections requiring attention-grabbing button animations",
+    "Form submission buttons with premium visual feedback",
+    "Navigation CTAs needing enhanced visual polish and micro-interactions"
+  ],
+  "ai_summary": "A React button component featuring a dynamic shimmer effect that tracks and follows the mouse cursor across its surface. The button uses CSS gradients for its base styling and applies a light shimmer overlay that moves based on cursor position within the button bounds. Supports multiple variants (default, secondary) and sizes (sm, default, lg) with responsive design for both desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T17:40:28.409Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

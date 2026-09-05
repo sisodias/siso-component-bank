@@ -1,0 +1,33 @@
+{
+  "id": "ln-dev7__dorpdown-navigation",
+  "author": "ln-dev7",
+  "slug": "dorpdown-navigation",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ln-dev7/components/dorpdown-navigation",
+  "fetchedAt": "2026-08-29T05:26:50.207Z",
+  "completedAt": "2026-08-29T05:26:51.174Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/ln-dev7__dorpdown-navigation/code.tsx",
+    "bytes": 4858,
+    "sha256": "23e03fdacdd729bbe65b18d7098e168f3fff402af1925e54ba247190b80cf262",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

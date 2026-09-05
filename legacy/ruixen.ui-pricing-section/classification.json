@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-component",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Interactive button element for forms and call-to-action triggers",
+    "Reusable button with multiple visual variants for different UI contexts",
+    "Navigation and link trigger with hover and focus states",
+    "Form submission and action confirmation controls",
+    "Adaptive sizing for responsive layouts"
+  ],
+  "ai_summary": "A reusable button component built with Radix UI Slot and class-variance-authority, offering multiple style variants (default, destructive, outline, secondary, ghost, link) and sizes. Implements standard accessibility patterns with focus-visible ring states and disabled opacity. Meant to be composed into larger UI systems like pricing sections, forms, and navigation bars.",
+  "_classifiedAt": "2026-04-23T17:19:36.485Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "easemize__glass-button",
+  "author": "easemize",
+  "slug": "glass-button",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@easemize/components/glass-button",
+  "fetchedAt": "2026-08-29T04:37:46.392Z",
+  "completedAt": "2026-08-29T04:37:48.634Z",
+  "versionedFilename": "code.1754147238756.tsx",
+  "codeReference": "r2://components-code-private/easemize/glass-button/code.1754147238756.tsx",
+  "codeUrl": "https://cdn.21st.dev/easemize/glass-button/code.1754147238756.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1921,
+  "sha256": "c616a98acf09b0c9861f7d48a992dacab4bf23284e10803830d0ffd5b2eef20f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

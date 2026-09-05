@@ -1,0 +1,37 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "dropdown-menu",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Website header navigation with dropdown submenus for category browsing",
+    "Dashboard navigation menus with expandable sections",
+    "Mobile-responsive navigation with collapsible dropdowns",
+    "Product navigation with mega-menu style dropdowns",
+    "Tab-based navigation with state-driven content switching"
+  ],
+  "ai_summary": "A Radix UI-based navigation menu component with dropdown functionality, hover states, and keyboard accessibility. Built with Tailwind CSS using the class-variance-authority pattern for consistent styling across menu states. Features expandable triggers, list-based navigation items, and viewport container for dropdown positioning. Supports active state styling and smooth transitions for a polished SaaS-style navigation experience.",
+  "_classifiedAt": "2026-04-23T17:04:38.257Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

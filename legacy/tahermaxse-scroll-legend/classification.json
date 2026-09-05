@@ -1,0 +1,34 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "scroll-spy legend, section navigator",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Navigate long-form content pages with multiple sections",
+    "Provide scroll-based section highlighting for documentation sites",
+    "Enable quick jumping between page sections on article or blog pages",
+    "Display active section awareness on portfolio or landing pages",
+    "Serve as a persistent table of contents for scannable page structures"
+  ],
+  "ai_summary": "A scroll legend component that displays navigation items in a fixed sidebar and automatically highlights the active section based on scroll position. Users can click legend items to smoothly scroll to corresponding page sections. Features hover states and scroll-spy functionality for an intuitive navigation experience on content-heavy pages.",
+  "_classifiedAt": "2026-04-23T17:34:55.149Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

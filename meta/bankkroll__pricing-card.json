@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@bankkroll/components/pricing-card",
+  "author": "bankkroll",
+  "slug": "pricing-card",
+  "name": "pricing-card",
+  "description": "A modern, animated pricing card component with features and perks sections.\n\nFeatures:\n\t•\tSmooth animations on scroll\n\t•\tResponsive layout\n\t•\tCustomizable content\n\t•\tFeature/perk lists with icons\n\t•\tOriginal price display (optional)\n\t•\tCustom button action\n\nProps:\n\t•\ttitle: string\n\t•\tdescription: string\n\t•\tprice: number\n\t•\toriginalPrice?: number\n\t•\tfeatures: PricingFeature[]\n\t•\tbuttonText?: string\n\t•\tonButtonClick?: () => void\n",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/bankkroll/pricing-card?api_key=$API_KEY_21ST\"",
+  "id": "bankkroll__pricing-card",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1531.html",
+  "previewUrl": "https://cdn.21st.dev/user_BankkRoll/pricing-card.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 333,
+  "demo_id": 1531,
+  "video_url": "https://cdn.21st.dev/user_BankkRoll/pricing-card/default/video.mp4"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "remcostoeten__cube-loader",
+  "author": "remcostoeten",
+  "slug": "cube-loader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@remcostoeten/components/cube-loader",
+  "fetchedAt": "2026-08-29T06:33:25.289Z",
+  "completedAt": "2026-08-29T06:33:27.063Z",
+  "versionedFilename": "code.1760095135549.tsx",
+  "codeReference": "r2://components-code-private/remcostoeten/cube-loader/code.1760095135549.tsx",
+  "codeUrl": "https://cdn.21st.dev/remcostoeten/cube-loader/code.1760095135549.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5287,
+  "sha256": "d5776979d567f069219af5471743af6bec168e959e4c66b8947bd1f67d4aa378",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

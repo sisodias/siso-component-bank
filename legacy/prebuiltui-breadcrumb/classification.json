@@ -1,0 +1,32 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "breadcrumb-nav",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying user location within a website's hierarchical structure",
+    "Enabling quick navigation back to parent pages in e-commerce product catalogs",
+    "Providing visual context for current page position in content-heavy sites"
+  ],
+  "ai_summary": "A clean, minimalist breadcrumb navigation component featuring a home icon, chevron separators, and clickable navigation links. The component uses standard Tailwind CSS styling with a subtle gray color palette and supports flexible layout with wrapping. Ideal for e-commerce product pages and hierarchical website navigation, providing users with clear path context and easy backtracking to parent sections.",
+  "_classifiedAt": "2026-04-23T01:45:18.435Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "hero_ui__heroui-avatar",
+  "author": "hero_ui",
+  "slug": "heroui-avatar",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@hero_ui/components/heroui-avatar",
+  "fetchedAt": "2026-08-29T04:55:58.644Z",
+  "completedAt": "2026-08-29T04:56:00.818Z",
+  "versionedFilename": "code.1780252844076.tsx",
+  "codeReference": "r2://components-code-private/reapollo/heroui-avatar/code.1780252844076.tsx",
+  "codeUrl": "https://cdn.21st.dev/reapollo/heroui-avatar/code.1780252844076.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain; charset=utf-8",
+  "bytes": 3701,
+  "sha256": "332c0d8baded783ebd38c6f1b38ce08544ba45181b262a43249e25b6f7c1dc0a",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

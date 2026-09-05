@@ -1,0 +1,26 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Triggering primary actions in forms and interfaces",
+    "Navigation between pages or sections",
+    "Confirmation and destructive action triggers",
+    "Call-to-action elements in marketing pages",
+    "Toggling boolean states in UI controls"
+  ],
+  "ai_summary": "A reusable button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes, built with Radix UI Slot and class-variance-authority for consistent styling across applications. Supports accessibility features including focus states and disabled states.",
+  "_classifiedAt": "2026-04-22T08:57:30.598Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

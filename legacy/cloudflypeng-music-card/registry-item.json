@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "cloudflypeng-music-card",
+  "type": "registry:ui",
+  "title": "Cloudflypeng Music Card",
+  "description": "Installed from https://21st.dev/r/cloudflypeng/music-card",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "cloudflypeng-music-card"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "music-card.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "howler",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/cloudflypeng/music-card",
+    "fetchedAt": "2026-04-23T03:05:19.971Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

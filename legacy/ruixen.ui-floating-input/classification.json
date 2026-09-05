@@ -1,0 +1,28 @@
+{
+  "category": "input",
+  "subcategory": "floating-label-text-field",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Email input with animated floating label that rises on focus or when text is entered",
+    "User registration form fields with smooth transition and focus glow feedback",
+    "Contact form text inputs with visual accessibility via floating labels",
+    "Login form inputs with subtle gradient accent decoration",
+    "Any form requiring labeled text input with modern interaction states"
+  ],
+  "ai_summary": "A floating label text input component with smooth CSS transitions that animate the label from a centered placeholder position to a small floating position above the input on focus or when text is entered. Features focus ring effects, subtle gradient decoration line, and includes a customizable leading icon slot. Built with Tailwind CSS for easy integration into forms, login pages, and registration flows.",
+  "_classifiedAt": "2026-04-23T01:49:57.152Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "easemize__flip-countdown",
+  "author": "easemize",
+  "slug": "flip-countdown",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@easemize/components/flip-countdown",
+  "fetchedAt": "2026-08-29T04:37:40.987Z",
+  "completedAt": "2026-08-29T04:37:43.210Z",
+  "versionedFilename": "code.1751900336038.tsx",
+  "codeReference": "r2://components-code-private/easemize/flip-countdown/code.1751900336038.tsx",
+  "codeUrl": "https://cdn.21st.dev/easemize/flip-countdown/code.1751900336038.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3073,
+  "sha256": "416df07f3d53f05a227d7743665cd6a78ce80ef829dc17f077f9f89868fdd9de",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

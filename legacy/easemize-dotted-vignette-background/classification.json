@@ -1,0 +1,36 @@
+{
+  "category": [
+    "layout"
+  ],
+  "subcategory": "decorative-background",
+  "visual_style": [
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Page-level backgrounds for landing pages and marketing sites",
+    "Section dividers or content containers with subtle visual depth",
+    "Hero section backgrounds with vignette focal points",
+    "Card or modal backgrounds with themed dot patterns",
+    "Full-bleed decorative overlays for immersive web experiences"
+  ],
+  "ai_summary": "A decorative SVG-based background component that renders a configurable dot pattern with optional vignette radial gradient and inner glow effects. Built with React and SVG patterns for crisp rendering at any resolution. Supports full customization of dot size, spacing, colors, and effect intensities via props.",
+  "_classifiedAt": "2026-04-23T16:36:57.282Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

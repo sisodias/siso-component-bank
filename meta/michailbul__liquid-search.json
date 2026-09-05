@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@michailbul/components/liquid-search",
+  "author": "michailbul",
+  "slug": "liquid-search",
+  "name": "liquid-search",
+  "description": "An animated search component with a liquid SVG filter effect. Expands from a pill button into a search input with a floating search icon, and displays results as stacked animated pills. Built with Framer Motion. Supports click-outside and Escape to close.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/michailbul/liquid-search?api_key=$API_KEY_21ST\"",
+  "id": "michailbul__liquid-search",
+  "bundleUrl": "https://cdn.21st.dev/michailbul/liquid-search/default/bundle.1773786802536.html",
+  "previewUrl": "https://cdn.21st.dev/michailbul/liquid-search/default/preview.1773786802536.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

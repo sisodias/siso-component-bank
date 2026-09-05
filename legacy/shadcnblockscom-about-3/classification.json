@@ -1,0 +1,29 @@
+{
+  "category": "hero",
+  "subcategory": "about-section",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Company about pages showcasing mission, values, and team information",
+    "Landing pages featuring company achievements and social proof",
+    "Trust-building sections with client/partner logo displays",
+    "Key metrics and statistics presentation for businesses",
+    "CTA-driven breakout sections for conversion-focused pages"
+  ],
+  "ai_summary": "A comprehensive about section component featuring dual image layouts, company logo grids, achievement statistics, and an optional breakout CTA card. Built with shadcn/ui primitives, this composite component serves as a complete company introduction page section with social proof elements and customizable content props for branding flexibility.",
+  "_classifiedAt": "2026-04-23T17:27:02.485Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

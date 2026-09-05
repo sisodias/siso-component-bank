@@ -1,0 +1,27 @@
+{
+  "category": "data-display",
+  "subcategory": "resizable-table",
+  "visual_style": [],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "saas",
+    "hr"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying employee records with sortable, resizable columns for HR management dashboards",
+    "Building admin interfaces that require customizable column widths for data tables",
+    "Creating employee directories with status indicators for workforce tracking",
+    "Implementing data grids with export capabilities for business reporting tools",
+    "Developing HR systems with theme-aware table components supporting dark and light modes"
+  ],
+  "ai_summary": "A professional resizable data table component for displaying employee records with customizable column widths, status indicators, and theme support. Features drag-to-resize columns using react-resizable, smooth animations via framer-motion, and dark/light mode compatibility. Ideal for building HR management dashboards, admin interfaces, and workforce tracking systems in SaaS applications.",
+  "_classifiedAt": "2026-04-22T08:59:55.473Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

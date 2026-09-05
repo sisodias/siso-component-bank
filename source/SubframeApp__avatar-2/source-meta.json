@@ -1,0 +1,26 @@
+{
+  "id": "SubframeApp__avatar-2",
+  "author": "SubframeApp",
+  "slug": "avatar-2",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@SubframeApp/components/avatar-2",
+  "fetchedAt": "2026-08-29T07:29:23.784Z",
+  "completedAt": "2026-08-29T07:29:26.486Z",
+  "versionedFilename": "code.1755901525083.tsx",
+  "codeReference": "r2://components-code-private/larsen66/avatar-2/code.1755901525083.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/avatar-2/code.1755901525083.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3319,
+  "sha256": "d52786e8d39ce0152e5bff3057be5a55ed2bda734f931c40149de08d78aab56f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

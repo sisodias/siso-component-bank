@@ -1,0 +1,32 @@
+{
+  "category": "media",
+  "subcategory": "crystal-cursor-effect",
+  "visual_style": [
+    "glass-morphism",
+    "dark",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "creator-tools",
+    "media",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive portfolio landing pages with crystalline visual effects",
+    "Creative agency hero sections featuring cursor-driven animations",
+    "Artistic tool interfaces showcasing particle effects",
+    "Minimalist dark-themed websites with premium cursor interactions",
+    "Digital art installations requiring ambient visual feedback"
+  ],
+  "ai_summary": "A cursor-based particle animation component that renders crystalline line patterns using HTML5 canvas. Creates glass-like translucent crystals that grow from the cursor position with shatter effects on click. Uses HSL color values for ethereal blue-tinted glass aesthetics with smooth 60fps animations through requestAnimationFrame.",
+  "_classifiedAt": "2026-04-23T01:38:36.920Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

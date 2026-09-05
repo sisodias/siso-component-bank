@@ -1,0 +1,38 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "toggle-switch",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Binary toggle controls for settings and preferences",
+    "Form inputs requiring on/off state selection",
+    "Feature flag switches in admin dashboards",
+    "Theme and appearance preference toggles",
+    "Interactive boolean inputs in product interfaces"
+  ],
+  "ai_summary": "A Material Design 3 toggle switch component with spring physics animations and optional haptic audio feedback. Features multiple color variants (primary, destructive), two sizes (default, compact), and full accessibility support with focus-visible ring states. Uses CSS custom properties for spring easing curves to create smooth, bouncy state transitions.",
+  "_classifiedAt": "2026-04-22T08:58:19.969Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

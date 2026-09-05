@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Primary action trigger in forms and UI",
+    "Navigation and routing interactions",
+    "Icon-only buttons for toolbars and actions",
+    "Multi-size button system for consistent visual hierarchy",
+    "Accessible button component with focus management"
+  ],
+  "ai_summary": "A flexible, accessible button component built on Base UI with class-variance-authority for type-safe variant management. Features 10 size variants including icon-only sizes, responsive touch-friendly sizing with pointer-coarse media queries, and full keyboard accessibility with focus-visible ring styling. Includes icon handling with automatic sizing and opacity, disabled states with reduced opacity, and rounded corners with CSS custom property tokens. Designed as a core building block for SaaS and developer tool interfaces.",
+  "_classifiedAt": "2026-04-22T08:54:12.678Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

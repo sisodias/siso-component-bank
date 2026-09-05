@@ -1,0 +1,17 @@
+{
+ "id": "youcefbnm__custom-cursor",
+ "outcome": "retrieved",
+ "retrievalMethod": "local-legacy-store-copy",
+ "provenanceNote": "Copied from the pre-existing local legacy 21st store; NOT fetched from 21st.dev by this lane.",
+ "legacySourcePath": "legacy/youcefbnm-custom-cursor/custom-cursor.tsx",
+ "legacySourceFile": "custom-cursor.tsx",
+ "legacyDependencies": [
+  "motion"
+ ],
+ "upstreamUrl": "https://21st.dev/@youcefbnm/components/custom-cursor",
+ "httpStatus": null,
+ "sha256": "54a347f53f87151e8498c0db3411ac2d0a6c4a8c2e53408b3f10c03c0afd9160",
+ "bytes": 2413,
+ "completedAt": "2026-08-29T03:43:54.193Z",
+ "seededBy": "CENA-directive-2026-08-29-skip-legacy"
+}

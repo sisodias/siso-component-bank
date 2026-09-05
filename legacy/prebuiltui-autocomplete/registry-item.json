@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "prebuiltui-autocomplete",
+  "type": "registry:ui",
+  "title": "Prebuiltui Autocomplete",
+  "description": "Installed from https://21st.dev/r/prebuiltui/autocomplete",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "prebuiltui-autocomplete"
+  ],
+  "files": [
+    {
+      "path": "autocomplete.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@base-ui-components/react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "imports @base-ui-components/react/<subpath> (not exported)"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/prebuiltui/autocomplete",
+    "fetchedAt": "2026-04-23T01:18:05.930Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

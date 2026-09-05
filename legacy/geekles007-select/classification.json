@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "dropdown-select",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "morph",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Dropdown selection for forms in SaaS applications",
+    "Category or status selection in e-commerce backends",
+    "Settings and preferences selection in dev-tools dashboards",
+    "Multi-step form navigation with animated transitions",
+    "Filter and sort options in data-rich interfaces"
+  ],
+  "ai_summary": "A dropdown select component with smooth Framer Motion animations, featuring a pill-shaped trigger that morphs into an expanded dropdown menu with spring-based transitions. Built with Tailwind CSS and lucide-react icons, it offers a clean minimalist interface suitable for form inputs across SaaS, fintech, and e-commerce applications. Supports custom data structures with icons, descriptions, and disabled states.",
+  "_classifiedAt": "2026-04-23T16:41:03.465Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

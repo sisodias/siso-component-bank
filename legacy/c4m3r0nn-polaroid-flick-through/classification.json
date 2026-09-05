@@ -1,0 +1,33 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "image-stack-polaroid",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "media",
+    "e-commerce",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying a gallery of photos in a casual, nostalgic polaroid style layout",
+    "Creating an engaging product showcase with animated image reordering",
+    "Building a creative portfolio component with interactive image shuffling",
+    "Adding a playful photo-sharing feature to social or lifestyle applications"
+  ],
+  "ai_summary": "A polaroid-style image stack component that displays multiple images scattered with randomized positions, rotations, and scales. Features a reshuffle animation that smoothly transitions images to new random positions using Framer Motion. The component supports customizable scatter radius, rotation range, and seeded randomness for consistent layouts across renders. Ideal for creative showcases, photo galleries, and interactive media displays.",
+  "_classifiedAt": "2026-04-23T01:37:16.131Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

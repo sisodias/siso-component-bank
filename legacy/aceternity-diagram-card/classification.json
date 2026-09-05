@@ -1,0 +1,27 @@
+{
+  "category": "card",
+  "subcategory": "text-reveal-card",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "media",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creating interactive card sections where text is revealed as users move their cursor",
+    "Building engaging landing page sections with hover-activated content reveals",
+    "Designing portfolio or demo showcases with dynamic text effects",
+    "Adding interactive product feature cards that reveal details on interaction",
+    "Creating animated about or team sections with reveal-on-hover functionality"
+  ],
+  "ai_summary": "Interactive dark-themed card component with text reveal effect triggered by mouse movement. Uses motion animations and clip-path to progressively reveal hidden text as the cursor moves across the card surface. Features a subtle glass-like border treatment on a dark background (#1d1d20) with smooth opacity transitions. Perfect for creating engaging interactive sections in landing pages, demos, or portfolio displays.",
+  "_classifiedAt": "2026-04-22T08:50:53.027Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

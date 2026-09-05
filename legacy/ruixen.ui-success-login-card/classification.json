@@ -1,0 +1,36 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "authentication-success",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Displaying successful login confirmation with user feedback",
+    "Welcome screen after user authentication completes",
+    "Success state after form submission in authentication flows",
+    "Account creation confirmation with next-step action button",
+    "Two-factor authentication success notification"
+  ],
+  "ai_summary": "A success login card component designed to confirm successful user authentication. Features a clean, minimalist design with button variants supporting multiple visual states including default, destructive, outline, secondary, ghost, and link styles. The component includes hover interactions, focus states, and disabled state handling, making it suitable for authentication flows in SaaS, fintech, and e-commerce applications. Built with Radix UI Slot for composition flexibility and CVA for variant management.",
+  "_classifiedAt": "2026-04-23T01:51:45.697Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

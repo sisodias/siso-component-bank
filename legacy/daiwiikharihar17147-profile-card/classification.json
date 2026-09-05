@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "profile-card-expand",
+  "visual_style": [
+    "glass-morphism",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Displaying team member profiles on about or team pages with a space-efficient expandable design",
+    "Showing author or contributor information in developer documentation and portfolios",
+    "Featuring user profiles in social platforms with minimal screen footprint",
+    "Creating compact contact cards that expand on hover for sidebar or footer sections",
+    "Adding interactive team member cards to onboarding or introduction flows"
+  ],
+  "ai_summary": "An interactive profile card component with glass-morphism styling that expands from a compact circular avatar to reveal user details on hover. Features smooth spring-physics animations using Framer Motion, with elegant blur-to-clear text reveals and fluid horizontal expansion. Supports both light and dark modes, includes GitHub social integration, and is optimized for space-constrained UI areas like sidebars and team sections.",
+  "_classifiedAt": "2026-04-22T08:55:26.319Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

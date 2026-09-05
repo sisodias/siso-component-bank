@@ -1,0 +1,30 @@
+{
+  "category": "input",
+  "subcategory": "radio-button-group",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting from multiple styled options in settings or preference panels",
+    "Choosing color themes or visual options in design systems",
+    "Implementing accessible radio groups with keyboard navigation support",
+    "Adding premium-styled selection controls to SaaS dashboards",
+    "Creating themed filter or category selectors with visual feedback"
+  ],
+  "ai_summary": "A customizable radio button group component featuring glass-morphism styling with backdrop blur, gradient glow effects, and customizable color themes. Supports keyboard navigation, dark mode, hover states with animated glows, and provides callback-based value selection. Ideal for premium SaaS interfaces, settings panels, and design systems requiring visually polished selection controls.",
+  "_classifiedAt": "2026-04-23T01:43:35.521Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

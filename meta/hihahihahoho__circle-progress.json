@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@hihahihahoho/components/circle-progress",
+  "author": "hihahihahoho",
+  "slug": "circle-progress",
+  "name": "circle-progress",
+  "description": "CircleProgress displays progress, completion status, or usage metrics in a circular format.\nIt provides visual feedback about processes, tasks completion, or resource utilization.\n\n## When to use\n- To show completion percentage of a task or process\n- To display resource usage (disk space, memory, CPU)\n- To create countdown or elapsed time indicators\n- For data visualization that needs to show parts of a whole\n\n## Accessibility\n- Progress indicator includes ARIA attributes for screen readers\n- Value text provides detailed information about current progress value\n- Ensure sufficient color contrast for the progress indicator\n- Consider providing text alternatives that describe the progress value",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/hihahihahoho/circle-progress?api_key=$API_KEY_21ST\"",
+  "id": "hihahihahoho__circle-progress",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1727.html",
+  "previewUrl": "https://cdn.21st.dev/user_2ryL1QG6P953wIAdUUA3nj8N4tL/circle-progress/default/preview.1743158355323.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 118,
+  "demo_id": 1735,
+  "video_url": ""
+}

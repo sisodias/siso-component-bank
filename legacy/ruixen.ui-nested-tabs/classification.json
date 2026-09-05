@@ -1,0 +1,37 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "nested-tabbed-interface",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Organizing dashboard content with main categories and detailed sub-sections",
+    "Building hierarchical settings pages with grouped configuration options",
+    "Creating multi-level documentation or help center navigation",
+    "Structuring content-heavy interfaces like admin panels or control centers",
+    "Managing complex forms or workflows with step-by-step categorization"
+  ],
+  "ai_summary": "A nested tab navigation component that provides hierarchical content organization with primary tabs containing secondary sub-tabs. Built on Radix UI Tabs primitives with Framer Motion animations for smooth transitions between content sections. Ideal for organizing complex information architectures like dashboards, settings pages, or documentation into scannable categories and sub-categories.",
+  "_classifiedAt": "2026-04-23T01:50:41.138Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

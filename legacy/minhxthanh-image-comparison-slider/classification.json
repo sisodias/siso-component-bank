@@ -1,0 +1,32 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "image-comparison-slider",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "real-estate",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Comparing before and after photos side-by-side with a draggable slider",
+    "Showing product comparisons in e-commerce by revealing differences between two images",
+    "Displaying property or real estate photos with before/after transformations",
+    "Comparing photo editing results or image filters side-by-side",
+    "Revealing image transformations or edits through an interactive slider interface"
+  ],
+  "ai_summary": "An interactive image comparison slider component that displays two images (before and after) with a draggable divider. The component supports both mouse and touch interactions, allowing users to reveal or hide portions of either image by moving the slider. Built with React hooks for state management and includes bounds clamping to keep the slider within the container. Uses Tailwind CSS for styling and is fully responsive across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T01:43:28.764Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

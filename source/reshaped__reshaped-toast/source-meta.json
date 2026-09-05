@@ -1,0 +1,26 @@
+{
+  "id": "reshaped__reshaped-toast",
+  "author": "reshaped",
+  "slug": "reshaped-toast",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@reshaped/components/reshaped-toast",
+  "fetchedAt": "2026-08-29T06:34:48.603Z",
+  "completedAt": "2026-08-29T06:34:50.706Z",
+  "versionedFilename": "code.1783530330503.tsx",
+  "codeReference": "r2://components-code-private/larsen66/reshaped-toast/code.1783530330503.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/reshaped-toast/code.1783530330503.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 573,
+  "sha256": "2cfc9702ec0f4e1d52c3030a7cf24bc96ab2ed6dfd8d7612fad49f9208d2820f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

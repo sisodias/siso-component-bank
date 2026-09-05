@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "search-with-category-filter",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "E-commerce product search with category filtering",
+    "Content management system search with taxonomy filters",
+    "Directory or listing site search with type selection",
+    "Knowledge base search with topic categorization"
+  ],
+  "ai_summary": "A search input component integrated with category selection dropdown, allowing users to filter search results by predefined categories. Built with Radix UI Slot and CVA for variant support, featuring a modular button component with multiple visual styles including default, destructive, outline, secondary, ghost, and link variants. Designed for flexible platform integration across SaaS and e-commerce applications.",
+  "_classifiedAt": "2026-04-23T01:51:04.958Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

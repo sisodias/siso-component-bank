@@ -1,0 +1,33 @@
+{
+  "id": "geekles007__multiple-select",
+  "author": "geekles007",
+  "slug": "multiple-select",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@geekles007/components/multiple-select",
+  "fetchedAt": "2026-08-29T04:51:45.959Z",
+  "completedAt": "2026-08-29T04:51:47.557Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/geekles007__multiple-select/code.tsx",
+    "bytes": 3527,
+    "sha256": "311bd4eb413694278e5dc5f76128aaa24d288bf932daa16d1a360714f8642be5",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

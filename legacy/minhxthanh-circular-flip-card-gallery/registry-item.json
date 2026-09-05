@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "minhxthanh-circular-flip-card-gallery",
+  "type": "registry:ui",
+  "title": "Minhxthanh Circular Flip Card Gallery",
+  "description": "Installed from https://21st.dev/r/minhxthanh/circular-flip-card-gallery",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "minhxthanh-circular-flip-card-gallery"
+  ],
+  "files": [
+    {
+      "path": "circular-flip-card-gallery.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/minhxthanh/circular-flip-card-gallery",
+    "fetchedAt": "2026-04-23T01:16:15.525Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action trigger for profile dropdown menus in dashboard interfaces",
+    "Form submission buttons with multiple visual variants for different contexts",
+    "Navigation trigger buttons with hover and focus states for accessibility"
+  ],
+  "ai_summary": "A flexible button component with CVA-powered variants including default, destructive, outline, secondary, ghost, and link styles. Built on Radix UI's Slot for composition, featuring ring-based focus states and disabled opacity. Used as the interactive trigger element within profile dropdown navigation systems.",
+  "_classifiedAt": "2026-04-22T09:02:44.230Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

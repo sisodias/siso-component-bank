@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "spotlight-search-table",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Filtering and highlighting team member or user lists in dashboards",
+    "Spotlighting matching records in data tables based on search queries",
+    "Displaying employee or contact directories with live search filtering"
+  ],
+  "ai_summary": "A spotlight table component that filters and highlights rows based on search input in real-time. Non-matching rows fade to low opacity while matches remain fully visible. Features status badges with color coding for Active/Offline states, clean table layout, and smooth opacity transitions for visual feedback.",
+  "_classifiedAt": "2026-04-22T08:51:02.550Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

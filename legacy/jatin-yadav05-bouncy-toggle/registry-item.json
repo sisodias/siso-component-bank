@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "jatin-yadav05-bouncy-toggle",
+  "type": "registry:ui",
+  "title": "Jatin Yadav05 Bouncy Toggle",
+  "description": "Installed from https://21st.dev/r/jatin-yadav05/bouncy-toggle",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "jatin-yadav05-bouncy-toggle"
+  ],
+  "files": [
+    {
+      "path": "bouncy-toggle.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/jatin-yadav05/bouncy-toggle",
+    "fetchedAt": "2026-04-22T06:42:45.835Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

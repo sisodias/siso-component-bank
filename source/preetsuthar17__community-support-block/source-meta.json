@@ -1,0 +1,33 @@
+{
+  "id": "preetsuthar17__community-support-block",
+  "author": "preetsuthar17",
+  "slug": "community-support-block",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@preetsuthar17/components/community-support-block",
+  "fetchedAt": "2026-08-29T06:12:58.070Z",
+  "completedAt": "2026-08-29T06:12:59.335Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "page-soft404",
+  "failureClass": "soft-404",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/preetsuthar17__community-support-block/code.tsx",
+    "bytes": 4148,
+    "sha256": "922339851bb8b843a45d51ba00d18d748e0dffa4dee7c8465421ed2f6cf51cf5",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is page-soft404/soft-404."
+  }
+}

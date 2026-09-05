@@ -1,0 +1,26 @@
+{
+  "id": "bundui__wavy",
+  "author": "bundui",
+  "slug": "wavy",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@bundui/components/wavy",
+  "fetchedAt": "2026-08-29T03:52:59.002Z",
+  "completedAt": "2026-08-29T03:53:01.195Z",
+  "versionedFilename": "code.1747856626889.tsx",
+  "codeReference": "r2://components-code-private/larsen66/wavy/code.1747856626889.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/wavy/code.1747856626889.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10381,
+  "sha256": "90370126f213c2d9506a04eedf924c3c4c857076f86e88b4065bd5a4b1f28c20",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,31 @@
+{
+  "category": "feedback",
+  "subcategory": "loading-spinner",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Indicates loading or processing states during async operations",
+    "Provides visual feedback while waiting for data to fetch",
+    "Shows progress indication in forms, dashboards, or content areas",
+    "Displays processing status during user interactions",
+    "Signals background operations in dev-tools or admin interfaces"
+  ],
+  "ai_summary": "A lightweight loading spinner component featuring 12 animated bars arranged in a circular pattern. The bars rotate continuously with staggered animation delays creating a smooth cascading effect. Supports customizable size and color through CSS variables, making it suitable for any loading state across SaaS applications, e-commerce platforms, or developer tools.",
+  "_classifiedAt": "2026-04-22T09:17:54.993Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

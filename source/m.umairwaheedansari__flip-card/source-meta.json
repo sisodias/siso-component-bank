@@ -1,0 +1,33 @@
+{
+  "id": "m.umairwaheedansari__flip-card",
+  "author": "m.umairwaheedansari",
+  "slug": "flip-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@m.umairwaheedansari/components/flip-card",
+  "fetchedAt": "2026-08-29T05:34:22.575Z",
+  "completedAt": "2026-08-29T05:34:23.558Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "page-soft404",
+  "failureClass": "soft-404",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/m.umairwaheedansari__flip-card/code.tsx",
+    "bytes": 10194,
+    "sha256": "652bbd67f2a4f6c4255bfd7c2d324e01590eaded9e03d921e8351abd168948f0",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is page-soft404/soft-404."
+  }
+}

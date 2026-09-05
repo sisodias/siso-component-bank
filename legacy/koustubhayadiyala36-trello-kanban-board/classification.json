@@ -1,0 +1,27 @@
+{
+  "category": "data-display",
+  "subcategory": "kanban-board",
+  "visual_style": [],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Project management dashboards for tracking task progress across team members",
+    "Sprint planning boards for development teams managing frontend, backend, and devops tasks",
+    "Workflow visualization for organizing and prioritizing work items",
+    "Team collaboration boards for sharing task assignments and status updates",
+    "Personal productivity tracking with drag-and-drop task reordering"
+  ],
+  "ai_summary": "A fully functional Kanban board component with drag-and-drop task management capabilities. Supports multiple columns with customizable colors, labeled tasks with assignees, and dynamic task creation. Built for project management interfaces, this component provides an intuitive Trello-like experience for organizing workflows across backlog, todo, in-progress, review, and done states.",
+  "_classifiedAt": "2026-04-22T09:03:10.035Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

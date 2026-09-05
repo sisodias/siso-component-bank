@@ -1,0 +1,28 @@
+{
+  "category": "card",
+  "subcategory": "flight-status",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "travel",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display real-time flight status including departure/arrival times and gate information",
+    "Show boarding progress with visual indicators for airline passengers",
+    "Present airline branding and flight details in a single consolidated card view",
+    "Track and display boarding time countdown for airport displays or mobile apps",
+    "Visualize flight journey progress from origin to destination"
+  ],
+  "ai_summary": "A flight status card component displaying comprehensive airline information including departure and arrival cities, flight numbers, gate details, boarding times, and real-time status indicators. Built with Tailwind CSS and Framer Motion, it features animated entrance effects and a visual progress bar showing journey completion. Designed for travel booking platforms, airline apps, and corporate travel management dashboards where users need to track flight information at a glance.",
+  "_classifiedAt": "2026-04-23T01:47:05.564Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

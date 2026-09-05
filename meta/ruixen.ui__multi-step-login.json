@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/multi-step-login",
+  "author": "ruixen.ui",
+  "slug": "multi-step-login",
+  "name": "multi-step-login",
+  "description": "The Multi-Step Login component is a clean, user-friendly authentication flow built entirely with shadcn UI. By splitting login into three distinct steps—email entry, password or OTP input, and 2FA verification—it reduces cognitive load and guides users through the process smoothly. A visual step indicator at the top clearly communicates progress, while the use of familiar shadcn UI components (Button, Input, Label) ensures consistency and accessibility. Fully responsive and theme-aware, this component provides a modern, polished experience that improves usability and enhances user confidence during login.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/multi-step-login?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__multi-step-login",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/multi-step-login/default/bundle.1758654232299.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/multi-step-login/default/preview.1758654232299.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 12,
+  "demo_id": 7967,
+  "video_url": null
+}

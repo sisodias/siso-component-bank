@@ -1,0 +1,26 @@
+{
+  "id": "kauasodreas__whisper-text",
+  "author": "kauasodreas",
+  "slug": "whisper-text",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@kauasodreas/components/whisper-text",
+  "fetchedAt": "2026-08-29T05:14:06.158Z",
+  "completedAt": "2026-08-29T05:14:08.464Z",
+  "versionedFilename": "code.1750629700226.tsx",
+  "codeReference": "r2://components-code-private/kauasodreas/whisper-text/code.1750629700226.tsx",
+  "codeUrl": "https://cdn.21st.dev/kauasodreas/whisper-text/code.1750629700226.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1669,
+  "sha256": "52389b3d49ba8ec51b912637ab09807afbbf3339919fb98303717f7fe65833c0",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

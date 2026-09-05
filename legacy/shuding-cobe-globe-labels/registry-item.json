@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "shuding-cobe-globe-labels",
+  "type": "registry:ui",
+  "title": "Shuding Cobe Globe Labels",
+  "description": "Installed from https://21st.dev/r/shuding/cobe-globe-labels",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "shuding-cobe-globe-labels"
+  ],
+  "files": [
+    {
+      "path": "cobe-globe-labels.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "cobe"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/shuding/cobe-globe-labels",
+    "fetchedAt": "2026-04-22T06:31:48.910Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

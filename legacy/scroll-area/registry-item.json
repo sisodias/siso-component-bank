@@ -1,0 +1,30 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "scroll-area",
+  "type": "registry:ui",
+  "title": "Scroll Area",
+  "description": "A scroll area component.",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "scroll",
+    "area",
+    "component"
+  ],
+  "files": [
+    {
+      "path": "scroll-area.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-scroll-area"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "renderable": false
+  },
+  "_provenance": {
+    "curationTags": []
+  }
+}

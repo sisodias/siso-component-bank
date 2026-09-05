@@ -1,0 +1,26 @@
+{
+  "id": "tom_ui__kbd",
+  "author": "tom_ui",
+  "slug": "kbd",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@tom_ui/components/kbd",
+  "fetchedAt": "2026-08-29T07:38:35.648Z",
+  "completedAt": "2026-08-29T07:38:38.233Z",
+  "versionedFilename": "code.1776939440391.tsx",
+  "codeReference": "r2://components-code-private/tom_ui/kbd/code.1776939440391.tsx",
+  "codeUrl": "https://cdn.21st.dev/tom_ui/kbd/code.1776939440391.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3709,
+  "sha256": "66f029c0b0b9f453f0f4d895614ea5c3b23684ffbccfa3d83bda7168d4671d26",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

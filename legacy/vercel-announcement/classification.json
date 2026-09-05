@@ -1,0 +1,32 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "dismissible announcement banner",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying product updates, new features, or changelog announcements to users",
+    "Showing maintenance windows or scheduled downtime notifications",
+    "Communicating important system messages or status alerts",
+    "Promoting limited-time offers or marketing campaigns",
+    "Dismissible notification strip for cookie consent or policy updates"
+  ],
+  "ai_summary": "A dismissible announcement banner component with optional link support, hover lift animation, and tooltip-enabled close button. Features a subtle gradient fade effect at the top. Used to communicate important messages, updates, or alerts to users in a clean, non-intrusive way. Props accept title, description, optional href for linked announcements, and onClose callback for dismiss functionality.",
+  "_classifiedAt": "2026-04-23T17:41:57.778Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

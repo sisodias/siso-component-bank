@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "badge-status-indicator",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying status labels like online/offline or active/inactive states",
+    "Tagging content with category badges for visual organization",
+    "Showing notification counts or feature labels in compact format",
+    "Indicating product status or availability in e-commerce contexts",
+    "Creating feature announcement pills in marketing materials"
+  ],
+  "ai_summary": "A versatile badge component for displaying status labels and categorical information. Features multiple variants including default, secondary, destructive, and outline styles with hover and focus interactions. Built with class-variance-authority for flexible styling.",
+  "_classifiedAt": "2026-04-23T16:42:13.175Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

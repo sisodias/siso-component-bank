@@ -1,0 +1,26 @@
+{
+  "id": "chamaac__gif-text",
+  "author": "chamaac",
+  "slug": "gif-text",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@chamaac/components/gif-text",
+  "fetchedAt": "2026-08-29T03:53:13.347Z",
+  "completedAt": "2026-08-29T03:53:15.520Z",
+  "versionedFilename": "code.1783718419803.tsx",
+  "codeReference": "r2://components-code-private/chamaac/gif-text/code.1783718419803.tsx",
+  "codeUrl": "https://cdn.21st.dev/chamaac/gif-text/code.1783718419803.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1634,
+  "sha256": "16dd8fc1149918b3534a35dac154f827064e92d39a9512db83caf77076215ccf",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

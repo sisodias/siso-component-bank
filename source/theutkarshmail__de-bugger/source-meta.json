@@ -1,0 +1,26 @@
+{
+  "id": "theutkarshmail__de-bugger",
+  "author": "theutkarshmail",
+  "slug": "de-bugger",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theutkarshmail/components/de-bugger",
+  "fetchedAt": "2026-08-29T07:36:39.785Z",
+  "completedAt": "2026-08-29T07:36:41.992Z",
+  "versionedFilename": "code.1755517644325.tsx",
+  "codeReference": "r2://components-code-private/theutkarshmail/de-bugger/code.1755517644325.tsx",
+  "codeUrl": "https://cdn.21st.dev/theutkarshmail/de-bugger/code.1755517644325.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 12634,
+  "sha256": "ce30990546b1eda491902158e08b519af2816c36bc6bc565879a970f9db3b79f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

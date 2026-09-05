@@ -1,0 +1,26 @@
+{
+  "id": "bundui__fireworks-show",
+  "author": "bundui",
+  "slug": "fireworks-show",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@bundui/components/fireworks-show",
+  "fetchedAt": "2026-08-29T03:52:00.415Z",
+  "completedAt": "2026-08-29T03:52:02.946Z",
+  "versionedFilename": "code.1747855956365.tsx",
+  "codeReference": "r2://components-code-private/larsen66/fireworks-show/code.1747855956365.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/fireworks-show/code.1747855956365.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5694,
+  "sha256": "8d38e3e578a1b1aa0647b17397a2c21aa716200f78c34a01ec9a424c7f62d699",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

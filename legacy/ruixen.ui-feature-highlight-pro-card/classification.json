@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-component",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Triggering primary actions in forms and applications",
+    "Submitting form data with styled call-to-action buttons",
+    "Navigating between pages or sections with styled link buttons",
+    "Providing destructive action options like delete or cancel operations",
+    "Creating icon-only buttons for compact UI spaces"
+  ],
+  "ai_summary": "A reusable React button component with multiple visual variants including default, destructive, outline, secondary, ghost, and link styles. Built with Radix UI Slot for composition flexibility, class-variance-authority for variant management, and Tailwind CSS for consistent styling. Supports multiple sizes and includes accessibility features like focus states and disabled state handling.",
+  "_classifiedAt": "2026-04-22T09:12:15.150Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

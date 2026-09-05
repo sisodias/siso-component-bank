@@ -1,0 +1,28 @@
+{
+  "category": "card",
+  "subcategory": "stats-display",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying key performance metrics and KPIs on dashboards",
+    "Showing portfolio or project statistics with linked actions",
+    "Presenting analytics data with descriptions and CTAs",
+    "Creating metric cards for SaaS product overviews"
+  ],
+  "ai_summary": "A modular stats card component with title, description, and action link sections. Features a clean, minimal design with card-based layout suitable for displaying metrics, statistics, and KPIs on dashboards. Uses shadcn/ui-style design tokens and Tailwind CSS for styling.",
+  "_classifiedAt": "2026-04-23T16:39:49.433Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

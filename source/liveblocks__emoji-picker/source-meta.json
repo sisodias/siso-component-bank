@@ -1,0 +1,33 @@
+{
+  "id": "liveblocks__emoji-picker",
+  "author": "liveblocks",
+  "slug": "emoji-picker",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@liveblocks/components/emoji-picker",
+  "fetchedAt": "2026-08-29T05:26:36.645Z",
+  "completedAt": "2026-08-29T05:26:37.943Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/liveblocks__emoji-picker/code.tsx",
+    "bytes": 4354,
+    "sha256": "5e2673afec7430f142e4d1aeaf83dce4e1face6a0b47833885f649b95f376283",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

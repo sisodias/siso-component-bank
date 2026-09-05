@@ -1,0 +1,26 @@
+{
+  "id": "designali-in__blobs",
+  "author": "designali-in",
+  "slug": "blobs",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/blobs",
+  "fetchedAt": "2026-08-29T04:16:48.626Z",
+  "completedAt": "2026-08-29T04:16:50.795Z",
+  "versionedFilename": "code.1755355848320.tsx",
+  "codeReference": "r2://components-code-private/designali-in/blobs/code.1755355848320.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/blobs/code.1755355848320.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2458,
+  "sha256": "69c9a8628f007e452cbe3aded12b448ee926c62946e5ae25a3eb2dd748b40230",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

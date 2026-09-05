@@ -1,0 +1,33 @@
+{
+  "category": [
+    "form"
+  ],
+  "subcategory": "authentication-signin",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "User authentication for travel booking platforms",
+    "Secure sign-in form with password visibility toggle",
+    "Travel-themed login experience with animated transitions",
+    "Client-side form validation entry point",
+    "Membership portal authentication for travel services"
+  ],
+  "ai_summary": "A travel-themed sign-in form component featuring custom Input and Button components with a blue-to-indigo gradient aesthetic. The component includes password visibility toggle functionality, smooth entrance animations via framer-motion, and hover state transitions. Designed as a cohesive authentication module for travel booking or SaaS platforms requiring user login.",
+  "_classifiedAt": "2026-04-23T16:28:12.226Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

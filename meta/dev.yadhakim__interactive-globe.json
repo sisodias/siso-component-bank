@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@dev.yadhakim/components/interactive-globe",
+  "author": "dev.yadhakim",
+  "slug": "interactive-globe",
+  "name": "interactive-globe",
+  "description": "Interactive 3D rotating globe built with pure canvas — zero dependencies. 1,200 Fibonacci-distributed dots form the sphere, glowing arcs connect city markers with traveling light particles, pulsing rings mark locations with labels. Drag to rotate with pointer capture, auto-rotates when idle. Configurable markers, connections, colors, and speed. The demo mirrors the Spline robot layout — dark card, left copy, right interactive 3D.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/dev.yadhakim/interactive-globe?api_key=$API_KEY_21ST\"",
+  "id": "dev.yadhakim__interactive-globe",
+  "bundleUrl": "https://cdn.21st.dev/dev.yadhakim/interactive-globe/default/bundle.1771998219024.html",
+  "previewUrl": "https://cdn.21st.dev/dev.yadhakim/interactive-globe/default/preview.1771998219024.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 255,
+  "demo_id": 10073,
+  "video_url": "https://cdn.21st.dev/user_39US82jUnMicURPKQSF6KHvMUo3/interactive-globe/default/video.1785851073348.mp4"
+}

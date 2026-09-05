@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@cnippet.dev/components/cnippet-toolbar",
+  "author": "cnippet.dev",
+  "slug": "cnippet-toolbar",
+  "name": "cnippet-toolbar",
+  "description": "A container for grouping related actions into a single keyboard-navigable bar, built on Base UI's Toolbar primitive. Ships Toolbar, ToolbarButton, ToolbarLink, ToolbarInput, ToolbarGroup and ToolbarSeparator. Each part uses the render prop so it can compose with buttons, toggle groups and inputs while keeping a single roving-tabindex focus model. Demos compose it with the Button, Tooltip and ToggleGroup components (shipped alongside).",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/cnippet.dev/cnippet-toolbar?api_key=$API_KEY_21ST\"",
+  "id": "cnippet.dev__cnippet-toolbar",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/cnippet-toolbar/default/bundle.1783954460572.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/cnippet-toolbar/default/preview.1783954460572.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 37,
+  "demo_id": 19519,
+  "video_url": null
+}

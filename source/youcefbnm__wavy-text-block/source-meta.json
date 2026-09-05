@@ -1,0 +1,17 @@
+{
+ "id": "youcefbnm__wavy-text-block",
+ "outcome": "retrieved",
+ "retrievalMethod": "local-legacy-store-copy",
+ "provenanceNote": "Copied from the pre-existing local legacy 21st store; NOT fetched from 21st.dev by this lane.",
+ "legacySourcePath": "legacy/youcefbnm-wavy-text-block/wavy-text-block.tsx",
+ "legacySourceFile": "wavy-text-block.tsx",
+ "legacyDependencies": [
+  "motion"
+ ],
+ "upstreamUrl": "https://21st.dev/@youcefbnm/components/wavy-text-block",
+ "httpStatus": null,
+ "sha256": "8d20ca2e810bcb7e372dbfbbf036c7350cc779109b12527da164cc78741be58c",
+ "bytes": 3832,
+ "completedAt": "2026-08-29T03:43:54.203Z",
+ "seededBy": "CENA-directive-2026-08-29-skip-legacy"
+}

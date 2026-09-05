@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/gooey-dock",
+  "author": "ruixen.ui",
+  "slug": "gooey-dock",
+  "name": "gooey-dock",
+  "description": "This Dock component is a modern, interactive navigation bar inspired by the macOS-style dock, built with React, Framer Motion, and shadcn/ui. It displays a row of circular icon buttons, each wrapped in a tooltip for clear labeling. The highlight of the component is the gooey liquid background effect: when a user hovers over an icon, a softly animated blob expands behind it, creating a smooth, fluid-like motion. Framer Motion handles the scaling and spring-based animations, making the hover transitions feel natural and responsive. To maintain clarity, only the background blobs are passed through an SVG goo filter, while the icons themselves remain crisp and sharp. This ensures a visually playful yet professional design that can be used for app shortcuts, quick actions, or feature navigation in dashboards. Overall, the component balances aesthetic depth with practical usability, giving users both an engaging interaction and a clear navigation experience.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/gooey-dock?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__gooey-dock",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/gooey-dock/default/bundle.1758352605418.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/gooey-dock/default/preview.1758352605417.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 29,
+  "demo_id": 7833,
+  "video_url": "https://cdn.21st.dev/ruixen.ui/gooey-dock/default/video.1758352605417.mp4"
+}

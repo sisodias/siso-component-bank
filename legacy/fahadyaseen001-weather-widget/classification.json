@@ -1,0 +1,31 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "weather-information-card",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying current weather conditions and temperature in a clean card format",
+    "Showing weather information in news or media applications",
+    "Providing weather updates in dashboards or home screen widgets",
+    "Embedding weather forecasts in e-commerce product pages for outdoor items"
+  ],
+  "ai_summary": "A weather widget component built with minimal card primitives using flat design principles. The component provides foundational card elements (Card, CardHeader, CardContent, CardFooter, CardTitle, CardDescription) styled with standard Tailwind classes for displaying weather information. Clean and unobtrusive visual design suitable for embedding weather data displays across various applications without distracting from surrounding content.",
+  "_classifiedAt": "2026-04-23T16:39:55.947Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

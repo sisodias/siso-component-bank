@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@uniquesonu/components/analog-clock-component",
+  "author": "uniquesonu",
+  "slug": "analog-clock-component",
+  "name": "analog-clock-component",
+  "description": "This React component renders an analog clock with moving hands, hour markers, minute markers, and a digital time display.  It uses the useState hook to track the current time and useEffect to update the time every second.  The clock hands' positions are calculated based on the current time.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/uniquesonu/analog-clock-component?api_key=$API_KEY_21ST\"",
+  "id": "uniquesonu__analog-clock-component",
+  "bundleUrl": "https://cdn.21st.dev/uniquesonu/analog-clock-component/default/bundle.1755955622932.html",
+  "previewUrl": "https://cdn.21st.dev/uniquesonu/analog-clock-component/default/preview.1755955622929.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

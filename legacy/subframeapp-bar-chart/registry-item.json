@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "subframeapp-bar-chart",
+  "type": "registry:ui",
+  "title": "Subframeapp Bar Chart",
+  "description": "Installed from https://21st.dev/r/SubframeApp/bar-chart",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "subframeapp-bar-chart"
+  ],
+  "files": [
+    {
+      "path": "bar-chart.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@subframe/core"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/SubframeApp/bar-chart",
+    "fetchedAt": "2026-04-23T02:28:12.626Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

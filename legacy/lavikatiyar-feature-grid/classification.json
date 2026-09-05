@@ -1,0 +1,26 @@
+{
+  "category": "card",
+  "subcategory": "feature-card-grid",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Showcasing product or service features on landing pages",
+    "Displaying benefits and capabilities in a scannable grid format",
+    "Creating feature comparison sections for SaaS or e-commerce platforms"
+  ],
+  "ai_summary": "A responsive feature grid component that displays multiple feature cards with images, titles, descriptions, and interactive arrow links. Each card features hover animations including lift effect, shadow, and directional arrow movement. Built with accessibility support using focus-visible states and keyboard navigation. Uses shadcn/ui styling conventions with clean, flat design aesthetic suitable for SaaS and e-commerce feature sections.",
+  "_classifiedAt": "2026-04-22T09:04:27.105Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

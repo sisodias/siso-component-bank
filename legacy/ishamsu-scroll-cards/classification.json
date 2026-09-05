@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "scroll-parallax-cards",
+  "visual_style": [
+    "minimalist",
+    "flat",
+    "colorful"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying portfolio projects in a vertically scrolling showcase",
+    "Presenting feature highlights with sticky card animations",
+    "Creating storytelling experiences through sequential card reveals",
+    "Showcasing products or services with background imagery and text overlays",
+    "Building engaging landing page sections with scroll-triggered content"
+  ],
+  "ai_summary": "A vertically scrolling card system that uses CSS sticky positioning to create a parallax-like reveal effect. Each card displays a title, description, and background image with customizable colors passed via props. The component uses a composite structure with a Card component and CardsParallax wrapper, making it ideal for portfolio showcases, project presentations, or storytelling sections. Features responsive design with mobile and desktop breakpoints.",
+  "_classifiedAt": "2026-04-23T16:45:02.847Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

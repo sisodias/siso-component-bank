@@ -1,0 +1,34 @@
+{
+  "category": [
+    "layout"
+  ],
+  "subcategory": "scroll animation system with smooth scrolling",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "system",
+  "use_cases": [
+    "Creating smooth scroll-driven animations on any container or page element",
+    "Implementing parallax effects where elements move at different speeds based on scroll progress",
+    "Building reveal animations triggered when elements enter the viewport",
+    "Creating scroll-linked progress indicators and loading states",
+    "Adding sophisticated motion effects to landing pages and marketing sites"
+  ],
+  "ai_summary": "A comprehensive scroll animation system built on Lenis and Framer Motion that provides smooth scrolling with physics-based easing and scroll-triggered animations. The system includes React context for container-level scroll progress tracking, motion value transforms for parallax effects, and reusable hooks for integrating smooth scrolling into any React application.",
+  "_classifiedAt": "2026-04-23T17:45:22.231Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

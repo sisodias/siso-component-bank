@@ -1,0 +1,32 @@
+{
+  "category": "media",
+  "subcategory": "glowing-keyboard-visualization",
+  "visual_style": [
+    "glass-morphism",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "education",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display keyboard shortcuts in an interactive, visually appealing way",
+    "Show keyboard shortcut sequences with glowing key highlights",
+    "Create keyboard shortcut documentation with hover animations",
+    "Build keyboard navigation guides for applications",
+    "Design gaming-style keyboard visualizations"
+  ],
+  "ai_summary": "A fully interactive glowing keyboard component with customizable glow colors, hover effects, and support for highlighting specific key combinations. Uses motion/react for smooth animations and includes specialized key types like fingerprint keys and arrow keys. Designed primarily for desktop display with a glass-morphism aesthetic featuring gradient accents and glow effects.",
+  "_classifiedAt": "2026-04-23T16:51:11.236Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,18 @@
+{
+ "id": "zochory__prompt-input-dynamic-grow",
+ "outcome": "retrieved",
+ "retrievalMethod": "local-legacy-store-copy",
+ "provenanceNote": "Copied from the pre-existing local legacy 21st store; NOT fetched from 21st.dev by this lane.",
+ "legacySourcePath": "legacy/zochory-prompt-input-dynamic-grow/prompt-input-dynamic-grow.tsx",
+ "legacySourceFile": "prompt-input-dynamic-grow.tsx",
+ "legacyDependencies": [
+  "figma:react",
+  "lucide-react"
+ ],
+ "upstreamUrl": "https://21st.dev/@zochory/components/prompt-input-dynamic-grow",
+ "httpStatus": null,
+ "sha256": "c14f6b1ad8a6c955d2e8cc0f5417f175ad606fc7f69e08e4f6aea9a5a350c1a8",
+ "bytes": 19003,
+ "completedAt": "2026-08-29T03:43:54.214Z",
+ "seededBy": "CENA-directive-2026-08-29-skip-legacy"
+}

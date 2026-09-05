@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "chart-glyphs-line",
+  "visual_style": [
+    "flat",
+    "colorful"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying time-series data points with customizable symbol markers on a chart",
+    "Creating scatter-style visualizations with multiple glyph shapes for dashboards",
+    "Building data visualization components for analytics interfaces"
+  ],
+  "ai_summary": "A data visualization component that renders a line chart with various glyph shapes (circles, crosses, diamonds, stars, triangles, squares, wye) as data point markers. Built with visx libraries, it features a modern purple and cyan color scheme and uses scaleTime and scaleLinear for axis mapping. Suitable for dashboards and analytics displays in SaaS and data-focused applications.",
+  "_classifiedAt": "2026-04-23T11:29:43.138Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

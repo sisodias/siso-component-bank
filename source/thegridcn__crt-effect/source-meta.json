@@ -1,0 +1,26 @@
+{
+  "id": "thegridcn__crt-effect",
+  "author": "thegridcn",
+  "slug": "crt-effect",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@thegridcn/components/crt-effect",
+  "fetchedAt": "2026-08-29T07:31:14.951Z",
+  "completedAt": "2026-08-29T07:31:16.324Z",
+  "versionedFilename": "code.1784707438026-7921df52-6440-4fd5-96c3-2fa4ddfbd841.tsx",
+  "codeReference": "r2://components-code-private/thegridcn/crt-effect/code.1784707438026-7921df52-6440-4fd5-96c3-2fa4ddfbd841.tsx",
+  "codeUrl": "https://cdn.21st.dev/thegridcn/crt-effect/code.1784707438026-7921df52-6440-4fd5-96c3-2fa4ddfbd841.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

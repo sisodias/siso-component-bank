@@ -1,0 +1,32 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "event-card",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "media",
+    "education",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display event information with date, time, and location details in a visually organized card layout",
+    "Showcase upcoming events on event discovery or calendar pages",
+    "Present event summaries with images and action buttons for user engagement",
+    "List events in a responsive grid or feed format for event platform applications",
+    "Highlight event details with animated entrance effects for visual appeal"
+  ],
+  "ai_summary": "An event card component that displays event information including heading, description, formatted date, location, and time. Features Framer Motion animations for smooth entrance effects, Lucide icons for visual indicators, and a responsive design using Tailwind/shadcn patterns. Includes an action button for user interaction and proper accessibility attributes. Ideal for event listing pages, calendar views, and event discovery interfaces.",
+  "_classifiedAt": "2026-04-23T01:46:13.576Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

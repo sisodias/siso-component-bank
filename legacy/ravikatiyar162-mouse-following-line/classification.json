@@ -1,0 +1,34 @@
+{
+  "category": [
+    "other"
+  ],
+  "subcategory": "interactive-canvas-animation",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Interactive background effect for landing pages and hero sections",
+    "Creative visual element for portfolios and creative tools",
+    "Engaging dashboard decoration for dev-tools and SaaS applications",
+    "Mouse-following animation effect for interactive presentations",
+    "Canvas-based decorative component for media and entertainment sites"
+  ],
+  "ai_summary": "An interactive canvas-based grid animation where lines dynamically respond to a mouse-following ball element. Built with framer-motion and React hooks, this component renders a configurable grid system with real-time mouse tracking. Supports theming via CSS variables and customizable grid parameters including columns, rows, spacing, and stroke styling. Perfect for creative interfaces, interactive backgrounds, or engaging visual effects in portfolios and landing pages.",
+  "_classifiedAt": "2026-04-23T01:47:41.754Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

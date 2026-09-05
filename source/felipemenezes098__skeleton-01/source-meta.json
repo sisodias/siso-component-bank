@@ -1,0 +1,26 @@
+{
+  "id": "felipemenezes098__skeleton-01",
+  "author": "felipemenezes098",
+  "slug": "skeleton-01",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@felipemenezes098/components/skeleton-01",
+  "fetchedAt": "2026-08-29T04:49:27.580Z",
+  "completedAt": "2026-08-29T04:49:29.502Z",
+  "versionedFilename": "code.1784691017069-1641b80d-bb85-49c2-b6cc-dc6cfa4e6168.tsx",
+  "codeReference": "r2://components-code-private/felipemenezes098/skeleton-01/code.1784691017069-1641b80d-bb85-49c2-b6cc-dc6cfa4e6168.tsx",
+  "codeUrl": "https://cdn.21st.dev/felipemenezes098/skeleton-01/code.1784691017069-1641b80d-bb85-49c2-b6cc-dc6cfa4e6168.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

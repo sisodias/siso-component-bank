@@ -1,0 +1,37 @@
+{
+  "category": [
+    "input",
+    "navigation"
+  ],
+  "subcategory": "expanding-search-dock",
+  "visual_style": [
+    "glass-morphism",
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Global search input that expands from a compact icon to a full-width search bar on click",
+    "Command palette style search for quick navigation across apps and pages",
+    "Floating search dock for header or toolbar search functionality",
+    "Minimalist search trigger for clean UI navigation bars"
+  ],
+  "ai_summary": "An expanding search dock component that morphs from a compact circular icon button into a full-width glass-morphism search input field with backdrop blur effects. Features smooth spring animations using Framer Motion and supports form submission with customizable placeholder text.",
+  "_classifiedAt": "2026-04-22T09:06:45.487Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "assisted-password-confirmation",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Guiding users through password confirmation by showing the target password for matching",
+    "Providing real-time visual feedback as each character is typed correctly or incorrectly",
+    "Reducing password confirmation errors in signup or reset flows with animated validation",
+    "Enhancing form UX in authentication flows with character-level validation cues",
+    "Serving as a focused, standalone confirmation component in any app with password requirements"
+  ],
+  "ai_summary": "An assisted password confirmation component that displays the target password and provides character-by-character visual feedback as users type. Features shake animation on excessive wrong input and scale/border animations on successful match. Built with Framer Motion for smooth transitions and Tailwind for styling. Designed to reduce confirmation errors in authentication flows by making the matching process explicit and satisfying.",
+  "_classifiedAt": "2026-04-23T16:51:38.122Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

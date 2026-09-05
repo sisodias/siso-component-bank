@@ -1,0 +1,30 @@
+{
+  "category": "navigation",
+  "subcategory": "floating-dock-bottom-nav",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools",
+    "media",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Main navigation for web applications with macOS-style floating dock interface",
+    "Bottom navigation bar with smooth hover scaling animations based on proximity",
+    "Glassmorphism-styled floating navigation using backdrop blur and transparency",
+    "App navigation with active state tracking and visual feedback on selection",
+    "Responsive navigation component for desktop and mobile platforms"
+  ],
+  "ai_summary": "A floating bottom dock navigation component inspired by macOS with glassmorphism styling. Features smooth hover scaling effects that expand icons based on proximity to the hovered item, backdrop blur, semi-transparent backgrounds, and active state tracking. Supports multiple navigation items with icons, labels, and click handlers. Designed for general web application navigation across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-22T08:58:52.675Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

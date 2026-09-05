@@ -1,0 +1,26 @@
+{
+  "id": "shadcnblockscom__modern-hero",
+  "author": "shadcnblockscom",
+  "slug": "modern-hero",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcnblockscom/components/modern-hero",
+  "fetchedAt": "2026-08-29T07:10:10.817Z",
+  "completedAt": "2026-08-29T07:10:13.016Z",
+  "versionedFilename": "code.1738573924947.tsx",
+  "codeReference": "r2://components-code-private/user_2rguB0QxcSITG2Y7ivePFsKsUU6/modern-hero/code.1738573924947.tsx",
+  "codeUrl": "https://cdn.21st.dev/user_2rguB0QxcSITG2Y7ivePFsKsUU6/modern-hero/code.1738573924947.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2791,
+  "sha256": "a5c6f273028e9ffda4a28ebf8f8a6b4fc57a5d694be60d3df1a45f96ffd9784c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

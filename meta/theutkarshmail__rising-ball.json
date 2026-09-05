@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@theutkarshmail/components/rising-ball",
+  "author": "theutkarshmail",
+  "slug": "rising-ball",
+  "name": "rising-ball",
+  "description": "A single ball moves toward a staircase-like structure. It pauses briefly, then begins climbing — bouncing up one step at a time. Each bounce is rhythmic and smooth, creating a loop. After reaching the top, the ball resets to the bottom and starts again.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/theutkarshmail/rising-ball?api_key=$API_KEY_21ST\"",
+  "id": "theutkarshmail__rising-ball",
+  "bundleUrl": "https://cdn.21st.dev/theutkarshmail/rising-ball/default/bundle.1755111645595.html",
+  "previewUrl": "https://cdn.21st.dev/theutkarshmail/rising-ball/default/preview.1755111645595.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

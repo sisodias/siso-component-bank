@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruhith369/components/loading-radar",
+  "author": "ruhith369",
+  "slug": "loading-radar",
+  "name": "loading-radar",
+  "description": "The LoadingRadar component is a sleek radar-style loading animation built with React, TypeScript, and Tailwind CSS. It creates a circular scanner effect that continuously rotates, resembling a radar sweep. The outer container is a large dark-bordered circle with inset shadows that give it a 3-D depth. Inside it, there’s a smaller dashed ring and a central dashed circle to mimic radar grid lines. The rotating “sweep” is made using a half-circle span with a glowing green blur and drop-shadow to create a smooth scanning beam. The animation is handled using a custom keyframe named radar81, which spins the sweep 360 degrees every two seconds. This component is entirely responsive, requires no external libraries other than Tailwind, and adds a visually appealing loader for dashboards, analytics pages, or any data-intensive UI where a radar-like loading effect is desired.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruhith369/loading-radar?api_key=$API_KEY_21ST\"",
+  "id": "ruhith369__loading-radar",
+  "bundleUrl": "https://cdn.21st.dev/ruhith369/loading-radar/default/bundle.1759287448169.html",
+  "previewUrl": "https://cdn.21st.dev/ruhith369/loading-radar/default/preview.1759287448167.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 28,
+  "demo_id": 8355,
+  "video_url": "https://cdn.21st.dev/ruhith369/loading-radar/default/video.1759287448167.mp4"
+}

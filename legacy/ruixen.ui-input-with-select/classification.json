@@ -1,0 +1,30 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "compound-currency-input",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "e-commerce",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Entering currency amounts with selectable denomination like USD, EUR, or INR",
+    "Accepting numeric values with built-in increment/decrement stepper controls",
+    "Collecting form data with combined text input and dropdown selection",
+    "Inputting quantities or amounts in e-commerce checkout flows",
+    "Handling financial or pricing data in SaaS billing interfaces"
+  ],
+  "ai_summary": "A compound input component combining a text input field with a select dropdown and increment/decrement stepper buttons. Designed specifically for currency and amount entry, featuring a currency selector (USD/EUR/INR), numeric value input with step controls, and smooth focus transitions. Uses Tailwind styling with a clean, functional aesthetic suitable for fintech, e-commerce, and SaaS applications requiring amount or quantity inputs.",
+  "_classifiedAt": "2026-04-23T01:50:15.890Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

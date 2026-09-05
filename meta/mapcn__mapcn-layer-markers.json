@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@mapcn/components/mapcn-layer-markers",
+  "author": "mapcn",
+  "slug": "mapcn-layer-markers",
+  "name": "mapcn-layer-markers",
+  "description": "A high-performance MapLibre marker layer that renders many clickable point markers from GeoJSON.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/mapcn/mapcn-layer-markers?api_key=$API_KEY_21ST\"",
+  "id": "mapcn__mapcn-layer-markers",
+  "bundleUrl": "https://cdn.21st.dev/mapcn/mapcn-layer-markers/default/bundle.1785532250353-e8cc550e-e635-4a6c-b828-df3f41076a95.html",
+  "previewUrl": "https://cdn.21st.dev/mapcn/mapcn-layer-markers/default/preview.1785532250353-e8cc550e-e635-4a6c-b828-df3f41076a95.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

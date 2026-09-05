@@ -1,0 +1,26 @@
+{
+  "id": "shoota__header-navigation",
+  "author": "shoota",
+  "slug": "header-navigation",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shoota/components/header-navigation",
+  "fetchedAt": "2026-08-29T07:17:56.253Z",
+  "completedAt": "2026-08-29T07:17:58.423Z",
+  "versionedFilename": "code.1784829963113-efae6206-963e-4ff4-9775-9cd5efd78b1b.tsx",
+  "codeReference": "r2://components-code-private/shoota/header-navigation/code.1784829963113-efae6206-963e-4ff4-9775-9cd5efd78b1b.tsx",
+  "codeUrl": "https://cdn.21st.dev/shoota/header-navigation/code.1784829963113-efae6206-963e-4ff4-9775-9cd5efd78b1b.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@platejs/components/resize-handle",
+  "author": "platejs",
+  "slug": "resize-handle",
+  "name": "resize-handle",
+  "description": "A resizable wrapper with draggable resize handles for media elements in a Plate editor, letting users resize images and other blocks by dragging their side bars.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/platejs/resize-handle?api_key=$API_KEY_21ST\"",
+  "id": "platejs__resize-handle",
+  "bundleUrl": "https://cdn.21st.dev/platejs/resize-handle/default/bundle.1784723137925-889e6647-af76-4889-84a5-bfbd2ce19907.html",
+  "previewUrl": "https://cdn.21st.dev/platejs/resize-handle/default/preview.1784723137925-889e6647-af76-4889-84a5-bfbd2ce19907.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

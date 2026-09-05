@@ -1,0 +1,30 @@
+{
+  "category": "input",
+  "subcategory": "expandable-button",
+  "visual_style": [],
+  "interactions": [
+    "morph",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Space-saving navigation buttons that expand on click to reveal text labels",
+    "Mobile-responsive action buttons with collapsible text content",
+    "Interactive toolbar buttons with icon-only and full modes",
+    "Expandable menu triggers for dashboard and admin interfaces",
+    "Action buttons that gracefully handle varying screen sizes"
+  ],
+  "ai_summary": "An animated expandable button component that smoothly transitions between a compact icon-only state and an expanded state with full text. Uses spring-based physics for natural motion and supports both controlled and uncontrolled state management. Ideal for responsive interfaces needing space-efficient interactive elements that maintain discoverability.",
+  "_classifiedAt": "2026-04-23T17:00:57.326Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

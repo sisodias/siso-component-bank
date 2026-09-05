@@ -1,0 +1,34 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "media",
+    "education",
+    "real-estate",
+    "healthcare",
+    "creator-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action triggers in forms and applications",
+    "Navigation and link-based interactions with multiple visual states",
+    "Destructive action buttons with confirmation states",
+    "Icon-only buttons for compact UI toolbars and actions"
+  ],
+  "ai_summary": "A flexible, accessible button component built with Radix UI Slot and Tailwind CSS using class-variance-authority for variant management. Supports 6 visual variants (default, destructive, outline, secondary, ghost, link) and 4 sizes, with disabled and focus states. Designed as a reusable atomic component for any UI system.",
+  "_classifiedAt": "2026-04-23T17:34:50.087Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,31 @@
+{
+  "category": "media",
+  "subcategory": "vertical-text-typography-utility",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display navigation menus or labels vertically along the side of a page or panel",
+    "Create decorative or artistic text layouts with vertical orientation",
+    "Fit long text content in narrow sidebar or panel spaces without truncation",
+    "Style section headers or dividers with rotated vertical text for visual interest",
+    "Implement vertical CJK or multilingual text rendering for international content"
+  ],
+  "ai_summary": "A lightweight React utility component that renders text in vertical orientation using CSS writing-mode property. The component applies a 180-degree rotation and vertical-rl writing mode, making it ideal for displaying labels, navigation items, or decorative text in narrow sidebar layouts. Supports custom HTML element types via the 'as' prop and accepts standard HTML attributes. Works across all modern browsers and platforms.",
+  "_classifiedAt": "2026-04-23T17:45:43.971Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

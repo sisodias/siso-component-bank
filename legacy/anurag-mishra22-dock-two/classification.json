@@ -1,0 +1,31 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "floating icon dock",
+  "visual_style": [
+    "minimalist",
+    "glass-morphism"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Quick navigation to main application features in a desktop-like dock interface",
+    "App launcher or tool launcher with animated floating dock behavior",
+    "Persistent navigation bar for frequently used actions with hover tooltips"
+  ],
+  "ai_summary": "A floating dock navigation component featuring animated icon buttons with smooth hover effects, tooltip labels, and a continuous subtle floating animation. Built with Framer Motion for fluid interactions, this component creates a macOS-style launcher experience for web applications, featuring scale and translate animations on hover with tap feedback.",
+  "_classifiedAt": "2026-04-23T11:30:28.982Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

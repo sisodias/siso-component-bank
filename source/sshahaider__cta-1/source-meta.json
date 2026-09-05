@@ -1,0 +1,26 @@
+{
+  "id": "sshahaider__cta-1",
+  "author": "sshahaider",
+  "slug": "cta-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sshahaider/components/cta-1",
+  "fetchedAt": "2026-08-29T07:24:44.050Z",
+  "completedAt": "2026-08-29T07:24:46.211Z",
+  "versionedFilename": "code.1760953984029.tsx",
+  "codeReference": "r2://components-code-private/sshahaider/cta-1/code.1760953984029.tsx",
+  "codeUrl": "https://cdn.21st.dev/sshahaider/cta-1/code.1760953984029.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 814,
+  "sha256": "a357de0776100cea566dec327dfd5b6293736b5e6fad03dbad2bb7c0ae13000e",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

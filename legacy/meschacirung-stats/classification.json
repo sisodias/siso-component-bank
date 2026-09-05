@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "stat-card-system",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying key metrics and statistics in a dashboard layout",
+    "Organizing content in contained card containers with headers and footers",
+    "Presenting data with titles, descriptions, and structured content sections",
+    "Building card-based UI layouts for any data presentation need"
+  ],
+  "ai_summary": "A shadcn/ui-style card component system providing Card, CardHeader, CardTitle, CardDescription, CardContent, and CardFooter primitives for contained data display. Built with forward refs and Tailwind utility classes, featuring minimalist flat styling with subtle shadows and rounded corners. Used as the foundation for the Meschacirung Stats component to display statistics in organized, visually distinct containers.",
+  "_classifiedAt": "2026-04-23T16:57:28.041Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

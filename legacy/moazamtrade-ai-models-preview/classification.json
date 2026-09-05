@@ -1,0 +1,28 @@
+{
+  "category": "data-display",
+  "subcategory": "AI model catalog grid",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying available AI models with pricing, context windows, and capabilities in a searchable catalog",
+    "Comparing AI model providers and their features side-by-side in a grid layout",
+    "Allowing users to select and explore detailed information about specific AI models",
+    "Showcasing AI model capabilities like vision, function calling, and audio support",
+    "Presenting AI service pricing information in a clean, scannable format"
+  ],
+  "ai_summary": "A responsive card grid component for displaying AI models with provider information, pricing tiers, context window limits, and capability badges. Features hover scale animations and click-to-expand functionality for detailed model inspection. Built with Framer Motion for smooth interactions and uses standard Tailwind styling for a clean, minimalist appearance suitable for SaaS AI marketplaces or developer documentation.",
+  "_classifiedAt": "2026-04-23T01:43:48.043Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ln-dev7-pricing-interaction",
+  "type": "registry:ui",
+  "title": "Ln Dev7 Pricing Interaction",
+  "description": "Installed from https://21st.dev/r/ln-dev7/pricing-interaction",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ln-dev7-pricing-interaction"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "pricing-interaction.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@number-flow/react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ln-dev7/pricing-interaction",
+    "fetchedAt": "2026-04-23T03:05:29.881Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

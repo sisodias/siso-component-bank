@@ -1,0 +1,27 @@
+{
+  "category": "input",
+  "subcategory": "voice-input",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Voice command input for AI assistants and chatbots",
+    "Speech-to-text transcription in note-taking and documentation apps",
+    "Voice messaging input in communication and collaboration platforms",
+    "Voice search functionality for search interfaces",
+    "Audio input for accessibility features and hands-free interaction"
+  ],
+  "ai_summary": "A minimalist voice input component with microphone icon that toggles between idle and listening states. Features a rotating animation during active listening and optional timer display. Provides onStart and onStop callbacks for integrating with speech recognition services or voice-controlled features.",
+  "_classifiedAt": "2026-04-23T17:01:21.204Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

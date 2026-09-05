@@ -1,0 +1,33 @@
+{
+  "id": "ruixen.ui__rising-glow",
+  "author": "ruixen.ui",
+  "slug": "rising-glow",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/rising-glow",
+  "fetchedAt": "2026-08-29T06:47:40.684Z",
+  "completedAt": "2026-08-29T06:47:42.877Z",
+  "versionedFilename": "code.1785360133648-b3c0dddd-a5f8-4010-b9e5-79958373a807.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/rising-glow/code.1785360133648-b3c0dddd-a5f8-4010-b9e5-79958373a807.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/rising-glow/code.1785360133648-b3c0dddd-a5f8-4010-b9e5-79958373a807.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/ruixen.ui__rising-glow/code.tsx",
+    "bytes": 1493,
+    "sha256": "002f72a66a4de2694f2314a4c4faf1ba70dc41ec47f083a18024381832350cfe",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

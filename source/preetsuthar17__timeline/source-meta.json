@@ -1,0 +1,26 @@
+{
+  "id": "preetsuthar17__timeline",
+  "author": "preetsuthar17",
+  "slug": "timeline",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@preetsuthar17/components/timeline",
+  "fetchedAt": "2026-08-29T06:15:11.729Z",
+  "completedAt": "2026-08-29T06:15:14.061Z",
+  "versionedFilename": "code.1754962765774.tsx",
+  "codeReference": "r2://components-code-private/preetsuthar17/timeline/code.1754962765774.tsx",
+  "codeUrl": "https://cdn.21st.dev/preetsuthar17/timeline/code.1754962765774.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 18010,
+  "sha256": "d8b1d1b73c5539810475bb93d9b573cba50912aa45fd048f6a71cc903106a547",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

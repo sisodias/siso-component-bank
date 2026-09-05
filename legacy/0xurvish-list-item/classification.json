@@ -1,0 +1,32 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "filter-list-item",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "productivity",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Filtering and selecting task categories in productivity applications",
+    "Navigating between different event types in calendar interfaces",
+    "Switching between reminder categories in scheduling apps",
+    "Selecting meeting or appointment types in collaboration tools",
+    "Organizing celebration or event filters in social applications"
+  ],
+  "ai_summary": "A filterable list item component with smooth spring-based entrance animations and icon support. Features staggered animation delays based on item index, selection state management, and click-to-select behavior. Uses Hugeicons for clean visual representation and supports multiple filter categories like tasks, events, reminders, appointments, meetings, and celebrations.",
+  "_classifiedAt": "2026-04-22T08:50:42.820Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

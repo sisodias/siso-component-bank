@@ -1,0 +1,36 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "progress-bar",
+  "visual_style": [
+    "flat",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Display progress toward a goal or completion percentage in dashboards",
+    "Show task or project completion status in project management apps",
+    "Indicate form completion or multi-step wizard progress",
+    "Visualize upload, download, or data processing progress",
+    "Represent skill levels or achievement metrics in profiles"
+  ],
+  "ai_summary": "A customizable progress bar component with animated transitions, gradient color fills, and optional labels. Built with Ark UI's Progress primitives and styled with Tailwind CSS, featuring dark mode support. The component accepts props for value, duration, delay, and custom color gradients to match various design systems.",
+  "_classifiedAt": "2026-04-23T01:52:49.840Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

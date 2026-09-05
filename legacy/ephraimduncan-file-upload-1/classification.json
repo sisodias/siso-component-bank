@@ -1,0 +1,26 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Submitting forms with primary actions",
+    "Triggering destructive actions with confirmation",
+    "Creating ghost buttons for secondary actions",
+    "Building icon-only buttons for toolbars",
+    "Implementing navigation links styled as buttons"
+  ],
+  "ai_summary": "A reusable Button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Built with Radix UI Slot for composition, class-variance-authority for variant management, and full accessibility support including focus rings and disabled states. Tailwind CSS styling with ring-offset for consistent theming.",
+  "_classifiedAt": "2026-04-23T16:39:10.825Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

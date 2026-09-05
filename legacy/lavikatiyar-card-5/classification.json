@@ -1,0 +1,31 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "metric-highlight-card",
+  "visual_style": [
+    "gradient",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying key performance metrics and KPIs in analytics dashboards",
+    "Highlighting product features or statistics with call-to-action buttons",
+    "Showcasing business metrics in SaaS admin panels",
+    "Presenting summary statistics with themed color variants"
+  ],
+  "ai_summary": "A themeable metric highlight card component with four color variants (default, blue, violet, orange) that displays a title, description, metric value/label, icon, and action button. Built with Framer Motion for entrance animations including fade, scale, and staggered child reveals. Designed for dashboard analytics, KPI displays, and business metric presentations in SaaS and fintech applications.",
+  "_classifiedAt": "2026-04-23T01:42:32.664Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

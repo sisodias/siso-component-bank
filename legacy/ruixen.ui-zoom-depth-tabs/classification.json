@@ -1,0 +1,41 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "tab-switcher",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Switching between multiple content sections within a single view without page navigation",
+    "Organizing dashboard sections in SaaS applications for better information hierarchy",
+    "Segmenting product details, reviews, and specifications in e-commerce interfaces",
+    "Creating multi-step forms or wizards with distinct step content areas",
+    "Categorizing content in admin panels or settings interfaces"
+  ],
+  "ai_summary": "A lightweight tab navigation component built on Radix UI primitives that enables switching between content panels. Features minimalist styling with subtle shadows, muted colors, and smooth state transitions for active tab indication. Supports keyboard navigation and focus states for accessibility. Exports Tabs, TabsList, TabsTrigger, and TabsContent subcomponents for flexible composition.",
+  "_classifiedAt": "2026-04-23T01:52:12.221Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

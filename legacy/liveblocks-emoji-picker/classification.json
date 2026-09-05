@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "emoji-picker",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting emojis in chat or comment input fields",
+    "Adding emoji reactions to messages in real-time collaboration tools",
+    "Enabling emoji input in content creation or social media applications",
+    "Providing searchable emoji selection in comment systems",
+    "Integrating emoji picking functionality into messaging platforms"
+  ],
+  "ai_summary": "A Liveblocks-compatible emoji picker component built on Frimousse primitives. This composite component provides a searchable, categorized emoji selection interface with search functionality and keyboard-friendly emoji buttons. Designed for real-time collaborative environments where users need to select and share emoji reactions in chat, comments, or messaging contexts. Renders as a popover-style dropdown with organized emoji categories and active state highlighting.",
+  "_classifiedAt": "2026-04-23T16:51:29.883Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "bankkroll__myna-hero",
+  "author": "bankkroll",
+  "slug": "myna-hero",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@bankkroll/components/myna-hero",
+  "fetchedAt": "2026-08-29T03:48:07.113Z",
+  "completedAt": "2026-08-29T03:48:09.348Z",
+  "versionedFilename": "code.1754173665387.tsx",
+  "codeReference": "r2://components-code-private/bankkroll/myna-hero/code.1754173665387.tsx",
+  "codeUrl": "https://cdn.21st.dev/bankkroll/myna-hero/code.1754173665387.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 8669,
+  "sha256": "bee5095c46aa876ea748e718a25f530d6b83dab6b9a6ab00188205ae248c2e0c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

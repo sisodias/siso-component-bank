@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "user-identity-avatar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display user profile pictures with automatic fallback to initials",
+    "Show team member avatars in collaboration interfaces",
+    "Render contact avatars in messaging or comment sections",
+    "Display author avatars next to content",
+    "Show entity thumbnails in directory or listing views"
+  ],
+  "ai_summary": "A lightweight, accessible avatar component built on Radix UI primitives with image, fallback, and ring support. Features rounded-full styling with secondary background fallbacks and customizable size via className props. Supports loading states with skeleton patterns and integrates seamlessly with badge overlays for status indicators.",
+  "_classifiedAt": "2026-04-23T16:52:06.794Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

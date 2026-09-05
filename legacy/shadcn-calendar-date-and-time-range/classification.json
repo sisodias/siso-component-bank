@@ -1,0 +1,33 @@
+{
+  "category": "form",
+  "subcategory": "date-range-picker",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "healthcare",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting date ranges for bookings and appointments",
+    "Setting time periods for reports and analytics dashboards",
+    "Scheduling events with start and end date/time",
+    "Filtering data by custom date ranges",
+    "Managing availability windows for services"
+  ],
+  "ai_summary": "A calendar date and time range picker component that allows users to select both date ranges and time windows. Built on Radix UI primitives for accessibility, this component enables users to visually browse months and specify precise start/end timestamps. Commonly used in scheduling applications, booking systems, and analytics tools where users need to define custom time periods for data filtering or resource allocation.",
+  "_classifiedAt": "2026-04-23T17:25:51.029Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

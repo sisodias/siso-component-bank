@@ -1,0 +1,30 @@
+{
+  "category": "media",
+  "subcategory": "text-animation",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Animated hero section headlines that reveal text with staggered entrance effects",
+    "Marketing page section titles with letter-by-letter or word-by-word animation",
+    "Feature callouts with smooth text reveal animations on component mount",
+    "Landing page hero text with configurable animation timing and delays",
+    "Dynamic text content displays with customizable animation parameters"
+  ],
+  "ai_summary": "A lightweight React text animation component using Framer Motion that creates staggered reveal effects for text content. Supports letter-by-letter and word-by-word animation modes with configurable duration, delays, and Y-axis movement. Ideal for hero sections, section headers, and any content needing smooth entrance animations.",
+  "_classifiedAt": "2026-04-23T11:33:20.952Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

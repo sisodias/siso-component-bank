@@ -1,0 +1,37 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "download button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Download software installers or applications from a website",
+    "Enable users to download digital assets like PDFs, images, or documents",
+    "Provide a compact expandable download trigger that saves screen space",
+    "Initiate file downloads with a single click action",
+    "Trigger downloadable content in e-commerce or media platforms"
+  ],
+  "ai_summary": "A compact download button that starts as a circular icon and expands horizontally on hover to reveal 'Download' text. Built with framer-motion for smooth CSS-like transitions, featuring a solid red background with white typography. The button uses a space-efficient interaction pattern where the icon transforms into labeled text, making it ideal for toolbars, cards, or space-constrained download areas.",
+  "_classifiedAt": "2026-04-23T16:41:30.430Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

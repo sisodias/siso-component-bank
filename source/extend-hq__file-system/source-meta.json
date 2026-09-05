@@ -1,0 +1,26 @@
+{
+  "id": "extend-hq__file-system",
+  "author": "extend-hq",
+  "slug": "file-system",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@extend-hq/components/file-system",
+  "fetchedAt": "2026-08-29T04:46:56.595Z",
+  "completedAt": "2026-08-29T04:47:00.016Z",
+  "versionedFilename": "code.1782172446255.tsx",
+  "codeReference": "r2://components-code-private/larsen66/file-system/code.1782172446255.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/file-system/code.1782172446255.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 171102,
+  "sha256": "dd9809a58178395b654efe0b06f3f4a03c40f40adf284a41d35a3c47baea3ca7",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

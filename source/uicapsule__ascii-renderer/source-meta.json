@@ -1,0 +1,26 @@
+{
+  "id": "uicapsule__ascii-renderer",
+  "author": "uicapsule",
+  "slug": "ascii-renderer",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uicapsule/components/ascii-renderer",
+  "fetchedAt": "2026-08-29T07:41:49.882Z",
+  "completedAt": "2026-08-29T07:41:52.390Z",
+  "versionedFilename": "code.1783537633754.tsx",
+  "codeReference": "r2://components-code-private/uicapsule/ascii-renderer/code.1783537633754.tsx",
+  "codeUrl": "https://cdn.21st.dev/uicapsule/ascii-renderer/code.1783537633754.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1944,
+  "sha256": "2fd95f1fee85ac92110bbcb504f4d5c16496a5f1f5ce1f51ef1e2c629e73b108",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

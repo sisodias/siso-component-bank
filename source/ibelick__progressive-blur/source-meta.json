@@ -1,0 +1,33 @@
+{
+  "id": "ibelick__progressive-blur",
+  "author": "ibelick",
+  "slug": "progressive-blur",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ibelick/components/progressive-blur",
+  "fetchedAt": "2026-08-29T04:59:58.815Z",
+  "completedAt": "2026-08-29T04:59:59.872Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/ibelick__progressive-blur/code.tsx",
+    "bytes": 1605,
+    "sha256": "35bb5cb58a8439f1eac840bae62a9ec26fb6eac0cd3038c795e58cfb14fc7cc8",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

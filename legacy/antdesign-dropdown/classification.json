@@ -1,0 +1,24 @@
+{
+  "category": "navigation",
+  "subcategory": "dropdown-menu",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Contextual dropdown navigation triggered on hover",
+    "Action menus with disabled and danger item states",
+    "Nested menu item navigation using Ant Design components",
+    "Accessible dropdown menus with keyboard and screen reader support",
+    "E-commerce or SaaS product action menus"
+  ],
+  "ai_summary": "An Ant Design dropdown menu component that displays a contextual navigation menu with customizable items including disabled states, danger indicators, and icons. The dropdown is triggered by hovering over a link element and uses the standard Ant Design design system with flat visual styling. Supports multiple menu items with link targets, disabled states, and danger styling, making it suitable for navigation menus in SaaS applications and general web interfaces.",
+  "_classifiedAt": "2026-04-22T08:51:41.942Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

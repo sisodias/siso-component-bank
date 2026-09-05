@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/multi-step-button",
+  "author": "ruixen.ui",
+  "slug": "multi-step-button",
+  "name": "multi-step-button",
+  "description": "The Multi-Step Button is a shadcn/ui component that guides users through a sequence of actions by updating its label at each step. It’s perfect for multi-stage processes such as forms, onboarding flows, or confirmations, clearly indicating progress with labels like “Step 1: Fill Info → Step 2: Confirm → Step 3: Done.” The button supports configurable sizes (sm, md, lg) and seamlessly handles clicks to advance through steps, offering an intuitive and visually clear user experience. Its design leverages shadcn/ui primitives, ensuring accessibility, smooth transitions, and a modern, cohesive look in any interface.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/multi-step-button?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__multi-step-button",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/multi-step-button/default/bundle.1758562352048.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/multi-step-button/default/preview.1758562352047.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 4,
+  "demo_id": 7920,
+  "video_url": "https://cdn.21st.dev/ruixen.ui/multi-step-button/default/video.1758562352047.mp4"
+}

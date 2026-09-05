@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@educalvolpz/components/glow-hover-card",
+  "author": "educalvolpz",
+  "slug": "glow-hover-card",
+  "name": "glow-hover-card",
+  "description": "A card grid where a radial mask reveals a duplicated glowing layer under the cursor, each card lighting up in its own hue. Respects prefers-reduced-motion.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/educalvolpz/glow-hover-card?api_key=$API_KEY_21ST\"",
+  "id": "educalvolpz__glow-hover-card",
+  "bundleUrl": "https://cdn.21st.dev/educalvolpz/glow-hover-card/default/bundle.1785773379090-94be4074-96f1-4afd-a99f-49707f785cb6.html",
+  "previewUrl": "https://cdn.21st.dev/educalvolpz/glow-hover-card/default/preview.1785773379090-94be4074-96f1-4afd-a99f-49707f785cb6.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

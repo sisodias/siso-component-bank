@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/gooey-pagination",
+  "author": "ruixen.ui",
+  "slug": "gooey-pagination",
+  "name": "gooey-pagination",
+  "description": "This Liquid Gooey Smart Pagination component elevates traditional pagination into an interactive, visually engaging experience. Each page is represented by a dot, with the active dot morphing into a gooey blob that smoothly connects to its neighboring dots, creating an organic, fluid motion as users navigate. When the total number of pages is large, the component intelligently inserts ellipsis (...) to indicate skipped pages, keeping the pagination compact and readable. Navigation arrows allow quick movement between pages, while the component remains fully light and dark theme compatible. Built with ShadCN UI and Framer Motion, this pagination transforms a simple UI element into a playful, futuristic interface element, perfect for dashboards, creative apps, or any modern web experience where micro-interactions matter.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/gooey-pagination?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__gooey-pagination",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/gooey-pagination/default/bundle.1758433361655.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/gooey-pagination/default/preview.1758433361654.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 11,
+  "demo_id": 7868,
+  "video_url": "https://cdn.21st.dev/ruixen.ui/gooey-pagination/default/video.1758433361654.mp4"
+}

@@ -1,0 +1,32 @@
+{
+  "category": "hero",
+  "subcategory": "animated-hero-section",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate",
+    "parallax",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page headers for marketing websites with animated content reveals",
+    "SaaS product hero sections with staggered text and element animations",
+    "Portfolio or creative agency showcase pages with motion-enhanced entrances",
+    "E-commerce landing pages with dynamic animated promotional sections",
+    "Mobile-first responsive hero banners with preset animation configurations"
+  ],
+  "ai_summary": "A versatile hero section component with 10 built-in animation presets including fade, slide, scale, blur, zoom, flip, bounce, and rotate effects. Built with Framer Motion, it supports staggered child animations with configurable container and item variants. The component uses CSS utility classes for styling and provides a flexible API for creating engaging landing page headers with entrance animations and scroll-triggered effects.",
+  "_classifiedAt": "2026-04-23T16:56:42.999Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

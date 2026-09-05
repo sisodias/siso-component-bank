@@ -1,0 +1,33 @@
+{
+  "id": "muhammad-binsalman__flux-card-hero",
+  "author": "muhammad-binsalman",
+  "slug": "flux-card-hero",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@muhammad-binsalman/components/flux-card-hero",
+  "fetchedAt": "2026-08-29T05:53:42.415Z",
+  "completedAt": "2026-08-29T05:53:43.322Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "page-soft404",
+  "failureClass": "soft-404",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/muhammad-binsalman__flux-card-hero/code.tsx",
+    "bytes": 15466,
+    "sha256": "8352d987bac8e4fa453aead163602d4da9b6f27cdea4c26d18064bc91097b461",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is page-soft404/soft-404."
+  }
+}

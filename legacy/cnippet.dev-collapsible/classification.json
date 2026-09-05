@@ -1,0 +1,30 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "accordion disclosure panel",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "FAQ sections where users expand answers",
+    "Navigation menus with nested items",
+    "Settings panels with collapsible options",
+    "Content organization in documentation sites",
+    "Product feature descriptions with expandable details"
+  ],
+  "ai_summary": "A collapsible component built on Base UI primitives featuring smooth height transitions with data-starting/ending-style state management. This atomic component serves as a fundamental disclosure pattern for expandable content sections, commonly used in FAQ pages, navigation menus, and settings interfaces.",
+  "_classifiedAt": "2026-04-22T08:54:12.684Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

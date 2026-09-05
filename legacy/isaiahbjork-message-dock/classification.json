@@ -1,0 +1,30 @@
+{
+  "category": "input",
+  "subcategory": "chat-dock-character-selector",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Sending messages to selected character avatars in a floating dock interface",
+    "Selecting between multiple AI/human characters for conversation routing",
+    "Expanding a collapsed message input dock to reveal character options",
+    "Creating interactive character-based chat experiences with emoji avatars",
+    "Building accessible message composition with keyboard and click navigation"
+  ],
+  "ai_summary": "A versatile message dock component featuring expandable character selection with emoji avatars, online status indicators, and customizable gradients. Supports both light and dark themes with smooth Framer Motion animations for dock expansion and character selection. Ideal for building AI chat interfaces, character-based messaging systems, or multi-persona conversation apps with a playful, colorful aesthetic.",
+  "_classifiedAt": "2026-04-23T16:44:29.634Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

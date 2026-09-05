@@ -1,0 +1,33 @@
+{
+  "id": "dillionverma__border-beam",
+  "author": "dillionverma",
+  "slug": "border-beam",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dillionverma/components/border-beam",
+  "fetchedAt": "2026-08-29T04:35:05.326Z",
+  "completedAt": "2026-08-29T04:35:07.195Z",
+  "versionedFilename": "code.1785300433872-975e2ae2-249a-4dae-bbd1-39fa6e09a6da.tsx",
+  "codeReference": "r2://components-code-private/dillionverma/border-beam/code.1785300433872-975e2ae2-249a-4dae-bbd1-39fa6e09a6da.tsx",
+  "codeUrl": "https://cdn.21st.dev/dillionverma/border-beam/code.1785300433872-975e2ae2-249a-4dae-bbd1-39fa6e09a6da.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/dillionverma__border-beam/code.tsx",
+    "bytes": 1472,
+    "sha256": "fc97209545846e8660abe1a45dae360327ce6520ddeb06a11ca7466d443fdeed",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

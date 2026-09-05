@@ -1,0 +1,30 @@
+{
+  "category": "input",
+  "subcategory": "animated-button",
+  "visual_style": [],
+  "interactions": [
+    "morph",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Submit buttons that transition to loading states with smooth morphing animation",
+    "Interactive call-to-action elements with fluid width transitions",
+    "Form submission buttons with visual feedback during async operations",
+    "Icon-enhanced buttons with optional loading indicators",
+    "Variant-based button systems for primary, secondary, and ghost actions"
+  ],
+  "ai_summary": "A specialized animated button component that performs a fluid width morph transition between its standard text state and a circular loading spinner state. Built with motion/react and physics-based spring animations for a smooth, jitter-free effect. Supports multiple variants (primary, secondary, ghost), optional icons, and customizable loading states with a signature fluid feel created through low stiffness and high damping values.",
+  "_classifiedAt": "2026-04-22T08:59:52.699Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

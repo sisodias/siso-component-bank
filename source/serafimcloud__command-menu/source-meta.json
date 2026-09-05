@@ -1,0 +1,26 @@
+{
+  "id": "serafimcloud__command-menu",
+  "author": "serafimcloud",
+  "slug": "command-menu",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@serafimcloud/components/command-menu",
+  "fetchedAt": "2026-08-29T07:01:50.229Z",
+  "completedAt": "2026-08-29T07:01:52.429Z",
+  "versionedFilename": "code.1785366369294-e505ca5f-efaa-4304-94fd-7a57a0e3795b.tsx",
+  "codeReference": "r2://components-code-private/serafimcloud/command-menu/code.1785366369294-e505ca5f-efaa-4304-94fd-7a57a0e3795b.tsx",
+  "codeUrl": "https://cdn.21st.dev/serafimcloud/command-menu/code.1785366369294-e505ca5f-efaa-4304-94fd-7a57a0e3795b.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

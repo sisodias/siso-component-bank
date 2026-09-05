@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@serafimcloud/components/tool-group",
+  "author": "serafimcloud",
+  "slug": "tool-group",
+  "name": "tool-group",
+  "description": "Collapsible header summarizing nested tool calls (files / searches / commands). State-driven (completed / pending streaming / interrupted) with shimmer label and elapsed time. Self-contained port from 21st.dev Agent Elements.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/serafimcloud/tool-group?api_key=$API_KEY_21ST\"",
+  "id": "serafimcloud__tool-group",
+  "bundleUrl": "https://cdn.21st.dev/21st.dev/tool-group/default/bundle.1778272443687.html",
+  "previewUrl": "https://cdn.21st.dev/21st.dev/tool-group/default/preview.1777646295812.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

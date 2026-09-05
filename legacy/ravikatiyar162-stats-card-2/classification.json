@@ -1,0 +1,32 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "crypto-stats-card",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying cryptocurrency market statistics including market cap and dominance data",
+    "Showing portfolio performance with animated sparkline trend charts",
+    "Providing real-time crypto price tracking for financial dashboards",
+    "Visualizing market dominance distribution across different cryptocurrencies",
+    "Serving as a standalone analytics widget in fintech applications"
+  ],
+  "ai_summary": "A cryptocurrency statistics card component displaying market cap data, animated sparkline charts, dominance percentages, and coin information with prices and changes. Built with Framer Motion for draw-in animations, Tailwind CSS for styling, and TypeScript for type safety. Designed as a composite component suitable for fintech dashboards and crypto tracking applications.",
+  "_classifiedAt": "2026-04-22T09:10:50.493Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@jolbol1/components/searchfield",
+  "author": "jolbol1",
+  "slug": "searchfield",
+  "name": "searchfield",
+  "description": "A search field allows a user to enter and clear a search query.\n\nSearch fields can be built with <input type=\"search\">, but these can be hard to style consistently cross browser. SearchField helps achieve accessible search fields that can be styled as needed.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/jolbol1/searchfield?api_key=$API_KEY_21ST\"",
+  "id": "jolbol1__searchfield",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1469.html",
+  "previewUrl": "https://cdn.21st.dev/user_jolbol1/searchfield.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 139,
+  "demo_id": 1469,
+  "video_url": "https://cdn.21st.dev/user_jolbol1/searchfield/default/video.mp4"
+}

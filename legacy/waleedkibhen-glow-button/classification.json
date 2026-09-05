@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "glow-button",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action for AI-powered generate actions and content creation workflows",
+    "Interactive button for triggering machine learning or AI inference features",
+    "Highlighted action buttons in SaaS dashboards requiring visual emphasis",
+    "Creative tool interfaces needing branded button interactions with sparkle accents",
+    "Onboarding flows or feature announcements requiring attention-grabbing button states"
+  ],
+  "ai_summary": "A minimalist atomic button component featuring a glowing visual effect with sparkle iconography. The button includes click state management with immediate visual feedback through a 200ms active state transition. Designed as a primary CTA for AI-powered features, content generation tools, and creative SaaS applications requiring engaging interactive elements with subtle animation.",
+  "_classifiedAt": "2026-04-23T17:42:57.163Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,39 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-variant",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Submit forms with styled submit buttons",
+    "Trigger actions like delete or confirm with destructive variants",
+    "Create navigation links styled as buttons",
+    "Build icon-only buttons for toolbars and actions",
+    "Add secondary or ghost buttons for less prominent actions"
+  ],
+  "ai_summary": "A shadcn/ui Button component with class-variance-authority for managing multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Uses Radix UI's Slot primitive for composition patterns. Standard interactive button with focus-visible states, disabled states, and hover transitions included.",
+  "_classifiedAt": "2026-04-22T09:14:28.142Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

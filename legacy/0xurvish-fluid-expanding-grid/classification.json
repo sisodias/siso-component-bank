@@ -1,0 +1,36 @@
+{
+  "category": [
+    "card",
+    "media"
+  ],
+  "subcategory": "expanding-gallery-grid",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "media",
+    "e-commerce",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive photo galleries where clicking an image expands it for detailed viewing",
+    "Portfolio grids that expand cards to show additional information on click",
+    "Product showcases with fluid layout transitions between grid and detail views",
+    "Feature highlight sections with animated expanding cards",
+    "Visual content browsers with smooth layout morphing between states"
+  ],
+  "ai_summary": "An interactive fluid gallery grid component where clicking any card causes it to expand while neighboring items compress and reposition. Built with Framer Motion's LayoutGroup for smooth morphing animations, it manages a two-row layout state and dynamically redistributes items when one is selected. The component displays image cards with overlay text and accent colors, making it ideal for portfolios, media galleries, and product showcases.",
+  "_classifiedAt": "2026-04-22T08:50:26.881Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

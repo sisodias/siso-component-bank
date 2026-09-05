@@ -1,0 +1,37 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading-indicator",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display loading state during async operations like data fetching or form submission",
+    "Indicate progress or processing in dashboards and interfaces",
+    "Show waiting state between page transitions or content loads"
+  ],
+  "ai_summary": "A minimalist animated loading indicator featuring three horizontally arranged dots that pulse with scale and opacity animations. Built with Framer Motion for smooth, staggered motion effects. Ideal for displaying loading states in any UI context, from buttons to full-page loaders.",
+  "_classifiedAt": "2026-04-23T11:30:33.692Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

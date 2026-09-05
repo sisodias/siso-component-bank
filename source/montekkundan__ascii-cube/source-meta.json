@@ -1,0 +1,26 @@
+{
+  "id": "montekkundan__ascii-cube",
+  "author": "montekkundan",
+  "slug": "ascii-cube",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@montekkundan/components/ascii-cube",
+  "fetchedAt": "2026-08-29T05:49:21.404Z",
+  "completedAt": "2026-08-29T05:49:24.445Z",
+  "versionedFilename": "code.1748877138879.tsx",
+  "codeReference": "r2://components-code-private/montekkundan/ascii-cube/code.1748877138879.tsx",
+  "codeUrl": "https://cdn.21st.dev/montekkundan/ascii-cube/code.1748877138879.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7784,
+  "sha256": "ccdceaedfb5d25c6965b6e99a9882e712d1cf15df419d0d1ff19a07adfb4e72e",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

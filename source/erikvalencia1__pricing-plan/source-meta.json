@@ -1,0 +1,26 @@
+{
+  "id": "erikvalencia1__pricing-plan",
+  "author": "erikvalencia1",
+  "slug": "pricing-plan",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@erikvalencia1/components/pricing-plan",
+  "fetchedAt": "2026-08-29T04:46:15.390Z",
+  "completedAt": "2026-08-29T04:46:17.662Z",
+  "versionedFilename": "code.1757731908088.tsx",
+  "codeReference": "r2://components-code-private/erikvalencia1/pricing-plan/code.1757731908088.tsx",
+  "codeUrl": "https://cdn.21st.dev/erikvalencia1/pricing-plan/code.1757731908088.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4341,
+  "sha256": "0cbeac5252f043881b3415a514c4e18ab2fbcfdc5bbd5ee8c412ff76381c40a6",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

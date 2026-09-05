@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "checkbox",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Form selection controls where users need to mark items as complete or selected",
+    "Agreement checkboxes for terms of service or newsletter signups",
+    "Filter selection in data tables or e-commerce product filters",
+    "Task completion indicators in project management interfaces"
+  ],
+  "ai_summary": "A minimalist checkbox component built on Radix UI primitives with a checkmark icon indicator. Features standard focus states, disabled state handling, and accessible keyboard navigation. Uses Tailwind CSS for styling with ring focus indicators and proper state management via data attributes.",
+  "_classifiedAt": "2026-04-22T09:15:07.872Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "trophyso__points-levels-timeline",
+  "author": "trophyso",
+  "slug": "points-levels-timeline",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@trophyso/components/points-levels-timeline",
+  "fetchedAt": "2026-08-29T07:40:46.092Z",
+  "completedAt": "2026-08-29T07:40:48.249Z",
+  "versionedFilename": "code.1779989723040.tsx",
+  "codeReference": "r2://components-code-private/larsen66/points-levels-timeline/code.1779989723040.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/points-levels-timeline/code.1779989723040.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7545,
+  "sha256": "ea919b79c13379f2481e0c534224993429040db9c74d5fcc4215fedb5820aeb5",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@reshaped/components/reshaped-progress-bar",
+  "author": "reshaped",
+  "slug": "reshaped-progress-bar",
+  "name": "reshaped-progress-bar",
+  "description": "Progress bar controlled by a value within a 0-100 range by default, with custom min/max boundaries. Comes in medium and small sizes, primary/critical/warning/positive colors plus a media color for use over images and video, and a CSS-driven duration property for timeout animations.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/reshaped/reshaped-progress-bar?api_key=$API_KEY_21ST\"",
+  "id": "reshaped__reshaped-progress-bar",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/reshaped-progress-bar/default/bundle.1783440560086.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/reshaped-progress-bar/default/preview.1783440560086.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

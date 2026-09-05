@@ -1,0 +1,29 @@
+{
+  "category": "media",
+  "subcategory": "animated-gradient-text",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Hero section headlines with eye-catching animated gradient effect to draw attention",
+    "Brand names or logos rendered with a shimmering text effect",
+    "Call-to-action buttons or text that need visual emphasis and polish",
+    "Section headers that require decorative animated typography",
+    "Landing page elements needing a premium, modern text presentation"
+  ],
+  "ai_summary": "An animated gradient text component that applies a horizontally-moving shimmer effect to text using CSS background-clip and Framer Motion. Supports customizable gradient colors, animation duration, and optional hover glow effect. Uses responsive font sizing from 2.5rem to 6rem across breakpoints. Ideal for creating visually striking hero headlines, brand names, or decorative typography in modern web applications.",
+  "_classifiedAt": "2026-04-23T11:30:29.227Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

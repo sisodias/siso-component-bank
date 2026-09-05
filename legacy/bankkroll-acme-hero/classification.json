@@ -1,0 +1,28 @@
+{
+  "category": "navigation",
+  "subcategory": "navbar-header",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Site-wide navigation header for SaaS landing pages",
+    "Product documentation site navigation",
+    "Component library or template marketplace header",
+    "Dark/light theme toggle for user preference",
+    "Mobile-responsive navigation drawer"
+  ],
+  "ai_summary": "A modern navigation header component featuring the Acme brand, responsive navigation links (Docs, Components, Templates, Pricing), dark/light theme toggle with smooth icon transitions, and a mobile hamburger menu using a slide-out sheet. Built with motion/react for subtle animations, includes hover state transitions on links, and uses shadcn/ui primitives (Button, Sheet, Separator) for a clean, professional appearance suitable for SaaS product pages and developer documentation sites.",
+  "_classifiedAt": "2026-04-23T11:31:53.533Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

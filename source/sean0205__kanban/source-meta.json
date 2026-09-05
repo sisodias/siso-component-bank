@@ -1,0 +1,26 @@
+{
+  "id": "sean0205__kanban",
+  "author": "sean0205",
+  "slug": "kanban",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sean0205/components/kanban",
+  "fetchedAt": "2026-08-29T06:57:53.009Z",
+  "completedAt": "2026-08-29T06:57:55.042Z",
+  "versionedFilename": "code.1753099434536.tsx",
+  "codeReference": "r2://components-code-private/sean0205/kanban/code.1753099434536.tsx",
+  "codeUrl": "https://cdn.21st.dev/sean0205/kanban/code.1753099434536.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 14415,
+  "sha256": "7f926da0b5c1fe02e46860bd59fb1c35b0fb3e9f5a360d8bdcda06e52e084cf2",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

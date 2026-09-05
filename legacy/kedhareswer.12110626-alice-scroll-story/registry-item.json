@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "kedhareswer.12110626-alice-scroll-story",
+  "type": "registry:ui",
+  "title": "Kedhareswer.12110626 Alice Scroll Story",
+  "description": "Installed from https://21st.dev/r/kedhareswer.12110626/alice-scroll-story",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "kedhareswer.12110626-alice-scroll-story"
+  ],
+  "files": [
+    {
+      "path": "alice-scroll-story.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/kedhareswer.12110626/alice-scroll-story",
+    "fetchedAt": "2026-04-23T01:16:45.246Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

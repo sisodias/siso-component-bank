@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "audiobook-progress-card",
+  "visual_style": [
+    "glass-morphism",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "e-commerce",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Displaying audiobook content with cover art, metadata, and reading progress in media streaming platforms",
+    "Showing book collection items with author, genre, and completion percentage in e-commerce or library apps",
+    "Tracking reading progress with visual progress bar and remaining pages calculation",
+    "Creating interactive audiobook library cards with category filtering and year information",
+    "Building personalized reading dashboard widgets with progress visualization and cover display"
+  ],
+  "ai_summary": "A glassmorphic audiobook card component displaying book cover, title, author, category, and publication year with a visual progress bar showing pages read versus total pages. Features gradient backgrounds with backdrop blur and semi-transparent borders for a modern, layered aesthetic. Includes progress percentage calculation and pages remaining display for reading tracking applications.",
+  "_classifiedAt": "2026-04-23T01:41:26.348Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

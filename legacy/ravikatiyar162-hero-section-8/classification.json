@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Reusable button component with multiple style variants for consistent UI across applications",
+    "Form submission and action triggers with disabled states",
+    "Navigation links and call-to-action elements",
+    "Icon-only buttons for compact interfaces"
+  ],
+  "ai_summary": "A versatile atomic button component built with Radix UI Slot and class-variance-authority, providing multiple variants (default, destructive, outline, secondary, ghost, link) and sizes for flexible UI composition. Designed for integration into larger component systems like hero sections.",
+  "_classifiedAt": "2026-04-22T09:09:52.453Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

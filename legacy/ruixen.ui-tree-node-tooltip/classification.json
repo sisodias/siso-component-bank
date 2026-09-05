@@ -1,0 +1,34 @@
+{
+  "category": [
+    "overlay",
+    "feedback"
+  ],
+  "subcategory": "radix-tooltip-wrapper",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying contextual information when hovering over tree node elements",
+    "Showing help text or descriptions on interactive components",
+    "Revealing additional details without cluttering the UI",
+    "Providing accessible tooltip information via keyboard navigation"
+  ],
+  "ai_summary": "A lightweight tooltip wrapper built on Radix UI primitives that provides smooth fade, zoom, and slide animations for contextual information display. Features optional arrow rendering, customizable positioning via sideOffset, and integrates with Tailwind CSS for styling. Designed for hover-triggered information reveals in tree structures and general UI contexts.",
+  "_classifiedAt": "2026-04-23T01:51:55.239Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

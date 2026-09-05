@@ -1,0 +1,35 @@
+{
+  "category": "form",
+  "subcategory": "payment-form",
+  "visual_style": [
+    "gradient",
+    "flat",
+    "colorful"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "fintech",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Collecting credit card payment information during e-commerce checkout flows",
+    "Capturing payment details for SaaS subscription signups and billing",
+    "Accepting card payments in fintech mobile and desktop applications",
+    "Verifying card authenticity using Luhn algorithm validation in real-time",
+    "Displaying masked card numbers for secure payment method management"
+  ],
+  "ai_summary": "A sophisticated credit card form component combining input fields and a visual card preview. Features real-time Luhn validation, digit masking for security, and customizable gradient accent rings. The component supports desktop and mobile platforms with a modern, colorful aesthetic. Includes live change callbacks and submit handling for seamless integration into e-commerce checkout, SaaS billing, or fintech payment flows.",
+  "_classifiedAt": "2026-04-23T01:45:49.563Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:34:49.166Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

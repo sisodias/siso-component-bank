@@ -1,0 +1,33 @@
+{
+  "id": "shadcnblockscom__shadcnblocks-com-navbar1",
+  "author": "shadcnblockscom",
+  "slug": "shadcnblocks-com-navbar1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcnblockscom/components/shadcnblocks-com-navbar1",
+  "fetchedAt": "2026-08-29T07:10:29.516Z",
+  "completedAt": "2026-08-29T07:10:30.740Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/shadcnblockscom__shadcnblocks-com-navbar1/code.tsx",
+    "bytes": 1993,
+    "sha256": "8382b52177c3695b8a68814884dd798305c8ff5cb23d03bf5de57ccfeea8d99f",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

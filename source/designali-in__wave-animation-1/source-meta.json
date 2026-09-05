@@ -1,0 +1,33 @@
+{
+  "id": "designali-in__wave-animation-1",
+  "author": "designali-in",
+  "slug": "wave-animation-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/wave-animation-1",
+  "fetchedAt": "2026-08-29T04:22:29.643Z",
+  "completedAt": "2026-08-29T04:22:31.510Z",
+  "versionedFilename": "code.1785439270337-52fe3f1b-93a3-4ba1-ae42-62468a112767.tsx",
+  "codeReference": "r2://components-code-private/designali-in/wave-animation-1/code.1785439270337-52fe3f1b-93a3-4ba1-ae42-62468a112767.tsx",
+  "codeUrl": "https://cdn.21st.dev/designali-in/wave-animation-1/code.1785439270337-52fe3f1b-93a3-4ba1-ae42-62468a112767.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/designali-in__wave-animation-1/code.tsx",
+    "bytes": 4260,
+    "sha256": "c59bcfb0cd9f299def686e00a3139ac85eb34a0bc2598bb52a3428733b51c5cc",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

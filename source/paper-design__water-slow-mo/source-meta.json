@@ -1,0 +1,26 @@
+{
+  "id": "paper-design__water-slow-mo",
+  "author": "paper-design",
+  "slug": "water-slow-mo",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@paper-design/components/water-slow-mo",
+  "fetchedAt": "2026-08-29T06:07:06.241Z",
+  "completedAt": "2026-08-29T06:07:08.397Z",
+  "versionedFilename": "code.1784835157898-71bc3ded-8143-400c-913b-435b82d54796.tsx",
+  "codeReference": "r2://components-code-private/paper-design/water-slow-mo/code.1784835157898-71bc3ded-8143-400c-913b-435b82d54796.tsx",
+  "codeUrl": "https://cdn.21st.dev/paper-design/water-slow-mo/code.1784835157898-71bc3ded-8143-400c-913b-435b82d54796.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

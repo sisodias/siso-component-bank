@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "text-input-field",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "User authentication forms with password visibility toggle",
+    "Search inputs with optional left/right icons",
+    "Form validation with error state styling",
+    "Inline filtering with clearable functionality",
+    "Multi-size input fields for different form layouts"
+  ],
+  "ai_summary": "A versatile form input component with CVA-based variants (default, destructive, ghost) and sizes (sm through xl), featuring optional left/right icon slots, password visibility toggle, clearable functionality, and comprehensive focus/error states. Built with class-variance-authority for consistent theming and follows standard accessibility patterns with focus-visible ring styling.",
+  "_classifiedAt": "2026-04-23T17:08:12.565Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

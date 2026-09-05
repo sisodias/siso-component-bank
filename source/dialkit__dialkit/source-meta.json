@@ -1,0 +1,26 @@
+{
+  "id": "dialkit__dialkit",
+  "author": "dialkit",
+  "slug": "dialkit",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dialkit/components/dialkit",
+  "fetchedAt": "2026-08-29T04:34:21.452Z",
+  "completedAt": "2026-08-29T04:34:23.983Z",
+  "versionedFilename": "code.1783607676608.tsx",
+  "codeReference": "r2://components-code-private/larsen66/dialkit/code.1783607676608.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/dialkit/code.1783607676608.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 312,
+  "sha256": "b3715fb8328671ec4f08c4942760494d457af5ab09eb7e5aba4fa858ff2fb8a5",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

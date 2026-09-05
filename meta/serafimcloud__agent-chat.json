@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@serafimcloud/components/agent-chat",
+  "author": "serafimcloud",
+  "slug": "agent-chat",
+  "name": "agent-chat",
+  "description": "Drop-in chat shell composing a scrollable message list with an input composer at the bottom. Supports user/assistant text bubbles, error states, attachment chips, and a centered empty state. Self-contained port from 21st.dev Agent Elements.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/serafimcloud/agent-chat?api_key=$API_KEY_21ST\"",
+  "id": "serafimcloud__agent-chat",
+  "bundleUrl": null,
+  "previewUrl": null,
+  "harvested": [
+    "preview"
+  ],
+  "usage_count": 47,
+  "demo_id": 12403,
+  "video_url": "https://cdn.21st.dev/21st.dev/agent-chat/empty-centered/video.1777455064509.mp4",
+  "preview": "preview.jpg",
+  "previewVia": "pageCdn"
+}

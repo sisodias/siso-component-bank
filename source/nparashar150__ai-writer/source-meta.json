@@ -1,0 +1,26 @@
+{
+  "id": "nparashar150__ai-writer",
+  "author": "nparashar150",
+  "slug": "ai-writer",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@nparashar150/components/ai-writer",
+  "fetchedAt": "2026-08-29T05:59:19.516Z",
+  "completedAt": "2026-08-29T05:59:21.776Z",
+  "versionedFilename": "code.1769365275806.tsx",
+  "codeReference": "r2://components-code-private/nparashar150/ai-writer/code.1769365275806.tsx",
+  "codeUrl": "https://cdn.21st.dev/nparashar150/ai-writer/code.1769365275806.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 40180,
+  "sha256": "12cfbb07c74a1c160c286b31b75012477adc17ef785ca11f8c648ecddcff26fc",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

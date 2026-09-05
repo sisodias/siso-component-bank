@@ -1,0 +1,26 @@
+{
+  "id": "serafimcloud__code-rain",
+  "author": "serafimcloud",
+  "slug": "code-rain",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@serafimcloud/components/code-rain",
+  "fetchedAt": "2026-08-29T07:01:45.267Z",
+  "completedAt": "2026-08-29T07:01:47.454Z",
+  "versionedFilename": "code.1783761651266.tsx",
+  "codeReference": "r2://components-code-private/serafimcloud/code-rain/code.1783761651266.tsx",
+  "codeUrl": "https://cdn.21st.dev/serafimcloud/code-rain/code.1783761651266.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

@@ -1,0 +1,34 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "hover-link-text-effect",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Interactive text links in navigation menus with animated underline and color transitions on hover",
+    "Call-to-action text elements in marketing pages that respond to user hover with smooth spring animations",
+    "Inline text links within article content that provide visual feedback without distraction"
+  ],
+  "ai_summary": "A lightweight hover-activated link component that animates an underline bar from compact to full height while transitioning text color to a highlight color. Built with motion/react using spring physics for natural-feeling animations. The component is highly reusable, accepts custom tags for semantic HTML flexibility, and uses dynamic CSS variables scaled to font size for consistent visual proportions across different text sizes.",
+  "_classifiedAt": "2026-04-22T08:58:59.779Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pulkitxm__not-found-page",
+  "author": "pulkitxm",
+  "slug": "not-found-page",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@pulkitxm/components/not-found-page",
+  "fetchedAt": "2026-08-29T06:16:11.996Z",
+  "completedAt": "2026-08-29T06:16:15.295Z",
+  "versionedFilename": "code.1783730871392.tsx",
+  "codeReference": "r2://components-code-private/pulkitxm/not-found-page/code.1783730871392.tsx",
+  "codeUrl": "https://cdn.21st.dev/pulkitxm/not-found-page/code.1783730871392.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2216,
+  "sha256": "86cd2cf6ddebaf749cf7b6563a70080c63abcec33b10c7697f00acb6339d9b25",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

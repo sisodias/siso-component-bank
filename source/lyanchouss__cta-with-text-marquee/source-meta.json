@@ -1,0 +1,33 @@
+{
+  "id": "lyanchouss__cta-with-text-marquee",
+  "author": "lyanchouss",
+  "slug": "cta-with-text-marquee",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@lyanchouss/components/cta-with-text-marquee",
+  "fetchedAt": "2026-08-29T05:33:02.291Z",
+  "completedAt": "2026-08-29T05:33:04.474Z",
+  "versionedFilename": "code.1785769215153.tsx",
+  "codeReference": "r2://components-code-private/user_2xFgBhIEcC8WVjxizPEzB14AOkb/cta-with-text-marquee/code.1785769215153.tsx",
+  "codeUrl": "https://cdn.21st.dev/user_2xFgBhIEcC8WVjxizPEzB14AOkb/cta-with-text-marquee/code.1785769215153.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/lyanchouss__cta-with-text-marquee/code.tsx",
+    "bytes": 6014,
+    "sha256": "9931de90a87d00e84dbef00c279588221e3fa7e8437bc6c9118f44615a1d2e52",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

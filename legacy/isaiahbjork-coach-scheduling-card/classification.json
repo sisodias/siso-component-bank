@@ -1,0 +1,31 @@
+{
+  "category": "card",
+  "subcategory": "appointment-booking",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "click-reveal",
+    "keyboard-nav",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fitness",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Book appointment slots with coaches or service providers",
+    "Display coach profile with ratings and review counts",
+    "Navigate between weeks to view available time slots",
+    "Select location from a dropdown for multi-location services",
+    "Filter and choose from available time slots for scheduling"
+  ],
+  "ai_summary": "A scheduling card component for booking appointments with coaches or service providers, featuring a coach profile with ratings, week-based calendar navigation, location selection dropdown, and interactive time slot selection. Built with Framer Motion for smooth animations and includes props for customization, making it ideal for sports, fitness, or service booking platforms.",
+  "_classifiedAt": "2026-04-23T16:44:03.201Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "toggle-switch with color variants",
+  "visual_style": [
+    "flat",
+    "colorful",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "fintech",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Boolean settings toggles in SaaS application preferences",
+    "Feature flag switches in dev-tools interfaces",
+    "Dark/light mode toggle for theme switching",
+    "Permission and access control toggles in admin panels",
+    "Marketing opt-in/out toggles in e-commerce checkout flows"
+  ],
+  "ai_summary": "A customizable toggle switch component with multiple color variants (blue, red, amber, green, teal, purple, pink, gray) and size options. Features smooth transitions, disabled states, optional icons for checked/unchecked states, and flexible label positioning. Built with Tailwind CSS for consistent styling across SaaS, dev-tools, and general application settings interfaces.",
+  "_classifiedAt": "2026-04-23T17:32:09.676Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

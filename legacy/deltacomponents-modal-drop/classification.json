@@ -1,0 +1,30 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "fintech",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action button for forms, landing pages, and dashboard interfaces",
+    "Destructive action triggers with warning variants for delete or remove operations",
+    "Ghost and outline buttons for secondary navigation and menu actions",
+    "Icon-only buttons for compact toolbars and mobile-friendly interfaces",
+    "As-child composable button for integrating with Radix UI primitives and third-party components"
+  ],
+  "ai_summary": "A reusable React button component with CVA-powered variants and sizes, built on Radix UI's Slot for composition. Features standard variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon) with accessible focus rings and disabled states. Minimalist visual style with Tailwind CSS styling suitable for SaaS, e-commerce, and dev-tool interfaces.",
+  "_classifiedAt": "2026-04-22T08:55:47.802Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

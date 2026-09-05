@@ -1,0 +1,26 @@
+{
+  "id": "claude-ai__v-toolbar-1",
+  "author": "claude-ai",
+  "slug": "v-toolbar-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@claude-ai/components/v-toolbar-1",
+  "fetchedAt": "2026-08-29T03:54:56.018Z",
+  "completedAt": "2026-08-29T03:54:58.015Z",
+  "versionedFilename": "code.1782482390828.tsx",
+  "codeReference": "r2://components-code-private/claude-ai/v-toolbar-1/code.1782482390828.tsx",
+  "codeUrl": "https://cdn.21st.dev/claude-ai/v-toolbar-1/code.1782482390828.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4450,
+  "sha256": "50614baa65b78ee0f1f8a925b64808b1f24c0b53ba561bc46420e9df49544b76",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

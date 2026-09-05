@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Submit form data and trigger actions",
+    "Navigate between pages or sections",
+    "Open modals or dialogs",
+    "Toggle visibility of content or features",
+    "Confirm destructive actions like deletion"
+  ],
+  "ai_summary": "A reusable Button component with variant and size props built on Radix UI Slot and class-variance-authority. Supports multiple visual variants including default, destructive, outline, secondary, ghost, and link styles. Standard shadcn/ui pattern for consistent UI across applications.",
+  "_classifiedAt": "2026-04-22T09:17:35.330Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@info-mdshakeeb/components/image-uploader",
+  "author": "info-mdshakeeb",
+  "slug": "image-uploader",
+  "name": "image-uploader",
+  "description": "This is a reusable ImageUploadField React component built with Next.js and Tailwind CSS. It allows users to upload and preview an image with optional error display, loading skeleton, aspect ratio control, and size restriction. The component supports both file and URL inputs and provides clear UI feedback for upload state, errors, and removal actions. It’s designed to integrate cleanly with forms and supports customization via props like disabled, error, defaultImage, and maxSize.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/info-mdshakeeb/image-uploader?api_key=$API_KEY_21ST\"",
+  "id": "info-mdshakeeb__image-uploader",
+  "bundleUrl": "https://cdn.21st.dev/info-mdshakeeb/image-uploader/default/bundle.1748947450680.html",
+  "previewUrl": "https://cdn.21st.dev/info-mdshakeeb/image-uploader/default/preview.1748947450680.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 43,
+  "demo_id": 2542,
+  "video_url": "https://cdn.21st.dev/user_2uAKzKEgupNsq04CnbW6WtzI54M/image-uploader/default/video.1750807302023.mp4"
+}

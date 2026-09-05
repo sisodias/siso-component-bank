@@ -1,0 +1,26 @@
+{
+  "id": "theutkarshmail__delete-bin",
+  "author": "theutkarshmail",
+  "slug": "delete-bin",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theutkarshmail/components/delete-bin",
+  "fetchedAt": "2026-08-29T07:36:41.994Z",
+  "completedAt": "2026-08-29T07:36:44.236Z",
+  "versionedFilename": "code.1755206790794.tsx",
+  "codeReference": "r2://components-code-private/theutkarshmail/delete-bin/code.1755206790794.tsx",
+  "codeUrl": "https://cdn.21st.dev/theutkarshmail/delete-bin/code.1755206790794.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2176,
+  "sha256": "ab7f0245836a287f533a0496579d603c69a862eb1c1b7ea208df4637cb21e916",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

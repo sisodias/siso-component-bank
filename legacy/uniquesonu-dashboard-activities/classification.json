@@ -1,0 +1,35 @@
+{
+  "category": "card",
+  "subcategory": "dashboard-card-primitives",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Building dashboard activity feeds with card-based layouts",
+    "Creating modular data display panels for admin interfaces",
+    "Structuring content in SaaS applications with consistent card components",
+    "Displaying user notifications and event logs in dashboards"
+  ],
+  "ai_summary": "A set of reusable card primitive components (Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter) designed for dashboard activities and data display layouts. Built with React forward refs and Tailwind CSS, these atomic components follow a clean, flat visual style with subtle shadows. Ideal for composing dashboard UIs, admin panels, and data-rich interfaces in SaaS applications.",
+  "_classifiedAt": "2026-04-22T09:18:29.902Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:36:48.352Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

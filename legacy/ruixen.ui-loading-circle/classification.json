@@ -1,0 +1,41 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading-indicator",
+  "visual_style": [
+    "glass-morphism",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "media",
+    "healthcare",
+    "education",
+    "creator-tools",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display loading state during async operations like data fetching or API calls",
+    "Indicate progress during form submissions or page transitions",
+    "Show background processing activity in dashboards and analytics tools",
+    "Provide visual feedback during media uploads or content loading",
+    "Signal that an operation is in progress in real-time collaboration features"
+  ],
+  "ai_summary": "A glass-morphism loading indicator featuring 8 animated ripple circles with gradient fills and backdrop blur effects. The component uses staggered CSS animations to create a mesmerizing pulse effect suitable for any loading state across web and mobile applications.",
+  "_classifiedAt": "2026-04-22T09:12:44.494Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

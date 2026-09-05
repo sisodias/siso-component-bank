@@ -1,0 +1,26 @@
+{
+  "id": "animbits__text-slide-up",
+  "author": "animbits",
+  "slug": "text-slide-up",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@animbits/components/text-slide-up",
+  "fetchedAt": "2026-08-29T03:34:16.096Z",
+  "completedAt": "2026-08-29T03:34:17.690Z",
+  "versionedFilename": "code.1783713828840.tsx",
+  "codeReference": "r2://components-code-private/animbits/text-slide-up/code.1783713828840.tsx",
+  "codeUrl": "https://cdn.21st.dev/animbits/text-slide-up/code.1783713828840.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1169,
+  "sha256": "15194ab2bd8aa789d35e7e7946f68391cfab1cfc51843a2bcc2e0cac28244e70",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

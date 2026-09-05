@@ -1,0 +1,24 @@
+{
+  "category": "input",
+  "subcategory": "toggle-button-group",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Selecting between multiple options in a settings panel",
+    "Toggling boolean states in forms",
+    "Creating segmented controls for view switching",
+    "Filtering content with mutually exclusive options",
+    "Switching between display modes or categories"
+  ],
+  "ai_summary": "A toggle button group component using react-aria-components for accessible toggle controls. Supports default and outline variants with small, medium, and large sizes. Built with class-variance-authority for consistent styling across variants, featuring hover, focus-visible, and selected states with proper accessibility attributes.",
+  "_classifiedAt": "2026-04-22T09:01:35.005Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

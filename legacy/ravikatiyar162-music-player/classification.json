@@ -1,0 +1,31 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "music-player, audio-player, media-controls",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Audio playback controls for music streaming web applications",
+    "Podcast episode player with progress tracking and time display",
+    "Background music player for productivity or focus applications",
+    "Audio preview player for music marketplaces or sample libraries",
+    "Interactive audio player for educational content or training platforms"
+  ],
+  "ai_summary": "A functional music player component featuring playback controls including play/pause, skip forward/back, shuffle, and repeat modes. The component includes a progress bar with visual feedback, time tracking display, and customizable props for album art, song title, artist name, and audio source. Built with framer-motion for smooth animations and uses standard HTML5 audio for media playback.",
+  "_classifiedAt": "2026-04-23T01:47:37.101Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

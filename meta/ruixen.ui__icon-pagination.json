@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/icon-pagination",
+  "author": "ruixen.ui",
+  "slug": "icon-pagination",
+  "name": "icon-pagination",
+  "description": "This Icon-Based Contextual Pagination component transforms traditional pagination into an interactive, visually intuitive experience. Instead of showing just numbers, each page is represented by an icon or mini preview, giving users a clear visual cue of the content. The active page is highlighted with scale, color, and border effects, making it instantly recognizable. For large numbers of pages, the component intelligently uses ellipsis (...) to keep the interface compact while still showing nearby pages and first/last pages. Hovering over an icon displays a tooltip, providing additional context for that page. Navigation is made easy with previous and next arrows, and a built-in onChange callback allows the parent app to track the current page. Fully light and dark theme compatible, this component is ideal for modern dashboards, creative apps, or any interface where a visual, intuitive pagination system enhances user experience.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/icon-pagination?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__icon-pagination",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/icon-pagination/default/bundle.1758446482275.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/icon-pagination/default/preview.1758446482275.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 12,
+  "demo_id": 7873,
+  "video_url": "https://cdn.21st.dev/ruixen.ui/icon-pagination/default/video.1758446482275.mp4"
+}

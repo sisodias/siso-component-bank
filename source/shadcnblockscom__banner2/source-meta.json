@@ -1,0 +1,26 @@
+{
+  "id": "shadcnblockscom__banner2",
+  "author": "shadcnblockscom",
+  "slug": "banner2",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcnblockscom/components/banner2",
+  "fetchedAt": "2026-08-29T07:09:30.070Z",
+  "completedAt": "2026-08-29T07:09:32.289Z",
+  "versionedFilename": "code.1751700265939.tsx",
+  "codeReference": "r2://components-code-private/user_2rguB0QxcSITG2Y7ivePFsKsUU6/banner2/code.1751700265939.tsx",
+  "codeUrl": "https://cdn.21st.dev/user_2rguB0QxcSITG2Y7ivePFsKsUU6/banner2/code.1751700265939.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1601,
+  "sha256": "baa931715ec98eceb4c67f11862d4843288f3ce588c4b8709c411925483b58f8",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tom_ui__tweet",
+  "author": "tom_ui",
+  "slug": "tweet",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@tom_ui/components/tweet",
+  "fetchedAt": "2026-08-29T07:39:06.456Z",
+  "completedAt": "2026-08-29T07:39:08.750Z",
+  "versionedFilename": "code.1773101178531.tsx",
+  "codeReference": "r2://components-code-private/larsen66/tweet/code.1773101178531.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/tweet/code.1773101178531.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 11974,
+  "sha256": "e33b710fd736683ed8aa3b0af666da5ab7893336beffd521c9acfa1e9729cbd3",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

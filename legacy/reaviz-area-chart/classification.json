@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "area-chart",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying time-series data trends over a period of days",
+    "Visualizing metric changes like Mean Time to Respond",
+    "Building monitoring dashboards for performance tracking",
+    "Showing data comparisons across multiple time intervals",
+    "Creating interactive data reports for business analytics"
+  ],
+  "ai_summary": "Reaviz Area Chart component for rendering time-series data visualization with customizable gradient fills. Supports metric cards with icons for displaying KPIs alongside chart trends. Uses linear axes with tick labels and gridlines for data clarity.",
+  "_classifiedAt": "2026-04-23T17:14:00.535Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

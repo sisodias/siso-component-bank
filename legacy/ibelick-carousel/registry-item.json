@@ -1,0 +1,46 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ibelick-carousel",
+  "type": "registry:ui",
+  "title": "Ibelick Carousel",
+  "description": "Installed from https://21st.dev/r/ibelick/carousel",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ibelick-carousel"
+  ],
+  "files": [
+    {
+      "path": "carousel.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "lucide-react",
+    "motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ibelick/carousel",
+    "fetchedAt": "2026-04-23T03:05:09.706Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": [],
+    "canonicalOf": {
+      "source": "motion-primitives",
+      "slug": "carousel"
+    },
+    "duplicateSignalScore": 0.75
+  }
+}

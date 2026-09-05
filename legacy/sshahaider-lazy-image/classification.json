@@ -1,0 +1,24 @@
+{
+  "category": "media",
+  "subcategory": "image-container",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying images within a controlled aspect ratio container",
+    "Building responsive image layouts in web applications",
+    "Creating consistent image containers for media galleries",
+    "Wrapping images for lazy loading implementations",
+    "Maintaining proportional image sizing across devices"
+  ],
+  "ai_summary": "A lightweight media component that wraps Radix UI's AspectRatio primitive for displaying images within constrained proportions. This atomic component provides a foundation for lazy-loaded image implementations, allowing developers to maintain consistent aspect ratios while deferring image loading for improved performance.",
+  "_classifiedAt": "2026-04-23T01:53:32.340Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

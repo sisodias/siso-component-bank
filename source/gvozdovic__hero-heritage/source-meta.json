@@ -1,0 +1,26 @@
+{
+  "id": "gvozdovic__hero-heritage",
+  "author": "gvozdovic",
+  "slug": "hero-heritage",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@gvozdovic/components/hero-heritage",
+  "fetchedAt": "2026-08-29T04:53:08.244Z",
+  "completedAt": "2026-08-29T04:53:10.536Z",
+  "versionedFilename": "code.1781626372900.tsx",
+  "codeReference": "r2://components-code-private/dzekuza/hero-heritage/code.1781626372900.tsx",
+  "codeUrl": "https://cdn.21st.dev/dzekuza/hero-heritage/code.1781626372900.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3805,
+  "sha256": "400e786a6195958b8ec09b273db154e0fedf31b048d8e9b64f9c978a50e8b292",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

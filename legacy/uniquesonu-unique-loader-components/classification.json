@@ -1,0 +1,35 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading-indicator",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display a loading state while fetching data from an API",
+    "Indicate processing time during form submissions",
+    "Show activity during page transitions in SPAs",
+    "Provide visual feedback during async operations",
+    "Keep users engaged while waiting for content to load"
+  ],
+  "ai_summary": "A set of minimalist loading indicator components featuring animated bouncing dots with smooth easing transitions. LoaderOne displays three vertically bouncing spheres with gradient fills, while LoaderTwo shows horizontally oscillating elements. Built with framer-motion for fluid infinite loop animations, these components provide clean visual feedback during loading states across any application context.",
+  "_classifiedAt": "2026-04-23T17:40:42.387Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

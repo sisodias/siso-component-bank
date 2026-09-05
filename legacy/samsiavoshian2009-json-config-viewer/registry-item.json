@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "samsiavoshian2009-json-config-viewer",
+  "type": "registry:ui",
+  "title": "Samsiavoshian2009 Json Config Viewer",
+  "description": "Installed from https://21st.dev/r/samsiavoshian2009/json-config-viewer",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "samsiavoshian2009-json-config-viewer"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "json-config-viewer.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/samsiavoshian2009/json-config-viewer",
+    "fetchedAt": "2026-04-23T01:17:34.625Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

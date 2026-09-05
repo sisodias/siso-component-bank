@@ -1,0 +1,33 @@
+{
+  "category": "media",
+  "subcategory": "text-reveal-animation",
+  "visual_style": [
+    "colorful",
+    "flat",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero section headlines with letter-by-letter animated reveals on page load",
+    "Interactive typography displays where hovering reveals overlaid imagery",
+    "Landing page impact text with spring-based animation effects",
+    "Creative portfolio showcases requiring animated text elements",
+    "Marketing pages needing engaging visual typography"
+  ],
+  "ai_summary": "A Framer Motion-powered text reveal component that animates individual letters sequentially with configurable delays and spring physics. On hover, each letter reveals an overlaid image or text with smooth transitions. Features customizable colors, timing, and image sources. Ideal for hero sections, landing pages, and creative websites needing impactful animated typography.",
+  "_classifiedAt": "2026-04-23T16:44:43.573Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

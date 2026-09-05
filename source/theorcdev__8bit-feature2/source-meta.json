@@ -1,0 +1,26 @@
+{
+  "id": "theorcdev__8bit-feature2",
+  "author": "theorcdev",
+  "slug": "8bit-feature2",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theorcdev/components/8bit-feature2",
+  "fetchedAt": "2026-08-29T07:32:56.827Z",
+  "completedAt": "2026-08-29T07:32:59.058Z",
+  "versionedFilename": "code.1780524886216.tsx",
+  "codeReference": "r2://components-code-private/larsen66/8bit-feature2/code.1780524886216.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/8bit-feature2/code.1780524886216.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3046,
+  "sha256": "7f37e6188f226907f3fab32bf71019cf8acf8025c4627c2d8a78856aedd33b87",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

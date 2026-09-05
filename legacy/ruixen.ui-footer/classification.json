@@ -1,0 +1,35 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Form submission triggers with default, destructive, and secondary variants",
+    "Navigation actions using ghost and link variants",
+    "Icon-only buttons for compact toolbar interfaces",
+    "Accessible interactive elements with focus-visible states and keyboard support",
+    "Composed into larger components via asChild prop with Radix Slot"
+  ],
+  "ai_summary": "A reusable Button component with 6 style variants (default, destructive, outline, secondary, ghost, link) and 4 size options (default, sm, lg, icon). Built on Radix UI primitives with class-variance-authority for type-safe variant management. Supports composition via asChild prop, accessible focus states, and disabled states. Clean flat design with standard Tailwind styling suitable for any modern web application.",
+  "_classifiedAt": "2026-04-23T17:18:18.456Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "scan-loader",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying loading states during barcode scanning operations in retail applications",
+    "Showing progress feedback while processing product lookups in inventory systems",
+    "Visual loading indicator for scanning features in warehouse management apps",
+    "Animated feedback component during data synchronization in POS systems",
+    "Loading animation for any application feature involving scanning or processing"
+  ],
+  "ai_summary": "A visually striking animated loader component featuring text with a horizontal scanning effect that sweeps across the content. The component displays the word 'Barcode' with a glowing red/pink scan line animation, supporting hover state transitions and dark mode. Perfect for retail, e-commerce, or dev-tool interfaces requiring visual feedback during scanning operations.",
+  "_classifiedAt": "2026-04-23T01:44:14.741Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

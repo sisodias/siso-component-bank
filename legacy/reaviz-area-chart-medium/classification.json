@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "analytics-dashboard-chart",
+  "visual_style": [
+    "gradient",
+    "colorful"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying time-series data with an interactive area chart for trend analysis",
+    "Showing statistical metrics with animated count-up effects and trend indicators",
+    "Monitoring KPIs with customizable time period filtering",
+    "Comparing performance metrics with visual trend representations",
+    "Building analytics dashboards with incident tracking and detailed metrics"
+  ],
+  "ai_summary": "A comprehensive analytics dashboard component featuring a Reaviz area chart with gradient fills, animated statistical cards showing incident counts and trends, and detailed metrics with icons. Uses framer-motion for entrance animations and react-countup for number animations. Designed for displaying temporal data with supporting KPIs and trend comparisons across selectable time periods.",
+  "_classifiedAt": "2026-04-23T17:14:13.604Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "toggle-switch",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Toggle boolean settings in forms and dashboards",
+    "Enable or disable features in application settings",
+    "Control notification preferences",
+    "Switch between dark/light mode or theme options",
+    "Toggle visibility of content or sections"
+  ],
+  "ai_summary": "A Radix UI-based accessible switch component with CVA-driven variant customization supporting multiple sizes (sm, default, lg, xl) and color schemes (default, secondary). Built with motion/react for smooth thumb transitions and follows Tailwind CSS conventions. The component is fully accessible with focus-visible states and disabled handling, suitable for any industry requiring toggle functionality.",
+  "_classifiedAt": "2026-04-23T17:09:43.351Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

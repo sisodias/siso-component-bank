@@ -1,0 +1,30 @@
+{
+  "category": "navigation",
+  "subcategory": "expand-collapse-toggle",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Toggle visibility of expanded content sections in lists or articles",
+    "Reveal additional items in paginated or loaded content feeds",
+    "Control accordion-style collapsible content panels",
+    "Expand preview text to show full descriptions",
+    "Toggle between condensed and expanded views in dashboards"
+  ],
+  "ai_summary": "A minimalist Show More/Show Less toggle component with animated chevron rotation. Features horizontal divider lines that expand to fill available width, using Geist design system styling. The button controls content visibility with a smooth 200ms rotation animation on the arrow icon. Supports noBorder prop for flexible layout integration.",
+  "_classifiedAt": "2026-04-23T17:31:11.262Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

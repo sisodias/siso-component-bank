@@ -1,0 +1,26 @@
+{
+  "id": "cnippet.dev__textarea",
+  "author": "cnippet.dev",
+  "slug": "textarea",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@cnippet.dev/components/textarea",
+  "fetchedAt": "2026-08-29T03:57:32.483Z",
+  "completedAt": "2026-08-29T03:57:34.171Z",
+  "versionedFilename": "code.1785539105535-800057b8-a46a-42bf-b79c-a74a19c075e1.tsx",
+  "codeReference": "r2://components-code-private/cnippet.dev/textarea/code.1785539105535-800057b8-a46a-42bf-b79c-a74a19c075e1.tsx",
+  "codeUrl": "https://cdn.21st.dev/cnippet.dev/textarea/code.1785539105535-800057b8-a46a-42bf-b79c-a74a19c075e1.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

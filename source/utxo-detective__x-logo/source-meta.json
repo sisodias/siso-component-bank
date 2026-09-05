@@ -1,0 +1,26 @@
+{
+  "id": "utxo-detective__x-logo",
+  "author": "utxo-detective",
+  "slug": "x-logo",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@utxo-detective/components/x-logo",
+  "fetchedAt": "2026-08-29T07:53:13.674Z",
+  "completedAt": "2026-08-29T07:53:14.783Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null
+}

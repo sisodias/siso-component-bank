@@ -1,0 +1,31 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "product-display",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying individual products in e-commerce catalogs and marketplaces",
+    "Showing featured or highlighted items with status badges",
+    "Product comparison grids in SaaS applications",
+    "New arrival or promotional product highlights",
+    "Compact product previews in shopping cart previews"
+  ],
+  "ai_summary": "A product card component featuring a badge variant system for highlighting product information like status, category, or labels. Built with Tailwind CSS and class-variance-authority for consistent styling. The card includes hover interactions on badge elements and follows a clean, minimalist visual approach suitable for modern e-commerce and SaaS product displays.",
+  "_classifiedAt": "2026-04-23T11:32:56.972Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

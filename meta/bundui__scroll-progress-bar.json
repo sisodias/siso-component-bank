@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@bundui/components/scroll-progress-bar",
+  "author": "bundui",
+  "slug": "scroll-progress-bar",
+  "name": "scroll-progress-bar",
+  "description": "The Scroll Progress Bar component enhances user experience by providing a visually dynamic indicator as the user scrolls through the page. It visually informs users how much of the page has been scrolled, making it especially useful for longer content. Unlike static progress bars, this animated indicator offers a more modern and interactive experience. The scroll bar can be configured as a circular or linear bar and can be positioned in specific corners of the page, such as the bottom-right or top-left. Built using Framer Motion and Tailwind CSS, the Scroll Progress Bar ensures smooth transitions and an aesthetically pleasing design.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/bundui/scroll-progress-bar?api_key=$API_KEY_21ST\"",
+  "id": "bundui__scroll-progress-bar",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1032.html",
+  "previewUrl": "https://cdn.21st.dev/user_bundui/scroll-progress-bar.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 51,
+  "demo_id": 1032,
+  "video_url": "https://cdn.21st.dev/user_bundui/scroll-progress-bar/1032/video.mp4"
+}

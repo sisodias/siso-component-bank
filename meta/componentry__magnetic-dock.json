@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@componentry/components/magnetic-dock",
+  "author": "componentry",
+  "slug": "magnetic-dock",
+  "name": "magnetic-dock",
+  "description": "A macOS-style dock with magnetic hover scaling, spring physics, tooltips, badges, and active indicators for navigation bars.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/componentry/magnetic-dock?api_key=$API_KEY_21ST\"",
+  "id": "componentry__magnetic-dock",
+  "bundleUrl": "https://cdn.21st.dev/componentry/magnetic-dock/default/bundle.1783710510075.html",
+  "previewUrl": "https://cdn.21st.dev/componentry/magnetic-dock/default/preview.1783710510075.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

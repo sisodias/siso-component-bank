@@ -1,0 +1,26 @@
+{
+  "id": "uniquesonu__detail-viewer",
+  "author": "uniquesonu",
+  "slug": "detail-viewer",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uniquesonu/components/detail-viewer",
+  "fetchedAt": "2026-08-29T07:48:02.105Z",
+  "completedAt": "2026-08-29T07:48:04.611Z",
+  "versionedFilename": "code.1760093408621.tsx",
+  "codeReference": "r2://components-code-private/uniquesonu/detail-viewer/code.1760093408621.tsx",
+  "codeUrl": "https://cdn.21st.dev/uniquesonu/detail-viewer/code.1760093408621.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5319,
+  "sha256": "9a8a004447fed48ddb1b18c18f08fac7fd1628ee0355b59b9007e8caad9c3838",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

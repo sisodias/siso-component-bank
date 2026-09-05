@@ -1,0 +1,26 @@
+{
+  "id": "m.kumailalirajpoot__quantum-loader",
+  "author": "m.kumailalirajpoot",
+  "slug": "quantum-loader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@m.kumailalirajpoot/components/quantum-loader",
+  "fetchedAt": "2026-08-29T05:34:02.749Z",
+  "completedAt": "2026-08-29T05:34:04.823Z",
+  "versionedFilename": "code.1769628650040.tsx",
+  "codeReference": "r2://components-code-private/m.kumailalirajpoot/quantum-loader/code.1769628650040.tsx",
+  "codeUrl": "https://cdn.21st.dev/m.kumailalirajpoot/quantum-loader/code.1769628650040.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4601,
+  "sha256": "05caca9e6de7987fb913e302b2b8ae2b1ec31e0a5a334a515962496508266211",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

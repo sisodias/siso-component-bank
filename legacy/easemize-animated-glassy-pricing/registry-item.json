@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "easemize-animated-glassy-pricing",
+  "type": "registry:ui",
+  "title": "Easemize Animated Glassy Pricing",
+  "description": "Installed from https://21st.dev/r/easemize/animated-glassy-pricing",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "easemize-animated-glassy-pricing"
+  ],
+  "files": [
+    {
+      "path": "animated-glassy-pricing.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "multi-type-ripple-buttons.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/easemize/animated-glassy-pricing",
+    "fetchedAt": "2026-04-23T03:03:34.577Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

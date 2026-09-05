@@ -1,0 +1,26 @@
+{
+  "id": "gvozdovic__hero-natural",
+  "author": "gvozdovic",
+  "slug": "hero-natural",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@gvozdovic/components/hero-natural",
+  "fetchedAt": "2026-08-29T04:53:12.765Z",
+  "completedAt": "2026-08-29T04:53:14.639Z",
+  "versionedFilename": "code.1781626241680.tsx",
+  "codeReference": "r2://components-code-private/dzekuza/hero-natural/code.1781626241680.tsx",
+  "codeUrl": "https://cdn.21st.dev/dzekuza/hero-natural/code.1781626241680.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3942,
+  "sha256": "490c57bfc03cc1400bc8fb387b3256614fe24cab60c3ce2e18daf13fd33323c6",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

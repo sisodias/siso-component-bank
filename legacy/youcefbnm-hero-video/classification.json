@@ -1,0 +1,30 @@
+{
+  "category": "hero",
+  "subcategory": "video-hero-with-animations",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero section with animated video background and scroll-triggered text reveals",
+    "Product showcase pages with staggered entrance animations",
+    "Portfolio or media sites featuring video content with cinematic entrance effects",
+    "Marketing pages with scroll-based parallax-like motion effects",
+    "Brand story pages with blur-to-focus and scale animations"
+  ],
+  "ai_summary": "A hero video component with scroll-triggered and viewport-based animations using Framer Motion. Features spring physics, blur effects, directional entrance animations (left, right, top, bottom), scale transforms, and staggered child reveals. Designed for modern landing pages requiring cinematic video presentation with fluid motion effects and professional polish.",
+  "_classifiedAt": "2026-04-23T17:45:09.432Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

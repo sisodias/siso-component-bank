@@ -1,0 +1,39 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "badge-label",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying status labels with semantic variants like default, secondary, destructive, or outline styles",
+    "Showing category tags or metadata in compact form",
+    "Indicating counts or numeric badges with color-coded variants",
+    "Creating pill-shaped labels for UI elements requiring visual categorization"
+  ],
+  "ai_summary": "A lightweight Badge component from shadcn/ui with four style variants (default, secondary, destructive, outline) for displaying labels, tags, and status indicators. Built with class-variance-authority for consistent theming and includes accessibility-focused focus rings. Designed as a reusable atomic component suitable for any industry or platform.",
+  "_classifiedAt": "2026-04-22T09:16:00.509Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

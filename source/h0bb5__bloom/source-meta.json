@@ -1,0 +1,26 @@
+{
+  "id": "h0bb5__bloom",
+  "author": "h0bb5",
+  "slug": "bloom",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@h0bb5/components/bloom",
+  "fetchedAt": "2026-08-29T04:53:30.389Z",
+  "completedAt": "2026-08-29T04:53:32.247Z",
+  "versionedFilename": "code.1750323441276.tsx",
+  "codeReference": "r2://components-code-private/h0bb5/bloom/code.1750323441276.tsx",
+  "codeUrl": "https://cdn.21st.dev/h0bb5/bloom/code.1750323441276.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1557,
+  "sha256": "42b27eb2b2441a4b9a55c9df4bf28abf154d34369010931ba77b186e8358e3cc",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

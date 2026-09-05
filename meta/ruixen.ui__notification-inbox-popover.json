@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/notification-inbox-popover",
+  "author": "ruixen.ui",
+  "slug": "notification-inbox-popover",
+  "name": "notification-inbox-popover",
+  "description": "This Notification Inbox Popover provides a clean, inbox-style experience for managing alerts directly within the app. Users can toggle between All and Unread notifications using tabs, while each notification is displayed with a relevant Lucide icon, bold styling for unread items, and a timestamp for context. A small dot indicator reinforces which items are new. The design now also includes a “Mark all as read” option in the header, allowing users to quickly clear unread items in one click. Combined with the footer’s “View all notifications” action, this layout balances clarity and efficiency, making it well-suited for SaaS dashboards, admin panels, or productivity apps where streamlined notification handling is essential.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/notification-inbox-popover?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__notification-inbox-popover",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/notification-inbox-popover/default/bundle.1758997194975.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/notification-inbox-popover/default/preview.1758997194974.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 154,
+  "demo_id": 8245,
+  "video_url": "https://cdn.21st.dev/user_2y5Wd5l713ZIFYjX19aZXSyXd6b/notification-inbox-popover/default/video.1786566397953.mp4"
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@unlumen/components/count-up",
+  "author": "unlumen",
+  "slug": "count-up",
+  "name": "count-up",
+  "description": "An animated number counter that springs to its target value when it enters the viewport, with support for decimals, thousands separators, count direction, and per-digit slide, fade, and blur effects.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/unlumen/count-up?api_key=$API_KEY_21ST\"",
+  "id": "unlumen__count-up",
+  "bundleUrl": "https://cdn.21st.dev/unlumen/count-up/default/bundle.1784354297145-e0f233b1-2265-483b-a513-9d21626a0db1.html",
+  "previewUrl": "https://cdn.21st.dev/unlumen/count-up/default/preview.1784354297145-e0f233b1-2265-483b-a513-9d21626a0db1.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

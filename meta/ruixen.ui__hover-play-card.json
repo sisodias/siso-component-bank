@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/hover-play-card",
+  "author": "ruixen.ui",
+  "slug": "hover-play-card",
+  "name": "hover-play-card",
+  "description": "This HoverPlay Video Card component is a clean and interactive media element built with Shadcn UI. It enhances the video viewing experience by blending hover and click interactions into one intuitive design. When a user hovers over the card, the video automatically starts playing in a muted state, giving a quick preview without disrupting the browsing flow. On mouse leave, the video pauses, maintaining focus on the card. A subtle play/pause button overlay ensures users can take control — clicking the button will start or stop playback regardless of hover, and once clicked, the video continues with sound enabled. The design adapts seamlessly to both light and dark themes.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/hover-play-card?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__hover-play-card",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/hover-play-card/default/bundle.1757867496156.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/hover-play-card/default/preview.1757867496156.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 74,
+  "demo_id": 7487,
+  "video_url": "https://cdn.21st.dev/user_2y5Wd5l713ZIFYjX19aZXSyXd6b/hover-play-card/default/video.1786147324927.mp4"
+}

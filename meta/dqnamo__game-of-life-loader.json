@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@dqnamo/components/game-of-life-loader",
+  "author": "dqnamo",
+  "slug": "game-of-life-loader",
+  "name": "game-of-life-loader",
+  "description": "A tiny React canvas component for ambient loading states. Renders a softly fading Conway's Game of Life simulation behind your content — deterministic seeding, reduced-motion support, theme-aware color, and pause-when-hidden. Fully typed props for cell size, density, fade, and step interval.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/dqnamo/game-of-life-loader?api_key=$API_KEY_21ST\"",
+  "id": "dqnamo__game-of-life-loader",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/game-of-life-loader/default/bundle.1783003848661.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/game-of-life-loader/default/preview.1783003848661.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

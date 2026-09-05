@@ -1,0 +1,35 @@
+{
+  "category": [
+    "form",
+    "input"
+  ],
+  "subcategory": "auth-button-variant-system",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Sign-up and registration forms requiring styled action buttons",
+    "Authentication flows needing destructive, outline, or default button variants",
+    "Dashboard CTAs with loading states for async operations",
+    "E-commerce checkout and conversion action buttons",
+    "Form submission buttons with icon support for visual hierarchy"
+  ],
+  "ai_summary": "A flexible button component system with multiple visual variants (default, destructive, outline, secondary, ghost, link) and size options (sm, default, lg, xl, icon). Built with Radix UI Slot and class-variance-authority for consistent styling. Supports loading states, left/right icon slots, and proper keyboard accessibility with focus-visible ring effects. Designed for authentication flows, form submissions, and conversion-oriented UI patterns in SaaS and e-commerce applications.",
+  "_classifiedAt": "2026-04-23T01:45:50.787Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/multi-month-calendar",
+  "author": "ruixen.ui",
+  "slug": "multi-month-calendar",
+  "name": "multi-month-calendar",
+  "description": "This Multi-Month Calendar component is a fully responsive, theme-aware date picker built on top of React DayPicker and styled with shadcn/ui. It supports both single-date selection and range selection, making it versatile for use cases like booking systems, scheduling tools, or analytics dashboards. The component highlights selected dates in a black-and-white scheme for maximum clarity across light and dark themes: single dates and range start/end points are shown with a solid black (light) or white (dark) background, while the range middle days are subtly marked with a lighter gray in light mode and a darker gray in dark mode. The design ensures a clean, modern look with smooth rounded edges for contiguous ranges and accessible focus states. Additional features include configurable number of calendars, year and month dropdowns, and a clear separation of demo and component code for easy integration. This makes it a robust, elegant solution for projects requiring a customizable multi-month calendar UI.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/multi-month-calendar?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__multi-month-calendar",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/multi-month-calendar/default/bundle.1758954438006.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/multi-month-calendar/default/preview.1758954438006.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 39,
+  "demo_id": 8211,
+  "video_url": null
+}

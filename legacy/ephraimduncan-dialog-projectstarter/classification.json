@@ -1,0 +1,28 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "dialog-overlay-form",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Opening modal dialogs for project initialization workflows",
+    "Displaying form elements within overlay containers",
+    "Creating multi-step dialog flows with select inputs",
+    "Providing accessible dialog interfaces using Radix primitives"
+  ],
+  "ai_summary": "A Radix UI-based dialog component with integrated form elements including labels, select dropdowns, separators, and multiple button variants. Built as a project starter template with CVA-powered button styling and Tailwind CSS theming. Provides a clean, accessible modal interface for creating initialization workflows and multi-step dialogs with consistent design language.",
+  "_classifiedAt": "2026-04-23T16:39:08.761Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

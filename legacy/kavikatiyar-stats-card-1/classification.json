@@ -1,0 +1,33 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "stats-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying key performance metrics and statistics in dashboard layouts",
+    "Organizing content into structured sections with headers and footers",
+    "Creating summary cards for financial or analytics dashboards",
+    "Building product showcase cards for e-commerce listings",
+    "Forming the base structure for any card-based UI layout"
+  ],
+  "ai_summary": "A flexible card component system providing Card, CardHeader, CardTitle, CardDescription, CardContent, and CardFooter subcomponents for building structured content containers. Uses forward refs for proper DOM access and a className utility for styling composition. Designed as a foundational building block for statistics displays and content organization in dashboard or listing interfaces.",
+  "_classifiedAt": "2026-04-23T01:41:47.044Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

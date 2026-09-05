@@ -1,0 +1,26 @@
+{
+  "id": "daiwiikharihar__text-reveal",
+  "author": "daiwiikharihar",
+  "slug": "text-reveal",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@daiwiikharihar/components/text-reveal",
+  "fetchedAt": "2026-08-29T04:07:00.212Z",
+  "completedAt": "2026-08-29T04:07:02.146Z",
+  "versionedFilename": "code.1770138201094.tsx",
+  "codeReference": "r2://components-code-private/daiwiikharihar17147/text-reveal/code.1770138201094.tsx",
+  "codeUrl": "https://cdn.21st.dev/daiwiikharihar17147/text-reveal/code.1770138201094.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6039,
+  "sha256": "3be326f0e371ea1edb62c010e7c79d38ad294ef558905a4165d20df63794f415",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

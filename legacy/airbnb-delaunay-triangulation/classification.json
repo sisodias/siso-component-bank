@@ -1,0 +1,35 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "generative-geometric-visualization",
+  "visual_style": [
+    "gradient",
+    "colorful",
+    "3d"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "system"
+  ],
+  "use_cases": [
+    "Interactive landing page hero sections with dynamic geometric backgrounds",
+    "Portfolio or creative showcase pages featuring generative art",
+    "Data visualization dashboards with artistic geometric elements",
+    "Product pages or marketing sites seeking unique visual differentiation"
+  ],
+  "ai_summary": "An interactive Delaunay triangulation visualization component that renders 150 seeded points connected into geometric triangles with a purple-teal gradient. Uses visx libraries for computation and SVG rendering, featuring mouse hover interactions that highlight individual triangles. Suitable for creative portfolios, landing pages, or any context needing generative geometric art with responsive sizing.",
+  "_classifiedAt": "2026-04-23T11:29:35.758Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

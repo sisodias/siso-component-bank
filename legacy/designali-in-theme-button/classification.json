@@ -1,0 +1,44 @@
+{
+  "category": [
+    "form",
+    "input"
+  ],
+  "subcategory": "button-variant-system",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary action triggers in forms and interfaces",
+    "Destructive action confirmation buttons",
+    "Secondary navigation and tool actions",
+    "Ghost-style contextual buttons for toolbars",
+    "Icon-only buttons for compact UI areas"
+  ],
+  "ai_summary": "A versatile button component system with 6 variants (default, destructive, outline, secondary, ghost, link) and 4 sizes (default, small, large, icon). Built with Radix UI Slot for composition and class-variance-authority for type-safe variant management. Includes full accessibility support with focus-visible rings and disabled states, making it suitable as a foundational UI element across any React application.",
+  "_classifiedAt": "2026-04-23T16:33:27.437Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

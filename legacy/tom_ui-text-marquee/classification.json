@@ -1,0 +1,34 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "vertical-scrolling-text-animation",
+  "visual_style": [
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying vertically scrolling testimonials or customer quotes in an animated showcase section",
+    "Creating animated announcements or news ticker effects for landing pages",
+    "Implementing scrolling feature lists or benefit highlights in hero sections",
+    "Adding dynamic text content animation for branding or promotional displays",
+    "Building auto-scrolling partner logos or brand name displays"
+  ],
+  "ai_summary": "A vertical text marquee component from tom_ui that creates smooth infinite scroll animations for text content. Uses CSS keyframes with configurable speed, height, and mask gradient for elegant edge fade effects. The component renders children in a seamless vertical loop, ideal for displaying testimonials, announcements, or feature lists in a visually engaging animated format. Pure CSS animation with no JavaScript dependencies.",
+  "_classifiedAt": "2026-04-22T09:18:21.817Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

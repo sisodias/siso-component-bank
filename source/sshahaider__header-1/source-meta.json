@@ -1,0 +1,26 @@
+{
+  "id": "sshahaider__header-1",
+  "author": "sshahaider",
+  "slug": "header-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sshahaider/components/header-1",
+  "fetchedAt": "2026-08-29T07:26:05.213Z",
+  "completedAt": "2026-08-29T07:26:07.444Z",
+  "versionedFilename": "code.1760511000561.tsx",
+  "codeReference": "r2://components-code-private/sshahaider/header-1/code.1760511000561.tsx",
+  "codeUrl": "https://cdn.21st.dev/sshahaider/header-1/code.1760511000561.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6420,
+  "sha256": "61da60b042c9aa7981462d9ab9bc30b1295c2a346ef1a3bc24a026cfd29ef3b9",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@shun0tter/components/calendar",
+  "author": "shun0tter",
+  "slug": "calendar",
+  "name": "calendar",
+  "description": "An alternative to the Calendar on shadcn. Features animations when switching months. Displays multiple months side by side. Includes a date click event.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/shun0tter/calendar?api_key=$API_KEY_21ST\"",
+  "id": "shun0tter__calendar",
+  "bundleUrl": "https://cdn.21st.dev/shun0tter/calendar/default/bundle.1776403224946.html",
+  "previewUrl": "https://cdn.21st.dev/shun0tter/calendar/default/preview.1776403224946.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "hero_ui__heroui-badge",
+  "author": "hero_ui",
+  "slug": "heroui-badge",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@hero_ui/components/heroui-badge",
+  "fetchedAt": "2026-08-29T04:56:00.821Z",
+  "completedAt": "2026-08-29T04:56:03.028Z",
+  "versionedFilename": "code.1780254468142.tsx",
+  "codeReference": "r2://components-code-private/reapollo/heroui-badge/code.1780254468142.tsx",
+  "codeUrl": "https://cdn.21st.dev/reapollo/heroui-badge/code.1780254468142.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain; charset=utf-8",
+  "bytes": 4282,
+  "sha256": "e3d546baf5b246f3122eb01f861ea57d6d87c61f6456349949cf0d2aa8b8952d",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

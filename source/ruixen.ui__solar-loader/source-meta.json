@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__solar-loader",
+  "author": "ruixen.ui",
+  "slug": "solar-loader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/solar-loader",
+  "fetchedAt": "2026-08-29T06:50:41.846Z",
+  "completedAt": "2026-08-29T06:50:44.272Z",
+  "versionedFilename": "code.1760455109808.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/solar-loader/code.1760455109808.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/solar-loader/code.1760455109808.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5425,
+  "sha256": "f225e7d9b5e3e28b1de1e5304a69584830d2d7e35bd2921e955178d1d11a42ac",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "content-card",
+  "visual_style": [
+    "dark",
+    "gradient-border",
+    "glass-morphism"
+  ],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying article or post previews with metadata in a dark-themed interface",
+    "Showcasing featured content items with progress indicators",
+    "Creating cohesive card layouts in SaaS dashboards",
+    "Presenting user-generated content with author and date information",
+    "Building card-based news feeds in media applications"
+  ],
+  "ai_summary": "The Bauhaus Card is a dark-themed card component featuring a rotating gradient border, glass-morphism styling, and CSS variable theming for customization. It includes a header with date and action buttons, a body section for title and description, and a progress indicator. Built as a composite component, it's designed for displaying content items like articles or posts in SaaS and media applications, with responsive behavior across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T16:54:27.882Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

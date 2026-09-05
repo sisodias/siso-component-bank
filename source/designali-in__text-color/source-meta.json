@@ -1,0 +1,33 @@
+{
+  "id": "designali-in__text-color",
+  "author": "designali-in",
+  "slug": "text-color",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@designali-in/components/text-color",
+  "fetchedAt": "2026-08-29T04:21:40.582Z",
+  "completedAt": "2026-08-29T04:21:41.776Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/designali-in__text-color/code.tsx",
+    "bytes": 2566,
+    "sha256": "79ad7c8c9d1e41c34c87ed45574d6d8b9ca598975e3a799043e3d3e16d293042",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

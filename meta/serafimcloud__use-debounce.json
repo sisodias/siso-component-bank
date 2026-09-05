@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@serafimcloud/components/use-debounce",
+  "author": "serafimcloud",
+  "slug": "use-debounce",
+  "name": "use-debounce",
+  "description": " A hook that returns a debounced version of the provided value. The debounced value will only update after the specified delay has passed without any new changes to the original value.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/serafimcloud/use-debounce?api_key=$API_KEY_21ST\"",
+  "id": "serafimcloud__use-debounce",
+  "bundleUrl": "https://cdn.21st.dev/bundled/871.html",
+  "previewUrl": "https://cdn.21st.dev/user_2nElBLvklOKlAURm6W1PTu6yYFh/use-debounce.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

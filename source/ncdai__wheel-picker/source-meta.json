@@ -1,0 +1,26 @@
+{
+  "id": "ncdai__wheel-picker",
+  "author": "ncdai",
+  "slug": "wheel-picker",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ncdai/components/wheel-picker",
+  "fetchedAt": "2026-08-29T05:57:18.558Z",
+  "completedAt": "2026-08-29T05:57:20.809Z",
+  "versionedFilename": "code.1748433378519.tsx",
+  "codeReference": "r2://components-code-private/ncdai/wheel-picker/code.1748433378519.tsx",
+  "codeUrl": "https://cdn.21st.dev/ncdai/wheel-picker/code.1748433378519.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1321,
+  "sha256": "f0a57701236494505935ac8a553c0bb747aac5692bbeef2121a4b434107cde32",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

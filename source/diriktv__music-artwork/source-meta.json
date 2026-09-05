@@ -1,0 +1,26 @@
+{
+  "id": "diriktv__music-artwork",
+  "author": "diriktv",
+  "slug": "music-artwork",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@diriktv/components/music-artwork",
+  "fetchedAt": "2026-08-29T04:36:24.263Z",
+  "completedAt": "2026-08-29T04:36:26.341Z",
+  "versionedFilename": "code.1748476159379.tsx",
+  "codeReference": "r2://components-code-private/diriktv/music-artwork/code.1748476159379.tsx",
+  "codeUrl": "https://cdn.21st.dev/diriktv/music-artwork/code.1748476159379.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7947,
+  "sha256": "49125de1896ff344b398fb88a7ea5b4643701ff7fd6c20d9e2550ddd897cf7d8",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

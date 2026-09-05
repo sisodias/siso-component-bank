@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-primitive",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary action buttons in forms and authentication flows",
+    "Secondary actions with outline or ghost variants",
+    "Icon-enabled buttons with left or right positioned icons",
+    "Loading state buttons for async operations",
+    "Accessible button components with keyboard navigation support"
+  ],
+  "ai_summary": "A reusable React button component with class-variance-authority for variant management. Supports multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes (sm, default, lg, xl, icon). Features composable icon slots, loading states, and asChild pattern for slot-based composition with Radix UI. Built with Tailwind CSS for consistent styling across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T01:45:52.303Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

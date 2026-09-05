@@ -1,0 +1,39 @@
+{
+  "category": [
+    "input",
+    "form",
+    "feedback"
+  ],
+  "subcategory": "sentiment-selector, emoji-radio-group, feedback-collector",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "healthcare",
+    "education",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Collecting customer sentiment or satisfaction ratings in feedback surveys",
+    "Enabling mood or emotion tracking for wellness and mental health apps",
+    "Providing sentiment selection in product review and feedback forms",
+    "Adding emoji-based reaction options to survey questions",
+    "Capturing user emotional response in educational or learning platforms"
+  ],
+  "ai_summary": "A sentiment-based radio group component featuring emoji cards for collecting user emotions and satisfaction levels. Built on Radix UI primitives for full accessibility compliance, with hover effects, keyboard navigation, and checked state styling. The component renders selectable cards containing an emoji, title, and optional description for intuitive sentiment selection in feedback interfaces.",
+  "_classifiedAt": "2026-04-22T09:13:27.472Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

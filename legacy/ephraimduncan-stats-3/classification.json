@@ -1,0 +1,29 @@
+{
+  "category": "data-display",
+  "subcategory": "stats-card",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying key performance metrics in a dashboard",
+    "Showing progress indicators for goals or completion rates",
+    "Presenting statistical data with labels and values",
+    "Creating metric cards for analytics interfaces",
+    "Building KPI summary sections for business applications"
+  ],
+  "ai_summary": "A minimalist stats card component for displaying metrics and progress indicators. Features a clean card layout with header, title, description, and progress visualization using Radix UI primitives. Designed for dashboard and analytics interfaces with responsive container query support.",
+  "_classifiedAt": "2026-04-23T16:39:41.363Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

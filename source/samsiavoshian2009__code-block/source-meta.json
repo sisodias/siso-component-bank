@@ -1,0 +1,26 @@
+{
+  "id": "samsiavoshian2009__code-block",
+  "author": "samsiavoshian2009",
+  "slug": "code-block",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@samsiavoshian2009/components/code-block",
+  "fetchedAt": "2026-08-29T06:53:07.750Z",
+  "completedAt": "2026-08-29T06:53:10.039Z",
+  "versionedFilename": "code.1757451536683.tsx",
+  "codeReference": "r2://components-code-private/samsiavoshian2009/code-block/code.1757451536683.tsx",
+  "codeUrl": "https://cdn.21st.dev/samsiavoshian2009/code-block/code.1757451536683.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 34686,
+  "sha256": "f01391ad07fbbb02c7d1035efca6811d2c31fde12b6c27156de7562e22abf2df",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

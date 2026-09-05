@@ -1,0 +1,34 @@
+{
+  "category": "input",
+  "subcategory": "ripple-button",
+  "visual_style": [
+    "gradient",
+    "glass-morphism"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Primary call-to-action buttons with satisfying ripple feedback",
+    "Interactive form submission with animated click effects",
+    "Ghost buttons for secondary actions with hover borders",
+    "Hover-animated buttons for visual emphasis and micro-interactions",
+    "Customizable disabled button states with consistent styling"
+  ],
+  "ai_summary": "A multi-variant React button component featuring JavaScript-driven ripple effects on click and multiple animation modes including hover reveals, ghost states, and gradient borders. Designed for modern UI systems with customizable colors, durations, and effects through TypeScript props. Suitable for creating interactive, polished button experiences across SaaS, e-commerce, and developer tools applications.",
+  "_classifiedAt": "2026-04-23T16:37:38.631Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

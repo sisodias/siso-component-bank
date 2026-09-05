@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ln-dev7-assisted-password-confirmation",
+  "type": "registry:ui",
+  "title": "Ln Dev7 Assisted Password Confirmation",
+  "description": "Installed from https://21st.dev/r/ln-dev7/assisted-password-confirmation",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ln-dev7-assisted-password-confirmation"
+  ],
+  "files": [
+    {
+      "path": "assisted-password-confirmation.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ln-dev7/assisted-password-confirmation",
+    "fetchedAt": "2026-04-23T03:05:42.520Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

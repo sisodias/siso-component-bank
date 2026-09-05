@@ -1,0 +1,26 @@
+{
+  "id": "shugar__spinner-1",
+  "author": "shugar",
+  "slug": "spinner-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/spinner-1",
+  "fetchedAt": "2026-08-29T07:20:27.074Z",
+  "completedAt": "2026-08-29T07:20:29.156Z",
+  "versionedFilename": "code.1751967067984.tsx",
+  "codeReference": "r2://components-code-private/shugar/spinner-1/code.1751967067984.tsx",
+  "codeUrl": "https://cdn.21st.dev/shugar/spinner-1/code.1751967067984.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1658,
+  "sha256": "8d9a6207d785aa380c06529d1505037500b7919d9b8ddb5732679a5026b2a9de",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

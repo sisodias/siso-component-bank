@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "file-upload",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "drag",
+    "click-reveal",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Drag-and-drop file uploads with click fallback for document or image submissions",
+    "File validation with size and type restrictions before upload",
+    "Dark mode supported file input for modern web applications",
+    "Animated upload zone with visual feedback during drag interactions",
+    "File preview and removal interface for managing uploaded content"
+  ],
+  "ai_summary": "A sleek file upload component combining drag-and-drop functionality with click-to-upload capability. Built with react-dropzone and framer-motion for smooth animations, it features file type and size validation, dark mode support, and an animated drop zone with visual feedback. The component handles file management including addition and removal, making it ideal for SaaS applications, e-commerce platforms, and developer tools requiring document or image uploads.",
+  "_classifiedAt": "2026-04-23T01:44:55.823Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

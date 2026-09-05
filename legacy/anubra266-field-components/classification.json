@@ -1,0 +1,33 @@
+{
+  "category": "input",
+  "subcategory": "email-field",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "User email collection in registration or signup forms",
+    "Contact forms requiring email address input",
+    "Login or authentication forms with email fields",
+    "Newsletter subscription inputs with email validation"
+  ],
+  "ai_summary": "A lightweight, accessible email input field component built with Ark UI's Field component. Features a label with proper semantic markup, dark mode support, and standard focus ring styling. The component uses Tailwind CSS for styling and is ready for integration into any form-based application.",
+  "_classifiedAt": "2026-04-22T08:51:51.489Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:32:00.576Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

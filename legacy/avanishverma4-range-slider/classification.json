@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "range-slider",
+  "visual_style": [],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting numeric values within a defined range for form inputs",
+    "Filtering products or data by price or quantity ranges in e-commerce",
+    "Configuring application settings and preferences",
+    "Setting thresholds or sensitivity levels in dev-tools interfaces",
+    "Adjusting numeric parameters in SaaS configuration panels"
+  ],
+  "ai_summary": "A fully interactive range slider component with drag-to-select functionality supporting both mouse and touch inputs. Features dark/light mode toggle and smooth animations via Framer Motion. Ideal for numeric value selection in forms, filters, and settings interfaces across SaaS, e-commerce, and dev-tool platforms.",
+  "_classifiedAt": "2026-04-23T01:36:46.432Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

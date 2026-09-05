@@ -1,0 +1,26 @@
+{
+  "id": "coss.com__switch",
+  "author": "coss.com",
+  "slug": "switch",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@coss.com/components/switch",
+  "fetchedAt": "2026-08-29T04:02:42.632Z",
+  "completedAt": "2026-08-29T04:02:45.099Z",
+  "versionedFilename": "code.1774359000000.tsx",
+  "codeReference": "r2://components-code-private/coss.com/switch/code.1774359000000.tsx",
+  "codeUrl": "https://cdn.21st.dev/coss.com/switch/code.1774359000000.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/typescript",
+  "bytes": 1567,
+  "sha256": "8d107420e42d8bb8bec8ed21aebace8f4afd1d375422bdd326a3b4851d8f7a8c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

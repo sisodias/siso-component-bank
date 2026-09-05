@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "sortable-paginated-table",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying paginated tabular data with sortable columns for admin dashboards",
+    "Showing user or customer lists with built-in search and filter capabilities",
+    "Presenting structured data in a clean, accessible format for SaaS applications",
+    "Managing inventory or order data in e-commerce backends",
+    "Creating data grids for any application requiring structured information display"
+  ],
+  "ai_summary": "A MUI X DataGrid-based table component with sorting, pagination, and dark mode support. Features a Paper wrapper with shadow and rounded corners, displaying columns for ID, names, and age with a computed full name field. Clean, minimal styling suitable for dashboards and admin interfaces across various industries.",
+  "_classifiedAt": "2026-04-23T01:52:47.218Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

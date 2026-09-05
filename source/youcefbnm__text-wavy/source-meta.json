@@ -1,0 +1,26 @@
+{
+  "id": "youcefbnm__text-wavy",
+  "author": "youcefbnm",
+  "slug": "text-wavy",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@youcefbnm/components/text-wavy",
+  "fetchedAt": "2026-08-29T08:01:10.898Z",
+  "completedAt": "2026-08-29T08:01:13.530Z",
+  "versionedFilename": "code.1783717470604.tsx",
+  "codeReference": "r2://components-code-private/youcefbnm/text-wavy/code.1783717470604.tsx",
+  "codeUrl": "https://cdn.21st.dev/youcefbnm/text-wavy/code.1783717470604.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1551,
+  "sha256": "cb9060b0f26245684aac9a5263b8264159f64448daf1bd1508d745807974a14c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

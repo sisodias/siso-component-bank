@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "user-avatar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display user profile pictures in navigation headers",
+    "Show user identity in comment sections",
+    "Represent users in chat or messaging interfaces",
+    "Display seller/buyer avatars in marketplace platforms",
+    "Show team member profiles in dashboard interfaces"
+  ],
+  "ai_summary": "A minimalist user avatar component using shadcn/ui design system. Displays a profile image with a fallback initials badge when the image fails to load. Designed for clean, modern interface implementations across various platforms requiring user representation.",
+  "_classifiedAt": "2026-04-22T09:14:41.553Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

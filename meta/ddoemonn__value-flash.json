@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ddoemonn/components/value-flash",
+  "author": "ddoemonn",
+  "slug": "value-flash",
+  "name": "value-flash",
+  "description": "An animated number readout that flashes green or red and rolls its digits up or down whenever the value changes, ideal for live metrics, prices, and counters.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ddoemonn/value-flash?api_key=$API_KEY_21ST\"",
+  "id": "ddoemonn__value-flash",
+  "bundleUrl": "https://cdn.21st.dev/ddoemonn/value-flash/default/bundle.1785481071117-a3034cd7-3822-4e6e-8242-49768af6ee9e.html",
+  "previewUrl": "https://cdn.21st.dev/ddoemonn/value-flash/default/preview.1785481071117-a3034cd7-3822-4e6e-8242-49768af6ee9e.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

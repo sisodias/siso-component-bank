@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__flash-sale-banner",
+  "author": "ruixen.ui",
+  "slug": "flash-sale-banner",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/flash-sale-banner",
+  "fetchedAt": "2026-08-29T06:42:29.940Z",
+  "completedAt": "2026-08-29T06:42:31.916Z",
+  "versionedFilename": "code.1755969030037.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/flash-sale-banner/code.1755969030037.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/flash-sale-banner/code.1755969030037.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4010,
+  "sha256": "64356f39e92e99585e7a17349718fe89c729009dde1243bb798263ea540761ac",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

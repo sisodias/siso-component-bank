@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@abbasplusplus/components/goodreads-currently-reading",
+  "author": "abbasplusplus",
+  "slug": "goodreads-currently-reading",
+  "name": "goodreads-currently-reading",
+  "description": "Show off the book that you're currently reading on Goodreads using your RSS feed. ",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/abbasplusplus/goodreads-currently-reading?api_key=$API_KEY_21ST\"",
+  "id": "abbasplusplus__goodreads-currently-reading",
+  "bundleUrl": "https://cdn.21st.dev/abbasplusplus/goodreads-currently-reading/default/bundle.1756120229087.html",
+  "previewUrl": "https://cdn.21st.dev/abbasplusplus/goodreads-currently-reading/default/preview.1756120229087.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

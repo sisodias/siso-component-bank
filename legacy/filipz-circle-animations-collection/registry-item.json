@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "filipz-circle-animations-collection",
+  "type": "registry:ui",
+  "title": "Filipz Circle Animations Collection",
+  "description": "Installed from https://21st.dev/r/filipz/circle-animations-collection",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "filipz-circle-animations-collection"
+  ],
+  "files": [
+    {
+      "path": "circle-animations-collection.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/filipz/circle-animations-collection",
+    "fetchedAt": "2026-04-23T02:30:01.676Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

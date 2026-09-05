@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "flip-contact-card",
+  "visual_style": [
+    "3d",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display personal or team member profiles with interactive flip-to-reveal contact details",
+    "Create engaging portfolio cards for creative professionals and freelancers",
+    "Implement as employee directory cards in enterprise applications",
+    "Use as business card-style components for networking interfaces",
+    "Add interactive contact sections to landing pages and about pages"
+  ],
+  "ai_summary": "A 3D flip card component that reveals contact information on hover. Features a profile image on the front with name and title, and a gradient-styled back showing email, phone, website, and social links. The card uses CSS perspective and 3D transforms for smooth flip animations, making it ideal for personal profiles, team directories, or business card interfaces in SaaS and media applications.",
+  "_classifiedAt": "2026-04-23T01:36:56.775Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

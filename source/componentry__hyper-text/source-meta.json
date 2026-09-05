@@ -1,0 +1,26 @@
+{
+  "id": "componentry__hyper-text",
+  "author": "componentry",
+  "slug": "hyper-text",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@componentry/components/hyper-text",
+  "fetchedAt": "2026-08-29T04:01:07.428Z",
+  "completedAt": "2026-08-29T04:01:09.896Z",
+  "versionedFilename": "code.1783715127296.tsx",
+  "codeReference": "r2://components-code-private/componentry/hyper-text/code.1783715127296.tsx",
+  "codeUrl": "https://cdn.21st.dev/componentry/hyper-text/code.1783715127296.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2159,
+  "sha256": "1fbf2e58cb72e1a3994617c5cbd4c84e4c976a4347747622f023dc8f4fdf1ea6",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

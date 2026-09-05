@@ -1,0 +1,36 @@
+{
+  "category": "form",
+  "subcategory": "drag-drop-file-upload",
+  "visual_style": [
+    "dark",
+    "glass-morphism",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Dragging and dropping multiple files onto a cyberpunk-styled upload zone with visual feedback",
+    "Previewing uploaded images as thumbnails before or during upload progress",
+    "Tracking real-time upload progress for each file with animated progress indicators",
+    "Managing a batch of files with the ability to remove individual files or clear all",
+    "Handling various file types (images, videos, documents, code, archives) with distinct icons"
+  ],
+  "ai_summary": "A cyberpunk-themed file uploader component featuring drag-and-drop functionality, real-time upload progress tracking, and image preview generation. Styled with dark mode aesthetics, neon accents, and glass-morphism effects for a futuristic interface. Supports multiple file types including images, videos, documents, and archives with appropriate icons. Includes expand/collapse functionality and file removal capabilities for managing upload queues.",
+  "_classifiedAt": "2026-04-22T08:59:13.355Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:37:55.753Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,35 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "pagination-utility-hook",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Calculate page numbers to display with smart ellipsis for large datasets",
+    "Handle pagination navigation logic for content-heavy applications",
+    "Display paginated lists in e-commerce product catalogs",
+    "Navigate through search results or filtered data sets",
+    "Implement data table pagination controls with adaptive page visibility"
+  ],
+  "ai_summary": "A custom React hook that provides intelligent pagination logic for navigating large datasets. Calculates which page numbers to display while automatically inserting left or right ellipsis based on the current page position and configurable display count. Returns the visible page range and ellipsis state flags for building custom pagination UI components.",
+  "_classifiedAt": "2026-04-23T17:05:15.939Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

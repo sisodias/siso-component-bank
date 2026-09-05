@@ -1,0 +1,26 @@
+{
+  "id": "prebuiltui__about",
+  "author": "prebuiltui",
+  "slug": "about",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@prebuiltui/components/about",
+  "fetchedAt": "2026-08-29T06:10:48.135Z",
+  "completedAt": "2026-08-29T06:10:50.648Z",
+  "versionedFilename": "code.1757058415531.tsx",
+  "codeReference": "r2://components-code-private/larsen66/about/code.1757058415531.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/about/code.1757058415531.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4837,
+  "sha256": "9e11d8a2e047f4ad97d19afee6a431d2419fe53b15b9edbd458d9d9c876d1b70",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

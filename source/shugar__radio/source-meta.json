@@ -1,0 +1,26 @@
+{
+  "id": "shugar__radio",
+  "author": "shugar",
+  "slug": "radio",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/radio",
+  "fetchedAt": "2026-08-29T07:19:56.037Z",
+  "completedAt": "2026-08-29T07:19:58.370Z",
+  "versionedFilename": "code.1751592722412.tsx",
+  "codeReference": "r2://components-code-private/shugar/radio/code.1751592722412.tsx",
+  "codeUrl": "https://cdn.21st.dev/shugar/radio/code.1751592722412.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4085,
+  "sha256": "2f5ba7ac69c62f8ff00b9a7b6477f398e3039093b1bb20ca2333c69bca49563b",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

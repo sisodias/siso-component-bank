@@ -1,0 +1,36 @@
+{
+  "category": [
+    "hero"
+  ],
+  "subcategory": "landing-hero-with-button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Hero landing pages for marketing websites",
+    "Primary call-to-action sections on landing pages",
+    "SaaS product introduction sections",
+    "E-commerce hero banners with CTA buttons",
+    "Portfolio or personal website intro sections"
+  ],
+  "ai_summary": "A hero section component from the meschacirung design system that displays prominent marketing content with integrated button components. Features a fully-featured button system with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes, supporting focus states, hover effects, and disabled conditions. Built with Radix UI Slot for composition and class-variance-authority for variant management.",
+  "_classifiedAt": "2026-04-23T16:56:56.000Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

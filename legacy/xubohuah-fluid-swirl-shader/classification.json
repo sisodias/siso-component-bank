@@ -1,0 +1,28 @@
+{
+  "category": "media",
+  "subcategory": "fluid-shader-animation",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero background with organic fluid motion",
+    "Creative portfolio site decorative animated section",
+    "Interactive art installation with customizable colors",
+    "SaaS product page ambient visual effect",
+    "Brand showcase with smooth color transitions"
+  ],
+  "ai_summary": "A WebGL fluid swirl shader component that renders organic, continuously animating swirl patterns using custom fragment shaders. Features configurable colors, rotation speed, spin amount, and contrast controls. The effect uses polar coordinate transformations and trigonometric noise patterns to create smooth, mesmerizing fluid motion. Includes mouse tracking support for potential interactivity and renders at full resolution for crisp visuals across devices.",
+  "_classifiedAt": "2026-04-23T01:55:55.994Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

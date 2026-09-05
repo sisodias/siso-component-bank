@@ -1,0 +1,26 @@
+{
+  "id": "larsen66__hero-ascii-one",
+  "author": "larsen66",
+  "slug": "hero-ascii-one",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@larsen66/components/hero-ascii-one",
+  "fetchedAt": "2026-08-29T05:22:09.154Z",
+  "completedAt": "2026-08-29T05:22:11.269Z",
+  "versionedFilename": "code.1760453287158.tsx",
+  "codeReference": "r2://components-code-private/larsen66/hero-ascii-one/code.1760453287158.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/hero-ascii-one/code.1760453287158.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 12208,
+  "sha256": "66e5106b942c19102b76bc024ce40fa071108703cce12ca2a346a9e5ad19d639",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

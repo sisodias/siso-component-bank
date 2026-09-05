@@ -1,0 +1,33 @@
+{
+  "category": "data-display",
+  "subcategory": "avatar-profile-picture",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display user profile pictures in blog post author bylines",
+    "Show user avatars in comment sections and discussion threads",
+    "Render profile images in card headers and navigation menus",
+    "Display user identity in dashboard and settings pages",
+    "Support user representation across various content types"
+  ],
+  "ai_summary": "A lightweight, accessible Avatar component built on Radix UI's Avatar primitive. Provides three sub-components—Avatar, AvatarImage, and AvatarFallback—for flexible user profile picture rendering with automatic fallback to initials. This atomic component uses Tailwind CSS for minimal styling and serves as a building block for the hover blog card and other user-identity UI elements across any industry application.",
+  "_classifiedAt": "2026-04-22T09:15:06.540Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

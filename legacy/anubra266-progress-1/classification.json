@@ -1,0 +1,36 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "linear-progress-bar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying upload or download progress in file management interfaces",
+    "Showing task completion status in onboarding or setup flows",
+    "Visualizing data loading or processing states in dashboards",
+    "Indicating multi-step form or checkout progression",
+    "Displaying course or learning module completion percentages"
+  ],
+  "ai_summary": "A lightweight linear progress bar component built on Ark UI's Progress primitive. Features a clean, flat visual design with rounded track and range elements, smooth CSS transitions, and automatic dark mode support. The component accepts a default value and renders a horizontal bar indicating completion percentage, suitable for displaying upload progress, task completion, or any measurable workflow state in SaaS applications.",
+  "_classifiedAt": "2026-04-23T01:36:01.908Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

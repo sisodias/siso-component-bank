@@ -1,0 +1,26 @@
+{
+  "id": "yura__orbital-hero-section",
+  "author": "yura",
+  "slug": "orbital-hero-section",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@yura/components/orbital-hero-section",
+  "fetchedAt": "2026-08-29T08:01:40.048Z",
+  "completedAt": "2026-08-29T08:01:42.248Z",
+  "versionedFilename": "code.1785615284365-6b5776b4-6f49-436c-830e-0c5343c49877.tsx",
+  "codeReference": "r2://components-code-private/yura/orbital-hero-section/code.1785615284365-6b5776b4-6f49-436c-830e-0c5343c49877.tsx",
+  "codeUrl": "https://cdn.21st.dev/yura/orbital-hero-section/code.1785615284365-6b5776b4-6f49-436c-830e-0c5343c49877.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

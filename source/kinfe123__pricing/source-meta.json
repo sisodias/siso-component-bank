@@ -1,0 +1,26 @@
+{
+  "id": "kinfe123__pricing",
+  "author": "kinfe123",
+  "slug": "pricing",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@kinfe123/components/pricing",
+  "fetchedAt": "2026-08-29T05:17:24.261Z",
+  "completedAt": "2026-08-29T05:17:26.691Z",
+  "versionedFilename": "code.1755083667629.tsx",
+  "codeReference": "r2://components-code-private/kinfe123/pricing/code.1755083667629.tsx",
+  "codeUrl": "https://cdn.21st.dev/kinfe123/pricing/code.1755083667629.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5196,
+  "sha256": "3d59ac4dbe9eae070e3059a6a9bb8346e4c3683a0ab26305fdca49b98a1cbc20",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

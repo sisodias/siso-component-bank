@@ -1,0 +1,30 @@
+{
+  "category": "data-display",
+  "subcategory": "badge, label, tag",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display status indicators with color-coded variants for user feedback",
+    "Tag content with labels for categorization and filtering in interfaces",
+    "Highlight new or featured items with visual prominence on cards",
+    "Show counts or metadata alongside content elements",
+    "Indicate user roles, permissions, or categories in UI elements"
+  ],
+  "ai_summary": "A lightweight badge component with four style variants (default, secondary, destructive, outline) for displaying labels, tags, and status indicators. Features standard hover and focus states with accessibility support via focus-ring styling. Built with class-variance-authority for flexible variant management and designed for universal use across web applications for categorizing content, highlighting features, or indicating status.",
+  "_classifiedAt": "2026-04-23T16:32:02.262Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

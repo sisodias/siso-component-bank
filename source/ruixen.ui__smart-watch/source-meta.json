@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__smart-watch",
+  "author": "ruixen.ui",
+  "slug": "smart-watch",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/smart-watch",
+  "fetchedAt": "2026-08-29T06:50:33.290Z",
+  "completedAt": "2026-08-29T06:50:35.487Z",
+  "versionedFilename": "code.1758476270092.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/smart-watch/code.1758476270092.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/smart-watch/code.1758476270092.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1986,
+  "sha256": "5cc72e0c85e30c2c01d8c0b253c29b8424de08b13fc0f711c0b371c99581554d",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

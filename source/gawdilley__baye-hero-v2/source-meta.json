@@ -1,0 +1,26 @@
+{
+  "id": "gawdilley__baye-hero-v2",
+  "author": "gawdilley",
+  "slug": "baye-hero-v2",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@gawdilley/components/baye-hero-v2",
+  "fetchedAt": "2026-08-29T04:51:41.544Z",
+  "completedAt": "2026-08-29T04:51:43.691Z",
+  "versionedFilename": "code.1780684112030.tsx",
+  "codeReference": "r2://components-code-private/gawdilley/baye-hero-v2/code.1780684112030.tsx",
+  "codeUrl": "https://cdn.21st.dev/gawdilley/baye-hero-v2/code.1780684112030.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4315,
+  "sha256": "8cc8e70ba94550f890a9a5e0f1169864d2223d24a17aaefec5d6837bfd722c79",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

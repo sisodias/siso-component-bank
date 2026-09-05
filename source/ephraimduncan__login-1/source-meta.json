@@ -1,0 +1,26 @@
+{
+  "id": "ephraimduncan__login-1",
+  "author": "ephraimduncan",
+  "slug": "login-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ephraimduncan/components/login-1",
+  "fetchedAt": "2026-08-29T04:44:56.162Z",
+  "completedAt": "2026-08-29T04:44:58.606Z",
+  "versionedFilename": "code.1748127666675.tsx",
+  "codeReference": "r2://components-code-private/larsen66/login-1/code.1748127666675.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/login-1/code.1748127666675.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7236,
+  "sha256": "4e7fe38806a1c09c385ed3a5a1a8acdf2e35c3eb115acb7629d9759597b12554",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

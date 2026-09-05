@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "atomic button component with variant support",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Triggering actions in web applications",
+    "Submitting forms and confirming user intent",
+    "Navigating between pages or views",
+    "Toggling visibility of UI elements",
+    "Serving as a call-to-action in various contexts"
+  ],
+  "ai_summary": "A versatile, atomic button component from the Intent UI design system that provides multiple variant options (default, destructive, outline, secondary, ghost, link) and size configurations (default, sm, lg, icon). Built with Radix UI's Slot primitive for composition support, CVA for variant management, and Tailwind CSS for styling. Features standard hover and focus states with ring effects, suitable as a foundational UI element in SaaS, dev-tools, and e-commerce applications.",
+  "_classifiedAt": "2026-04-23T01:40:13.177Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

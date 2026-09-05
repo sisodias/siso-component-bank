@@ -1,0 +1,26 @@
+{
+  "id": "radiumcoders__movie-pass",
+  "author": "radiumcoders",
+  "slug": "movie-pass",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@radiumcoders/components/movie-pass",
+  "fetchedAt": "2026-08-29T06:17:21.316Z",
+  "completedAt": "2026-08-29T06:17:23.483Z",
+  "versionedFilename": "code.1780087248434.tsx",
+  "codeReference": "r2://components-code-private/larsen66/movie-pass/code.1780087248434.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/movie-pass/code.1780087248434.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 890,
+  "sha256": "5747d5614873dd85872458f028180ffbf5b8ae79a6988a01a766347870e91f2b",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

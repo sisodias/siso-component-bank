@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input",
+    "feedback"
+  ],
+  "subcategory": "text-input-with-error-display",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "User data entry forms with inline validation feedback",
+    "Contact and registration forms with error messaging",
+    "Settings pages requiring user input with error states",
+    "Search inputs with validation feedback",
+    "Login forms with error handling for invalid credentials"
+  ],
+  "ai_summary": "A clean, minimal text input component with integrated error state handling. Features customizable sizes (small, medium, large), error icons with optional action links, and red-themed error messaging for validation feedback. Built with Tailwind CSS for modern SaaS and e-commerce applications requiring accessible form inputs.",
+  "_classifiedAt": "2026-04-23T17:30:15.474Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

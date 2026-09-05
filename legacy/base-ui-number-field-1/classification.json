@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "number-stepper with scrubbing",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "drag",
+    "keyboard-nav",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Numeric quantity input with increment/decrement buttons for e-commerce or inventory forms",
+    "Value adjustment through cursor scrubbing/dragging interaction",
+    "Accessible number input with keyboard navigation support",
+    "Form component for SaaS dashboards requiring numeric data entry"
+  ],
+  "ai_summary": "A number field component built on Base UI featuring increment/decrement stepper buttons and a scrub area for adjusting values by dragging. The component implements minimalist flat design with hover states and accessible focus outlines. Supports keyboard navigation and serves as a reusable numeric input primitive for forms in SaaS, e-commerce, and dev-tool applications.",
+  "_classifiedAt": "2026-04-23T11:32:20.711Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

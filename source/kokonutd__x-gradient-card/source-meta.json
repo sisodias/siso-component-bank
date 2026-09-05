@@ -1,0 +1,33 @@
+{
+  "id": "kokonutd__x-gradient-card",
+  "author": "kokonutd",
+  "slug": "x-gradient-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@kokonutd/components/x-gradient-card",
+  "fetchedAt": "2026-08-29T05:18:56.001Z",
+  "completedAt": "2026-08-29T05:18:57.276Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/kokonutd__x-gradient-card/code.tsx",
+    "bytes": 8875,
+    "sha256": "a4c92628f3fedde978fe4b213322d0330b16329baca4d402f6835084c2dcce1f",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

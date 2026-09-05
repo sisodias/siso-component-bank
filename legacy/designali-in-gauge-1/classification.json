@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "circular-gauge-metric",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying KPI metrics and progress indicators on analytics dashboards",
+    "Visualizing performance metrics with configurable thresholds and color coding",
+    "Creating multi-ring comparison gauges for business analytics",
+    "Showing completion percentages with animated transitions"
+  ],
+  "ai_summary": "A configurable circular gauge component for displaying metrics and percentages with smooth spring animations via Framer Motion. Supports multiple rings, threshold-based coloring, gradient fills, glow effects, and various gauge types (full/half/quarter). Designed for dashboard visualizations in SaaS, fintech, and data analytics applications.",
+  "_classifiedAt": "2026-04-23T16:31:10.129Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

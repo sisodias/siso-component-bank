@@ -1,0 +1,26 @@
+{
+  "id": "neelvp2004__navabar",
+  "author": "neelvp2004",
+  "slug": "navabar",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@neelvp2004/components/navabar",
+  "fetchedAt": "2026-08-29T05:57:20.823Z",
+  "completedAt": "2026-08-29T05:57:22.714Z",
+  "versionedFilename": "code.1757604695317.tsx",
+  "codeReference": "r2://components-code-private/neelvp2004/navabar/code.1757604695317.tsx",
+  "codeUrl": "https://cdn.21st.dev/neelvp2004/navabar/code.1757604695317.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5642,
+  "sha256": "8e8261de674a24be78b387b20fb70706044012579d9981c41e8438299a3ee7e1",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

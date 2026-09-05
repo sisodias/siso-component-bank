@@ -1,0 +1,35 @@
+{
+  "category": [
+    "button"
+  ],
+  "subcategory": "icon-action-button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Interactive button for triggering actions with icon support",
+    "Form submission and navigation triggers with multiple visual variants",
+    "Icon-sized action buttons for toolbars and grid layouts",
+    "Accessible button component with focus states and disabled handling"
+  ],
+  "ai_summary": "A flexible React button component built with Radix UI Slot and class-variance-authority, offering 6 visual variants (default, destructive, outline, secondary, ghost, link) and 4 sizes including icon-only. Features subtle shadows, rounded corners, and comprehensive hover/focus/disabled states. Designed for use in icon grids, toolbars, and action-heavy interfaces with full keyboard navigation support.",
+  "_classifiedAt": "2026-04-23T01:50:07.288Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

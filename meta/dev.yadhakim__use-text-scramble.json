@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@dev.yadhakim/components/use-text-scramble",
+  "author": "dev.yadhakim",
+  "slug": "use-text-scramble",
+  "name": "use-text-scramble",
+  "description": "React hook that creates a hacker-style text scramble effect — characters cycle through random glyphs before resolving left to right. Returns the animated text, a scramble trigger function, and loading state. Configurable speed, character set, and step rate. Perfect for hero headings, loading states, and text transitions.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/dev.yadhakim/use-text-scramble?api_key=$API_KEY_21ST\"",
+  "id": "dev.yadhakim__use-text-scramble",
+  "bundleUrl": "https://cdn.21st.dev/dev.yadhakim/use-text-scramble/default/bundle.1771524494725.html",
+  "previewUrl": "https://cdn.21st.dev/dev.yadhakim/use-text-scramble/default/preview.1771524494725.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

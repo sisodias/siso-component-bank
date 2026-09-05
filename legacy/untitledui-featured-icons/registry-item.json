@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "untitledui-featured-icons",
+  "type": "registry:ui",
+  "title": "Untitledui Featured Icons",
+  "description": "Installed from https://21st.dev/r/untitledui/featured-icons",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "untitledui-featured-icons"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "featured-icons.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "tailwind-merge"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/untitledui/featured-icons",
+    "fetchedAt": "2026-04-22T06:42:43.340Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

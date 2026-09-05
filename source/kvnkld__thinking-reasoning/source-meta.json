@@ -1,0 +1,26 @@
+{
+  "id": "kvnkld__thinking-reasoning",
+  "author": "kvnkld",
+  "slug": "thinking-reasoning",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@kvnkld/components/thinking-reasoning",
+  "fetchedAt": "2026-08-29T05:21:26.492Z",
+  "completedAt": "2026-08-29T05:21:28.713Z",
+  "versionedFilename": "code.1785481132260-1b8a1d49-81d3-4e2d-86c2-a394e9aef2ea.tsx",
+  "codeReference": "r2://components-code-private/kvnkld/thinking-reasoning/code.1785481132260-1b8a1d49-81d3-4e2d-86c2-a394e9aef2ea.tsx",
+  "codeUrl": "https://cdn.21st.dev/kvnkld/thinking-reasoning/code.1785481132260-1b8a1d49-81d3-4e2d-86c2-a394e9aef2ea.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

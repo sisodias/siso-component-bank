@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-variants",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Triggering primary actions in forms and dialogs across web applications",
+    "Creating variant-styled buttons for different UI contexts like destructive or secondary actions",
+    "Using asChild prop for composing buttons with custom components like links or other elements",
+    "Implementing accessible icon-only buttons with proper focus states",
+    "Building consistent button interfaces with disabled states across design systems"
+  ],
+  "ai_summary": "A flexible, accessible button component built with Radix UI Slot and class-variance-authority for flexible variant management. Supports multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes, with proper focus-visible rings and disabled states. Uses Tailwind CSS for styling and composes seamlessly with custom elements via the asChild prop.",
+  "_classifiedAt": "2026-04-22T09:17:10.960Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

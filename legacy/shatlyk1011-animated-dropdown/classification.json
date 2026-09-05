@@ -1,0 +1,31 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "expandable-menu",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Navigation menus that expand on click with smooth animated transitions",
+    "Action menus or context dropdowns with click-outside-to-close behavior",
+    "Select-style interfaces for filtering or option selection in dashboards",
+    "Compact dropdown buttons for toolbars and header navigation elements"
+  ],
+  "ai_summary": "An animated dropdown component with smooth Framer Motion transitions and click-outside detection. Features customizable button variants (outline, ghost, link, primary) and integrates ChevronDown icon with rotation animation on open. Supports standard Tailwind styling patterns and is designed as a reusable navigation element for SaaS applications.",
+  "_classifiedAt": "2026-04-22T09:16:16.744Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

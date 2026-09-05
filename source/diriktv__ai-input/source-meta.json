@@ -1,0 +1,26 @@
+{
+  "id": "diriktv__ai-input",
+  "author": "diriktv",
+  "slug": "ai-input",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@diriktv/components/ai-input",
+  "fetchedAt": "2026-08-29T04:36:17.598Z",
+  "completedAt": "2026-08-29T04:36:19.660Z",
+  "versionedFilename": "code.1748484555451.tsx",
+  "codeReference": "r2://components-code-private/diriktv/ai-input/code.1748484555451.tsx",
+  "codeUrl": "https://cdn.21st.dev/diriktv/ai-input/code.1748484555451.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 21648,
+  "sha256": "da27b5acfc20b5a0101e0946298f0a57eda215ddd38602f206f88af263372a83",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

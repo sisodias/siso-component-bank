@@ -1,0 +1,34 @@
+{
+  "category": "media",
+  "subcategory": "3d-orbit-gallery",
+  "visual_style": [
+    "3d",
+    "gradient"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "parallax",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive 3D portfolio showcase with orbiting image galleries",
+    "Immersive landing page hero with particle sphere visualization",
+    "Product showcase experience with cosmic-themed rotating images",
+    "Creative portfolio display with dynamic particle effects",
+    "SaaS landing page hero section with engaging 3D visuals"
+  ],
+  "ai_summary": "A Three.js-powered 3D particle sphere visualization component that displays images orbiting around a dynamic cosmic particle cloud. Features 1500 animated particles with randomized positioning on a sphere surface, continuous Y-axis rotation, and orbiting image planes. The component uses @react-three/fiber and @react-three/drei for 3D rendering, supports customizable image arrays, and creates an immersive space-themed gallery experience perfect for landing pages and creative portfolios.",
+  "_classifiedAt": "2026-04-22T09:18:57.866Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

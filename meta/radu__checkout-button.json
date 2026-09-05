@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@radu/components/checkout-button",
+  "author": "radu",
+  "slug": "checkout-button",
+  "name": "checkout-button",
+  "description": "A simple multi-variant Checkout Button for SaaS tiered plans. The Icon can be changed.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/radu/checkout-button?api_key=$API_KEY_21ST\"",
+  "id": "radu__checkout-button",
+  "bundleUrl": "https://cdn.21st.dev/radu/checkout-button/default/bundle.1753438159631.html",
+  "previewUrl": "https://cdn.21st.dev/radu/checkout-button/default/preview.1753438159631.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,360 @@
+"use client";
+
+import React from "react";
+import { motion, AnimatePresence } from "framer-motion";
+import { Mail, Briefcase, ChevronLeft, ChevronRight } from "lucide-react";
+
+// --- Data: team members ---
+const people = [
+  {
+    id: 1,
+    name: "Albert Einstein",
+    role: "Theoretical Physicist",
+    email: "einstein@example.com",
+    profile:
+      "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg",
+  },
+  {
+    id: 2,
+    name: "Isaac Newton",
+    role: "Physicist & Mathematician",
+    email: "newton@example.com",
+    profile:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg/1200px-Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg",
+  },
+  {
+    id: 3,
+    name: "Marie Curie",
+    role: "Physicist & Chemist",
+    email: "curie@example.com",
+    profile:
+      "https://upload.wikimedia.org/wikipedia/commons/7/7e/Marie_Curie_c1920.jpg",
+  },
+  {
+    id: 4,
+    name: "Nikola Tesla",
+    role: "Inventor & Engineer",
+    email: "tesla@example.com",
+    profile: "https://upload.wikimedia.org/wikipedia/commons/d/d4/N.Tesla.JPG",
+  },
+  {
+    id: 5,
+    name: "Charles Darwin",
+    role: "Naturalist & Biologist",
+    email: "darwin@example.com",
+    profile:
+      "https://hips.hearstapps.com/hmg-prod/images/gettyimages-79035252.jpg?crop=1xw:1.0xh;center,top&resize=640:*",
+  },
+  {
+    id: 6,
+    name: "Galileo Galilei",
+    role: "Astronomer & Physicist",
+    email: "galileo@example.com",
+    profile:
+      "https://res.cloudinary.com/aenetworks/image/upload/c_fill,ar_2,w_3840,h_1920,g_auto/dpr_auto/f_auto/q_auto:eco/v1/galileo-galilei-gettyimages-51246872?_a=BAVAZGDX0",
+  },
+  {
+    id: 7,
+    name: "Stephen Hawking",
+    role: "Theoretical Physicist",
+    email: "hawking@example.com",
+    profile:
+      "https://upload.wikimedia.org/wikipedia/commons/e/eb/Stephen_Hawking.StarChild.jpg",
+  },
+  {
+    id: 8,
+    name: "Richard Feynman",
+    role: "Theoretical Physicist",
+    email: "feynman@example.com",
+    profile:
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz7DeuUmHN7TiT3xf7cV7UPBJNDtEvjNZcgMmNElTmOJYaec6zQI0UiLU04jZP6hqkeLcrnaC5NP4WC_zRQzP3_QhLumNxyzPOsC-WEmWQyYsadq1Eg_V_jEjDfCdddeQgJjY_OOB1KLMj6o2ShA6ycHwM91I430Yr9tkYTn6759jDmcGAsONOACbi/w1200-h630-p-k-no-nu/richard%20feynman%20quotes%20atheism%20religion%20science.png",
+  },
+];
+
+// --- Utility for fallback images ---
+const safeImage = (e: React.SyntheticEvent<HTMLImageElement, Event>) => {
+  const target = e.target as HTMLImageElement;
+  target.src = "https://placehold.co/100x100/E0E7FF/4338CA?text=Error";
+};
+
+// --- Custom hook for responsive detection ---
+const useResponsive = () => {
+  const [screenSize, setScreenSize] = React.useState<'xs' | 'sm' | 'md' | 'lg'>('lg');
+  
+  React.useEffect(() => {
+    if (typeof window === 'undefined') return;
+    
+    const checkScreenSize = () => {
+      const width = window.innerWidth;
+      if (width < 480) setScreenSize('xs');
+      else if (width < 640) setScreenSize('sm');
+      else if (width < 768) setScreenSize('md');
+      else setScreenSize('lg');
+    };
+    
+    checkScreenSize();
+    window.addEventListener("resize", checkScreenSize);
+    return () => window.removeEventListener("resize", checkScreenSize);
+  }, []);
+  
+  return screenSize;
+};
+
+// --- Main Component ---
+export default function OrbitCarousel() {
+  const [activeIndex, setActiveIndex] = React.useState(0);
+  const [isHovering, setIsHovering] = React.useState(false);
+  const screenSize = useResponsive();
+
+  // Responsive sizing
+  const getResponsiveValues = () => {
+    switch (screenSize) {
+      case 'xs':
+        return {
+          containerRadius: 100,
+          profileSize: 45,
+          cardWidth: 'w-36',
+          avatarSize: 'w-12 h-12',
+          avatarMargin: '-mt-8',
+          fontSize: {
+            name: 'text-sm',
+            role: 'text-xs',
+            email: 'text-xs'
+          }
+        };
+      case 'sm':
+        return {
+          containerRadius: 120,
+          profileSize: 55,
+          cardWidth: 'w-40',
+          avatarSize: 'w-14 h-14',
+          avatarMargin: '-mt-9',
+          fontSize: {
+            name: 'text-base',
+            role: 'text-xs',
+            email: 'text-xs'
+          }
+        };
+      case 'md':
+        return {
+          containerRadius: 150,
+          profileSize: 65,
+          cardWidth: 'w-44',
+          avatarSize: 'w-16 h-16',
+          avatarMargin: '-mt-10',
+          fontSize: {
+            name: 'text-base',
+            role: 'text-sm',
+            email: 'text-xs'
+          }
+        };
+      default:
+        return {
+          containerRadius: 200,
+          profileSize: 80,
+          cardWidth: 'w-52',
+          avatarSize: 'w-20 h-20',
+          avatarMargin: '-mt-12',
+          fontSize: {
+            name: 'text-lg',
+            role: 'text-sm',
+            email: 'text-xs'
+          }
+        };
+    }
+  };
+
+  const { containerRadius, profileSize, cardWidth, avatarSize, avatarMargin, fontSize } = getResponsiveValues();
+  const containerSize = containerRadius * 2 + 100;
+
+  // Calculate rotation for each profile
+  const getRotation = React.useCallback(
+    (index: number): number => (index - activeIndex) * (360 / people.length),
+    [activeIndex]
+  );
+
+  // Navigation
+  const next = () => setActiveIndex((i) => (i + 1) % people.length);
+  const prev = () => setActiveIndex((i) => (i - 1 + people.length) % people.length);
+
+  const handleProfileClick = React.useCallback((index: number) => {
+    if (index === activeIndex) return;
+    setActiveIndex(index);
+  }, [activeIndex]);
+
+  // Keyboard navigation
+  React.useEffect(() => {
+    const handleKeyDown = (event: KeyboardEvent): void => {
+      if (event.key === 'ArrowLeft') prev();
+      else if (event.key === 'ArrowRight') next();
+    };
+
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, []);
+
+  // Auto-rotation
+  React.useEffect(() => {
+    if (isHovering) return;
+    
+    const interval = setInterval(() => {
+      next();
+    }, 5000);
+    
+    return () => clearInterval(interval);
+  }, [isHovering]);
+
+  return (
+    <div 
+      className="flex flex-col items-center p-2 sm:p-4 relative min-h-[350px] sm:min-h-[400px] bg-white dark:bg-black transition-colors duration-300"
+      onMouseEnter={() => setIsHovering(true)}
+      onMouseLeave={() => setIsHovering(false)}
+    >
+
+      <div
+        className="relative flex items-center justify-center"
+        style={{ width: containerSize, height: containerSize }}
+      >
+
+        {/* Active Person Card */}
+        <AnimatePresence mode="wait">
+          <motion.div
+            key={people[activeIndex].id}
+            initial={{ opacity: 0, scale: 0.9, y: 20 }}
+            animate={{ opacity: 1, scale: 1, y: 0 }}
+            exit={{ opacity: 0, scale: 0.9, y: -20 }}
+            transition={{ 
+              type: "spring",
+              stiffness: 300,
+              damping: 25
+            }}
+            className={`z-10 bg-white dark:bg-gray-950 backdrop-blur-sm shadow-xl dark:shadow-2xl dark:shadow-gray-900/50 rounded-xl p-2 sm:p-3 md:p-4 ${cardWidth} text-center border border-gray-100 dark:border-gray-800`}
+          >
+            <motion.img
+              initial={{ opacity: 0, scale: 0.8 }}
+              animate={{ opacity: 1, scale: 1 }}
+              transition={{ duration: 0.3, delay: 0.1 }}
+              src={people[activeIndex].profile}
+              alt={people[activeIndex].name}
+              onError={safeImage}
+              className={`${avatarSize} rounded-full mx-auto ${avatarMargin} border-4 border-white dark:border-black object-cover shadow-md`}
+            />
+            <motion.div
+              initial={{ opacity: 0, y: 5 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.3, delay: 0.15 }}
+            >
+              <h2 className={`mt-2 font-bold text-gray-800 dark:text-white ${fontSize.name}`}>
+                {people[activeIndex].name}
+              </h2>
+              <div className={`flex items-center justify-center text-gray-600 dark:text-gray-400 mt-1 ${fontSize.role}`}>
+                <Briefcase size={12} className="mr-1" /> 
+                <span className="truncate">{people[activeIndex].role}</span>
+              </div>
+              <div className={`flex items-center justify-center text-gray-500 dark:text-gray-500 mt-0.5 ${fontSize.email}`}>
+                <Mail size={12} className="mr-1" /> 
+                <span className="truncate">{people[activeIndex].email}</span>
+              </div>
+            </motion.div>
+            <motion.div 
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              transition={{ duration: 0.3, delay: 0.2 }}
+              className="flex justify-center items-center mt-2 sm:mt-3 space-x-1 sm:space-x-2"
+            >
+              <button
+                onClick={prev}
+                className="p-1 sm:p-1.5 rounded-full bg-gray-100 dark:bg-gray-900 hover:bg-gray-200 dark:hover:bg-gray-800 transition-colors"
+              >
+                <ChevronLeft size={14} className="text-gray-700 dark:text-gray-300 sm:w-4 sm:h-4" />
+              </button>
+              <button className="px-3 sm:px-4 py-0.5 sm:py-1 text-xs sm:text-sm rounded-full bg-indigo-600 text-white hover:bg-indigo-700 dark:bg-indigo-500 dark:hover:bg-indigo-600 transition-colors">
+                Connect
+              </button>
+              <button
+                onClick={next}
+                className="p-1 sm:p-1.5 rounded-full bg-gray-100 dark:bg-gray-900 hover:bg-gray-200 dark:hover:bg-gray-800 transition-colors"
+              >
+                <ChevronRight size={14} className="text-gray-700 dark:text-gray-300 sm:w-4 sm:h-4" />
+              </button>
+            </motion.div>
+          </motion.div>
+        </AnimatePresence>
+
+        {/* Orbiting Profiles with Counter-Rotation */}
+        {people.map((p, i) => {
+          const rotation = getRotation(i);
+          const isActive = i === activeIndex;
+          
+          return (
+            <motion.div
+              key={p.id}
+              animate={{
+                transform: `rotate(${rotation}deg) translateY(-${containerRadius}px)`,
+              }}
+              transition={{
+                type: "spring",
+                stiffness: 150,
+                damping: 20,
+                delay: isActive ? 0 : Math.abs(i - activeIndex) * 0.05
+              }}
+              style={{
+                width: profileSize,
+                height: profileSize,
+                position: "absolute",
+                top: `calc(50% - ${profileSize / 2}px)`,
+                left: `calc(50% - ${profileSize / 2}px)`,
+                zIndex: isActive ? 20 : 10,
+              }}
+            >
+              {/* Counter-rotation to keep image upright */}
+              <motion.div
+                animate={{ rotate: -rotation }}
+                transition={{
+                  type: "spring",
+                  stiffness: 150,
+                  damping: 20,
+                }}
+                className="w-full h-full"
+              >
+                <motion.img
+                  src={p.profile}
+                  alt={p.name}
+                  onError={safeImage}
+                  onClick={() => handleProfileClick(i)}
+                  whileHover={{ 
+                    scale: 1.15,
+                    boxShadow: "0 10px 25px -5px rgba(0,0,0,0.1), 0 10px 10px -5px rgba(0,0,0,0.04)"
+                  }}
+                  whileTap={{ scale: 0.95 }}
+                  className={`w-full h-full object-cover rounded-full cursor-pointer transition-all duration-300 ${
+                    isActive 
+                      ? "border-4 border-indigo-500 dark:border-indigo-400 shadow-lg" 
+                      : "border-2 border-gray-300 dark:border-gray-600 hover:border-indigo-400 dark:hover:border-indigo-500"
+                  }`}
+                />
+              </motion.div>
+            </motion.div>
+          );
+        })}
+      </div>
+      
+      {/* Progress Indicator */}
+      <div className="flex justify-center mt-4 sm:mt-6 space-x-1.5 sm:space-x-2">
+        {people.map((_, index) => (
+          <motion.button
+            key={index}
+            onClick={() => setActiveIndex(index)}
+            className={`w-1.5 h-1.5 sm:w-2 sm:h-2 rounded-full transition-colors ${
+              index === activeIndex 
+                ? "bg-indigo-600 dark:bg-indigo-400" 
+                : "bg-gray-300 dark:bg-gray-600"
+            }`}
+            whileHover={{ scale: 1.3 }}
+            whileTap={{ scale: 0.9 }}
+          />
+        ))}
+      </div>
+    </div>
+  );
+}

@@ -1,0 +1,28 @@
+{
+  "category": "data-display",
+  "subcategory": "chat-message-feed",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Simulating live chat feeds on landing pages or demos",
+    "Displaying real-time messaging previews in streaming platform UIs",
+    "Showing community chat activity in creator tool dashboards",
+    "Demonstrating chat functionality in SaaS documentation",
+    "Previewing chat overlays for live streaming applications"
+  ],
+  "ai_summary": "A customizable chat preview component that simulates real-time message streams with animated visibility control via IntersectionObserver. Supports multiple variations (default, compact, expanded), custom theming, gradient backgrounds, and timed message sequencing. Ideal for displaying simulated chat feeds in demos, landing pages, or streaming platform interfaces with a modern, minimal aesthetic.",
+  "_classifiedAt": "2026-04-23T16:55:34.142Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@cult-ui/components/lightboard",
+  "author": "cult-ui",
+  "slug": "lightboard",
+  "name": "lightboard",
+  "description": "A fun lightboard component used to display moving text and draw in a visually appealing way.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/cult-ui/lightboard?api_key=$API_KEY_21ST\"",
+  "id": "cult-ui__lightboard",
+  "bundleUrl": "https://cdn.21st.dev/bundled/964.html",
+  "previewUrl": "https://cdn.21st.dev/user_cult_ui/lightboard.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

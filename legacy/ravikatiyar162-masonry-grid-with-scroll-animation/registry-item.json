@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ravikatiyar162-masonry-grid-with-scroll-animation",
+  "type": "registry:ui",
+  "title": "Ravikatiyar162 Masonry Grid With Scroll Animation",
+  "description": "Installed from https://21st.dev/r/ravikatiyar162/masonry-grid-with-scroll-animation",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ravikatiyar162-masonry-grid-with-scroll-animation"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "masonry-grid-with-scroll-animation.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ravikatiyar162/masonry-grid-with-scroll-animation",
+    "fetchedAt": "2026-04-23T01:16:55.748Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

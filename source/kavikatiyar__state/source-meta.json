@@ -1,0 +1,26 @@
+{
+  "id": "kavikatiyar__state",
+  "author": "kavikatiyar",
+  "slug": "state",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@kavikatiyar/components/state",
+  "fetchedAt": "2026-08-29T05:15:58.516Z",
+  "completedAt": "2026-08-29T05:16:00.808Z",
+  "versionedFilename": "code.1759325743951.tsx",
+  "codeReference": "r2://components-code-private/kavikatiyar/state/code.1759325743951.tsx",
+  "codeUrl": "https://cdn.21st.dev/kavikatiyar/state/code.1759325743951.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2776,
+  "sha256": "77843291f8f1836e380933a49b90b78322e6a4a46e6fc4740fd9ccf26c4f7ead",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "category": "hero",
+  "subcategory": "animated-shutter-text",
+  "visual_style": [],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero section typography with dramatic character-by-character blur reveal animations",
+    "Landing page headers that create immersive visual impact with staggered text animations",
+    "Brand-focused hero displays with responsive 15vw text sizing and dark mode support",
+    "Minimalist portfolio or showcase hero sections requiring smooth text transitions"
+  ],
+  "ai_summary": "An immersive hero text component featuring character-by-character blur reveal animations with a shutter effect. The component renders large responsive typography using viewport units, supports dark mode with smooth transitions, and includes a subtle grid background overlay. Built with Framer Motion for orchestrated staggered animations across individual characters, making it ideal for impactful hero sections on landing pages or portfolio sites.",
+  "_classifiedAt": "2026-04-22T08:55:16.652Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

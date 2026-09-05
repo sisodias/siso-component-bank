@@ -1,0 +1,33 @@
+{
+  "id": "blacksmith301__ai-hero-background",
+  "author": "blacksmith301",
+  "slug": "ai-hero-background",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@blacksmith301/components/ai-hero-background",
+  "fetchedAt": "2026-08-29T03:50:49.130Z",
+  "completedAt": "2026-08-29T03:50:51.033Z",
+  "versionedFilename": "code.1785364006263-1cbf701e-9350-4dbe-8625-cad304c61aa6.tsx",
+  "codeReference": "r2://components-code-private/blacksmith301/ai-hero-background/code.1785364006263-1cbf701e-9350-4dbe-8625-cad304c61aa6.tsx",
+  "codeUrl": "https://cdn.21st.dev/blacksmith301/ai-hero-background/code.1785364006263-1cbf701e-9350-4dbe-8625-cad304c61aa6.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/blacksmith301__ai-hero-background/code.tsx",
+    "bytes": 6131,
+    "sha256": "3254310f1dbbc4f95e2cc70161572f905baf9c9a145724f9f90746964e74c9de",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is gated-404/access-gated."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/dropdown-range-date-picker",
+  "author": "ruixen.ui",
+  "slug": "dropdown-range-date-picker",
+  "name": "dropdown-range-date-picker",
+  "description": "The DropdownRangeDatePicker is a popover-based date range selection component that combines intuitive navigation with a compact input interface. Built with shadcn/ui and react-day-picker, it features dropdown menus for selecting month and year, allowing users to jump directly to any part of the calendar without excessive navigation. The selected range is displayed within a styled input button, with long date ranges gracefully truncated to fit while still providing a clean preview of the chosen values. With built-in Clear and Apply actions, this component is ideal for booking systems, scheduling workflows, and dashboards where users need to quickly pick and confirm date ranges in a modern, space-efficient way.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/dropdown-range-date-picker?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__dropdown-range-date-picker",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/dropdown-range-date-picker/default/bundle.1758992494209.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/dropdown-range-date-picker/default/preview.1758992494209.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 64,
+  "demo_id": 8236,
+  "video_url": null
+}

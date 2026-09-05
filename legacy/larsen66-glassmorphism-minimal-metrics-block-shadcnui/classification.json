@@ -1,0 +1,27 @@
+{
+  "category": "data-display",
+  "subcategory": "metrics-dashboard-grid",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying key performance metrics with trend indicators for SaaS dashboards",
+    "Showing business KPIs like team activation rates, automation counts, and NPS scores",
+    "Presenting real-time analytics snapshots in fintech applications",
+    "Creating metric overview sections for project management tools",
+    "Building analytics summary blocks for B2B software landing pages"
+  ],
+  "ai_summary": "A glassmorphism-styled metrics display component featuring four key performance indicators with trend deltas, animated fade-up entrance effects on scroll, and soft blur orbs creating depth. Built with Framer Motion for viewport-triggered animations and shadcn/ui primitives for consistent styling. Ideal for SaaS dashboards and fintech analytics sections needing a modern, translucent aesthetic with clear data visualization.",
+  "_classifiedAt": "2026-04-22T09:03:41.439Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

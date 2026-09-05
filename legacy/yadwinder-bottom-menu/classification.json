@@ -1,0 +1,32 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "bottom-navigation-bar",
+  "visual_style": [
+    "glass-morphism",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Primary navigation for mobile-first web applications with animated tooltips",
+    "Tab switching interface with visual feedback and spring animations",
+    "Bottom navigation bar for SaaS dashboards and single-page applications",
+    "Tool-based application menu with backdrop blur effects"
+  ],
+  "ai_summary": "A bottom navigation menu component featuring animated tooltips, backdrop blur glass-morphism styling, and spring-based motion transitions. Tracks active item state with dynamic tooltip positioning. Built with Framer Motion for smooth enter/exit animations. Suitable for mobile-first interfaces requiring accessible, visually polished navigation controls.",
+  "_classifiedAt": "2026-04-23T17:44:19.906Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

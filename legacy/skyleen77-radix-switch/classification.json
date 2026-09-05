@@ -1,0 +1,26 @@
+{
+  "category": "input",
+  "subcategory": "toggle-switch",
+  "visual_style": [],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Toggle boolean settings and preferences in application forms",
+    "Enable or disable features with animated visual feedback",
+    "Replace checkbox inputs with a more modern toggle interface",
+    "Control dark mode, notifications, or other user preferences",
+    "Create yes/no decision flows with optional icon indicators"
+  ],
+  "ai_summary": "A customizable Radix UI toggle switch component with optional left, right, and thumb icon support, built with motion/react for smooth tap animations. Features controlled and uncontrolled modes, animated thumb movement between states, and accessible focus/disabled states with standard Tailwind styling.",
+  "_classifiedAt": "2026-04-23T17:32:42.846Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

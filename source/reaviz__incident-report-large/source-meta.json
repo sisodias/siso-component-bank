@@ -1,0 +1,26 @@
+{
+  "id": "reaviz__incident-report-large",
+  "author": "reaviz",
+  "slug": "incident-report-large",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@reaviz/components/incident-report-large",
+  "fetchedAt": "2026-08-29T06:32:51.132Z",
+  "completedAt": "2026-08-29T06:32:53.029Z",
+  "versionedFilename": "code.1748010101807.tsx",
+  "codeReference": "r2://components-code-private/larsen66/incident-report-large/code.1748010101807.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/incident-report-large/code.1748010101807.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 15017,
+  "sha256": "b8c0ea12c93a262b20fda5acb1d16db44beea32a46ca9745cc2832bb2e2a310f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

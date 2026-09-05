@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "stacked-area-chart, incident-tracking, time-series-visualization",
+  "visual_style": [
+    "flat",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Visualizing proportional distribution of incidents or events across multiple categories over time",
+    "Displaying normalized stacked data where each category's contribution is shown as a percentage of the total",
+    "Monitoring incident trends and category breakdowns for operational dashboards",
+    "Analyzing time-based proportional data in analytics and reporting interfaces",
+    "Comparing relative proportions of categorical data across different time periods"
+  ],
+  "ai_summary": "A stacked normalized area chart component from the reaviz library that displays time-series data with proportional stacked areas. Each category is normalized to show its percentage contribution to the total, making it ideal for visualizing incident distributions, event categorizations, and comparative proportional analysis across time periods. The component uses a pink color scheme with gradients and supports hover interactions for data exploration.",
+  "_classifiedAt": "2026-04-23T17:15:53.018Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

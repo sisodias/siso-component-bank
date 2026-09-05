@@ -1,0 +1,26 @@
+{
+  "id": "pacekit__ai-suggestions",
+  "author": "pacekit",
+  "slug": "ai-suggestions",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@pacekit/components/ai-suggestions",
+  "fetchedAt": "2026-08-29T06:02:11.522Z",
+  "completedAt": "2026-08-29T06:02:13.714Z",
+  "versionedFilename": "code.1784311536063-091a60d7-9c79-4dd2-8aea-e3461c3d0173.tsx",
+  "codeReference": "r2://components-code-private/pacekit/ai-suggestions/code.1784311536063-091a60d7-9c79-4dd2-8aea-e3461c3d0173.tsx",
+  "codeUrl": "https://cdn.21st.dev/pacekit/ai-suggestions/code.1784311536063-091a60d7-9c79-4dd2-8aea-e3461c3d0173.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

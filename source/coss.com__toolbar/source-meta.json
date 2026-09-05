@@ -1,0 +1,26 @@
+{
+  "id": "coss.com__toolbar",
+  "author": "coss.com",
+  "slug": "toolbar",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@coss.com/components/toolbar",
+  "fetchedAt": "2026-08-29T04:02:53.911Z",
+  "completedAt": "2026-08-29T04:02:56.482Z",
+  "versionedFilename": "code.1774286710192.tsx",
+  "codeReference": "r2://components-code-private/coss.com/toolbar/code.1774286710192.tsx",
+  "codeUrl": "https://cdn.21st.dev/coss.com/toolbar/code.1774286710192.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/typescript",
+  "bytes": 2111,
+  "sha256": "7c8b7e332dc4e2c91bd86eed9984399e3ada6561c4e7ad5993f800eeb9d67789",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

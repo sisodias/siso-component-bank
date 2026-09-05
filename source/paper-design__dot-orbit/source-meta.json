@@ -1,0 +1,26 @@
+{
+  "id": "paper-design__dot-orbit",
+  "author": "paper-design",
+  "slug": "dot-orbit",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@paper-design/components/dot-orbit",
+  "fetchedAt": "2026-08-29T06:03:13.076Z",
+  "completedAt": "2026-08-29T06:03:15.280Z",
+  "versionedFilename": "code.1785208963260-98c0adeb-4435-4b30-bfa9-9d7194d5f47a.tsx",
+  "codeReference": "r2://components-code-private/paper-design/dot-orbit/code.1785208963260-98c0adeb-4435-4b30-bfa9-9d7194d5f47a.tsx",
+  "codeUrl": "https://cdn.21st.dev/paper-design/dot-orbit/code.1785208963260-98c0adeb-4435-4b30-bfa9-9d7194d5f47a.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

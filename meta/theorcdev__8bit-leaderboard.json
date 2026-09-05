@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@theorcdev/components/8bit-leaderboard",
+  "author": "theorcdev",
+  "slug": "8bit-leaderboard",
+  "name": "8bit-leaderboard",
+  "description": "An 8-bit styled leaderboard block. Ranks players with retro avatars, scores, and rank badges, highlighting the current player, built on the retro card, badge, avatar, and separator primitives.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/theorcdev/8bit-leaderboard?api_key=$API_KEY_21ST\"",
+  "id": "theorcdev__8bit-leaderboard",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/8bit-leaderboard/default/bundle.1780525952285.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/8bit-leaderboard/default/preview.1780525952285.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

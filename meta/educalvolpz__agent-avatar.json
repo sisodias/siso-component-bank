@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@educalvolpz/components/agent-avatar",
+  "author": "educalvolpz",
+  "slug": "agent-avatar",
+  "name": "agent-avatar",
+  "description": "Canvas-based generative pixel avatar for AI agents, deterministic per seed and gently breathing while the agent works. Respects prefers-reduced-motion.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/educalvolpz/agent-avatar?api_key=$API_KEY_21ST\"",
+  "id": "educalvolpz__agent-avatar",
+  "bundleUrl": "https://cdn.21st.dev/educlopez/agent-avatar/default/bundle.1785571513658-9cc7b190-4112-4806-8d55-11a4cec0c010.html",
+  "previewUrl": "https://cdn.21st.dev/educlopez/agent-avatar/default/preview.1785571513658-9cc7b190-4112-4806-8d55-11a4cec0c010.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

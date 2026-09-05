@@ -1,0 +1,32 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "info-popover",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying contextual help or feature information on click",
+    "Showing quick info panels for form fields or UI elements",
+    "Providing tooltip-style explanations in dashboard interfaces",
+    "Triggering disclosure content in settings or configuration panels",
+    "Adding informational overlays in documentation or onboarding flows"
+  ],
+  "ai_summary": "A lightweight info popover component built with Ark UI that displays contextual information in a bordered panel with title and description. Features a trigger button with focus and hover states, smooth fade animations, and automatic dark mode support. The popover uses a portal for proper z-index stacking and includes an arrow pointing to the trigger element.",
+  "_classifiedAt": "2026-04-23T01:36:01.233Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,36 @@
+{
+  "category": [
+    "hero"
+  ],
+  "subcategory": "WebGL shader launch background",
+  "visual_style": [
+    "gradient",
+    "3d",
+    "colorful"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "media",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Landing page hero with animated 3D tunnel/fractal shader effects for product launches",
+    "Creative portfolio or demo showcase backgrounds with immersive WebGL visuals",
+    "Tech company marketing pages needing eye-catching animated backgrounds",
+    "Interactive product reveal sections with continuous shader animations",
+    "Modern SaaS landing pages requiring visually striking animated hero sections"
+  ],
+  "ai_summary": "A WebGL shader-powered hero component that renders an animated 3D tunnel/fractal effect using GLSL fragment shaders. Features continuous time-based animation with colorful gradient visuals and depth simulation, designed as a visually striking launch/hero background for landing pages and product showcases. Requires WebGL2 support and compiles custom vertex/fragment shaders at runtime.",
+  "_classifiedAt": "2026-04-23T01:55:33.851Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

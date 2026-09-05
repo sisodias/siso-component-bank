@@ -1,0 +1,32 @@
+{
+  "category": "card",
+  "subcategory": "glass-morphism scroll-stacking cards with GSAP animation",
+  "visual_style": [
+    "glass-morphism",
+    "gradient"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "media",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying feature highlights with a progressive reveal as users scroll through content",
+    "Showcasing pricing tiers in a visually engaging stacked card format",
+    "Presenting portfolio projects or testimonials with scroll-triggered animations",
+    "Creating an immersive product showcase with depth and layering effects",
+    "Building content sections that respond dynamically to scroll position"
+  ],
+  "ai_summary": "A glass-morphism card component featuring scroll-triggered stacking animations powered by GSAP ScrollTrigger. Cards progressively scale down as users scroll through, creating a 3D depth effect with frosted glass aesthetics. The animation interpolates card scale from full size to a calculated minimum based on card position, with transform origin set to center top for realistic stacking behavior.",
+  "_classifiedAt": "2026-04-23T01:41:56.901Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

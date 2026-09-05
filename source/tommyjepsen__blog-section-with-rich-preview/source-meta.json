@@ -1,0 +1,26 @@
+{
+  "id": "tommyjepsen__blog-section-with-rich-preview",
+  "author": "tommyjepsen",
+  "slug": "blog-section-with-rich-preview",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@tommyjepsen/components/blog-section-with-rich-preview",
+  "fetchedAt": "2026-08-29T07:39:25.018Z",
+  "completedAt": "2026-08-29T07:39:25.788Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null
+}

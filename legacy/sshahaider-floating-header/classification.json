@@ -1,0 +1,36 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "floating-header",
+  "visual_style": [
+    "minimalist",
+    "gradient-border"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Sticky navigation that appears when scrolling up on mobile",
+    "Floating header for dashboard and web application layouts",
+    "Navigation bar with responsive collapse behavior",
+    "Overlay header for landing pages and marketing sites",
+    "Contextual header that transforms based on scroll position"
+  ],
+  "ai_summary": "A floating header navigation component that provides sticky, scroll-aware navigation for web applications. Built with Radix UI and Tailwind CSS, it supports hover interactions and animates based on scroll behavior. The component uses class-variance-authority for consistent styling patterns and Slot primitives for composition flexibility. Ideal for SaaS dashboards, landing pages, and web applications requiring dynamic navigation that maintains context during user scrolling.",
+  "_classifiedAt": "2026-04-23T01:53:17.860Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

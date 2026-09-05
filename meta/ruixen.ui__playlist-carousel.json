@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/playlist-carousel",
+  "author": "ruixen.ui",
+  "slug": "playlist-carousel",
+  "name": "playlist-carousel",
+  "description": "The Playlist Carousel is a sleek, horizontally scrollable component designed for audio applications. Each card displays the track’s image, title, and duration, while integrating two types of progress indicators: a circular progress ring around the play/pause button showing the overall playback completion, and a linear progress bar beneath the title displaying the elapsed and total time. Users can start, pause, or switch tracks directly from the carousel, and the layout remains clean with a minimal white-and-black theme. Its intuitive interface and visual feedback make it ideal for music, meditation, or podcast apps, enhancing user engagement while maintaining a polished and modern aesthetic.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/playlist-carousel?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__playlist-carousel",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/playlist-carousel/default/bundle.1758701017193.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/playlist-carousel/default/preview.1758701017193.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 9,
+  "demo_id": 7984,
+  "video_url": null
+}

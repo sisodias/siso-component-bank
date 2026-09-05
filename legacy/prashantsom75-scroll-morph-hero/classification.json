@@ -1,0 +1,31 @@
+{
+  "category": "hero",
+  "subcategory": "scroll-morphing card grid with animation phases",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate",
+    "morph",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero sections with interactive scroll-driven card animations",
+    "Portfolio showcases where elements morph between scatter, line, circle, and strip formations",
+    "Product displays that respond to user scroll with 3D card transformations",
+    "Interactive presentations with depth-based perspective card flips",
+    "Creative agency websites featuring dynamic visual storytelling"
+  ],
+  "ai_summary": "A scroll-morphing hero component featuring an animated grid of cards that transform through four distinct phases—scatter, line, circle, and bottom-strip—driven by scroll position. Cards utilize 3D perspective transforms with spring physics animations and feature hover-triggered flip interactions. Built with Framer Motion for smooth, physics-based transitions between formation states.",
+  "_classifiedAt": "2026-04-22T09:07:53.788Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

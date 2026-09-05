@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar/user-profile-with-status-indicator",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display user avatars with online/offline status indicators in dashboards and team views",
+    "Show user profile pictures with presence indicators in messaging and collaboration apps",
+    "Render user avatars in social media feeds and comment sections",
+    "Display team member avatars with status badges in admin panels",
+    "Show user profiles in e-commerce seller/reviewer sections"
+  ],
+  "ai_summary": "A composite Avatar component system featuring Radix UI primitives with multiple sub-components including Avatar, AvatarImage, AvatarFallback, AvatarIndicator, and AvatarStatus. Supports four status variants (online, offline, busy, away) with CVA-powered styling. Designed for displaying user profiles with real-time presence indicators in dashboards, social platforms, and collaboration tools. Clean, minimal aesthetic suitable for professional SaaS applications.",
+  "_classifiedAt": "2026-04-23T01:52:27.328Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

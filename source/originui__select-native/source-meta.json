@@ -1,0 +1,33 @@
+{
+  "id": "originui__select-native",
+  "author": "originui",
+  "slug": "select-native",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@originui/components/select-native",
+  "fetchedAt": "2026-08-29T06:01:23.908Z",
+  "completedAt": "2026-08-29T06:01:25.020Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/originui__select-native/code.tsx",
+    "bytes": 1561,
+    "sha256": "b5e455ecfcffdde526802c0b9e9ec786d0fb6eaaaf269cde62f6a1d5c61ac11e",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

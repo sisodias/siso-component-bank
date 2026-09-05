@@ -1,0 +1,26 @@
+{
+  "id": "moazamtrade__ai-models-preview",
+  "author": "moazamtrade",
+  "slug": "ai-models-preview",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@moazamtrade/components/ai-models-preview",
+  "fetchedAt": "2026-08-29T05:46:33.746Z",
+  "completedAt": "2026-08-29T05:46:36.966Z",
+  "versionedFilename": "code.1758547121835.tsx",
+  "codeReference": "r2://components-code-private/moazamtrade/ai-models-preview/code.1758547121835.tsx",
+  "codeUrl": "https://cdn.21st.dev/moazamtrade/ai-models-preview/code.1758547121835.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5730,
+  "sha256": "d5f44b2b04d45c13beb0a6d0ce8b0b78c8e3fd183cf43f4a4611442759aebe9c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

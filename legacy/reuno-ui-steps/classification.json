@@ -1,0 +1,28 @@
+{
+  "category": "navigation",
+  "subcategory": "step-indicator-wizard",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying step-by-step tutorials with code snippets for developers",
+    "Guiding users through onboarding or setup processes in SaaS applications",
+    "Creating interactive code documentation with syntax highlighting",
+    "Building installation guides with copyable command snippets",
+    "Presenting multi-step forms or workflows with visual progress indication"
+  ],
+  "ai_summary": "A vertical step-by-step indicator component with integrated code display and clipboard copy functionality. Designed for tutorials, documentation, and onboarding flows with dark mode support. Features clickable copy-to-clipboard for code snippets and optional line highlighting for emphasis.",
+  "_classifiedAt": "2026-04-23T17:16:52.909Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

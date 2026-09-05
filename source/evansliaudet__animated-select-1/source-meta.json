@@ -1,0 +1,33 @@
+{
+  "id": "evansliaudet__animated-select-1",
+  "author": "evansliaudet",
+  "slug": "animated-select-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@evansliaudet/components/animated-select-1",
+  "fetchedAt": "2026-08-29T04:46:24.103Z",
+  "completedAt": "2026-08-29T04:46:25.774Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/evansliaudet__animated-select-1/code.tsx",
+    "bytes": 5073,
+    "sha256": "089ebe1037072b0a1412f029a1b193f8e5645a19e2de427ad6de858c46a6c76b",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

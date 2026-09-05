@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__roadmap",
+  "author": "ruixen.ui",
+  "slug": "roadmap",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/roadmap",
+  "fetchedAt": "2026-08-29T06:47:42.879Z",
+  "completedAt": "2026-08-29T06:47:45.400Z",
+  "versionedFilename": "code.1762881761385.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/roadmap/code.1762881761385.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/roadmap/code.1762881761385.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10581,
+  "sha256": "a40a9e6a82de0529d1412c0234aa7f79bcfc46d33f25f2a3a2d2f3804b1ecb82",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

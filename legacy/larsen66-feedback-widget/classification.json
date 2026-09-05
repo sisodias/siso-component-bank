@@ -1,0 +1,28 @@
+{
+  "category": "feedback",
+  "subcategory": "emoji-rating",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Collecting user sentiment after product interactions or feature usage",
+    "Gathering quick satisfaction ratings on e-commerce checkout flows",
+    "Measuring user experience feedback in SaaS dashboards",
+    "Capturing instant user mood at key touchpoints in applications",
+    "Enabling low-friction NPS-style ratings with visual emoji feedback"
+  ],
+  "ai_summary": "An interactive emoji-based feedback widget that collects user sentiment through selectable reaction icons. Built with Radix UI ToggleGroup for accessible keyboard navigation and Framer Motion for smooth animations. The widget presents five sentiment levels (Terrible to Amazing) using custom SVG icons, making it ideal for capturing quick user satisfaction data with minimal friction in any SaaS or customer-facing application.",
+  "_classifiedAt": "2026-04-22T09:03:30.514Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

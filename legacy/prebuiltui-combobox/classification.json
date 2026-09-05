@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "combobox",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Searchable dropdown selection for forms in SaaS applications",
+    "Autocomplete suggestions for user input fields",
+    "Filtering and selecting items from large lists",
+    "Interactive form element with clear and trigger functionality",
+    "Accessible combobox with keyboard navigation support"
+  ],
+  "ai_summary": "A searchable combobox component from Base UI that provides autocomplete and dropdown selection functionality. Features a clean flat design with input field, clear button, and animated popup menu for selecting items from a predefined list. Suitable for forms requiring quick item lookup and selection.",
+  "_classifiedAt": "2026-04-23T01:45:21.058Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RayMethula__testimonial",
+  "author": "RayMethula",
+  "slug": "testimonial",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@RayMethula/components/testimonial",
+  "fetchedAt": "2026-08-29T06:32:07.986Z",
+  "completedAt": "2026-08-29T06:32:09.046Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/RayMethula__testimonial/code.tsx",
+    "bytes": 2155,
+    "sha256": "b3d678ad325f8a89aca8bdb4aa48a3b79670bd473c268d0f2e9504a8b171c343",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

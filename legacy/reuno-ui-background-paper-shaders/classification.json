@@ -1,0 +1,31 @@
+{
+  "category": "media",
+  "subcategory": "3d-webgl-shader-background",
+  "visual_style": [
+    "3d",
+    "gradient"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Animated hero section backgrounds with customizable gradient colors",
+    "Landing pages requiring dynamic, eye-catching visual effects",
+    "Creative portfolios or digital experiences needing shader-based art",
+    "Product showcases that benefit from premium animated backgrounds"
+  ],
+  "ai_summary": "A WebGL-based 3D background component using custom GLSL shaders with React Three Fiber. Features animated noise patterns, gradient color mixing between two customizable colors, and a radial glow effect. The shader uses time-based uniforms for continuous animation and intensity modulation via sine waves, creating a dynamic, modern visual backdrop suitable for hero sections or landing pages.",
+  "_classifiedAt": "2026-04-23T17:16:02.724Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

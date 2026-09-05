@@ -1,0 +1,27 @@
+{
+  "category": "card",
+  "subcategory": "message-list",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying a list of client messages in a messaging app sidebar",
+    "Navigating between conversations in a CRM or support dashboard",
+    "Showing recent messages with favoriting capability for quick access",
+    "Creating a chat interface sidebar with search functionality",
+    "Building a notification center with timestamped message items"
+  ],
+  "ai_summary": "A minimalist sidebar component that renders a scrollable list of message cards, each displaying user avatar, name, message preview, and timestamp. Supports click-to-select interaction with active state highlighting and a toggleable star icon for marking favorites. Designed for messaging interfaces, chat clients, and notification panels where users need to browse and organize incoming communications efficiently.",
+  "_classifiedAt": "2026-04-23T16:49:46.870Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

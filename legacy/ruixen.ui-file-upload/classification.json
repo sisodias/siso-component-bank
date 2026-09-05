@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Form submission and action triggers with multiple visual variants",
+    "Navigation triggers with link variant styling",
+    "Destructive action confirmation with red variant",
+    "Icon-only buttons for compact UI spaces",
+    "Accessible button composition via Radix UI Slot"
+  ],
+  "ai_summary": "A multi-variant button component from Ruixen UI featuring 6 style variants (default, destructive, outline, secondary, ghost, link) and 4 size options. Built with Radix UI Slot for composition, CVA for variant management, and includes focus, hover, and disabled states with subtle shadows. Note: despite the file name suggesting file-upload functionality, the actual component is a generic Button.",
+  "_classifiedAt": "2026-04-23T17:18:03.674Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

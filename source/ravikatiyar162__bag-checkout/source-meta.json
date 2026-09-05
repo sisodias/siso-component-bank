@@ -1,0 +1,26 @@
+{
+  "id": "ravikatiyar162__bag-checkout",
+  "author": "ravikatiyar162",
+  "slug": "bag-checkout",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ravikatiyar162/components/bag-checkout",
+  "fetchedAt": "2026-08-29T06:20:28.369Z",
+  "completedAt": "2026-08-29T06:20:30.248Z",
+  "versionedFilename": "code.1761998526245.tsx",
+  "codeReference": "r2://components-code-private/ravikatiyar162/bag-checkout/code.1761998526245.tsx",
+  "codeUrl": "https://cdn.21st.dev/ravikatiyar162/bag-checkout/code.1761998526245.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 12988,
+  "sha256": "f761a5c15f1897b31016b38feb414b173897d86d2bbf67de6e2b0b5f7054cdb8",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

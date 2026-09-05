@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruhith369/components/loader",
+  "author": "ruhith369",
+  "slug": "loader",
+  "name": "loader",
+  "description": "This loader component is a gooey dots animation built with React, TypeScript, Tailwind CSS, and a small amount of custom CSS keyframes. It consists of three colorful circular dots (yellow, blue, and red) that shrink, move, and return in a loop while the entire group rotates smoothly, creating a fluid and dynamic motion. The effect is enhanced by an SVG goo filter (feGaussianBlur + feColorMatrix) that blends the dots together into a single organic shape when they overlap, giving the illusion of liquid merging and separating. The component is fully responsive, centered on the screen with Tailwind utilities, and uses modern CSS animations for performance-friendly rendering. It’s an eye-catching, reusable loader ideal for projects that need a playful, modern loading animation.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruhith369/loader?api_key=$API_KEY_21ST\"",
+  "id": "ruhith369__loader",
+  "bundleUrl": "https://cdn.21st.dev/ruhith369/loader/default/bundle.1759089991111.html",
+  "previewUrl": "https://cdn.21st.dev/ruhith369/loader/default/preview.1759089991110.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 22,
+  "demo_id": 8296,
+  "video_url": "https://cdn.21st.dev/ruhith369/loader/default/video.1759089991110.mp4"
+}

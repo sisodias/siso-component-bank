@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@dialkit/components/dialkit",
+  "author": "dialkit",
+  "slug": "dialkit",
+  "name": "dialkit",
+  "description": "A floating control panel to tune animation and UI parameters in real time. Wire sliders, toggles, color pickers, spring editors and easing curves directly to your values, organize them into nested folders, and export presets as JSON. Auto-detects control types from a plain config object and works with React, Solid, Svelte and Vue.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/dialkit/dialkit?api_key=$API_KEY_21ST\"",
+  "id": "dialkit__dialkit",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/dialkit/default/bundle.1783607676608.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/dialkit/default/preview.1783607676608.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

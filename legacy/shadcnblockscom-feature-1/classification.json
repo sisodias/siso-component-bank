@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-component",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education",
+    "media",
+    "real-estate",
+    "creator-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Triggering primary actions in forms and applications",
+    "Navigation and routing through clickable buttons",
+    "Submitting form data with styled CTA buttons",
+    "Creating accessible icon-only buttons for toolbars",
+    "Implementing action buttons in cards and dialogs"
+  ],
+  "ai_summary": "A reusable button component from shadcn/ui featuring multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, small, large, icon). Built with class-variance-authority for variant management and Radix UI Slot for composition patterns. Provides accessible, ring-focused styling out of the box and supports disabled states. Universal atomic component suitable for any SaaS, e-commerce, or web application requiring clickable action triggers.",
+  "_classifiedAt": "2026-04-23T17:27:47.485Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

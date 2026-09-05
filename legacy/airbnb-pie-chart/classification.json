@@ -1,0 +1,28 @@
+{
+  "category": "data-display",
+  "subcategory": "pie-chart",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying browser usage statistics in analytics dashboards",
+    "Visualizing letter frequency distributions for text analysis tools",
+    "Showing proportional data with interactive segment selection",
+    "Creating animated data presentations in SaaS reporting interfaces"
+  ],
+  "ai_summary": "An interactive pie chart component built with @visx/shape and @react-spring/web for smooth data visualization. Features multiple dataset support (browsers, letter frequency), click-to-highlight selection with animated transitions, and gradient color schemes. Designed for responsive display across desktop and mobile platforms, making it suitable for analytics dashboards and reporting interfaces in SaaS and fintech applications.",
+  "_classifiedAt": "2026-04-23T11:29:52.900Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,25 @@
+{
+  "category": "input",
+  "subcategory": "range-slider",
+  "visual_style": [],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Allowing users to select a single numeric value within a defined range by dragging the thumb control",
+    "Adjusting settings like volume, brightness, or opacity in application interfaces",
+    "Filtering content by price ranges or numeric thresholds in data-driven applications"
+  ],
+  "ai_summary": "A lightweight, accessible range slider component built with Base UI and Tailwind CSS. Features a minimal flat design with a track, progress indicator, and draggable thumb with focus states for keyboard navigation. Suitable for desktop and mobile interfaces requiring numeric value selection.",
+  "_classifiedAt": "2026-04-23T11:32:27.327Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

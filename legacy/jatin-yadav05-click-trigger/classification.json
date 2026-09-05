@@ -1,0 +1,26 @@
+{
+  "category": "feedback",
+  "subcategory": "click-trigger-animation",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Add satisfying click feedback to interactive cards and buttons",
+    "Enhance user engagement with animated micro-interactions",
+    "Provide visual confirmation for touch or click events",
+    "Create playful UI experiences in modern web applications"
+  ],
+  "ai_summary": "An interactive click feedback component that spawns an animated plus sign (+) at the exact click position on a card. Features smooth CSS animations with a 600ms duration, dark mode support, and a clean minimalist aesthetic. Ideal for adding engaging micro-interactions to buttons, cards, or any clickable UI elements in modern applications.",
+  "_classifiedAt": "2026-04-23T01:40:42.779Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

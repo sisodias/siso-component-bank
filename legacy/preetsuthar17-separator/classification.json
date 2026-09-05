@@ -1,0 +1,36 @@
+{
+  "category": [
+    "layout"
+  ],
+  "subcategory": "separator-divider",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Separating visual sections within layouts and page content",
+    "Dividing form fields or form sections for better organization",
+    "Creating horizontal or vertical dividers between card components",
+    "Adding visual breaks in navigation menus or sidebars",
+    "Building composite components that require section separation"
+  ],
+  "ai_summary": "A lightweight separator component built on Radix UI primitives for creating horizontal or vertical dividers. Supports three thickness variants (sm, md, lg) and both orientations. Designed as an atomic layout primitive for organizing content sections in SaaS, e-commerce, and general web applications with a clean, flat visual style.",
+  "_classifiedAt": "2026-04-23T17:09:21.419Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

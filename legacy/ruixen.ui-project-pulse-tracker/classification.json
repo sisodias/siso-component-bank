@@ -1,0 +1,28 @@
+{
+  "category": "card",
+  "subcategory": "project-tracker",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying project overview with name, description, and visual branding icon",
+    "Showing team member roster with avatars and real-time online status indicators",
+    "Tracking milestone progress with completion status and due date countdowns",
+    "Providing at-a-glance project status for dashboard interfaces",
+    "Enabling project managers to monitor team availability and task completion"
+  ],
+  "ai_summary": "A glass-morphism styled project pulse tracker card component displaying project metadata, team member status (online/busy/offline), and milestone progress. Features a two-column responsive layout with backdrop blur effects and dark mode support. Designed for dashboard integration to give teams a consolidated view of project health, team availability, and upcoming deadlines.",
+  "_classifiedAt": "2026-04-23T17:19:45.839Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

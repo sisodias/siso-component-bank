@@ -1,0 +1,33 @@
+{
+  "id": "originui__tooltip",
+  "author": "originui",
+  "slug": "tooltip",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@originui/components/tooltip",
+  "fetchedAt": "2026-08-29T06:01:32.716Z",
+  "completedAt": "2026-08-29T06:01:33.795Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/originui__tooltip/code.tsx",
+    "bytes": 1502,
+    "sha256": "905785a24346f2c6839fe0cbbef8fcf2f789289f77006fd57bc522c551e735ac",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

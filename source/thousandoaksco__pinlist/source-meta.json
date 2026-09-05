@@ -1,0 +1,26 @@
+{
+  "id": "thousandoaksco__pinlist",
+  "author": "thousandoaksco",
+  "slug": "pinlist",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@thousandoaksco/components/pinlist",
+  "fetchedAt": "2026-08-29T07:37:43.635Z",
+  "completedAt": "2026-08-29T07:37:46.408Z",
+  "versionedFilename": "code.1782680443780.tsx",
+  "codeReference": "r2://components-code-private/thousandoaksco/pinlist/code.1782680443780.tsx",
+  "codeUrl": "https://cdn.21st.dev/thousandoaksco/pinlist/code.1782680443780.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1216,
+  "sha256": "777b1d22e7e7d26c9034fe908df34273ba2d578753c81b436cee1814a069d89c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

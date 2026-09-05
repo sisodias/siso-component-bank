@@ -1,0 +1,29 @@
+{
+  "category": "media",
+  "subcategory": "avatar",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "social"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display user profile pictures in navigation headers or sidebars",
+    "Show user avatars in comment sections, reviews, or forum threads",
+    "Represent users in data tables, user lists, or team directories",
+    "Provide fallback initials display when profile images fail to load",
+    "Use in messaging interfaces to identify senders and receivers"
+  ],
+  "ai_summary": "A reusable avatar component built on Radix UI primitives that displays user profile images with automatic fallback to initials when images fail to load. Includes AvatarImage and AvatarFallback sub-components for complete state handling.",
+  "_classifiedAt": "2026-04-23T17:45:33.430Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

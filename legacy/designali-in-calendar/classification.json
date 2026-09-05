@@ -1,0 +1,39 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Trigger form submissions and actions in web applications",
+    "Navigate between pages or sections when used with routing",
+    "Provide accessible interactive buttons with keyboard navigation support",
+    "Support multiple visual variants for different contextual actions (primary, destructive, secondary)"
+  ],
+  "ai_summary": "A reusable Radix UI-based Button component with CVA (class-variance-authority) for managing multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Supports asChild prop for composition with Radix Slot, includes focus-visible styling for accessibility, and uses Tailwind CSS for styling with ring-offset-background theming system.",
+  "_classifiedAt": "2026-04-23T16:30:26.270Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

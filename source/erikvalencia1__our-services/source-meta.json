@@ -1,0 +1,26 @@
+{
+  "id": "erikvalencia1__our-services",
+  "author": "erikvalencia1",
+  "slug": "our-services",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@erikvalencia1/components/our-services",
+  "fetchedAt": "2026-08-29T04:46:07.516Z",
+  "completedAt": "2026-08-29T04:46:11.030Z",
+  "versionedFilename": "code.1757731681511.tsx",
+  "codeReference": "r2://components-code-private/erikvalencia1/our-services/code.1757731681511.tsx",
+  "codeUrl": "https://cdn.21st.dev/erikvalencia1/our-services/code.1757731681511.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5061,
+  "sha256": "7608260cc4e22952bb978b98f2f23d78fcdcb51257813cbef0c811d0ebe7f0ce",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

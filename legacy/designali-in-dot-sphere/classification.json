@@ -1,0 +1,33 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "3d-dot-sphere-animation",
+  "visual_style": [
+    "3d",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "3D sphere visualization with animated dots creating depth illusion on canvas",
+    "Decorative hero element with ambient dot sphere animation",
+    "Background ambient animation for landing pages and splash screens",
+    "Interactive sphere component with optional mouse-follow behavior"
+  ],
+  "ai_summary": "A canvas-based 3D dot sphere animation that renders hundreds of dots in spherical formation with smooth easing-based rotation. The component creates a mesmerizing depth illusion using flat-colored dots positioned mathematically in 3D space, projected onto 2D canvas. Configurable via props for dot spacing, sphere radius, colors, and optional mouse-follow behavior. Self-contained with no external dependencies.",
+  "_classifiedAt": "2026-04-22T08:56:11.646Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

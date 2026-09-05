@@ -1,0 +1,26 @@
+{
+  "category": "card",
+  "subcategory": "destination-card",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "media",
+    "e-commerce",
+    "travel"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display travel destinations with image backgrounds in listing grids",
+    "Show destination recommendations with category and title labels",
+    "Create interactive hotel or tour package cards with like functionality",
+    "Build travel inspiration sections with hover animation effects",
+    "Generate destination discovery interfaces for booking platforms"
+  ],
+  "ai_summary": "A destination card component designed for travel and discovery interfaces. Features a full-bleed background image with smooth scale animation on hover, category badge, title, and interactive like button with Heart icon. Built with shadcn/ui utilities including CVA for variant handling and forwardRef for ref forwarding. The card uses GPU-accelerated transforms and transitions for 60fps performance, making it suitable for mobile and desktop travel booking or discovery applications.",
+  "_classifiedAt": "2026-04-23T17:11:07.765Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

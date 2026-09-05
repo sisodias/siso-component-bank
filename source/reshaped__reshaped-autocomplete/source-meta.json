@@ -1,0 +1,26 @@
+{
+  "id": "reshaped__reshaped-autocomplete",
+  "author": "reshaped",
+  "slug": "reshaped-autocomplete",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@reshaped/components/reshaped-autocomplete",
+  "fetchedAt": "2026-08-29T06:33:36.004Z",
+  "completedAt": "2026-08-29T06:33:38.115Z",
+  "versionedFilename": "code.1783346257644.tsx",
+  "codeReference": "r2://components-code-private/larsen66/reshaped-autocomplete/code.1783346257644.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/reshaped-autocomplete/code.1783346257644.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 548,
+  "sha256": "10e60664bb1feeb9890b86d434234eef0103cf503d7b7f1bbe10acf0f4bea657",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

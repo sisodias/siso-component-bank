@@ -1,0 +1,47 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "aceternity-cover",
+  "type": "registry:ui",
+  "title": "Aceternity Cover",
+  "description": "Installed from https://21st.dev/r/aceternity/cover",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "aceternity-cover"
+  ],
+  "files": [
+    {
+      "path": "cover.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "sparkles.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@tsparticles/engine",
+    "@tsparticles/react",
+    "@tsparticles/slim",
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/aceternity/cover",
+    "fetchedAt": "2026-04-23T03:05:48.127Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

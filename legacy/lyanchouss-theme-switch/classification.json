@@ -1,0 +1,37 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "checkbox",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Form checkbox selection for user input and data collection",
+    "Toggle settings and feature switches in application interfaces",
+    "Agreement and terms acceptance in sign-up or checkout flows",
+    "Filter and selection controls in data tables or lists",
+    "Enable or disable options in settings panels"
+  ],
+  "ai_summary": "A Radix UI-based checkbox primitive component styled with Tailwind CSS, providing an accessible checkbox input with focus-visible outlines, disabled states, and checked state indicators using the Lucide Check icon. This atomic component serves as a foundational form control for any web application requiring boolean selection or toggle functionality.",
+  "_classifiedAt": "2026-04-23T01:43:21.184Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,32 @@
+{
+  "category": "data-display",
+  "subcategory": "badge-label",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying status indicators like 'new', 'hot', or 'sale' on product and content cards",
+    "Showing categorical tag labels for filtering and organization in content management",
+    "Indicating notification counts or unread message badges in dashboards and inboxes",
+    "Highlighting feature availability or subscription tier labels in SaaS interfaces",
+    "Marking validation states like 'success', 'warning', or 'error' in form-heavy applications"
+  ],
+  "ai_summary": "A lightweight, reusable badge component with four style variants (default, secondary, destructive, outline) following shadcn/ui design patterns. Built with class-variance-authority for consistent variant-based styling and includes focus and hover states for accessibility. Serves as an atomic building block for displaying labels, tags, and status indicators across various interface contexts.",
+  "_classifiedAt": "2026-04-23T01:42:58.593Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

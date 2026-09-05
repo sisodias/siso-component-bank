@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__integration-hero",
+  "author": "ruixen.ui",
+  "slug": "integration-hero",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/integration-hero",
+  "fetchedAt": "2026-08-29T06:44:16.455Z",
+  "completedAt": "2026-08-29T06:44:18.512Z",
+  "versionedFilename": "code.1755435121298.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/integration-hero/code.1755435121298.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/integration-hero/code.1755435121298.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4073,
+  "sha256": "12ce5f825e4b9f819ff6ecba0b7bcb69357b0dd6cf47df8ed3f6cb2d625c32f1",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

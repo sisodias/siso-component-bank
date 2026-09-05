@@ -1,0 +1,26 @@
+{
+  "id": "uniquesonu__mastercard-component",
+  "author": "uniquesonu",
+  "slug": "mastercard-component",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uniquesonu/components/mastercard-component",
+  "fetchedAt": "2026-08-29T07:49:14.614Z",
+  "completedAt": "2026-08-29T07:49:16.520Z",
+  "versionedFilename": "code.1752934711112.tsx",
+  "codeReference": "r2://components-code-private/uniquesonu/mastercard-component/code.1752934711112.tsx",
+  "codeUrl": "https://cdn.21st.dev/uniquesonu/mastercard-component/code.1752934711112.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7825,
+  "sha256": "cb541187373be539e07e8dab56ddcd129e9d58b9a386126a549866ec988e2604",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

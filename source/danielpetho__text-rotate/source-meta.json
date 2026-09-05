@@ -1,0 +1,33 @@
+{
+  "id": "danielpetho__text-rotate",
+  "author": "danielpetho",
+  "slug": "text-rotate",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@danielpetho/components/text-rotate",
+  "fetchedAt": "2026-08-29T04:08:07.519Z",
+  "completedAt": "2026-08-29T04:08:09.003Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/danielpetho__text-rotate/code.tsx",
+    "bytes": 7726,
+    "sha256": "423084fa0931f4c1ae419ca5f83cbac29d61c891509451ef490a172ef9b7ac1d",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "shadcn-calendar-with-month-and-year-dropdown",
+  "type": "registry:ui",
+  "title": "Shadcn Calendar With Month And Year Dropdown",
+  "description": "Installed from https://21st.dev/r/shadcn/calendar-with-month-and-year-dropdown",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "shadcn-calendar-with-month-and-year-dropdown"
+  ],
+  "files": [
+    {
+      "path": "calendar-rac.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "calendar-with-month-and-year-dropdown.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "label.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "select.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@internationalized/date",
+    "@radix-ui/react-icons",
+    "@radix-ui/react-label",
+    "@radix-ui/react-select",
+    "class-variance-authority",
+    "react-aria-components"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/shadcn/calendar-with-month-and-year-dropdown",
+    "fetchedAt": "2026-04-23T03:04:19.135Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

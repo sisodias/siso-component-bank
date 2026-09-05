@@ -1,0 +1,33 @@
+{
+  "category": "form",
+  "subcategory": "token-swap",
+  "visual_style": [
+    "glass-morphism",
+    "dark",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Swap one cryptocurrency token for another in a DeFi application",
+    "Enable users to exchange tokens with real-time price calculations and slippage settings",
+    "Integrate into crypto wallets for quick token exchanges",
+    "Add swap functionality to decentralized exchange interfaces",
+    "Display token balances and 24h price changes during swap operations"
+  ],
+  "ai_summary": "A cryptocurrency token swap interface component featuring glass-morphism styling with dark theme aesthetics. Supports selecting source and destination tokens, entering swap amounts with real-time conversion, configurable slippage tolerance, and animated loading/success/error states. Uses Framer Motion for smooth morphing animations between swap states and includes wallet balance display with 24h price change indicators.",
+  "_classifiedAt": "2026-04-23T16:43:58.346Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

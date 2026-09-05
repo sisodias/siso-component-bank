@@ -1,0 +1,29 @@
+{
+  "category": "media",
+  "subcategory": "WebGL animated grid shader",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero section background with animated grid effect",
+    "Landing page visual accent with scrolling grid animation",
+    "Tech-forward dashboard background with dynamic shader effect",
+    "Modern website section with responsive WebGL grid overlay",
+    "Loading screen or transition effect with grid animation"
+  ],
+  "ai_summary": "A WebGL-powered scrolling grid shader component using Three.js that renders a continuously animating grid pattern on a dark background. The effect creates bright grid lines using sine and cosine functions, offset by elapsed time to produce smooth horizontal scrolling. Designed as a full-container visual element, it responds to window resize and device pixel ratio for crisp rendering across platforms.",
+  "_classifiedAt": "2026-04-23T01:38:55.021Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

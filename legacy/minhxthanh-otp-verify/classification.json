@@ -1,0 +1,28 @@
+{
+  "category": "form",
+  "subcategory": "otp-verify",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "User authentication flows requiring one-time password verification via SMS or email",
+    "Account recovery and identity verification during sensitive operations",
+    "Two-factor authentication (2FA) entry screens for secure logins",
+    "Phone or email verification during onboarding processes"
+  ],
+  "ai_summary": "A dark-themed OTP verification component featuring a 4-digit input form with auto-focus navigation and keyboard support. Includes loading states during verification and a resend option, styled with gradient overlays and a tunnel animation background for a modern, immersive auth experience.",
+  "_classifiedAt": "2026-04-23T16:59:38.392Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

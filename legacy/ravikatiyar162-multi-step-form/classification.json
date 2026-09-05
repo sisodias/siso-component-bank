@@ -1,0 +1,33 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "alert-notification",
+  "visual_style": [
+    "minimalist",
+    "gradient-border"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display form validation error messages to users",
+    "Show success confirmations after form submission",
+    "Present warning notifications for incomplete actions",
+    "Render informational alerts with custom icons and actions"
+  ],
+  "ai_summary": "A versatile Alert notification component with multiple variants (default, warning, error, success, info) supporting both row and complex layouts. Features customizable icons and action buttons, with a notification mode that adds shadow styling. Designed for accessibility with role='alert' and uses Tailwind CSS for styling with CVA variants for easy theming.",
+  "_classifiedAt": "2026-04-22T09:10:09.882Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

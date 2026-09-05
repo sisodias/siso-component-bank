@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-action",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary action triggers in forms and interfaces",
+    "Navigation links with styled button appearance",
+    "Destructive actions requiring confirmation",
+    "Secondary or alternative action options",
+    "Icon-only buttons for compact UI areas"
+  ],
+  "ai_summary": "A reusable atomic button component with Radix UI Slot composition and class-variance-authority for flexible variant and size management. Supports 6 variants (default, destructive, outline, secondary, ghost, link) and 4 sizes (default, sm, lg, icon) with proper accessibility focus rings and disabled states. Uses Tailwind CSS for styling and can be composed with asChild prop for advanced use cases.",
+  "_classifiedAt": "2026-04-23T01:40:09.389Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

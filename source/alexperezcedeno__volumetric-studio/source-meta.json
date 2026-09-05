@@ -1,0 +1,26 @@
+{
+  "id": "alexperezcedeno__volumetric-studio",
+  "author": "alexperezcedeno",
+  "slug": "volumetric-studio",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@alexperezcedeno/components/volumetric-studio",
+  "fetchedAt": "2026-08-29T03:32:27.181Z",
+  "completedAt": "2026-08-29T03:32:29.561Z",
+  "versionedFilename": "code.1782494917972.tsx",
+  "codeReference": "r2://components-code-private/alexperezcedeno/volumetric-studio/code.1782494917972.tsx",
+  "codeUrl": "https://cdn.21st.dev/alexperezcedeno/volumetric-studio/code.1782494917972.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 14504,
+  "sha256": "adec62a22bb8a7652b1da11a88564f1226bd6e5db9abbc1351b1afb61330a95d",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

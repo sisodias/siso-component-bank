@@ -1,0 +1,31 @@
+{
+  "category": "input",
+  "subcategory": "glowing-button",
+  "visual_style": [
+    "glass-morphism",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action button with customizable glow effect for tech products",
+    "Brand-colored interactive buttons with hover animations for SaaS applications",
+    "Attention-grabbing CTAs with sliding glow bar for landing pages",
+    "Customizable accent buttons with glass-morphism styling for dashboards",
+    "Dark-mode friendly glowing buttons for crypto and Web3 interfaces"
+  ],
+  "ai_summary": "A customizable glowing button component featuring glass-morphism styling with gradient overlays and color-tinted glow effects. The button transitions smoothly between foreground and muted states on hover, with a dynamic glow bar that slides in from the right edge. Accepts glowColor prop for brand customization and uses pseudo-elements for the layered glow animation.",
+  "_classifiedAt": "2026-04-23T11:31:42.993Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

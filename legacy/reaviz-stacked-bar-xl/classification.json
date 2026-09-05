@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "stacked-bar-chart",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Visualizing categorical data distributions across multiple groups with stacked segments",
+    "Displaying security threat analysis by category and severity level",
+    "Comparing proportional breakdowns across different metrics in dashboards",
+    "Rendering analytics data with animated bar chart transitions",
+    "Showing multi-series data comparisons in a single unified visualization"
+  ],
+  "ai_summary": "A reaviz-powered stacked bar chart component for displaying categorical data with multiple series breakdowns. Uses framer-motion for animations and displays security-themed data (threat types with severity levels) in a flat, professional visual style. Ideal for SaaS dashboards and analytics platforms requiring data visualization of proportional distributions.",
+  "_classifiedAt": "2026-04-23T17:15:47.951Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

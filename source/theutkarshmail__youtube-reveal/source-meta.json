@@ -1,0 +1,26 @@
+{
+  "id": "theutkarshmail__youtube-reveal",
+  "author": "theutkarshmail",
+  "slug": "youtube-reveal",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theutkarshmail/components/youtube-reveal",
+  "fetchedAt": "2026-08-29T07:37:39.518Z",
+  "completedAt": "2026-08-29T07:37:41.685Z",
+  "versionedFilename": "code.1755213089317.tsx",
+  "codeReference": "r2://components-code-private/theutkarshmail/youtube-reveal/code.1755213089317.tsx",
+  "codeUrl": "https://cdn.21st.dev/theutkarshmail/youtube-reveal/code.1755213089317.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2853,
+  "sha256": "0cd48b3ab9b7cd2f6c0edef9de0b62510cc4a664e6202f6fc07103d148441222",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

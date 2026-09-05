@@ -1,0 +1,26 @@
+{
+  "id": "reshaped__reshaped-select",
+  "author": "reshaped",
+  "slug": "reshaped-select",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@reshaped/components/reshaped-select",
+  "fetchedAt": "2026-08-29T06:34:33.149Z",
+  "completedAt": "2026-08-29T06:34:35.430Z",
+  "versionedFilename": "code.1783441696937.tsx",
+  "codeReference": "r2://components-code-private/larsen66/reshaped-select/code.1783441696937.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/reshaped-select/code.1783441696937.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 532,
+  "sha256": "5779b9fa7979fb985d608213c15df37945e87d72db5a3a10233ba22e927e308c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

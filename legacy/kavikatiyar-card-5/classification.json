@@ -1,0 +1,29 @@
+{
+  "category": [
+    "card",
+    "input"
+  ],
+  "subcategory": "withdrawal-action-card",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display withdrawal amount and action button in a card format",
+    "Present financial transaction confirmations with styled button variants",
+    "Create action-oriented cards with destructive or default button states",
+    "Build financial interfaces requiring user confirmation actions"
+  ],
+  "ai_summary": "A WithdrawalCard component paired with a variant-enabled Button component from shadcn/ui patterns. Features standard button variants (default, destructive, outline, secondary, ghost, link) with size options for flexible financial transaction interfaces. The composite structure combines card layout with actionable buttons for withdrawal or transaction workflows.",
+  "_classifiedAt": "2026-04-23T01:41:24.038Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

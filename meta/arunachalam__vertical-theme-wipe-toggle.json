@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@arunachalam/components/vertical-theme-wipe-toggle",
+  "author": "arunachalam",
+  "slug": "vertical-theme-wipe-toggle",
+  "name": "vertical-theme-wipe-toggle",
+  "description": "VerticalThemeWipeToggle — Top/Bottom Reveal Animated Theme Switch\n\nA modern React theme toggle button offering a visually dramatic full-page transition using the View Transitions API. Seamlessly reveal your dark or light mode with a vertical wipe animation that moves from either the top or bottom of the screen, creating a cinematic experience for users. No theme context or extra dependencies needed—this pure DOM implementation plugs into any Tailwind or Framer Motion app with ease.\n\nFeatures:\n\nDirectional vertical animation: top→bottom or bottom→top with a simple prop\n\nHardware-accelerated, native-page transitions (View Transitions API)\n\nCompatible with React, Tailwind CSS, and motion UI\n\nNo next-themes or global context required—just DOM and localStorage\n\nAccessible, fast, and flicker-free\n\nEasily extendable for line/diagonal/horizontal effects\n\nUse Cases:\nPerfect for dashboards, admin panels, landing pages, or any web app wanting a premium-feeling, full-screen theme swap effect.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/arunachalam/vertical-theme-wipe-toggle?api_key=$API_KEY_21ST\"",
+  "id": "arunachalam__vertical-theme-wipe-toggle",
+  "bundleUrl": "https://cdn.21st.dev/arunachalam0606/vertical-theme-wipe-toggle/default/bundle.1759294720055.html",
+  "previewUrl": "https://cdn.21st.dev/arunachalam0606/vertical-theme-wipe-toggle/default/preview.1759294720055.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 24,
+  "demo_id": 8361,
+  "video_url": "https://cdn.21st.dev/arunachalam0606/vertical-theme-wipe-toggle/default/video.1759294720055.mp4"
+}

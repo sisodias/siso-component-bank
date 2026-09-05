@@ -1,0 +1,26 @@
+{
+  "id": "hazelgrace3026__ocean-grain",
+  "author": "hazelgrace3026",
+  "slug": "ocean-grain",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@hazelgrace3026/components/ocean-grain",
+  "fetchedAt": "2026-08-29T04:55:34.024Z",
+  "completedAt": "2026-08-29T04:55:36.211Z",
+  "versionedFilename": "code.1786465556314-9381e068-dcde-43ab-9bca-8b05e6526e44.tsx",
+  "codeReference": "r2://components-code-private/hazelgrace3026/ocean-grain/code.1786465556314-9381e068-dcde-43ab-9bca-8b05e6526e44.tsx",
+  "codeUrl": "https://cdn.21st.dev/hazelgrace3026/ocean-grain/code.1786465556314-9381e068-dcde-43ab-9bca-8b05e6526e44.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

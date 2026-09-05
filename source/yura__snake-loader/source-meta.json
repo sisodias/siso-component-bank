@@ -1,0 +1,26 @@
+{
+  "id": "yura__snake-loader",
+  "author": "yura",
+  "slug": "snake-loader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@yura/components/snake-loader",
+  "fetchedAt": "2026-08-29T08:01:44.462Z",
+  "completedAt": "2026-08-29T08:01:46.647Z",
+  "versionedFilename": "code.1785336766662-24f2c86d-7fda-44d5-8cff-9b937db34aea.tsx",
+  "codeReference": "r2://components-code-private/yura/snake-loader/code.1785336766662-24f2c86d-7fda-44d5-8cff-9b937db34aea.tsx",
+  "codeUrl": "https://cdn.21st.dev/yura/snake-loader/code.1785336766662-24f2c86d-7fda-44d5-8cff-9b937db34aea.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

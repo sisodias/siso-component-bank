@@ -1,0 +1,38 @@
+{
+  "category": [
+    "form"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons in payment and checkout forms",
+    "Secondary action buttons with outline styling for cancel or back actions",
+    "Icon-only buttons for compact toolbar or navigation interfaces",
+    "Destructive action buttons for delete or remove operations in forms"
+  ],
+  "ai_summary": "A versatile atomic button component with multiple style variants (default, destructive, outline, secondary, ghost, link) and size options (default, small, large, icon). Built with Radix UI Slot for composition and CVA for variant management, featuring hover color transitions, focus-visible keyboard navigation outlines, and subtle shadow effects for depth. Designed as a fundamental form input component suitable for payment forms, checkout flows, and general UI actions across SaaS, fintech, and e-commerce platforms.",
+  "_classifiedAt": "2026-04-23T17:19:19.832Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

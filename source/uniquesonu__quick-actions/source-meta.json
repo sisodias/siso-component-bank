@@ -1,0 +1,26 @@
+{
+  "id": "uniquesonu__quick-actions",
+  "author": "uniquesonu",
+  "slug": "quick-actions",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uniquesonu/components/quick-actions",
+  "fetchedAt": "2026-08-29T07:50:09.829Z",
+  "completedAt": "2026-08-29T07:50:11.904Z",
+  "versionedFilename": "code.1759393803615.tsx",
+  "codeReference": "r2://components-code-private/uniquesonu/quick-actions/code.1759393803615.tsx",
+  "codeUrl": "https://cdn.21st.dev/uniquesonu/quick-actions/code.1759393803615.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5679,
+  "sha256": "e5a6320f7f9f46f64e28cfb756605ee584da2d778d50d9633cfe10d9c25f2807",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

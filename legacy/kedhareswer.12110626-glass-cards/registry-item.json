@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "kedhareswer.12110626-glass-cards",
+  "type": "registry:ui",
+  "title": "Kedhareswer.12110626 Glass Cards",
+  "description": "Installed from https://21st.dev/r/kedhareswer.12110626/glass-cards",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "kedhareswer.12110626-glass-cards"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "glass-cards.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "Imports non-resolvable local path ../../lib/utils"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/kedhareswer.12110626/glass-cards",
+    "fetchedAt": "2026-04-23T01:16:29.249Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

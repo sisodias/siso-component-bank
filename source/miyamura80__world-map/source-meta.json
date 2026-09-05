@@ -1,0 +1,26 @@
+{
+  "id": "miyamura80__world-map",
+  "author": "miyamura80",
+  "slug": "world-map",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@miyamura80/components/world-map",
+  "fetchedAt": "2026-08-29T05:46:14.731Z",
+  "completedAt": "2026-08-29T05:46:17.193Z",
+  "versionedFilename": "code.1760198085300.tsx",
+  "codeReference": "r2://components-code-private/miyamura80/world-map/code.1760198085300.tsx",
+  "codeUrl": "https://cdn.21st.dev/miyamura80/world-map/code.1760198085300.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 568,
+  "sha256": "706fe0418b5e9bfee32f916d6c357be7a79ea437c6ca319d1ec15fb9c0ba6d18",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

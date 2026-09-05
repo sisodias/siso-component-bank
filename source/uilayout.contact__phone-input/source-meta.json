@@ -1,0 +1,26 @@
+{
+  "id": "uilayout.contact__phone-input",
+  "author": "uilayout.contact",
+  "slug": "phone-input",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uilayout.contact/components/phone-input",
+  "fetchedAt": "2026-08-29T07:44:55.785Z",
+  "completedAt": "2026-08-29T07:44:57.880Z",
+  "versionedFilename": "code.1749988675071.tsx",
+  "codeReference": "r2://components-code-private/larsen66/phone-input/code.1749988675071.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/phone-input/code.1749988675071.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4509,
+  "sha256": "e66415a26cf118cd2a0b3cc6c6a1510cef4ca1c9b43d78047a38e0414e0246dd",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

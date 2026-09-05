@@ -1,0 +1,27 @@
+{
+  "category": "card",
+  "subcategory": "product-display",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying individual products in e-commerce storefronts",
+    "Adding items to shopping carts and managing wishlists",
+    "Highlighting discounted products with sale badges",
+    "Providing dark mode compatible product presentation",
+    "Creating interactive product grids with hover animations"
+  ],
+  "ai_summary": "A responsive product card component with dark mode support, featuring wishlist heart toggle and add-to-cart functionality. Includes smooth hover animations with scale and shadow effects, image zoom on hover, and sale badge display. Clean flat design suitable for e-commerce platforms with theme switching capabilities.",
+  "_classifiedAt": "2026-04-23T01:36:34.143Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

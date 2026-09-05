@@ -1,0 +1,26 @@
+{
+  "id": "sean0205__textarea",
+  "author": "sean0205",
+  "slug": "textarea",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sean0205/components/textarea",
+  "fetchedAt": "2026-08-29T07:00:08.321Z",
+  "completedAt": "2026-08-29T07:00:10.264Z",
+  "versionedFilename": "code.1752050113792.tsx",
+  "codeReference": "r2://components-code-private/sean0205/textarea/code.1752050113792.tsx",
+  "codeUrl": "https://cdn.21st.dev/sean0205/textarea/code.1752050113792.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1347,
+  "sha256": "487f26622f4f8b1bf03b61a9ced219101055e8512972e9f52d7c5f2c7b576532",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

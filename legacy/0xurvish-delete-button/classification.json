@@ -1,0 +1,30 @@
+{
+  "category": "form",
+  "subcategory": "confirmation-button",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Account deletion with built-in countdown timer for accidental click protection",
+    "Data removal confirmation in admin panels requiring user acknowledgment",
+    "Destructive action safeguards in settings pages",
+    "Cascading deletion workflows with undo capability",
+    "Compliance-required waiting periods before permanent data removal"
+  ],
+  "ai_summary": "A smart delete button component that prevents accidental deletions by featuring a 10-second countdown timer with smooth morphing animations between states. Uses Framer Motion for fluid transitions and includes a cancel option to revert the action. Ideal for safety-critical deletion operations like account removal or data purging in any application requiring confirmation workflows.",
+  "_classifiedAt": "2026-04-22T08:50:26.027Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

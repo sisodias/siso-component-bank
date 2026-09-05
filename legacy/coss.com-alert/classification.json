@@ -1,0 +1,36 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "status-notification",
+  "visual_style": [
+    "flat",
+    "minimalist",
+    "colorful"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying error messages and validation feedback in forms and applications",
+    "Showing success confirmations after user-submitted actions like purchases or registrations",
+    "Presenting informational alerts and system notifications to users",
+    "Rendering warning messages for important notices or potential issues",
+    "Creating contextual status messages with semantic meaning through color-coded variants"
+  ],
+  "ai_summary": "A semantic alert/notification component with five color-coded variants (default, error, info, success, warning) using CVA for variant management. Features a grid-based layout with icon support, accessible role='alert', and dark mode compatibility. The component exports four sub-components for composing title, description, and action elements within alert messages. Designed for displaying contextual feedback, status updates, and system notifications across SaaS, e-commerce, and general web applications.",
+  "_classifiedAt": "2026-04-22T08:54:17.611Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

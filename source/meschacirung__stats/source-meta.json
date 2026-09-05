@@ -1,0 +1,26 @@
+{
+  "id": "meschacirung__stats",
+  "author": "meschacirung",
+  "slug": "stats",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@meschacirung/components/stats",
+  "fetchedAt": "2026-08-29T05:41:49.869Z",
+  "completedAt": "2026-08-29T05:41:51.769Z",
+  "versionedFilename": "code.1755258119850.tsx",
+  "codeReference": "r2://components-code-private/larsen66/stats/code.1755258119850.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/stats/code.1755258119850.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1549,
+  "sha256": "ab94f72f86d8a35e226f27b55c250d1490daf524bece55ebebc41e3581b2ba20",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

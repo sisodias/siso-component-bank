@@ -1,0 +1,129 @@
+<!doctype html><meta charset="utf-8"><title>Curated bank</title>
+<style>
+:root{--bg:#0c0c0e;--panel:#151518;--line:#26262b;--fg:#e8e8ec;--mute:#8b8b95;--acc:#7c9cff;--love:#ff6aa8;--good:#6ee7a8;--maybe:#f5c451;--meh:#8b8b95;--win:#6ee7a8}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:14px/1.45 -apple-system,Inter,system-ui,sans-serif}
+header{position:sticky;top:0;z-index:5;background:rgba(12,12,14,.92);backdrop-filter:blur(8px);border-bottom:1px solid var(--line);padding:10px 16px;display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+header h1{font-size:15px;margin:0 12px 0 0;font-weight:600}
+header input{background:var(--panel);border:1px solid var(--line);color:var(--fg);padding:6px 10px;border-radius:8px;min-width:220px}
+.chip{border:1px solid var(--line);background:var(--panel);color:var(--mute);padding:4px 10px;border-radius:999px;cursor:pointer;font-size:12px}
+.chip.on{color:var(--fg);border-color:var(--acc);background:#1b2140}
+main{padding:14px 16px;display:grid;gap:22px}
+.group{border:1px solid var(--line);border-radius:14px;background:var(--panel);padding:12px 14px}
+.group h2{margin:0 0 2px;font-size:14px;display:flex;gap:10px;align-items:baseline}
+.group h2 small{color:var(--mute);font-weight:400}
+.group .win{color:var(--win);font-size:12px;margin-left:auto}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px;margin-top:10px}
+.card{background:#0f0f12;border:1px solid var(--line);border-radius:10px;overflow:hidden;display:flex;flex-direction:column;min-width:0}
+.card.winner{border-color:var(--win);box-shadow:0 0 0 1px var(--win) inset}
+.card .img{aspect-ratio:16/10;background:#000;display:flex;align-items:center;justify-content:center;overflow:hidden;cursor:zoom-in;position:relative}
+.card .img img{width:100%;height:100%;object-fit:contain;object-position:top}
+.card .img video{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;display:none}
+.card .img:hover video[src]{display:block}
+.card .body{padding:9px 10px;display:flex;flex-direction:column;gap:6px;flex:1}
+.card .t{display:flex;gap:6px;align-items:center;flex-wrap:wrap}
+.card .t b{font-size:13px}
+.tag{font-size:10.5px;padding:1px 7px;border-radius:999px;border:1px solid var(--line);color:var(--mute);white-space:nowrap}
+.tag.form-mobile{color:#f5c451;border-color:#5a4a1f}.tag.form-desktop{color:#7c9cff;border-color:#2a3560}.tag.form-either{color:#6ee7a8;border-color:#1f4a35}
+.tag.src{color:#6ee7a8}.tag.nosrc{color:#ff6a6a}
+.sig{width:8px;height:8px;border-radius:50%;display:inline-block}
+.sig.love{background:var(--love)}.sig.good{background:var(--good)}.sig.maybe{background:var(--maybe)}.sig.meh{background:var(--meh)}
+.fb{color:#c9c9d2;font-size:12.5px;font-style:italic;border-left:2px solid var(--line);padding-left:8px}
+.targets{display:flex;gap:4px;flex-wrap:wrap}
+.acts{display:flex;gap:6px;margin-top:auto;align-items:center;flex-wrap:wrap}
+.acts button,.acts a{font-size:11.5px;padding:4px 9px;border-radius:7px;border:1px solid var(--line);background:#17171b;color:var(--fg);cursor:pointer;text-decoration:none}
+.acts button.on{border-color:var(--win);color:var(--win)}
+.acts button.no.on{border-color:#ff6a6a;color:#ff6a6a}
+.note{width:100%;background:#111114;border:1px solid var(--line);color:var(--fg);padding:5px 8px;border-radius:7px;font-size:12px}
+#zoom{position:fixed;inset:0;background:rgba(0,0,0,.92);display:none;align-items:center;justify-content:center;z-index:9;cursor:zoom-out}
+#zoom img{max-width:96vw;max-height:94vh;object-fit:contain}
+#libs{display:none}
+#libs table{width:100%;border-collapse:collapse;font-size:12.5px}#libs td,#libs th{border-bottom:1px solid var(--line);padding:6px 8px;text-align:left;vertical-align:top}
+.count{color:var(--mute);font-size:12px}
+</style>
+<header>
+  <h1>Curated bank</h1>
+  <input id="q" placeholder="search name / type / feedback / target">
+  <span class="chip on" data-f="all">all</span>
+  <span class="chip" data-f="dupes">only groups with 2+</span>
+  <span class="chip" data-f="love">love</span>
+  <span class="chip" data-f="operator">operator*</span>
+  <span class="chip" data-f="mobile">mobile</span>
+  <span class="chip" data-f="desktop">desktop</span>
+  <span class="chip" data-f="nosrc">no source</span>
+  <span class="chip" data-f="libs">libraries</span>
+  <span class="chip" data-f="scout">scout candidates</span>
+  <span class="count" id="count"></span>
+</header>
+<main id="main"></main>
+<section id="libs"></section>
+<div id="zoom"><img></div>
+<script>
+let picks=[],votes={},libs=[],cands=[],filter='all',q=''
+const $=s=>document.querySelector(s)
+async function load(){[picks,votes,libs,cands]=await Promise.all(['/api/picks','/api/votes','/api/libs','/api/candidates'].map(u=>fetch(u).then(r=>r.json()).catch(()=>[])));render()}
+const save=()=>fetch('/api/votes',{method:'POST',body:JSON.stringify(votes,null,1)})
+function esc(s){return String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
+function pass(p){
+  if(q){const h=[p.slug,p.type,p.feedback,p.author,...(p.targets||[])].join(' ').toLowerCase();if(!h.includes(q))return false}
+  if(filter==='love')return p.signal==='love'
+  if(filter==='operator')return (p.targets||[]).some(t=>t.startsWith('operator'))
+  if(filter==='mobile')return p.form==='mobile'
+  if(filter==='desktop')return p.form==='desktop'
+  if(filter==='nosrc')return !p.has_source
+  return true
+}
+function render(){
+  $('#libs').style.display=filter==='libs'?'block':'none';$('#main').style.display=filter==='libs'?'none':'grid'
+  if(filter==='libs')return renderLibs()
+  const groups={}
+  if(filter==='scout'){
+    for(const c of cands){const p={...c,slug:c.id.split('__').slice(1).join('__'),author:c.id.split('__')[0],harvest_id:c.id,feedback:`scout ${c.lane} · ${c.bank_score}/25${c.craft!=null?` · craft ${c.craft} mech ${c.mechanism} fit ${c.product_fit} rob ${c.robbability} taste ${c.taste_match}`:' · total only'} — ${c.why}`,bank_score:c.bank_score,targets:c.ab_against?['A/B vs '+c.ab_against]:[],signal:c.bank_score>=21?'love':c.bank_score>=19?'good':'maybe',has_source:true,source_harvest:null};if(pass(p))(groups[p.type||'untyped']??=[]).push(p)}
+  } else
+  for(const p of picks)if(pass(p))(groups[p.type]??=[]).push(p)
+  let list=Object.entries(groups)
+  if(filter==='dupes')list=list.filter(([,v])=>v.length>1)
+  if(filter==='scout'){for(const [,v] of list)v.sort((a,b)=>b.bank_score-a.bank_score);list.sort((a,b)=>Math.max(...b[1].map(x=>x.bank_score))-Math.max(...a[1].map(x=>x.bank_score))||b[1].length-a[1].length)}
+  else list.sort((a,b)=>b[1].length-a[1].length||a[0].localeCompare(b[0]))
+  $('#count').textContent=`${list.reduce((n,[,v])=>n+v.length,0)} comps · ${list.length} types`
+  $('#main').innerHTML=list.map(([type,items])=>{
+    const w=votes[type]?.winner
+    return `<div class="group"><h2>${esc(type)} <small>${items.length}</small>${items.length>1?`<span class="win">${w?'winner: '+esc(items.find(i=>i.url===w)?.slug||w):'pick a winner'}</span>`:''}</h2>
+    <div class="cards">${items.map(p=>card(p,type,items.length>1)).join('')}</div></div>`}).join('')
+}
+function card(p,type,ab){
+  const v=votes[p.url]||{};const isWin=votes[type]?.winner===p.url
+  const img=p.harvest_id?`/harvest/${p.harvest_id}/preview.webp`:''
+  return `<div class="card ${isWin?'winner':''}" data-url="${esc(p.url)}">
+   <div class="img" onclick="zoom('${img}')"><img loading="lazy" src="${img}" alt=""><video muted loop playsinline data-id="${esc(p.harvest_id||'')}"></video></div>
+   <div class="body">
+    <div class="t"><span class="sig ${p.signal}"></span><b>${esc(p.slug)}</b><span class="tag">@${esc(p.author)}</span><span class="tag form-${p.form}">${p.form}</span><span class="tag ${p.has_source?'src':'nosrc'}">${p.has_source?'source':'no source'}</span></div>
+    <div class="fb">“${esc(p.feedback)}”</div>
+    <div class="targets">${(p.targets||[]).map(t=>`<span class="tag">${esc(t)}</span>`).join('')}</div>
+    <div class="acts">
+     ${ab?`<button class="${isWin?'on':''}" onclick="winner('${esc(type)}','${esc(p.url)}')">${isWin?'★ winner':'☆ better'}</button>`:''}
+     <button class="${v.verdict==='keep'?'on':''}" onclick="verdict('${esc(p.url)}','keep')">keep</button>
+     <button class="no ${v.verdict==='drop'?'on':''}" onclick="verdict('${esc(p.url)}','drop')">drop</button>
+     <a href="${esc(p.url)}" target="_blank">21st ↗</a>
+     ${p.harvest_id?`<a href="/harvest/${p.harvest_id}/bundle.html" target="_blank">bundle</a>`:''}
+     ${p.source_harvest?`<a href="/source/${p.source_harvest}" target="_blank">code.tsx</a>`:''}
+    </div>
+    <input class="note" placeholder="note for the agent…" value="${esc(v.note||'')}" onchange="note('${esc(p.url)}',this.value)">
+   </div></div>`
+}
+function winner(type,url){votes[type]={...(votes[type]||{}),winner:votes[type]?.winner===url?null:url,at:new Date().toISOString()};save();render()}
+function verdict(url,vd){votes[url]={...(votes[url]||{}),verdict:votes[url]?.verdict===vd?null:vd,at:new Date().toISOString()};save();render()}
+function note(url,n){votes[url]={...(votes[url]||{}),note:n,at:new Date().toISOString()};save()}
+function zoom(src){if(!src)return;$('#zoom img').src=src;$('#zoom').style.display='flex'}
+$('#zoom').onclick=()=>$('#zoom').style.display='none'
+document.querySelectorAll('.chip').forEach(c=>c.onclick=()=>{document.querySelectorAll('.chip').forEach(x=>x.classList.remove('on'));c.classList.add('on');filter=c.dataset.f;render()})
+$('#q').oninput=e=>{q=e.target.value.toLowerCase();render()}
+// hover video: lazy-attach the harvest video url from meta.json on first hover
+document.addEventListener('mouseover',async e=>{const v=e.target.closest('.img')?.querySelector('video');if(!v||v.src||!v.dataset.id||v.dataset.tried)return;v.dataset.tried=1;try{const m=await fetch(`/harvest/${v.dataset.id}/meta.json`).then(r=>r.json());if(m.video_url){v.src=m.video_url;v.play().catch(()=>{})}}catch{}})
+function renderLibs(){
+  const rows=libs.filter(l=>!q||(l.key+' '+l.feedback).toLowerCase().includes(q))
+  $('#count').textContent=`${rows.length} libraries/authors`
+  $('#libs').innerHTML=`<div class="group" style="margin:14px 16px"><table><tr><th>key</th><th>kind</th><th>adopt</th><th>rate</th><th>Shaan said</th><th>cached</th></tr>${rows.map(l=>`<tr><td>${l.url?`<a style="color:var(--acc)" href="${esc(l.url)}" target="_blank">${esc(l.key)}</a>`:esc(l.key)}</td><td>${esc(l.kind)}</td><td>${l.adopt?'✅':'—'}</td><td>${esc(l.reusability||'')}</td><td class="fb">${esc(l.feedback)}</td><td>${l.cached?'yes':l.kind==='author'?'n/a':'no'}</td></tr>`).join('')}</table></div>`
+}
+const pf=new URLSearchParams(location.search).get('f');if(pf){const c=document.querySelector(`.chip[data-f="${pf}"]`);if(c){document.querySelectorAll('.chip').forEach(x=>x.classList.remove('on'));c.classList.add('on');filter=pf}}
+load()
+</script>

@@ -1,0 +1,26 @@
+{
+  "id": "shadcn__accordion",
+  "author": "shadcn",
+  "slug": "accordion",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcn/components/accordion",
+  "fetchedAt": "2026-08-29T07:06:57.610Z",
+  "completedAt": "2026-08-29T07:06:58.695Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null
+}

@@ -1,0 +1,31 @@
+{
+  "category": "input",
+  "subcategory": "zoom-magnifier",
+  "visual_style": [],
+  "interactions": [
+    "drag",
+    "scroll-animate",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Product image zoom on e-commerce detail pages",
+    "Interactive document or map zoom functionality",
+    "Media gallery with pinch-to-zoom support",
+    "Detail viewing in SaaS dashboards or portfolios",
+    "Real estate property image inspection"
+  ],
+  "ai_summary": "An interactive view magnifier component with smooth drag-to-zoom and scale animations powered by Framer Motion spring physics. Features configurable max scale, zoom level percentage display, and callbacks for scale state changes. Works on both desktop (drag zoom) and mobile (pinch zoom) via pointer events.",
+  "_classifiedAt": "2026-04-23T11:33:18.636Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

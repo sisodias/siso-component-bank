@@ -1,0 +1,18 @@
+{
+ "id": "youcefbnm__animated-cards-stack",
+ "outcome": "retrieved",
+ "retrievalMethod": "local-legacy-store-copy",
+ "provenanceNote": "Copied from the pre-existing local legacy 21st store; NOT fetched from 21st.dev by this lane.",
+ "legacySourcePath": "legacy/youcefbnm-animated-cards-stack/animated-cards-stack.tsx",
+ "legacySourceFile": "animated-cards-stack.tsx",
+ "legacyDependencies": [
+  "class-variance-authority",
+  "motion"
+ ],
+ "upstreamUrl": "https://21st.dev/@youcefbnm/components/animated-cards-stack",
+ "httpStatus": null,
+ "sha256": "0a280aaec82e733f6438920ca4babacab82d8e056cc675f054e337f822b798e1",
+ "bytes": 7354,
+ "completedAt": "2026-08-29T03:43:54.189Z",
+ "seededBy": "CENA-directive-2026-08-29-skip-legacy"
+}

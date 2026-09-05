@@ -1,0 +1,32 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "scroll-progress-indicator",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Display scroll progress as a fixed top bar on long-form content pages",
+    "Provide visual feedback on reading progress for articles and documentation",
+    "Enhance user navigation awareness on scrolling-heavy interfaces"
+  ],
+  "ai_summary": "A scroll-linked spring animation component that renders a fixed progress bar at the top of the viewport. Uses Framer Motion's useSpring and useScroll hooks to create smooth, physics-based animation tied to scroll position. The pink progress indicator scales horizontally based on scroll progress, providing users with intuitive feedback about their position within a page.",
+  "_classifiedAt": "2026-04-23T01:40:37.819Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

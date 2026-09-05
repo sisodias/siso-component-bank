@@ -1,0 +1,26 @@
+{
+  "id": "xordev__phosphor-30",
+  "author": "xordev",
+  "slug": "phosphor-30",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@xordev/components/phosphor-30",
+  "fetchedAt": "2026-08-29T07:57:59.646Z",
+  "completedAt": "2026-08-29T07:58:01.861Z",
+  "versionedFilename": "code.1756889847277.tsx",
+  "codeReference": "r2://components-code-private/larsen66/phosphor-30/code.1756889847277.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/phosphor-30/code.1756889847277.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 9847,
+  "sha256": "849ac476073329c98c345456428acf488a71dfdea701d0bb5da530994a410178",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

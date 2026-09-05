@@ -1,0 +1,33 @@
+{
+  "category": "input",
+  "subcategory": "file-upload-button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Uploading profile pictures or avatar images in user settings",
+    "Submitting document attachments in forms like applications or support tickets",
+    "Adding media files such as images or videos to content",
+    "Uploading files for data import or bulk operations in admin panels",
+    "Attaching files in messaging or collaboration applications"
+  ],
+  "ai_summary": "A file upload button component built with Radix UI Slot and Tailwind CSS, supporting multiple variants and sizes through class-variance-authority. Provides a flexible, accessible file input trigger with standard button styling patterns suitable for various web applications.",
+  "_classifiedAt": "2026-04-23T11:31:57.088Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

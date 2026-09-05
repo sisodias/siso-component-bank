@@ -1,0 +1,29 @@
+{
+  "category": "card",
+  "subcategory": "glass-morphism-effect-wrapper",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Creating frosted glass card containers with backdrop blur effects",
+    "Building macOS-style dock navigation components",
+    "Adding premium glass effects to dashboard widgets",
+    "Implementing translucent overlays in modern web interfaces",
+    "Creating interactive hover-animated glass containers"
+  ],
+  "ai_summary": "A glass-morphism wrapper component that creates a frosted glass effect using backdrop blur, translucent white layers, and inset box shadows. Features smooth hover animations with padding and border-radius transitions. Includes a GlassDock sub-component for creating macOS-style icon docks with the liquid glass aesthetic. The component uses SVG filters for distortion effects and supports link wrapping for clickable glass cards.",
+  "_classifiedAt": "2026-04-23T17:34:49.658Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

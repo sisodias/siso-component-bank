@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "button-interactive-element",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary action triggers for forms and user interactions",
+    "Loading state indicators with spinner integration",
+    "Error and warning state feedback buttons",
+    "Disabled state handling for conditional interactions",
+    "Icon and text combinations with prefix/suffix support"
+  ],
+  "ai_summary": "A versatile atomic button component featuring multiple visual types (primary, secondary, tertiary, error, warning), three shape variants (square, circle, rounded), and four size options. Supports loading states with spinner integration, disabled states, full-width layout, and optional shadow styling. Designed with hover interactions and clean minimalist aesthetics suitable for modern SaaS and fintech applications.",
+  "_classifiedAt": "2026-04-23T17:30:30.667Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

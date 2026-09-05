@@ -1,0 +1,33 @@
+{
+  "id": "preetsuthar17__infinite-text-marquee",
+  "author": "preetsuthar17",
+  "slug": "infinite-text-marquee",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@preetsuthar17/components/infinite-text-marquee",
+  "fetchedAt": "2026-08-29T06:13:26.885Z",
+  "completedAt": "2026-08-29T06:13:27.959Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/preetsuthar17__infinite-text-marquee/code.tsx",
+    "bytes": 3288,
+    "sha256": "6c1720de7e13d3f68052e3decb259664c075533e39cc5d5bfa038107225215ae",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

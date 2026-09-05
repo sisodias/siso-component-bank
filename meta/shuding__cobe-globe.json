@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@shuding/components/cobe-globe",
+  "author": "shuding",
+  "slug": "cobe-globe",
+  "name": "cobe-globe",
+  "description": "A lightweight 5KB WebGL globe with markers, arcs, and CSS Anchor Positioning labels. Drag to rotate, with momentum physics.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/shuding/cobe-globe?api_key=$API_KEY_21ST\"",
+  "id": "shuding__cobe-globe",
+  "bundleUrl": "https://cdn.21st.dev/reapollo/cobe-globe/default/bundle.1774294444412.html",
+  "previewUrl": "https://cdn.21st.dev/reapollo/cobe-globe/default/preview.1774285308186.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "category": [
+    "other"
+  ],
+  "subcategory": "React hook - media query detection utility",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Detect screen width for responsive component rendering",
+    "Toggle mobile-specific UI elements or layouts",
+    "Trigger different behaviors on mobile vs desktop",
+    "Monitor media query changes in real-time during window resize",
+    "Replace manual window.innerWidth checks with declarative hook"
+  ],
+  "ai_summary": "A lightweight React hook utility that wraps the browser's matchMedia API to detect media query matching state. Returns a boolean that updates automatically when the media query condition changes. Includes a convenient useIsMobile hook for common mobile breakpoint detection at 768px. Useful for declarative responsive design patterns in React components.",
+  "_classifiedAt": "2026-04-23T17:25:36.220Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

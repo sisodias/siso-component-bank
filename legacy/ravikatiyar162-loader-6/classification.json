@@ -1,0 +1,32 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "recording-loader",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Loading state indicator for media streaming interfaces",
+    "Recording session status display for video or audio applications",
+    "Processing feedback for SaaS dashboards and content platforms"
+  ],
+  "ai_summary": "A looping loader component featuring an animated recording indicator with a red blinking dot and 'REC' text alongside a laptop icon. The animation uses a horizontal sweep effect with clip-path transitions, creating a recording-in-progress visual metaphor. Built with styled-components using CSS keyframe animations in a clean, flat orange color scheme.",
+  "_classifiedAt": "2026-04-23T17:12:38.892Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

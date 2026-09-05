@@ -1,0 +1,33 @@
+{
+  "category": [
+    "pricing"
+  ],
+  "subcategory": "single-pricing-card-with-feature-badges",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying SaaS subscription plans with tiered pricing",
+    "Highlighting premium features or badges on pricing cards",
+    "Showing value propositions for different product tiers",
+    "Comparing pricing plans side by side",
+    "Promoting special offers or limited-time pricing deals"
+  ],
+  "ai_summary": "A pricing card component featuring customizable feature badges with hover states and multiple variant options. Uses Tailwind CSS with class-variance-authority for flexible styling. Designed for SaaS, fintech, and e-commerce platforms to showcase subscription tiers or product pricing with clear visual hierarchy and call-to-action buttons.",
+  "_classifiedAt": "2026-04-23T17:34:01.624Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

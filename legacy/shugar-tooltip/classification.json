@@ -1,0 +1,25 @@
+{
+  "category": "overlay",
+  "subcategory": "tooltip",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying contextual information when users hover over UI elements",
+    "Providing help text and explanations for form inputs and buttons",
+    "Showing semantic feedback with color-coded tooltips (success, warning, error)",
+    "Customizing tooltip positioning and alignment for different layout needs",
+    "Adding timed delays to control tooltip appearance timing"
+  ],
+  "ai_summary": "A lightweight tooltip wrapper component built on react-tooltip with customizable positioning, alignment, and color types. Uses Tailwind CSS for styling with semantic color variants and configurable appearance delays. Designed for contextual information display across desktop and mobile interfaces.",
+  "_classifiedAt": "2026-04-23T17:32:16.001Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

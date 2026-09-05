@@ -1,0 +1,26 @@
+{
+  "id": "sean0205__card",
+  "author": "sean0205",
+  "slug": "card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sean0205/components/card",
+  "fetchedAt": "2026-08-29T06:57:10.712Z",
+  "completedAt": "2026-08-29T06:57:12.851Z",
+  "versionedFilename": "code.1752552295435.tsx",
+  "codeReference": "r2://components-code-private/sean0205/card/code.1752552295435.tsx",
+  "codeUrl": "https://cdn.21st.dev/sean0205/card/code.1752552295435.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4220,
+  "sha256": "1a03ccee768503c05e9c0a11100e30d673fda2c0f81314fd9e3dc390f4ac4dbb",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

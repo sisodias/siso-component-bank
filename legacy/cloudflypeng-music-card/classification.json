@@ -1,0 +1,25 @@
+{
+  "category": "card",
+  "subcategory": "music-player",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying and playing audio tracks in a music streaming interface",
+    "Embedding a podcast episode player with cover art and controls",
+    "Creating a music preview widget for audio marketplaces",
+    "Building a podcast or audiobook player card component",
+    "Adding background music playback to landing pages"
+  ],
+  "ai_summary": "A self-contained music player card component with audio playback capabilities powered by Howler.js. Features album artwork display, track metadata (title, artist), play/pause controls, progress bar with seeking functionality, and skip forward/backward navigation. Includes customizable main color theming and optional auto-play. Designed for media applications, music platforms, and creator tools requiring embedded audio playback.",
+  "_classifiedAt": "2026-04-23T16:27:48.505Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

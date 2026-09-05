@@ -1,0 +1,35 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "animated-border-effect",
+  "visual_style": [
+    "gradient",
+    "glass-morphism"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Creating animated shine effects on card components to draw attention",
+    "Adding premium visual appeal to pricing or feature cards",
+    "Enhancing hero section elements with dynamic border animations",
+    "Decorating call-to-action buttons with pulsing border effects",
+    "Creating decorative overlays on media galleries or portfolios"
+  ],
+  "ai_summary": "A reusable React component that creates an animated shine border effect using CSS gradients and pseudo-elements. Supports customizable border radius, width, animation duration, and color. Uses CSS custom properties for flexibility and dark mode compatibility. Ideal for adding premium, attention-grabbing visual effects to cards, buttons, and decorative UI elements in SaaS and e-commerce applications.",
+  "_classifiedAt": "2026-04-23T16:33:02.385Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "category": "layout",
+  "subcategory": "user-avatar",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display user profile pictures in navigation headers and user dropdowns",
+    "Show avatars in comment sections and social feeds",
+    "Render user identity in dashboard user lists and team member grids",
+    "Display profile pictures in modal dialogs and card components",
+    "Provide accessible avatar fallback with initials when images fail to load"
+  ],
+  "ai_summary": "A reusable avatar component built on Radix UI primitives with image loading support, fallback text display, and consistent rounded-full styling for displaying user profile pictures across web applications. Features automatic aspect ratio maintenance and muted background fallback for missing images.",
+  "_classifiedAt": "2026-04-22T09:17:30.824Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:36:43.998Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

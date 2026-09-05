@@ -1,0 +1,35 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "3d-ascii-art-model-viewer",
+  "visual_style": [
+    "dark",
+    "minimalist"
+  ],
+  "interactions": [
+    "drag",
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "media",
+    "creator-tools",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying 3D GLTF models rendered as ASCII art characters in an interactive canvas",
+    "Rotating and zooming 3D model assets with orbit controls for inspection",
+    "Customizing ASCII rendering resolution and character sets via settings dialog",
+    "Selecting from multiple pre-loaded 3D models for visualization",
+    "Creative visualization of 3D assets with retro terminal aesthetic"
+  ],
+  "ai_summary": "An interactive 3D model viewer that renders GLTF models as ASCII art characters using React Three Fiber and Drei's AsciiRenderer. Features orbit controls for model rotation, a settings dialog for adjusting ASCII resolution and character options, and a model selector for switching between pre-loaded 3D assets. Dark, terminal-inspired aesthetic suitable for dev tools and creative applications.",
+  "_classifiedAt": "2026-04-23T01:37:24.285Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

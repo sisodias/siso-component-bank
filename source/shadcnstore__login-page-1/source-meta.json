@@ -1,0 +1,26 @@
+{
+  "id": "shadcnstore__login-page-1",
+  "author": "shadcnstore",
+  "slug": "login-page-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcnstore/components/login-page-1",
+  "fetchedAt": "2026-08-29T07:13:33.148Z",
+  "completedAt": "2026-08-29T07:13:35.354Z",
+  "versionedFilename": "code.1784362050056-c400adaf-13da-4761-b8ac-1519a869869a.tsx",
+  "codeReference": "r2://components-code-private/shadcnstore/login-page-1/code.1784362050056-c400adaf-13da-4761-b8ac-1519a869869a.tsx",
+  "codeUrl": "https://cdn.21st.dev/shadcnstore/login-page-1/code.1784362050056-c400adaf-13da-4761-b8ac-1519a869869a.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

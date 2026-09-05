@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "multi-series bar chart",
+  "visual_style": [
+    "flat",
+    "colorful"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display multi-series categorical data comparisons across time periods (months)",
+    "Visualize protocol or data format distribution patterns in analytics dashboards",
+    "Show quantitative metrics with grouped bar representations for monitoring applications",
+    "Render technical stack usage breakdowns in developer tools interfaces"
+  ],
+  "ai_summary": "A multi-series grouped bar chart component built with Reaviz library that visualizes categorical data across multiple series (XML, JSON, HTTPS, SSH) over time periods. Features a clean flat design with distinct color coding for each series, supporting analytics and metrics dashboards for SaaS and developer tools platforms. Includes integrated legend and metric summary items for comprehensive data presentation.",
+  "_classifiedAt": "2026-04-23T17:15:37.146Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

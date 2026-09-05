@@ -1,0 +1,26 @@
+{
+  "id": "dhileepkumargm__pick-a-card",
+  "author": "dhileepkumargm",
+  "slug": "pick-a-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dhileepkumargm/components/pick-a-card",
+  "fetchedAt": "2026-08-29T04:32:01.985Z",
+  "completedAt": "2026-08-29T04:32:04.506Z",
+  "versionedFilename": "code.1748442982431.tsx",
+  "codeReference": "r2://components-code-private/dhileepkumargm/pick-a-card/code.1748442982431.tsx",
+  "codeUrl": "https://cdn.21st.dev/dhileepkumargm/pick-a-card/code.1748442982431.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 26003,
+  "sha256": "ab68ffcd9ab00b0fc42dd49b3b50b42558e7052a8351272177df37db8e527a7a",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "other"
+  ],
+  "subcategory": "svg-filter, liquid-distortion, utility",
+  "visual_style": [
+    "glass-morphism"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Creating liquid or glass-like distortion effects on images and graphics",
+    "Adding subtle displacement and blur for organic, flowing visual aesthetics",
+    "Background effects with dynamic, noise-based warping",
+    "Abstract design elements with fluid displacement maps",
+    "Atmospheric visual treatments for hero sections or overlays"
+  ],
+  "ai_summary": "An SVG filter component that creates liquid/glass-like distortion effects using fractal noise, displacement mapping, and gaussian blur. The filter uses turbulence to generate noise patterns and displaces the source graphic with scaled RGB channel mapping for organic, flowing distortion effects.",
+  "_classifiedAt": "2026-04-23T17:43:45.876Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

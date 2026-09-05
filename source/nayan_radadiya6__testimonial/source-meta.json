@@ -1,0 +1,33 @@
+{
+  "id": "nayan_radadiya6__testimonial",
+  "author": "nayan_radadiya6",
+  "slug": "testimonial",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@nayan_radadiya6/components/testimonial",
+  "fetchedAt": "2026-08-29T05:56:42.326Z",
+  "completedAt": "2026-08-29T05:56:43.392Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "page-soft404",
+  "failureClass": "soft-404",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/nayan_radadiya6__testimonial/code.tsx",
+    "bytes": 8764,
+    "sha256": "67296bf748faaf4e2fc1fd304748bee198fea1478c2067816491086a7400fcb4",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is page-soft404/soft-404."
+  }
+}

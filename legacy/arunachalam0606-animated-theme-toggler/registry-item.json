@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "arunachalam0606-animated-theme-toggler",
+  "type": "registry:ui",
+  "title": "Arunachalam0606 Animated Theme Toggler",
+  "description": "Installed from https://21st.dev/r/arunachalam0606/animated-theme-toggler",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "arunachalam0606-animated-theme-toggler"
+  ],
+  "files": [
+    {
+      "path": "animated-theme-toggler.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/arunachalam0606/animated-theme-toggler",
+    "fetchedAt": "2026-04-22T06:45:08.696Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

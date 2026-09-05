@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__video-player-pro",
+  "author": "ruixen.ui",
+  "slug": "video-player-pro",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/video-player-pro",
+  "fetchedAt": "2026-08-29T06:52:02.699Z",
+  "completedAt": "2026-08-29T06:52:05.227Z",
+  "versionedFilename": "code.1757850878393.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/video-player-pro/code.1757850878393.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/video-player-pro/code.1757850878393.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 8511,
+  "sha256": "67670491767858fcd686711f32cab807f3fa05f317d43a62633b2245d596b353",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

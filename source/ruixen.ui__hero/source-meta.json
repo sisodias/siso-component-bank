@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__hero",
+  "author": "ruixen.ui",
+  "slug": "hero",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/hero",
+  "fetchedAt": "2026-08-29T06:43:25.637Z",
+  "completedAt": "2026-08-29T06:43:27.855Z",
+  "versionedFilename": "code.1755899729968.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/hero/code.1755899729968.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/hero/code.1755899729968.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 22012,
+  "sha256": "ab291361d73df962ca3b7242eed7e091a379affb51af6f318aaf4bb440443a9d",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

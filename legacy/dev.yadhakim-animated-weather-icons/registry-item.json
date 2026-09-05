@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "dev.yadhakim-animated-weather-icons",
+  "type": "registry:ui",
+  "title": "Dev.Yadhakim Animated Weather Icons",
+  "description": "Installed from https://21st.dev/r/dev.yadhakim/animated-weather-icons",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "dev.yadhakim-animated-weather-icons"
+  ],
+  "files": [
+    {
+      "path": "animated-weather-icons.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/dev.yadhakim/animated-weather-icons",
+    "fetchedAt": "2026-04-22T06:32:18.425Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

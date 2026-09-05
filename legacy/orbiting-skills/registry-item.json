@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "orbiting-skills",
+  "type": "registry:ui",
+  "title": "OrbitingSkills",
+  "description": "Animated orbital skills showcase with icons rotating in two concentric rings around a central code element",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "animation",
+    "skills",
+    "orbital",
+    "tech",
+    "portfolio",
+    "svg-icons"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "orbiting-skills.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [
+    "orbiting-skills"
+  ],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "curationTags": []
+  }
+}

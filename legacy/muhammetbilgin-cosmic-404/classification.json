@@ -1,0 +1,33 @@
+{
+  "category": [
+    "overlay",
+    "feedback"
+  ],
+  "subcategory": "cosmic-404-error-page",
+  "visual_style": [
+    "gradient",
+    "illustration",
+    "colorful"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "other",
+    "saas",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying a visually engaging 404 error page when routes are not found",
+    "Providing cosmic-themed error state with globe animation for brand differentiation",
+    "Offering return-to-home navigation through included button components"
+  ],
+  "ai_summary": "A cosmic-themed 404 error page component featuring a globe animation with gradient visuals and space illustration aesthetic. Includes a reusable Button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes using Radix UI Slot and class-variance-authority for composition. Ideal for SaaS and media applications wanting a distinctive error page experience.",
+  "_classifiedAt": "2026-04-22T09:07:17.434Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

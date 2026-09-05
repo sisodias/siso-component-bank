@@ -1,0 +1,50 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "cult-ui-side-panel-video",
+  "type": "registry:ui",
+  "title": "Cult Ui Side Panel Video",
+  "description": "Installed from https://21st.dev/r/cult-ui/side-panel-video",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "cult-ui-side-panel-video"
+  ],
+  "files": [
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "side-panel-video.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-slot",
+    "class-variance-authority",
+    "motion",
+    "react-player",
+    "react-use-measure"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "imports react-player/lazy (subpath not exported)"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/cult-ui/side-panel-video",
+    "fetchedAt": "2026-04-23T03:04:00.168Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@builduilabs/components/filesystem-item",
+  "author": "builduilabs",
+  "slug": "filesystem-item",
+  "name": "filesystem-item",
+  "description": "Render a filesystem tree of arbitrary depth using a single recursive component.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/builduilabs/filesystem-item?api_key=$API_KEY_21ST\"",
+  "id": "builduilabs__filesystem-item",
+  "bundleUrl": "https://cdn.21st.dev/bundled/846.html",
+  "previewUrl": "https://cdn.21st.dev/user_builduilabs/filesystem-item.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@kokonutd/components/chat-card",
+  "author": "kokonutd",
+  "slug": "chat-card",
+  "name": "chat-card",
+  "description": "A modern chat interface component that provides a complete messaging experience with reactions, status indicators, and theme support.\n\nFeatures\n\n- Message Display\n  - Message history with timestamps\n  - Read/delivered status indicators\n  - User avatars and names\n  - Message reactions with emoji\n  - Message grouping by user\n\n- Interactive Elements\n  - Message input with emoji picker\n  - Send button with status feedback\n  - Reaction system with counters\n  - More options menu\n  - Online status indicators\n\n- Visual Design\n  - Light and dark theme support\n  - Smooth transitions and animations\n  - Clean and modern interface\n  - Responsive layout\n  - Accessible design",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/kokonutd/chat-card?api_key=$API_KEY_21ST\"",
+  "id": "kokonutd__chat-card",
+  "bundleUrl": "https://cdn.21st.dev/bundled/1244.html",
+  "previewUrl": "https://cdn.21st.dev/user_2rQ1QHrJyxpmWMHhqhANzWMc64n/chat-card.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 81,
+  "demo_id": 1244,
+  "video_url": "https://cdn.21st.dev/user_2rQ1QHrJyxpmWMHhqhANzWMc64n/chat-card/default/video.mp4"
+}

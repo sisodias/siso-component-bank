@@ -1,0 +1,26 @@
+{
+  "id": "samitkapoor__apple-spotlight",
+  "author": "samitkapoor",
+  "slug": "apple-spotlight",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@samitkapoor/components/apple-spotlight",
+  "fetchedAt": "2026-08-29T06:53:00.682Z",
+  "completedAt": "2026-08-29T06:53:03.135Z",
+  "versionedFilename": "code.1763464621073.tsx",
+  "codeReference": "r2://components-code-private/samitkapoor/apple-spotlight/code.1763464621073.tsx",
+  "codeUrl": "https://cdn.21st.dev/samitkapoor/apple-spotlight/code.1763464621073.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 12248,
+  "sha256": "1f6e7070c1332d93e0dbe34a0f74b9cbf0e52e3361317c700734d55a87ac371e",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

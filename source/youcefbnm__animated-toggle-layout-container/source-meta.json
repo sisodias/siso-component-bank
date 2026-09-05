@@ -1,0 +1,19 @@
+{
+ "id": "youcefbnm__animated-toggle-layout-container",
+ "outcome": "retrieved",
+ "retrievalMethod": "local-legacy-store-copy",
+ "provenanceNote": "Copied from the pre-existing local legacy 21st store; NOT fetched from 21st.dev by this lane.",
+ "legacySourcePath": "legacy/youcefbnm-animated-toggle-layout-container/animated-toggle-layout-container.tsx",
+ "legacySourceFile": "animated-toggle-layout-container.tsx",
+ "legacyDependencies": [
+  "@radix-ui/react-slot",
+  "class-variance-authority",
+  "motion"
+ ],
+ "upstreamUrl": "https://21st.dev/@youcefbnm/components/animated-toggle-layout-container",
+ "httpStatus": null,
+ "sha256": "7e7c073a0193c4f61e89baa143fc4d0bd32e743331052b4333cc78a7f2fae963",
+ "bytes": 3262,
+ "completedAt": "2026-08-29T03:43:54.190Z",
+ "seededBy": "CENA-directive-2026-08-29-skip-legacy"
+}

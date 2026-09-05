@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "pate1kiran-daybreak-text-reveal",
+  "type": "registry:ui",
+  "title": "Pate1kiran Daybreak Text Reveal",
+  "description": "Installed from https://21st.dev/r/pate1kiran/daybreak-text-reveal",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "pate1kiran-daybreak-text-reveal"
+  ],
+  "files": [
+    {
+      "path": "daybreak-text-reveal.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/pate1kiran/daybreak-text-reveal",
+    "fetchedAt": "2026-04-23T02:29:51.551Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

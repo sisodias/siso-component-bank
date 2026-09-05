@@ -1,0 +1,26 @@
+{
+  "id": "ln-dev7__follower-counter",
+  "author": "ln-dev7",
+  "slug": "follower-counter",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ln-dev7/components/follower-counter",
+  "fetchedAt": "2026-08-29T05:26:58.625Z",
+  "completedAt": "2026-08-29T05:27:01.065Z",
+  "versionedFilename": "code.1749422478216.tsx",
+  "codeReference": "r2://components-code-private/larsen66/follower-counter/code.1749422478216.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/follower-counter/code.1749422478216.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7078,
+  "sha256": "411a73d04f03a77e53fc86adcce19a13aec78079680a0e9667b58379a7114147",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "user-avatars",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display team members or collaborators in a compact overlapping layout",
+    "Show multiple user profiles with interactive hover tooltips containing names and designations",
+    "Create attribution displays for articles, posts, or projects",
+    "Build contact or contributor lists with minimal space usage",
+    "Add social proof elements showing multiple users or reviewers"
+  ],
+  "ai_summary": "A reusable avatar group component that displays multiple user avatars in a stacked, overlapping layout with negative margins. Built with Framer Motion, it reveals animated tooltips on hover showing each user's name and designation. Supports three size variants (sm/md/lg) and customizable maximum visible avatars. Ideal for displaying teams, contributors, or social proof in SaaS, fintech, and collaboration applications.",
+  "_classifiedAt": "2026-04-23T11:33:42.872Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

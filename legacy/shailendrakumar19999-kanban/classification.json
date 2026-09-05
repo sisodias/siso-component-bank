@@ -1,0 +1,31 @@
+{
+  "category": "data-display",
+  "subcategory": "kanban-board",
+  "visual_style": [
+    "dark",
+    "minimalist"
+  ],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Task and project management for development teams with drag-and-drop card organization",
+    "Sprint planning and workflow visualization for agile teams",
+    "Issue and bug tracking interface for software projects",
+    "Personal productivity and todo organization with visual status columns",
+    "Team collaboration board for managing work across backlog, todo, in-progress, and done states"
+  ],
+  "ai_summary": "A dark-themed Kanban board component with drag-and-drop functionality for organizing tasks across customizable columns (Backlog, TODO, In Progress, Complete). Built with Framer Motion for smooth animations and includes a trash/burn barrel feature for deleting cards. Supports full drag lifecycle with visual drop indicators and highlights, making it ideal for project management and workflow visualization in SaaS or dev-tools applications.",
+  "_classifiedAt": "2026-04-23T17:28:57.814Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

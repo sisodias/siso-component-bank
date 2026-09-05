@@ -1,0 +1,10 @@
+"use client"
+import { Branch } from "./branch"
+
+export default function DemoOne() {
+  return (
+    <div className="flex h-full w-full items-center justify-center p-6">
+      <Branch />
+    </div>
+  )
+}

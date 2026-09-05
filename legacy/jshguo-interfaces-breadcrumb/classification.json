@@ -1,0 +1,35 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "breadcrumb",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Displaying hierarchical navigation paths in web applications to show users their current location",
+    "Enabling quick navigation back to parent pages or sections in multi-level content structures",
+    "Providing accessibility-compliant breadcrumb trails with proper ARIA attributes for screen readers",
+    "Supporting overflow handling with ellipsis for deeply nested navigation hierarchies"
+  ],
+  "ai_summary": "A composite breadcrumb navigation component for React applications that provides hierarchical page location indicators. Features a collection of sub-components (Breadcrumb, BreadcrumbList, BreadcrumbItem, BreadcrumbLink, BreadcrumbPage, BreadcrumbSeparator, BreadcrumbEllipsis) with accessibility support including ARIA labels and semantic HTML structure. Styled with Tailwind CSS for a clean, minimalist appearance with hover state transitions.",
+  "_classifiedAt": "2026-04-22T09:01:43.628Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "category": "navigation",
+  "subcategory": "stepper",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Guiding users through multi-step form completion such as onboarding or account setup",
+    "Displaying checkout process progress in e-commerce applications",
+    "Showing workflow status or setup wizard progress in SaaS platforms",
+    "Tracking progress through educational course modules or registration steps"
+  ],
+  "ai_summary": "A horizontal stepper component built with Ark UI that displays sequential progress through numbered steps. Uses data attributes pattern for state management with three visual states: complete (filled blue), current (filled blue), and incomplete (gray outline). Designed for multi-step processes like onboarding, checkout flows, and setup wizards. Clean, minimal styling with a blue accent color works well across SaaS and e-commerce applications.",
+  "_classifiedAt": "2026-04-23T01:36:14.912Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

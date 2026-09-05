@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/flash-sale-banner",
+  "author": "ruixen.ui",
+  "slug": "flash-sale-banner",
+  "name": "flash-sale-banner",
+  "description": "This component is a clean, responsive flash sale banner with a live countdown timer, headline, description, and call-to-action button. It shows remaining days, hours, minutes, and seconds, adapts to light and dark themes, and can be dismissed with a close button.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/flash-sale-banner?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__flash-sale-banner",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/flash-sale-banner/default/bundle.1755969031983.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/flash-sale-banner/default/preview.1755969031983.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

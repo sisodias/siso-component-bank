@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ddoemonn/components/streaming-text",
+  "author": "ddoemonn",
+  "slug": "streaming-text",
+  "name": "streaming-text",
+  "description": "A token-by-token streaming text effect with a blinking caret, skip and replay controls, and reduced-motion support for AI chat responses.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ddoemonn/streaming-text?api_key=$API_KEY_21ST\"",
+  "id": "ddoemonn__streaming-text",
+  "bundleUrl": "https://cdn.21st.dev/ddoemonn/streaming-text/default/bundle.1785479715936-297fb2cf-6c0d-42cc-b193-f407ead26109.html",
+  "previewUrl": "https://cdn.21st.dev/ddoemonn/streaming-text/default/preview.1785479715936-297fb2cf-6c0d-42cc-b193-f407ead26109.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

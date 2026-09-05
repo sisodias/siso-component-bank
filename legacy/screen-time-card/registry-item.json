@@ -1,0 +1,44 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "screen-time-card",
+  "type": "registry:ui",
+  "title": "ScreenTimeCard",
+  "description": "Screen time dashboard card with animated bar graph showing usage over time, total hours display, and top apps list",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "screen-time",
+    "dashboard",
+    "bar-chart",
+    "animation",
+    "stats",
+    "health",
+    "wellness"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "screen-time-card.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "lucide-react"
+  ],
+  "registryDependencies": [
+    "screen-time-card"
+  ],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "curationTags": []
+  }
+}

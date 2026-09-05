@@ -1,0 +1,31 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "FAQ-accordion",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "saas",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "FAQ sections for e-commerce order tracking and return policies",
+    "Customer support help center pages",
+    "Product documentation with collapsible sections",
+    "Onboarding guides with step-by-step expandable content"
+  ],
+  "ai_summary": "A shadcn/ui accordion component implementing collapsible FAQ content with smooth expand/collapse animations. Built on Radix UI primitives for full keyboard accessibility, it displays a single-select expandable list of items with muted-foreground text styling. The minimalist design adapts fluidly across devices and integrates seamlessly with any shadcn/ui application requiring organized, space-efficient content disclosure.",
+  "_classifiedAt": "2026-04-22T09:15:48.013Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rafa-porto__sign-in",
+  "author": "rafa-porto",
+  "slug": "sign-in",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@rafa-porto/components/sign-in",
+  "fetchedAt": "2026-08-29T06:17:57.448Z",
+  "completedAt": "2026-08-29T06:17:59.020Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/rafa-porto__sign-in/code.tsx",
+    "bytes": 8678,
+    "sha256": "ceac983a5c3322bf8b8f6de91b77e71c28e5fcf0ce4c087778831595df3bbe11",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "shugar__avatar-1",
+  "author": "shugar",
+  "slug": "avatar-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/avatar-1",
+  "fetchedAt": "2026-08-29T07:18:33.503Z",
+  "completedAt": "2026-08-29T07:18:35.567Z",
+  "versionedFilename": "code.1751970720827.tsx",
+  "codeReference": "r2://components-code-private/shugar/avatar-1/code.1751970720827.tsx",
+  "codeUrl": "https://cdn.21st.dev/shugar/avatar-1/code.1751970720827.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 8280,
+  "sha256": "30a200749b7af59e2272aceca2a8171f7f5003064d9932697a6e4656a1ccc6f0",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

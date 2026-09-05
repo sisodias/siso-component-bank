@@ -1,0 +1,34 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "command-toolbar",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "creator-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Building rich text editor toolbars with grouped formatting controls",
+    "Creating command palettes and action bars in SaaS applications",
+    "Implementing navigation toolbars within document or media editing interfaces",
+    "Adding accessible button groups with separators in web applications"
+  ],
+  "ai_summary": "A flexible, accessible toolbar component system built on Base UI primitives, providing Toolbar, Button, Link, Input, Group, and Separator sub-components for creating command interfaces and toolbars. The component uses flat card styling with rounded borders and supports keyboard navigation, making it ideal for building editor toolbars, action bars, and command palettes in SaaS, developer tools, and creator platforms.",
+  "_classifiedAt": "2026-04-22T08:55:04.390Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

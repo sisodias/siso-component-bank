@@ -1,0 +1,37 @@
+{
+  "category": "input",
+  "subcategory": "button-with-variants",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Interactive button with multiple visual variants for CTAs",
+    "Reusable button component with size and variant props",
+    "Accessible button with focus states and disabled handling",
+    "AsChild pattern support for polymorphic button behavior",
+    "Form submission and navigation trigger element"
+  ],
+  "ai_summary": "A reusable React button component with class-variance-authority for managing visual variants and sizes. Supports multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Built with Radix UI Slot for asChild pattern, providing full TypeScript support and accessibility features including focus-visible states and disabled handling. Commonly used as dual CTAs within hero sections for landing pages.",
+  "_classifiedAt": "2026-04-23T01:54:40.295Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

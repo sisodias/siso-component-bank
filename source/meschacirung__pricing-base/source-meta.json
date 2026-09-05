@@ -1,0 +1,26 @@
+{
+  "id": "meschacirung__pricing-base",
+  "author": "meschacirung",
+  "slug": "pricing-base",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@meschacirung/components/pricing-base",
+  "fetchedAt": "2026-08-29T05:41:45.212Z",
+  "completedAt": "2026-08-29T05:41:47.628Z",
+  "versionedFilename": "code.1753823023097.tsx",
+  "codeReference": "r2://components-code-private/larsen66/pricing-base/code.1753823023097.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/pricing-base/code.1753823023097.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6211,
+  "sha256": "d9813381346a07d0bb74befe7d974ea23d62fbf951ca685ba813b12f6f9a6df6",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

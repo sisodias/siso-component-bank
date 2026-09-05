@@ -1,0 +1,26 @@
+{
+  "id": "edwinvakayil__text-inertia",
+  "author": "edwinvakayil",
+  "slug": "text-inertia",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@edwinvakayil/components/text-inertia",
+  "fetchedAt": "2026-08-29T04:42:35.580Z",
+  "completedAt": "2026-08-29T04:42:37.820Z",
+  "versionedFilename": "code.1780687246661.tsx",
+  "codeReference": "r2://components-code-private/lyanchouss/text-inertia/code.1780687246661.tsx",
+  "codeUrl": "https://cdn.21st.dev/lyanchouss/text-inertia/code.1780687246661.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5943,
+  "sha256": "77205094c65f400f7f6f7e5852051d9a0a23d7559ff3feab1e4957c60a9ade9f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

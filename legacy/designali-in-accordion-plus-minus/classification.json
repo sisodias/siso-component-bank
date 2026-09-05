@@ -1,0 +1,29 @@
+{
+  "category": "navigation",
+  "subcategory": "collapsible-accordion",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "FAQ sections where users expand to reveal answers",
+    "Collapsible content panels for organizing dense information",
+    "Navigation menus with expandable categories",
+    "Feature or pricing comparison sections",
+    "Settings interfaces with grouped preferences"
+  ],
+  "ai_summary": "A clean accordion component built on Radix UI primitives with smooth expand/collapse animations. Features a chevron icon that rotates 180 degrees on state change, dotted border styling, and responsive flex layout. Designed for organizing FAQ content, grouped information, and navigation hierarchies across SaaS and content-heavy applications.",
+  "_classifiedAt": "2026-04-23T16:29:39.026Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

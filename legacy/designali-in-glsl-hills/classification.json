@@ -1,0 +1,26 @@
+{
+  "category": "media",
+  "subcategory": "3d-terrain-webgl",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero background with animated 3D hills visualization",
+    "Immersive website backgrounds for creative portfolios",
+    "Product showcase sections with dynamic shader-based terrain",
+    "WebGL/Three.js integration demos and tutorials",
+    "Splash screens for 3D or creative applications"
+  ],
+  "ai_summary": "A 3D WebGL terrain visualization component built with Three.js and custom GLSL shaders. Renders animated procedural hills using Perlin noise and rotation matrices, with configurable speed, camera position, and plane size. The shader automatically animates the terrain over time, creating a dynamic landscape suitable for hero sections or immersive backgrounds.",
+  "_classifiedAt": "2026-04-23T01:37:39.476Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

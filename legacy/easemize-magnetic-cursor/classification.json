@@ -1,0 +1,35 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "magnetic-cursor-interaction",
+  "visual_style": [
+    "minimalist",
+    "glass-morphism"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Create an engaging magnetic attraction effect where the cursor follows mouse movement with smooth GSAP-powered interpolation",
+    "Enhance interactive elements with blend-mode cursors that automatically boost contrast on low-contrast backgrounds",
+    "Add cursor-to-element magnetic attraction on elements marked with data-magnetic attribute",
+    "Provide cross-platform cursor enhancement with automatic touch device detection and disable capability",
+    "Customize cursor shape, color, and blend mode for brand-consistent interactive experiences"
+  ],
+  "ai_summary": "MagneticCursor is an interactive feedback component that replaces the default cursor with a custom element featuring magnetic attraction physics. Built with GSAP for smooth lerp-based animations and supports multiple blend modes (exclusion, difference, screen) with automatic contrast boosting for visibility. Elements with data-magnetic attributes attract the cursor when hovered, creating an engaging interactive experience suitable for portfolio sites, SaaS products, and creative applications. The component intelligently disables on touch devices and offers extensive customization through props for shape, size, color, and animation behavior.",
+  "_classifiedAt": "2026-04-22T08:58:27.649Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "hover-expansion-button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Micro-interaction button that expands from circular icon to text label on hover for space-efficient UI.",
+    "Loading state button that collapses to spinner when async operations are in progress.",
+    "Versatile action button supporting multiple visual variants for contextual actions in dashboards or toolbars.",
+    "Interactive element for mobile-friendly expandable navigation items or menu triggers."
+  ],
+  "ai_summary": "A micro-interaction button component that animates from a circular icon to an expanded pill shape containing text on hover. Features smooth width transitions, staggered text fade-in, loading state handling with spinner, and multiple style variants (default, outline, ghost, destructive). Built with Framer Motion for fluid animations, this reusable component is ideal for space-efficient UI patterns in dashboards, toolbars, or navigation systems where contextual actions need to remain compact until needed.",
+  "_classifiedAt": "2026-04-22T08:59:58.235Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

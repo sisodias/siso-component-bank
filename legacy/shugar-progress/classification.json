@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "progress-indicator",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display upload or download progress in file management interfaces",
+    "Show task completion percentage in project management dashboards",
+    "Indicate checkout or form submission progress in e-commerce flows",
+    "Visualize goal achievement or milestones in achievement systems",
+    "Show storage usage or quota consumption in account dashboards"
+  ],
+  "ai_summary": "A minimalist progress bar component with type-based color variants (default, success, warning, error, secondary) and support for custom color thresholds. Features smooth CSS transitions on progress updates and renders consistently across desktop and mobile platforms. Ideal for dashboards, loaders, status indicators, and any interface requiring visual progress representation.",
+  "_classifiedAt": "2026-04-23T17:30:41.961Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

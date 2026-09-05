@@ -1,0 +1,26 @@
+{
+  "id": "uilayout.contact__sticky-scroll",
+  "author": "uilayout.contact",
+  "slug": "sticky-scroll",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uilayout.contact/components/sticky-scroll",
+  "fetchedAt": "2026-08-29T07:45:46.158Z",
+  "completedAt": "2026-08-29T07:45:48.569Z",
+  "versionedFilename": "code.1749995500796.tsx",
+  "codeReference": "r2://components-code-private/larsen66/sticky-scroll/code.1749995500796.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/sticky-scroll/code.1749995500796.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6574,
+  "sha256": "ff7dad9a8b06c369a7021f60f2c3cb8457c32d7b60bbaf579419348af65a166d",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

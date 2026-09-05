@@ -1,0 +1,26 @@
+{
+  "category": "card",
+  "subcategory": "proposal-tracker",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying proposal status with colored badges in a tracker interface",
+    "Showing progress indicators on project management dashboards",
+    "Filtering and categorizing proposals by status",
+    "Providing visual feedback on approval workflows"
+  ],
+  "ai_summary": "A minimalist proposal tracker card component with status badges and visual indicators. Built with shadcn/ui styling patterns, this component displays proposal progress and status information in a clean card layout. The Badge sub-component provides variant-based styling for different proposal states like pending, approved, or rejected.",
+  "_classifiedAt": "2026-04-23T01:41:55.066Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

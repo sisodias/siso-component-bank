@@ -1,0 +1,26 @@
+{
+  "id": "uniquesonu__analog-clock-component",
+  "author": "uniquesonu",
+  "slug": "analog-clock-component",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uniquesonu/components/analog-clock-component",
+  "fetchedAt": "2026-08-29T07:46:39.264Z",
+  "completedAt": "2026-08-29T07:46:41.540Z",
+  "versionedFilename": "code.1755955620979.tsx",
+  "codeReference": "r2://components-code-private/uniquesonu/analog-clock-component/code.1755955620979.tsx",
+  "codeUrl": "https://cdn.21st.dev/uniquesonu/analog-clock-component/code.1755955620979.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4210,
+  "sha256": "dce230f393a368dd893dfc7382564b425ce66cffb72181d1353420e6ba644353",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

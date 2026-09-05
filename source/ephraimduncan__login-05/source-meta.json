@@ -1,0 +1,26 @@
+{
+  "id": "ephraimduncan__login-05",
+  "author": "ephraimduncan",
+  "slug": "login-05",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ephraimduncan/components/login-05",
+  "fetchedAt": "2026-08-29T04:44:49.521Z",
+  "completedAt": "2026-08-29T04:44:51.752Z",
+  "versionedFilename": "code.1784787135640-b51f3dbc-f4a3-4235-934d-d27b6bdc80e2.tsx",
+  "codeReference": "r2://components-code-private/ephraimduncan/login-05/code.1784787135640-b51f3dbc-f4a3-4235-934d-d27b6bdc80e2.tsx",
+  "codeUrl": "https://cdn.21st.dev/ephraimduncan/login-05/code.1784787135640-b51f3dbc-f4a3-4235-934d-d27b6bdc80e2.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

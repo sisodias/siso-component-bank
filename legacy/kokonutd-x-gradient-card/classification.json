@@ -1,0 +1,32 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "social-post-card",
+  "visual_style": [
+    "glass-morphism",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying social media posts or tweets in a feed or profile section",
+    "Showing user testimonials with verification badges in a social proof section",
+    "Rendering comment threads or replies in a discussion interface",
+    "Creating a social feed component for community-driven platforms",
+    "Displaying activity updates with author attribution and timestamps"
+  ],
+  "ai_summary": "An X (Twitter)-style card component with glassmorphism effects featuring a frosted glass background, gradient borders, and support for author information, verification badges, content arrays, and nested replies. The component uses backdrop blur and gradient styling for a modern, semi-transparent aesthetic with full dark mode support. Designed for displaying social media content, testimonials, or activity feeds in a cohesive UI system.",
+  "_classifiedAt": "2026-04-23T16:49:42.341Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

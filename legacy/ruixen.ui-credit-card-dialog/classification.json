@@ -1,0 +1,32 @@
+{
+  "category": [
+    "overlay",
+    "form"
+  ],
+  "subcategory": "credit-card-input-modal",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "fintech",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Collecting credit card information during checkout flow",
+    "Adding a new payment method to a user account",
+    "Processing subscription signups with payment details",
+    "Enabling one-click purchases in e-commerce applications",
+    "Capturing payment information for invoicing purposes"
+  ],
+  "ai_summary": "A Radix UI-based dialog component for capturing credit card payment information, featuring form inputs for card number, expiry date, and CVV. Built with Tailwind CSS using clean, accessible design patterns with proper focus management and keyboard navigation support. Includes a submit button with multiple variant options and is designed for seamless integration into checkout, subscription, and payment flows.",
+  "_classifiedAt": "2026-04-22T09:12:18.088Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

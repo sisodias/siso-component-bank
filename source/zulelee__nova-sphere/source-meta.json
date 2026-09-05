@@ -1,0 +1,26 @@
+{
+  "id": "zulelee__nova-sphere",
+  "author": "zulelee",
+  "slug": "nova-sphere",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@zulelee/components/nova-sphere",
+  "fetchedAt": "2026-08-29T08:03:27.516Z",
+  "completedAt": "2026-08-29T08:03:29.979Z",
+  "versionedFilename": "code.1748209974615.tsx",
+  "codeReference": "r2://components-code-private/zulelee/nova-sphere/code.1748209974615.tsx",
+  "codeUrl": "https://cdn.21st.dev/zulelee/nova-sphere/code.1748209974615.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4946,
+  "sha256": "1cdedb17a2496e919e18996c8d49a758a6034bed569f2d822932c72b201c6587",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@cnippet.dev/components/cnippet-accordion",
+  "author": "cnippet.dev",
+  "slug": "cnippet-accordion",
+  "name": "cnippet-accordion",
+  "description": "A vertically stacked set of collapsible sections built on Base UI's Accordion primitive. Supports single or multiple open items, controlled or uncontrolled state, a custom trigger icon, smooth height-animated panels, and nesting. Ships Accordion, AccordionItem, AccordionTrigger and AccordionPanel (also exported as AccordionContent).",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/cnippet.dev/cnippet-accordion?api_key=$API_KEY_21ST\"",
+  "id": "cnippet.dev__cnippet-accordion",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/cnippet-accordion/default/bundle.1783974792885.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/cnippet-accordion/default/preview.1783974792885.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

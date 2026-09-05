@@ -1,0 +1,40 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "icon-button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Triggering actions on social media platforms",
+    "Submitting social engagement forms",
+    "Navigating to social profile pages",
+    "Initiating share workflows for content"
+  ],
+  "ai_summary": "A flexible button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes for use in social media interfaces. Supports composition via asChild prop, accessibility focus states, and disabled states. Built with Radix UI Slot for proper ARIA behavior and styled with Tailwind via CVA.",
+  "_classifiedAt": "2026-04-22T09:15:30.706Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "animated select dropdown",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Form field for selecting options from a dropdown menu with smooth animations",
+    "Filtering interface for e-commerce or data tables",
+    "Settings panel option selection in SaaS applications",
+    "User preference selection with visual feedback"
+  ],
+  "ai_summary": "A custom animated select dropdown component with smooth AnimatePresence transitions and click-outside-to-close functionality. Built with motion/react for fluid animations, it clones child elements to inject selection handlers and manages internal state for display text and selected index. Features a clean, flat visual style suitable for modern web applications.",
+  "_classifiedAt": "2026-04-23T16:39:48.866Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,34 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading-animation",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying a loading state during data fetching or API calls",
+    "Indicating background processing or file generation",
+    "Showing users that content is being created or loaded",
+    "Providing visual feedback during async operations",
+    "Enhancing user experience during wait times in applications"
+  ],
+  "ai_summary": "A text-based loading animation component that displays 'Generating' with individual letter animations and a progress bar. The component uses CSS classes for styling and provides visual feedback during processing or generation states. It's a lightweight, atomic component designed for seamless integration into any application requiring loading indicators.",
+  "_classifiedAt": "2026-04-23T01:53:00.573Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

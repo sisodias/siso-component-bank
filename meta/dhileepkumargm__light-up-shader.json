@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@dhileepkumargm/components/light-up-shader",
+  "author": "dhileepkumargm",
+  "slug": "light-up-shader",
+  "name": "light-up-shader",
+  "description": "A full-screen animated background component created with React and Three.js. It renders a dynamic, colorful line light up pattern using a custom GLSL shader. The component is interactive, allowing its appearance to be controlled via props (or UI buttons in the demo) to change colors based on different states, such as \"active\" or \"upcoming\" reminders. It also includes an optional center-dimming effect.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/dhileepkumargm/light-up-shader?api_key=$API_KEY_21ST\"",
+  "id": "dhileepkumargm__light-up-shader",
+  "bundleUrl": "https://cdn.21st.dev/dhileepkumargm/light-up-shader/default/bundle.1785273166496-688e7923-fcb6-452d-b800-1a988b331798.html",
+  "previewUrl": "https://cdn.21st.dev/dhileepkumargm/light-up-shader/default/preview.1785273166496-688e7923-fcb6-452d-b800-1a988b331798.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 26,
+  "demo_id": 7032,
+  "video_url": "https://cdn.21st.dev/dhileepkumargm/light-up-shader/default/video.1785273166496-688e7923-fcb6-452d-b800-1a988b331798.mp4"
+}

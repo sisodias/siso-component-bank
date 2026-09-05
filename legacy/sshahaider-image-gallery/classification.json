@@ -1,0 +1,30 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "aspect-ratio-primitive",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Maintaining consistent image aspect ratios in responsive layouts",
+    "Creating uniform image containers for gallery grids",
+    "Preventing layout shift during image loading"
+  ],
+  "ai_summary": "A minimal Radix UI AspectRatio primitive wrapper for maintaining consistent image dimensions in responsive designs. This atomic component provides a straightforward way to enforce width-to-height ratios for images and media content, commonly used as a building block for image galleries and grid layouts.",
+  "_classifiedAt": "2026-04-23T01:53:21.959Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

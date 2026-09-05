@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@educalvolpz/components/ai-sources",
+  "author": "educalvolpz",
+  "slug": "ai-sources",
+  "name": "ai-sources",
+  "description": "Collapsible source list for a grounded answer, with per-source snippets that expand in place rather than opening a dialog. Respects prefers-reduced-motion.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/educalvolpz/ai-sources?api_key=$API_KEY_21ST\"",
+  "id": "educalvolpz__ai-sources",
+  "bundleUrl": "https://cdn.21st.dev/educlopez/ai-sources/default/bundle.1785570987737-122cacf1-82ae-43e0-9260-98381f12ef2f.html",
+  "previewUrl": "https://cdn.21st.dev/educlopez/ai-sources/default/preview.1785570987737-122cacf1-82ae-43e0-9260-98381f12ef2f.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "image-comparison-slider",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "real-estate",
+    "healthcare",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Comparing before/after images in e-commerce product listings",
+    "Showing property transformations in real estate listings",
+    "Displaying medical imaging comparisons in healthcare",
+    "Comparing original vs edited photos in media/photo editing apps",
+    "Demonstrating transformation effects in creative tool applications"
+  ],
+  "ai_summary": "A vertical image comparison slider component that displays two images stacked vertically and allows users to drag a handle to reveal and compare them. Supports both mouse and touch-based drag interactions with state management for slider position and dragging status. Designed for before/after comparisons across various industries including e-commerce, real estate, healthcare, and media applications.",
+  "_classifiedAt": "2026-04-23T17:12:00.943Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

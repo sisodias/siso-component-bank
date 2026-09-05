@@ -1,0 +1,33 @@
+{
+  "id": "ibelick__text-scramble",
+  "author": "ibelick",
+  "slug": "text-scramble",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ibelick/components/text-scramble",
+  "fetchedAt": "2026-08-29T05:00:18.230Z",
+  "completedAt": "2026-08-29T05:00:19.242Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/ibelick__text-scramble/code.tsx",
+    "bytes": 1925,
+    "sha256": "148d5b9d55793c4e527a69633ed01437dfc95250a37eb1da20855a9f999577a3",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

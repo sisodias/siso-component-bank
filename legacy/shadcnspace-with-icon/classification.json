@@ -1,0 +1,35 @@
+{
+  "category": "input",
+  "subcategory": "checkbox-toggle",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Form input for user agreements and terms acceptance",
+    "Settings panels for enabling/disabling features",
+    "Survey and questionnaire answer selection",
+    "Todo lists and task management interfaces",
+    "Data filtering and selection interfaces"
+  ],
+  "ai_summary": "A Radix UI-based checkbox component with icon indicator, featuring standard accessibility focus states, disabled state handling, and native browser checkbox behavior. Built with Tailwind CSS for styling and uses the Lucide Check icon to display the checked state.",
+  "_classifiedAt": "2026-04-22T09:15:43.151Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

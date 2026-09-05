@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "table",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying user or employee directories with fixed headers for easy column reference",
+    "Financial data tables with totals displayed in a persistent footer",
+    "Large dataset browsing where column headers need to remain visible during scrolling",
+    "Admin dashboards requiring sortable tabular data presentation",
+    "Inventory or order management interfaces with summary statistics"
+  ],
+  "ai_summary": "A fixed header and footer table component that keeps column headers and footer content visible during scroll, making it ideal for displaying large datasets like user lists, financial records, or inventory data across web applications.",
+  "_classifiedAt": "2026-04-23T01:49:47.321Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,30 @@
+{
+  "category": "data-display",
+  "subcategory": "badge-label-chip",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying status labels and categories in dashboards and admin panels",
+    "Showing counts or metadata tags on cards and list items",
+    "Highlighting notification counts or feature flags in UI",
+    "Tagging content with labels in content management systems",
+    "Indicating user roles or permissions in settings interfaces"
+  ],
+  "ai_summary": "A lightweight, versatile badge component with multiple style variants including default, secondary, destructive, and outline. Built with class-variance-authority for flexible theming, featuring hover state transitions and keyboard focus accessibility rings. This atomic component serves as a foundational UI element for displaying labels, status indicators, and categorical information across various interface contexts.",
+  "_classifiedAt": "2026-04-23T17:36:23.649Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

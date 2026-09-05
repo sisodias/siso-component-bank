@@ -1,0 +1,26 @@
+{
+  "category": "data-display",
+  "subcategory": "funnel-chart",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Visualizing incident management flow from events to resolution in monitoring dashboards",
+    "Tracking conversion rates through multi-stage alert and incident response pipelines",
+    "Displaying tier-based incident resolution breakdown in DevOps/SRE dashboards",
+    "Showing hierarchical data reduction through incident lifecycle stages",
+    "Analyzing operational efficiency metrics across different response tiers"
+  ],
+  "ai_summary": "A Reaviz-powered funnel chart component displaying incident management flow with a purple gradient color scheme. Shows conversion from all events through alerts, incidents, escalation, and tier-based resolution stages. Features integrated metric cards with icons and includes framer-motion animations for visual polish. Designed for SaaS monitoring dashboards and DevOps incident tracking use cases.",
+  "_classifiedAt": "2026-04-23T17:14:29.777Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

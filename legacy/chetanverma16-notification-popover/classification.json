@@ -1,0 +1,37 @@
+{
+  "category": [
+    "overlay",
+    "feedback"
+  ],
+  "subcategory": "notification-popover",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display user notifications in an overlay popover",
+    "Show alert messages and system updates with interactive actions",
+    "Enable notification management with mark-as-read functionality",
+    "Provide quick access to unread messages in dashboard contexts",
+    "Deliver in-app communication alerts with state management"
+  ],
+  "ai_summary": "A notification popover component that displays notifications in an overlay format with interactive states for viewing, dismissing, and managing alerts. Designed for dashboard and application contexts where users need centralized notification access with proper accessibility support.",
+  "_classifiedAt": "2026-04-23T11:33:48.097Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

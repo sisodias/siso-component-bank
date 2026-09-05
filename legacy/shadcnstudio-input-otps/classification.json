@@ -1,0 +1,34 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in forms and interfaces",
+    "Triggering events, actions, or navigation",
+    "Submitting form data with appropriate disabled states",
+    "Opening modals, dialogs, or overlay components",
+    "Toggling UI states with ghost and link variants"
+  ],
+  "ai_summary": "A reusable button component built with Radix UI Slot and Tailwind CSS, featuring multiple variants (default, destructive, outline, secondary, ghost, link) and sizes for versatile action triggering. Includes proper accessibility support with focus-visible rings and disabled states. Acts as a fundamental interactive building block for any web application interface.",
+  "_classifiedAt": "2026-04-22T09:16:04.602Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

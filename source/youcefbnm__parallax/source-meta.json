@@ -1,0 +1,19 @@
+{
+ "id": "youcefbnm__parallax",
+ "outcome": "retrieved",
+ "retrievalMethod": "local-legacy-store-copy",
+ "provenanceNote": "Copied from the pre-existing local legacy 21st store; NOT fetched from 21st.dev by this lane.",
+ "legacySourcePath": "legacy/youcefbnm-parallax/button.tsx",
+ "legacySourceFile": "button.tsx",
+ "legacyDependencies": [
+  "@radix-ui/react-slot",
+  "class-variance-authority",
+  "motion"
+ ],
+ "upstreamUrl": "https://21st.dev/@youcefbnm/components/parallax",
+ "httpStatus": null,
+ "sha256": "407ee6b1f7192574bcf65bd5da7464335d3fed430e0ffe8637b49a3168e4c664",
+ "bytes": 1838,
+ "completedAt": "2026-08-29T03:43:54.196Z",
+ "seededBy": "CENA-directive-2026-08-29-skip-legacy"
+}

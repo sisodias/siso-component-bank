@@ -1,0 +1,26 @@
+{
+  "id": "shadcnspace__avatar-badge",
+  "author": "shadcnspace",
+  "slug": "avatar-badge",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcnspace/components/avatar-badge",
+  "fetchedAt": "2026-08-29T07:10:54.979Z",
+  "completedAt": "2026-08-29T07:10:57.207Z",
+  "versionedFilename": "code.1773068103188.tsx",
+  "codeReference": "r2://components-code-private/larsen66/avatar-badge/code.1773068103188.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/avatar-badge/code.1773068103188.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 891,
+  "sha256": "85d92b671002b1d1edbf840ce862f83eef746ea66679fb0658f49bf3bb5fd0fd",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

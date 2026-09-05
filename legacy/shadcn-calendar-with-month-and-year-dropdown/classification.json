@@ -1,0 +1,31 @@
+{
+  "category": "data-display",
+  "subcategory": "calendar-date-picker",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "healthcare",
+    "education",
+    "real-estate",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Date selection for booking appointments in healthcare or service scheduling platforms",
+    "Event planning and calendar management in productivity applications",
+    "Date range selection for filtering data reports in analytics dashboards",
+    "Birthday or anniversary date input in user registration forms",
+    "Reservation scheduling for hospitality or dining applications"
+  ],
+  "ai_summary": "A calendar component with month and year navigation dropdowns, built on react-aria for full keyboard accessibility. Features standard shadcn styling with minimal hover and focus states, displaying a monthly calendar grid with header navigation buttons. Supports single date and date range selection, making it suitable for booking systems, scheduling tools, and form date inputs across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T17:26:22.863Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

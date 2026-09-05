@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "A versatile button component with multiple style variants for primary, secondary, destructive, and outline actions",
+    "An interactive button element with hover, focus-visible, and disabled states for form submissions",
+    "A customizable button supporting different sizes and appearances for consistent UI patterns",
+    "A button with optional arrow indicator support for dropdown or expandable actions",
+    "A theme-aware button component with light/dark mode support via Tailwind CSS classes"
+  ],
+  "ai_summary": "A flexible button component built with Radix UI and class-variance-authority, featuring 10+ style variants including primary, mono, destructive, outline, dashed, ghost, and dim. Supports multiple sizes, optional arrow indicators, and comprehensive interactive states including hover, focus-visible, and disabled. Designed as a reusable atomic component suitable for SaaS and general web applications with Tailwind CSS theming.",
+  "_classifiedAt": "2026-04-23T17:22:10.272Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

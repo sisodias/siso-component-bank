@@ -1,0 +1,34 @@
+{
+  "category": [
+    "media",
+    "data-display"
+  ],
+  "subcategory": "bento-grid-gallery",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "click-reveal",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Showcasing portfolio projects in a visually engaging grid layout",
+    "Displaying mixed media content (videos and images) with intelligent autoplay",
+    "Creating interactive gallery experiences for creative or product showcases",
+    "Building portfolio websites with lazy-loaded video content",
+    "Implementing expandable media galleries with smooth transitions"
+  ],
+  "ai_summary": "An interactive bento-style gallery component featuring a dynamic grid layout for displaying mixed media content (videos and images). Uses intersection observer for intelligent video autoplay when scrolled into view, with smooth Framer Motion animations and modal expansion for focused viewing. Optimized for creative portfolios, product showcases, and media-heavy landing pages.",
+  "_classifiedAt": "2026-04-23T11:30:29.233Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@theorcdev/components/8bit-command",
+  "author": "theorcdev",
+  "slug": "8bit-command",
+  "name": "8bit-command",
+  "description": "Pixel-art command palette from 8bitcn.com — retro pixel border on input + results panel. Wraps cmdk Command (inlined via esbuild).",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/theorcdev/8bit-command?api_key=$API_KEY_21ST\"",
+  "id": "theorcdev__8bit-command",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/8bit-command/default/bundle.1780152899791.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/8bit-command/default/preview.1780152899791.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

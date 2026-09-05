@@ -1,0 +1,31 @@
+{
+  "category": "card",
+  "subcategory": "travel-destination-card",
+  "visual_style": [
+    "gradient",
+    "hover-glow"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "media",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying travel destinations with background imagery and thematic color overlays",
+    "Creating clickable destination cards with hover zoom and glow effects",
+    "Building travel booking interfaces with location statistics and flag indicators",
+    "Designing destination highlight sections for travel blogs or booking platforms",
+    "Featuring location-based content with customizable theme colors via HSL values"
+  ],
+  "ai_summary": "A reusable destination card component with customizable HSL theming, background image display, gradient overlays, and interactive hover effects including scale transformations and glow shadows. Designed for travel and location-based content presentation with accessibility support via aria-labels. Uses forwardRef for proper React integration and cn utility for className merging.",
+  "_classifiedAt": "2026-04-23T01:46:31.235Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

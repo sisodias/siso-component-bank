@@ -1,0 +1,26 @@
+{
+  "category": "media",
+  "subcategory": "animated-svg-background",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero section backgrounds with animated flowing lines",
+    "Decorative page elements with continuous line drawing animations",
+    "Section dividers with subtle opacity transitions"
+  ],
+  "ai_summary": "A reusable animated SVG background component that renders flowing curved lines with stroke-dasharray animations. Uses motion/react for smooth path drawing effects with opacity transitions from transparent to visible and back. Supports dark/light mode theming and responsive full-screen height.",
+  "_classifiedAt": "2026-04-23T17:39:19.508Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

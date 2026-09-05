@@ -1,0 +1,26 @@
+{
+  "id": "3h5x__pagenotfound",
+  "author": "3h5x",
+  "slug": "pagenotfound",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@3h5x/components/pagenotfound",
+  "fetchedAt": "2026-08-29T03:25:03.383Z",
+  "completedAt": "2026-08-29T03:25:05.565Z",
+  "versionedFilename": "code.1748038026512.tsx",
+  "codeReference": "r2://components-code-private/3h5x/pagenotfound/code.1748038026512.tsx",
+  "codeUrl": "https://cdn.21st.dev/3h5x/pagenotfound/code.1748038026512.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 971,
+  "sha256": "07b3e9208994cd76b3cc09c096a04dc437a7feb6216f7999dd74c7fd58d301a7",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "theutkarshmail__chatgpt-tile",
+  "author": "theutkarshmail",
+  "slug": "chatgpt-tile",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theutkarshmail/components/chatgpt-tile",
+  "fetchedAt": "2026-08-29T07:36:29.112Z",
+  "completedAt": "2026-08-29T07:36:30.985Z",
+  "versionedFilename": "code.1755205021981.tsx",
+  "codeReference": "r2://components-code-private/theutkarshmail/chatgpt-tile/code.1755205021981.tsx",
+  "codeUrl": "https://cdn.21st.dev/theutkarshmail/chatgpt-tile/code.1755205021981.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2076,
+  "sha256": "b36f3f54de2f05f83df9674cc800643342417441790c7a812aae108630146e56",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,32 @@
+{
+  "category": "card",
+  "subcategory": "funding tier selector",
+  "visual_style": [
+    "gradient",
+    "glass-morphism"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "saas",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Select funding amounts in investment or grant applications",
+    "Choose pricing tiers in SaaS subscription flows",
+    "Pick milestone goals in fundraising platforms",
+    "Configure budget ranges in financial planning tools",
+    "Select credit limits or loan amounts in lending apps"
+  ],
+  "ai_summary": "An interactive funding tier selector card featuring gradient-filled progress circles with animated orbital dots and radial glow effects that track the user's selection. Built with framer-motion for smooth animations and supports customizable funding amount options. Ideal for fintech platforms, SaaS pricing selectors, or any application requiring milestone-based selection with rich visual feedback.",
+  "_classifiedAt": "2026-04-22T08:59:15.130Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

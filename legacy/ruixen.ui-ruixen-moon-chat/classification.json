@@ -1,0 +1,42 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Trigger primary actions in forms and applications",
+    "Create call-to-action buttons for user engagement",
+    "Implement destructive action confirmations with variant styling",
+    "Build navigation controls and menu triggers",
+    "Add accessible interactive controls with keyboard focus support"
+  ],
+  "ai_summary": "A versatile atomic button component built with Radix UI Slot and class-variance-authority for type-safe variant management. Features multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon) with built-in hover, focus, and disabled states. Styled with Tailwind CSS for a clean, flat aesthetic that integrates seamlessly into any design system.",
+  "_classifiedAt": "2026-04-23T01:51:04.964Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

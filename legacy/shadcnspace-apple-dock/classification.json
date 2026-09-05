@@ -1,0 +1,32 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "dock-launcher",
+  "visual_style": [
+    "glass-morphism",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "MacOS-style application launcher with magnifying dock icons",
+    "Quick access navigation bar for desktop apps and tools",
+    "Icon-based dock for launching different sections of a dashboard"
+  ],
+  "ai_summary": "A macOS-style dock component featuring glass-morphism aesthetics with semi-transparent, blurred backgrounds. The dock supports icon magnification on hover with smooth spring-based animations using Framer Motion. Icons dynamically scale based on mouse proximity, creating an interactive and polished navigation experience for desktop applications.",
+  "_classifiedAt": "2026-04-22T09:14:35.708Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

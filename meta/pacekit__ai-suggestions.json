@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@pacekit/components/ai-suggestions",
+  "author": "pacekit",
+  "slug": "ai-suggestions",
+  "name": "ai-suggestions",
+  "description": "A horizontally scrollable row of AI prompt suggestion chips that animate in and out, for chat and prompt input interfaces.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/pacekit/ai-suggestions?api_key=$API_KEY_21ST\"",
+  "id": "pacekit__ai-suggestions",
+  "bundleUrl": "https://cdn.21st.dev/pacekit/ai-suggestions/default/bundle.1784311536063-091a60d7-9c79-4dd2-8aea-e3461c3d0173.html",
+  "previewUrl": "https://cdn.21st.dev/pacekit/ai-suggestions/default/preview.1784311536063-091a60d7-9c79-4dd2-8aea-e3461c3d0173.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

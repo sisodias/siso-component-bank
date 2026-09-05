@@ -1,0 +1,29 @@
+{
+  "category": "navigation",
+  "subcategory": "tab-switcher",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Switching between sections of a product dashboard or settings page",
+    "Organizing content into categories like Overview, Billing, and Transactions",
+    "Space-efficient content navigation in SaaS applications",
+    "Mobile-friendly tab navigation with adaptive dropdown select",
+    "Admin panel or content management interface navigation"
+  ],
+  "ai_summary": "A vertical tab navigation component built with Radix UI that adapts between desktop sidebar-style tabs and mobile dropdown select for responsive tab switching. Styled with Tailwind CSS for a clean, minimal appearance with clear hover and active state indicators. Provides accessible keyboard navigation out of the box.",
+  "_classifiedAt": "2026-04-23T16:40:37.634Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

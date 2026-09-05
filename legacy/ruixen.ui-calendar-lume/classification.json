@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "Action Button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Trigger actions in forms, dialogs, and navigation menus",
+    "Submit or reset form data with variant-specific styling",
+    "Navigate between pages or sections with styled links",
+    "Enable destructive actions like delete with red-tinted variant",
+    "Create icon-only buttons for compact UI elements"
+  ],
+  "ai_summary": "A reusable button component with 6 style variants (default, destructive, outline, secondary, ghost, link) and 4 size options. Built with Radix UI Slot for composition, CVA for variant management, and Tailwind CSS for styling with subtle shadows and rounded corners. Supports disabled states and focus-visible outlines for accessibility.",
+  "_classifiedAt": "2026-04-22T09:11:44.807Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

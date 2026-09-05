@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@easemize/components/magnetic-cursor",
+  "author": "easemize",
+  "slug": "magnetic-cursor",
+  "name": "magnetic-cursor",
+  "description": "Magnetic Cursor - Interactive Physics-Based Cursor\nA highly interactive cursor component built with React, GSAP, and Vecteur. Unlike standard cursors, this uses a spring-physics model for true magnetic resistance and smooth blob-like morphing. It solves common accessibility issues with a smart contrast filter that ensures the cursor never washes out text, even on low-contrast backgrounds.\n✨ Key Features:\nTrue Spring Physics: Elastic magnetic attraction that feels \"alive\" (no linear drifting).\nSmart Contrast: Auto-applies backdrop-filter: contrast() to make text legible in exclusion mode.\nGooey Detachment: Smooth, velocity-based morphing when pulling away from elements.\nZero-Layout-Shift: Locks to element centers prevents \"padding drift.\"\nParticle Effects: satisfying explosion effects on click.\nProduction Ready: Touch detection, Reduced Motion support, and TypeScript.\n🎯 Perfect for: High-end portfolios, SaaS landing pages, and agency websites requiring agency-grade micro-interactions.\n📦 Stack: React, GSAP, Vecteur, Tailwind CSS.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/easemize/magnetic-cursor?api_key=$API_KEY_21ST\"",
+  "id": "easemize__magnetic-cursor",
+  "bundleUrl": "https://cdn.21st.dev/easemize/magnetic-cursor/default/bundle.1766746047298.html",
+  "previewUrl": "https://cdn.21st.dev/easemize/magnetic-cursor/default/preview.1766746047297.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 71,
+  "demo_id": 9314,
+  "video_url": "https://cdn.21st.dev/user_2xJxXqdwWohYrdd6fiMYrS9hbmO/magnetic-cursor/default/video.1785532192278.mp4"
+}

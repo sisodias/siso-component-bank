@@ -1,0 +1,26 @@
+{
+  "id": "dgearsonu1__alert",
+  "author": "dgearsonu1",
+  "slug": "alert",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dgearsonu1/components/alert",
+  "fetchedAt": "2026-08-29T04:24:48.949Z",
+  "completedAt": "2026-08-29T04:24:51.240Z",
+  "versionedFilename": "code.1759400996136.tsx",
+  "codeReference": "r2://components-code-private/dgearsonu1/alert/code.1759400996136.tsx",
+  "codeUrl": "https://cdn.21st.dev/dgearsonu1/alert/code.1759400996136.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 9463,
+  "sha256": "27210697284f92d1b4d774b7d26adb6dd95824135551565b984ed8231e0495f7",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

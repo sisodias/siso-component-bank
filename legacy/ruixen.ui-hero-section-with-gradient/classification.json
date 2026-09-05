@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Primary call-to-action button for SaaS landing pages and hero sections",
+    "Interactive button component with multiple variants for consistent UI systems",
+    "Accessible button with composition support via asChild pattern for Radix UI integration",
+    "Versatile button supporting keyboard navigation and focus states for form interfaces"
+  ],
+  "ai_summary": "A reusable button component with CVA (class-variance-authority) supporting 6 variants (default, destructive, outline, secondary, ghost, link) and 4 sizes. Built with Radix UI Slot for composition, includes hover states, focus-visible outlines, and disabled states. Designed as a core UI primitive for building consistent design systems across web applications.",
+  "_classifiedAt": "2026-04-23T17:18:45.644Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "usopp2324__sa7bi",
+  "author": "usopp2324",
+  "slug": "sa7bi",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@usopp2324/components/sa7bi",
+  "fetchedAt": "2026-08-29T07:53:05.595Z",
+  "completedAt": "2026-08-29T07:53:07.543Z",
+  "versionedFilename": "code.1784947824046-1ba24acd-db4e-44f9-a95a-daf1a69e90b1.tsx",
+  "codeReference": "r2://components-code-private/usopp2324/sa7bi/code.1784947824046-1ba24acd-db4e-44f9-a95a-daf1a69e90b1.tsx",
+  "codeUrl": "https://cdn.21st.dev/usopp2324/sa7bi/code.1784947824046-1ba24acd-db4e-44f9-a95a-daf1a69e90b1.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

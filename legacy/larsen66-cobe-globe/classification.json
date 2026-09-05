@@ -1,0 +1,37 @@
+{
+  "category": "data-display",
+  "subcategory": "Interactive 3D Globe",
+  "visual_style": [
+    "3d",
+    "glass-morphism",
+    "minimalist"
+  ],
+  "interactions": [
+    "drag",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying global user distribution or analytics metrics on an interactive 3D globe",
+    "Visualizing geographic connections between locations with animated arcs",
+    "Showing location-based markers for offices, stores, or data points worldwide",
+    "Creating engaging data visualizations for dashboards and analytics platforms",
+    "Building interactive world map experiences for travel or delivery apps"
+  ],
+  "ai_summary": "An interactive 3D globe component built with the COBE library that renders geographic visualizations with configurable markers and animated connection arcs. Supports drag-to-rotate interaction, auto-rotation, and customizable colors for markers, arcs, and glow effects. The component is highly configurable with options for brightness, speed, and visual styling, making it ideal for dashboards, analytics platforms, and any application needing to display global geographic data in an engaging, interactive format.",
+  "_classifiedAt": "2026-04-22T09:03:24.062Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:29:34.874Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

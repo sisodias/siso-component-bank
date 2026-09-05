@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons in forms and landing pages",
+    "Destructive action confirmation buttons requiring visual warning",
+    "Secondary actions alongside primary buttons using outline variants",
+    "Icon-only buttons for compact UI areas like toolbars",
+    "Ghost-style navigation links for minimal UI patterns"
+  ],
+  "ai_summary": "A reusable Button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, small, large, icon). Built with Radix UI Slot for composition, CVA for variant management, and Tailwind CSS for styling. Follows shadcn/ui design patterns with proper accessibility support via ring focus states.",
+  "_classifiedAt": "2026-04-23T16:55:58.890Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

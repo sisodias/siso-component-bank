@@ -1,0 +1,25 @@
+{
+  "category": "data-display",
+  "subcategory": "tree-view",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display hierarchical file or folder structures in file explorers",
+    "Navigate and organize project directories in code editors",
+    "Select and interact with nested items in document management systems",
+    "Build tree-based navigation menus for settings or configuration pages",
+    "Represent organizational hierarchies in content management systems"
+  ],
+  "ai_summary": "A hierarchical file tree component that displays expandable folder and file nodes with selection states. Supports click-to-expand folders, item selection, and keyboard navigation (Enter/Space). Renders with chevron indicators for folders and folder/file icons, using a clean flat visual style with hover and active states.",
+  "_classifiedAt": "2026-04-23T01:49:39.642Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

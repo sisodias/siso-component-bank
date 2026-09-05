@@ -1,0 +1,26 @@
+{
+  "id": "tempforall9__liquid-mosaic",
+  "author": "tempforall9",
+  "slug": "liquid-mosaic",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@tempforall9/components/liquid-mosaic",
+  "fetchedAt": "2026-08-29T07:30:47.764Z",
+  "completedAt": "2026-08-29T07:30:49.687Z",
+  "versionedFilename": "code.1784359270240-f0c2c5f3-a35e-4a95-ab84-0d321a152de6.tsx",
+  "codeReference": "r2://components-code-private/tempforall9/liquid-mosaic/code.1784359270240-f0c2c5f3-a35e-4a95-ab84-0d321a152de6.tsx",
+  "codeUrl": "https://cdn.21st.dev/tempforall9/liquid-mosaic/code.1784359270240-f0c2c5f3-a35e-4a95-ab84-0d321a152de6.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "daiwiikharihar__logo-cloud",
+  "author": "daiwiikharihar",
+  "slug": "logo-cloud",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@daiwiikharihar/components/logo-cloud",
+  "fetchedAt": "2026-08-29T04:06:06.018Z",
+  "completedAt": "2026-08-29T04:06:08.231Z",
+  "versionedFilename": "code.1786981834115-2e88b1cf-c152-484c-90b5-e4a21d935619.tsx",
+  "codeReference": "r2://components-code-private/daiwiikharihar/logo-cloud/code.1786981834115-2e88b1cf-c152-484c-90b5-e4a21d935619.tsx",
+  "codeUrl": "https://cdn.21st.dev/daiwiikharihar/logo-cloud/code.1786981834115-2e88b1cf-c152-484c-90b5-e4a21d935619.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

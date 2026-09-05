@@ -1,0 +1,32 @@
+{
+  "category": "pricing",
+  "subcategory": "service tier pricing cards",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying service pricing tiers for a design and development agency",
+    "Allowing startups to compare landing page vs multipage project costs",
+    "Enabling users to toggle between development and design service modes",
+    "Presenting transparent pricing with feature breakdowns for client decision-making",
+    "Converting visitors by offering direct booking or consultation calls"
+  ],
+  "ai_summary": "A transparent pricing component for startups showcasing development and design service tiers with landing page and multipage pricing options. Features animated pricing cards with mode switching between Dev and Design services, complete feature lists with icons, and call-to-action buttons for booking consultations. Built with React hooks for smooth hover animations and state management.",
+  "_classifiedAt": "2026-04-23T16:35:11.579Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

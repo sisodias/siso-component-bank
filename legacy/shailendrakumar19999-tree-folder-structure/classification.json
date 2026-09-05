@@ -1,0 +1,32 @@
+{
+  "category": "data-display",
+  "subcategory": "hierarchical-tree-view",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying nested folder and file structures in project explorers or file managers",
+    "Navigating hierarchical category or organizational structures in web applications",
+    "Browsing nested configuration or settings panels with collapsible sections",
+    "Representing decision trees or dependency graphs in developer tools"
+  ],
+  "ai_summary": "A Chakra UI-based tree view component that renders hierarchical folder and file structures with expandable/collapsible nodes. Uses react-icons (LuFolder, LuFile) for visual distinction between directories and files. Supports keyboard navigation and standard tree interactions. Built with createTreeCollection for managing nested node data.",
+  "_classifiedAt": "2026-04-23T01:52:58.249Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:36:26.266Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

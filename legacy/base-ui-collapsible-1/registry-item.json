@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "base-ui-collapsible-1",
+  "type": "registry:ui",
+  "title": "Base Ui Collapsible 1",
+  "description": "Installed from https://21st.dev/r/base-ui/collapsible-1",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "base-ui-collapsible-1"
+  ],
+  "files": [
+    {
+      "path": "collapsible-1.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@base-ui-components/react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false,
+    "renderable": false,
+    "reason": "imports @base-ui-components/react/<subpath> (not exported)"
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/base-ui/collapsible-1",
+    "fetchedAt": "2026-04-23T03:02:17.786Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

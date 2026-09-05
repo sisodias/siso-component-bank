@@ -1,0 +1,26 @@
+{
+  "id": "easemize__logo-carousel",
+  "author": "easemize",
+  "slug": "logo-carousel",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@easemize/components/logo-carousel",
+  "fetchedAt": "2026-08-29T04:38:15.795Z",
+  "completedAt": "2026-08-29T04:38:18.183Z",
+  "versionedFilename": "code.1749478790264.tsx",
+  "codeReference": "r2://components-code-private/easemize/logo-carousel/code.1749478790264.tsx",
+  "codeUrl": "https://cdn.21st.dev/easemize/logo-carousel/code.1749478790264.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3419,
+  "sha256": "a5c1049d2876f9bf0f1f40a70eb6e92c7975f55eedd9d0a1a72b5c44b6ba0077",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

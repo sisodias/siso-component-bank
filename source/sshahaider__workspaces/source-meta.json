@@ -1,0 +1,26 @@
+{
+  "id": "sshahaider__workspaces",
+  "author": "sshahaider",
+  "slug": "workspaces",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sshahaider/components/workspaces",
+  "fetchedAt": "2026-08-29T07:28:07.463Z",
+  "completedAt": "2026-08-29T07:28:09.666Z",
+  "versionedFilename": "code.1753391496406.tsx",
+  "codeReference": "r2://components-code-private/sshahaider/workspaces/code.1753391496406.tsx",
+  "codeUrl": "https://cdn.21st.dev/sshahaider/workspaces/code.1753391496406.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 8028,
+  "sha256": "35f9ba6f1585de1a5fa058c27f6ce18228c90b4bc38c17a434b8a928f11aea02",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

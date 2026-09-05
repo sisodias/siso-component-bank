@@ -1,0 +1,31 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "dropdown-menu",
+  "type": "registry:ui",
+  "title": "Dropdown Menu",
+  "description": "A dropdown menu component.",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "dropdown",
+    "menu",
+    "component"
+  ],
+  "files": [
+    {
+      "path": "dropdown-menu.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-dropdown-menu",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "renderable": false
+  },
+  "_provenance": {
+    "curationTags": []
+  }
+}

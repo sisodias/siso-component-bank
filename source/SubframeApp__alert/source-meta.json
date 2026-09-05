@@ -1,0 +1,26 @@
+{
+  "id": "SubframeApp__alert",
+  "author": "SubframeApp",
+  "slug": "alert",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@SubframeApp/components/alert",
+  "fetchedAt": "2026-08-29T07:29:19.584Z",
+  "completedAt": "2026-08-29T07:29:21.305Z",
+  "versionedFilename": "code.1755894583327.tsx",
+  "codeReference": "r2://components-code-private/larsen66/alert/code.1755894583327.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/alert/code.1755894583327.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3962,
+  "sha256": "8f2da2ec605cf3cd9320ee54915c3918b83d4ee07789d8bc910acf6030186fab",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

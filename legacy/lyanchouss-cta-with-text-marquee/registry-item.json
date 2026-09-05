@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "lyanchouss-cta-with-text-marquee",
+  "type": "registry:ui",
+  "title": "Lyanchouss Cta With Text Marquee",
+  "description": "Installed from https://21st.dev/r/lyanchouss/cta-with-text-marquee",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "lyanchouss-cta-with-text-marquee"
+  ],
+  "files": [
+    {
+      "path": "cta-with-text-marquee.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/lyanchouss/cta-with-text-marquee",
+    "fetchedAt": "2026-04-22T06:45:03.303Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

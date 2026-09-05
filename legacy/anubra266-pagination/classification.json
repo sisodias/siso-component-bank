@@ -1,0 +1,36 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "pagination-controls",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Navigating through paginated data sets such as search results or product listings",
+    "Browsing content organized into multiple pages in a SaaS dashboard",
+    "Moving between pages of articles or media content",
+    "Accessing different sections of a data table or list view",
+    "Enabling sequential navigation through paginated records in enterprise applications"
+  ],
+  "ai_summary": "A clean, accessible pagination component built on Ark UI with Previous and Next navigation triggers. Features dark mode support, focus ring accessibility, and disabled state handling. Minimalist visual design with subtle hover transitions makes it suitable for dashboards, e-commerce sites, and any interface requiring paginated content navigation across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T01:35:54.995Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

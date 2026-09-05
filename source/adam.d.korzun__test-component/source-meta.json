@@ -1,0 +1,26 @@
+{
+  "id": "adam.d.korzun__test-component",
+  "author": "adam.d.korzun",
+  "slug": "test-component",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@adam.d.korzun/components/test-component",
+  "fetchedAt": "2026-08-29T03:27:23.664Z",
+  "completedAt": "2026-08-29T03:27:26.088Z",
+  "versionedFilename": "code.1750863026866.tsx",
+  "codeReference": "r2://components-code-private/adam.d.korzun/test-component/code.1750863026866.tsx",
+  "codeUrl": "https://cdn.21st.dev/adam.d.korzun/test-component/code.1750863026866.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 568,
+  "sha256": "706fe0418b5e9bfee32f916d6c357be7a79ea437c6ca319d1ec15fb9c0ba6d18",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

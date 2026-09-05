@@ -1,0 +1,26 @@
+{
+  "category": "navigation",
+  "subcategory": "vertical-nav-menu",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Vertical navigation menus for landing pages or portfolio sites",
+    "Animated navigation routing between page sections",
+    "Feature showcase menus for product documentation sites",
+    "Minimalist site navigation with hover interactions"
+  ],
+  "ai_summary": "An animated vertical navigation menu component featuring reveal-on-hover arrow indicators and text skew effects. Built with framer-motion for smooth entrance animations, supporting custom colors and skew intensity via props. Ideal for minimalist website navigation where visual hierarchy and subtle motion enhance the user experience.",
+  "_classifiedAt": "2026-04-23T11:33:13.873Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

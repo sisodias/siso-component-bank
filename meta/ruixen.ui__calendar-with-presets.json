@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/calendar-with-presets",
+  "author": "ruixen.ui",
+  "slug": "calendar-with-presets",
+  "name": "calendar-with-presets",
+  "description": "This improved BetterCalendar component is a polished and modern variant of the default React DayPicker, styled strictly with shadcn/ui design principles. Instead of using harsh strikethroughs for disabled dates, it introduces a more refined approach by dimming and muting unavailable days, while clearly signaling them with a not-allowed cursor. Selected dates are highlighted with strong, high-contrast backgrounds that adapt to light and dark themes, ensuring maximum clarity for both single-date and range selections. The range highlight uses a pill-like design with softer accents in the middle, giving users a smooth visual flow when choosing date ranges. Today’s date is subtly emphasized with a small dot, following modern calendar UI patterns found in apps like Apple Calendar and Google Calendar. Navigation is intuitive with floating, circular arrow buttons that provide clear hover states without overwhelming the layout. Overall, this component feels premium, accessible, and user-friendly, making it ideal for dashboards, booking systems, and analytics interfaces.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/calendar-with-presets?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__calendar-with-presets",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/calendar-with-presets/default/bundle.1758958090329.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/calendar-with-presets/default/preview.1758958090329.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 40,
+  "demo_id": 8219,
+  "video_url": "https://cdn.21st.dev/user_2y5Wd5l713ZIFYjX19aZXSyXd6b/calendar-with-presets/default/video.1786465567329.mp4"
+}

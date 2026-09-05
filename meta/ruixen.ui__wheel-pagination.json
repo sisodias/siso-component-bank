@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/wheel-pagination",
+  "author": "ruixen.ui",
+  "slug": "wheel-pagination",
+  "name": "wheel-pagination",
+  "description": "This Wheel Pagination component provides a modern, interactive way to navigate through multiple pages. Unlike traditional numeric pagination, it shows a range of page numbers at once, highlighting the active page with scale and color, making it immediately recognizable. Users can scroll over the pagination area with the mouse wheel to move between pages, while previous/next arrows offer an alternative click-based navigation. The component intelligently keeps the active page centered within the visible range and supports a customizable number of visible pages, ensuring usability even with dozens or hundreds of pages. Fully compatible with light and dark themes, it also includes an onChange callback, allowing parent components to track the active page, making it ideal for dashboards, data-heavy applications, and modern UI interfaces that require a tactile, visually engaging pagination experience.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/wheel-pagination?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__wheel-pagination",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/wheel-pagination/default/bundle.1758447586545.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/wheel-pagination/default/preview.1758447586545.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 45,
+  "demo_id": 7876,
+  "video_url": "https://cdn.21st.dev/ruixen.ui/wheel-pagination/default/video.1758447586545.mp4"
+}

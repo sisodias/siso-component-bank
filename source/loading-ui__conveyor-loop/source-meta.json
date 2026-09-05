@@ -1,0 +1,26 @@
+{
+  "id": "loading-ui__conveyor-loop",
+  "author": "loading-ui",
+  "slug": "conveyor-loop",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@loading-ui/components/conveyor-loop",
+  "fetchedAt": "2026-08-29T05:28:50.395Z",
+  "completedAt": "2026-08-29T05:28:54.081Z",
+  "versionedFilename": "code.1784216004131-15617750-9bdd-4097-b481-0f11fa80f38d.tsx",
+  "codeReference": "r2://components-code-private/loading-ui/conveyor-loop/code.1784216004131-15617750-9bdd-4097-b481-0f11fa80f38d.tsx",
+  "codeUrl": "https://cdn.21st.dev/loading-ui/conveyor-loop/code.1784216004131-15617750-9bdd-4097-b481-0f11fa80f38d.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "40973894__siri-wave",
+  "author": "40973894",
+  "slug": "siri-wave",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@40973894/components/siri-wave",
+  "fetchedAt": "2026-08-29T03:25:05.566Z",
+  "completedAt": "2026-08-29T03:25:08.242Z",
+  "versionedFilename": "code.1782168892470.tsx",
+  "codeReference": "r2://components-code-private/larsen66/siri-wave/code.1782168892470.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/siri-wave/code.1782168892470.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 12787,
+  "sha256": "c8a11c91fbaad1706bd940f6985ff07bf838c73f295facbf4845af7015e95b4d",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

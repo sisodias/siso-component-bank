@@ -1,0 +1,33 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "animation-transition-state-reveal",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Smooth animated transitions for tab switches, accordion expansions, or dropdown reveals in SaaS dashboards",
+    "FLIP-based animations that morph element positions when toggling visibility states",
+    "Staggered element entrance/exit animations with scale and opacity for list or grid items",
+    "Reactive state transitions triggered by conditional rendering with preserved animations",
+    "Polished micro-interactions for interactive UIs like form wizards or multi-step flows"
+  ],
+  "ai_summary": "A GSAP-powered flip reveal component that enables smooth FLIP animations between component states. The FlipReveal wrapper manages show/hide states with scale, opacity, and staggered animations, while FlipRevealItem marks elements for coordinated transitions. Ideal for creating polished state transitions in SaaS dashboards, dev tools, and e-commerce interfaces where smooth element morphing between positions enhances UX during tab switches, accordion expansions, or list reordering.",
+  "_classifiedAt": "2026-04-23T17:06:01.151Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

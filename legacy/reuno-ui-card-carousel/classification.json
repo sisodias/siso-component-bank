@@ -1,0 +1,34 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "card-carousel",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying featured products or services in a swipeable card format",
+    "Showcasing portfolio items or case studies with visual navigation",
+    "Presenting testimonials or customer reviews in a horizontal carousel",
+    "Creating image galleries with card-based layout and smooth transitions",
+    "Highlighting featured content across e-commerce and portfolio sites"
+  ],
+  "ai_summary": "A card carousel component that displays collections of cards in a horizontally scrollable format with navigation controls. Built with shadcn/ui design patterns using CVA for variant management, featuring clean minimalist styling suitable for showcasing products, testimonials, or portfolio items. Includes auxiliary Badge component for labeling card content.",
+  "_classifiedAt": "2026-04-23T17:16:11.355Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

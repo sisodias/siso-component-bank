@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@haydenbleasel/components/ticker",
+  "author": "haydenbleasel",
+  "slug": "ticker",
+  "name": "ticker",
+  "description": "A composable finance ticker for displaying a stock symbol, logo, price, and color-coded price change.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/haydenbleasel/ticker?api_key=$API_KEY_21ST\"",
+  "id": "haydenbleasel__ticker",
+  "bundleUrl": "https://cdn.21st.dev/haydenbleasel/ticker/default/bundle.1784463360584-ea0b1e80-f6e6-4f1c-ba3e-0d5659d682f3.html",
+  "previewUrl": "https://cdn.21st.dev/haydenbleasel/ticker/default/preview.1784463360584-ea0b1e80-f6e6-4f1c-ba3e-0d5659d682f3.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

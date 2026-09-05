@@ -1,0 +1,30 @@
+{
+  "category": "input",
+  "subcategory": "button-group",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Download buttons displaying content download counts for software or media files",
+    "Action button groups for grouping related actions like download with additional metadata",
+    "Content download CTAs on landing pages, documentation sites, or file hosting platforms"
+  ],
+  "ai_summary": "A compact button group component combining a download action button with a metadata badge showing download count. Uses RTL-aware flexbox layout with shadow styling for visual separation. Designed for SaaS and media platforms to display download statistics alongside download actions.",
+  "_classifiedAt": "2026-04-22T09:15:52.601Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

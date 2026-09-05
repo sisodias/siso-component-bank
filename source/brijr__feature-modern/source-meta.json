@@ -1,0 +1,26 @@
+{
+  "id": "brijr__feature-modern",
+  "author": "brijr",
+  "slug": "feature-modern",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@brijr/components/feature-modern",
+  "fetchedAt": "2026-08-29T03:51:11.563Z",
+  "completedAt": "2026-08-29T03:51:13.823Z",
+  "versionedFilename": "code.1757993311122.tsx",
+  "codeReference": "r2://components-code-private/larsen66/feature-modern/code.1757993311122.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/feature-modern/code.1757993311122.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6550,
+  "sha256": "e627cb5a676daafd8976be4a747a3f80f43079bab288494bde81ea6d2a87f485",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

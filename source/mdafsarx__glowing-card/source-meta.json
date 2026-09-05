@@ -1,0 +1,26 @@
+{
+  "id": "mdafsarx__glowing-card",
+  "author": "mdafsarx",
+  "slug": "glowing-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@mdafsarx/components/glowing-card",
+  "fetchedAt": "2026-08-29T05:39:33.568Z",
+  "completedAt": "2026-08-29T05:39:35.776Z",
+  "versionedFilename": "code.1760679403657.tsx",
+  "codeReference": "r2://components-code-private/mdafsarx/glowing-card/code.1760679403657.tsx",
+  "codeUrl": "https://cdn.21st.dev/mdafsarx/glowing-card/code.1760679403657.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1099,
+  "sha256": "886e5fb32b5996cdb1e6ca5ccfcf2ee1f04273ed4fa32c5332e79fa621265585",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

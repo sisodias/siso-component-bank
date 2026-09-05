@@ -1,0 +1,31 @@
+{
+  "category": "media",
+  "subcategory": "image-gallery",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "media",
+    "e-commerce",
+    "creator-tools",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying filtered image collections in a responsive grid layout",
+    "Photo portfolio or gallery showcase with category filtering",
+    "E-commerce product image browser with lightbox overlay",
+    "Blog or content site image gallery with keyboard navigation",
+    "Creative portfolio with animated transitions and image zoom"
+  ],
+  "ai_summary": "A responsive image gallery component featuring category filtering, lightbox overlay with keyboard navigation, and smooth animations via Framer Motion. Displays images in a grid with hover effects and supports prev/next navigation within the lightbox modal. Ideal for portfolios, product showcases, or content-heavy media sites.",
+  "_classifiedAt": "2026-04-22T09:03:35.737Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

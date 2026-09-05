@@ -1,0 +1,33 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading-spinner",
+  "visual_style": [
+    "flat",
+    "colorful"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Display loading state while fetching data from an API",
+    "Show progress during form submission",
+    "Indicate page or content loading in progress",
+    "Visual feedback during async operations",
+    "Loading indicator for media or content streaming"
+  ],
+  "ai_summary": "A colorful SVG-based loading spinner styled to resemble a pencil and eraser design. Features concentric rotating circles with blue tones and an eraser element, designed to provide visual feedback during loading states. The component uses CSS classes for animation and is suitable for any SaaS or web application requiring a loading indicator.",
+  "_classifiedAt": "2026-04-23T17:12:26.680Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

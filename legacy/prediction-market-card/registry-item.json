@@ -1,0 +1,52 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "prediction-market-card",
+  "type": "registry:ui",
+  "title": "PredictionMarketCard",
+  "description": "Live prediction/betting card with countdown timer, YES/NO voting bars, bank totals, and slide-up betting slip overlay",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "betting",
+    "prediction",
+    "market",
+    "timer",
+    "voting",
+    "live",
+    "sports"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "prediction-market-card.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "avatar",
+    "badge",
+    "button",
+    "framer-motion",
+    "lucide-react",
+    "separator"
+  ],
+  "registryDependencies": [
+    "avatar",
+    "badge",
+    "button",
+    "prediction-market-card",
+    "separator"
+  ],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "curationTags": []
+  }
+}

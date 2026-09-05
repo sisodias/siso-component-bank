@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@reshaped/components/reshaped-divider",
+  "author": "reshaped",
+  "slug": "reshaped-divider",
+  "name": "reshaped-divider",
+  "description": "Separates content horizontally or vertically with the vertical flag. Integrates with the View utility's divided property, supports a neutral color to match form field borders, text or custom content next to the divider lines with configurable position, and a blank mode that removes the 1px line.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/reshaped/reshaped-divider?api_key=$API_KEY_21ST\"",
+  "id": "reshaped__reshaped-divider",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/reshaped-divider/default/bundle.1783428921249.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/reshaped-divider/default/preview.1783428921249.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

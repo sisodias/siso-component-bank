@@ -1,0 +1,24 @@
+{
+  "category": "input",
+  "subcategory": "action-button",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Form submission triggers for data collection",
+    "Navigation actions between pages or views",
+    "Modal or dialog open/close controls",
+    "Call-to-action elements in marketing pages",
+    "API interaction initiators like save, delete, or submit"
+  ],
+  "ai_summary": "A reusable Button component built with Radix UI Slot and class-variance-authority that supports multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes (default, small, large, icon). Features standard accessibility focus states and disabled handling, making it a foundational UI primitive for any React application built with Tailwind CSS.",
+  "_classifiedAt": "2026-04-22T09:04:30.930Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

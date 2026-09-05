@@ -1,0 +1,34 @@
+{
+  "category": "media",
+  "subcategory": "animated-particle-canvas",
+  "visual_style": [
+    "dark",
+    "gradient",
+    "3d"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creating immersive space-themed hero section backgrounds for landing pages",
+    "Adding animated starfield effects to website sections without performance overhead",
+    "Providing customizable particle backgrounds for SaaS product showcases",
+    "Enhancing visual appeal of marketing pages with dynamic space effects",
+    "Serving as a reusable decorative background component for various web applications"
+  ],
+  "ai_summary": "An animated canvas-based space background component featuring floating particles with customizable colors, sizes, and movement patterns. Uses requestAnimationFrame for smooth 60fps rendering and automatically detects background color for luminance-aware particle visibility. Configurable via props for particle count, color, and background, making it suitable for hero sections, landing pages, and decorative backgrounds across various web applications.",
+  "_classifiedAt": "2026-04-22T08:57:00.024Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

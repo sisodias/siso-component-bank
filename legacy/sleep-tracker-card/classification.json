@@ -1,0 +1,31 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "sleep-tracker",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "healthcare"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying sleep quality metrics and duration in health tracking mobile apps",
+    "Showing animated sleep stage breakdowns in wellness dashboards",
+    "Presenting overnight sleep analysis with visual bar graph in health portals",
+    "Visualizing sleep data trends over time in fitness and health wearables",
+    "Providing at-a-glance sleep insights with color-coded stage identification"
+  ],
+  "ai_summary": "A sleep tracking card component that displays sleep quality metrics and an animated bar graph showing different sleep stages (Awake, REM, Core, Deep) with color-coded segments. Features Framer Motion entrance animations with staggered spring effects on each bar. Designed for health and wellness applications, presenting time slept, quality percentage, and stage durations in a clean card layout suitable for both mobile and desktop platforms.",
+  "_classifiedAt": "2026-04-22T09:17:09.935Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "itsankitverma__error-404-page",
+  "author": "itsankitverma",
+  "slug": "error-404-page",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@itsankitverma/components/error-404-page",
+  "fetchedAt": "2026-08-29T05:04:04.038Z",
+  "completedAt": "2026-08-29T05:04:06.318Z",
+  "versionedFilename": "code.1751014594539.tsx",
+  "codeReference": "r2://components-code-private/itsankitverma/error-404-page/code.1751014594539.tsx",
+  "codeUrl": "https://cdn.21st.dev/itsankitverma/error-404-page/code.1751014594539.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2332,
+  "sha256": "e5a67ee8b03b7695d0aec49009e9ee8180b32fb7289c06393ab008a8c44410b1",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

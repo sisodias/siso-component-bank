@@ -1,0 +1,29 @@
+{
+  "category": "card",
+  "subcategory": "streaming card carousel with scanner effects",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying product cards in a horizontally streaming carousel with continuous motion",
+    "Creating hero sections with animated card streams and visual scan effects",
+    "Building media galleries with ASCII scramble and clip scan effects",
+    "Showcasing content collections with pause/play speed controls",
+    "Adding tech-forward card displays with Three.js-powered animations"
+  ],
+  "ai_summary": "A horizontally streaming card carousel component featuring Three.js-powered scanner effects including ASCII character scrambling and clip transitions. Cards scroll continuously with configurable speed, direction, and friction physics. Includes built-in pause/play controls and speed indicator for interactive user experience. Ideal for showcasing product cards, media content, or collection displays with a modern tech aesthetic.",
+  "_classifiedAt": "2026-04-22T09:08:34.637Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

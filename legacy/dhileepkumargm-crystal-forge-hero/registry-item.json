@@ -1,0 +1,43 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "dhileepkumargm-crystal-forge-hero",
+  "type": "registry:ui",
+  "title": "Dhileepkumargm Crystal Forge Hero",
+  "description": "Installed from https://21st.dev/r/dhileepkumargm/crystal-forge-hero",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "dhileepkumargm-crystal-forge-hero"
+  ],
+  "files": [
+    {
+      "path": "crystal-forge-hero.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "clsx",
+    "framer-motion",
+    "tailwind-merge",
+    "three"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/dhileepkumargm/crystal-forge-hero",
+    "fetchedAt": "2026-04-23T02:28:48.545Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

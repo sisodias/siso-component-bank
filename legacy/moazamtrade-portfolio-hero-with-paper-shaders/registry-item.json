@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "moazamtrade-portfolio-hero-with-paper-shaders",
+  "type": "registry:ui",
+  "title": "Moazamtrade Portfolio Hero With Paper Shaders",
+  "description": "Installed from https://21st.dev/r/moazamtrade/portfolio-hero-with-paper-shaders",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "moazamtrade-portfolio-hero-with-paper-shaders"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "portfolio-hero-with-paper-shaders.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@paper-design/shaders-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/moazamtrade/portfolio-hero-with-paper-shaders",
+    "fetchedAt": "2026-04-23T01:18:30.636Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

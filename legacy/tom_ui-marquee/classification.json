@@ -1,0 +1,27 @@
+{
+  "category": "media",
+  "subcategory": "scrolling-text",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "e-commerce",
+    "media",
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display scrolling announcements or promotions on e-commerce landing pages",
+    "Create news tickers for media websites and blogs",
+    "Showcase client logos or partner logos in a continuous carousel",
+    "Highlight feature lists or testimonials in a dynamic presentation",
+    "Add scrolling social proof elements like reviews or ratings"
+  ],
+  "ai_summary": "A versatile infinite-scroll marquee component that animates content horizontally or vertically with configurable direction, speed, and fade effects. Supports pause-on-hover interaction and handles any React children. Commonly used for news tickers, promotional banners, logo carousels, and scrolling testimonials across e-commerce and media platforms.",
+  "_classifiedAt": "2026-04-22T09:18:09.596Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

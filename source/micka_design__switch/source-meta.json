@@ -1,0 +1,26 @@
+{
+  "id": "micka_design__switch",
+  "author": "micka_design",
+  "slug": "switch",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@micka_design/components/switch",
+  "fetchedAt": "2026-08-29T05:42:35.055Z",
+  "completedAt": "2026-08-29T05:42:37.293Z",
+  "versionedFilename": "code.1773162626092.tsx",
+  "codeReference": "r2://components-code-private/larsen66/switch/code.1773162626092.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/switch/code.1773162626092.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6028,
+  "sha256": "ec37ff2b05ad49505e5a233e2c32d814270e476e4fa354e6f9402537758be59b",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

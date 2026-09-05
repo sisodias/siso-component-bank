@@ -1,0 +1,26 @@
+{
+  "category": "feedback",
+  "subcategory": "loading-spinner",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying a loading state while content is being fetched or processed",
+    "Indicating that an action is in progress during form submissions",
+    "Providing visual feedback during page transitions or navigation",
+    "Showing ongoing background operations in dashboards or applications",
+    "Replacing skeleton loaders during initial page rendering"
+  ],
+  "ai_summary": "A minimal loading spinner component featuring a rotating red circle with black bordered dots positioned around a central glowing circle. Built with styled-components using CSS keyframe animations for continuous 360-degree rotation. The flat design uses solid colors and basic geometric shapes, making it a lightweight, universal loading indicator suitable for any interface requiring feedback during asynchronous operations.",
+  "_classifiedAt": "2026-04-23T01:47:23.576Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,32 @@
+{
+  "category": [
+    "card"
+  ],
+  "subcategory": "contact-profile-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Team member showcase cards on company about pages",
+    "Contact directory with hover reveal animations",
+    "Speaker or presenter cards for events and conferences",
+    "Employee profile cards in internal dashboards"
+  ],
+  "ai_summary": "A contact card component featuring a profile image with grayscale-to-color hover transition and reveal animations. The card expands on hover, transitioning from a thumbnail view to reveal contact details. Supports both light and dark modes with smooth CSS transitions for the image scale, grayscale filter, and text element animations.",
+  "_classifiedAt": "2026-04-23T17:36:59.812Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

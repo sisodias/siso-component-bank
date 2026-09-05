@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "hammamikhairi-animated-gradient-background",
+  "type": "registry:ui",
+  "title": "Hammamikhairi Animated Gradient Background",
+  "description": "Installed from https://21st.dev/r/hammamikhairi/animated-gradient-background",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "hammamikhairi-animated-gradient-background"
+  ],
+  "files": [
+    {
+      "path": "animated-gradient-background.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/hammamikhairi/animated-gradient-background",
+    "fetchedAt": "2026-04-23T03:05:25.731Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

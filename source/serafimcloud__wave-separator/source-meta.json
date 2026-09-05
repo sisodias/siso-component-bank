@@ -1,0 +1,26 @@
+{
+  "id": "serafimcloud__wave-separator",
+  "author": "serafimcloud",
+  "slug": "wave-separator",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@serafimcloud/components/wave-separator",
+  "fetchedAt": "2026-08-29T07:06:42.421Z",
+  "completedAt": "2026-08-29T07:06:44.617Z",
+  "versionedFilename": "code.1785365373146-6a6bcccc-75de-4523-9025-2f0576a96d49.tsx",
+  "codeReference": "r2://components-code-private/serafimcloud/wave-separator/code.1785365373146-6a6bcccc-75de-4523-9025-2f0576a96d49.tsx",
+  "codeUrl": "https://cdn.21st.dev/serafimcloud/wave-separator/code.1785365373146-6a6bcccc-75de-4523-9025-2f0576a96d49.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

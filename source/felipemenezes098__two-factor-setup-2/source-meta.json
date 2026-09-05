@@ -1,0 +1,26 @@
+{
+  "id": "felipemenezes098__two-factor-setup-2",
+  "author": "felipemenezes098",
+  "slug": "two-factor-setup-2",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@felipemenezes098/components/two-factor-setup-2",
+  "fetchedAt": "2026-08-29T04:50:26.764Z",
+  "completedAt": "2026-08-29T04:50:29.237Z",
+  "versionedFilename": "code.1783657914637.tsx",
+  "codeReference": "r2://components-code-private/felipemenezes098/two-factor-setup-2/code.1783657914637.tsx",
+  "codeUrl": "https://cdn.21st.dev/felipemenezes098/two-factor-setup-2/code.1783657914637.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1469,
+  "sha256": "a071a06635d7fdcfcbdf6e4498ef5abda4d45744efba03774e377af678908731",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons for forms, dialogs, and page sections",
+    "Navigation triggers with variant styles for destructive, secondary, and ghost actions",
+    "Interactive controls in data-heavy interfaces like tables and dashboards",
+    "Foundation component for building composite UI elements like dropdowns and popovers",
+    "Accessible button implementation with Radix UI Slot for polymorphic rendering"
+  ],
+  "ai_summary": "A foundational Button component built with Radix UI and class-variance-authority, following shadcn/ui design patterns. Supports multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, small, large, icon) for versatile use across interfaces. Clean, flat styling with standard Tailwind classes makes it suitable as a building block for composite components like dropdowns, modals, and form controls.",
+  "_classifiedAt": "2026-04-23T16:33:29.321Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

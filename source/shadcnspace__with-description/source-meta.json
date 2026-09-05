@@ -1,0 +1,26 @@
+{
+  "id": "shadcnspace__with-description",
+  "author": "shadcnspace",
+  "slug": "with-description",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcnspace/components/with-description",
+  "fetchedAt": "2026-08-29T07:13:13.569Z",
+  "completedAt": "2026-08-29T07:13:15.824Z",
+  "versionedFilename": "code.1772717136097.tsx",
+  "codeReference": "r2://components-code-private/larsen66/with-description/code.1772717136097.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/with-description/code.1772717136097.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 527,
+  "sha256": "db7880893259738ab8d47bd7262acd077572dc16049e06485de814970f8bdce0",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

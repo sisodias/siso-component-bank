@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "stacked-area-chart",
+  "visual_style": [
+    "flat",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying security incident trends over time with multiple data series",
+    "Comparing Threat Intel, DLP, and SysLog incident volumes across time periods",
+    "Filtering chart data by predefined time ranges (7, 30, 90 days)",
+    "Dashboard analytics and monitoring visualizations",
+    "Real-time data visualization for security operations centers"
+  ],
+  "ai_summary": "A stacked area chart component for displaying time-series security incident data across multiple categories (Threat Intel, DLP, SysLog). Features time range filtering controls and generates random daily data for demonstration. Built with Reaviz charting library and uses gradient styling for visual differentiation between data series.",
+  "_classifiedAt": "2026-04-23T17:14:10.361Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

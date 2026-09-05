@@ -1,0 +1,30 @@
+{
+  "category": "layout",
+  "subcategory": "masonry-grid, responsive-columns",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying variable-height cards or images in a Pinterest-style masonry grid",
+    "Creating responsive image galleries that adapt from 1 to 5 columns based on viewport",
+    "Building portfolio or showcase layouts for creative portfolios",
+    "Organizing product grids for e-commerce with items of different heights",
+    "Structuring blog post or content card layouts with break-inside-avoid preservation"
+  ],
+  "ai_summary": "A responsive masonry layout component that arranges variable-height content items into adaptive columns using Tailwind CSS column utilities. The layout shifts from single-column on mobile to five columns on extra-large screens, with break-inside-avoid handling to prevent content from splitting across column boundaries. Designed for use cases requiring Pinterest-style galleries, product grids, or content showcases with items of inconsistent heights.",
+  "_classifiedAt": "2026-04-23T17:09:10.967Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,35 @@
+{
+  "category": [
+    "form",
+    "input"
+  ],
+  "subcategory": "social-authentication-buttons",
+  "visual_style": [
+    "glass-morphism",
+    "gradient",
+    "dark"
+  ],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Allow users to connect social accounts like Discord, Slack, or Reddit to a platform",
+    "Display connection status feedback during OAuth or API authentication flows",
+    "Provide visual confirmation when external services are successfully linked",
+    "Enable community building by connecting users to branded social channels",
+    "Serve as part of onboarding flows for SaaS platforms requiring social integration"
+  ],
+  "ai_summary": "A set of glass-morphism styled social platform connection buttons for Discord, Slack, and Reddit with animated connection states. Features gradient backgrounds, glowing borders, and smooth hover/click transitions. Includes simulated connection logic with loading and success states. Designed for SaaS onboarding, community platforms, or any application requiring social service integration.",
+  "_classifiedAt": "2026-04-23T17:02:22.015Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

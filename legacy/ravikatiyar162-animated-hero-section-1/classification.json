@@ -1,0 +1,35 @@
+{
+  "category": [
+    "hero"
+  ],
+  "subcategory": "animated-hero-section",
+  "visual_style": [
+    "glass-morphism",
+    "dark",
+    "gradient"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page headers with animated entrance effects for marketing sites",
+    "Product showcase sections with glass-morphism styling and call-to-action buttons",
+    "Dark-themed hero banners with parallax-like layered animations"
+  ],
+  "ai_summary": "An animated hero section component featuring glass-morphism styling with backdrop blur effects, dark gradient overlays, and staggered entrance animations using Framer Motion. Includes configurable navigation, logo slot, dual CTA buttons, and fully responsive layout suitable for landing pages across SaaS, e-commerce, and media platforms.",
+  "_classifiedAt": "2026-04-23T01:45:52.817Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

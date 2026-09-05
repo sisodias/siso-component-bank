@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/package-installer-tabs",
+  "author": "ruixen.ui",
+  "slug": "package-installer-tabs",
+  "name": "package-installer-tabs",
+  "description": "The PackageInstallerTabs component is a modern, Shadcn UI–based code snippet viewer designed for quick package installation commands. It provides users with tabbed navigation for popular package managers—npm, pnpm, yarn, and bun—each represented with intuitive icons from react-icons. The active tab displays the corresponding command in a styled, monospace code block, making it easy to read and copy. A copy button with instant feedback (switching from a clipboard icon to a checkmark) allows users to quickly copy the command to their clipboard, improving workflow efficiency. Fully responsive and keyboard-accessible, this component combines visual clarity, usability, and developer-friendly interactivity while strictly following Shadcn UI design principles. It’s perfect for documentation, tutorials, or any developer-facing interface where multiple installation methods need to be presented cleanly and interactively.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/package-installer-tabs?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__package-installer-tabs",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/package-installer-tabs/default/bundle.1758921258731.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/package-installer-tabs/default/preview.1758921258731.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 20,
+  "demo_id": 8197,
+  "video_url": null
+}

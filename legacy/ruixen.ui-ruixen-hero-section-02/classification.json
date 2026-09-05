@@ -1,0 +1,34 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "alert-notification",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display warning messages to users in SaaS applications",
+    "Show success confirmations after form submissions",
+    "Present error states for validation failures in forms",
+    "Deliver informational notifications in dashboards",
+    "Create dismissible alert banners for marketing announcements"
+  ],
+  "ai_summary": "A versatile Alert component with multiple variants (default, warning, error, success, info) and sizes. Supports inline icons, action buttons, and two layout modes (row for single-line alerts, complex for multi-line content). Designed as a notification system with optional shadow styling and border accents. Fully accessible with role='alert' attribute.",
+  "_classifiedAt": "2026-04-23T17:20:23.549Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

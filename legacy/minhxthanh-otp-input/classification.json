@@ -1,0 +1,34 @@
+{
+  "category": "input",
+  "subcategory": "otp-verification",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "morph"
+  ],
+  "best_for_industries": [
+    "fintech",
+    "saas",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Two-factor authentication verification for secure login flows",
+    "Phone or email verification during account registration",
+    "Payment confirmation with one-time passcode entry",
+    "Session re-verification for sensitive operations",
+    "Password reset or account recovery verification"
+  ],
+  "ai_summary": "A secure OTP (One-Time Password) input component with animated success and error states. Features spring-based animations using Framer Motion for verification feedback, including a checkmark reveal on successful validation and error messaging for incorrect entries. Designed for authentication and verification workflows across fintech, SaaS, and e-commerce platforms.",
+  "_classifiedAt": "2026-04-23T01:43:32.360Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:29:47.880Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

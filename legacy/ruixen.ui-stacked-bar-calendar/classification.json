@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary action triggers in forms and applications",
+    "Destructive actions like delete or remove operations",
+    "Navigation links styled as buttons",
+    "Toggle states and mode switching",
+    "Secondary or alternative action options in UI flows"
+  ],
+  "ai_summary": "A versatile Button component built with class-variance-authority (CVA) for flexible variant management and Radix UI Slot for composition patterns. Supports multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Features standard accessibility patterns including focus-visible outlines and disabled states with proper pointer-events handling. Designed as a reusable atomic component suitable for any SaaS, fintech, or e-commerce application requiring consistent button styling across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T01:51:38.129Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

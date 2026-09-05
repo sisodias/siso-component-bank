@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@elements-/components/streaming-text",
+  "author": "elements-",
+  "slug": "streaming-text",
+  "name": "streaming-text",
+  "description": "Animated text that streams in character-by-character or word-by-word with a blinking cursor, simulating an AI typewriter response.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/elements-/streaming-text?api_key=$API_KEY_21ST\"",
+  "id": "elements-__streaming-text",
+  "bundleUrl": "https://cdn.21st.dev/elements-/streaming-text/default/bundle.1783715791002.html",
+  "previewUrl": "https://cdn.21st.dev/elements-/streaming-text/default/preview.1783715791002.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

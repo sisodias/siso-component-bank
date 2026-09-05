@@ -1,0 +1,29 @@
+{
+  "category": "overlay",
+  "subcategory": "custom-cursor-tracker",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creating custom cursor effects for portfolio or creative websites",
+    "Building mouse-following interactive elements like buttons or tooltips",
+    "Implementing hover glow effects tied to cursor position",
+    "Adding parallax mouse-tracking animations to hero sections",
+    "Enabling custom pointer visuals for branded web experiences"
+  ],
+  "ai_summary": "A React MouseTrackerProvider component that captures mouse position relative to its container and exposes it via context for child components. Uses motion/react for smooth spring-based animations, enabling custom cursor implementations, hover glow effects, and mouse-following visual elements. Provides position tracking and active state to power interactive cursor-based UI patterns.",
+  "_classifiedAt": "2026-04-23T17:07:40.652Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

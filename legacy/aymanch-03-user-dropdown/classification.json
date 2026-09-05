@@ -1,0 +1,35 @@
+{
+  "category": [
+    "navigation",
+    "overlay"
+  ],
+  "subcategory": "user-account-menu",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "media",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "User profile access from navigation header",
+    "Account switching in multi-user applications",
+    "Logout and settings access",
+    "Quick user info display with avatar"
+  ],
+  "ai_summary": "Aymanch 03 User Dropdown is a navigation component combining Radix UI Avatar primitives with dropdown overlay functionality for user account menus. Provides accessible user profile display with click-to-reveal dropdown for account actions. Built with Tailwind CSS using a clean, minimalist visual style suitable for any SaaS or web application header.",
+  "_classifiedAt": "2026-04-23T11:31:17.395Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

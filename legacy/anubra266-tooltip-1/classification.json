@@ -1,0 +1,38 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "hover-tooltip",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Providing contextual hints on user interface elements",
+    "Displaying additional information on hover for form fields",
+    "Showing tooltips on icon-only buttons",
+    "Revealing hidden content descriptions for accessibility",
+    "Guiding users through complex interface elements"
+  ],
+  "ai_summary": "A minimalist tooltip component built with Ark UI that displays contextual information when triggered by user interaction. Features dark mode support, fade animations for show/hide states, and renders through a portal for proper z-index layering. Clean design with subtle borders and shadows suitable for any professional interface.",
+  "_classifiedAt": "2026-04-22T08:52:05.659Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

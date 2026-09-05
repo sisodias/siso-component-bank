@@ -1,0 +1,27 @@
+{
+  "category": "input",
+  "subcategory": "animated pill button",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Contact or About page call-to-action buttons with engaging hover animations",
+    "Navigation elements requiring visual feedback on interaction",
+    "Interactive CTA buttons in landing pages where user engagement matters",
+    "Modern web application buttons with branded hover color transitions"
+  ],
+  "ai_summary": "A pill-shaped contact button featuring a hover-triggered morph animation where a colored circle expands from the center while text slides out and an arrow icon slides in. The button uses smooth 300ms transitions with a dark background that can be customized via CSS variables for brand alignment. Ideal for modern SaaS and landing pages requiring engaging micro-interactions.",
+  "_classifiedAt": "2026-04-23T17:36:39.523Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

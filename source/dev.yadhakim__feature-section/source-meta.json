@@ -1,0 +1,26 @@
+{
+  "id": "dev.yadhakim__feature-section",
+  "author": "dev.yadhakim",
+  "slug": "feature-section",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dev.yadhakim/components/feature-section",
+  "fetchedAt": "2026-08-29T04:23:37.349Z",
+  "completedAt": "2026-08-29T04:23:39.511Z",
+  "versionedFilename": "code.1771522155930.tsx",
+  "codeReference": "r2://components-code-private/dev.yadhakim/feature-section/code.1771522155930.tsx",
+  "codeUrl": "https://cdn.21st.dev/dev.yadhakim/feature-section/code.1771522155930.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3238,
+  "sha256": "7f758bb23e719b6a016abb1cced66ad82bdd72bba2a214712b4fd9f14cbcb883",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

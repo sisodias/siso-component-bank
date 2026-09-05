@@ -1,0 +1,26 @@
+{
+  "id": "uicapsule__voice-dictator",
+  "author": "uicapsule",
+  "slug": "voice-dictator",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uicapsule/components/voice-dictator",
+  "fetchedAt": "2026-08-29T07:42:05.289Z",
+  "completedAt": "2026-08-29T07:42:07.517Z",
+  "versionedFilename": "code.1784285260309-39d9898d-ffaa-45b0-8ba3-caba15a2fb91.tsx",
+  "codeReference": "r2://components-code-private/uicapsule/voice-dictator/code.1784285260309-39d9898d-ffaa-45b0-8ba3-caba15a2fb91.tsx",
+  "codeUrl": "https://cdn.21st.dev/uicapsule/voice-dictator/code.1784285260309-39d9898d-ffaa-45b0-8ba3-caba15a2fb91.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

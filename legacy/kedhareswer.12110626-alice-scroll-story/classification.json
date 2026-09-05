@@ -1,0 +1,29 @@
+{
+  "category": "media",
+  "subcategory": "scroll-storytelling-hero-reveal",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Creating immersive hero sections with scroll-triggered reveal animations",
+    "Building narrative-driven landing pages with pinned scroll sections",
+    "Designing product showcases with progressive content disclosure",
+    "Implementing cinematic storytelling experiences with GSAP timelines",
+    "Adding sophisticated scroll-based animations to marketing pages"
+  ],
+  "ai_summary": "A scroll-driven storytelling component using GSAP and ScrollTrigger that creates immersive hero reveals through pinned scroll sections, clipPath animations, and split-text effects. The component orchestrates complex timeline-based animations triggered by scroll position, making it ideal for creating cinematic landing pages and narrative-driven product showcases with progressive content disclosure.",
+  "_classifiedAt": "2026-04-23T01:41:57.049Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

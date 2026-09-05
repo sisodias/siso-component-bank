@@ -1,0 +1,33 @@
+{
+  "category": [
+    "hero"
+  ],
+  "subcategory": "video-scroll-scaling",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero sections with engaging video backgrounds",
+    "Product showcases that reveal video content as users scroll",
+    "Portfolio or media sites requiring cinematic scroll effects",
+    "SaaS landing pages with scroll-driven video scaling animations"
+  ],
+  "ai_summary": "A cinematic hero component featuring a video that scales dynamically from a small starting size (default 25%) to full size as the user scrolls through a tall container. Uses Framer Motion for smooth animations and respects reduced motion preferences. The sticky video container creates an immersive scroll experience perfect for landing pages and product showcases.",
+  "_classifiedAt": "2026-04-23T01:40:23.008Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

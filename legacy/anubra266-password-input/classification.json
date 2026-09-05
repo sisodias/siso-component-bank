@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "password-input",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "User authentication forms for login and signup flows",
+    "Account settings pages for password changes",
+    "Registration forms requiring secure credential input",
+    "Any form requiring sensitive data entry with visibility toggle"
+  ],
+  "ai_summary": "A password input component with show/hide visibility toggle built with Ark UI and Lucide icons. Features dark mode support, focus ring states, and clean minimalist styling with smooth transition animations. Includes accessible label and indicator patterns for secure credential input in authentication and registration flows.",
+  "_classifiedAt": "2026-04-23T01:35:56.875Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

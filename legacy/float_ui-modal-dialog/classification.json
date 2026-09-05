@@ -1,0 +1,30 @@
+{
+  "category": "overlay",
+  "subcategory": "confirmation-modal",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display success confirmations after user actions like form submissions or purchases",
+    "Show informational messages with optional action buttons in web applications",
+    "Present lightweight dialogs for quick user decisions without page navigation"
+  ],
+  "ai_summary": "A lightweight confirmation modal dialog built with Radix UI featuring a success checkmark icon, descriptive text, and action buttons. Uses standard Tailwind styling with flat design aesthetics and provides accessible keyboard navigation and focus management out of the box.",
+  "_classifiedAt": "2026-04-23T01:40:01.617Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

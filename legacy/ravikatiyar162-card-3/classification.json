@@ -1,0 +1,35 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "profile-avatar",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying user profile images in card layouts",
+    "Showing team member avatars in organizational charts",
+    "Representing users in comment sections or chat interfaces",
+    "Creating avatar placeholders with fallback initials"
+  ],
+  "ai_summary": "A reusable Avatar component built with Radix UI primitives and Tailwind CSS, featuring Image and Fallback sub-components for graceful handling of missing images. Designed for profile display within card layouts, supporting circular avatars with responsive sizing and customizable styling.",
+  "_classifiedAt": "2026-04-23T01:46:31.600Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

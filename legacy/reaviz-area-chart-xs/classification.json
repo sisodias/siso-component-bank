@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "area-chart",
+  "visual_style": [
+    "flat",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying time-series data trends over days, weeks, or months with smooth area visualization",
+    "Visualizing revenue, user growth, or engagement metrics in dashboards",
+    "Comparing multiple data series over time with stacked area charts",
+    "Showing cumulative data patterns with gradient-filled areas",
+    "Presenting statistical data with customizable axis formatting and theming"
+  ],
+  "ai_summary": "A reusable area chart component from the Reaviz library that renders smooth, gradient-filled area visualizations for time-series data. Supports custom color schemes, dark mode, and flexible axis formatting. Designed for dashboard integration across SaaS, fintech, and e-commerce platforms to display metrics trends and comparative data.",
+  "_classifiedAt": "2026-04-23T17:14:17.150Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

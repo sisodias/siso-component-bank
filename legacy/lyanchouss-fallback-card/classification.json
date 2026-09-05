@@ -1,0 +1,30 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in web applications",
+    "Form submission triggers with multiple visual variants",
+    "Accessible interactive elements with keyboard navigation support",
+    "Icon buttons for toolbar and navigation interfaces",
+    "Destructive action buttons for delete or warning confirmations"
+  ],
+  "ai_summary": "A reusable button component built with Radix UI Slot for flexible composition and class-variance-authority (CVA) for managing multiple style variants and sizes. Implements shadcn/ui design patterns with clean Tailwind utility classes, providing 6 visual variants (default, destructive, outline, secondary, ghost, link) and 4 size options. Includes proper focus-visible states and ring utilities for accessibility, serving as a foundational atomic UI element across various industry applications.",
+  "_classifiedAt": "2026-04-23T01:43:13.812Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

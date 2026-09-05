@@ -1,0 +1,33 @@
+{
+  "category": "input",
+  "subcategory": "qr-button, hover-reveal, popover",
+  "visual_style": [
+    "glass-morphism",
+    "gradient",
+    "neon"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display QR codes for two-factor authentication or login verification",
+    "Reveal mobile app download links on hover for app promotion pages",
+    "Show payment QR codes for checkout or donation flows",
+    "Provide quick access to contact or vCard information in business profiles",
+    "Enable product information lookup by scanning in retail or inventory systems"
+  ],
+  "ai_summary": "A hover-triggered QR code button component featuring soft pastel gradients with neon glow effects. The component displays a circular icon button that reveals a larger QR code in a floating popover card on mouse hover, using smooth scale and opacity transitions. Built with Tailwind CSS and lucide-react icons, it combines glassmorphism aesthetics with interactive hover-reveal functionality for quick access to scannable content.",
+  "_classifiedAt": "2026-04-23T17:19:32.977Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

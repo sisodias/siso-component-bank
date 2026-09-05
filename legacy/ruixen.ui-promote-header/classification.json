@@ -1,0 +1,31 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "navigation-header",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Primary navigation header for SaaS product websites",
+    "Landing pages with multiple sections like features, pricing, and about",
+    "Documentation sites with resource dropdown menus",
+    "Developer tools and API product pages"
+  ],
+  "ai_summary": "A responsive navigation header component for SaaS and developer tools websites. Features a clean navigation bar with main links, a dropdown resources menu with icons (Docs, Templates, Community, Changelog), dark mode toggle, and mobile hamburger menu. Built with Next.js and optimized for product landing pages requiring multiple content sections.",
+  "_classifiedAt": "2026-04-23T17:19:46.692Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

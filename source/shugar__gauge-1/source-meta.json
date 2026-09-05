@@ -1,0 +1,26 @@
+{
+  "id": "shugar__gauge-1",
+  "author": "shugar",
+  "slug": "gauge-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/gauge-1",
+  "fetchedAt": "2026-08-29T07:19:27.350Z",
+  "completedAt": "2026-08-29T07:19:29.435Z",
+  "versionedFilename": "code.1751634978866.tsx",
+  "codeReference": "r2://components-code-private/shugar/gauge-1/code.1751634978866.tsx",
+  "codeUrl": "https://cdn.21st.dev/shugar/gauge-1/code.1751634978866.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4796,
+  "sha256": "4f787ccfef4979a00bf76dc826667dabf7b4fb5291ed793a6d1754ca4d71b366",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

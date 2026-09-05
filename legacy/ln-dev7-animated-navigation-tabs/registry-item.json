@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ln-dev7-animated-navigation-tabs",
+  "type": "registry:ui",
+  "title": "Ln Dev7 Animated Navigation Tabs",
+  "description": "Installed from https://21st.dev/r/ln-dev7/animated-navigation-tabs",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ln-dev7-animated-navigation-tabs"
+  ],
+  "files": [
+    {
+      "path": "animated-navigation-tabs.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ln-dev7/animated-navigation-tabs",
+    "fetchedAt": "2026-04-23T03:05:47.540Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

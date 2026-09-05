@@ -1,0 +1,30 @@
+{
+  "category": "media",
+  "subcategory": "Progressive carousel with auto-advance and progress tracking",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Auto-advancing content showcases for feature presentations",
+    "Sequential information display with visual progress indicators",
+    "Interactive testimonial or testimonial-style content carousels",
+    "Product highlight rotations with configurable timing",
+    "Progress-driven slide decks for onboarding or presentations"
+  ],
+  "ai_summary": "A React-based progressive carousel component using motion/react for smooth animations and React Context for shared state management. Features auto-advancing slides with configurable duration, progress bar tracking, fast-forward capability, and optional vertical orientation. Designed for showcasing sequential content like features, testimonials, or promotional material with visual progress feedback.",
+  "_classifiedAt": "2026-04-23T01:54:09.470Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

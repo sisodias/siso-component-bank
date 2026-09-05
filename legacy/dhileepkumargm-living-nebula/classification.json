@@ -1,0 +1,32 @@
+{
+  "category": "media",
+  "subcategory": "webgl-nebula-shader",
+  "visual_style": [
+    "3d",
+    "gradient",
+    "colorful"
+  ],
+  "interactions": [
+    "parallax"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Immersive hero section background with cosmic nebula effect",
+    "Interactive landing page visual that responds to mouse movement",
+    "Loading screen or splash page animation with living particle system",
+    "Background element for creative portfolios or digital art showcases",
+    "Atmospheric visual layer for music or media player interfaces"
+  ],
+  "ai_summary": "A WebGL-powered living nebula visualization using Three.js and custom GLSL fragment shaders with fractal Brownian motion noise. The shader renders a dynamic cosmic cloud effect that warps and flows around the mouse cursor position, creating an immersive interactive background suitable for hero sections, landing pages, or ambient visual displays.",
+  "_classifiedAt": "2026-04-23T16:34:40.489Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

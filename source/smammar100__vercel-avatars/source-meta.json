@@ -1,0 +1,26 @@
+{
+  "id": "smammar100__vercel-avatars",
+  "author": "smammar100",
+  "slug": "vercel-avatars",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@smammar100/components/vercel-avatars",
+  "fetchedAt": "2026-08-29T07:22:31.919Z",
+  "completedAt": "2026-08-29T07:22:34.539Z",
+  "versionedFilename": "code.1779182359848.tsx",
+  "codeReference": "r2://components-code-private/smammar100/vercel-avatars/code.1779182359848.tsx",
+  "codeUrl": "https://cdn.21st.dev/smammar100/vercel-avatars/code.1779182359848.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 13454,
+  "sha256": "a9cbeb4c8d36ad4a9fd3d27c5d9fe18d4d6461a8cae2671841c6483dbf0b54ce",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

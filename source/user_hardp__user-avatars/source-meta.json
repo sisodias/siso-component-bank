@@ -1,0 +1,26 @@
+{
+  "id": "user_hardp__user-avatars",
+  "author": "user_hardp",
+  "slug": "user-avatars",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@user_hardp/components/user-avatars",
+  "fetchedAt": "2026-08-29T07:52:54.866Z",
+  "completedAt": "2026-08-29T07:52:56.841Z",
+  "versionedFilename": "code.1756881760128.tsx",
+  "codeReference": "r2://components-code-private/larsen66/user-avatars/code.1756881760128.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/user-avatars/code.1756881760128.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5387,
+  "sha256": "308bd910283d508bc9db95dd2fca560c1655d33fcbe9a705823968b5a4e21ab4",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "quadrant-matrix-chart",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Visualizing project prioritization using effort vs impact matrices",
+    "Displaying strategic decision-making frameworks like BCG portfolio analysis",
+    "Plotting product feature prioritization on a 2x2 grid",
+    "Analyzing resource allocation across competing initiatives",
+    "Mapping business decisions by urgency and importance quadrants"
+  ],
+  "ai_summary": "A quadrant chart component that visualizes items on a 2D grid with four distinct quadrants, using x/y positioning for Effort vs Priority axes. Features hover interactions with tooltips for detailed item information, responsive sizing via ResizeObserver, and SVG-based rendering with clean minimalist styling. Ideal for strategic planning visualizations like Eisenhower matrices, portfolio analysis, and project prioritization workflows in SaaS, fintech, and project management contexts.",
+  "_classifiedAt": "2026-04-23T11:33:41.911Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

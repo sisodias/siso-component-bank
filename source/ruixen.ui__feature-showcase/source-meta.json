@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__feature-showcase",
+  "author": "ruixen.ui",
+  "slug": "feature-showcase",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/feature-showcase",
+  "fetchedAt": "2026-08-29T06:42:09.456Z",
+  "completedAt": "2026-08-29T06:42:11.703Z",
+  "versionedFilename": "code.1761152136404.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/feature-showcase/code.1761152136404.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/feature-showcase/code.1761152136404.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6146,
+  "sha256": "13972ae6e6bfcdd58fa77fb1aadb2d9c31c1dd7529c7a90c9113b6fc802d7363",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

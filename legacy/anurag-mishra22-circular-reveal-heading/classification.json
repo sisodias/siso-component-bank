@@ -1,0 +1,30 @@
+{
+  "category": "hero",
+  "subcategory": "circular-reveal-heading",
+  "visual_style": [],
+  "interactions": [
+    "morph",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero section headline with animated circular image transitions for visual impact",
+    "Featured work or portfolio showcase with interactive circular reveal transitions",
+    "Product spotlight sections with animated item reveals around central content",
+    "Landing page attention-grabbing animated heading component",
+    "Media or publication featured story selector with smooth morphing animations"
+  ],
+  "ai_summary": "A circular reveal heading component featuring animated image and text transitions arranged in a circular pattern around a central focal point. Built with Framer Motion for smooth morphing animations and image preloading for optimal performance. Supports multiple size variants and can serve as an interactive hero element or featured content showcase.",
+  "_classifiedAt": "2026-04-23T11:30:30.042Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

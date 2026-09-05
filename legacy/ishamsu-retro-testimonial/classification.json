@@ -1,0 +1,32 @@
+{
+  "category": "data-display",
+  "subcategory": "testimonial-carousel",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "creator-tools",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying customer testimonials in a horizontally scrollable carousel",
+    "Showcasing social proof with retro-styled testimonial cards on landing pages",
+    "Enabling user review browsing with arrow navigation",
+    "Revealing full testimonial details in expanded card views",
+    "Building trust through visual testimonials for products or services"
+  ],
+  "ai_summary": "A retro-styled testimonial carousel component featuring smooth horizontal scroll navigation with arrow controls, expandable testimonial cards with detailed review content, and hover interaction effects. The component uses Framer Motion for animations and supports outside-click detection for modal-style card closure. Designed for displaying customer testimonials and social proof across landing pages, featuring a distinctive retro aesthetic with modern interactions.",
+  "_classifiedAt": "2026-04-23T16:45:04.839Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

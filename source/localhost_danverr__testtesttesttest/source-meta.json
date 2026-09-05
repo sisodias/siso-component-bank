@@ -1,0 +1,26 @@
+{
+  "id": "localhost_danverr__testtesttesttest",
+  "author": "localhost_danverr",
+  "slug": "testtesttesttest",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@localhost_danverr/components/testtesttesttest",
+  "fetchedAt": "2026-08-29T05:30:47.397Z",
+  "completedAt": "2026-08-29T05:30:49.117Z",
+  "versionedFilename": "code.1750228099428.tsx",
+  "codeReference": "r2://components-code-private/localhost_danverr/testtesttesttest/code.1750228099428.tsx",
+  "codeUrl": "https://cdn.21st.dev/localhost_danverr/testtesttesttest/code.1750228099428.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 620,
+  "sha256": "4d6dae71ce7e3899188490038f0640833d21b2d9ea98e6996818cde6aa25fd98",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

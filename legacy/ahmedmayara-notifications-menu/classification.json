@@ -1,0 +1,37 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "user-avatar",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Displaying user profile pictures in navigation headers or user menus",
+    "Showing user avatars in comment sections or social feeds",
+    "Representing users or entities in lists and cards",
+    "Providing fallback initials when user images fail to load",
+    "Displaying team member or contact avatars in address books"
+  ],
+  "ai_summary": "A Radix UI-based avatar component with support for images and fallback initials. Built on Radix primitives for accessibility, this atomic component provides a rounded container for displaying user profile pictures with graceful degradation to initials when images fail to load. Used in navigation, user menus, comments, and any interface requiring user or entity representation.",
+  "_classifiedAt": "2026-04-23T01:35:29.631Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

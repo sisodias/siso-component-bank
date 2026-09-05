@@ -1,0 +1,38 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "collapsible-data-table",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Displaying structured datasets with expandable/collapsible row sections for better organization",
+    "Showing hierarchical data where users can toggle between summary and detailed views",
+    "Building admin dashboards with large datasets that need to be scannable",
+    "Creating comparison tables where users can minimize irrelevant sections",
+    "Developing data-heavy interfaces that require progressive disclosure patterns"
+  ],
+  "ai_summary": "A minimizable table component for displaying structured data with collapsible row sections. Allows users to toggle between collapsed (summary) and expanded (detailed) views, reducing visual clutter when working with large datasets. Built with standard shadcn/ui patterns using Tailwind CSS for styling.",
+  "_classifiedAt": "2026-04-23T01:50:26.951Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

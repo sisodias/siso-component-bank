@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "avatar-user-profile",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display user profile images with fallback initials in social or messaging applications",
+    "Show user status indicators (online, offline, busy, away) in team collaboration dashboards",
+    "Render user avatars in comment sections or discussion threads",
+    "Display profile pictures in user directories or member lists",
+    "Show avatar with status in notification panels or chat interfaces"
+  ],
+  "ai_summary": "A reusable avatar component system built with Radix UI primitives featuring image display with rounded corners, fallback content for loading or error states, status indicators (online/offline/busy/away) with color variants, and absolute-positioned indicators. The component uses Tailwind CSS for styling and class-variance-authority for variant management. Designed as a minimal, flat-styled component suitable for dashboards, social platforms, and messaging interfaces across SaaS, e-commerce, and general applications.",
+  "_classifiedAt": "2026-04-23T17:22:58.877Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "componentry__circuit-board",
+  "author": "componentry",
+  "slug": "circuit-board",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@componentry/components/circuit-board",
+  "fetchedAt": "2026-08-29T04:00:56.353Z",
+  "completedAt": "2026-08-29T04:00:58.535Z",
+  "versionedFilename": "code.1784452144794-c0f9ad8b-0450-46b1-a86f-7c3e48963ca9.tsx",
+  "codeReference": "r2://components-code-private/componentry/circuit-board/code.1784452144794-c0f9ad8b-0450-46b1-a86f-7c3e48963ca9.tsx",
+  "codeUrl": "https://cdn.21st.dev/componentry/circuit-board/code.1784452144794-c0f9ad8b-0450-46b1-a86f-7c3e48963ca9.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

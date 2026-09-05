@@ -1,0 +1,26 @@
+{
+  "id": "16inam06__chromatic-lens",
+  "author": "16inam06",
+  "slug": "chromatic-lens",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@16inam06/components/chromatic-lens",
+  "fetchedAt": "2026-08-29T03:24:56.233Z",
+  "completedAt": "2026-08-29T03:24:59.776Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null
+}

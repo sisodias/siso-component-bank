@@ -1,0 +1,32 @@
+{
+  "category": [
+    "pricing"
+  ],
+  "subcategory": "pricing-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying tiered subscription pricing for SaaS products",
+    "Allowing users to toggle between monthly and yearly billing cycles",
+    "Comparing features across different subscription plans",
+    "Converting website visitors to paid subscribers with clear pricing",
+    "Showcasing cloud storage or subscription-based service tiers"
+  ],
+  "ai_summary": "A React pricing card component featuring interactive plan selection with animated transitions between monthly and yearly billing cycles. Built with motion/react and NumberFlow for smooth price animations, it displays three subscription tiers (Plus, Standard, Advanced) with features like storage space and security options. The component uses a minimalist design with heavily rounded corners and subtle shadows, making it ideal for SaaS products, cloud services, and subscription-based platforms requiring clear tiered pricing displays.",
+  "_classifiedAt": "2026-04-22T08:50:48.963Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

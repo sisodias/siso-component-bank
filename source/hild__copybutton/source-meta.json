@@ -1,0 +1,26 @@
+{
+  "id": "hild__copybutton",
+  "author": "hild",
+  "slug": "copybutton",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@hild/components/copybutton",
+  "fetchedAt": "2026-08-29T04:58:32.282Z",
+  "completedAt": "2026-08-29T04:58:34.267Z",
+  "versionedFilename": "code.1782835882326.tsx",
+  "codeReference": "r2://components-code-private/hild/copybutton/code.1782835882326.tsx",
+  "codeUrl": "https://cdn.21st.dev/hild/copybutton/code.1782835882326.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1799,
+  "sha256": "794b351dd1500ac53a86f1477b6923985627fd8ccc66639c5db3409fe2fdd487",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

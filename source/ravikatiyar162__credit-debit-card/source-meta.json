@@ -1,0 +1,26 @@
+{
+  "id": "ravikatiyar162__credit-debit-card",
+  "author": "ravikatiyar162",
+  "slug": "credit-debit-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ravikatiyar162/components/credit-debit-card",
+  "fetchedAt": "2026-08-29T06:22:25.005Z",
+  "completedAt": "2026-08-29T06:22:26.946Z",
+  "versionedFilename": "code.1755175782625.tsx",
+  "codeReference": "r2://components-code-private/ravikatiyar162/credit-debit-card/code.1755175782625.tsx",
+  "codeUrl": "https://cdn.21st.dev/ravikatiyar162/credit-debit-card/code.1755175782625.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 6267,
+  "sha256": "0328c26f8853dabf225aae387be504dc133ec9277f59a80d3401e1db4b817610",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

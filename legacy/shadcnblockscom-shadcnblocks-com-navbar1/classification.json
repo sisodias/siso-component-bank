@@ -1,0 +1,29 @@
+{
+  "category": "navigation",
+  "subcategory": "collapsible-panel",
+  "visual_style": [],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "FAQ sections where users expand questions to reveal answers",
+    "Settings panels with collapsible configuration groups",
+    "Documentation sidebars with expandable navigation sections",
+    "Product detail pages with expandable specifications and features",
+    "Admin dashboards with collapsible filter or category panels"
+  ],
+  "ai_summary": "A lightweight accordion component built with Radix UI primitives featuring smooth expand/collapse animations and a rotating chevron indicator. The component supports keyboard navigation through native Radix behavior and uses Tailwind CSS for clean, minimal styling with proper accessibility semantics.",
+  "_classifiedAt": "2026-04-23T17:28:38.169Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

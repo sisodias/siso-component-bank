@@ -1,0 +1,35 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "icon-dock-bar",
+  "visual_style": [
+    "glass-morphism",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "A macOS-style navigation dock for quick access to app features or pages with magnification hover effects",
+    "Primary navigation bar for dashboard interfaces with icon-based interaction patterns",
+    "Floating launcher bar with spring physics animations for modern SaaS applications",
+    "Icon dock with responsive sizing and dark/light mode support for cross-platform apps"
+  ],
+  "ai_summary": "A macOS-style dock navigation component featuring interactive icon magnification that responds to cursor proximity with smooth zoom transitions. Built with Framer Motion for spring physics animations and React Context for state management. Supports dark/light themes with glass-morphism styling, semi-transparent backgrounds, and subtle shadows for a modern floating appearance.",
+  "_classifiedAt": "2026-04-23T16:28:23.187Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

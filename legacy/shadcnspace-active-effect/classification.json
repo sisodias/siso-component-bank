@@ -1,0 +1,38 @@
+{
+  "category": "input",
+  "subcategory": "toggle-switch",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "User preference settings like 'Remember me' for login forms",
+    "Feature toggles in settings panels and dashboards",
+    "Boolean form inputs for consent or opt-in choices",
+    "Enabling/disabling application features",
+    "Agreement or terms acceptance toggles"
+  ],
+  "ai_summary": "A minimalist toggle switch component featuring a clickable container that toggles state with conditional border styling for visual feedback when checked. Includes proper accessibility with labeled form elements, descriptive text, and manages state through React hooks for immediate UI updates.",
+  "_classifiedAt": "2026-04-22T09:14:33.772Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:36:21.150Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

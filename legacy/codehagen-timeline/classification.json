@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Triggering actions or events when clicked",
+    "Submitting forms in web applications",
+    "Navigating between pages or views",
+    "Toggling states or modes in UI controls",
+    "Providing accessible interactive elements with keyboard support"
+  ],
+  "ai_summary": "A versatile Radix UI-inspired button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, small, large, icon). Built with class-variance-authority for type-safe prop-based styling, supports asChild pattern via Radix Slot for composition, and includes full accessibility support with focus-visible rings and disabled states.",
+  "_classifiedAt": "2026-04-23T16:28:00.263Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

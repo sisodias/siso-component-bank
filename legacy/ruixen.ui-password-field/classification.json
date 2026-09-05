@@ -1,0 +1,40 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Trigger form submissions in authentication flows",
+    "Execute primary actions like save, submit, or confirm",
+    "Navigate users between pages or sections",
+    "Toggle states in interactive UIs",
+    "Provide accessible action triggers with keyboard support"
+  ],
+  "ai_summary": "A reusable button component built with Radix UI Slot and class-variance-authority, providing multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, small, large, icon). Features standard focus-visible ring states, hover effects, and disabled states for accessibility. Clean flat styling with Tailwind CSS, making it a foundational atomic component for any React application requiring action triggers.",
+  "_classifiedAt": "2026-04-23T01:50:47.534Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

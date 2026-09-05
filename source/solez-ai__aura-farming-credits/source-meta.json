@@ -1,0 +1,26 @@
+{
+  "id": "solez-ai__aura-farming-credits",
+  "author": "solez-ai",
+  "slug": "aura-farming-credits",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@solez-ai/components/aura-farming-credits",
+  "fetchedAt": "2026-08-29T07:23:07.262Z",
+  "completedAt": "2026-08-29T07:23:09.772Z",
+  "versionedFilename": "code.1774434873911.tsx",
+  "codeReference": "r2://components-code-private/solez-ai/aura-farming-credits/code.1774434873911.tsx",
+  "codeUrl": "https://cdn.21st.dev/solez-ai/aura-farming-credits/code.1774434873911.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 22535,
+  "sha256": "5d8c4cfcbb7de662c40c3ed86d537522e20a22a0aaf909d53bb9f12ea808d9bd",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

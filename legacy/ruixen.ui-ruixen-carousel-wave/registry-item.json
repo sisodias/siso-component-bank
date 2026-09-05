@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ruixen.ui-ruixen-carousel-wave",
+  "type": "registry:ui",
+  "title": "Ruixen.Ui Ruixen Carousel Wave",
+  "description": "Installed from https://21st.dev/r/ruixen.ui/ruixen-carousel-wave",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "ruixen.ui-ruixen-carousel-wave"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "ruixen-carousel-wave.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "gsap",
+    "lucide-react",
+    "next"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/ruixen.ui/ruixen-carousel-wave",
+    "fetchedAt": "2026-04-23T03:02:57.374Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

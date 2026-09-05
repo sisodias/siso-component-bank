@@ -1,0 +1,31 @@
+{
+  "category": [
+    "feedback",
+    "input"
+  ],
+  "subcategory": "simple counter with increment/decrement buttons",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Basic numeric counter for any application requiring increment/decrement functionality",
+    "State management demonstration using React useState hook",
+    "Simple UI component for showing count changes with button interactions",
+    "Demo component for teaching React fundamentals",
+    "Lightweight counter widget for dashboards or settings pages"
+  ],
+  "ai_summary": "A minimal React counter component with increment and decrement buttons using the useState hook. Displays a count value in a centered layout with basic Tailwind styling. The component serves as a fundamental example of React state management and user interaction handling, suitable for learning purposes or as a building block for more complex numeric input interfaces.",
+  "_classifiedAt": "2026-04-22T08:52:49.016Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

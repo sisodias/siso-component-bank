@@ -1,0 +1,33 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "Generative geometry, Mondrian-style procedural art",
+  "visual_style": [
+    "flat",
+    "minimalist",
+    "colorful"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Creating unique Mondrian-style geometric compositions as decorative backgrounds",
+    "Generating one-of-a-kind artwork for portfolios and creative projects",
+    "Producing flat geometric patterns for web design elements",
+    "Implementing procedural art installations with primary color palettes"
+  ],
+  "ai_summary": "A p5.js-based generative art component that creates Mondrian-inspired geometric compositions using a grid-based subdivision algorithm. The sketch randomly divides a canvas into squares along grid lines, then applies classic primary colors (red, blue, yellow) with white backgrounds to create unique abstract artworks. Runs once on mount and displays flat, minimalist geometric patterns ideal for artistic backgrounds or decorative elements.",
+  "_classifiedAt": "2026-04-22T09:19:20.909Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

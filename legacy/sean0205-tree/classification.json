@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "hierarchical-tree-view",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display hierarchical file or folder structures in file explorers",
+    "Show nested category or taxonomy trees in e-commerce product browsers",
+    "Render organizational charts or team hierarchies",
+    "Build expandable navigation menus with nested items",
+    "Display structured data like outlines or nested lists"
+  ],
+  "ai_summary": "A hierarchical tree view component for displaying nested data structures with expand/collapse functionality. Supports chevron or plus-minus toggle icons and configurable indentation. Built on headless-tree core with Radix UI primitives for accessibility.",
+  "_classifiedAt": "2026-04-23T17:25:08.932Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "campsite__system-theme",
+  "author": "campsite",
+  "slug": "system-theme",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@campsite/components/system-theme",
+  "fetchedAt": "2026-08-29T03:53:02.969Z",
+  "completedAt": "2026-08-29T03:53:03.934Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/campsite__system-theme/code.tsx",
+    "bytes": 12323,
+    "sha256": "4144c06e3292e981bf1895c6faca0cc9f5f9eaf5245bbd5a2be7b4fe07cdae6f",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "spotlight-button",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons with interactive hover feedback",
+    "Interactive form submission triggers",
+    "Navigation action triggers",
+    "Dark-themed interface buttons with spotlight effect",
+    "Engaging CTA buttons with magnetic cursor-following glow"
+  ],
+  "ai_summary": "A gradient button component featuring a dynamic spotlight effect that follows the mouse cursor on hover, creating a magnetic glow interaction. Supports both dark and light themes with smooth transitions and focus states for accessibility. The button has a polished, modern aesthetic suitable for SaaS and dev-tool interfaces.",
+  "_classifiedAt": "2026-04-23T17:36:33.875Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

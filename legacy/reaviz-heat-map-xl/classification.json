@@ -1,0 +1,27 @@
+{
+  "category": "data-display",
+  "subcategory": "activity-heatmap-grid",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "fintech",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Visualizing activity intensity patterns across time periods like hours, days, or weeks",
+    "Displaying contribution or engagement metrics with color-coded intensity levels",
+    "Comparing metric trends with inline trend indicators and percentage changes",
+    "Creating dashboard-ready data visualizations with animated count-up statistics",
+    "Building calendar-style activity grids commonly seen in analytics and productivity tools"
+  ],
+  "ai_summary": "A Reaviz-powered heatmap visualization component that displays data intensity patterns across a grid with supporting metrics. Features animated count-up statistics, color-coded trend indicators, and gradient-based color schemes from the Reaviz library. Designed for dashboards showing activity patterns, contribution histories, or engagement metrics across time dimensions.",
+  "_classifiedAt": "2026-04-23T17:14:40.757Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

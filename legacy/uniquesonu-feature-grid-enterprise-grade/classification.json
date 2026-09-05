@@ -1,0 +1,25 @@
+{
+  "category": "card",
+  "subcategory": "feature-card-system",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "system",
+  "use_cases": [
+    "Displaying feature highlights in a structured card layout for product pages",
+    "Organizing pricing or plan information with consistent card components",
+    "Creating reusable card-based content sections across enterprise applications"
+  ],
+  "ai_summary": "A shadcn/ui-style Card component system providing reusable Card, CardHeader, CardTitle, CardDescription, CardContent, and CardFooter primitives. This atomic component system serves as the foundation for building feature grids and content displays in enterprise-grade applications. Used as the building block for feature-grid-enterprise-grade layout components.",
+  "_classifiedAt": "2026-04-22T09:18:39.842Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

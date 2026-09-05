@@ -1,0 +1,18 @@
+{
+  "url": "https://21st.dev/@extend/components/command",
+  "author": "extend",
+  "slug": "command",
+  "name": "command",
+  "description": "A command menu (cmdk) with search input, grouped items and empty state — ideal for file-type filters and quick pickers.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/extend/command?api_key=$API_KEY_21ST\"",
+  "id": "extend__command",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/command/default/bundle.1782171910041.html",
+  "previewUrl": null,
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "preview": "preview.png",
+  "previewVia": "ogCard"
+}

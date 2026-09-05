@@ -1,0 +1,34 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "text-pagination",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Navigate through paginated article or content pages",
+    "Browse through search results or filtered lists",
+    "Navigate product catalogs or inventory listings",
+    "Switch between documentation or help pages",
+    "Move through course lesson or tutorial sequences"
+  ],
+  "ai_summary": "A reusable button component with multiple variants and sizes that serves as the building block for text-based pagination interfaces. Built with Radix UI Slot for composition flexibility, CVA for variant management, and full accessibility support including keyboard navigation and focus states. Designed with a minimalist flat aesthetic using subtle shadows and standard Tailwind styling for seamless integration into any web application.",
+  "_classifiedAt": "2026-04-23T17:04:56.076Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

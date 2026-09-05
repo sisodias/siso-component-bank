@@ -1,0 +1,28 @@
+{
+  "category": "data-display",
+  "subcategory": "badge",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Display status labels like 'new', 'featured', or 'sale' on product cards",
+    "Show category or tag information in content management systems",
+    "Indicate notification counts or alert badges in dashboards",
+    "Highlight feature labels in SaaS product marketing pages",
+    "Display user roles or permissions in admin interfaces"
+  ],
+  "ai_summary": "A versatile badge component with four style variants (default, secondary, destructive, outline) built with Tailwind CSS and class-variance-authority. Features hover color transitions and focus ring accessibility. Commonly used to display status labels, tags, categories, and notification indicators across SaaS products, e-commerce platforms, and admin dashboards.",
+  "_classifiedAt": "2026-04-23T17:18:33.660Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

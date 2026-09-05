@@ -1,0 +1,34 @@
+{
+  "category": "data-display",
+  "subcategory": "install-snippet-package-manager",
+  "visual_style": [
+    "glass-morphism",
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Copy npm, pnpm, or bun install commands with one click for quick package setup",
+    "Display installation instructions in documentation or landing pages",
+    "Support dark mode in developer-focused dashboards and package pages",
+    "Provide tabbed interface for switching between package managers"
+  ],
+  "ai_summary": "A glassmorphism-styled install snippet component with tabbed interface for npm, pnpm, and bun package managers. Features clipboard copy with fallback support, dark/light mode styling, and visual feedback on copy action. Designed for dev-tools documentation, package landing pages, and SaaS product pages requiring installation instructions.",
+  "_classifiedAt": "2026-04-23T01:52:21.306Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:36:20.766Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

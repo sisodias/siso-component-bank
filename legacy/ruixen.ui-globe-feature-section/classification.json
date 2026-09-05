@@ -1,0 +1,40 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Form submission triggers in SaaS applications and dashboards",
+    "Call-to-action buttons in landing pages and marketing sites",
+    "Navigation actions in e-commerce checkout flows",
+    "Interactive controls in admin panels and settings interfaces",
+    "Primary action triggers in modal dialogs and overlays"
+  ],
+  "ai_summary": "A versatile, accessible button component with multiple style variants (default, destructive, outline, secondary, ghost, link) and size options. Built with Radix UI Slot for composition, CVA for variant handling, and standard Tailwind shadow utilities. Supports disabled states, focus outlines, and asChild prop for polymorphic rendering. Ships as a reusable atomic component suitable for any React application requiring form submission or navigation triggers.",
+  "_classifiedAt": "2026-04-23T17:18:30.822Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "action-button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action button for forms and interactive UI elements",
+    "Brand-consistent action triggers with loading state support for async operations",
+    "Icon-enhanced buttons for clear visual context and user guidance",
+    "Multi-variant button system supporting brand, neutral, and destructive actions",
+    "Responsive button component with hover, focus, and disabled states"
+  ],
+  "ai_summary": "A versatile atomic button component featuring multiple variants (brand, neutral, destructive) and sizes (small, medium, large). Supports optional left/right icons and loading states. Built with Tailwind CSS, offering clean flat styling with proper hover, active, focus, and disabled states for accessibility. Suitable for SaaS applications requiring consistent, accessible action triggers across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T01:54:08.498Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

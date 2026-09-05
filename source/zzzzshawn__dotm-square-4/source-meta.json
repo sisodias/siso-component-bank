@@ -1,0 +1,26 @@
+{
+  "id": "zzzzshawn__dotm-square-4",
+  "author": "zzzzshawn",
+  "slug": "dotm-square-4",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@zzzzshawn/components/dotm-square-4",
+  "fetchedAt": "2026-08-29T08:03:48.024Z",
+  "completedAt": "2026-08-29T08:03:50.228Z",
+  "versionedFilename": "code.1784429332051-7d63135f-adbd-4619-94b0-837da310765c.tsx",
+  "codeReference": "r2://components-code-private/zzzzshawn/dotm-square-4/code.1784429332051-7d63135f-adbd-4619-94b0-837da310765c.tsx",
+  "codeUrl": "https://cdn.21st.dev/zzzzshawn/dotm-square-4/code.1784429332051-7d63135f-adbd-4619-94b0-837da310765c.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

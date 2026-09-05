@@ -1,0 +1,33 @@
+{
+  "category": [
+    "overlay",
+    "input"
+  ],
+  "subcategory": "custom-cursor scroll-direction-indicator",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Custom cursor replacement for interactive web experiences",
+    "Scroll direction indicator for tutorials or presentations",
+    "Visual feedback component for user guidance interfaces",
+    "Creative UI element for portfolio or demo pages",
+    "Enhancement for single-page applications with scroll-heavy content"
+  ],
+  "ai_summary": "A custom cursor overlay component featuring an animated arrow indicator that follows mouse movement and rotates to display scroll direction. Built with React hooks and Framer Motion for smooth entrance/exit animations. The indicator shows an upward or downward arrow based on the user's scrolling direction, making it useful for tutorial overlays or interactive presentations where scroll direction feedback is needed.",
+  "_classifiedAt": "2026-04-23T17:36:28.144Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

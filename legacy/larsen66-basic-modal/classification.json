@@ -1,0 +1,28 @@
+{
+  "category": "overlay",
+  "subcategory": "modal-dialog",
+  "visual_style": [],
+  "interactions": [
+    "keyboard-nav",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying focused content that overlays the page without navigation",
+    "Confirmation dialogs for user actions like deletions or signouts",
+    "Form submissions within a contained modal interface",
+    "Revealing additional details or settings on demand",
+    "Temporary context switching for focused user tasks"
+  ],
+  "ai_summary": "A lightweight, reusable modal component with backdrop blur effect and smooth motion animations for opening and closing. Supports keyboard navigation (ESC to close), click-outside-to-close, and multiple size variants. Built with motion/react for fluid transitions and usehooks-ts for outside click detection.",
+  "_classifiedAt": "2026-04-22T09:03:07.674Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button, action-trigger, cta",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Trigger form submissions with primary action buttons",
+    "Navigate between pages or sections with link-style buttons",
+    "Provide destructive actions like delete or remove with variant styling",
+    "Create accessible button interfaces with keyboard navigation support",
+    "Build consistent UI systems with reusable button variants"
+  ],
+  "ai_summary": "A versatile React Button component built with Radix UI Slot and class-variance-authority for polymorphic rendering and variant management. Features multiple variants (default, destructive, outline, secondary, ghost, link) and sizes with proper accessibility support including focus-visible ring states and disabled handling. Uses Tailwind CSS for styling with ring-offset-background theming support.",
+  "_classifiedAt": "2026-04-23T16:42:02.116Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

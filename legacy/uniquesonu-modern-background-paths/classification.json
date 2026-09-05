@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Triggering primary actions in forms and interfaces",
+    "Navigation controls with multiple visual variants",
+    "Call-to-action buttons in marketing pages",
+    "Toolbar and action bar controls in applications",
+    "Icon-only buttons for compact UI spaces"
+  ],
+  "ai_summary": "A reusable button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes built using class-variance-authority for type-safe variant management. Features Radix UI Slot for composition, disabled states, focus ring accessibility, and subtle shadow styling. Supports asChild prop for rendering as other elements.",
+  "_classifiedAt": "2026-04-23T17:40:01.004Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,34 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "webgl-shader-effect",
+  "visual_style": [
+    "glass-morphism",
+    "gradient",
+    "colorful"
+  ],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive full-viewport backgrounds for hero sections on landing pages",
+    "Visual effect overlays for gaming or creative tool interfaces",
+    "Animated backgrounds for portfolio or creative agency websites",
+    "Ambient visual effects for video streaming or media platforms",
+    "Dynamic hero backgrounds for SaaS product marketing pages"
+  ],
+  "ai_summary": "A WebGL-powered interactive shader component that renders animated Voronoi crystal patterns. The shader responds to mouse movement, creating a fluid, organic visual effect with glass-like qualities. Configurable via props for cell density, animation speed, warp factor, and mouse influence. Designed as a full-viewport background or hero section effect with crisp rendering across device pixel ratios.",
+  "_classifiedAt": "2026-04-23T01:38:43.654Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

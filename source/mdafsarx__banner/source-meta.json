@@ -1,0 +1,26 @@
+{
+  "id": "mdafsarx__banner",
+  "author": "mdafsarx",
+  "slug": "banner",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@mdafsarx/components/banner",
+  "fetchedAt": "2026-08-29T05:39:29.152Z",
+  "completedAt": "2026-08-29T05:39:31.437Z",
+  "versionedFilename": "code.1760488872753.tsx",
+  "codeReference": "r2://components-code-private/mdafsarx/banner/code.1760488872753.tsx",
+  "codeUrl": "https://cdn.21st.dev/mdafsarx/banner/code.1760488872753.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5558,
+  "sha256": "14fef68cb8a302147477353c2e400df6f278dfbc2d2db8abc6c653344cfb67b3",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

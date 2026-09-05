@@ -1,0 +1,37 @@
+{
+  "category": "layout",
+  "subcategory": "avatar-group-with-animations",
+  "visual_style": [
+    "minimalist",
+    "mono",
+    "dark"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying team members or collaborators in a grid layout",
+    "Showing user groups and participant lists in social applications",
+    "Representing commenters or contributors in discussion threads",
+    "Building user attribution and credit sections for content platforms",
+    "Creating contact lists and member directories with animated hover effects"
+  ],
+  "ai_summary": "An animated avatar group component featuring staggered entrance animations, hover scale effects with spring physics, and a dark/light mode toggle. The component renders multiple user profile images with overlapping circular styling and a subtle grid background pattern, making it ideal for displaying team members, collaborators, or user groups in SaaS and content platforms.",
+  "_classifiedAt": "2026-04-22T08:52:58.112Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:37:46.104Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

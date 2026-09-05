@@ -1,0 +1,24 @@
+{
+  "category": "input",
+  "subcategory": "form-label",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Labeling form input fields for better UX and accessibility",
+    "Associating descriptive text with form controls",
+    "Displaying accessible text labels in any UI context"
+  ],
+  "ai_summary": "A lightweight React label component that wraps the native HTML label element with basic styling. Provides text labels for form inputs with accessibility support through peer-disabled states. Part of the Origin UI component library, designed for consistent form labeling across applications.",
+  "_classifiedAt": "2026-04-23T17:04:22.686Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

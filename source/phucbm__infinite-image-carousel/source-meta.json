@@ -1,0 +1,26 @@
+{
+  "id": "phucbm__infinite-image-carousel",
+  "author": "phucbm",
+  "slug": "infinite-image-carousel",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@phucbm/components/infinite-image-carousel",
+  "fetchedAt": "2026-08-29T06:08:44.279Z",
+  "completedAt": "2026-08-29T06:08:46.107Z",
+  "versionedFilename": "code.1762498396233.tsx",
+  "codeReference": "r2://components-code-private/phucbm/infinite-image-carousel/code.1762498396233.tsx",
+  "codeUrl": "https://cdn.21st.dev/phucbm/infinite-image-carousel/code.1762498396233.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 15642,
+  "sha256": "1708f4524c43059da04633c95a2dfd4a2f5ad80528e3338bc7ee589536c01fdb",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

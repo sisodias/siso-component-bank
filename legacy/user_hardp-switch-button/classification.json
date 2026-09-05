@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "toggle-switch",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Toggle boolean settings in configuration panels and preferences",
+    "Switch between two states such as dark/light mode with animated icon transitions",
+    "Enable or disable features, notifications, or app settings",
+    "Control visibility of UI elements with smooth spring animations",
+    "Use custom icons to represent on/off states in themed interfaces"
+  ],
+  "ai_summary": "A minimalist animated toggle switch component that accepts custom icons for on/off states. Features smooth spring animations for the sliding thumb and rotation-based icon transitions. Designed as a reusable atomic component suitable for settings panels, preference toggles, and feature controls across various SaaS and e-commerce applications.",
+  "_classifiedAt": "2026-04-23T01:54:53.197Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

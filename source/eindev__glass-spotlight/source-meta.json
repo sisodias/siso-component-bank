@@ -1,0 +1,26 @@
+{
+  "id": "eindev__glass-spotlight",
+  "author": "eindev",
+  "slug": "glass-spotlight",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@eindev/components/glass-spotlight",
+  "fetchedAt": "2026-08-29T04:42:57.795Z",
+  "completedAt": "2026-08-29T04:42:59.664Z",
+  "versionedFilename": "code.1784824080141-78e914a3-840b-429f-9ade-9610ba484553.tsx",
+  "codeReference": "r2://components-code-private/eindev/glass-spotlight/code.1784824080141-78e914a3-840b-429f-9ade-9610ba484553.tsx",
+  "codeUrl": "https://cdn.21st.dev/eindev/glass-spotlight/code.1784824080141-78e914a3-840b-429f-9ade-9610ba484553.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gvozdovic__hero-boutique",
+  "author": "gvozdovic",
+  "slug": "hero-boutique",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@gvozdovic/components/hero-boutique",
+  "fetchedAt": "2026-08-29T04:53:03.216Z",
+  "completedAt": "2026-08-29T04:53:05.762Z",
+  "versionedFilename": "code.1781626311058.tsx",
+  "codeReference": "r2://components-code-private/dzekuza/hero-boutique/code.1781626311058.tsx",
+  "codeUrl": "https://cdn.21st.dev/dzekuza/hero-boutique/code.1781626311058.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3978,
+  "sha256": "f32019e4f2dd2b095a7d7c95d02f1aa187fa8e33ecd7b07f65016c5bbebbbb55",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

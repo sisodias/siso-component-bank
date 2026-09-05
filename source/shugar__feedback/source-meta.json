@@ -1,0 +1,26 @@
+{
+  "id": "shugar__feedback",
+  "author": "shugar",
+  "slug": "feedback",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shugar/components/feedback",
+  "fetchedAt": "2026-08-29T07:19:25.607Z",
+  "completedAt": "2026-08-29T07:19:27.335Z",
+  "versionedFilename": "code.1752233276764.tsx",
+  "codeReference": "r2://components-code-private/shugar/feedback/code.1752233276764.tsx",
+  "codeUrl": "https://cdn.21st.dev/shugar/feedback/code.1752233276764.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 15660,
+  "sha256": "709a7e7a26781e8401ed50d2e4eab4fb0755577f777a1b9c61de044321138edd",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

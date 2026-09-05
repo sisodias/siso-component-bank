@@ -1,0 +1,26 @@
+{
+  "id": "trophyso__streak-calendar",
+  "author": "trophyso",
+  "slug": "streak-calendar",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@trophyso/components/streak-calendar",
+  "fetchedAt": "2026-08-29T07:40:50.349Z",
+  "completedAt": "2026-08-29T07:40:52.645Z",
+  "versionedFilename": "code.1779991510745.tsx",
+  "codeReference": "r2://components-code-private/larsen66/streak-calendar/code.1779991510745.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/streak-calendar/code.1779991510745.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 18053,
+  "sha256": "1e6d0649275d449a44ec0ca6b2ac0f4e632b7643a4931882fe7ee9dff7a2c2e1",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

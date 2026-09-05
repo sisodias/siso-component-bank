@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__notifications",
+  "author": "ruixen.ui",
+  "slug": "notifications",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/notifications",
+  "fetchedAt": "2026-08-29T06:45:49.386Z",
+  "completedAt": "2026-08-29T06:45:51.557Z",
+  "versionedFilename": "code.1757080765540.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/notifications/code.1757080765540.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/notifications/code.1757080765540.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3048,
+  "sha256": "221d16563da5be828ae053c3661044dd14602a9951c021c4a7bb7235a6d8ff3e",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

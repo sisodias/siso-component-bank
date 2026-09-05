@@ -1,0 +1,26 @@
+{
+  "id": "ravikatiyar162__payment-1",
+  "author": "ravikatiyar162",
+  "slug": "payment-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ravikatiyar162/components/payment-1",
+  "fetchedAt": "2026-08-29T06:27:58.278Z",
+  "completedAt": "2026-08-29T06:28:00.393Z",
+  "versionedFilename": "code.1757849133495.tsx",
+  "codeReference": "r2://components-code-private/ravikatiyar162/payment-1/code.1757849133495.tsx",
+  "codeUrl": "https://cdn.21st.dev/ravikatiyar162/payment-1/code.1757849133495.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4342,
+  "sha256": "5e6f4e9b9af27d065fa27269d1b7f63fa0f3aa1587b0b79b4a5cddf31cc4b50a",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

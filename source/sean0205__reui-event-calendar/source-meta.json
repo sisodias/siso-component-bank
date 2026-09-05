@@ -1,0 +1,26 @@
+{
+  "id": "sean0205__reui-event-calendar",
+  "author": "sean0205",
+  "slug": "reui-event-calendar",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sean0205/components/reui-event-calendar",
+  "fetchedAt": "2026-08-29T06:58:52.194Z",
+  "completedAt": "2026-08-29T06:58:54.536Z",
+  "versionedFilename": "code.1785328225614-cc5abe97-83f9-4132-a6df-9d115670b068.tsx",
+  "codeReference": "r2://components-code-private/larsen66/reui-event-calendar/code.1785328225614-cc5abe97-83f9-4132-a6df-9d115670b068.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/reui-event-calendar/code.1785328225614-cc5abe97-83f9-4132-a6df-9d115670b068.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

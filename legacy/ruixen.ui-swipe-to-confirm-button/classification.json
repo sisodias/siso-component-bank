@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "swipe-action-button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "drag"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "healthcare",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Swipe-to-confirm destructive actions like account deletion or data removal",
+    "Mobile-first approval workflows requiring gesture-based confirmation",
+    "Two-step confirmation for financial transactions in banking apps",
+    "Secure action verification in healthcare data management systems",
+    "E-commerce order confirmations with gesture-based commitment"
+  ],
+  "ai_summary": "A reusable button component with Radix UI Slot for composition, featuring CVA-based variants for different visual states. Designed as the interactive element within a swipe-to-confirm pattern, supporting multiple visual styles (default, destructive, outline, secondary, ghost, link) and sizes. Built for mobile-first gesture interactions requiring physical drag confirmation, commonly used for secure or destructive action verification in SaaS, fintech, and healthcare applications.",
+  "_classifiedAt": "2026-04-23T01:51:45.391Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

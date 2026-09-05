@@ -1,0 +1,29 @@
+{
+  "category": [
+    "other"
+  ],
+  "subcategory": "react-utility",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Composing multiple React refs into a single ref for component composition",
+    "Combining event handlers from parent and child components",
+    "Handling both callback refs and RefObject refs in a unified way",
+    "Utility layer for Radix UI primitive components"
+  ],
+  "ai_summary": "A set of React utility functions for composing refs and event handlers, derived from Radix UI primitives. Provides composeRefs, useComposedRefs, and composeEventHandlers utilities that enable flexible composition of React refs and event handlers across component hierarchies.",
+  "_classifiedAt": "2026-04-23T16:35:23.811Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

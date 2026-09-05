@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/chrono-select",
+  "author": "ruixen.ui",
+  "slug": "chrono-select",
+  "name": "chrono-select",
+  "description": "The ChronoSelect component is a modern, shadcn-inspired date selection tool that combines accessibility, flexibility, and a clean design. Unlike traditional date pickers, ChronoSelect includes a built-in year selector alongside the calendar view, allowing users to jump across decades without tedious navigation. Its interface uses shadcn primitives like Popover, Select, and Calendar to ensure consistency across your UI, while providing customization options such as adjustable year ranges and placeholder text. With pill-shaped interactions, smooth transitions, and responsive layout, ChronoSelect feels both elegant and practical—ideal for forms, dashboards, booking systems, or any application where quick and intuitive date selection is essential.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/chrono-select?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__chrono-select",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/chrono-select/default/bundle.1758924114446.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/chrono-select/default/preview.1758924114445.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 14,
+  "demo_id": 8199,
+  "video_url": null
+}

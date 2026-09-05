@@ -1,0 +1,26 @@
+{
+  "id": "patrick.thomas.dunn1988__drift-master",
+  "author": "patrick.thomas.dunn1988",
+  "slug": "drift-master",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@patrick.thomas.dunn1988/components/drift-master",
+  "fetchedAt": "2026-08-29T06:07:45.660Z",
+  "completedAt": "2026-08-29T06:07:47.874Z",
+  "versionedFilename": "code.1769800257636.tsx",
+  "codeReference": "r2://components-code-private/patrick.thomas.dunn1988/drift-master/code.1769800257636.tsx",
+  "codeUrl": "https://cdn.21st.dev/patrick.thomas.dunn1988/drift-master/code.1769800257636.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 20150,
+  "sha256": "6012f572a53a8b69e981f41f5f52b049becec31500429434e9e22c4a95dfc466",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

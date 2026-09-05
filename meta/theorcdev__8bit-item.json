@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@theorcdev/components/8bit-item",
+  "author": "theorcdev",
+  "slug": "8bit-item",
+  "name": "8bit-item",
+  "description": "An 8-bit styled item row for lists and inventories. Composes ItemGroup, Item, ItemContent, ItemTitle, ItemDescription, ItemActions and a pixelated ItemSeparator, with default, outline and muted variants in the retro pixel theme.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/theorcdev/8bit-item?api_key=$API_KEY_21ST\"",
+  "id": "theorcdev__8bit-item",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/8bit-item/default/bundle.1780525249347.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/8bit-item/default/preview.1780525249347.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

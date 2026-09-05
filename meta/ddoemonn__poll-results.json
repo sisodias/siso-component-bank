@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ddoemonn/components/poll-results",
+  "author": "ddoemonn",
+  "slug": "poll-results",
+  "name": "poll-results",
+  "description": "An interactive poll where clicking an option reveals animated result bars, vote percentages, and the winning choice.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ddoemonn/poll-results?api_key=$API_KEY_21ST\"",
+  "id": "ddoemonn__poll-results",
+  "bundleUrl": "https://cdn.21st.dev/ddoemonn/poll-results/default/bundle.1785473794348-73d90cd2-dc65-4fb3-866b-69d93a291cbd.html",
+  "previewUrl": "https://cdn.21st.dev/ddoemonn/poll-results/default/preview.1785473794348-73d90cd2-dc65-4fb3-866b-69d93a291cbd.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

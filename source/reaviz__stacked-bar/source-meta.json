@@ -1,0 +1,26 @@
+{
+  "id": "reaviz__stacked-bar",
+  "author": "reaviz",
+  "slug": "stacked-bar",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@reaviz/components/stacked-bar",
+  "fetchedAt": "2026-08-29T06:33:08.282Z",
+  "completedAt": "2026-08-29T06:33:11.064Z",
+  "versionedFilename": "code.1748119575900.tsx",
+  "codeReference": "r2://components-code-private/larsen66/stacked-bar/code.1748119575900.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/stacked-bar/code.1748119575900.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4436,
+  "sha256": "66a4a67726f103055583a4fab0c329359c0af94bc2c8b16b81cdf0f4e0263ac7",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

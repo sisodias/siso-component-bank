@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@platejs/components/math-base-kit",
+  "author": "platejs",
+  "slug": "math-base-kit",
+  "name": "math-base-kit",
+  "description": "Plate editor plugin kit that adds static, read-only rendering of block and inline LaTeX equations for server-side and RSC content.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/platejs/math-base-kit?api_key=$API_KEY_21ST\"",
+  "id": "platejs__math-base-kit",
+  "bundleUrl": "https://cdn.21st.dev/platejs/math-base-kit/default/bundle.1786694146611-a87ead9f-4146-4fa4-b166-ed3ce2dde94d.html",
+  "previewUrl": "https://cdn.21st.dev/platejs/math-base-kit/default/preview.1786694146611-a87ead9f-4146-4fa4-b166-ed3ce2dde94d.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

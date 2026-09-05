@@ -1,0 +1,35 @@
+{
+  "category": [
+    "navigation"
+  ],
+  "subcategory": "stepper-progress-indicator",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Guiding users through multi-step onboarding or setup wizards",
+    "Displaying progress in multi-step forms or checkout flows",
+    "Showing sequential steps in tutorial or educational content",
+    "Navigating users through configuration or installation processes",
+    "Visualizing progress in multi-stage workflows"
+  ],
+  "ai_summary": "A customizable stepper component for guiding users through sequential steps or phases. Built with class-variance-authority for flexible visual styling and Radix UI primitives for accessibility. Supports multiple button variants including primary, mono, outline, ghost, and dashed styles, making it adaptable to various design systems and use cases from onboarding to checkout flows.",
+  "_classifiedAt": "2026-04-23T17:24:33.649Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

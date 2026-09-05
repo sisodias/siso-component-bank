@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display",
+    "card"
+  ],
+  "subcategory": "question-answer-interface",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "education",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Developer Q&A platforms similar to Stack Overflow",
+    "Community forum question and answer display",
+    "Technical support ticket resolution views",
+    "Knowledge base article with author attribution",
+    "Discussion thread with vote counts and accepted answers"
+  ],
+  "ai_summary": "A Stack Overflow-style Q&A interface component featuring question display with vote counts, answer listings, accepted answer highlighting, and user avatars. Uses Radix UI primitives for accessibility and follows a flat, minimalist design pattern suitable for developer communities and technical support platforms.",
+  "_classifiedAt": "2026-04-23T17:41:37.670Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

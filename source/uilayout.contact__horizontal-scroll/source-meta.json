@@ -1,0 +1,26 @@
+{
+  "id": "uilayout.contact__horizontal-scroll",
+  "author": "uilayout.contact",
+  "slug": "horizontal-scroll",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@uilayout.contact/components/horizontal-scroll",
+  "fetchedAt": "2026-08-29T07:44:05.047Z",
+  "completedAt": "2026-08-29T07:44:07.257Z",
+  "versionedFilename": "code.1783472775472.tsx",
+  "codeReference": "r2://components-code-private/uilayout.contact/horizontal-scroll/code.1783472775472.tsx",
+  "codeUrl": "https://cdn.21st.dev/uilayout.contact/horizontal-scroll/code.1783472775472.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5391,
+  "sha256": "dca88280a6f95d2420a0605f4a0d8fbf9a2e606ebaeaa54c891cd286e8e93355",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "dot-matrix scrolling text display",
+  "visual_style": [
+    "flat"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Digital signage for displaying scrolling announcements or messages",
+    "News tickers for breaking news or updates",
+    "Stock tickers for displaying financial information",
+    "Queue management systems for showing position numbers",
+    "Welcome messages for storefronts or event venues"
+  ],
+  "ai_summary": "A customizable LED-style dot-matrix scrolling text display component that renders characters using a pixel-based font pattern. Supports configurable scrolling speed, direction (left/right), dot color and size, optional borders, and pause-on-hover functionality. Creates a classic retro LED sign aesthetic with smooth animated text.",
+  "_classifiedAt": "2026-04-22T08:56:45.250Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

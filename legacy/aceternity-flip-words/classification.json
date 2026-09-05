@@ -1,0 +1,30 @@
+{
+  "category": "media",
+  "subcategory": "text-flip-animation",
+  "visual_style": [],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display animated taglines and headlines in hero sections with cycling words",
+    "Showcase rotating feature names or value propositions in marketing pages",
+    "Create dynamic client names or testimonial attributions with smooth transitions",
+    "Display category names or product highlights in e-commerce banners",
+    "Showcase skill names or role titles with professional animation effects"
+  ],
+  "ai_summary": "A text animation component that cycles through an array of words with smooth flip transitions using Framer Motion. Features spring physics for natural movement, blur effects for depth during transitions, and configurable duration between word changes. Perfect for creating engaging hero section headlines, tagline animations, and dynamic text displays in landing pages and marketing sites.",
+  "_classifiedAt": "2026-04-23T11:28:34.348Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

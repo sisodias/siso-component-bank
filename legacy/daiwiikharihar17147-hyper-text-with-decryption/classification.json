@@ -1,0 +1,28 @@
+{
+  "category": "data-display",
+  "subcategory": "scramble-text-effect",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "dev-tools",
+    "saas",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Creating tech-forward hero headlines with decryption-style animations on hover",
+    "Displaying interactive section titles in developer documentation",
+    "Adding engaging hover effects to navigation menu items",
+    "Building eye-catching call-to-action text in software landing pages",
+    "Enhancing brand headlines with a computational cryptography aesthetic"
+  ],
+  "ai_summary": "A React text component that displays words with a scrambling decryption animation triggered on hover. When users hover over text, characters rapidly cycle through random uppercase letters and symbols before resolving to the final word, creating a cyberpunk/hacker aesthetic. Uses Framer Motion for smooth animations and React hooks for state management. Ideal for tech-forward interfaces, developer tools, and SaaS landing pages wanting a computational visual effect.",
+  "_classifiedAt": "2026-04-22T08:55:21.997Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

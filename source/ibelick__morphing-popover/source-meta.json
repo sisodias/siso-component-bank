@@ -1,0 +1,33 @@
+{
+  "id": "ibelick__morphing-popover",
+  "author": "ibelick",
+  "slug": "morphing-popover",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ibelick/components/morphing-popover",
+  "fetchedAt": "2026-08-29T04:59:56.815Z",
+  "completedAt": "2026-08-29T04:59:57.752Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/ibelick__morphing-popover/code.tsx",
+    "bytes": 5441,
+    "sha256": "c6a0e1d90d2af138253ded52caf9c924cee177a83f93f1ad09326efe7b65f911",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

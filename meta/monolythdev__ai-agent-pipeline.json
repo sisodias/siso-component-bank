@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@monolythdev/components/ai-agent-pipeline",
+  "author": "monolythdev",
+  "slug": "ai-agent-pipeline",
+  "name": "ai-agent-pipeline",
+  "description": "An animated visualization of an AI agent pipeline — shows a request flowing from trigger through vector search into an LLM agent, then fanning out into parallel tool calls (email, CRM, report generation), with live stats and a scrolling execution log.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/monolythdev/ai-agent-pipeline?api_key=$API_KEY_21ST\"",
+  "id": "monolythdev__ai-agent-pipeline",
+  "bundleUrl": "https://cdn.21st.dev/dani_0212bfb0/ai-agent-pipeline/default/bundle.1784539505048-93a381a6-1e9b-4df4-95f4-6dbd62affd1e.html",
+  "previewUrl": "https://cdn.21st.dev/dani_0212bfb0/ai-agent-pipeline/default/preview.1784539505048-93a381a6-1e9b-4df4-95f4-6dbd62affd1e.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

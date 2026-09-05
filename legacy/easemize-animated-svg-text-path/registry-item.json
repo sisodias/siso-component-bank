@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "easemize-animated-svg-text-path",
+  "type": "registry:ui",
+  "title": "Easemize Animated Svg Text Path",
+  "description": "Installed from https://21st.dev/r/easemize/animated-svg-text-path",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "easemize-animated-svg-text-path"
+  ],
+  "files": [
+    {
+      "path": "animated-svg-text-path.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "gsap"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/easemize/animated-svg-text-path",
+    "fetchedAt": "2026-04-23T03:04:29.869Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

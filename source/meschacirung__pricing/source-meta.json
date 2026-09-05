@@ -1,0 +1,26 @@
+{
+  "id": "meschacirung__pricing",
+  "author": "meschacirung",
+  "slug": "pricing",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@meschacirung/components/pricing",
+  "fetchedAt": "2026-08-29T05:41:42.742Z",
+  "completedAt": "2026-08-29T05:41:45.178Z",
+  "versionedFilename": "code.1755261761922.tsx",
+  "codeReference": "r2://components-code-private/larsen66/pricing/code.1755261761922.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/pricing/code.1755261761922.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5101,
+  "sha256": "8ff8960b3d675cba6bde35fffac9e39588f6088c4818b6a066e4fe6375ad156f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

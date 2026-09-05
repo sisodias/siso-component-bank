@@ -1,0 +1,26 @@
+{
+  "id": "trophyso__achievement-unlocked",
+  "author": "trophyso",
+  "slug": "achievement-unlocked",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@trophyso/components/achievement-unlocked",
+  "fetchedAt": "2026-08-29T07:40:27.343Z",
+  "completedAt": "2026-08-29T07:40:29.453Z",
+  "versionedFilename": "code.1779975011487.tsx",
+  "codeReference": "r2://components-code-private/larsen66/achievement-unlocked/code.1779975011487.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/achievement-unlocked/code.1779975011487.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 5260,
+  "sha256": "d1118c73b3da9d19c9f12cf80da0d65145c8d56947225a8518a5cbc8d0a92007",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

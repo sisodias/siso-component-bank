@@ -1,0 +1,32 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading-spinner",
+  "visual_style": [
+    "gradient",
+    "3d"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Loading indicator for async operations like data fetching or API calls",
+    "Placeholder spinner while content loads on pages",
+    "Processing feedback during form submissions",
+    "Visual indicator during page transitions",
+    "通用加载状态反馈组件"
+  ],
+  "ai_summary": "A visually distinctive loading spinner component featuring a central glowing amber node with animated weaving threads radiating outward. Built with pure CSS animations including keyframe effects for pulsing and weaving motion, 3D transforms for perspective, and gradient-based glow effects. Self-contained with no external dependencies or props, making it an ideal drop-in loading indicator for any React application.",
+  "_classifiedAt": "2026-04-23T01:43:46.992Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

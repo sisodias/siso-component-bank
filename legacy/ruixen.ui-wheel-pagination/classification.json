@@ -1,0 +1,31 @@
+{
+  "category": "navigation",
+  "subcategory": "wheel-based circular pagination control",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate",
+    "drag",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Navigating through paginated content using a scrollable wheel interface",
+    "Browsing product catalogs or image galleries with smooth transitions",
+    "Selecting date ranges or time periods in scheduling applications",
+    "Scrolling through menu items or category filters in e-commerce platforms",
+    "Navigating between pages of search results or filtered content"
+  ],
+  "ai_summary": "A wheel-based pagination component that allows users to navigate through content by scrolling or clicking through a circular wheel interface. Built with Radix UI and Radix Primitives for accessibility, featuring smooth animations and customizable button variants for consistent theming across applications.",
+  "_classifiedAt": "2026-04-23T01:52:08.796Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

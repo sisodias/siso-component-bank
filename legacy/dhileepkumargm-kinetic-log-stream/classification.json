@@ -1,0 +1,32 @@
+{
+  "category": "data-display",
+  "subcategory": "log-stream",
+  "visual_style": [
+    "dark",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display real-time application logs in dev tools dashboards",
+    "Monitor system health and events in operational monitoring interfaces",
+    "Show activity feeds in developer-focused SaaS applications",
+    "Serve as a debug console visualization for web applications",
+    "Provide server event monitoring for backend service dashboards"
+  ],
+  "ai_summary": "A real-time log stream component that displays scrolling log entries with timestamps, severity levels (INFO, SUCCESS, WARNING, ERROR), and color-coded icons. Built with Framer Motion for smooth entrance animations, it automatically generates new log entries every 1.5 seconds and maintains a scrolling feed of up to 20 entries with monospace styling. Ideal for dev tools, monitoring dashboards, and SaaS applications requiring live event visibility.",
+  "_classifiedAt": "2026-04-23T01:39:12.250Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:32:51.080Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

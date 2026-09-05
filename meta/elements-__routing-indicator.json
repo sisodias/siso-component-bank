@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@elements-/components/routing-indicator",
+  "author": "elements-",
+  "slug": "routing-indicator",
+  "name": "routing-indicator",
+  "description": "A multi-agent routing visualizer that highlights matched patterns in the input, shows the target agent with a confidence score, and animates an active routing state.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/elements-/routing-indicator?api_key=$API_KEY_21ST\"",
+  "id": "elements-__routing-indicator",
+  "bundleUrl": "https://cdn.21st.dev/elements-/routing-indicator/default/bundle.1784366538594-89b9601b-0a59-4e4e-a80e-216e26b2d54d.html",
+  "previewUrl": "https://cdn.21st.dev/elements-/routing-indicator/default/preview.1784366538594-89b9601b-0a59-4e4e-a80e-216e26b2d54d.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

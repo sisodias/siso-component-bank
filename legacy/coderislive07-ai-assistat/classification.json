@@ -1,0 +1,27 @@
+{
+  "category": "form",
+  "subcategory": "ai-message-bar",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "AI-powered chat interface for web applications with message history display",
+    "Customer support widget that provides instant automated responses",
+    "Inline AI assistant embedded in SaaS products for contextual help",
+    "Interactive messaging system with typing indicators and conversational flow"
+  ],
+  "ai_summary": "An interactive AI message bar component featuring a chat interface with user and AI message display, typing indicators with simulated responses, and smooth auto-scrolling. The component includes input validation, message history management, and clear chat functionality, making it suitable for embedding conversational AI experiences in web applications.",
+  "_classifiedAt": "2026-04-23T16:28:06.456Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

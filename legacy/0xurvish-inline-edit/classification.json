@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "inline-editable-text",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Inline username or display name editing in user profile settings",
+    "Quick inline text editing for labels or titles in dashboard interfaces",
+    "Toggle-based content editing for settings panels and admin forms",
+    "Editable field replacement for static text display components",
+    "Compact text input with visual state indication for SaaS applications"
+  ],
+  "ai_summary": "An inline editable text input component that toggles between view and edit modes with animated transitions. Features a pill-shaped design with smooth spring animations on the edit icon, border and ring effects when editing, and manages internal state for the edit toggle. Designed for user-friendly inline content editing in profile settings, dashboards, and settings panels.",
+  "_classifiedAt": "2026-04-22T08:50:45.654Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

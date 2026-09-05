@@ -1,0 +1,26 @@
+{
+  "id": "shadcnblockscom__login-1",
+  "author": "shadcnblockscom",
+  "slug": "login-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcnblockscom/components/login-1",
+  "fetchedAt": "2026-08-29T07:10:06.434Z",
+  "completedAt": "2026-08-29T07:10:08.602Z",
+  "versionedFilename": "code.1750560667445.tsx",
+  "codeReference": "r2://components-code-private/shadcnblockscom/login-1/code.1750560667445.tsx",
+  "codeUrl": "https://cdn.21st.dev/shadcnblockscom/login-1/code.1750560667445.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2713,
+  "sha256": "b85db81b71e8a04397a45860285a78d5520f34d5f5fbcf104e905bad3c3c0f89",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

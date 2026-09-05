@@ -1,0 +1,42 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-with-variants",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary action trigger with customizable visual variants (default, destructive, outline, secondary, ghost, link)",
+    "Form submission and interactive element with disabled state handling",
+    "Keyboard-accessible button with focus ring styling for accessibility",
+    "Size-adaptable button component for various layout contexts (default, sm, lg, icon)",
+    "AsChild composition support for integrating with Radix UI Slot for advanced pattern composition"
+  ],
+  "ai_summary": "A versatile button component from the Ruixen UI library using Radix UI's Slot primitive for composition and class-variance-authority for scalable variant management. Supports 6 visual variants and 4 sizes with full accessibility features including focus-visible rings and disabled states. Designed as a foundational atomic component for integration hero pages and general UI systems.",
+  "_classifiedAt": "2026-04-23T17:18:58.542Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,30 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "animated-text-morphing",
+  "visual_style": [
+    "glass-morphism"
+  ],
+  "interactions": [
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero sections displaying rotating taglines with smooth blur transitions",
+    "Landing pages needing eye-catching animated text reveals",
+    "Any interface requiring fluid text morphing between multiple strings"
+  ],
+  "ai_summary": "A text animation component that creates a gooey morphing effect by cycling through an array of text strings with blur filters and opacity transitions. Uses requestAnimationFrame for smooth continuous animation with configurable morph and cooldown timing. The component creates a fluid, organic visual effect where text appears to dissolve and reform into the next string.",
+  "_classifiedAt": "2026-04-23T17:42:30.716Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,29 @@
+{
+  "category": "input",
+  "subcategory": "password-strength-meter",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Validating password strength in user registration forms",
+    "Providing real-time feedback during account password creation",
+    "Enforcing security policies in admin or settings panels",
+    "Showing password strength in e-commerce checkout flows",
+    "Helping users create stronger credentials in dev-tool authentication"
+  ],
+  "ai_summary": "A customizable password strength meter component that evaluates password complexity against configurable criteria including length, uppercase letters, numbers, and special characters. Displays a color-coded strength bar and requirement checklist to guide users toward creating secure passwords. Supports theming via custom colors, custom requirements, and Tailwind styling overrides.",
+  "_classifiedAt": "2026-04-23T17:08:50.252Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "gradient-selector-card",
+  "type": "registry:ui",
+  "title": "GradientSelectorCard",
+  "description": "Interactive funding tier selector with gradient-filled progress circles, animated orbital dots, and radial glow tracking",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "selector",
+    "gradient",
+    "progress",
+    "milestone",
+    "interactive",
+    "framer-motion"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "gradient-selector-card.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "framer-motion"
+  ],
+  "registryDependencies": [
+    "gradient-selector-card"
+  ],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "curationTags": []
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "radar-chart",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying multi-dimensional data comparisons in a radar/spider chart format",
+    "Comparing multiple entities across multiple attributes visually",
+    "Visualizing performance metrics or survey results across categories",
+    "Creating analytics dashboards with comparative data visualization",
+    "Showing strengths and weaknesses across multiple dimensions"
+  ],
+  "ai_summary": "A radar chart visualization component built with @visx that renders multi-dimensional data as a spider/radar polygon. Accepts custom data arrays and value accessors to display comparative metrics across multiple axes. Uses a warm color palette with clean SVG rendering, suitable for analytics dashboards and data comparison interfaces.",
+  "_classifiedAt": "2026-04-23T11:29:52.346Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

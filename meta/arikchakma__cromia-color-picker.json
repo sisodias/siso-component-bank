@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@arikchakma/components/cromia-color-picker",
+  "author": "arikchakma",
+  "slug": "cromia-color-picker",
+  "name": "cromia-color-picker",
+  "description": "A polished color picker built from Cromia headless primitives, with area selection, hue and alpha sliders, editable channels, and preset swatches.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/arikchakma/cromia-color-picker?api_key=$API_KEY_21ST\"",
+  "id": "arikchakma__cromia-color-picker",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/cromia-color-picker/default/bundle.1785392787700-fd31a652-0f16-4b6e-8b11-99aa9a7a6fd0.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/cromia-color-picker/default/preview.1785392787700-fd31a652-0f16-4b6e-8b11-99aa9a7a6fd0.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

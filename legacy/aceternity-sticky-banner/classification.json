@@ -1,0 +1,29 @@
+{
+  "category": "navigation",
+  "subcategory": "announcement-bar",
+  "visual_style": [],
+  "interactions": [
+    "scroll-animate",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying site-wide announcements and promotional messages at the top of the viewport",
+    "Showing cookie consent or privacy policy notices that persist while scrolling",
+    "Notifying users about new features, updates, or maintenance windows",
+    "Highlighting limited-time offers or sales in e-commerce storefronts",
+    "Providing navigation context like current campaign or event information"
+  ],
+  "ai_summary": "A sticky banner component that anchors to the top of the viewport with scroll-triggered hide/show behavior using Framer Motion for smooth vertical transitions and opacity animations. Features a dismissible close button and configurable via props for className customization and hide-on-scroll functionality.",
+  "_classifiedAt": "2026-04-23T11:28:44.373Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

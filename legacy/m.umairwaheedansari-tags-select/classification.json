@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "tag-selector",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "morph",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Filtering content by selected tags in SaaS dashboards and admin panels",
+    "Selecting multiple technology tags for developer profiles or project metadata",
+    "Categorizing content with customizable topic labels in content management systems",
+    "Building multi-select chip interfaces for form submissions and search filters",
+    "Managing selectable taxonomy terms for articles, products, or resource libraries"
+  ],
+  "ai_summary": "An animated tag selection component that allows users to pick from a pool of available tags and manage selected items with smooth Framer Motion transitions. Supports both controlled and uncontrolled state patterns, includes dark mode theming, and uses a clean minimalist design with blue accents. Ideal for SaaS applications requiring tag-based filtering, categorization, or metadata management interfaces.",
+  "_classifiedAt": "2026-04-23T16:54:14.249Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

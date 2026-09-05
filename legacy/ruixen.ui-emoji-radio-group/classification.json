@@ -1,0 +1,36 @@
+{
+  "category": "input",
+  "subcategory": "emoji-radio-selector",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Mood or emotion selection in feedback and survey forms",
+    "Visual category or preference selection in settings interfaces",
+    "Star-rating style selection replaced with emoji reactions",
+    "Poll or quiz answer selection with expressive options",
+    "User sentiment or reaction collection in media applications"
+  ],
+  "ai_summary": "An accessible emoji-based radio group component built on Radix UI primitives with hover scale animations and keyboard navigation support. Features emoji icons with labels in a compact rounded container, with visual state indicators for selected items. Suitable for mood tracking, sentiment analysis, and preference selection across web applications.",
+  "_classifiedAt": "2026-04-22T09:12:12.660Z",
+  "_classifierModel": "claude-haiku-4-5-20251001",
+  "_reclassifiedAt": "2026-04-23T02:35:45.267Z",
+  "_reclassifierModel": "claude-haiku-4-5-20251001"
+}

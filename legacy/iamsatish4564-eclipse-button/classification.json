@@ -1,0 +1,32 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "magnetic-interactive-button",
+  "visual_style": [
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Call-to-action buttons requiring high user engagement and visual interest",
+    "Premium UI elements needing distinctive hover interactions",
+    "Interactive components with physics-based motion and spring animations",
+    "Buttons with eclipse-style spotlight effect following cursor movement"
+  ],
+  "ai_summary": "EclipseButton is a highly interactive button component featuring a magnetic pull effect that attracts toward the cursor and a distinctive eclipse color inversion animation on hover. Built with motion/react, it uses spring physics and smooth transformations to create a spotlight effect that tracks mouse position, making it ideal for premium UI applications requiring engaging micro-interactions.",
+  "_classifiedAt": "2026-04-22T08:59:49.430Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

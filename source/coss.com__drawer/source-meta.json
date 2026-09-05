@@ -1,0 +1,26 @@
+{
+  "id": "coss.com__drawer",
+  "author": "coss.com",
+  "slug": "drawer",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@coss.com/components/drawer",
+  "fetchedAt": "2026-08-29T04:02:23.139Z",
+  "completedAt": "2026-08-29T04:02:25.327Z",
+  "versionedFilename": "code.1774285077448.tsx",
+  "codeReference": "r2://components-code-private/coss.com/drawer/code.1774285077448.tsx",
+  "codeUrl": "https://cdn.21st.dev/coss.com/drawer/code.1774285077448.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 24329,
+  "sha256": "171043c63194b8e7bca513cbf7c25e8c64c75e1c4236dd15cfe2ee11f53f3491",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

@@ -1,0 +1,34 @@
+{
+  "category": [
+    "form"
+  ],
+  "subcategory": "toggle-button-group",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Toggle between different filter options in a data table or list view",
+    "Switch between view modes such as grid, list, or compact layouts",
+    "Select a single option from a set of related settings or preferences",
+    "Toggle features or options on and off in a settings panel",
+    "Switch between time periods or categories in a dashboard interface"
+  ],
+  "ai_summary": "Intent UI Toggle Group is a flexible, accessible form component for selecting one or more options from a grouped set of toggle buttons. Built on React Aria Components with Tailwind Variants, it supports horizontal and vertical orientations, multiple sizes, and gap configurations. The component provides a clean, minimalist interface suitable for filtering, mode switching, and preference selection across SaaS applications and general web interfaces.",
+  "_classifiedAt": "2026-04-23T16:43:32.671Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

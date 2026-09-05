@@ -1,0 +1,33 @@
+{
+  "category": "input",
+  "subcategory": "rotary-dial-switch",
+  "visual_style": [
+    "skeuomorphic",
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "media",
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Multi-option selection in retro or industrial-themed interfaces",
+    "Volume or audio level controls styled as radio dials",
+    "Settings configuration panels requiring discrete value selection",
+    "Dashboard controls mimicking physical hardware switches",
+    "Feature toggle interfaces with numbered position states"
+  ],
+  "ai_summary": "A skeuomorphic rotary radio switch component that mimics old-school radio dial selectors with 6 positions (OFF, 1-5). Built with styled-components and HTML radio inputs, it presents a circular dial interface with positioned labels, a light indicator, and a rotating selector dot. Best suited for retro-themed UIs, media applications, or any interface requiring physical hardware aesthetic for discrete value selection.",
+  "_classifiedAt": "2026-04-23T17:13:11.724Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

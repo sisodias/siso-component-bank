@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "minhxthanh-animated-web3-landing-page",
+  "type": "registry:ui",
+  "title": "Minhxthanh Animated Web3 Landing Page",
+  "description": "Installed from https://21st.dev/r/minhxthanh/animated-web3-landing-page",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "minhxthanh-animated-web3-landing-page"
+  ],
+  "files": [
+    {
+      "path": "animated-web3-landing-page.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/minhxthanh/animated-web3-landing-page",
+    "fetchedAt": "2026-04-23T02:28:34.709Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

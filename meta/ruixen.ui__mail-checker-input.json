@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/mail-checker-input",
+  "author": "ruixen.ui",
+  "slug": "mail-checker-input",
+  "name": "mail-checker-input",
+  "description": "This component is a modern email input field that dynamically shows a profile avatar (via Gravatar) as the user types their email. If no valid email is entered, it displays a placeholder, making the form feel more interactive and personalized.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/mail-checker-input?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__mail-checker-input",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/mail-checker-input/default/bundle.1755965704723.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/mail-checker-input/default/preview.1755965704723.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

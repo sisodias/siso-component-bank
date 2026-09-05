@@ -1,0 +1,32 @@
+{
+  "category": "card",
+  "subcategory": "product-display",
+  "visual_style": [
+    "glass-morphism",
+    "3d",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "saas",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display featured products on an e-commerce product listing page",
+    "Highlight premium offerings or services in a SaaS pricing section",
+    "Showcase creative work or portfolio items with interactive hover effects",
+    "Create engaging product grids with 3D perspective animations"
+  ],
+  "ai_summary": "An interactive product highlight card with 3D tilt effect and dynamic glow that follows mouse movement. Built with Framer Motion using spring physics for smooth rotation transforms. Features preserve-3d styling, gradient-based illumination, and responds to mouse position for immersive hover interactions on product displays.",
+  "_classifiedAt": "2026-04-23T01:47:56.848Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

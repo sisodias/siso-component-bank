@@ -1,0 +1,26 @@
+{
+  "id": "minhxthanh__simple-ui",
+  "author": "minhxthanh",
+  "slug": "simple-ui",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@minhxthanh/components/simple-ui",
+  "fetchedAt": "2026-08-29T05:45:40.739Z",
+  "completedAt": "2026-08-29T05:45:42.893Z",
+  "versionedFilename": "code.1749176329603.tsx",
+  "codeReference": "r2://components-code-private/minhxthanh/simple-ui/code.1749176329603.tsx",
+  "codeUrl": "https://cdn.21st.dev/minhxthanh/simple-ui/code.1749176329603.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3529,
+  "sha256": "cc87640d292b4a5a477e7549981737b662838386c65d2e6728666d9d570cc67e",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

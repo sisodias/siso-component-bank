@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input",
+    "form"
+  ],
+  "subcategory": "date-wheel-picker",
+  "visual_style": [
+    "3d",
+    "flat"
+  ],
+  "interactions": [
+    "drag",
+    "parallax",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "healthcare",
+    "e-commerce",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Mobile-friendly date selection with tactile spinning wheel interaction",
+    "Age verification or birthday entry forms requiring intuitive scrolling",
+    "Booking interfaces for appointments, reservations, or scheduling",
+    "Birth date or anniversary input in user registration flows"
+  ],
+  "ai_summary": "A date wheel picker component with 3D perspective scrolling effects and smooth Framer Motion animations. Features three synchronized wheels for day, month, and year selection with realistic inertia and rotation transforms. Touch-friendly interface ideal for mobile-first applications requiring intuitive date entry.",
+  "_classifiedAt": "2026-04-22T09:07:41.402Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "streamgraph visualization",
+  "visual_style": [
+    "colorful",
+    "illustration"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Visualizing time-series data with stacked layers showing proportional changes over time",
+    "Displaying categorical data distributions in a flowing, organic stream format",
+    "Representing multi-series trends where layer overlap creates a cumulative view"
+  ],
+  "ai_summary": "Airbnb's streamgraph visualization component renders layered data streams using VisX shapes and patterns. The component uses @visx/shape Stack for the stream layout, PatternCircles and PatternWaves for fill textures, and @react-spring/web for smooth animations. Features 20 layers with 200 samples each, using a curated color palette (#ffc409, #f14702, #262d97, #036ecd, #9ecadd, #51666e) on a warm pink background (#ffdede). Supports press-to-refresh interaction to regenerate random bump data.",
+  "_classifiedAt": "2026-04-23T11:29:59.406Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

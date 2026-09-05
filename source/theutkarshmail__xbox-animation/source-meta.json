@@ -1,0 +1,26 @@
+{
+  "id": "theutkarshmail__xbox-animation",
+  "author": "theutkarshmail",
+  "slug": "xbox-animation",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@theutkarshmail/components/xbox-animation",
+  "fetchedAt": "2026-08-29T07:37:37.340Z",
+  "completedAt": "2026-08-29T07:37:39.515Z",
+  "versionedFilename": "code.1755213560678.tsx",
+  "codeReference": "r2://components-code-private/theutkarshmail/xbox-animation/code.1755213560678.tsx",
+  "codeUrl": "https://cdn.21st.dev/theutkarshmail/xbox-animation/code.1755213560678.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 3917,
+  "sha256": "3c738cbf8103f8cec502dd13709247ca713ffd38f05d85779ab4c3025464d132",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

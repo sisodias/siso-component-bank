@@ -1,0 +1,33 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "dev-tools",
+    "healthcare",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in landing pages and feature sections",
+    "Form submission and interactive controls in web applications",
+    "Navigation triggers and action triggers in dashboards and interfaces",
+    "Multi-variant button system for different importance levels (primary, secondary, destructive)",
+    "Accessible button component with keyboard navigation support"
+  ],
+  "ai_summary": "A reusable button component built with Radix UI Slot and class-variance-authority that provides multiple visual variants (default, destructive, outline, secondary, ghost, link) and size options (default, sm, lg, icon). Features standard accessibility attributes including focus-visible ring states and disabled states. Designed as an atomic UI primitive for building consistent button interfaces across applications.",
+  "_classifiedAt": "2026-04-22T09:09:36.499Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "category": "card",
+  "subcategory": "processing-loading",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display processing or loading states in tech dashboards with animated glitch effects",
+    "Show system status indicators in developer tool interfaces",
+    "Create engaging loading cards for SaaS applications",
+    "Add visual interest to background processing notifications"
+  ],
+  "ai_summary": "A card component featuring a canvas-based glitch animation with color-shifting letter effects. Displays a processing state with continuous motion animation using interpolated blue/purple gradient colors. The component uses Framer Motion for smooth transitions and creates a tech-forward aesthetic suitable for dashboards, dev tools, and SaaS platforms requiring visual feedback during background operations.",
+  "_classifiedAt": "2026-04-23T01:43:17.603Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

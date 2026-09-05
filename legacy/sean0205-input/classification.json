@@ -1,0 +1,35 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons for form submissions and key user actions",
+    "Destructive action buttons for delete or dangerous operations",
+    "Outline buttons for secondary actions in UI flows",
+    "Ghost and dim buttons for tertiary navigation or subtle interactions",
+    "Icon-integrated buttons with expandable arrow indicators for dropdown triggers"
+  ],
+  "ai_summary": "A versatile button component with 10 visual variants (primary, mono, destructive, secondary, outline, dashed, ghost, dim, foreground, inverse) supporting multiple sizes and states. Built with CVA for type-safe variant composition, featuring hover states, open states for dropdown behavior, and Lucide icon integration with shrink animation. Suitable for SaaS applications, dashboards, and any interface requiring consistent action triggers.",
+  "_classifiedAt": "2026-04-23T17:22:47.307Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

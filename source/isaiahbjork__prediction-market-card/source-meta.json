@@ -1,0 +1,26 @@
+{
+  "id": "isaiahbjork__prediction-market-card",
+  "author": "isaiahbjork",
+  "slug": "prediction-market-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@isaiahbjork/components/prediction-market-card",
+  "fetchedAt": "2026-08-29T05:02:50.335Z",
+  "completedAt": "2026-08-29T05:02:52.505Z",
+  "versionedFilename": "code.1748909882369.tsx",
+  "codeReference": "r2://components-code-private/isaiahbjork/prediction-market-card/code.1748909882369.tsx",
+  "codeUrl": "https://cdn.21st.dev/isaiahbjork/prediction-market-card/code.1748909882369.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 20445,
+  "sha256": "0dfff4e06a3480ba2b380ee53a6a9ed36facb456f6831dcb82581d7c5a39f412",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

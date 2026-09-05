@@ -1,0 +1,37 @@
+{
+  "category": "navigation",
+  "subcategory": "mobile bottom tab bar",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Mobile app navigation with icon-based menu items and active state indicators",
+    "Bottom tab bar for quick switching between major app sections like home, settings, and profile",
+    "Interactive menu for controlling navigation on mobile-optimized web interfaces",
+    "Customizable icon menu for displaying contextual actions based on user role or permissions"
+  ],
+  "ai_summary": "A modern mobile navigation menu featuring interactive icon-based menu items with animated active state indicators. The component supports 2-5 navigation items with customizable accent colors, tracks active selection state, and adjusts indicator width responsively. Ideal for mobile-first apps and responsive web interfaces requiring a sleek, minimal navigation solution.",
+  "_classifiedAt": "2026-04-23T16:37:35.118Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

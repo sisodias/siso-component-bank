@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "otp-verification",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "keyboard-nav",
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Secure SMS or email verification during user registration",
+    "Two-factor authentication code entry for login flows",
+    "Payment or transaction confirmation via one-time codes",
+    "Account recovery verification through email or SMS codes",
+    "Multi-step verification processes requiring sequential code input"
+  ],
+  "ai_summary": "The Educlopez AnimatedOTPInput is a specialized form input component designed for entering one-time passwords or verification codes in authentication workflows. This composite component typically renders multiple input cells that auto-advance focus as users type, supporting keyboard navigation between fields. It integrates with Radix UI primitives and follows flat/minimalist design principles suitable for secure authentication interfaces across various platforms.",
+  "_classifiedAt": "2026-04-22T08:58:36.190Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

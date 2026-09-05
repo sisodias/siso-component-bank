@@ -1,0 +1,31 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "SVG loading spinner with multiple shapes",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Indicating loading states during async operations",
+    "Showing progress during data fetching",
+    "Displaying wait states during page transitions",
+    "Signaling background processing in forms",
+    "Providing visual feedback during file uploads"
+  ],
+  "ai_summary": "A minimal SVG-based loader component featuring three distinct loading animation variants: a circle, triangle, and square. Built with plain SVG shapes and CSS, this atomic component serves as a lightweight feedback indicator for loading states in web applications. The flat, minimalist design ensures broad compatibility and fast rendering across any platform.",
+  "_classifiedAt": "2026-04-23T17:12:24.962Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

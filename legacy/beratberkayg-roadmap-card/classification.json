@@ -1,0 +1,32 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "badge-status",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying feature status indicators on roadmap items",
+    "Showing category labels for roadmap entries",
+    "Indicating priority levels or progress states",
+    "Tagging roadmap items with custom labels",
+    "Providing visual distinction between roadmap categories"
+  ],
+  "ai_summary": "A lightweight Badge component built with class-variance-authority featuring rounded pill styling and four variants (default, secondary, destructive, outline). Ships with standard shadcn/ui patterns including focus rings and hover transitions. Designed as a reusable status indicator for roadmap cards and product planning interfaces.",
+  "_classifiedAt": "2026-04-23T11:33:00.218Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

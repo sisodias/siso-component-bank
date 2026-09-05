@@ -1,0 +1,33 @@
+{
+  "id": "serafimcloud__use-media-query",
+  "author": "serafimcloud",
+  "slug": "use-media-query",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@serafimcloud/components/use-media-query",
+  "fetchedAt": "2026-08-29T07:06:04.259Z",
+  "completedAt": "2026-08-29T07:06:05.070Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/serafimcloud__use-media-query/code.tsx",
+    "bytes": 545,
+    "sha256": "a2b971422d6e4a7b30380bd8ec319eaadd67517c44c6c3785a23aec6483dfb35",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

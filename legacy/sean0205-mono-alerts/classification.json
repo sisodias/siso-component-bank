@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "mono",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "composite"
+  ],
+  "use_cases": [
+    "Primary action triggers for forms and modals",
+    "Navigation and routing interactions",
+    "Dropdown menu toggle buttons with open state styling",
+    "Destructive action confirmation buttons",
+    "Secondary action alternatives in multi-button layouts"
+  ],
+  "ai_summary": "A versatile button component featuring 11 variant styles including a distinctive monochrome option with dark/light mode support. Supports multiple button appearances (default, ghost, underlined) and sizes, with built-in accessibility features like focus-visible states and disabled opacity. Uses Radix UI Slot for polymorphic behavior and CVA for variant management.",
+  "_classifiedAt": "2026-04-23T17:23:16.719Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

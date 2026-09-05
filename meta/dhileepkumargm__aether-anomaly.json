@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@dhileepkumargm/components/aether-anomaly",
+  "author": "dhileepkumargm",
+  "slug": "aether-anomaly",
+  "name": "aether-anomaly",
+  "description": "An interactive 3D web experience built with three.js. It renders a rotating, semi-transparent crystalline structure illuminated by dynamic, orbiting lights. The scene includes a deep-space starfield that creates a parallax effect in response to the user's mouse movement, offering an immersive and visually engaging animation that is easily customizable.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/dhileepkumargm/aether-anomaly?api_key=$API_KEY_21ST\"",
+  "id": "dhileepkumargm__aether-anomaly",
+  "bundleUrl": "https://cdn.21st.dev/dhileepkumargm/aether-anomaly/default/bundle.1761033549841.html",
+  "previewUrl": "https://cdn.21st.dev/dhileepkumargm/aether-anomaly/default/preview.1760959226462.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

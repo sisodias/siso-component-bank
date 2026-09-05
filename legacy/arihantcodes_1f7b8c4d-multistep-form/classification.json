@@ -1,0 +1,39 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-variant-system",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "A reusable button component with variant options for primary, destructive, outline, secondary, ghost, and link styles.",
+    "Interactive form submission buttons with disabled and loading states.",
+    "Navigation triggers with icon-only or text+icon configurations.",
+    "Accessible focus indicators for keyboard navigation support."
+  ],
+  "ai_summary": "A shadcn-style Button component with CVA-based variants supporting multiple visual styles (default, destructive, outline, secondary, ghost, link) and sizes. Built with Radix UI Slot for composition, includes focus-visible ring styling, disabled states, and full TypeScript support. Acts as a foundational atomic component for form and navigation interfaces.",
+  "_classifiedAt": "2026-04-23T11:30:53.655Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@theorcdev/components/8bit-difficulty-select",
+  "author": "theorcdev",
+  "slug": "8bit-difficulty-select",
+  "name": "8bit-difficulty-select",
+  "description": "An 8-bit styled game difficulty selection screen built on the retro card and button primitives. Renders a titled card (Select Difficulty) with EASY / NORMAL / HARD pixel-font buttons; clicking one highlights it as the active difficulty. Supports controlled and uncontrolled value, custom title/description, and vertical or horizontal layout.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/theorcdev/8bit-difficulty-select?api_key=$API_KEY_21ST\"",
+  "id": "theorcdev__8bit-difficulty-select",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/8bit-difficulty-select/default/bundle.1780284659015.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/8bit-difficulty-select/default/preview.1780284659015.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

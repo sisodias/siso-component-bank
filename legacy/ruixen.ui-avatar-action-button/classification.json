@@ -1,0 +1,22 @@
+{
+  "category": "input",
+  "subcategory": "avatar-button",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "User profile action buttons in navigation bars or headers",
+    "Follow, message, or connect actions in social contexts",
+    "Account switching in multi-user applications",
+    "User attribution displays on content items",
+    "Quick action buttons with user context in dashboards"
+  ],
+  "ai_summary": "A composite avatar-labeled button component combining Avatar and Button primitives for user action interfaces. Supports sm/md/lg sizing variants and passes standard button HTML attributes. Features a clean minimalist aesthetic with rounded-full styling and primary color theming, suitable for desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T01:49:01.028Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

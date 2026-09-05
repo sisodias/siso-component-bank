@@ -1,0 +1,26 @@
+{
+  "category": "overlay",
+  "subcategory": "tooltip-trigger",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying contextual information on hover for any UI element",
+    "Creating tooltips with consistent styling across a design system",
+    "Adding accessible hover-based information reveals",
+    "Enabling themed tooltips with light/dark mode support",
+    "Wrapping components with additional metadata or help text"
+  ],
+  "ai_summary": "A minimalist tooltip trigger component that wraps children and displays contextual content in a styled tooltip on hover. Uses react-tooltip for functionality with customizable placement (top, bottom, left, right) and supports light/dark mode theming via CSS variables. Ideal for adding contextual information reveals to any UI element without custom styling.",
+  "_classifiedAt": "2026-04-23T17:30:53.360Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

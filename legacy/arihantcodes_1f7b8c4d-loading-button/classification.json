@@ -1,0 +1,26 @@
+{
+  "category": "input",
+  "subcategory": "loading-button",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Submitting forms with visual loading feedback during async operations",
+    "Triggering API calls that require loading state indication",
+    "Action buttons requiring disabled state during processing",
+    "Navigation triggers with loading feedback",
+    "Multi-step wizards or workflows with progress indication"
+  ],
+  "ai_summary": "A reusable loading button component built with Radix UI Slot and class-variance-authority, featuring multiple variants (default, destructive, outline, secondary, ghost, link) and sizes. Supports loading state with a spinning Loader2 icon, disabled state handling, and Radix-style asChild composition. Includes proper accessibility attributes like focus-visible ring styling and standard Tailwind CSS utility classes for consistent theming across any React application.",
+  "_classifiedAt": "2026-04-23T11:30:51.206Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,27 @@
+{
+  "category": "card",
+  "subcategory": "e-commerce-product-display",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "e-commerce",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying product information with multiple images and color variants in e-commerce storefronts",
+    "Interactive product showcase with hover-triggered image transitions on catalog pages",
+    "Product recommendation widgets with color and style variations",
+    "Shopping cart previews with visual product details",
+    "Landing page product highlights with animated imagery"
+  ],
+  "ai_summary": "An interactive product card component featuring color variant selection and smooth hover-triggered image switching animations using Framer Motion. Supports multiple product images per color with opacity-based transitions, ideal for e-commerce product displays, catalogs, and shopping interfaces.",
+  "_classifiedAt": "2026-04-23T17:45:19.686Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

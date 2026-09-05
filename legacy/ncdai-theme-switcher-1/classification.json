@@ -1,0 +1,33 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "theme-switcher",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Toggle between light and dark themes with smooth spring animations",
+    "Switch to system-preferred color scheme automatically",
+    "Accessible theme selection with keyboard navigation and ARIA labels"
+  ],
+  "ai_summary": "A minimalist theme switcher component featuring light, dark, and system theme options in a compact pill-shaped container. Uses motion/react for smooth layout animations when switching themes, with a spring-bounced active indicator effect. Includes full accessibility support with ARIA radio group semantics and keyboard navigation.",
+  "_classifiedAt": "2026-04-23T01:44:44.115Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "paper-design__metaballs-background",
+  "author": "paper-design",
+  "slug": "metaballs-background",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@paper-design/components/metaballs-background",
+  "fetchedAt": "2026-08-29T06:05:00.987Z",
+  "completedAt": "2026-08-29T06:05:03.141Z",
+  "versionedFilename": "code.1784835464285-6c7fbb1f-6cb4-4b16-a71d-d993cc6e9046.tsx",
+  "codeReference": "r2://components-code-private/paper-design/metaballs-background/code.1784835464285-6c7fbb1f-6cb4-4b16-a71d-d993cc6e9046.tsx",
+  "codeUrl": "https://cdn.21st.dev/paper-design/metaballs-background/code.1784835464285-6c7fbb1f-6cb4-4b16-a71d-d993cc6e9046.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

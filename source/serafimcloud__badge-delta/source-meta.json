@@ -1,0 +1,26 @@
+{
+  "id": "serafimcloud__badge-delta",
+  "author": "serafimcloud",
+  "slug": "badge-delta",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@serafimcloud/components/badge-delta",
+  "fetchedAt": "2026-08-29T07:01:29.271Z",
+  "completedAt": "2026-08-29T07:01:31.763Z",
+  "versionedFilename": "code.1737649876553.tsx",
+  "codeReference": "r2://components-code-private/user_2nElBLvklOKlAURm6W1PTu6yYFh/badge-delta/code.1737649876553.tsx",
+  "codeUrl": "https://cdn.21st.dev/user_2nElBLvklOKlAURm6W1PTu6yYFh/badge-delta/code.1737649876553.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4844,
+  "sha256": "70d9e792eff7f109c900dd5f87291cb07ac7075764a96217c8942ab0afdcab84",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

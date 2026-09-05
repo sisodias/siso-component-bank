@@ -1,0 +1,33 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "loading-placeholder",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying a pulsing placeholder while content is loading",
+    "Providing visual feedback during async data fetching",
+    "Showing skeleton states for cards, images, or text areas",
+    "Improving perceived performance during page transitions",
+    "Creating loading indicators for dynamic content"
+  ],
+  "ai_summary": "A minimalist skeleton loading component that displays a pulsing placeholder with accent-colored background during content loading states. Designed as an atomic building block for creating loading spinners and content placeholders in various UI contexts across SaaS, e-commerce, and other applications.",
+  "_classifiedAt": "2026-04-23T17:23:48.215Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

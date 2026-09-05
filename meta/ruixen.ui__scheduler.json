@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/scheduler",
+  "author": "ruixen.ui",
+  "slug": "scheduler",
+  "name": "scheduler",
+  "description": "This Scheduler component is a modern and interactive date and time picker built entirely with shadcn/ui. It provides a clean interface where users can schedule events by selecting a date from the calendar and choosing a time using dropdowns for hours and minutes. The scheduling interface is neatly wrapped inside a popover, making the component compact and easy to use without cluttering the page. Events are displayed in a structured card layout with options to edit or delete, ensuring flexibility and control over the schedule. By combining the Calendar, Select, Popover, and Card components from shadcn, this scheduler delivers a unique and user-friendly experience that goes beyond the typical date picker — making it well-suited for dashboards, task managers, booking systems, or productivity tools.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/scheduler?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__scheduler",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/scheduler/default/bundle.1757757635933.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/scheduler/default/preview.1757757635933.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 23,
+  "demo_id": 7316,
+  "video_url": null
+}

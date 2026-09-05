@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "range-slider",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "healthcare",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Selecting price ranges in e-commerce filters or pricing pages",
+    "Adjusting numeric settings like volume, brightness, or sensitivity",
+    "Filtering content by numeric thresholds in data-heavy applications",
+    "Collecting numeric form inputs with immediate visual feedback",
+    "Configuring ranges in dashboard or settings interfaces"
+  ],
+  "ai_summary": "A customizable range slider component built on Radix UI primitives with optional tooltip support for displaying values during interaction. Features accessible keyboard navigation, focus states, and controlled/uncontrolled state management. The slider supports showing tooltips on pointer down for precise value feedback and integrates seamlessly with form systems.",
+  "_classifiedAt": "2026-04-23T17:04:52.242Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

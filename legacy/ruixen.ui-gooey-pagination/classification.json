@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-variants",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Interactive clickable elements for pagination navigation",
+    "Form submission triggers within pagination controls",
+    "Primary action buttons with multiple style variants",
+    "Accessible button components with keyboard navigation support",
+    "Composite UI elements using Radix UI Slot composition pattern"
+  ],
+  "ai_summary": "A reusable Button component with multiple variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Built with Radix UI Slot for composition, class-variance-authority for variant management, and Tailwind CSS for styling. Part of the Ruixen.Ui design system, designed as an atomic reusable element suitable for pagination controls, form buttons, and interactive UI elements across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T01:49:58.584Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

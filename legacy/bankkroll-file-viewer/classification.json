@@ -1,0 +1,30 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "status-label",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying status labels on content cards",
+    "Showing category or tag information on items",
+    "Indicating notification counts or badges",
+    "Marking features as new or beta",
+    "Identifying item types in lists"
+  ],
+  "ai_summary": "A versatile badge component with multiple style variants (default, secondary, destructive, outline) using class-variance-authority. The badge renders as a pill-shaped indicator suitable for displaying labels, tags, status, and counts in data-heavy interfaces.",
+  "_classifiedAt": "2026-04-23T11:31:57.908Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

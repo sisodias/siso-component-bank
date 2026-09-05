@@ -1,0 +1,26 @@
+{
+  "id": "jevin-f__blog-layout",
+  "author": "jevin-f",
+  "slug": "blog-layout",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@jevin-f/components/blog-layout",
+  "fetchedAt": "2026-08-29T05:09:19.583Z",
+  "completedAt": "2026-08-29T05:09:22.640Z",
+  "versionedFilename": "code.1753262610236.tsx",
+  "codeReference": "r2://components-code-private/jevin-f/blog-layout/code.1753262610236.tsx",
+  "codeUrl": "https://cdn.21st.dev/jevin-f/blog-layout/code.1753262610236.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7457,
+  "sha256": "2fdc4123b293a47efa8f6de0dc489b906393f1cc3a5f2a9ca6c1277fa7871975",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

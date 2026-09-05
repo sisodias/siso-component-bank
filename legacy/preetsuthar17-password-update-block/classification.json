@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-component",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary action buttons in forms and dialogs",
+    "Destructive action triggers with confirmation states",
+    "Navigation and link-based button interactions",
+    "Icon-only buttons for compact UI toolbars",
+    "Loading state indicators for async operations"
+  ],
+  "ai_summary": "A versatile button component with 6 style variants (default, destructive, outline, secondary, ghost, link) and 5 size options (sm, default, lg, xl, icon). Built with class-variance-authority for flexible theming, supports loading states, left/right icons, and Radix Slot composition. Includes hover, focus-visible, and disabled states with smooth transitions. Designed for mixed platform use in any industry requiring form actions or navigation triggers.",
+  "_classifiedAt": "2026-04-23T01:45:49.900Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

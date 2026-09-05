@@ -1,0 +1,45 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "airbnb-voronoi",
+  "type": "registry:ui",
+  "title": "Airbnb Voronoi",
+  "description": "Installed from https://21st.dev/r/airbnb/voronoi",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "airbnb-voronoi"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "voronoi.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@visx/clip-path",
+    "@visx/delaunay",
+    "@visx/event",
+    "@visx/gradient",
+    "@visx/group",
+    "@visx/mock-data"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/airbnb/voronoi",
+    "fetchedAt": "2026-04-23T03:04:35.130Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

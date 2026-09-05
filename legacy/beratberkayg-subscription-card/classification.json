@@ -1,0 +1,28 @@
+{
+  "category": "card",
+  "subcategory": "subscription-pricing",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display subscription plan details with title, description, and pricing information",
+    "Show pricing tiers in SaaS applications with flexible content areas",
+    "Create product feature cards with consistent card primitives",
+    "Build membership or subscription management interfaces",
+    "Present product offerings with card-based layouts"
+  ],
+  "ai_summary": "A card primitive system (Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter) designed for subscription and pricing card implementations. Features a flat, minimalist design with rounded corners, subtle shadows, and clean borders. Built on shadcn/ui-style conventions using Tailwind CSS classes for consistent theming. Suitable for SaaS subscription pages, pricing tables, and membership tier displays across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T11:33:03.813Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "joyco__button",
+  "author": "joyco",
+  "slug": "button",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@joyco/components/button",
+  "fetchedAt": "2026-08-29T05:11:41.934Z",
+  "completedAt": "2026-08-29T05:11:43.851Z",
+  "versionedFilename": "code.1785542991104-71284c8c-2db9-45cc-8492-7020566fa060.tsx",
+  "codeReference": "r2://components-code-private/joyco/button/code.1785542991104-71284c8c-2db9-45cc-8492-7020566fa060.tsx",
+  "codeUrl": "https://cdn.21st.dev/joyco/button/code.1785542991104-71284c8c-2db9-45cc-8492-7020566fa060.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

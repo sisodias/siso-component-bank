@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "kedhareswer.12110626-snow-ball-loading-spinner",
+  "type": "registry:ui",
+  "title": "Kedhareswer.12110626 Snow Ball Loading Spinner",
+  "description": "Installed from https://21st.dev/r/kedhareswer.12110626/snow-ball-loading-spinner",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "kedhareswer.12110626-snow-ball-loading-spinner"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "snow-ball-loading-spinner.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/kedhareswer.12110626/snow-ball-loading-spinner",
+    "fetchedAt": "2026-04-23T01:16:28.792Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

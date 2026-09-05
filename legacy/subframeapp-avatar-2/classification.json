@@ -1,0 +1,30 @@
+{
+  "category": "data-display",
+  "subcategory": "avatar",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "healthcare",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying user profile pictures in navigation headers and settings panels",
+    "Showing placeholder avatars when user images fail to load or are unavailable",
+    "Representing entities or team members in member lists and grids",
+    "Displaying user avatars in comment sections, chat interfaces, or activity feeds",
+    "Indicating user identity and presence in dashboards or admin interfaces"
+  ],
+  "ai_summary": "A versatile user avatar component with customizable color variants (brand, neutral, error, success, warning) and size options (x-small to x-large). Supports both image and text/emoji display with optional square styling. Built with Tailwind CSS for consistent user representation across various applications including SaaS platforms, e-commerce dashboards, and social interfaces.",
+  "_classifiedAt": "2026-04-22T09:17:52.328Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

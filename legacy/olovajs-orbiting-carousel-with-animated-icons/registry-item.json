@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "olovajs-orbiting-carousel-with-animated-icons",
+  "type": "registry:ui",
+  "title": "Olovajs Orbiting Carousel With Animated Icons",
+  "description": "Installed from https://21st.dev/r/olovajs/orbiting-carousel-with-animated-icons",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "olovajs-orbiting-carousel-with-animated-icons"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "orbiting-carousel-with-animated-icons.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "framer-motion",
+    "lucide-react"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/olovajs/orbiting-carousel-with-animated-icons",
+    "fetchedAt": "2026-04-23T02:28:22.900Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

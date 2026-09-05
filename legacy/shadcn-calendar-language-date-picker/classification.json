@@ -1,0 +1,31 @@
+{
+  "category": "input",
+  "subcategory": "button",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "e-commerce",
+    "fintech",
+    "healthcare"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Triggering actions and form submissions with clickable buttons",
+    "Navigating between pages or views using link-styled buttons",
+    "Providing accessible interactive controls with keyboard focus support",
+    "Building reusable UI systems with configurable button variants",
+    "Creating consistent user interfaces with standardized button styling"
+  ],
+  "ai_summary": "A reusable button component built with Radix UI Slot and class-variance-authority for flexible variant management. Supports multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes with accessible focus states and hover effects. Part of the shadcn/ui design system, commonly used in calendar and date picker components for navigation and confirmation actions.",
+  "_classifiedAt": "2026-04-23T17:25:58.453Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

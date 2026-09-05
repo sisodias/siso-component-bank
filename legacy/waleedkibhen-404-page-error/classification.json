@@ -1,0 +1,28 @@
+{
+  "category": "feedback",
+  "subcategory": "404-error-page",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying a 404 error when a page or resource is not found",
+    "Providing a fallback navigation option with a home button and back arrow",
+    "Offering theme toggle functionality (dark/light mode) within the error page",
+    "Serving as a general-purpose error page for web applications",
+    "Improving user experience during navigation failures with clear error messaging"
+  ],
+  "ai_summary": "A minimalist 404 error page component with integrated navigation options including a home button and back arrow. Features a theme toggle for dark/light mode switching and includes an inlined Button component with default and outline variants. Designed for general web application use to gracefully handle page-not-found scenarios.",
+  "_classifiedAt": "2026-04-23T01:55:11.856Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kokonutd__interactive-checkout",
+  "author": "kokonutd",
+  "slug": "interactive-checkout",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@kokonutd/components/interactive-checkout",
+  "fetchedAt": "2026-08-29T05:18:22.891Z",
+  "completedAt": "2026-08-29T05:18:23.796Z",
+  "versionedFilename": null,
+  "codeReference": null,
+  "codeUrl": null,
+  "httpStatus": {
+    "page": 200,
+    "code": null
+  },
+  "attempts": {
+    "page": 1,
+    "code": null
+  },
+  "contentType": null,
+  "bytes": null,
+  "sha256": null,
+  "outcome": "parse-failure",
+  "failureClass": "missing-code-reference",
+  "error": null,
+  "orphanedCode": {
+    "path": "quarantine/stale-code/kokonutd__interactive-checkout/code.tsx",
+    "bytes": 13745,
+    "sha256": "3b13ace130868b2f686ffd876e251c1b092d0573636dc8b0036fe03787b37f0d",
+    "verdict": "orphaned-code-recoverable",
+    "evidence": "Read and preserved code.tsx before moving it because final outcome is parse-failure/missing-code-reference."
+  }
+}

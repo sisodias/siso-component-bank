@@ -1,0 +1,26 @@
+{
+  "id": "maxim.bort.devel__bauhaus-card",
+  "author": "maxim.bort.devel",
+  "slug": "bauhaus-card",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@maxim.bort.devel/components/bauhaus-card",
+  "fetchedAt": "2026-08-29T05:38:31.083Z",
+  "completedAt": "2026-08-29T05:38:33.546Z",
+  "versionedFilename": "code.1749918693516.tsx",
+  "codeReference": "r2://components-code-private/maxim.bort.devel/bauhaus-card/code.1749918693516.tsx",
+  "codeUrl": "https://cdn.21st.dev/maxim.bort.devel/bauhaus-card/code.1749918693516.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 10450,
+  "sha256": "f6e0f47bf449c6346d50b4a02e911c8e079d47565d1914233b11e3e70375348a",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

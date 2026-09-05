@@ -1,0 +1,30 @@
+{
+  "category": "input",
+  "subcategory": "animated-button",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive button with animated dot indicator for hover states in web applications",
+    "Call-to-action trigger with visual feedback for SaaS landing pages",
+    "Navigation button with animated arrow-dots effect for modern interfaces",
+    "Animated UI element for interactive cards and pricing sections",
+    "Decorative button with dot matrix animation effect for creative tools"
+  ],
+  "ai_summary": "An animated button component featuring a dot matrix pattern that creates a sequential wave-like animation effect on hover. The button displays 'Arrow-Dots' text with an accompanying icon containing five vertically arranged dots that animate based on index values. Built with React and CSS custom properties for flexible animation control and responsive design.",
+  "_classifiedAt": "2026-04-23T01:44:54.144Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

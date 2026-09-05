@@ -1,0 +1,32 @@
+{
+  "category": [
+    "media"
+  ],
+  "subcategory": "WebGL GLSL Fragment Shader",
+  "visual_style": [
+    "glass-morphism",
+    "gradient",
+    "colorful"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Animated hero background for landing pages",
+    "Decorative visual element for creative portfolios",
+    "Ambient animated backdrop for web applications",
+    "Visual accent for SaaS product pages"
+  ],
+  "ai_summary": "A WebGL-powered abstract shader component that renders animated glass-like visual effects using GLSL fragment shaders. Features two smoothly blended circles that orbit based on time uniforms, creating a cosmic color-shifting glow effect. The component includes a custom Renderer class that handles WebGL2 context setup, shader compilation, and animation loop. Ideal for creating impressive animated backgrounds on landing pages and creative applications.",
+  "_classifiedAt": "2026-04-23T01:38:17.929Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

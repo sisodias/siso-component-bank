@@ -1,0 +1,45 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "countdown-number",
+  "type": "registry:ui",
+  "title": "AnimatedNumberCountdown",
+  "description": "Animated countdown timer with smooth number transitions using @number-flow/react and framer-motion",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "animation",
+    "countdown",
+    "timer",
+    "framer-motion",
+    "number-flow"
+  ],
+  "files": [
+    {
+      "path": "countdown-number.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "@number-flow/react",
+    "badge",
+    "framer-motion",
+    "lucide-react"
+  ],
+  "registryDependencies": [
+    "badge",
+    "countdown-number"
+  ],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "curationTags": []
+  }
+}

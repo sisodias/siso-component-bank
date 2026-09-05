@@ -1,0 +1,34 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "animated-number-counter",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Animated number counter for displaying statistics or metrics on dashboards",
+    "Countdown timer for product launches or events",
+    "Progress indicator showing numeric values with smooth transitions",
+    "Real-time data visualization for analytics dashboards",
+    "Loading state with animated counter effect"
+  ],
+  "ai_summary": "A minimalist animated number counter component that smoothly counts from 0 to 100 over 5 seconds using Framer Motion. Displays the value in large mint-colored text with a clean, flat design. The component uses motion values and transforms for efficient animation, making it suitable for dashboards, launch pages, or anywhere a simple counting animation is needed.",
+  "_classifiedAt": "2026-04-22T08:53:00.770Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

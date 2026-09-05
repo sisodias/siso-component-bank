@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "easemize-animated-3d-mac-book-air",
+  "type": "registry:ui",
+  "title": "Easemize Animated 3d Mac Book Air",
+  "description": "Installed from https://21st.dev/r/easemize/animated-3d-mac-book-air",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "easemize-animated-3d-mac-book-air"
+  ],
+  "files": [
+    {
+      "path": "animated-3d-mac-book-air.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/easemize/animated-3d-mac-book-air",
+    "fetchedAt": "2026-04-23T03:04:40.192Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

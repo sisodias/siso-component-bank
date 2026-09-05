@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@dhileepkumargm/components/wave-text-canvas",
+  "author": "dhileepkumargm",
+  "slug": "wave-text-canvas",
+  "name": "wave-text-canvas",
+  "description": "A React component that renders bold, “WAVES” lettering as a flowing wave effect on HTML5 canvas. It uses a mask to detect text pixels and draws vertical scanlines that oscillate inside the letters with a larger amplitude and thicker stroke, while lines outside the text ripple subtly in a contrasting color. Perfect for hero titles, interactive headings, or generative text animations.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/dhileepkumargm/wave-text-canvas?api_key=$API_KEY_21ST\"",
+  "id": "dhileepkumargm__wave-text-canvas",
+  "bundleUrl": "https://cdn.21st.dev/dhileepkumargm/wave-text-canvas/default/bundle.1785277493150-8c8c3413-3075-4625-9261-7b69d141fcd4.html",
+  "previewUrl": "https://cdn.21st.dev/dhileepkumargm/wave-text-canvas/default/preview.1785277493150-8c8c3413-3075-4625-9261-7b69d141fcd4.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 7,
+  "demo_id": 8083,
+  "video_url": "https://cdn.21st.dev/user_2xffZsPH7trHq0L2RAacpvdoyXT/wave-text-canvas/default/video.1785529969083.mp4"
+}

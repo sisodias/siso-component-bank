@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "Theme switcher",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Toggle between light and dark themes with a smooth animated transition",
+    "Persist user's theme preference to localStorage for session continuity",
+    "Sync with external theme changes via MutationObserver",
+    "Provide visual feedback through an expanding circular clip-path animation"
+  ],
+  "ai_summary": "An animated theme toggler component that switches between light and dark modes using the View Transitions API. Features a smooth circular reveal animation expanding from the button's center, Sun and Moon icons from lucide-react, localStorage persistence, and MutationObserver sync for external theme changes. Built with Framer Motion for fluid animations and React state management for theme state.",
+  "_classifiedAt": "2026-04-22T08:52:26.688Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

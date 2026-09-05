@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "action-button",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons for form submissions and key user actions",
+    "Destructive action buttons for delete or warning confirmations",
+    "Secondary navigation and contextual action triggers",
+    "Icon-only buttons for compact toolbar and header interfaces",
+    "Ghost and link variants for inline actions within text content"
+  ],
+  "ai_summary": "A versatile, production-ready button component from Origin UI featuring multiple visual variants (default, destructive, outline, secondary, ghost, link) and size options. Built with Radix UI Slot for composition support and CVA for type-safe variant handling. Includes proper accessibility attributes, focus-visible states, and disabled states with clean Tailwind styling.",
+  "_classifiedAt": "2026-04-23T17:04:04.380Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

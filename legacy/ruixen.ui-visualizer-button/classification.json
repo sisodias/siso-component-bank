@@ -1,0 +1,26 @@
+{
+  "category": "input",
+  "subcategory": "action-trigger",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Primary call-to-action buttons in forms and interfaces",
+    "Navigation triggers and route changes",
+    "Modal and dialog confirmations",
+    "Toolbar and action bar controls",
+    "Icon-only buttons for compact UI areas"
+  ],
+  "ai_summary": "A versatile, accessible button component built with Radix UI Slot for composition flexibility and class-variance-authority for type-safe variant management. Features 6 variants (default, destructive, outline, secondary, ghost, link) and 4 sizes with standard focus, hover, and disabled states. Uses Tailwind shadows for subtle depth and follows shadcn/ui design patterns for consistent integration.",
+  "_classifiedAt": "2026-04-23T01:52:00.139Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

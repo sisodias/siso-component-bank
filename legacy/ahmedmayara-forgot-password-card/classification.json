@@ -1,0 +1,41 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-component",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary call-to-action buttons in forms and landing pages",
+    "Destructive actions requiring visual distinction like delete operations",
+    "Secondary navigation and link-style button actions",
+    "Icon-only compact buttons for toolbars and action clusters",
+    "Composed with child elements via asChild prop for flexible rendering"
+  ],
+  "ai_summary": "A reusable Button component built with Radix UI Slot and class-variance-authority. Supports multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon). Implements forwardRef for DOM access and uses cn utility for Tailwind class merging. Serves as a foundational atomic UI element for creating interactive buttons across SaaS, fintech, e-commerce, and dev-tool applications.",
+  "_classifiedAt": "2026-04-23T11:29:17.585Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

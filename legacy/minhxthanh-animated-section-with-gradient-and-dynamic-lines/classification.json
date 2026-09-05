@@ -1,0 +1,26 @@
+{
+  "category": "hero",
+  "subcategory": "Animated hero section with gradient SVG line drawing effects",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Landing page hero section with animated decorative elements",
+    "Full-screen introduction with dynamic gradient line animations",
+    "Visual break section with continuous SVG path drawing effects",
+    "Dark-themed landing pages requiring animated visual elements",
+    "SaaS product hero sections with premium animated aesthetics"
+  ],
+  "ai_summary": "A dark-themed hero section component featuring animated SVG paths that draw themselves on load using the getTotalLength() method. The component renders corner decorations with gradient lines against a near-black background (#0a0a0a), creating a sophisticated animated visual effect ideal for SaaS, fintech, and developer tool landing pages. The animations are CSS-based and continuous rather than scroll-triggered.",
+  "_classifiedAt": "2026-04-23T16:58:08.444Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@ruixen.ui/components/aurora-flow",
+  "author": "ruixen.ui",
+  "slug": "aurora-flow",
+  "name": "aurora-flow",
+  "description": "The AuroraFlow component is a custom React background effect built using WebGL with OGL. It renders a smooth, animated aurora-like gradient that constantly shifts and flows, creating a modern and immersive visual experience. The effect combines soft color gradients, subtle noise-based distortions, and a glow effect to mimic the natural look of flowing lights in the sky. Designed to be fully responsive, it automatically adapts to the size of its parent container and maintains crisp quality with device pixel ratio scaling. This makes it a great choice for hero sections, landing pages, or fullscreen interactive backgrounds where you want a dynamic yet elegant atmosphere.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ruixen.ui/aurora-flow?api_key=$API_KEY_21ST\"",
+  "id": "ruixen.ui__aurora-flow",
+  "bundleUrl": "https://cdn.21st.dev/ruixen.ui/aurora-flow/default/bundle.1758046624749.html",
+  "previewUrl": "https://cdn.21st.dev/ruixen.ui/aurora-flow/default/preview.1758046624744.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 15,
+  "demo_id": 7624,
+  "video_url": "https://cdn.21st.dev/ruixen.ui/aurora-flow/default/video.1758046624744.mp4"
+}

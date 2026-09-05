@@ -1,0 +1,35 @@
+{
+  "category": "hero",
+  "subcategory": "3D Animated Hero with Glass-morphism Navigation",
+  "visual_style": [
+    "glass-morphism",
+    "dark",
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate",
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "dev-tools",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "SaaS landing pages featuring animated 3D hero sections",
+    "Product showcases with glass-morphism navigation overlays",
+    "Company landing pages with scroll-triggered entrance animations",
+    "Portfolio sites showcasing interactive 3D visual elements"
+  ],
+  "ai_summary": "A full-screen hero section combining a Three.js 3D orb with glass-morphism navigation and Framer Motion staggered animations. Features scroll-based navigation state changes, mobile menu support, backdrop blur effects, and dark theme styling for a premium modern landing page experience.",
+  "_classifiedAt": "2026-04-23T01:44:12.000Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

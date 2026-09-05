@@ -1,0 +1,28 @@
+{
+  "category": "media",
+  "subcategory": "text-reveal-animation",
+  "visual_style": [],
+  "interactions": [],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Interactive text labels that animate on hover to add visual interest to navigation elements",
+    "Logo or brand name animations for hero sections on landing pages",
+    "Button text effects for call-to-action elements with engaging micro-interactions",
+    "Animated section titles that reveal letter-by-letter when users interact",
+    "Headline animations for marketing pages to capture attention"
+  ],
+  "ai_summary": "A Framer Motion-powered text animation component that creates a random letter shuffle effect on hover. Letters progressively animate through random positions before settling into the final word, creating an engaging reveal effect. Built with useAnimate hook, debounced interactions, and configurable spring animations with stagger timing.",
+  "_classifiedAt": "2026-04-23T16:29:08.991Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

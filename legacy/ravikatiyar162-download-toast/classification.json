@@ -1,0 +1,33 @@
+{
+  "category": [
+    "feedback",
+    "overlay"
+  ],
+  "subcategory": "download-toast-notification",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "dev-tools",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display download completion status to users after file downloads finish",
+    "Show installation confirmation messages in application interfaces",
+    "Provide non-intrusive feedback for background download processes",
+    "Notify users of successful content acquisition in media applications"
+  ],
+  "ai_summary": "A download toast notification component featuring an animated grid background and dark/light theme toggle support. This feedback component displays download status and installation confirmations with a modern, minimalist aesthetic. Ideal for SaaS platforms and applications requiring user-facing download progress or completion indicators.",
+  "_classifiedAt": "2026-04-23T17:11:22.586Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

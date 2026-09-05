@@ -1,0 +1,31 @@
+{
+  "category": "media",
+  "subcategory": "text-animation, layered-text, parallax-effect",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "morph"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools",
+    "media",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero section headline with stacked animated text that responds to hover",
+    "Landing page section header with parallax-style layered text reveal",
+    "Feature showcase with animated text labels that slide on interaction",
+    "Portfolio or creative site header with sophisticated text animation",
+    "Marketing page intro with progressive text reveal on user engagement"
+  ],
+  "ai_summary": "A layered text component that displays stacked text lines with GSAP-powered hover animations. Multiple text layers shift vertically with staggered timing, creating a parallax-like reveal effect. Ideal for hero sections and impactful headlines where motion adds engagement without visual clutter.",
+  "_classifiedAt": "2026-04-23T17:43:46.048Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-with-variants",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary action triggers in forms, dialogs, and call-to-action areas",
+    "Destructive action buttons for delete or warning operations",
+    "Secondary navigation or alternative action selection",
+    "Outline-styled buttons for less prominent UI actions",
+    "Ghost buttons for minimal UI with subtle hover feedback"
+  ],
+  "ai_summary": "A reusable Button component built with Radix UI Slot and class-variance-authority for flexible variant management. Supports multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes (default, sm, lg, icon) with proper hover states, focus-visible accessibility, and disabled states. Designed as a foundational atomic component for design systems, providing consistent button styling across applications.",
+  "_classifiedAt": "2026-04-22T09:12:35.406Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "funnel-chart",
+  "visual_style": [
+    "dark",
+    "gradient"
+  ],
+  "interactions": [
+    "hover-glow",
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "dev-tools",
+    "fintech"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Visualizing incident response funnel from events to resolution across tiers",
+    "Displaying multi-stage data conversion metrics in analytics dashboards",
+    "Monitoring operational metrics with layered breakdown in monitoring tools",
+    "Showing alert triage flow in incident management platforms",
+    "Presenting conversion funnel data in SaaS analytics products"
+  ],
+  "ai_summary": "A layered funnel chart component built with Reaviz that displays multi-tier data flow visualization with animated transitions. Features a dark theme with gradient magenta/pink color scheme, showing funnel stages from All Events through resolution tiers with supporting metric cards. Includes tooltip interactions and smooth Framer Motion animations for data reveals.",
+  "_classifiedAt": "2026-04-23T17:15:25.473Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

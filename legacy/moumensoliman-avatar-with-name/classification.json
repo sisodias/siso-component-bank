@@ -1,0 +1,35 @@
+{
+  "category": [
+    "media",
+    "data-display"
+  ],
+  "subcategory": "user-profile-avatar",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "creator-tools",
+    "media",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Display user profile avatars in dashboards or member lists",
+    "Show commenter/author information in discussion threads",
+    "Represent users in social media or collaboration tools",
+    "Display reviewer avatars in e-commerce product reviews",
+    "Create user profile cards with animated name reveals"
+  ],
+  "ai_summary": "An interactive avatar component with animated name reveal on hover. Features multiple size variants (sm/md/lg/xl) and directional animation options for the name label using Framer Motion with blur transitions. Displays user initials as fallback when image unavailable, making it suitable for user profile displays across various SaaS, social, and e-commerce applications.",
+  "_classifiedAt": "2026-04-22T09:06:40.983Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

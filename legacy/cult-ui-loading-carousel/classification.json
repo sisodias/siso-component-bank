@@ -1,0 +1,40 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "action-button-with-variants",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Primary call-to-action buttons for forms and CTAs",
+    "Navigation triggers with multiple visual variants",
+    "Icon buttons for toolbars and action bars",
+    "Accessible focusable interactive elements",
+    "Polymorphic buttons using Radix UI Slot composition"
+  ],
+  "ai_summary": "A Cult UI button component built with Radix UI Slot and class-variance-authority for polymorphic composition. Features 6 visual variants (default, destructive, outline, secondary, ghost, link) and 4 sizes (default, sm, lg, icon). Includes full accessibility support with focus-visible rings, disabled states, and keyboard navigation. Uses Tailwind CSS for styling and supports the asChild prop for slot-based composition into other components.",
+  "_classifiedAt": "2026-04-23T16:28:36.382Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

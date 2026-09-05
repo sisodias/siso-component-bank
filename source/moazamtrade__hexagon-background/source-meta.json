@@ -1,0 +1,26 @@
+{
+  "id": "moazamtrade__hexagon-background",
+  "author": "moazamtrade",
+  "slug": "hexagon-background",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@moazamtrade/components/hexagon-background",
+  "fetchedAt": "2026-08-29T05:47:32.326Z",
+  "completedAt": "2026-08-29T05:47:39.350Z",
+  "versionedFilename": "code.1757277181312.tsx",
+  "codeReference": "r2://components-code-private/moazamtrade/hexagon-background/code.1757277181312.tsx",
+  "codeUrl": "https://cdn.21st.dev/moazamtrade/hexagon-background/code.1757277181312.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 4181,
+  "sha256": "89aec277fbe3fe1efaa9b887b9972609cd900c85f1eec71e18b57ad5c33f0722",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

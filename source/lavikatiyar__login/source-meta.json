@@ -1,0 +1,26 @@
+{
+  "id": "lavikatiyar__login",
+  "author": "lavikatiyar",
+  "slug": "login",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@lavikatiyar/components/login",
+  "fetchedAt": "2026-08-29T05:25:25.329Z",
+  "completedAt": "2026-08-29T05:25:27.493Z",
+  "versionedFilename": "code.1760596415665.tsx",
+  "codeReference": "r2://components-code-private/lavikatiyar/login/code.1760596415665.tsx",
+  "codeUrl": "https://cdn.21st.dev/lavikatiyar/login/code.1760596415665.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 7705,
+  "sha256": "cee838c77f7cd87e0f8d9884516a6d623116432de37fb4e3eeb4d00d0bf1f787",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

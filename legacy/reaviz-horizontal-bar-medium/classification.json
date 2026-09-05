@@ -1,0 +1,33 @@
+{
+  "category": [
+    "data-display"
+  ],
+  "subcategory": "horizontal-bar-chart",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "scroll-animate"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "analytics"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying comparative metrics across multiple categories in a horizontal layout",
+    "Visualizing survey results or polling data with category labels",
+    "Showing ranked performance metrics with trend indicators",
+    "Dashboard data visualization for business analytics",
+    "Resource allocation or budget distribution visualization"
+  ],
+  "ai_summary": "A horizontal bar chart component built with reaviz library featuring animated bars, customizable axes, gridlines, and metric indicators with trend icons. Uses framer-motion for smooth entrance animations and supports tooltip integration for detailed data exploration. Ideal for displaying comparative data, rankings, or categorical metrics in dashboard interfaces.",
+  "_classifiedAt": "2026-04-23T17:14:48.723Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

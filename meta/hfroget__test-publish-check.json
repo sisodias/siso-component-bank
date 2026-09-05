@@ -1,0 +1,18 @@
+{
+  "url": "https://21st.dev/@hfroget/components/test-publish-check",
+  "author": "hfroget",
+  "slug": "test-publish-check",
+  "name": "test-publish-check",
+  "description": "Minimal test component to verify publishing works.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/hfroget/test-publish-check?api_key=$API_KEY_21ST\"",
+  "id": "hfroget__test-publish-check",
+  "bundleUrl": "https://cdn.21st.dev/hfroget/test-publish-check/default/bundle.1780695413010.html",
+  "previewUrl": null,
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "preview": "preview.png",
+  "previewVia": "ogCard"
+}

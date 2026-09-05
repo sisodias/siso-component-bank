@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "jakapatb-7-segment-number",
+  "type": "registry:ui",
+  "title": "Jakapatb 7 Segment Number",
+  "description": "Installed from https://21st.dev/r/jakapatb/7-segment-number",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "jakapatb-7-segment-number"
+  ],
+  "files": [
+    {
+      "path": "7-segment-number.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/jakapatb/7-segment-number",
+    "fetchedAt": "2026-04-23T03:04:49.752Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

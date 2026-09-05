@@ -1,0 +1,26 @@
+{
+  "id": "shadcnblockscom__feature-1",
+  "author": "shadcnblockscom",
+  "slug": "feature-1",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcnblockscom/components/feature-1",
+  "fetchedAt": "2026-08-29T07:09:47.917Z",
+  "completedAt": "2026-08-29T07:09:49.832Z",
+  "versionedFilename": "code.1747703307304.tsx",
+  "codeReference": "r2://components-code-private/shadcnblockscom/feature-1/code.1747703307304.tsx",
+  "codeUrl": "https://cdn.21st.dev/shadcnblockscom/feature-1/code.1747703307304.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2034,
+  "sha256": "ac1b7dd29315dcd9d9dc549130d7ff3510a7dde6bd387383f7b837bfb0705ff8",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

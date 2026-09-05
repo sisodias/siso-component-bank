@@ -1,0 +1,32 @@
+{
+  "category": [
+    "overlay"
+  ],
+  "subcategory": "bottom-sheet-drawer",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Newsletter subscription forms that slide up from the bottom of the screen",
+    "Feedback collection interfaces for user opinions and suggestions",
+    "Compact form submissions that don't interrupt workflow",
+    "Contextual actions that need user input without leaving the page",
+    "Mobile-friendly alternatives to modals for form-heavy interfaces"
+  ],
+  "ai_summary": "A bottom drawer overlay component from ruixen.ui that slides up from the bottom of the screen to reveal contextual content. Features multiple drawer variants including newsletter subscription and feedback forms with centered, compact layouts. Built with composable sub-components (DrawerTrigger, DrawerContent, DrawerHeader, DrawerFooter) using a flat, minimalist visual style that works across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T17:17:11.500Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

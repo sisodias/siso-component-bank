@@ -1,0 +1,36 @@
+{
+  "category": [
+    "card",
+    "data-display"
+  ],
+  "subcategory": "chart-visualization-card",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying analytics metrics with animated chart visualizations in dashboards",
+    "Showcasing data insights with interactive hover-reveal tooltips",
+    "Presenting KPIs and metrics cards in SaaS applications",
+    "Building data-rich card layouts with smooth slide transitions",
+    "Creating interactive visualization components for analytics platforms"
+  ],
+  "ai_summary": "AnimatedCard is a composite data visualization card component featuring layered chart visuals, hover-reveal tooltip panels, and smooth horizontal slide transitions. Built with minimalist flat styling and dark mode support, it integrates sub-components for body content, titles, descriptions, and custom chart visuals. Ideal for SaaS dashboards and analytics platforms requiring interactive data presentation.",
+  "_classifiedAt": "2026-04-22T08:51:23.822Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

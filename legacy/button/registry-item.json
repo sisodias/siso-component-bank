@@ -1,0 +1,35 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "button",
+  "type": "registry:ui",
+  "title": "Button",
+  "description": "A button component.",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "button",
+    "component"
+  ],
+  "files": [
+    {
+      "path": "button.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-slot",
+    "class-variance-authority"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "renderable": false
+  },
+  "_provenance": {
+    "curationTags": [],
+    "canonicalOf": {
+      "source": "21st-dev",
+      "slug": "originui-button"
+    },
+    "duplicateSignalScore": 0.67
+  }
+}

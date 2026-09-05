@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "frequency-day-selector",
+  "visual_style": [
+    "flat",
+    "minimalist"
+  ],
+  "interactions": [
+    "click-reveal",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "education",
+    "real-estate"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Setting recurring schedules for task management and reminders",
+    "Configuring availability windows in appointment booking systems",
+    "Choosing delivery or service frequency in e-commerce checkout flows",
+    "Defining business hours or operation schedules",
+    "Setting up recurring billing or subscription cycles"
+  ],
+  "ai_summary": "A day picker and frequency selector component featuring animated transitions, blur effects, and a smooth spring-based layout system. Supports selection of days of the week combined with frequency options (Daily, Weekly, Monthly, Yearly). Built with motion/react for fluid animations and Tailwind for styling. Ideal for scheduling interfaces, calendar apps, and any UI requiring time-based recurrence configuration.",
+  "_classifiedAt": "2026-04-22T08:50:26.988Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

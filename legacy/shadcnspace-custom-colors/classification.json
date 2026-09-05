@@ -1,0 +1,25 @@
+{
+  "category": "input",
+  "subcategory": "checkbox",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Toggle boolean values in forms with custom color theming",
+    "Select multiple options in multi-select scenarios",
+    "Enable agree/disagree toggles for terms and conditions",
+    "Filter selections in data tables and lists",
+    "Support bulk selection operations with consistent styling"
+  ],
+  "ai_summary": "A Radix UI-based checkbox component with custom color theming support through Tailwind CSS. This atomic form component provides standard checkbox functionality with custom primary color configuration, focus states, and accessibility support.",
+  "_classifiedAt": "2026-04-22T09:14:51.793Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

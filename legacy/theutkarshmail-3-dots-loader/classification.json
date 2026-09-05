@@ -1,0 +1,41 @@
+{
+  "category": [
+    "feedback"
+  ],
+  "subcategory": "three-dots-loader",
+  "visual_style": [
+    "minimalist",
+    "gradient"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce",
+    "creator-tools",
+    "dev-tools",
+    "healthcare",
+    "media",
+    "education",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Indicates loading state while fetching data or content",
+    "Shows processing status during form submissions",
+    "Displays async operation progress in UI transitions",
+    "Provides visual feedback during navigation or page loads",
+    "Signals ongoing background tasks in dashboards"
+  ],
+  "ai_summary": "A three-dot animated loader component with a gooey SVG filter effect that creates smooth, morphing transitions between bouncing dots. Uses CSS keyframe animations combined with SVG feGaussianBlur and feColorMatrix filters for a polished, fluid loading indicator suitable for any interface requiring visual feedback during async operations.",
+  "_classifiedAt": "2026-04-23T17:35:06.301Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

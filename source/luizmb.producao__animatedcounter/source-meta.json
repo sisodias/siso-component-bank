@@ -1,0 +1,26 @@
+{
+  "id": "luizmb.producao__animatedcounter",
+  "author": "luizmb.producao",
+  "slug": "animatedcounter",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@luizmb.producao/components/animatedcounter",
+  "fetchedAt": "2026-08-29T05:32:36.910Z",
+  "completedAt": "2026-08-29T05:32:39.477Z",
+  "versionedFilename": "code.1782229001661.tsx",
+  "codeReference": "r2://components-code-private/luizmb.producao/animatedcounter/code.1782229001661.tsx",
+  "codeUrl": "https://cdn.21st.dev/luizmb.producao/animatedcounter/code.1782229001661.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1466,
+  "sha256": "7bd6263f042f3b92e32ea267b13c57c245c2a6d3350a3b2b7c02c321bebe3375",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

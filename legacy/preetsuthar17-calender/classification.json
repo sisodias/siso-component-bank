@@ -1,0 +1,31 @@
+{
+  "category": "data-display",
+  "subcategory": "calendar-widget",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "education",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Displaying a monthly calendar view with navigable months and years",
+    "Selecting individual dates for form inputs or event scheduling",
+    "Highlighting the current date with distinct visual styling",
+    "Selecting date ranges with start/end day styling for booking interfaces",
+    "Disabling specific dates for unavailable time slots in scheduling apps"
+  ],
+  "ai_summary": "A fully-featured calendar component with month/year navigation, date selection, and range-picking capabilities. Features smooth motion animations via Framer Motion, multiple day variants for different states (selected, today, disabled, range), keyboard navigation support, and responsive design that works across desktop and mobile. Built with CVA for variant management and integrates with a Select component for month/year dropdowns. Suitable for booking systems, scheduling interfaces, and date-based data display in any application.",
+  "_classifiedAt": "2026-04-23T17:07:12.702Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

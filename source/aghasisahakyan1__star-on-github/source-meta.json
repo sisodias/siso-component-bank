@@ -1,0 +1,26 @@
+{
+  "id": "aghasisahakyan1__star-on-github",
+  "author": "aghasisahakyan1",
+  "slug": "star-on-github",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@aghasisahakyan1/components/star-on-github",
+  "fetchedAt": "2026-08-29T03:30:32.678Z",
+  "completedAt": "2026-08-29T03:30:34.386Z",
+  "versionedFilename": "code.1756604044981.tsx",
+  "codeReference": "r2://components-code-private/aghasisahakyan1/star-on-github/code.1756604044981.tsx",
+  "codeUrl": "https://cdn.21st.dev/aghasisahakyan1/star-on-github/code.1756604044981.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 2620,
+  "sha256": "8ed6072152d131c64c7078f291abcb2343321e6e2aa6027139c84d2ea08185c7",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

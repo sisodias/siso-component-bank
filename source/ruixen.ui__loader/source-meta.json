@@ -1,0 +1,26 @@
+{
+  "id": "ruixen.ui__loader",
+  "author": "ruixen.ui",
+  "slug": "loader",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@ruixen.ui/components/loader",
+  "fetchedAt": "2026-08-29T06:44:37.329Z",
+  "completedAt": "2026-08-29T06:44:39.657Z",
+  "versionedFilename": "code.1753162546770.tsx",
+  "codeReference": "r2://components-code-private/ruixen.ui/loader/code.1753162546770.tsx",
+  "codeUrl": "https://cdn.21st.dev/ruixen.ui/loader/code.1753162546770.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1361,
+  "sha256": "1cfd6b2fbd53980812432c657ea74255caf3d1aec9bf49d83478a0ff6618dfdc",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

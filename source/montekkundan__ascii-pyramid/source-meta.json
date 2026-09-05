@@ -1,0 +1,26 @@
+{
+  "id": "montekkundan__ascii-pyramid",
+  "author": "montekkundan",
+  "slug": "ascii-pyramid",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@montekkundan/components/ascii-pyramid",
+  "fetchedAt": "2026-08-29T05:49:24.475Z",
+  "completedAt": "2026-08-29T05:49:26.411Z",
+  "versionedFilename": "code.1749017955321.tsx",
+  "codeReference": "r2://components-code-private/montekkundan/ascii-pyramid/code.1749017955321.tsx",
+  "codeUrl": "https://cdn.21st.dev/montekkundan/ascii-pyramid/code.1749017955321.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 8106,
+  "sha256": "beba9da9b7d76c9293fb6cfc4c08c817bc344529d2b77c1954c6e7209394566f",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

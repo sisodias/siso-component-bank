@@ -1,0 +1,26 @@
+{
+  "id": "framecn__chromatic-aberration-wipe",
+  "author": "framecn",
+  "slug": "chromatic-aberration-wipe",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@framecn/components/chromatic-aberration-wipe",
+  "fetchedAt": "2026-08-29T04:51:00.916Z",
+  "completedAt": "2026-08-29T04:51:03.087Z",
+  "versionedFilename": "code.1784825295743-9ffba0f5-eb0f-4bb3-80ad-6c99358431b9.tsx",
+  "codeReference": "r2://components-code-private/framecn/chromatic-aberration-wipe/code.1784825295743-9ffba0f5-eb0f-4bb3-80ad-6c99358431b9.tsx",
+  "codeUrl": "https://cdn.21st.dev/framecn/chromatic-aberration-wipe/code.1784825295743-9ffba0f5-eb0f-4bb3-80ad-6c99358431b9.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

@@ -1,0 +1,34 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button-component",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "education",
+    "healthcare",
+    "real-estate",
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Form submission and action triggers",
+    "Navigation and link activation",
+    "Modal and dialog interactions",
+    "Interactive card controls within calendar views",
+    "AsChild pattern for polymorphic button composition"
+  ],
+  "ai_summary": "A reusable atomic button component with multiple visual variants (default, destructive, outline, secondary, ghost, link) and sizes. Built with Radix UI Slot for polymorphic rendering via asChild prop and class-variance-authority for consistent styling. Part of the Ruixen.UI calendar scheduler package, designed for desktop and mobile platforms with focus-visible accessibility states and disabled state handling.",
+  "_classifiedAt": "2026-04-22T09:11:45.943Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

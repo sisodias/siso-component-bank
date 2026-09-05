@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@reshaped/components/reshaped-modal",
+  "author": "reshaped",
+  "slug": "reshaped-modal",
+  "name": "reshaped-modal",
+  "description": "Controlled overlay dialog with an active flag and onClose handler that locks page scroll while open. Supports center, bottom, start, end and full-screen positions with matching slide animations, custom size and padding, Modal.Title/Subtitle composition with the Dismissible utility, focus management and a transparent overlay mode for side panels.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/reshaped/reshaped-modal?api_key=$API_KEY_21ST\"",
+  "id": "reshaped__reshaped-modal",
+  "bundleUrl": "https://cdn.21st.dev/larsen66/reshaped-modal/default/bundle.1783438468596.html",
+  "previewUrl": "https://cdn.21st.dev/larsen66/reshaped-modal/default/preview.1783438468596.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

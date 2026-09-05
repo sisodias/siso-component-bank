@@ -1,0 +1,26 @@
+{
+  "id": "dhileepkumargm__infinite-plane",
+  "author": "dhileepkumargm",
+  "slug": "infinite-plane",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@dhileepkumargm/components/infinite-plane",
+  "fetchedAt": "2026-08-29T04:29:50.567Z",
+  "completedAt": "2026-08-29T04:29:51.966Z",
+  "versionedFilename": "code.1785270215780-ea334c47-9783-4303-93d4-2c2a05ff7560.tsx",
+  "codeReference": "r2://components-code-private/dhileepkumargm/infinite-plane/code.1785270215780-ea334c47-9783-4303-93d4-2c2a05ff7560.tsx",
+  "codeUrl": "https://cdn.21st.dev/dhileepkumargm/infinite-plane/code.1785270215780-ea334c47-9783-4303-93d4-2c2a05ff7560.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 404
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/html",
+  "bytes": null,
+  "sha256": null,
+  "outcome": "gated-404",
+  "failureClass": "access-gated",
+  "error": null
+}

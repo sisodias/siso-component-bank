@@ -1,0 +1,32 @@
+{
+  "category": [
+    "form",
+    "card"
+  ],
+  "subcategory": "otp-authentication",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "hover-glow",
+    "keyboard-nav"
+  ],
+  "best_for_industries": [
+    "saas",
+    "fintech",
+    "e-commerce"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Two-factor authentication via one-time password entry",
+    "Secure user sign-in flow with verification code",
+    "Account verification during onboarding or checkout"
+  ],
+  "ai_summary": "A secure one-time password (OTP) sign-in card component with integrated button variants for authentication flows. Features a clean, accessible design with keyboard navigation support and hover states, built using Radix UI primitives and Tailwind CSS for consistent styling across desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-23T11:29:22.423Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

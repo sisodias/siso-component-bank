@@ -1,0 +1,26 @@
+{
+  "id": "shadcnspace__toggle-theme",
+  "author": "shadcnspace",
+  "slug": "toggle-theme",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@shadcnspace/components/toggle-theme",
+  "fetchedAt": "2026-08-29T07:13:09.312Z",
+  "completedAt": "2026-08-29T07:13:11.373Z",
+  "versionedFilename": "code.1772714874350.tsx",
+  "codeReference": "r2://components-code-private/larsen66/toggle-theme/code.1772714874350.tsx",
+  "codeUrl": "https://cdn.21st.dev/larsen66/toggle-theme/code.1772714874350.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1276,
+  "sha256": "0763f32a4a18b88f358340574d567adf1974cb1c1f6cda7ab100efdae3b7f0db",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

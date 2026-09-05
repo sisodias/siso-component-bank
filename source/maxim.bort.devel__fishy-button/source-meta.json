@@ -1,0 +1,26 @@
+{
+  "id": "maxim.bort.devel__fishy-button",
+  "author": "maxim.bort.devel",
+  "slug": "fishy-button",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@maxim.bort.devel/components/fishy-button",
+  "fetchedAt": "2026-08-29T05:38:42.510Z",
+  "completedAt": "2026-08-29T05:38:44.711Z",
+  "versionedFilename": "code.1750085023756.tsx",
+  "codeReference": "r2://components-code-private/maxim.bort.devel/fishy-button/code.1750085023756.tsx",
+  "codeUrl": "https://cdn.21st.dev/maxim.bort.devel/fishy-button/code.1750085023756.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 15214,
+  "sha256": "9b847cfa8beeb2a030fa2c5556c314008394601d216d1483bbca0715dc8a8356",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

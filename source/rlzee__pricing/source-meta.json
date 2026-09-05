@@ -1,0 +1,26 @@
+{
+  "id": "rlzee__pricing",
+  "author": "rlzee",
+  "slug": "pricing",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@rlzee/components/pricing",
+  "fetchedAt": "2026-08-29T06:36:53.228Z",
+  "completedAt": "2026-08-29T06:36:55.631Z",
+  "versionedFilename": "code.1749659834488.tsx",
+  "codeReference": "r2://components-code-private/rlzee/pricing/code.1749659834488.tsx",
+  "codeUrl": "https://cdn.21st.dev/rlzee/pricing/code.1749659834488.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 1650,
+  "sha256": "6c8d828b0b2e2dc48469d06bd8ab1463a07e044b1ce3a77063598fa79f4e4f6c",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

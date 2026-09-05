@@ -1,0 +1,35 @@
+{
+  "category": [
+    "navigation",
+    "overlay"
+  ],
+  "subcategory": "floating-action-menu",
+  "visual_style": [
+    "minimalist",
+    "flat"
+  ],
+  "interactions": [
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "creator-tools",
+    "dev-tools"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Provides quick access to frequently used actions without cluttering the main interface",
+    "Enables compact mobile-first navigation with expandable options on tap",
+    "Serves as a space-efficient alternative to traditional toolbars or sidebars",
+    "Allows users to trigger contextual actions from anywhere on the screen",
+    "Reduces cognitive load by organizing related actions behind a single trigger"
+  ],
+  "ai_summary": "A floating action menu component that displays a primary trigger button which expands on click to reveal a list of contextual actions or navigation options. This space-efficient pattern is ideal for mobile-first interfaces and desktop applications needing quick access to secondary actions without consuming fixed UI space. Built with Radix UI primitives for accessibility and class-variance-authority for variant theming.",
+  "_classifiedAt": "2026-04-23T11:33:46.625Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

@@ -1,0 +1,31 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "button",
+  "visual_style": [
+    "minimalist"
+  ],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "other"
+  ],
+  "platform_fit": [
+    "desktop, mobile"
+  ],
+  "complexity": [
+    "atomic"
+  ],
+  "use_cases": [
+    "Primary action trigger for forms and calls-to-action",
+    "Destructive action buttons for delete or remove operations",
+    "Secondary/tertiary actions using ghost and outline variants",
+    "Icon-only buttons for compact UI toolbar areas",
+    "Navigation links styled as buttons using the link variant"
+  ],
+  "ai_summary": "A shadcn/ui-styled button component with 6 variants (default, destructive, outline, secondary, ghost, link) and 4 sizes (default, sm, lg, icon). Built with CVA for variant management and Radix UI Slot for composition. Features standard focus ring states, hover transitions, and disabled state handling. Uses Tailwind CSS utility classes with design token variables for easy theming.",
+  "_classifiedAt": "2026-04-22T09:16:10.233Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

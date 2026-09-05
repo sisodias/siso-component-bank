@@ -1,0 +1,36 @@
+{
+  "category": [
+    "input"
+  ],
+  "subcategory": "rotary-knob",
+  "visual_style": [
+    "dark",
+    "glass-morphism",
+    "gradient"
+  ],
+  "interactions": [
+    "drag",
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "creator-tools",
+    "dev-tools",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Audio mixing applications requiring precise volume or parameter adjustments",
+    "Video editing software with rotatory controls for effects and filters",
+    "3D modeling tools for adjusting object properties like rotation or scale",
+    "Hardware simulation interfaces in dev-tools or IoT dashboards",
+    "Music production DAW interfaces with synthesizer parameter controls"
+  ],
+  "ai_summary": "A physics-based rotary knob input control with spring animations that provides tactile feedback through stiffness, damping, and mass parameters. Features real-time visual feedback with light opacity and blur effects that respond to rotation, creating a reactor-style futuristic aesthetic. Supports pointer-based drag interactions for desktop and mobile platforms.",
+  "_classifiedAt": "2026-04-22T08:55:10.034Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

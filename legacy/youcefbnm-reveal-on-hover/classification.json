@@ -1,0 +1,28 @@
+{
+  "category": "card",
+  "subcategory": "hover-reveal-card",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "media",
+    "creator-tools"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Product cards that reveal additional details on hover with smooth scaling animation",
+    "Portfolio galleries where items scale up when users hover to reveal more content",
+    "Feature showcase cards in landing pages with interactive hover states",
+    "Dashboard widgets with hover-triggered preview information"
+  ],
+  "ai_summary": "A React card component that provides hover-triggered reveal animations using context-based state management. The CardHoverReveal container tracks hover state while the CardHoverRevealMain element scales smoothly from an initial to hover scale with configurable duration. Designed for interactive card layouts where content is revealed through elegant hover animations, commonly used in product showcases, galleries, and feature displays across SaaS and e-commerce platforms.",
+  "_classifiedAt": "2026-04-23T17:45:23.183Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

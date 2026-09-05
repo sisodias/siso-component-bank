@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "minhxthanh-schema-card-with-animated-wave-visualizer",
+  "type": "registry:ui",
+  "title": "Minhxthanh Schema Card With Animated Wave Visualizer",
+  "description": "Installed from https://21st.dev/r/minhxthanh/schema-card-with-animated-wave-visualizer",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "minhxthanh-schema-card-with-animated-wave-visualizer"
+  ],
+  "files": [
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    },
+    {
+      "path": "schema-card-with-animated-wave-visualizer.tsx",
+      "type": "registry:ui"
+    }
+  ],
+  "dependencies": [],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/minhxthanh/schema-card-with-animated-wave-visualizer",
+    "fetchedAt": "2026-04-23T03:04:33.290Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

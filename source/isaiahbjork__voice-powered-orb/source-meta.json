@@ -1,0 +1,26 @@
+{
+  "id": "isaiahbjork__voice-powered-orb",
+  "author": "isaiahbjork",
+  "slug": "voice-powered-orb",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@isaiahbjork/components/voice-powered-orb",
+  "fetchedAt": "2026-08-29T05:03:14.825Z",
+  "completedAt": "2026-08-29T05:03:17.141Z",
+  "versionedFilename": "code.1757897717668.tsx",
+  "codeReference": "r2://components-code-private/isaiahbjork/voice-powered-orb/code.1757897717668.tsx",
+  "codeUrl": "https://cdn.21st.dev/isaiahbjork/voice-powered-orb/code.1757897717668.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 15427,
+  "sha256": "ae5e92976c9ba9df4ba1d89969245be34cf63137fc12f7d39dd183c1dd342d65",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

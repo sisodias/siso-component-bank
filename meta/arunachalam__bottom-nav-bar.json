@@ -1,0 +1,19 @@
+{
+  "url": "https://21st.dev/@arunachalam/components/bottom-nav-bar",
+  "author": "arunachalam",
+  "slug": "bottom-nav-bar",
+  "name": "bottom-nav-bar",
+  "description": "A highly animated, touch-friendly mobile/navigation bar component for dashboard or finance applications. Built with Next.js, TypeScript, TailwindCSS v4, and Framer Motion, it delivers a visually appealing pill-style layout with seamless in-out label animation for active tabs. Each tab displays its icon and label only when active, with transition effects fully powered by responsive Tailwind utilities and Framer Motion—no inline styles. The component supports shadcn/ui theming, integrates accessibility best practices, and offers a sticky bottom mode via a single prop (stickyBottom). Designed and coded to meet 21st.dev's UI/UX and code standards, it’s ready for production integration, with dark theme support and easy configuration for icon and label sets.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/arunachalam/bottom-nav-bar?api_key=$API_KEY_21ST\"",
+  "id": "arunachalam__bottom-nav-bar",
+  "bundleUrl": "https://cdn.21st.dev/arunachalam0606/bottom-nav-bar/default/bundle.1759240846021.html",
+  "previewUrl": "https://cdn.21st.dev/arunachalam0606/bottom-nav-bar/default/preview.1759240846020.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ],
+  "usage_count": 159,
+  "demo_id": 8343,
+  "video_url": "https://cdn.21st.dev/arunachalam0606/bottom-nav-bar/default/video.1759240846020.mp4"
+}

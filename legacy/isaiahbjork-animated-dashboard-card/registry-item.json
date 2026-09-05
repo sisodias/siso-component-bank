@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "isaiahbjork-animated-dashboard-card",
+  "type": "registry:ui",
+  "title": "Isaiahbjork Animated Dashboard Card",
+  "description": "Installed from https://21st.dev/r/isaiahbjork/animated-dashboard-card",
+  "source": "21st-dev",
+  "platform": "Mixed",
+  "tags": [
+    "21st-dev",
+    "isaiahbjork-animated-dashboard-card"
+  ],
+  "files": [
+    {
+      "path": "animated-dashboard-card.tsx",
+      "type": "registry:ui"
+    },
+    {
+      "path": "demo.tsx",
+      "type": "registry:example"
+    }
+  ],
+  "dependencies": [
+    "framer-motion"
+  ],
+  "registryDependencies": [],
+  "preview": {
+    "width": 400,
+    "height": 300,
+    "background": "neutral-950",
+    "interactive": false
+  },
+  "_provenance": {
+    "fetchedFrom": "https://21st.dev/r/isaiahbjork/animated-dashboard-card",
+    "fetchedAt": "2026-04-23T01:17:30.718Z",
+    "importMode": "bulk",
+    "importedFromList": "21st-dev-sitemap",
+    "curationTags": []
+  }
+}

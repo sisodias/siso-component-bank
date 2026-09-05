@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@serafimcloud/components/herbarium",
+  "author": "serafimcloud",
+  "slug": "herbarium",
+  "name": "herbarium",
+  "description": "Animated (ripple) ASCII art in the Dither style, made with the 21st.dev ASCII editor and baked to a looping video. Styled with a film, halftone look. A drop-in, zero-dependency React component for hero sections, cards, and retro terminal-style backgrounds.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/serafimcloud/herbarium?api_key=$API_KEY_21ST\"",
+  "id": "serafimcloud__herbarium",
+  "bundleUrl": "https://cdn.21st.dev/serafimcloud/herbarium/default/bundle.1784598699031-3e6ca04f-1fbc-4d93-b589-95d6d70f2a5b.html",
+  "previewUrl": "https://cdn.21st.dev/serafimcloud/herbarium/default/preview.1783763505905.jpg",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

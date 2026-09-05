@@ -1,0 +1,29 @@
+{
+  "category": "media",
+  "subcategory": "Interactive canvas text wave effect",
+  "visual_style": [],
+  "interactions": [
+    "hover-glow",
+    "parallax"
+  ],
+  "best_for_industries": [
+    "creator-tools",
+    "media",
+    "saas"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Hero section animated headline with responsive wave lines that react to cursor proximity",
+    "Interactive text visualization for creative portfolio or media landing pages",
+    "Engaging typography effect for tech product marketing materials",
+    "Dynamic decorative element for digital art or design tool interfaces",
+    "Interactive name plate or signature component for creator platforms"
+  ],
+  "ai_summary": "An interactive canvas-based text effect component that renders wavy horizontal lines responding to mouse movement. The component creates a wave deformation effect around text with 60 animated lines and configurable padding. Features CSS variable theming support with fallback colors, requestAnimationFrame-based smooth animations, and mouse tracking for interactive line displacement. Perfect for creative tool interfaces, media sites, and saas landing pages requiring engaging typography effects.",
+  "_classifiedAt": "2026-04-23T16:46:50.977Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

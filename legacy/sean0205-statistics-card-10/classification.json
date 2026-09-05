@@ -1,0 +1,29 @@
+{
+  "category": "data-display",
+  "subcategory": "avatar-status-indicator",
+  "visual_style": [],
+  "interactions": [
+    "none"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "healthcare",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "atomic",
+  "use_cases": [
+    "Displaying user avatars with online/offline/busy/away status indicators in dashboards",
+    "Team member lists showing availability status",
+    "User profile cards with real-time presence indicators",
+    "Chat or messaging interfaces displaying contact status",
+    "Comment sections showing user avatars with presence indicators"
+  ],
+  "ai_summary": "A reusable avatar component system built with Radix UI primitives and class-variance-authority. Features multiple sub-components (Avatar, AvatarImage, AvatarFallback, AvatarIndicator, AvatarStatus) with status variants including online, offline, busy, and away states. Uses Tailwind CSS for styling with a flat, minimal aesthetic suitable for SaaS dashboards and social platforms.",
+  "_classifiedAt": "2026-04-23T17:24:05.769Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

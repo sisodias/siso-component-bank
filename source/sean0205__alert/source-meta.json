@@ -1,0 +1,26 @@
+{
+  "id": "sean0205__alert",
+  "author": "sean0205",
+  "slug": "alert",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@sean0205/components/alert",
+  "fetchedAt": "2026-08-29T06:56:21.913Z",
+  "completedAt": "2026-08-29T06:56:24.294Z",
+  "versionedFilename": "code.1748399906866.tsx",
+  "codeReference": "r2://components-code-private/sean0205/alert/code.1748399906866.tsx",
+  "codeUrl": "https://cdn.21st.dev/sean0205/alert/code.1748399906866.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 9502,
+  "sha256": "2d5d8ab281ff80c82dff9fccaf24bc8cedb7ccb36ee581da959f637f8fc02de5",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

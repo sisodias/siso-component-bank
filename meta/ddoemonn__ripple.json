@@ -1,0 +1,16 @@
+{
+  "url": "https://21st.dev/@ddoemonn/components/ripple",
+  "author": "ddoemonn",
+  "slug": "ripple",
+  "name": "ripple",
+  "description": "A button that emits a Material-style press ripple from the exact pointer or keyboard point, with a headless useRipple hook handling pointer capture, release timing and reduced-motion.",
+  "installCommand": "npx shadcn@latest add \"https://21st.dev/r/ddoemonn/ripple?api_key=$API_KEY_21ST\"",
+  "id": "ddoemonn__ripple",
+  "bundleUrl": "https://cdn.21st.dev/ddoemonn/ripple/default/bundle.1785477916466-5b854430-feaa-4688-9338-394489854037.html",
+  "previewUrl": "https://cdn.21st.dev/ddoemonn/ripple/default/preview.1785477916466-5b854430-feaa-4688-9338-394489854037.png",
+  "harvested": [
+    "bundle",
+    "demo.tsx",
+    "preview"
+  ]
+}

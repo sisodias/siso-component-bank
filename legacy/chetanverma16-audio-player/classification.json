@@ -1,0 +1,32 @@
+{
+  "category": "media",
+  "subcategory": "audio-player",
+  "visual_style": [
+    "dark",
+    "gradient",
+    "minimalist"
+  ],
+  "interactions": [
+    "hover-glow"
+  ],
+  "best_for_industries": [
+    "media",
+    "creator-tools",
+    "education"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Music streaming applications with playback controls and progress tracking",
+    "Podcast players with shuffle and repeat functionality",
+    "Audio-based course players for educational platforms",
+    "Voice memo applications with visual feedback",
+    "Background audio players for content creator websites"
+  ],
+  "ai_summary": "A sleek dark-themed audio player component with gradient accents and interactive controls including play/pause, skip, shuffle, and repeat functionality. Features a custom animated progress slider for seeking, time display, and optional cover art and title display. Built with framer-motion for smooth animations and includes hover effects on control buttons.",
+  "_classifiedAt": "2026-04-23T11:33:39.229Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}

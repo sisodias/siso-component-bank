@@ -1,0 +1,26 @@
+{
+  "id": "easemize__sign-up",
+  "author": "easemize",
+  "slug": "sign-up",
+  "retrievalMethod": "GET component page -> parse r2 code reference -> GET versioned public CDN TSX",
+  "upstreamUrl": "https://21st.dev/@easemize/components/sign-up",
+  "fetchedAt": "2026-08-29T04:39:06.718Z",
+  "completedAt": "2026-08-29T04:39:08.983Z",
+  "versionedFilename": "code.1760182374075.tsx",
+  "codeReference": "r2://components-code-private/easemize/sign-up/code.1760182374075.tsx",
+  "codeUrl": "https://cdn.21st.dev/easemize/sign-up/code.1760182374075.tsx",
+  "httpStatus": {
+    "page": 200,
+    "code": 200
+  },
+  "attempts": {
+    "page": 1,
+    "code": 1
+  },
+  "contentType": "text/plain",
+  "bytes": 40184,
+  "sha256": "7b26641d155664ca50c02c1a7b22e69c9725f8c00a3dd645f36fd91095d445c0",
+  "outcome": "retrieved",
+  "failureClass": null,
+  "error": null
+}

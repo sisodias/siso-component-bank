@@ -1,0 +1,30 @@
+{
+  "category": "overlay",
+  "subcategory": "floating-action-button-menu",
+  "visual_style": [],
+  "interactions": [
+    "morph",
+    "click-reveal"
+  ],
+  "best_for_industries": [
+    "saas",
+    "e-commerce",
+    "fintech",
+    "media"
+  ],
+  "platform_fit": [
+    "desktop",
+    "mobile"
+  ],
+  "complexity": "composite",
+  "use_cases": [
+    "Floating action button that toggles an expandable menu panel with smooth animations",
+    "Quick action launcher for adding items, creating content, or accessing tools in SaaS dashboards",
+    "Expandable menu component for e-commerce apps to trigger cart additions or wishlist actions",
+    "Action trigger for media applications to reveal editing tools or share options",
+    "Contextual menu button for fintech apps to access transaction actions or account settings"
+  ],
+  "ai_summary": "A floating action button (FAB) component that toggles an animated dropdown menu panel. Features a morphing Plus/X icon with smooth Framer Motion transitions, glass-morphism styling with backdrop blur, and spring-based panel animations. Includes proper accessibility attributes (aria-expanded, aria-controls) and accepts custom children for flexible menu content. Perfect for SaaS dashboards and mobile-first applications requiring quick-action triggers.",
+  "_classifiedAt": "2026-04-23T16:28:28.462Z",
+  "_classifierModel": "claude-haiku-4-5-20251001"
+}
