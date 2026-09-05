@@ -23,7 +23,7 @@ node find.mjs card --tag testimonials
 # 2. Read the row, look at its preview, read its source
 jq -c 'select(.id=="ln-dev7__flip-button")' index.jsonl
 open previews/ln-dev7__flip-button.webp
-cat source/ln-dev7__flip-button/code.tsx         # or legacy/ln-dev7-flip-button/*.tsx
+cat legacy/ln-dev7-flip-button/flip-button.tsx   # this one is legacy-only; when the row has "source", read source/<id>/code.tsx
 
 # 3. Or use the hand-picked layer with presets (operator dashboard, models app, landing)
 node curated/query.mjs "login" --preset operator
